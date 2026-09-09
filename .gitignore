@@ -1,0 +1,17 @@
+# 临时文件
+*.pyc
+__pycache__/
+/tmp/
+
+# 构建产物 / 大二进制（成品/差分/EXE 走 GitHub Release，不入库）
+build/
+.hdiff_lib/
+Fallout Shelter/
+.pylibs/
+
+# 参考资料与第三方克隆(不入库)
+对比文件夹/
+
+# 翻译表历史备份(不入库)
+data/steam_cn_full.bak_v510.json
+data/steam_cn_full.bak_v510.tsv
