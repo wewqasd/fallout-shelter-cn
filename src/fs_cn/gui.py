@@ -19,6 +19,7 @@ import queue
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 
+from . import __version__
 from .patcher import patch_bundle
 from .resources import load_default_resources
 from .game_dir import find_game_dir, backup_bundle, restore_bundle
@@ -40,7 +41,7 @@ class App:
         self.status = tk.StringVar(value="就绪")
         self.busy = False
 
-        root.title("辐射避难所 一键汉化")
+        root.title(f"辐射避难所 一键汉化 v{__version__}")
         root.geometry("640x520")
         root.minsize(560, 440)
 
@@ -82,7 +83,7 @@ class App:
             font=("Microsoft YaHei", 9))
         self.hint.pack(fill="x", side="bottom", **pad)
 
-        self.log("辐射避难所 一键汉化工具\n")
+        self.log(f"辐射避难所 一键汉化工具 v{__version__}\n")
         self.auto_find()
 
         self.root.after(80, self._drain)
@@ -247,6 +248,7 @@ def selfcheck(bundle_dir):
     """自检模式（EXE 无头验证用）：验证内嵌资源 + UnityPy + 可选真patch。"""
     import hashlib
     print("== FalloutShelterCN.exe 自检 ==")
+    print(f"版本: {__version__}")
     print(f"frozen={getattr(sys, 'frozen', False)} meipass={getattr(sys, '_MEIPASS', 'N/A')}")
     # 1) 资源
     cn, font = load_default_resources()

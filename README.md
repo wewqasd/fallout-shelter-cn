@@ -1,5 +1,8 @@
 # 辐射避难所（Fallout Shelter）Steam 版中文汉化
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/wewqasd/fallout-shelter-cn)](https://github.com/wewqasd/fallout-shelter-cn/releases)
+
 《辐射避难所》Steam 版（Bethesda，版本 2.6.0，无官方中文）的汉化项目：14064 条文本，
 直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
 
@@ -36,6 +39,12 @@
   无需等待新版发布；新版本新增的文本会保留英文，不会报错。
 - 定位文本用的是游戏文件里的内容锚点，不依赖版本号或游戏进程，
   所以游戏更新后依然能准确找到需要替换的位置。
+
+## 常见问题
+
+- **游戏更新后汉化失效怎么办？** 重新运行 `FalloutShelterCN.exe` 即可——工具对游戏版本自适应，新版本新增的文本会保留英文原文，不会报错。
+- **怎么还原原版？** EXE 版：汉化前自动备份 `data.unity3d.bak.v5`，点「一键还原」即可；覆盖版：覆盖前请自行备份原文件。
+- **如何确认下载的文件完整？** 用 Release 页面提供的 md5 校验；EXE 可运行 `FalloutShelterCN.exe --selfcheck` 做无头自检。
 
 ## 来源声明与免责声明
 

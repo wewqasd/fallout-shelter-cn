@@ -6,4 +6,4 @@
     game_dir   游戏目录定位 / 备份 / 还原
     gui        一键汉化 GUI（EXE 主程序）
 """
-__version__ = "5.13"
+__version__ = "5.13.1"

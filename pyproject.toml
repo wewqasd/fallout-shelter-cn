@@ -1,15 +1,28 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "fs-cn"
-version = "5.13"
+version = "5.13.1"
 description = "《辐射避难所》Steam 版中文汉化（源码构建版）"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = "MIT"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Win32 (MS Windows)",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Games/Entertainment",
+    "Topic :: Utilities",
+]
 dependencies = ["unitypy==1.25.3"]
+
+[project.urls]
+Repository = "https://github.com/wewqasd/fallout-shelter-cn"
+Issues = "https://github.com/wewqasd/fallout-shelter-cn/issues"
 
 [project.scripts]
 fs-cn-gui = "fs_cn.gui:main"

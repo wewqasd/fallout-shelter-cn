@@ -8,6 +8,8 @@ build/
 .hdiff_lib/
 Fallout Shelter/
 .pylibs/
+# PyInstaller 输出目录（Windows 打包产物走 Release）
+dist/
 
 # 参考资料与第三方克隆(不入库)
 对比文件夹/
