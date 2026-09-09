@@ -55,7 +55,7 @@
 ## 目录结构
 
 ```
-├── data/          # 翻译表 steam_cn_full.json/.tsv（14064 键）+ EN 参考
+├── data/          # 翻译表 steam_cn_full.json/.tsv（14064 键）+ 中英对照 steam_cn_en_zh.tsv + EN 参考
 ├── scripts/       # 核心：patch_core（手术核心）/ game_dir（定位/备份）/ 提取与字体构建
 ├── tools/         # EXE 打包：GUI 主程序 / build_exe.spec / build_exe.bat
 ├── assets/        # 中文字体 cjk_font_v6_pua.ttf（OFL 许可 + FONT.md 说明）+ 图标
