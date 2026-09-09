@@ -58,7 +58,7 @@
 ├── data/          # 翻译表 steam_cn_full.json/.tsv（14064 键）+ EN 参考
 ├── scripts/       # 核心：patch_core（手术核心）/ game_dir（定位/备份）/ 提取与字体构建
 ├── tools/         # EXE 打包：GUI 主程序 / build_exe.spec / build_exe.bat
-├── assets/        # 中文字体 cjk_font_v6_pua.ttf（OFL）+ 图标
+├── assets/        # 中文字体 cjk_font_v6_pua.ttf（OFL 许可 + FONT.md 说明）+ 图标
 ├── docs/          # 技术手册（解包/字体/压缩/打包原理）
 └── requirements.txt
 ```
