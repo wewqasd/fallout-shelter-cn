@@ -535,7 +535,7 @@ def load_default_resources():
     with open(os.path.join(root, "data", "steam_cn_full.json"), encoding='utf-8') as f:
         cn = json.load(f)
     try:
-        with open(os.path.join(root, "data", "new_version_terms_full.json"), encoding='utf-8') as f:
+        with open(os.path.join(root, "data", "i2_terms_full.json"), encoding='utf-8') as f:
             en_all = json.load(f)
         global en_lookup
         en_lookup = {k: v[0] for k, v in en_all.items()}

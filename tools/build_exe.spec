@@ -4,7 +4,7 @@
 
 内嵌资源（resource_base() 从 _MEIPASS 读取，均须存在）：
   data/steam_cn_full.json   翻译表 (14064 键)
-  data/new_version_terms_full.json  EN 源（供结构校验）
+  data/i2_terms_full.json  EN 源（供结构校验）
   assets/cjk_font_v6_pua.ttf  中文字体 (OFL，可再分发)
 """
 import os
@@ -15,7 +15,7 @@ _ROOT = os.path.abspath(os.path.join(SPECPATH, ".."))
 # 资源目录，按 (源路径, "目标子目录") 打到 _MEIPASS 下
 datas = [
     (os.path.join(_ROOT, "data", "steam_cn_full.json"), "data"),
-    (os.path.join(_ROOT, "data", "new_version_terms_full.json"), "data"),
+    (os.path.join(_ROOT, "data", "i2_terms_full.json"), "data"),
     (os.path.join(_ROOT, "assets", "cjk_font_v6_pua.ttf"), "assets"),
 ]
 
