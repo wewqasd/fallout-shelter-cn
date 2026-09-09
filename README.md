@@ -3,6 +3,17 @@
 《辐射避难所》Steam 版（Bethesda，版本 2.6.0，无官方中文）的汉化项目：14064 条文本，
 直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
 
+## 两种安装方式
+
+### ① 成品 data.unity3d（直接覆盖）
+- 从 Release 下载 `data.unity3d`
+- 关闭游戏 → 复制到 `游戏目录\FalloutShelter_Data\` 覆盖（**先备份原版**）→ 启动
+
+### ② FalloutShelterCN.exe（一键汉化，零依赖）
+- 从 Release 下载 `FalloutShelterCN.exe`（不需要安装 Python）
+- 双击 → 自动定位游戏目录（找不到则提示选择 Fallout Shelter 文件夹）→ 一键汉化
+- 汉化前自动备份 `data.unity3d → data.unity3d.bak.v5`；「一键还原」随时恢复原版
+
 ## 项目说明
 
 本项目整体为 **vibe coding（AI 辅助编程）产物**：汉化工具代码、翻译文本与审校
@@ -18,17 +29,6 @@
   GLM 5.3 Flash、Gemini 3.7 Flash）批量翻译、审校与一致性检查，并做了多轮
   术语/一致性批量修订；作者在游戏内实际游玩验证过汉化效果。
   非完全人工逐条审校，如有疏漏欢迎反馈。
-
-## 两种安装方式
-
-### ① 成品 data.unity3d（直接覆盖）
-- 从 Release 下载 `data.unity3d`
-- 关闭游戏 → 复制到 `游戏目录\FalloutShelter_Data\` 覆盖（**先备份原版**）→ 启动
-
-### ② FalloutShelterCN.exe（一键汉化，零依赖）
-- 从 Release 下载 `FalloutShelterCN.exe`（不需要安装 Python）
-- 双击 → 自动定位游戏目录（找不到则提示选择 Fallout Shelter 文件夹）→ 一键汉化
-- 汉化前自动备份 `data.unity3d → data.unity3d.bak.v5`；「一键还原」随时恢复原版
 
 ## 版本自适应机制
 
