@@ -1,7 +1,0 @@
-# 构建/打包依赖（Python 3.11+）
-# 玩家使用 EXE 无需任何依赖；以下仅构建者需要。
-unitypy==1.25.3
-# 打包 EXE（Windows 侧）:
-#   py -3.12 -m pip install pyinstaller
-# 字体构建（可选）:
-#   fonttools

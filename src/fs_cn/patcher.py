@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""patch_core.py — 版本自适应汉化手术核心（路线 A/B 共用）。
+"""patcher.py — 版本自适应汉化手术核心（fs_cn 包）。
 
-从 write_back_v5_1.py 提炼并增强：
+设计（三层）：
   1) 定位层（pid 无关）：I2 内容锚点 / FontManager MonoScript 类名 / 静态标签内容
   2) 写回层（term 匹配 + 缺省回退）：
        - 表有、包无（旧 term 被删）→ allow_unmatched=False 中止，True 跳过并汇报
@@ -11,7 +11,7 @@
   4) 输出：LZ4 压缩写回（默认）或 none（兜底）
 
 用法（API）:
-    from patch_core import patch_bundle
+    from fs_cn.patcher import patch_bundle
     result = patch_bundle(
         src=".../data.unity3d", out=".../data.unity3d",
         translations={term: zh, ...}, font_bytes=b"...",
@@ -24,6 +24,7 @@
 import UnityPy, struct, json, os, sys, shutil, hashlib, re, ntpath
 from datetime import datetime
 from collections import defaultdict, Counter
+from . import resources
 
 # 多锚点：主锚点 + 备选（版本更新若删/改主锚点 term，逐个尝试）
 ANCHORS = [
@@ -340,9 +341,9 @@ def patch_bundle(src, out, translations, font_bytes=None,
             log(f"前置校验通过（{len(translations)} 条译文结构完全一致，无警告）")
         # 版本情报：包内 EN vs 基准 EN（notes）差异 → 游戏可能已更新
         en_changed = []
-        if en_lookup:
+        if resources.en_lookup:
             en_changed = [k for k, en in pkg_en.items()
-                          if k in en_lookup and en_lookup[k] != en]
+                          if k in resources.en_lookup and resources.en_lookup[k] != en]
             if en_changed:
                 log(f"版本情报: {len(en_changed)} 个 term 的英文原文与基准不同（游戏可能已更新）: "
                     + ", ".join(en_changed[:5]) + (" …" if len(en_changed) > 5 else ""))
@@ -517,53 +518,3 @@ def patch_bundle(src, out, translations, font_bytes=None,
                + (f"，EN变化 {len(en_changed)} 条" if en_changed else ""),
     })
     return result
-
-
-# 供前置校验使用的 EN 查询表（默认从 notes 加载；也可外部注入）
-en_lookup = {}
-
-def resource_base():
-    """PyInstaller 冻结时返回 _MEIPASS，源码运行时返回仓库根（data/assets 的父级）。"""
-    if getattr(sys, "frozen", False):          # EXE 内
-        return getattr(sys, "_MEIPASS", os.path.dirname(sys.executable))
-    here = os.path.dirname(os.path.abspath(__file__))
-    return os.path.abspath(os.path.join(here, ".."))   # 仓库根
-
-def load_default_resources():
-    """加载翻译表 + EN 源 + 字体字节；供 CLI/GUI 复用。源码/EXE 通用。"""
-    root = resource_base()
-    with open(os.path.join(root, "data", "steam_cn_full.json"), encoding='utf-8') as f:
-        cn = json.load(f)
-    try:
-        with open(os.path.join(root, "data", "i2_terms_full.json"), encoding='utf-8') as f:
-            en_all = json.load(f)
-        global en_lookup
-        en_lookup = {k: v[0] for k, v in en_all.items()}
-    except Exception:
-        en_lookup = {}
-    with open(os.path.join(root, "assets", "cjk_font_v6_pua.ttf"), 'rb') as f:
-        font = f.read()
-    return cn, font
-
-
-# ---------------- CLI 入口 ----------------
-if __name__ == "__main__":
-    import argparse
-    ap = argparse.ArgumentParser(description="patch_core — 版本自适应汉化手术")
-    ap.add_argument("--src", required=True, help="原版 data.unity3d 路径")
-    ap.add_argument("--out", required=True, help="输出汉化 data.unity3d 路径")
-    ap.add_argument("--allow-unmatched", action="store_true", help="表有包无的 term 跳过而非中止")
-    ap.add_argument("--skip-validate", action="store_true", help="跳过前置结构校验")
-    ap.add_argument("--packer", default="lz4", choices=["lz4", "none", "original"])
-    args = ap.parse_args()
-
-    cn, font = load_default_resources()
-    try:
-        r = patch_bundle(args.src, args.out, cn, font,
-                         allow_unmatched=args.allow_unmatched,
-                         validate=not args.skip_validate,
-                         packer=args.packer)
-        print("\nRESULT:", r)
-    except Exception as e:
-        print(f"\n错误: {e}")
-        raise SystemExit(1)

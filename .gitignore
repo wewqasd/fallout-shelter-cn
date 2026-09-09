@@ -13,5 +13,5 @@ Fallout Shelter/
 对比文件夹/
 
 # 翻译表历史备份(不入库)
-data/steam_cn_full.bak_v510.json
-data/steam_cn_full.bak_v510.tsv
+data/*.bak*
+data/*.bak*/

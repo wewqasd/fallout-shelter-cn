@@ -43,11 +43,11 @@
   **无任何关联**，未获其认可或赞助；游戏名称、商标与素材版权归原版权方所有。
   翻译文本的来源构成见上文「译文来源与审校说明」。
 - 本项目的汉化文本与工具仅供学习交流，游戏本体请通过 Steam 等正规渠道购买正版。
-- 字体 `cjk_font_v6_pua.ttf` 基于 Noto Sans SC（SIL OFL 1.1）构建，可自由再分发。
+- 字体 `assets/noto_sans_sc_cn.ttf` 基于 Noto Sans SC（SIL OFL 1.1）构建，可自由再分发。
 
 ## License
 
-- 代码（scripts/ tools/）：**MIT**（见 LICENSE）
+- 代码（src/ scripts/ tools/）：**MIT**（见 LICENSE）
 - 翻译表（data/）：**学习交流授权**——个人学习/研究可自由使用；非商用再分发须注明来源与本声明；禁止商用
 - 字体（assets/）：**SIL OFL 1.1**（见 assets/OFL.txt）
 - 翻译表中官方中文部分版权归原版权方所有，本仓库不对其主张权利
@@ -55,21 +55,23 @@
 ## 目录结构
 
 ```
-├── data/          # 翻译表 steam_cn_full.json/.tsv + 中英对照 steam_cn_en_zh.tsv + I2 全量 i2_terms_full.json（EN 参考）
-├── scripts/       # 核心：patch_core（手术核心）/ game_dir（定位/备份）/ 提取与字体构建
-├── tools/         # EXE 打包：GUI 主程序 / build_exe.spec / build_exe.bat
-├── assets/        # 中文字体 cjk_font_v6_pua.ttf（OFL 许可 + FONT.md 说明）+ 图标
-├── docs/          # 技术手册（解包/字体/压缩/打包原理）
-└── requirements.txt
+├── src/fs_cn/      # 运行时包：patcher（手术核心）/ resources（资源加载）/ game_dir / gui / cli
+├── scripts/        # 开发工具：extract_i2（提取）/ build_font（字体构建）/ make_pairs（对照生成）
+├── tools/          # EXE 打包：build_exe.spec / build_exe.bat
+├── data/           # translations.json/.tsv（翻译表）+ en_zh_pairs.tsv（中英对照）+ i2_dump.json（EN 参考）
+├── assets/         # 中文字体 noto_sans_sc_cn.ttf（OFL + FONT.md 说明）+ 图标
+├── docs/           # technical.md（解包/字体/压缩/打包原理）
+└── pyproject.toml  # 包定义与依赖（unitypy==1.25.3）
 ```
 
 ## 构建
 
 ### 构建汉化 data.unity3d（Linux/Windows 均可）
 ```bash
-pip install -r requirements.txt
-python scripts/patch_core.py --src "<游戏目录>/FalloutShelter_Data/data.unity3d" \
+pip install -e .    # 安装 fs_cn 包（含依赖 unitypy==1.25.3）
+fs-cn-patch --src "<游戏目录>/FalloutShelter_Data/data.unity3d" \
     --out build/data.unity3d
+# 等价: python -m fs_cn.cli --src ... --out ...
 ```
 
 ### 打包 EXE（Windows 侧，需 Python 3.12）

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """从 data.unity3d 提取 I2 LanguageSource 全量转储（key → 6 语言列表），
-与 write_back_v5_1.py 的 parse_terms 同逻辑，输出 data/i2_terms_full.json 同格式。
+与 fs_cn.patcher 的 parse_terms 同逻辑，输出 data/i2_dump.json 同格式。
 
-用法: python scripts/extract_i2_full.py <data.unity3d> <out.json>
+用法: python scripts/extract_i2.py <data.unity3d> <out.json>
 """
 import UnityPy, struct, json, sys, os
 
@@ -67,7 +67,7 @@ def parse_terms(raw):
 
 def main():
     src = sys.argv[1] if len(sys.argv) > 1 else os.path.join(_ROOT, "Fallout Shelter", "FalloutShelter_Data", "data.unity3d")
-    out = sys.argv[2] if len(sys.argv) > 2 else os.path.join(_ROOT, "data", "i2_terms_full.json")
+    out = sys.argv[2] if len(sys.argv) > 2 else os.path.join(_ROOT, "data", "i2_dump.json")
     env = UnityPy.load(src)
     best = None
     for o in env.objects:

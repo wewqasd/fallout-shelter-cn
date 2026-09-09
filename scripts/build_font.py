@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""构建 cjk_font_v6_pua.ttf（PUA 手柄按键图标版）:
+"""构建 noto_sans_sc_cn.ttf（PUA 手柄按键图标版）:
 - 基底 build/cjk_font_v5_official.ttf（国服官方思源黑体 Noto Sans SC，upem 1000，TrueType glyf）
 - 新增 16 个 PUA 字形 E000-E00F（对应 ReplaceButtonImages 的 16 个标记 [A]~[DD]）:
     E000=[A] E001=[B] E002=[X] E003=[Y] E004=[LT] E005=[RT] E006=[LB] E007=[RB]
@@ -20,7 +20,7 @@ from fontTools.pens.boundsPen import BoundsPen
 
 BASE = os.path.join(_ROOT, "assets", "cjk_font_v5_official.ttf")   # 基底字体（已归档，需自行准备）
 DEJAVU = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-OUT = os.path.join(_ROOT, "assets", "cjk_font_v6_pua.ttf")
+OUT = os.path.join(_ROOT, "assets", "noto_sans_sc_cn.ttf")
 
 UPEM = 1000
 KQ = 0.9142                      # 二次贝塞尔圆弧常数（v4 已真机验证）

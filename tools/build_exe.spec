@@ -1,11 +1,13 @@
 # -*- mode: python ; coding: utf-8 -*-
-"""build_exe.spec — PyInstaller 打包 FalloutShelterCN.exe（路线 A，零依赖单文件）。
-置于仓库根；PyInstaller 从仓库根运行（python -m PyInstaller tools/build_exe.spec）。
+"""build_exe.spec — PyInstaller 打包 FalloutShelterCN.exe（零依赖单文件）。
+置于 tools/；从仓库根运行（python -m PyInstaller --noconfirm --clean tools/build_exe.spec），
+SPECPATH 相对路径保证任意 cwd 可打包。
 
-内嵌资源（resource_base() 从 _MEIPASS 读取，均须存在）：
-  data/steam_cn_full.json   翻译表 (14064 键)
-  data/i2_terms_full.json  EN 源（供结构校验）
-  assets/cjk_font_v6_pua.ttf  中文字体 (OFL，可再分发)
+入口与内嵌资源（resource_base() 从 _MEIPASS 读取，均须存在）：
+  入口   src/fs_cn/gui.py   （fs_cn 包，含 patcher/resources/game_dir）
+  data/translations.json    翻译表 (14064 键)
+  data/i2_dump.json         I2 全量 dump / EN 源（供结构校验）
+  assets/noto_sans_sc_cn.ttf  中文字体 (OFL，可再分发)
 """
 import os
 
@@ -14,9 +16,9 @@ _ROOT = os.path.abspath(os.path.join(SPECPATH, ".."))
 
 # 资源目录，按 (源路径, "目标子目录") 打到 _MEIPASS 下
 datas = [
-    (os.path.join(_ROOT, "data", "steam_cn_full.json"), "data"),
-    (os.path.join(_ROOT, "data", "i2_terms_full.json"), "data"),
-    (os.path.join(_ROOT, "assets", "cjk_font_v6_pua.ttf"), "assets"),
+    (os.path.join(_ROOT, "data", "translations.json"), "data"),
+    (os.path.join(_ROOT, "data", "i2_dump.json"), "data"),
+    (os.path.join(_ROOT, "assets", "noto_sans_sc_cn.ttf"), "assets"),
 ]
 
 # UnityPy 需要的隐式导入 + Boost pyd 一并收集
@@ -41,8 +43,8 @@ if _upy_pkg:
             datas.append((_f, "UnityPy/resources"))
 
 a = Analysis(
-    [os.path.join(SPECPATH, "falloutshelter_cn_gui.py")],
-    pathex=[os.path.join(_ROOT, "scripts"), SPECPATH],
+    [os.path.join(_ROOT, "src", "fs_cn", "gui.py")],
+    pathex=[os.path.join(_ROOT, "src"), SPECPATH],
     binaries=[],
     datas=datas,
     hiddenimports=hiddenimports,

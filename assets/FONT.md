@@ -1,4 +1,4 @@
-# 中文字体说明（cjk_font_v6_pua.ttf）
+# 中文字体说明（noto_sans_sc_cn.ttf）
 
 ## 这是什么
 
@@ -20,5 +20,5 @@ SIL Open Font License 1.1 —— 详情见本目录 `OFL.txt`。
 
 ## 重建
 
-构建脚本：`scripts/build_font_v6_pua.py`（需准备 OFL 思源黑体基底 + DejaVuSans）；
-字体原理详见 `docs/技术手册.md` 第 3 章。
+构建脚本：`scripts/build_font.py`（需准备 OFL 思源黑体基底 + DejaVuSans）；
+字体原理详见 `docs/technical.md` 第 3 章。

@@ -3,8 +3,8 @@
 > 本文档说明本汉化项目的工作原理，覆盖：**解包与数据提取、中文字体构建与注入、
 > 翻译写回、资源压缩与打包**。面向想了解实现细节或复现构建流程的开发者。
 >
-> 相关文件：`scripts/patch_core.py`（手术核心）、`scripts/extract_i2_full.py`（提取）、
-> `scripts/build_font_v6_pua.py`（字体构建）、`tools/build_exe.spec`（EXE 打包）。
+> 相关文件：`src/fs_cn/patcher.py`（手术核心）、`scripts/extract_i2.py`（提取）、
+> `scripts/build_font.py`（字体构建）、`tools/build_exe.spec`（EXE 打包）。
 
 ---
 
@@ -12,7 +12,7 @@
 
 - 游戏的文本、字体、界面组件全部打包在单个 **UnityFS bundle** `data.unity3d`（481 MB，LZ4 压缩）里。
 - 汉化的思路是**直接改写这个文件**：定位文本对象 → 替换为中文 → 原样 LZ4 存回，不依赖运行时 hook。
-- 解析工具是 **UnityPy 1.25.3**（`requirements.txt` 已固定版本，Windows 侧另有 cp312 wheel）。
+- 解析工具是 **UnityPy 1.25.3**（`pyproject.toml` 已固定版本，Windows 侧另有 cp312 wheel）。
 
 ## 2. 解包与数据提取
 
@@ -65,13 +65,13 @@ objs = list(env.objects)          # 全部对象（MonoBehaviour / Font / MonoSc
 ### 2.5 提取脚本用法
 
 ```bash
-python scripts/extract_i2_full.py <data.unity3d> <out.json>
-# 输出 {key: [6 语言值]}，即 data/i2_terms_full.json（EN 源，基准参照）
+python scripts/extract_i2.py <data.unity3d> <out.json>
+# 输出 {key: [6 语言值]}，即 data/i2_dump.json（EN 源，基准参照）
 ```
 
-- `data/steam_cn_full.json`：**权威翻译表** {key: 中文}（14064 键），
-  `patch_core` 写回时使用；`.tsv` 为同内容编辑用表格（两者必须保持同步）。
-- `data/i2_terms_full.json`：I2 全量 dump（EN+5 语言，索引 0 = EN），
+- `data/translations.json`：**权威翻译表** {key: 中文}（14064 键），
+  `fs_cn.patcher` 写回时使用；`.tsv` 为同内容编辑用表格（两者必须保持同步）。
+- `data/i2_dump.json`：I2 全量 dump（EN+5 语言，索引 0 = EN），
   用于前置校验的 EN 基准与"包内 EN 是否变化"的版本情报比对。
 
 ## 3. 中文字体：构建、压缩与注入
@@ -80,7 +80,7 @@ python scripts/extract_i2_full.py <data.unity3d> <out.json>
 
 - 基底是**国服官方思源黑体（Noto Sans SC，SIL OFL 1.1，允许自由再分发）**，
   已做字形子集化与优化（覆盖简体常用字 + 游戏文本用字），成品
-  `assets/cjk_font_v6_pua.ttf` 10.6 MB（upem 1000，TrueType glyf）。
+  `assets/noto_sans_sc_cn.ttf` 10.6 MB（upem 1000，TrueType glyf）。
 - **子集化基底不在本仓库**（约 6 MB 的 `cjk_font_v5_official.ttf` 已归档）；
   公开复现需自行准备 OFL 思源黑体基底，或直接使用 Release 附带的成品字体。
 
@@ -108,9 +108,9 @@ python scripts/extract_i2_full.py <data.unity3d> <out.json>
 ### 3.3 构建脚本
 
 ```bash
-PYTHONPATH=.pylibs python scripts/build_font_v6_pua.py
+PYTHONPATH=.pylibs python scripts/build_font.py
 # 需要: assets/cjk_font_v5_official.ttf（基底，已归档）+ 系统 DejaVuSans.ttf
-# 产出: assets/cjk_font_v6_pua.ttf（含自带验证：16 个 PUA cmap 齐全、FF00-FF0F 字形与基底一致）
+# 产出: assets/noto_sans_sc_cn.ttf（含自带验证：16 个 PUA cmap 齐全、FF00-FF0F 字形与基底一致）
 ```
 
 脚本用 fontTools 在基底 glyph 表上追加 `uniE000..uniE00F`，cmap 挂 (3,1)/(3,10) 两个子表，
@@ -156,7 +156,7 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
 
 ## 4. 翻译写回与前置校验
 
-### 4.1 写回逻辑（patch_core.patch_bundle）
+### 4.1 写回逻辑（fs_cn.patcher.patch_bundle）
 
 | 情形 | 行为 |
 |---|---|
@@ -176,7 +176,7 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
   - 换行段数不同（翻译时有意合并/拆分）；
   - 按键标记：EN 的 `[A]~[DD]` 在译文中应被 PUA 字形替代或删去，否则警告；
   - 括号 token 差异（如 `[Content line 2]` → `[内容线2]`）。
-- **版本情报**：包内 EN 与基准 `i2_terms_full.json` 有差异的 term 数 → `en_changed`
+- **版本情报**：包内 EN 与基准 `i2_dump.json` 有差异的 term 数 → `en_changed`
   汇报（游戏可能已更新）。校验基于**包内实际 EN**，所以版本更新后依然准确。
 
 ## 5. 其他手术
@@ -198,7 +198,7 @@ env.save("lz4", outdir)    # 或 "none" 兜底（防 MemoryError）
 
 ## 7. EXE 一键汉化（PyInstaller 打包）
 
-- 入口：`tools/falloutshelter_cn_gui.py`（GUI，含 `--selfcheck` 无头自检）；
+- 入口：`src/fs_cn/gui.py`（GUI，含 `--selfcheck` 无头自检）；
   spec：`tools/build_exe.spec`（SPECPATH 相对路径，任意 cwd 可打包）。
 - **内嵌资源**：翻译表 + EN 源 + 字体 + UnityPy（含 Boost pyd 与 `resources/lzma.tpk`，
   tpk 需在 spec 里手动加 datas）。

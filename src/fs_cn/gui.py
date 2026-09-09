@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""falloutshelter_cn_gui.py — 辐射避难所 一键汉化 简易 GUI（路线 A，EXE 主程序）。
+"""gui.py — 辐射避难所 一键汉化 GUI（EXE 主程序，fs_cn 包）。
 
 功能：
   1) 自动定位游戏目录（game_dir 的多源扫描）；找不到则让玩家浏览选择
@@ -9,8 +9,7 @@
   4) 「一键还原」：从 .bak.v5 还原原版
   5) 内置自检汇报：写入条数 / 缺译保留原文 / 警告 / 字体 / 残留
 
-打包：PyInstaller --onefile --add-data "<repo>/data;data" --add-data "<repo>/assets;assets" \
-     tools/falloutshelter_cn_gui.py（用 tools/build_exe.spec）
+入口：源码 python -m fs_cn.gui；EXE 由 tools/build_exe.spec 打包。
 （仅 Windows/Tk 用；纯 stdlib，无额外依赖。）
 """
 import os
@@ -20,13 +19,9 @@ import queue
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 
-# ---- 保证能 import scripts/ 下的 core ----
-_SCRIPTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scripts")
-if _SCRIPTS not in sys.path:
-    sys.path.insert(0, _SCRIPTS)
-
-from patch_core import patch_bundle, load_default_resources
-from game_dir import find_game_dir, backup_bundle, restore_bundle
+from .patcher import patch_bundle
+from .resources import load_default_resources
+from .game_dir import find_game_dir, backup_bundle, restore_bundle
 
 
 class App:

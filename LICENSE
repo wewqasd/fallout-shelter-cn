@@ -25,9 +25,9 @@ SOFTWARE.
 本仓库各部分授权：
 
 - 代码（scripts/ tools/ 及构建脚本）：MIT License（如上）
-- 翻译表（data/steam_cn_full.json/.tsv）：学习交流授权——个人学习/研究可自由使用；
+- 翻译表（data/translations.json/.tsv）：学习交流授权——个人学习/研究可自由使用；
   非商用再分发须注明来源与本声明；禁止商用（官方中文部分版权归原版权方所有）
-- 字体（assets/cjk_font_v6_pua.ttf）：SIL Open Font License 1.1（见 assets/OFL.txt）
+- 字体（assets/noto_sans_sc_cn.ttf）：SIL Open Font License 1.1（见 assets/OFL.txt）
 - 文档（docs/ README.md）：CC0 1.0
 
 来源声明：翻译文本约 85% 基于盛大代理《辐射避难所》安卓版官方中文
