@@ -217,6 +217,12 @@ env.save("lz4", outdir)    # 或 "none" 兜底（防 MemoryError）
   tpk 需在 spec 里手动加 datas）。
 - 用户动作：双击 → 自动定位游戏目录（Steam libraryfolders.vdf / 注册表 / 常见路径）
   → 备份 `data.unity3d → data.unity3d.bak.v5` → 汉化；「一键还原」随时恢复。
+- **内存与退出**：汉化期间峰值内存 1.5–2.5GB 属正常（481MB 原版解压 + 对象树）；
+  完成后进程内 `del` + `gc.collect()` 回收。GUI 所有出口（关窗 / selfcheck /
+  mainloop 结束）均 `os._exit(0)` 强制结束进程——tkinter + PyInstaller windowed
+  下若不强制退出，Tcl/Tk 资源会使解释器挂起（任务管理器残留、内存不归还）。
+  窗口关闭拦截（WM_DELETE_WINDOW）：汉化进行中先确认再强退（中断产物可能不完整，
+  有 .bak.v5 兜底还原）。
 - 打包（Windows 侧，Python 3.12）：
   ```bat
   py -3.12 -m pip install unitypy==1.25.3 pyinstaller

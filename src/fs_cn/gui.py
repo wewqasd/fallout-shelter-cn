@@ -86,8 +86,28 @@ class App:
         self.auto_find()
 
         self.root.after(80, self._drain)
+        # 拦截窗口关闭：汉化进行中先确认，然后强制结束进程
+        self.root.protocol("WM_DELETE_WINDOW", self._on_close)
 
     # ---------------- UI 辅助 ----------------
+    def _on_close(self):
+        """窗口 X 关闭：汉化中先确认；随后 destroy + 强制退出进程。
+
+        为什么强制退出：tkinter + PyInstaller windowed 下 mainloop 返回后
+        Tcl/Tk 资源与后台线程可能让解释器挂起不退出（任务管理器残留、
+        2GB 内存不释放）。os._exit 绕过清理直接结束进程，内存全部归还 OS。
+        """
+        if self.busy and not messagebox.askyesno(
+                "汉化进行中", "汉化仍在进行，确定现在退出？\n"
+                "（中断的汉化可能不完整，原版备份 data.unity3d.bak.v5 可一键还原）",
+                parent=self.root):
+            return
+        try:
+            self.root.destroy()
+        except Exception:
+            pass
+        os._exit(0)
+
     def log(self, msg):
         self.txt.configure(state="normal")
         self.txt.insert("end", msg + "\n")
@@ -181,6 +201,13 @@ class App:
         if result.get("warnings"):
             self.q.put(f"自适应警告 {result['warnings']} 条（换行/按键标记，不影响使用）")
         self.q.put("现在可从 Steam 启动游戏。启动失败/想还原 → 点「一键还原」。")
+        # 释放汉化期间的占用（UnityPy 对象树等），减少关闭前的驻留内存
+        try:
+            import gc
+            del cn, font
+            gc.collect()
+        except Exception:
+            pass
 
     def do_restore(self):
         if self.busy: return
@@ -209,10 +236,11 @@ def main():
     a, rest = ap.parse_known_args()
     if a.selfcheck is not None:
         selfcheck(a.selfcheck)
-        return
+        os._exit(0)          # selfcheck 后强制退出（防 windowed 残留）
     root = tk.Tk()
     App(root)
     root.mainloop()
+    os._exit(0)              # 任一出口都强制结束进程，内存归还 OS
 
 
 def selfcheck(bundle_dir):
