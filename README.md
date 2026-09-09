@@ -55,7 +55,7 @@
 ## 目录结构
 
 ```
-├── src/fs_cn/      # 运行时包：patcher（手术核心）/ resources（资源加载）/ game_dir / gui / cli
+├── src/fs_cn/      # 运行时包：patcher（手术核心）/ resources（资源加载）/ game_dir / gui
 ├── scripts/        # 开发工具：extract_i2（提取）/ build_font（字体构建）/ make_pairs（对照生成）
 ├── tools/          # EXE 打包：build_exe.spec / build_exe.bat
 ├── data/           # translations.json/.tsv（翻译表）+ en_zh_pairs.tsv（中英对照）+ i2_dump.json（EN 参考）
@@ -67,11 +67,16 @@
 ## 构建
 
 ### 构建汉化 data.unity3d（Linux/Windows 均可）
-```bash
+```python
 pip install -e .    # 安装 fs_cn 包（含依赖 unitypy==1.25.3）
-fs-cn-patch --src "<游戏目录>/FalloutShelter_Data/data.unity3d" \
-    --out build/data.unity3d
-# 等价: python -m fs_cn.cli --src ... --out ...
+
+from fs_cn import patcher, resources
+cn, font = resources.load_default_resources()
+patcher.patch_bundle(
+    src="<游戏目录>/FalloutShelter_Data/data.unity3d",
+    out="build/data.unity3d",
+    translations=cn, font_bytes=font,
+)
 ```
 
 ### 打包 EXE（Windows 侧，需 Python 3.12）
