@@ -66,7 +66,7 @@ def parse_terms(raw):
     return terms, LC, pos
 
 def main():
-    src = sys.argv[1] if len(sys.argv) > 1 else os.path.join(_ROOT, "Fallout Shelter", "FalloutShelter_Data", "data.unity3d")
+    src = sys.argv[1] if len(sys.argv) > 1 else os.path.join(_ROOT, "build", "原版存档", "20260902_data.unity3d")
     out = sys.argv[2] if len(sys.argv) > 2 else os.path.join(_ROOT, "data", "i2_dump.json")
     env = UnityPy.load(src)
     best = None
