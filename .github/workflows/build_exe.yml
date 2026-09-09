@@ -27,7 +27,10 @@ jobs:
 
       - name: Selfcheck (headless)
         run: |
+          chcp 65001 > $null
+          $env:PYTHONIOENCODING = 'utf-8'
           dist\FalloutShelterCN.exe --selfcheck
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
           Get-FileHash dist\FalloutShelterCN.exe -Algorithm MD5 | Select-Object -ExpandProperty Hash
 
       - name: Upload EXE to Release asset

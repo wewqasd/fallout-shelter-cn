@@ -23,6 +23,14 @@ from .patcher import patch_bundle
 from .resources import load_default_resources
 from .game_dir import find_game_dir, backup_bundle, restore_bundle
 
+# Windows 控制台编码兼容：selfcheck 输出中文时，cp1252 等旧编码会抛
+# UnicodeEncodeError（GitHub Actions runner / cmd 默认非 UTF-8）——兜底 replace。
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(errors="replace")
+    except Exception:
+        pass
+
 
 class App:
     def __init__(self, root):
