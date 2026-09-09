@@ -203,8 +203,16 @@ env.save("lz4", outdir)    # 或 "none" 兜底（防 MemoryError）
 
 ## 7. EXE 一键汉化（PyInstaller 打包）
 
-- 入口：`src/fs_cn/gui.py`（GUI，含 `--selfcheck` 无头自检）；
-  spec：`tools/build_exe.spec`（SPECPATH 相对路径，任意 cwd 可打包）。
+- 入口：**`src/fs_cn_main.py`**（包外启动脚本，转调 `fs_cn.gui.main()`；GUI 含
+  `--selfcheck` 无头自检）；spec：`tools/build_exe.spec`（SPECPATH 相对路径，任意 cwd 可打包）。
+- ⚠️ **PyInstaller 入口坑**：包内模块（fs_cn/gui.py 等）用相对导入，**绝不能直接作为
+  Analysis 入口脚本**——EXE 以顶层脚本运行时相对导入崩
+  （`attempted relative import with no known parent package`）。入口必须放在包外
+  （`src/fs_cn_main.py`），以绝对导入转调包内 main（ded4730 重构曾踩此坑，
+  v1.0 Release EXE 实测自检报错后修复）。
+- **CI 打包**：`.github/workflows/build_exe.yml` —— GitHub Actions windows-latest
+  云端打包（手动触发或发 Release 自动），打包后自动跑 `--selfcheck` 并输出 md5，
+  可上传 Release 附件。
 - **内嵌资源**：翻译表 + EN 源 + 字体 + UnityPy（含 Boost pyd 与 `resources/lzma.tpk`，
   tpk 需在 spec 里手动加 datas）。
 - 用户动作：双击 → 自动定位游戏目录（Steam libraryfolders.vdf / 注册表 / 常见路径）

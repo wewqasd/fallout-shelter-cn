@@ -1,0 +1,44 @@
+name: Build EXE
+
+on:
+  workflow_dispatch:        # 手动触发（Actions 页点 Run workflow）
+  release:
+    types: [published]      # 发布 Release 时自动触发
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          py -3.12 -m pip install --upgrade pip
+          py -3.12 -m pip install unitypy==1.25.3 pyinstaller
+
+      - name: Build EXE (PyInstaller)
+        run: py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
+
+      - name: Selfcheck (headless)
+        run: |
+          dist\FalloutShelterCN.exe --selfcheck
+          Get-FileHash dist\FalloutShelterCN.exe -Algorithm MD5 | Select-Object -ExpandProperty Hash
+
+      - name: Upload EXE to Release asset
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release upload ${{ github.event.release.tag_name }} dist\FalloutShelterCN.exe --clobber
+
+      - name: Upload EXE as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: FalloutShelterCN.exe
+          path: dist/FalloutShelterCN.exe
+          if-no-files-found: error
