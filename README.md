@@ -6,6 +6,13 @@
 《辐射避难所》Steam 版（Bethesda，版本 2.6.0，无官方中文）的汉化项目：14064 条文本，
 直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
 
+## 汉化效果
+
+| | |
+|---|---|
+| ![效果图 1](assets/screenshots/screenshot-1.png) | ![效果图 2](assets/screenshots/screenshot-2.png) |
+| ![效果图 3](assets/screenshots/screenshot-3.png) | ![效果图 4](assets/screenshots/screenshot-4.png) |
+
 ## 两种安装方式
 
 ### ① 成品 data.unity3d（直接覆盖）
