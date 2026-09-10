@@ -721,7 +721,7 @@ QuestLoc_JustDeserts_Conversation_4_NPCStart_1	看上去这是最后的内容…
 QuestLoc_TimetoWakeUp_Conversation_1_Team_2	一定有个开关能把它关上。你们有检查过它的后面吗？
 Speech_Quest_Loot_Dweller_22	那堆……又多了一个！
 Weapon_Description_50CalMachineGun_Enhanced	完美的经典武器，安装了新零件。
-QuestLoc_RunnersinScoringPosition_QuestLongDescription	蔻驰在莱克维尔图书馆墙上喷了一条嘲讽的留言……
+QuestLoc_RunnersinScoringPosition_QuestLongDescription	蔻驰在莱克维尔图书馆的墙上喷了一条嘲讽的留言！我们快追上了！该去789号避难所的废墟搜一搜了。
 PreTutorial_Start	太棒了！您创建了一个新的避难所。您的工作就是让您的居民活着而且幸福。祝您好运！
 QuestLoc_GameShowGauntletG_Conversation_4_Team_1	亚当之子。
 Weapon_Description_PipePistol_LittleBrother	就像这个名字所暗示的，比起危险，它更令人讨厌。
@@ -916,7 +916,7 @@ QuestLoc_DuoofDestructionGlowingRadscorpions_QuestObjective_2	消灭第二只绿
 Title_Incident	事件：
 Weapon_Name_CombatShotgun_Rusty	生锈的战斗霰弹枪
 QuestLoc_RoboRampage_Conversation01_NPC01	人类！你们聪明地自投罗网了！迎接快速且痛苦的死亡吧。
-MrHandyDialog_Wasteland_25	……是的，那是个超级变种人。
+MrHandyDialog_Wasteland_25	探测器显示……没错，那是个超级变种人。而且没错，我现在正朝反方向走……
 Season1_IntroPopup_Body	在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
 Room_VaultEntrance_3	强化避难所大门
 Message_Quest_ReturnToWastelandFromSurpriseQuest	继续探索废土吗？
@@ -1155,7 +1155,7 @@ QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_3	我想我们总会有点多余的
 QuestLoc_TheSixthSun_QuestShortDescription	拯救教会失踪的哥哥。
 Achievement_Xbox_Description_03	完成10个任务
 QuestLoc_FriendlySettlement_Conversation_1D_NPCStart_1	听着，居民们，没必要紧张。我们已经不做掠夺者啦，我们退休了。
-Title_Personalized_Ads	个性化广告
+Title_Personalized_Ads	允许与第三方共享我的使用数据，以改进营销并在第三方网站上展示更相关的广告。
 SnipSnipDialog_Wasteland_7	我的内部指南针显示我现在正朝南。看来我该朝这个方向飘……
 Message_Tutorial_67	如果不需要任何新居民，您可以{关闭}{广播站}的对外召唤功能，但其仍能在避难所内部播放广播，提升居民{幸福度}。
 Pet_Description_militarymacaw_l2	知道200个词，却只会说“隧道蛇统治一切！”
@@ -1164,7 +1164,7 @@ SeasonPass_UpsellModal_Base	有了赛季通行证，Fallout赛季才更精彩。
 立即领取你已解锁的所有赛季奖励！奖励可在所有避难所中领取。
 Facebook_AskRequest_Title	礼物请求
 QuestLoc_GameShowGauntletH_Conversation_3_Team_3	医疗中心地铁
-QuestLoc_HoneymoonHorror_QuestLongDescription	来自附近定居点的某对新婚夫妇去了某个隐蔽的山洞私自"庆祝"。
+QuestLoc_HoneymoonHorror_QuestLongDescription	来自附近定居点的某对新婚夫妇去了一个偏僻的山洞“度蜜月”。他们至今未归，第一批救援队也一去不回！也许关于辐射蝎的传闻是真的。最好带上家伙！
 Message_TutorialPopup_24_Body_Part1_Xbox	当勾形图标出现时，选择它，然后按住来释放暴击。
 Pet_Carrier_PopUp_Footnote	*不保证一定有毛。
 Button_StartQuest	开始任务
@@ -1675,7 +1675,7 @@ QuestLoc_Headhunting_Question1_Answer3	管理？所以你是来找经理大人�
 QuestLoc_ScienceCooperative_Conversation_2A_Team_2	质子发射器。感觉应该是这个！
 Speech_Quest_NotAlone_Dweller_3	我们一定会同舟共济的，对吧？
 Outfit_Name_HunterGear_Treasure	寻宝猎人服
-QuestLoc_TheSixthSun_Conversation_1_Team_3	警告你：滚开否则我会杀了你。
+QuestLoc_TheSixthSun_Conversation_1_Team_3	警告你：滚开，否则我会杀了你。
 QuestLoc_GameShowGauntletH_Conversation_3_Team_4	波士顿
 Encounter_Random_Message71	哦，看，一个旧的公共汽车站。真希望我能搭一趟车。
 QuestLoc_HostageNegotiations_QuestObjective_3	解救人质
@@ -1918,7 +1918,7 @@ Message_Tutorial_03_PC	我们将建立一个{发电室}来产生{电力}。{点�
 QuestLoc_CheapBeerintheBleacherSeats_Conversation_1_NPCStart_1	没有看见棒球衫。倒是发现了一套不错的休闲西装。
 QuestLoc_SpringingtheTrap_Conversation_1_NPCStart_3	我是悲哀的，悲哀是我，因为我不配。但“瘟疫”是伟大的，散发圣光和……
 QuestLoc_Filly_Conversation02_NPC01	我们这儿最近被掠夺者闹得鸡犬不宁。
-QuestLoc_CanineRecovery_QuestLongDescription	我得去搜搜那座旧仓库，看看能不能找到比格斯比。
+QuestLoc_CanineRecovery_QuestLongDescription	我得去搜搜那座旧仓库，看看能不能找到比格斯比。掠夺者把它当成了藏身处，所以我得小心点。
 QuestLoc_S2_QL3_SecuritronsUncapped_1_Question5_Choice1	这肯定是领头的。把它送进废铁场。
 QuestLoc_ESterEggHunt_Conversation_1_Team_3	我们将有百万吨的乐趣！
 MrHandyDialog_Wasteland_36	我想回家，我想回家，我想回家。
@@ -2114,7 +2114,7 @@ Help_Page20_MainText_3DTouch	您可以通过拖拽来将居民分配在房间里
 如果数字前没有加号或者减号，则意味着房间里还可以容纳更多的居民，无需替换。
 QuestLoc_GameShowGauntletK_Conversation_2_NPCStart_1	现在到了第二回合。
 QuestLoc_TheScenicRoute_Conversation_1_Team_1	你应该去避难所。那里更安全。
-QuestLoc_TimetoWakeUp_QuestShortDescription	关掉世界上最吵的闹钟。
+QuestLoc_TimetoWakeUp_QuestShortDescription	关掉世界上最吵的闹钟那没完没了的滴滴声。
 MrHandyDialog_Generic_10	活着是为了服务，服务是为了活着……
 Stats_Special_Trained	SPECIAL属性训练
 QuestLoc_TheEndoftheRainbow_Conversation_2_NPCStart_2	你们以为到我这来就可以抢走我的东西？
@@ -2190,7 +2190,7 @@ Pet_Description_australianshepherd_l	会因为没有锻炼而觉得不安。不�
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_4	你们觉得怎么样？
 Encounter_Random_Message211	仍在四处转悠……
 Weapon_Description_032Pistol	强大到足以杀死攻击者。几乎没有例外。
-QuestLoc_JustDeserts_Conversation_5_NPCStart_2	哈，我开玩笑的。看你那个表情。
+QuestLoc_JustDeserts_Conversation_5_NPCStart_2	哈，我开玩笑的。你们真该看看自己脸上的表情。
 Pet_Persian	波斯猫
 Speech_Quest_Alone_Dweller_18	什么“孤狼”做派，八成是个天大的馊主意。
 QuestLoc_BeatReporting_Conversation_1_NPCStart_4	我是报纸的编辑。需要帮忙吗？
@@ -2380,7 +2380,7 @@ Message_Tutorial_45_PC	{点击}{建造区域}来确认地点。
 VictorDialog_Generic_20	要刷厕所？要消灭入侵者？包在我身上！呃，打个比方说。
 Crafting_Cancel_Confirmation	您所使用的杂物将全部返还，但花费的瓶盖只有部分返还。您确定这么做吗？
 Speech_LivingQuarter_Dialogue_NPC2_13	也许可以水培一些栀子花。
-SnipSnipDialog_Wasteland_8	我的内部指南针显示我现在正朝西。
+SnipSnipDialog_Wasteland_8	我的内部指南针显示我现在正朝西。看来我就顺着这个方向飘下去了……
 Speech_SnipSnip_Bark8	我随时为你效劳。
 QuestLoc_S2_QL3_Q4_Warehouse_Question1_Answer2	你挺幽默的，是吧？要不滚去让机器人把你砸了？
 Message_Tutorial_27	房间需要{电力}才能运行。再次点击来{确认}。
@@ -2541,7 +2541,7 @@ QuestLoc_S2_QL3_Q3_Insider_Question4_Answer2	去沙士装瓶工厂的仓库。�
 QuestLoc_ANiceGhoulLikeYou_Conversation_1_NPCStart_2	我们手里有一些可以转让的……如果你能回答这个谜语！
 Speech_Conversation_NPC1_Topic23	哇。真是见鬼的一天，对吧？
 QuestLoc_TheLastGobble_QuestObjective_1	杀死高步勒！
-QuestLoc_ThePathofPaulaPlumbkin_QuestLongDescription	第一站——730号避难所。
+QuestLoc_ThePathofPaulaPlumbkin_QuestLongDescription	你找到了宝拉·普朗金的日志。这位监督者曾踏上旅途，寻找传说中的乌托邦“避难所之城”。沿着她的足迹前进吧！第一站——730号避难所。
 Outfit_Name_JobinsonsJersey	罗基杰宾森的棒球衫
 QuestLoc_AMaptotheStars_Conversation_1_NPCEnd_2	不认识，我只是在餐厅工作的员工。也许120号避难所的监督者知道？
 Encounet_Progression_Creature37	恶犬已经嗅出了我的味道！不是它死，就是我亡！
@@ -2693,7 +2693,7 @@ Speech_LivingQuarter_NoSpaceLQ	避难所太拥挤了，无法容纳更多的婴�
 Outfit_Description_Bishop	如果有更高的力量存在，他们可能会听你的。
 QuestLoc_ScareTactics_Conversation_1_NPCEnd_4	万圣什么？嘿！这是一个假的鬼……给我拿下他们！
 MrHandyDialog_Generic_26	有悬浮单元，可以旅行。告诉我你需要什么就行了，人类。
-QuestLoc_TheCatBurglar_QuestLongDescription	一个"飞贼"接连光顾一个个避难所，把宠物从主人身边偷走。
+QuestLoc_TheCatBurglar_QuestLongDescription	一个“飞贼”接连光顾一个个避难所，把宠物从主人身边偷走。趁他偷走下一只猫之前阻止他！
 QuestLoc_PoweredUp_QuestName	充电之旅
 QuestLoc_MissionofMercy_Conversation_1_NPCStart_1	哈，哈，哈！你正在找“迈克逊钻工”？
 Message_Tutorial_68_PS4	用左杆{移动}{居民}到{发电室}然后按下来分配他们。
@@ -2792,7 +2792,7 @@ VictorDialog_Fitness_01	人类真是神奇。身体用得越多，就变得越�
 QuestLoc_FriendlySettlement_Conversation_1D_NPCStart_2	我们中的一些人决定用另一种方式生活——正当工作赚取日常所需。
 QuestLoc_ChristmasattheRaiderCamp_Conversation_1_NPCStart_2	动作快点，我们还有定居点要去抢呢。
 Seasons_Message_SeasonEndsIn	赛季将于1天后结束
-QuestLoc_RescueOperation_QuestLongDescription	你收到了来自定居点的求救信号！...
+QuestLoc_RescueOperation_QuestLongDescription	你收到了来自定居点的求救信号！只要你去救他们，他们就愿意离开家园、加入你的避难所。
 QuestLoc_DrivingtheSnakesOut_QuestObjective_1	打败掠夺者首领。
 Weapon_Description_HuntingRifle_Hardened	曾经，你被四处追杀。有了这个，那些日子就是过去时了。
 Message_CantDestroyRoom_VaultDwellerSpace	不能摧毁这个房间，否则总人口会超出房间容量。
@@ -3825,7 +3825,7 @@ QuestLoc_PitStop_QuestObjective_1	侦查红火箭服务站
 Tutorial_Tip_65_Xbox	按下来跳过任务里的对话。
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_4	我们打过，呃，无数场架了。你们总不至于就这么转身开溜吧？
 QuestLoc_SpyonRaiders_Conversation_1E_NPCStart_2	我们是“铅笔推进器”。我们把铅笔推向敌人。
-QuestLoc_TheHauntingofVault110_QuestLongDescription	有传言说刚刚占领大众化学大楼的掠夺者首领正是如此，不妨不战而把他吓跑。
+QuestLoc_TheHauntingofVault110_QuestLongDescription	和大多数恶霸一样，掠夺者通常都是胆小鬼。有传言说，刚刚占领大众化学大楼的那位掠夺者首领正是如此——也许你能不战而把他吓跑。
 Speech_Quest_Generic_Dweller_Conversation_22	这些探险服是不是特别显胖？
 Wasteland_Got_Exp	得到{0}XP
 QuestLoc_Snipping_01_Answer01_NPC01	我是咔嚓先生！我发现了一些玉米！请允许我与您同行，我会把它们全给您！
@@ -3936,7 +3936,7 @@ QuestLoc_S2_QL3_Q4_Warehouse_QuestObjective1	解开保安机器人杀人之谜�
 QuestLoc_FashionStatement_QuestName	时尚宣言
 Junk_Desc_TeddyBear	废土的生活不是野餐，所以他随时准备给您一个温暖拥抱。
 QuestLoc_GameShowGauntletD_Conversation_3_NPCEnd_3	他们倒是想呢！但你可以……“掉脑袋”了！
-QuestLoc_HalfFullHalfEmpty_QuestShortDescription	找到更多关于神奇水的信息。
+QuestLoc_HalfFullHalfEmpty_QuestShortDescription	在旧罗伯科工厂找到更多关于神奇水的信息。
 QuestLoc_GroomforDoubt_Conversation_3_Team_4	来吧，我们带你回家。
 QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_1	新郎？哦，你是说奴隶男孩？是的，他现在是我们的了。
 Pet_Poodle	贵宾犬
@@ -4434,7 +4434,7 @@ QuestLoc_GoingToTown_1_Question3_Answer2	我在给你拍照。嗯，是假装啦
 QuestLoc_GameofVaults_QuestObjective_3	拯救公主。
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_2	够了！我们来了结这一切！
 QuestLoc_KnockEmDown_Conversation_1_Team_1	你可以说他们就是因为拖拖拉拉而牺牲的。
-QuestLoc_IntotheInfield_QuestLongDescription	也许棒球衫在清晨地方精神病院！
+QuestLoc_IntotheInfield_QuestLongDescription	也许拉基·乔宾森的球衣就在清晨之地精神病院里！
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_1_NPCStart_1	所以，你来这里参加单身之夜的，是吗？
 QuestLoc_WeddingCrashers_Conversation_1_NPCEnd_1	真棒！哦顺便，没有其他人想看见你，所以你最好有点真本事。祝你好运！
 QuestLoc_TargetPractice_QuestName	射击练习
@@ -4992,7 +4992,7 @@ Tutorial_Tip_87	您可以在主题工坊中打造铁路和学院的主题。
 QuestLoc_DeathandDenial_QuestObjective_2	审讯第一组嫌疑犯。
 QuestLoc_VaultopolisAwaits_QuestLongDescription	宝拉布朗金到头来其实是一个邪恶的掠夺者。但至少她告诉了我们525号避难所的位置。
 Encounter_Intro_NPC6	遇到{0}
-QuestLoc_Dog_Answer01_PC01	不急！你们看起来不像合格的宠物主人。
+QuestLoc_Dog_Answer01_PC01	我想我们会留下来。你们看起来不像合格的宠物主人。
 QuestLoc_WhosCarvingtheTurkey_QuestName	谁在切火鸡？
 Objective_Merge	同时合并两个房间
 QuestLoc_ShotgunWedding_QuestObjective_2	打败掠夺者首领。
@@ -5820,7 +5820,7 @@ Outfit_Description_PowerArmor_T60f	特别加强过。比很多其他装甲都先
 QuestLoc_LittleMissWasteland_Conversation_3_NPCStart_4	是避难所科技，还是核子可乐？
 Room_Casino_Desc	将居民分配在这里训练运气
 Help_Page19_BottomText	提示：资源与所需资源线偏离越远（无论超出或不足），正面或负面效果就越强。
-MrHandyDialog_Generic_16	懒得动？那你可找对机器人了！
+MrHandyDialog_Generic_16	懒得动？那你可找对机器人了！你想要什么，我去拿。
 QuestLoc_AlienBot_Quest04_Conversation_3_Team_4	好吧好吧，我们走。只要让我们……呃……拿上我们带来的电脑，我们就走！
 QuestLoc_SpelunKingTrainingF_Conversation_1_NPCEnd_2	世事难料！给我拿下他们！
 QuestLoc_DeathRevealed_Conversation_3_NPCStart_3	所以我们今天让你们流血不是出于恶意，而是为了帮助你达到这个配额。
@@ -6314,7 +6314,7 @@ Encounet_Progression_Creature40	多脚兽逼近，准备攻击。
 Objective_PerformCriticalHit_Plural	释放{0}次暴击
 QuestLoc_TheScorpionKing_Conversation_1_Team_3	你被正义之钳抓住了！
 Speech_Quest_Generic_Dweller_Conversation_26_Response_3	向上级请求再也不要和你分配在一起了。
-UWP_MandatoryUpdateMessage	现在有一个必须的更新。是否安装？
+UWP_MandatoryUpdateMessage	现在有一个必须安装的更新。是否立即安装？
 QuestLoc_RoboRampage_QuestLongDescription	一群失控的安保机器人占领了市中心的一些废墟。如果他们在那里扎根，可能会对我们和其他幸存者构成威胁。带上武器进去，把它们清理干净。不要低估它们，它们虽然行动缓慢，头脑简单，但它们毫不留情，而且装备精良。
 QuestLoc_BountyYak_QuestLongDescription	一只叫做“牦牛”的鼹鼠妈妈偷走了最后一块“奇想小子”蛋糕！除掉它然后领取你的奖励。
 Speech_Quest_WrongPath_Dweller_4	这不可能是对的路。
@@ -7088,7 +7088,7 @@ Speech_Quest_Generic_Dweller_7	这地方真恶心。呵，真“意外”。
 Achievement_Xbox_Description_05	完成60个任务
 Message_TutorialPopup_02_Hint_Xbox	提示：将居民拖进或者拖出受到灾害的房间来保证他们的存活。
 Weapon_Name_LaserPistol_SmugglersEnd	“走私犯终结者”激光手枪
-SnipSnipDialog_Wasteland_25	……是的，那是个超级变种人。
+SnipSnipDialog_Wasteland_25	探测器显示……没错，那是个超级变种人。而且没错，我现在正朝反方向走……
 SnipSnipDialog_Wasteland_69	天哪！一匹"骑乘小马"，真是优雅的坐骑。
 Weapon_Name_Pistol_LoneWanderer	“独行者”手枪
 Message_Tutorial_07_Xbox	让我们看看{居民}的{状态}。用左杆{移动}至{废土}来{选择}第一个{居民}。
@@ -7344,7 +7344,7 @@ QuestLoc_HoneymoonHorror_Conversation_2_Team_2	其实，我们的避难所还有
 MrHandyDialog_Generic_49	你们人类有的开心，有的伤心……能不能统一一下情绪！
 Stats_PetBreeds_GoldenRetriever	黄金猎犬
 QuestLoc_GameShowGauntletB_Conversation_3_NPCStart_1	下面进入“掉脑袋”游戏的第三回合！
-UWP_OptionalUpdateMessage	现在有一个可选的更新。是否安装？
+UWP_OptionalUpdateMessage	现在有一个可选更新。是否立即安装？
 QuestLoc_WorkingOvertime_QuestName	加班加点
 Encounter_Journal_Message31	探险家日志。新条目：旧日的宗教大多消亡，取而代之的是邪教。
 QuestLoc_GameShowGauntletJ_Conversation_3_Team_4	呃……乔伊的司泊吉？
@@ -8050,7 +8050,7 @@ QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_Team_1	那个"爬行者"完�
 QuestLoc_PerfectSpecimens_Conversation_1_NPC2	但我们与你可能曾经遇到的其他死爪完全不同。
 Weapon_Name_032Pistol_WildBillsSidearm	野生比尔手枪
 Tutorial_Tip_73	死爪很剽悍，不要逞英雄，记得带上朋友一起去。
-SnipSnipDialog_Generic_37	开个玩笑。又是饱饱牌肉罐头。
+SnipSnipDialog_Generic_37	今晚的晚餐——惠灵顿牛排配一瓶波尔多！开个玩笑。又是饱饱牌肉罐头。
 QuestLoc_ThymeisMoney_QuestLongDescription	好吧，你要找原料的话，大无敌超市不是个啥好去处。但是这回，我们肯定能在附近的一座建筑里找到一些香料！ 厨师相信那些掠夺者会把它们交出来……
 QuestLoc_GameShowGauntletD_Conversation_3_Team_4	穿上装甲的驴子。
 QuestLoc_HumansLikeUs_Conversation_1_NPCStart_2	很高兴遇见你们，因为我们是个爱好社交、群居的物种。
@@ -8545,7 +8545,7 @@ Outfit_Name_CombatArmor	格斗护甲
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_Team_2	呃……盖瑞？盖瑞，盖瑞？
 Junk_Desc_MagnifyingGlass	这个除蚁器大概对辐射蟑螂不大管用。
 Pet_Description_doberman_l	大胆且危险，但……真是太可爱了。
-QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCStart_1	定居点的居民们抓走了我的……
+QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCStart_1	等等。你不是尼克。你是来帮忙的？定居点的居民抓走了我的……呃，生意伙伴。说他偷了他们的食物，要杀了他。
 QuestLoc_GameShowGauntletF_Conversation_3_Team_1	林肯纪念碑。
 QuestLoc_NoStoneUnturned_Conversation_1_NPCStart_2	谢谢你们的帮助。那些辐射蝎子把我队伍里其他人都赶跑了。
 Encounter_Defeat_NPC8	钢铁兄弟会巡逻队不信任我。他们命令我离开，否则他们会开枪。
@@ -8922,7 +8922,7 @@ QuestLoc_GameShowGauntletGlobal_Conversation_1_NPCStart_3	如果答错了就…�
 QuestLoc_Headshots_QuestName	新闻头条
 QuestLoc_TheSixthSun_Conversation_1_NPCStart_1	避难所居民们！这里没你们什么事！
 Message_Androind_QuitWarning_Title	退出
-Message_Tutorial_21	您的{广播室}会吸引废土上的居民。
+Message_Tutorial_21	您的{广播室}会吸引废土上的居民，并提升避难所内的{居民幸福度}。
 QuestLoc_ScienceCooperative_Conversation_1B_Team_2	一个物理俱乐部？果然是积极向上的牛顿精神！
 Speech_Quest_Generic_Dweller_38	不能向恐惧低头……
 SeasonModal_Leaderboard_ScoreInfoPopup_SurviveScorchedAttacks	在焦尸袭击中生还
@@ -9068,7 +9068,7 @@ QuestLoc_ALaborofLove_RaiderLine_1	这个洞穴根本装不下我们俩！
 MrHandyDialog_Generic_13	你们好，人类。巧手先生随时为你们服务！
 QuestLoc_HorrorMovieNight_QuestShortDescription	派一位穿着鬼魂服装的避难所居民，去制造大混乱吧！
 QuestLoc_MatterstoSettle_Conversation_4_Team_1	这是个陷阱，不是吗？
-QuestLoc_ARefreshingRescue_QuestLongDescription	罗伯科大楼里的一个陌生人告诉我…
+QuestLoc_ARefreshingRescue_QuestLongDescription	罗伯科大楼里的一个陌生人告诉我，掠夺者把瓶瓶和盖盖带去了核子可乐工厂。我有种预感，这次终于能追上它们了。
 Weapon_Name_LyonsLaserRifle	里昂激光步枪
 QuestLoc_GameShowGauntletF_Conversation_1_Team_1	小小点灯侠。
 QuestLoc_MatterstoSettle_Conversation_4_NPCStart_4	所以他要求跟你谈判来讨论共同关心的问题。
@@ -9809,7 +9809,7 @@ Objective_ExploreWastelandDays	让一个居民废土上探险一天
 QuestLoc_WalkofShame_Conversation_1_Team_1	他不是你的丈夫，他是我们的朋友。奴隶贩子们去哪里了？
 MrHandyDialog_Reactor_02	哦对了，一起来开发原子能吧。上次开发原子能的结果可真是太棒了……
 Weapon_Description_MissileLauncher_Guided	发射一个强大的导弹，正中敌人的咽喉。
-Tutorial_Tip_77	暴击能扭转战局..请好好使用。
+Tutorial_Tip_77	暴击能扭转战局……请好好使用。
 Weapon_Name_SurgicalRipper_Rusty	生锈的手术齿锯
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCStart_3	所以就让我们来分发一点礼物吧！
 QuestLoc_FalloutShow_QuestlineName	权力斗争
@@ -9826,7 +9826,7 @@ Vaultboy_Message_WaterWarning	水资源不足
 Stats_Radscorpion_Attacks_Stopped	终止辐射蝎子灾害
 Title_Alignment	校准
 Encounter_Journal_Message34	探险家日志。新条目：电视早就没法用了，倒是无线电广播很常见。
-MrHandyDialog_Generic_37	开个玩笑。又是饱饱牌肉罐头。
+MrHandyDialog_Generic_37	今晚的晚餐——惠灵顿牛排配一瓶波尔多！开个玩笑。又是饱饱牌肉罐头。
 Outfit_Name_GamblerSuit	正装
 Weapon_Description_SniperRifle_VictoryRifle	据说，狙击手可以单手赢得战争。这就是为什么。
 Objective_EquipUltraciteWeapon	为1名居民装备超铀武器
@@ -10395,7 +10395,7 @@ QuestLoc_WondersofTechnology_QuestObjective_2	杀死领头死爪。
 QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_2	♪ 在你之前，有人试过 ♪
 ♪ 我们把他们都变成了烤肉！♪
 QuestLoc_SynthinaPinch_Conversation_1_NPCStart_2	有一些人成功逃走了，但我没有。
-MrHandyDialog_Wasteland_8	我的内部指南针显示我现在正朝西。
+MrHandyDialog_Wasteland_8	我的内部指南针显示我现在正朝西。看来我就顺着这个方向飘下去了……
 QuestLoc_WhatsonSecond_QuestShortDescription	寻找罗基杰宾森的棒球衫。
 Help_Page16_Title	午餐盒
 QuestLoc_CollateralMurder_QuestLongDescription	据说只要你在新波士顿号角报里被提到，你最终的结局就是脑袋被挂在掠夺者的长矛上。现在我们得想办法怎么才能不上封面头条！
@@ -10482,7 +10482,7 @@ QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Answer2	啊啊啊！
 QuestLoc_WondersofScience_QuestShortDescription	霍夫伯格博士背负着探索知识和冒险的重任！
 QuestLoc_LittleMissWasteland_Conversation_3_NPCEnd_2	很抱歉，但不正确。我相信你下一个会答对的……
 QuestLoc_GameShowGauntletE_Conversation_3_Team_4	技工麦克。
-QuestLoc_PestControl_QuestLongDescription	小心！在探索红火箭服务站附近区域时，你的一位废土探险者遇上了一窝辐射蟑螂！呃……
+QuestLoc_PestControl_QuestLongDescription	小心！在红火箭服务站附近探索时，你的一位废土探险者撞上了一窝辐射蟑螂！呃……
 QuestLoc_GetinLine_RaiderLine_1	你结账之后将永远离开！
 QuestLoc_ExtremePrejudice_Conversation_4_Team_1	我在路上看到了监督者。如果你愿意我可以问他。
 Weapon_Description_AlienBlaster_Rusty	很久以前就被留在这个星球上了。却仍然强大得荒唐。
@@ -11615,7 +11615,7 @@ QuestLoc_TheCaseoftheCapturedCanine_QuestLongDescription	尼克瓦伦汀，是�
 QuestLoc_ScareTactics_Conversation_1_NPCEnd_3	哈？嘿！只是一套服装……给我拿下他们！
 Speech_Quest_NotAlone_Dweller_31	我感觉我们一直被人……监视着。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_Team_1	你们听说过“骑士”吗？我们被告知他们是“死亡”的教徒，所以我们正在寻找线索。
-QuestLoc_WastelandTheMusical_QuestLongDescription	歌舞奇兵二重唱，掠夺者们用高产量的音乐在废土中传播恐怖。我们得把这些音乐暴徒给打倒！
+QuestLoc_WastelandTheMusical_QuestLongDescription	一对会唱歌的掠夺者用高水准的音乐节目在废土上散播恐怖。我们得让这些音乐暴徒谢幕！
 Speech_Conversation_NPC2_Topic41_Response1	一本字典，这样你就可以查查“自私”的定义。
 QuestLoc_S2_QL2_Q1_Doc_Question4_Choice1	如果顺带送治疗针我就来！
 QuestLoc_ESterisComing_Conversation_1_NPCStart_1	啊，你一定是派来帮助我们的避难所的居民！赞美原子！
@@ -12087,7 +12087,7 @@ Outfit_Description_TiedBlouse	适合繁重的农场劳作或是乡村音乐的�
 QuestLoc_WhackaMole_QuestName	鼹鼠大战
 QuestLoc_VaultTecExperimentReviewC_Conversation_3_Team_4	你们的国土里有没有什么可供打造的杂物吗？
 QuestLoc_DartofHarkness_Conversation_1_NPCEnd_1	扔掉那些瓶盖么？我不要！
-Updated_Terms_Message	[365136]继续游戏需要确认同意最终用户许可协议和我们的服务条款
+Updated_Terms_Message	[365136]点击“继续”，即表示我确认 ZeniMax 将按《隐私政策》所述处理我的个人信息，并接受《服务条款》《行为准则》和《最终用户许可协议》。
 QuestLoc_GhostlyGag_RaiderLine_2	我才不怕什么鬼呢。
 Room_Gym_3	力量训练中心
 Room_WeaponFactory_Desc	将居住者分配在这里打造武器
@@ -12275,7 +12275,7 @@ QuestLoc_WeddingCrashers_QuestObjective_1	阻止婚礼
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_3	快点！狂尸鬼们准备开饭了！
 QuestLoc_RescueOperation_QuestName	拯救行动
 Encounter_Random_Message114	回家后冲个澡一定爽翻了。
-SnipSnipDialog_Generic_16	懒得动？那你可找对机器人了！
+SnipSnipDialog_Generic_16	懒得动？那你可找对机器人了！你想要什么，我去拿。
 QuestLoc_TheTailContinues_Conversation_1_NPCStart_3	对了，你们有看到一个女孩和一只狗吗？
 QuestLoc_LastInningOrnot_QuestShortDescription	寻找罗基杰宾森的棒球衫。
 QuestLoc_WhenPrestonCalls_Conversation_1_NPCEnd_1	据说一些定居者被掠夺者绑架了。他们在778号避难所。给，拿着这件制服。我反正用不上了。
@@ -12396,7 +12396,7 @@ QuestLoc_ScienceCooperative_QuestName	科学合作
 QuestLoc_SavingDaylight_QuestName	节省天光
 QuestLoc_NabbedfromNukaWorld_QuestlineName	从核子世界抢过来的
 Special_Charisma	魅力
-QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_1	那是什么态度？你为什么不滚开？
+QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_1	那是什么态度？你为什么不离我的植物远点？
 Pet_Description_germanshepherd_b	“经典”这个词几乎和它没有关系。
 Objective_SurviveGhoulNoCasualties_Plural	在没有人员伤亡的情况下撑过了{0}次食尸鬼攻击
 QuestLoc_OBrother_Conversation05_NPC02	钢铁兄弟会拥有最好的装备，看看这个！砰！
@@ -12555,7 +12555,7 @@ QuestLoc_FoodFight_Conversation_1D_Team_3	你知道那东西起码放了……�
 QuestLoc_RoboRampage_Conversation01_NPC03	既然你这么想浪费你的最后一口气，你有什么要说的吗？
 Message_TutorialPopup_ScorchedAttackWarning_Title	焦尸袭击
 QuestLoc_RaiderTroublesatCorvega_Conversation_1_Team_1	你们把普雷斯顿怎么了？
-QuestLoc_SpelunKingTrainingF_Conversation_1_Team_2	赶紧打住吧，你在说胡话。
+QuestLoc_SpelunKingTrainingF_Conversation_1_Team_2	除非我们现在就阻止你和你那令人难以忍受的言论。
 QuestLoc_DogsofWar_Conversation_3_NPCStart_1	你们这些孩子一定知道如何打好仗！你们就是那些该死的英雄。谢谢！
 QuestLoc_MatterstoSettle_Conversation_2_Team_2	感谢你的提议，但你属于这里，保护其他定居者。
 Shop_PetBanner_Text1	更快地从废土回来。
@@ -12608,8 +12608,8 @@ CurieDialog_Generic_18	这座避难所确实拥有一些真正令人惊叹的科
 CurieDialog_Generic_19	这里太局促了。我想我会用工作来转移注意力。
 CurieDialog_Generic_20	要是我们都能住在外面就好了。不过，外面也不太好过。
 CurieDialog_Generic_21	您还好吗？需要我为您拿点什么吗？
-CurieDialog_Generic_22	我保证不会伤害到您！
-CurieDialog_Generic_23	欢迎来到您的避难所！
+CurieDialog_Generic_22	有人愿意当我的试验对象吗？我保证不会伤害到您！但愿如此……
+CurieDialog_Generic_23	欢迎来到您的避难所！就避难所而言，这儿相当不错了。
 CurieDialog_Generic_24	我们为什么不在避难所里使用楼梯呢？这对我们居民的健康会有好处。
 CurieDialog_Generic_25	如果有人需要体检，我随时都在！
 CurieDialog_Gym_01	锻炼时一定要找搭档，以降低受伤风险！
@@ -13912,7 +13912,7 @@ QuestLoc_INS_QL2_Railroaded_1_Room9_Question_Line3	无论如何，能多一个�
 QuestLoc_INS_QL2_Railroaded_2_CombatInit1	检测到未授权人员。拉响警报。摧毁。
 QuestLoc_INS_QL2_Railroaded_2_CombatInit2	威胁等级最高。授权使用致命武力。
 QuestLoc_INS_QL2_Railroaded_2_CombatInit3	目标在视线内。启动火力压制。
-QuestLoc_INS_QL2_Railroaded_2_QuestLongDesc	他们请求我们帮忙解救一群被回收的合成人。
+QuestLoc_INS_QL2_Railroaded_2_QuestLongDesc	不管我们愿不愿意，我们现在已经和铁路组织扯上关系了。他们请我们帮忙解救一群被回收的合成人。
 QuestLoc_INS_QL2_Railroaded_2_QuestName	合成人解放局
 QuestLoc_INS_QL2_Railroaded_2_QuestObjective1	营救被俘合成人
 QuestLoc_INS_QL2_Railroaded_2_QuestShortDesc	铁路希望我们救出被学院回收的那群合成人。
@@ -14577,7 +14577,7 @@ QuestLoc_NVB_QL2_Leftovers_4_Question8_Line1	这台主机。看起来很重要�
 QuestLoc_NVB_QL2_Leftovers_4_Question8_Line2	<永久封锁所有地点>
 QuestLoc_NVB_QL2_Leftovers_4_Question8_Line3	得在我们离开之后，对吧？对吧？豁出去了……
 QuestLoc_NVB_QL2_Leftovers_4_QuestionSTART_Line1	我觉得……有点不对劲。一种微弱的尖叫在我脑海边缘嗡鸣。
-QuestLoc_NVB_QL2_Leftovers_4_QuestionSTART_Line2	像在抽取我的理智。
+QuestLoc_NVB_QL2_Leftovers_4_QuestionSTART_Line2	这简直是在榨干我的理智。
 QuestLoc_NVB_QL2_Leftovers_QuestLineName	遗留者
 QuestLoc_NVB_QL3_Stripper_1_CombatInit0	啊啊啊！
 QuestLoc_NVB_QL3_Stripper_1_CombatInit2	呃呃呃——！

@@ -6,6 +6,7 @@
 输入: data/translations.json（中文权威表） + data/i2_dump.json（I2 六语言 dump，索引 0 = EN）
 输出: data/en_zh_pairs.tsv
 """
+import csv
 import json
 import os
 import sys
@@ -25,10 +26,11 @@ def main():
     assert set(cn) == set(en1), f"键不一致: CN={len(cn)} EN={len(en1)}"
     rows = sorted(cn.items())
     out = os.path.join(ROOT, "data", "en_zh_pairs.tsv")
-    with open(out, "w", encoding="utf-8") as f:
-        f.write("key\tEN\t中文\n")
+    with open(out, "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, dialect="excel-tab", quoting=csv.QUOTE_MINIMAL)
+        w.writerow(["key", "EN", "中文"])
         for k, z in rows:
-            f.write(f"{k}\t{en1[k]}\t{z}\n")
+            w.writerow([k, en1[k], z])
     print(f"已生成: {out} ({len(rows)} 行)")
 
 
