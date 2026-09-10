@@ -94,3 +94,13 @@ py -3.12 -m pip install unitypy==1.25.3 pyinstaller
 py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
 :: 产出 dist\FalloutShelterCN.exe
 ```
+
+## 致谢
+
+本项目由以下 AI 模型与工具协同完成：
+
+- **DeepSeek V4 Flash**（2026-07-31 公测版）— 代码开发、翻译与审校主力
+- **DeepSeek V4 Flash Vision（Experimental）** — 视觉审校
+- **GLM-5.3-Flash**（智谱 AI）— 翻译审校与一致性检查
+- **Gemini 3.7 Flash**（Google）— 翻译审校
+- **DeepSeek Harness** — 开发与交付环境（Everything is a Plugin）
