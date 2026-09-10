@@ -14,6 +14,57 @@
 - 汉化的思路是**直接改写这个文件**：定位文本对象 → 替换为中文 → 原样 LZ4 存回，不依赖运行时 hook。
 - 解析工具是 **UnityPy 1.25.3**（`pyproject.toml` 已固定版本，Windows 侧另有 cp312 wheel）。
 
+### 1.1 UnityFS 文件格式（二进制布局）
+
+```
+[magic "UnityFS" 6B][version int32]
+[unity_version 字符串（\0 结尾，如 "6000.0.58f1"）]
+[unity_revision 字符串（\0 结尾）]
+[file_size int64]
+[compressed_block_info_size int32][uncompressed_block_info_size int32]
+[flags int32]          # 低 6 位 = block info 压缩类型：0=none 1=lzma 2=lz4 3=lz4hc 4=zlib
+[block_info 数据]      # 按 flags 压缩；解压后见 1.2
+[数据区：blocks 依次存放]
+```
+
+### 1.2 块与目录（block info 解压后）
+
+```
+[block_count int32]
+[blocks: block_count × {uncompressed_size int32, compressed_size int32, flags uint16}]
+[directory_count int32]
+[directory: directory_count × {offset int32, size int32, type int32, path_id int32}]
+```
+
+- 数据区按 blocks 顺序存放，每块按自身 flags 压缩（本项目为 LZ4）；
+- **directory 是对象索引**：`path_id` = 对象 id（pid），`offset/size` 指向数据区内该对象的序列化字节；
+- 每个对象数据 = `[int32 size][序列化字节]`。
+
+### 1.3 对象序列化：typeless（本项目核心经验）
+
+- Unity 5.5+ 默认**不把类型树写进 bundle**（typeless）——对象字节没有字段名，只有按类型树布局的裸数据；
+- 要"读懂"字段需要类型树：UnityPy 用 `resources/lzma.tpk` 类型树数据库生成（Windows 打包时 tpk 必须随 EXE 内嵌，见第 7 章）；
+- **本项目绕开类型树**：MonoBehaviour 一律 `get_raw_data()` 拿原始字节，按**内容特征 + 手工校准的字节布局**定位字段（I2 term 表、UILabel 布局、FontManager 引用），改写后 `set_raw_data()` 写回——零 typetree 依赖，这也是版本自适应的根基；
+- 对象引用（PPtr）= `{fileID int32, pathID int64}`：fileID=0 指本文件，>0 指 external（按 `assets_file.externals` 顺序）。
+
+### 1.4 多 assets 文件组织
+
+- 一个 bundle 可含多个 serialized file，UnityPy 里用 `o.assets_file.name` 区分：
+  `resources.assets`（主资源，I2 文本在此）、`globalgamemanagers`（全局设置）等；
+- 跨文件引用走 externals（PPtr fileID > 0）；`cls_of()` 判断 MonoBehaviour 的脚本类名时
+  需要同时查本文件 MonoScript 表与 external 的 globalgamemanagers（见 patcher.py）。
+
+### 1.5 两版游戏差异（Steam / 安卓）
+
+| 项 | Steam 版（本项目目标） | 安卓版（译文来源） |
+|---|---|---|
+| 载体 | `data.unity3d`（UnityFS/LZ4，481MB） | APK 内 `assets/bin/Data/bed523bd…`（6.9MB） |
+| 引擎 | Unity 6000.0.58 | Unity 6000.0.66（IL2CPP） |
+| I2 term | 14064 条，6 语言列（en/es/fr/it/de/ru，无中文） | 11876 条，7 语言列（cn=lang[6]） |
+| 中文字体 | 无（英文 TTF） | 内置优化思源黑体（`NotoSansSC_sdf32_optimized_12k_lz4_2020`） |
+
+安卓版官方中文即翻译表 85% 的来源；其内置优化字体是 `noto_sans_sc_cn.ttf` 的基底源头。
+
 ## 2. 解包与数据提取
 
 ### 2.1 加载 bundle
