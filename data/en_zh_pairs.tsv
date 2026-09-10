@@ -250,7 +250,7 @@ Controls_Xbox_Vault_Wasteland	Wasteland	废土
 Controls_Xbox_Vault_ZoomIn	Zoom In	放大
 Controls_Xbox_Vault_ZoomOut	Zoom Out	缩小
 Crafting_Cancel_Confirmation	The Junk you used will be fully refunded, but only part of the CAPS you spent. Are you sure?	您所使用的杂物将全部返还，但花费的瓶盖只有部分返还。您确定这么做吗？
-Crafting_Cancel_Ultracite_Confirmation	The Ultracite you used will be fully refunded, but only part of the CAPS you spent. Are you sure?	你使用的超导体将全额退还，但你花费的瓶盖只会退还一部分。确定吗？
+Crafting_Cancel_Ultracite_Confirmation	The Ultracite you used will be fully refunded, but only part of the CAPS you spent. Are you sure?	你使用的超铀将全额退还，但你花费的瓶盖只会退还一部分。确定吗？
 Crafting_Cost	COST	花费
 Crafting_Crafted	CRAFTED!	打造完成！
 Crafting_FragmentsCounter	{0}/{1} RECIPE FRAGMENTS FOUND	发现{0}/{1}的配方碎片
@@ -1056,7 +1056,7 @@ Generic_Radaway	RADAWAY	消辐宁
 Generic_Resources	RESOURCE	资源
 Generic_Stimpack	STIMPAK	治疗针
 Generic_Theme	THEME	主题
-Generic_UltraciteWeapon	ULTRACITE WEAPON	超导体武器
+Generic_UltraciteWeapon	ULTRACITE WEAPON	超铀武器
 Generic_Water	WATER	水
 Generic_Weapon	WEAPON	武器
 Ghoul_Name	Feral Ghoul	狂尸鬼
@@ -2389,7 +2389,7 @@ Junk_Name_Shovel	Shovel	铲子
 Junk_Name_TeddyBear	Teddy Bear	泰迪熊
 Junk_Name_ToyCar	Toy Car	玩具车
 Junk_Name_TriFoldFlag	Tri-Fold Flag	三色旗
-Junk_Name_Ultracite	Ultracite	超导体
+Junk_Name_Ultracite	Ultracite	超铀
 Junk_Name_Wonderglue	Wonderglue	神奇胶水
 Junk_Name_YaoGuaiHide	Yao Guai Hide	妖怪熊皮
 Junk_Name_Yarn	Yarn	纱线
@@ -2533,7 +2533,7 @@ Menu_Loading	LOADING	加载中
 Menu_NowLoading	Now loading...	正在加载……
 Message_Androind_QuitWarning_Text	Are you sure you want to quit Fallout Shelter?	您确定要退出《辐射 避难所》吗？
 Message_Androind_QuitWarning_Title	QUIT	退出
-Message_CannotBuildUltraciteMine	NO VALID BUILDING SPACES. ULTRACITE MINES MUST BE BUILT ON AN ULTRACITE DEPOSIT AND CONNECTED TO THE VAULT.	没有有效建造位置。超导体矿场必须建在超导体矿床上且连接至避难所。
+Message_CannotBuildUltraciteMine	NO VALID BUILDING SPACES. ULTRACITE MINES MUST BE BUILT ON AN ULTRACITE DEPOSIT AND CONNECTED TO THE VAULT.	没有有效建造位置。超铀矿场必须建在超铀矿床上且连接至避难所。
 Message_CannotClaimInExVault	You must be in a Standard Vault to claim this reward.	你必须在标准避难所中才能领取此奖励。
 Message_CantDestroyRoom_Dweller	You can't destroy this room because it has Dwellers assigned to it.	不能摧毁这个房间，因为其中有居民。
 Message_CantDestroyRoom_InUse	You can't destroy this room because it is being used	不能摧毁这个房间，因为它正被使用
@@ -2858,20 +2858,20 @@ Message_TutorialPopup_BuildUltraciteMine_Body	Your Vault is on top of a valuable
 
 Build an Ultracite mine to collect it, then create powerful Ultracite weapons at the Ultracite Weapon Workshop.
 
-You'll need them to defend against the Scorched!	您的避难所建立在一种名为超导体的珍贵矿物之上。
+You'll need them to defend against the Scorched!	您的避难所建立在一种名为超铀的珍贵矿物之上。
 
-建造一座超导体矿场来开采它，然后在超导体武器工坊中打造强力的超导体武器。
+建造一座超铀矿场来开采它，然后在超铀武器工坊中打造强力的超铀武器。
 
 您需要它们来抵御焦尸！
 Message_TutorialPopup_BuildUltraciteMine_Hint	Hint: High-Endurance dwellers will significantly reduce the mining timer. Don't spend your life waiting!	提示:高耐力居民将显著减少采矿所需的计时器时间。别把时间浪费在等待上！
-Message_TutorialPopup_BuildUltraciteMine_Title	Ultracite	超导体
+Message_TutorialPopup_BuildUltraciteMine_Title	Ultracite	超铀
 Message_TutorialPopup_BuildUltraciteWeaponFactory_Body	Time to fight back against the Scorched!
 
 Build an Ultracite Weapon Workshop to craft powerful Ultracite Weapons and defend your Vault.	是时候反击焦尸了！
 
-建造超导体武器工坊，打造强力的超导体武器，保卫您的避难所。
-Message_TutorialPopup_BuildUltraciteWeaponFactory_Hint	Hint: Ultracite Weapons deal extra damage to Scorched.	提示:超导体武器能对焦尸造成额外伤害。
-Message_TutorialPopup_BuildUltraciteWeaponFactory_Title	Crafting Ultracite Weapons	制造超导体武器
+建造超铀武器工坊，打造强力的超铀武器，保卫您的避难所。
+Message_TutorialPopup_BuildUltraciteWeaponFactory_Hint	Hint: Ultracite Weapons deal extra damage to Scorched.	提示:超铀武器能对焦尸造成额外伤害。
+Message_TutorialPopup_BuildUltraciteWeaponFactory_Title	Crafting Ultracite Weapons	制造超铀武器
 Message_TutorialPopup_ScorchedAttackWarning_Body	Scorched are on their way to attack your Vault!
 
 Scorched are tougher and more powerful than normal invaders, but your Dwellers will be revived for free at the end of the fight.
@@ -2888,8 +2888,8 @@ Message_TutorialPopup_UltraciteWeapons_Body	These Scorched are tough!
 It looks like help is arriving from the Wasteland. And they have a glowing green sword...?	这些焦尸很难对付！
 
 看起来有帮手正从废土赶来。而且他们还拿着一把发着绿光的剑……？
-Message_TutorialPopup_UltraciteWeapons_Hint	Hint: Ultracite weapons deal extra damage to Scorched.	提示:超导体武器能对焦尸造成额外伤害。
-Message_TutorialPopup_UltraciteWeapons_Title	Ultracite Weapons	超导体武器
+Message_TutorialPopup_UltraciteWeapons_Hint	Hint: Ultracite weapons deal extra damage to Scorched.	提示:超铀武器能对焦尸造成额外伤害。
+Message_TutorialPopup_UltraciteWeapons_Title	Ultracite Weapons	超铀武器
 Message_Tutorial_01	Welcome to your new Vault, {OVERSEER}. Let's introduce you to the basic concepts.	欢迎来到您的新避难所，{监督者}。让我先给您介绍几个基本概念。
 Message_Tutorial_02	First let's {BUILD} a {ROOM}. Tap on the {HAMMER ICON} to open the {BUILD MENU}.	首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。
 Message_Tutorial_02_PC	First let's {BUILD} a {ROOM}. Click on the {HAMMER ICON} to open the {BUILD MENU}.	首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。
@@ -3055,18 +3055,18 @@ Message_Tutorial_SpinToWinOpenModal_Xbox	{SELECT} the {WHEEL BUTTON} to open the
 Message_Tutorial_SpinToWinSpin	{TAP} the button to SPIN! THAT! WHEEL!	{点击}按下按钮，转！那！个！盘！
 Message_Tutorial_SpinToWinSpin_PC	{CLICK} the button to SPIN! THAT! WHEEL!	{点击}按下按钮，转！那！个！盘！
 Message_Tutorial_SpinToWinSpin_Xbox	{SELECT} the button to SPIN! THAT! WHEEL!	{选择}按下按钮，转！那！个！盘！
-Message_Tutorial_UltraciteWeaponCraftingAssignDweller	{ASSIGN} any Dweller to the {ULTRACITE WEAPON FACTORY}.	{分配}任意一名居民到{超导体武器工坊}。
-Message_Tutorial_UltraciteWeaponCraftingConclusion	{TAP} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{超导体武器}来打造。升级{超导体武器工坊}即可解锁更多配方。
-Message_Tutorial_UltraciteWeaponCraftingConclusion_PC	{CLICK} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{超导体武器}来打造。升级{超导体武器工坊}即可解锁更多配方。
-Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox	Use the {LEFT STICK} to {SELECT} an {ULTRACITE WEAPON} and {PRESS} [A] to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	用{左摇杆}{选择}一把{超导体武器}，然后{按下}来打造。升级{超导体武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingAssignDweller	{ASSIGN} any Dweller to the {ULTRACITE WEAPON FACTORY}.	{分配}任意一名居民到{超铀武器工坊}。
+Message_Tutorial_UltraciteWeaponCraftingConclusion	{TAP} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{超铀武器}来打造。升级{超铀武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingConclusion_PC	{CLICK} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{超铀武器}来打造。升级{超铀武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox	Use the {LEFT STICK} to {SELECT} an {ULTRACITE WEAPON} and {PRESS} [A] to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	用{左摇杆}{选择}一把{超铀武器}，然后{按下}来打造。升级{超铀武器工坊}即可解锁更多配方。
 Message_Tutorial_UltraciteWeaponCraftingCraftingMessage	{TAP} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}.	{点击}{制造按钮}来{打开}{制造菜单}。
 Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_PC	{CLICK} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}.	{点击}{制造按钮}来{打开}{制造菜单}。
 Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_Xbox	Press [DU] to {OPEN} the {CRAFTING MENU}.	按来{打开}{制造菜单}。
-Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom	Let's start crafting! {DOUBLE TAP} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{超导体武器工坊}近距离查看。
-Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_PC	Let's start crafting! {DOUBLE CLICK} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{超导体武器工坊}近距离查看。
-Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox	Let's start crafting! {HOLD} [RT] on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！在{超导体武器工坊}上{长按}近距离查看。
-Message_Tutorial_UltraciteWeaponCraftingIntroduction	Time to fight back against those {SCORCHED}! Now that we have some {ULTRACITE}, let's use it to craft some powerful new {WEAPONS}.	是时候反击那些{焦尸}了！既然我们已经有了{超导体}，就用它来打造几件强力的新{武器}吧。
-Message_UltraciteToolTip	Cannot be destroyed. Build an Ultracite Mine here.	无法摧毁。在此建造超导体矿场。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom	Let's start crafting! {DOUBLE TAP} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{超铀武器工坊}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_PC	Let's start crafting! {DOUBLE CLICK} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{超铀武器工坊}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox	Let's start crafting! {HOLD} [RT] on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！在{超铀武器工坊}上{长按}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingIntroduction	Time to fight back against those {SCORCHED}! Now that we have some {ULTRACITE}, let's use it to craft some powerful new {WEAPONS}.	是时候反击那些{焦尸}了！既然我们已经有了{超铀}，就用它来打造几件强力的新{武器}吧。
+Message_UltraciteToolTip	Cannot be destroyed. Build an Ultracite Mine here.	无法摧毁。在此建造超铀矿场。
 Message_VaultCapacity_Full_BuildMenu	Limit Reached.	达到上限。
 Message_VaultMaxPets	You have already given Pets to {0} Dwellers, the maximum number of Pets allowed by Vault-Tec.	您已经给{0}位居民分配了宠物，达到了避难所科技允许的最大值。
 Message_Vault_Full	You have 200 Dwellers, the maximum number of Dwellers allowed by Vault-Tec.	您已拥有200位居民，已达到避难所科技允许的最大人口数。
@@ -3343,8 +3343,8 @@ NukaQuantum_Shop_Title_Fridge	Fridge	一冰箱
 NukaQuantum_Shop_Title_SixPack	Six Pack	六瓶装
 NukaQuantum_Shop_Title_Truck	Truck	一卡车
 Nuka_Caps	CAPS	瓶盖
-Objective_AssignDwellersToUltraciteMine	Assign a Dweller with at least {0} {1} to an Ultracite Mine	将至少拥有{0}点{1}属性的居民分配至超能晶石矿场
-Objective_AssignDwellersToUltraciteMine_Plural	Assign {0} Dwellers with at least {1} {2} to an Ultracite Mine	将{0}名至少拥有{1}点{2}属性的居民分配至超能晶石矿场
+Objective_AssignDwellersToUltraciteMine	Assign a Dweller with at least {0} {1} to an Ultracite Mine	将至少拥有{0}点{1}属性的居民分配至超铀矿场
+Objective_AssignDwellersToUltraciteMine_Plural	Assign {0} Dwellers with at least {1} {2} to an Ultracite Mine	将{0}名至少拥有{1}点{2}属性的居民分配至超铀矿场
 Objective_BaldDwellersInVault	Have 1 Bald Dweller in the Vault	在避难所里有1位光头的居民
 Objective_BaldDwellersInVault_Plural	Have {0} Bald Dwellers in the Vault	在避难所里有{0}位光头的居民
 Objective_BarberShop	Customize 1 Dweller	个性化1位居民
@@ -3352,8 +3352,8 @@ Objective_BarberShop_Plural	Customize {0} Dwellers	个性化{0}位居民
 Objective_BuildOverseerOffice	Build an Overseer's Office	建造一间监管者办公室
 Objective_BuildRoom	Build 1 room	建造1间房间
 Objective_BuildRoom_Plural	Build {0} rooms	建造{0}间房间
-Objective_BuildUltraciteMine	Build 1 Ultracite Mine	建造1座超能晶石矿场
-Objective_BuildUltraciteMine_Plural	Build {0} Ultracite Mines	建造{0}座超能晶石矿场
+Objective_BuildUltraciteMine	Build 1 Ultracite Mine	建造1座超铀矿场
+Objective_BuildUltraciteMine_Plural	Build {0} Ultracite Mines	建造{0}座超铀矿场
 Objective_CollectCaps	Collect 200 CAPS in the Vault	在避难所里收集200个瓶盖
 Objective_CollectCapsOnQuests	Collect {0} CAP on Quests	在任务中收集{0}个瓶盖
 Objective_CollectCapsOnQuests_Plural	Collect {0} CAPS on Quests	在任务中收集{0}个瓶盖
@@ -3376,9 +3376,9 @@ Objective_CollectRareOufits_Plural	Collect {0} Rare Outfits	收集{0}件稀有�
 Objective_CollectRareWeapons	Collect {0} Rare Weapon	收集{0}件稀有武器
 Objective_CollectRareWeapons_Plural	Collect {0} Rare Weapons	收集{0}件稀有武器
 Objective_CollectResourcesWithinTime	Collect {0} Power/Food/Water in under 1 minute	在一分钟内收集{0}电力/食物/水
-Objective_CollectUltracite	Collect 1 piece of Ultracite	收集1块超能晶石
-Objective_CollectUltraciteWithinTime	Collect {0} Ultracite in under 1 minute	在1分钟内收集{0}块超能晶石
-Objective_CollectUltracite_Plural	Collect {0} pieces of Ultracite	收集{0}块超能晶石
+Objective_CollectUltracite	Collect 1 piece of Ultracite	收集1块超铀
+Objective_CollectUltraciteWithinTime	Collect {0} Ultracite in under 1 minute	在1分钟内收集{0}块超铀
+Objective_CollectUltracite_Plural	Collect {0} pieces of Ultracite	收集{0}块超铀
 Objective_CollectWaterWithinTime	Collect {0} Water in under 1 minute	在一分钟内收集{0}水
 Objective_CollectWeapons	Collect 1 Weapon	收集一件武器
 Objective_CollectWeaponsOnQuests	Collect a Weapon on a Quest	在任务中收集1件武器
@@ -3393,20 +3393,20 @@ Objective_CompleteQuestsWithoutStimpacks	Complete a Quest without using Stimpack
 Objective_CompleteQuestsWithoutStimpacks_Plural	Complete {0} Quests without using Stimpacks	在不使用刺激包的情况下完成{0}个任务
 Objective_Couple	Have a Male and a Female Dweller couple dancing in the Living Quarters	有一对男女居民，在宿舍里跳舞
 Objective_Couple_Plural	Have {0} Male and Female couples dance in the Living Quarters	有{0}对男女性居民在宿舍里跳舞
-Objective_CraftCommonUltraciteWeapon	Craft 1 Common Ultracite Weapon	制造1件普通超能晶石武器
-Objective_CraftCommonUltraciteWeapon_Plural	Craft {0} Common Ultracite Weapons	制造{0}件普通超能晶石武器
+Objective_CraftCommonUltraciteWeapon	Craft 1 Common Ultracite Weapon	制造1件普通超铀武器
+Objective_CraftCommonUltraciteWeapon_Plural	Craft {0} Common Ultracite Weapons	制造{0}件普通超铀武器
 Objective_CraftLegendaryOutfits	Craft 1 Legendary Outfit	制造1件传奇服装
 Objective_CraftLegendaryOutfits_Plural	Craft {0} Legendary Outfits	制造{0}件传奇服装
-Objective_CraftLegendaryUltraciteWeapon	Craft 1 Legendary Ultracite Weapon	制造1件传奇超能晶石武器
-Objective_CraftLegendaryUltraciteWeapon_Plural	Craft {0} Legendary Ultracite Weapons	制造{0}件传奇超能晶石武器
+Objective_CraftLegendaryUltraciteWeapon	Craft 1 Legendary Ultracite Weapon	制造1件传奇超铀武器
+Objective_CraftLegendaryUltraciteWeapon_Plural	Craft {0} Legendary Ultracite Weapons	制造{0}件传奇超铀武器
 Objective_CraftLegendaryWeapons	Craft 1 Legendary Weapon	制造1件传奇武器
 Objective_CraftLegendaryWeapons_Plural	Craft {0} Legendary Weapons	制造{0}件传奇武器
 Objective_CraftOutfits	Craft 1 Outfit	打造1件装备
 Objective_CraftOutfits_Plural	Craft {0} Outfits	打造{0}件装备
 Objective_CraftRareOutfits	Craft 1 Rare Outfit	打造1件稀有装备
 Objective_CraftRareOutfits_Plural	Craft {0} Rare Outfits	打造{0}稀有装备
-Objective_CraftRareUltraciteWeapon	Craft 1 Rare Ultracite Weapon	制造1件稀有超能晶石武器
-Objective_CraftRareUltraciteWeapon_Plural	Craft {0} Rare Ultracite Weapons	制造{0}件稀有超能晶石武器
+Objective_CraftRareUltraciteWeapon	Craft 1 Rare Ultracite Weapon	制造1件稀有超铀武器
+Objective_CraftRareUltraciteWeapon_Plural	Craft {0} Rare Ultracite Weapons	制造{0}件稀有超铀武器
 Objective_CraftRareWeapons	Craft 1 Rare Weapon	打造1件稀有武器
 Objective_CraftRareWeapons_Plural	Craft {0} Rare Weapons	打造{0}件稀有武器
 Objective_CraftStimpack	Craft 1 Stimpak	制造1个刺激包
@@ -3419,8 +3419,8 @@ Objective_DwellerHappy	Raise the happiness of 1 Dweller to 100%	将1个居民的
 Objective_DwellerHappy_Plural	Raise the happiness of {0} Dwellers to 100%	将{0}个居民的幸福度提升到100%
 Objective_EquipRandomWeapon	Equip 1 Dweller with a {1}	给1个居民配备了一件{1}
 Objective_EquipRandomWeapon_Plural	Equip {0} Dwellers with a {1}	给{0}个居民配备了一件{1}
-Objective_EquipUltraciteWeapon	Equip 1 Dweller with an Ultracite Weapon	为1名居民装备超能晶石武器
-Objective_EquipUltraciteWeapon_Plural	Equip {0} Dwellers with Ultracite Weapons	为{0}名居民装备超能晶石武器
+Objective_EquipUltraciteWeapon	Equip 1 Dweller with an Ultracite Weapon	为1名居民装备超铀武器
+Objective_EquipUltraciteWeapon_Plural	Equip {0} Dwellers with Ultracite Weapons	为{0}名居民装备超铀武器
 Objective_ExploreWastelandDays	Have a Dweller exploring the Wasteland for 1 day	让一个居民废土上探险一天
 Objective_ExploreWastelandDays_Plural	Have a Dweller exploring the Wasteland for {0} days	让一个居民在废土探险{0}天
 Objective_ExploreWastelandHours	Have a Dweller exploring the Wasteland for 1 hour	让一个居民在废土上探险一小时
@@ -3441,8 +3441,8 @@ Objective_KillEnemiesOnQuests	Kill an enemy on a Quest	在任务中消灭1名敌
 Objective_KillEnemiesOnQuests_Plural	Kill {0} enemies on Quests	在任务中消灭{0}名敌人
 Objective_KillEnemyAtVaultDoor	Kill 1 {1} at the Vault door	在避难所门厅杀死1个{1}
 Objective_KillEnemyAtVaultDoor_Plural	Kill {0} {1} at the Vault door	在避难所门厅杀死{0}个{1}
-Objective_KillEnemyWithUltraciteWeapons	Kill 1 enemy using Ultracite weapons	使用超能晶石武器消灭1名敌人
-Objective_KillEnemyWithUltraciteWeapons_Plural	Kill {0} enemies using Ultracite weapons	使用超能晶石武器消灭{0}名敌人
+Objective_KillEnemyWithUltraciteWeapons	Kill 1 enemy using Ultracite weapons	使用超铀武器消灭1名敌人
+Objective_KillEnemyWithUltraciteWeapons_Plural	Kill {0} enemies using Ultracite weapons	使用超铀武器消灭{0}名敌人
 Objective_KillRadroaches	Kill a Radroach	消灭1只辐射小强
 Objective_KillRadroaches_Plural	Kill {0} Radroaches	消灭{0}只辐射小强
 Objective_KillRadscorpions	Kill a Radscorpion	消灭1只辐射蝎
@@ -12885,18 +12885,18 @@ Room_SuperRoom2_2	FITNESS STUDIO	健身工作室
 Room_SuperRoom2_3	FITNESS CENTER	健身中心
 Room_SuperRoom2_Build	Build a FITNESS ROOM?	建造一间健身房？
 Room_SuperRoom2_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR ENDURANCE	将居民分配在这里训练耐力
-Room_UltraciteMining	ULTRACITE MINE	超导体矿场
-Room_UltraciteMining_2	ULTRACITE MINING RIG	超导体采矿机
-Room_UltraciteMining_3	ULTRACITE EXTRACTION SITE	超导体开采站
-Room_UltraciteMining_Build	Build an ULTRACITE MINE?	建造超导体矿场？
-Room_UltraciteMining_Desc	ASSIGN DWELLERS HERE TO MINE ULTRACITE ORE. THE ORE CAN BE USED TO CRAFT WEAPONS AT THE ULTRACITE WEAPON WORKSHOP	在此分配居民开采超导体矿石。矿石可在超导体武器工坊中用于制造武器
-Room_UltraciteWeaponFactory	ULTRACITE WEAPON WORKSHOP	超导体武器工坊
-Room_UltraciteWeaponFactory_2	ULTRACITE WEAPON FACTORY	超导体武器工厂
-Room_UltraciteWeaponFactory_3	ULTRACITE WEAPON PLANT	超导体武器车间
-Room_UltraciteWeaponFactory_Build	Build an ULTRACITE WEAPON WORKSHOP?	建造超导体武器工坊？
-Room_UltraciteWeaponFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT ULTRACITE WEAPONS	在此分配居民制造超导体武器
-Room_UltraciteWeaponFactory_Upgrade_Level2	Craft Rare Ultracite Weapons	制造稀有超导体武器
-Room_UltraciteWeaponFactory_Upgrade_Level3	Craft Legendary Ultracite Weapons	制造传奇超导体武器
+Room_UltraciteMining	ULTRACITE MINE	超铀矿场
+Room_UltraciteMining_2	ULTRACITE MINING RIG	超铀采矿机
+Room_UltraciteMining_3	ULTRACITE EXTRACTION SITE	超铀开采站
+Room_UltraciteMining_Build	Build an ULTRACITE MINE?	建造超铀矿场？
+Room_UltraciteMining_Desc	ASSIGN DWELLERS HERE TO MINE ULTRACITE ORE. THE ORE CAN BE USED TO CRAFT WEAPONS AT THE ULTRACITE WEAPON WORKSHOP	在此分配居民开采超铀矿石。矿石可在超铀武器工坊中用于制造武器
+Room_UltraciteWeaponFactory	ULTRACITE WEAPON WORKSHOP	超铀武器工坊
+Room_UltraciteWeaponFactory_2	ULTRACITE WEAPON FACTORY	超铀武器工厂
+Room_UltraciteWeaponFactory_3	ULTRACITE WEAPON PLANT	超铀武器车间
+Room_UltraciteWeaponFactory_Build	Build an ULTRACITE WEAPON WORKSHOP?	建造超铀武器工坊？
+Room_UltraciteWeaponFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT ULTRACITE WEAPONS	在此分配居民制造超铀武器
+Room_UltraciteWeaponFactory_Upgrade_Level2	Craft Rare Ultracite Weapons	制造稀有超铀武器
+Room_UltraciteWeaponFactory_Upgrade_Level3	Craft Legendary Ultracite Weapons	制造传奇超铀武器
 Room_Upgrade_Not_Enough_Dwellers	{0} DWELLERS REQUIRED	需要{0}个居民
 Room_Upgrade_Not_Enough_Dwellers_LegendaryOutfits	Upgrade the room to Level 3 to craft Legendary Outfits.	将房间升到3级可以打造传奇装备
 Room_Upgrade_Not_Enough_Dwellers_LegendaryWeapons	Upgrade the room to Level 3 to craft Legendary Weapons.	将房间升到3级可以打造传奇武器
@@ -12936,12 +12936,12 @@ Scrapping_Result_Rare	RARE JUNK RECOVERED!	获得稀有级别的杂物
 Screenshot_Facebook_Message	Check out my Vault!	查看一下我的避难所！
 Screenshot_Standard_Message	Check out my Vault!	查看一下我的避难所！
 Screenshot_Twitter_Message	#FalloutShelter Check out my Vault!	#辐射避难所查看一下我的避难所！
-Season1_Description	Vault-Tec has assigned you to the Ultracite Fever experiment! The Ultracite deposits under your Vault will attract an army of vicious Scorched. Mine Ultracite to craft powerful Ultracite Weapons, and extend some classic Vault-Tec hospitality. Don't worry, any dwellers who perish in these attacks will be revived free of charge! Good luck, Overseer, and don't forget to smile!	避难所科技将您分配到超导体狂热实验中！您避难所下方的超导体矿床将吸引一支凶残的焦尸大军。开采超导体以打造强大的超导体武器，同时展示一下避难所科技的传统好客之道。别担心，在这些袭击中牺牲的居民将免费复活！祝您好运，监督者，别忘了保持微笑！
+Season1_Description	Vault-Tec has assigned you to the Ultracite Fever experiment! The Ultracite deposits under your Vault will attract an army of vicious Scorched. Mine Ultracite to craft powerful Ultracite Weapons, and extend some classic Vault-Tec hospitality. Don't worry, any dwellers who perish in these attacks will be revived free of charge! Good luck, Overseer, and don't forget to smile!	避难所科技将您分配到超铀狂热实验中！您避难所下方的超铀矿床将吸引一支凶残的焦尸大军。开采超铀以打造强大的超铀武器，同时展示一下避难所科技的传统好客之道。别担心，在这些袭击中牺牲的居民将免费复活！祝您好运，监督者，别忘了保持微笑！
 Season1_IntroPopup_Body	Test your skills as Overseer in this season's new Experimental Vault! Experimental Vaults introduce fresh twists and unique rewards. Seasons only last a short time - don't miss out!	在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
-Season1_IntroPopup_Title	THE SEASON OF ULTRACITE FEVER IS HERE	超导体狂热赛季来袭！
-Season1_SeasonEndPopup_Title	THE SEASON OF 'ULTRACITE FEVER' HAS ENDED	“超导体狂热”赛季已结束
-Season1_Title	SHELTER SEASON: ULTRACITE FEVER	避难所赛季：超导体狂热
-Season1_Title_Short	ULTRACITE FEVER	超导体狂热
+Season1_IntroPopup_Title	THE SEASON OF ULTRACITE FEVER IS HERE	超铀狂热赛季来袭！
+Season1_SeasonEndPopup_Title	THE SEASON OF 'ULTRACITE FEVER' HAS ENDED	“超铀狂热”赛季已结束
+Season1_Title	SHELTER SEASON: ULTRACITE FEVER	避难所赛季：超铀狂热
+Season1_Title_Short	ULTRACITE FEVER	超铀狂热
 SeasonModal_BattlePass_GetNow_Btn	GET NOW	立即获取
 SeasonModal_BattlePass_LockedReward_Premium	Unlock with Season Pass	解锁赛季通行证以获取
 SeasonModal_BattlePass_LockedReward_Rank	Unlocked at Rank {0}	等级{0}后解锁
@@ -13013,13 +13013,13 @@ SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_Ultracite	• Build Rooms
 • 升级房间
 • 获得居民
 • 在焦尸袭击中生还
-• 开采超导体
-• 打造超导体武器
+• 开采超铀
+• 打造超铀武器
 SeasonModal_Leaderboard_ScoreInfoPopup_BuildRooms	Build Rooms	建造房间
 SeasonModal_Leaderboard_ScoreInfoPopup_CompleteQuests	Complete Quests	完成任务
-SeasonModal_Leaderboard_ScoreInfoPopup_CraftUltraciteWeapons	Craft Ultracite Weapons	打造超导体武器
+SeasonModal_Leaderboard_ScoreInfoPopup_CraftUltraciteWeapons	Craft Ultracite Weapons	打造超铀武器
 SeasonModal_Leaderboard_ScoreInfoPopup_Heading	To increase your score perform the following actions in an Experimental Vault:	在实验避难所中执行以下操作以提升评分：
-SeasonModal_Leaderboard_ScoreInfoPopup_MineUltracite	Mine Ultracite	开采超导体
+SeasonModal_Leaderboard_ScoreInfoPopup_MineUltracite	Mine Ultracite	开采超铀
 SeasonModal_Leaderboard_ScoreInfoPopup_PerformCriticalHits	Perform Critical Hits	释放暴击
 SeasonModal_Leaderboard_ScoreInfoPopup_SurviveScorchedAttacks	Survive Scorched Attacks	在焦尸袭击中生还
 SeasonModal_Leaderboard_ScoreInfoPopup_UpgradeRooms	Upgrade Rooms	升级房间
@@ -13132,8 +13132,8 @@ Shop_SeasonPass_Blurb	Unlock All Season Rewards:
   • [-][F7C531]ULTRACITE WEAPONS[-] and [-][F7C531]MORE![-]	解锁所有赛季奖励：
 - 全新避难所外观[-][F7C531]主题[-]
 - 全新武器工坊[-][F7C531]主题[-]
-- [-][F7C531]超导体武器[-]及[-][F7C531]更多！[-]
-Shop_SeasonPass_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Weapon Workshop THEME, Ultracite Weapons and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、武器工坊主题、超导体武器等更多内容。奖励可在所有避难所领取。
+- [-][F7C531]超铀武器[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Weapon Workshop THEME, Ultracite Weapons and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、武器工坊主题、超铀武器等更多内容。奖励可在所有避难所领取。
 Shop_SeasonPass_EnclavePremium_Blurb	All the Benefits of the Season Pass plus:
   • Exclusive [-][F7C531]CYBERDOG PET[-] and [-][F7C531]NEW OUTFIT[-]
   • [-][F7C531]BONUS[-] Pets, Outfits and Weapons
@@ -13205,7 +13205,7 @@ Shop_SeasonPass_Premium_Blurb	All the Benefits of the Season Pass plus:
 - 独家[-][F7C531]传奇居民[-]
 - [-][F7C531]额外[-]宠物、服装和武器
 - [-][F7C531]25枚徽章[-]立即提升赛季等级
-Shop_SeasonPass_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Cait and Zeke, a T-60f Power Armor, a Heavy Battle Armor, a Commander Uniform, 2 Pet Carriers, an Ultracite Gatling Laser, and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力甲、重型战斗甲、指挥官制服、2个宠物箱、超导体加特林激光枪，以及5000瓶盖。
+Shop_SeasonPass_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Cait and Zeke, a T-60f Power Armor, a Heavy Battle Armor, a Commander Uniform, 2 Pet Carriers, an Ultracite Gatling Laser, and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力甲、重型战斗甲、指挥官制服、2个宠物箱、超铀加特林激光枪，以及5000瓶盖。
 Shop_SeasonPass_Premium_Title	PREMIUM PASS	高级通行证
 Shop_SeasonPass_Title	SEASON PASS	赛季通行证
 Shop_StarterPack_Line1	Jumpstart your Vault with everything needed to get your underground life started quickly. Includes a Legendary Dweller, 2 Rare Dwellers, a Legendary Pet and a Mr. Handy. Plus Nuka-Cola Quantum and lots of Vault resources. Limit 1 per Vault.	给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。
@@ -14666,7 +14666,7 @@ Theme_Name_Standard_WeaponFactory	Standard Weapon Plant	标准武器车间
 Theme_Name_SunsetSarsaparilla	Sunset Sarsaparilla	日落沙士
 Theme_Name_Thanksgiving_Diner	Thanksgiving Diner	感恩节餐厅
 Theme_Name_Thanksgiving_LivingQuarters	Thanksgiving Living Quarters	感恩节宿舍
-Theme_Name_UltraciteWeaponFactory	Ultracite Weapon Plant	超导体武器车间
+Theme_Name_UltraciteWeaponFactory	Ultracite Weapon Plant	超铀武器车间
 Theme_Name_Vault33_Diner	Vault 33 Diner	33号避难所餐厅
 Theme_Name_Vault33_LivingQuarters	Vault 33 Living Quarters	33号避难所宿舍
 Theme_ShortName_AnniversaryParty	Party	派对
@@ -14812,7 +14812,7 @@ Title_StorageSpace	STORAGE SPACE:	存储空间：
 Title_Success	SUCCESS!	成功！
 Title_SurvivalGuideSmall	Survival Guide	生存指南
 Title_Time	TIME	时间
-Title_UltraciteToolTip	ULTRACITE DEPOSIT	超导体矿床
+Title_UltraciteToolTip	ULTRACITE DEPOSIT	超铀矿床
 Title_Unlock	UNLOCK	解锁
 Title_UnlockRoom	UNLOCK ROOM	解锁
 房间
@@ -15406,9 +15406,9 @@ Weapon_Description_SurgicalRipper_Rusty	This thing has no place in a proper surg
 Weapon_Description_T60Pistol	Use with appropriate augments to avoid self-maiming.	需要使用适当的增强配件，以避免伤到自己。
 Weapon_Description_TranqPistol	Sometimes it's better to leave a target breathing. Not sure when, but I assume it's sometimes.	有时让目标活着是更好的选择。什么时候比较好，我也不太清楚。
 Weapon_Description_TriBeamLaserRifle	For those who feel that firing one laser just isn't enough.	适合那些觉得一发激光还不够的人。
-Weapon_Description_UltraciteGatling1	Ultracite ore spinning faster than the speed of screams.	超能晶石矿石旋转速度超越了呼声的极限。
+Weapon_Description_UltraciteGatling1	Ultracite ore spinning faster than the speed of screams.	超铀矿石旋转速度超越了呼声的极限。
 Weapon_Description_UltraciteGatling2	Dozens of refined lumps of ore crammed into an enormous gun. What could go wrong?	将数十块精炼矿石塞进一门巨炮，能出什么问题？
-Weapon_Description_UltracitePlasma1	Instant Ultracite plasma destruction. Just add power!	即刻产生超能晶石等离子破坏效果，注入能量即可！
+Weapon_Description_UltracitePlasma1	Instant Ultracite plasma destruction. Just add power!	即刻产生超铀等离子破坏效果，注入能量即可！
 Weapon_Description_UltracitePlasma2	Fabulously focused photons for fatally fusing fiends.	精准聚焦的光子束，用于对付顽固的敌人。
 Weapon_Description_UltraciteSword1	For those times when all you have is a big gem, but what you need is a killing machine.	当你手头只有一块大宝石，却需要一件致命武器时。
 Weapon_Description_UltraciteSword2	Scary sharp. Don't put it under your pillow.	锋利得令人生畏，别把它放在枕头下面。
@@ -15677,12 +15677,12 @@ Weapon_Name_T60Pistol	T60 Pistol	T60手枪
 Weapon_Name_TenpennySniperRifle	Tenpenny's Sniper Rifle	十便士狙击步枪
 Weapon_Name_TranqPistol	Tranq Gun	麻醉枪
 Weapon_Name_TriBeamLaserRifle	Tri-Beam Laser Rifle	三束激光步枪
-Weapon_Name_UltraciteGatling1	Ultracite Gatling Laser	超导体加特林激光枪
-Weapon_Name_UltraciteGatling2	Maximized Ultracite Gatling Laser	极限超导体加特林激光枪
-Weapon_Name_UltracitePlasma1	Ultracite Plasma Rifle	超导体等离子步枪
-Weapon_Name_UltracitePlasma2	Optimized Ultracite Plasma Rifle	优化超导体等离子步枪
-Weapon_Name_UltraciteSword1	Ultracite Sword	超导体剑
-Weapon_Name_UltraciteSword2	Ultracite Terror Sword	超导体恐惧之剑
+Weapon_Name_UltraciteGatling1	Ultracite Gatling Laser	超铀加特林激光枪
+Weapon_Name_UltraciteGatling2	Maximized Ultracite Gatling Laser	极限超铀加特林激光枪
+Weapon_Name_UltracitePlasma1	Ultracite Plasma Rifle	超铀等离子步枪
+Weapon_Name_UltracitePlasma2	Optimized Ultracite Plasma Rifle	优化超铀等离子步枪
+Weapon_Name_UltraciteSword1	Ultracite Sword	超铀剑
+Weapon_Name_UltraciteSword2	Ultracite Terror Sword	超铀恐惧之剑
 Windows_Service_Error	Something went wrong. If the problem persists, please contact customer support.
 
 Error Code {0}	出现了错误，如果问题继续的话，请联系客服。
