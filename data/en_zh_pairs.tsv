@@ -1,6 +1,6 @@
 key	EN	中文
 Achievement_Xbox_Completed_01	Made 25 dialogue choices on Quests	在任务中做出了25个对话选择
-Achievement_Xbox_Completed_02	Killed 10 Quest Bosses	杀死10个任务boss
+Achievement_Xbox_Completed_02	Killed 10 Quest Bosses	消灭10个任务首领
 Achievement_Xbox_Completed_03	Completed 10 Quests	完成10个任务
 Achievement_Xbox_Completed_04	Completed 30 Quests	完成30个任务
 Achievement_Xbox_Completed_05	Completed 60 Quests	完成60个任务
@@ -16,7 +16,7 @@ Achievement_Xbox_Completed_14	Crafted 10 Outfits	打造了10件装备
 Achievement_Xbox_Completed_15	Crafted an Outfit, a Weapon and a Theme	打造了一件装备，一把武器和一个主题
 Achievement_Xbox_Completed_16	Changed the appearance of 10 Dwellers in the Barbershop	在美发室里改变了10个居民的外形
 Achievement_Xbox_Description_01	Make 25 dialogue choices on Quests	在任务中做出25个对话选择
-Achievement_Xbox_Description_02	Kill 10 Quest Bosses	杀死10个任务boss
+Achievement_Xbox_Description_02	Kill 10 Quest Bosses	消灭10个任务首领
 Achievement_Xbox_Description_03	Complete 10 Quests	完成10个任务
 Achievement_Xbox_Description_04	Complete 30 Quests	完成30个任务
 Achievement_Xbox_Description_05	Complete 60 Quests	完成60个任务
@@ -259,7 +259,7 @@ Crafting_FreeJunk_Main2	MANY OTHER ITEMS CANNOT BE FOUND, ONLY CRAFTED. WHEN CHO
 Crafting_FreeJunk_Title	IT'S TIME TO START CRAFTING!	可以开始打造了！
 Crafting_InProgress	CRAFTING IN PROGRESS	打造进行中
 Crafting_Junk_Required	RECIPE REQUIRED	需要配方
-Crafting_Start_Confirmation	Craft {0}?	打造{0}?
+Crafting_Start_Confirmation	Craft {0}?	打造{0}？
 Crafting_Time	TIME	时间
 CurieDialog_Armory_01	I suppose this is where we learn to shoot each other better.	我猜这里就是我们学习如何更好地互相射击的地方。
 CurieDialog_Athletics_01	I had no idea humans were capable of these movements!	我没想到人类竟然能做出这些动作！
@@ -5106,7 +5106,7 @@ QuestLoc_CoveringAlltheBases_Conversation_1_NPCStart_1	Again, with the coming up
 QuestLoc_CoveringAlltheBases_QuestLongDescription	Still no sign of Coach, or Rackie Jobinson's Jersey. Time to venture farther out. No risk, no reward!	还是没有蔻驰或是棒球衫的影子。该去更远的地方了。不入虎穴，焉得虎子！
 QuestLoc_CoveringAlltheBases_QuestName	Covering All the Bases	占领所有基地
 QuestLoc_CoveringAlltheBases_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_CoveringAlltheBases_QuestShortDescription	Search farther out for Coach and the Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_CoveringAlltheBases_QuestShortDescription	Search farther out for Coach and the Jersey.	去更远的地方搜寻教练与棒球衫。
 QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCEnd_1	I said “Let our hunger consume you”!	我说：“让我们的饥饿吞噬你”！
 QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCStart_1	Scrumptious meaty Dwellers also on Death's trail. Delicious.	鲜嫩多肉的居民们也在追踪“死亡”的行踪。美味。
 QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCStart_2	But are they hungry enough? As hungry as the Hungry? I think not.	但是他们够饿吗？像“饥饿者”那样饥饿？我想是没有的。
@@ -5422,7 +5422,7 @@ QuestLoc_DivideandConquer_Conversation_2_NPCStart_2	Can you tell us if 1 is the 
 QuestLoc_DivideandConquer_Conversation_2_NPCStart_3	That's 0.9 with an infinitely repeating decimal.	这是一个无限重复小数点0.9。
 QuestLoc_DivideandConquer_Conversation_2_Team_1	No, 1 is larger than 0.999...	不，1大于0.999……
 QuestLoc_DivideandConquer_Conversation_2_Team_2	Yes, 1 is equal to 0.999...	是的，1等于0.999……
-QuestLoc_DivideandConquer_Conversation_2_Team_3	Here, check out my infinitely repeating firearm.	在这里，检查我无限反复的枪支。
+QuestLoc_DivideandConquer_Conversation_2_Team_3	Here, check out my infinitely repeating firearm.	来，见识见识我这把无限连发枪吧。
 QuestLoc_DivideandConquer_Conversation_3_NPCEnd_1	Normally I'd agree with you, but I'm feeling negative today.	通常我同意你的意见，但今天我并不想。
 QuestLoc_DivideandConquer_Conversation_3_NPCEnd_2	Maybe this was true once, but that's no longer the case.	也许曾经如此，但如今已不是这样了。
 QuestLoc_DivideandConquer_Conversation_3_NPCEnd_3	I can't add anything to this, you won fair and square.	我不能添加任何东西，你赢得光明正大。
@@ -7174,7 +7174,7 @@ QuestLoc_Ghooooooooooooooooooul_Conversation_1_NPCStart_3	I used to play quarter
 QuestLoc_Ghooooooooooooooooooul_Conversation_1_Team_1	Holy cow! Can I have your autograph?	我的天啊！我能找你要签名吗？
 QuestLoc_Ghooooooooooooooooooul_Conversation_1_Team_2	No, we've never heard of you, gramp.	不记得了，我们从没听说过你啊，老头儿。
 QuestLoc_Ghooooooooooooooooooul_QuestLongDescription	Strange radio signals have been emitting from Vault 93. Sounds like old sports broadcasts from before the bombs dropped. Go check it out!	从93号避难所传来了奇怪的无线电信号。听起来像是大爆炸之前的体育广播。
-QuestLoc_Ghooooooooooooooooooul_QuestName	Ghooooooooooooooooooul!	食…….尸……鬼……！！
+QuestLoc_Ghooooooooooooooooooul_QuestName	Ghooooooooooooooooooul!	尸……鬼……！
 QuestLoc_Ghooooooooooooooooooul_QuestObjective_1	Explore Vault 93.	探索93号避难所。
 QuestLoc_Ghooooooooooooooooooul_QuestShortDescription	Explore the ruins of Vault 93.	探索93号避难所废墟。
 QuestLoc_GhostlyGag_Conversation_1_NPCEnd_1	Ahhh! Run away!	啊啊啊！快跑！
@@ -7497,10 +7497,10 @@ QuestLoc_HalfFullHalfEmpty_QuestShortDescription	Find more info about the magica
 QuestLoc_HaveGunWillTravel_Conversation_1_NPCEnd_1	I think they headed to the Wilson Atomatoys Factory. Good luck!	我觉得他们好像去威尔逊原子玩具厂了。祝好运！
 QuestLoc_HaveGunWillTravel_Conversation_1_NPCStart_1	You looking for those Brotherhood soldiers?	你们在找那些钢铁兄弟会的士兵吗？
 QuestLoc_HaveGunWillTravel_Conversation_1_Team_1	Yeah! Do you know where they went?	是的！你知道他们去哪里了吗？
-QuestLoc_HaveGunWillTravel_QuestLongDescription	You found the holotape records of Maxson's Roughnecks, a Brotherhood of Steel team searching the Wasteland for technology. Track them down to discover their fate - starting at Vault 450!	你发现了“麦克森钻工”的全息磁带记录，这是钢铁兄弟会派去废土搜寻科技的小队。去追踪他们、查明他们的结局吧——就从450号避难所开始！
+QuestLoc_HaveGunWillTravel_QuestLongDescription	You found the holotape records of Maxson's Roughnecks, a Brotherhood of Steel team searching the Wasteland for technology. Track them down to discover their fate - starting at Vault 450!	你发现了“麦克森硬汉小队”的全息磁带记录，这是钢铁兄弟会派去废土搜寻科技的小队。去追踪他们、查明他们的结局吧——就从450号避难所开始！
 QuestLoc_HaveGunWillTravel_QuestName	Have Gun, Will Travel	拿起枪，我们走！
 QuestLoc_HaveGunWillTravel_QuestObjective_1	Explore Vault 450.	探索450号避难所。
-QuestLoc_HaveGunWillTravel_QuestShortDescription	Discover the fate of Maxson's Roughnecks.	揭开“麦克森钻工”的命运。
+QuestLoc_HaveGunWillTravel_QuestShortDescription	Discover the fate of Maxson's Roughnecks.	揭开“麦克森硬汉小队”的命运。
 QuestLoc_Headhunting_CombatInit1	For Mr. Manager!	为了经理大人！
 QuestLoc_Headhunting_CombatInit2	For storytime!	为了睡前故事！
 QuestLoc_Headhunting_QuestLongDesc	Apparently there's someone with some administrative skill who was kidnapped by raiders. Let's get him out of there, and maybe in return he'll help us run our motel!	显然有个有管理才能的人被掠夺者绑架了。让我们把他从那里救出来，也许作为回报他会帮我们经营旅馆！
@@ -8222,7 +8222,7 @@ QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Answer1	Alright. Give us time
 QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Answer2	What? You're monsters. Worse than the Institute.	什么？你们是怪物。比学院还坏。
 QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Choice0	We have new coordinates. The Railroad is waiting.	我们有了新坐标。铁路正在等待你们。
 QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Choice1	You'd be safe in our vault.	在我们避难所里你们会很安全。
-QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Choice2	More abominations. <Sarcastically> Too bad we couldn't save you... You were already dead...	又是一群怪物。<Sarcastically>真遗憾没能救到你们……你们早就死了……
+QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line1_Choice2	More abominations. <Sarcastically> Too bad we couldn't save you... You were already dead...	又是一群怪物。<讽刺地>真遗憾没能救到你们……你们早就死了……
 QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line2	We tried to reach the rendezvous, but the Courser intercepted us.	我们本想赶去会合点，但被追猎者拦住了。
 QuestLoc_INS_QL2_Railroaded_2_Room5_Question_Line3	What do we do now?	我们现在该怎么办？
 QuestLoc_INS_QL2_Railroaded_3_QuestLongDesc	The Brotherhood of Steel controls an antenna array that could scramble the Recall, which Coursers use to teleport. The Institute has taken notice.	钢铁兄弟会控制着一座天线阵列，可以干扰追猎者用来传送的“召回”。学院已经注意到这件事。
@@ -9003,7 +9003,7 @@ QuestLoc_MVPoftheYear_Conversation_1_NPCStart_1	Coach isn't here. The Jersey's n
 QuestLoc_MVPoftheYear_QuestLongDescription	Coach survived the Alpha Deathclaw, but he won't survive me! The Sultan of Slime left another narcissistic note, so we know he's still out there. The search continues!	领头死爪没能杀掉蔻驰。但坏家伙又留下了其他的信息！所以至少我们知道他还在外面。继续搜索！
 QuestLoc_MVPoftheYear_QuestName	MVP of the Year!	年度最佳球员！
 QuestLoc_MVPoftheYear_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_MVPoftheYear_QuestShortDescription	Keep tracking Coach and the Jersey!	寻找罗基·杰宾森的棒球衫。
+QuestLoc_MVPoftheYear_QuestShortDescription	Keep tracking Coach and the Jersey!	继续追踪教练与棒球衫！
 QuestLoc_MallMadness_Conversation_1_NPCStart_1	Doors open at 10! No early bird shoppers!	十点才开门！早到的顾客恕不接待！
 QuestLoc_MallMadness_Conversation_2_NPCStart_1	Half off all housewares! There's no beating this crowd.	所有家用产品均半价！绝对抢不赢这群人了。
 QuestLoc_MallMadness_Conversation_3_NPCStart_1	All sales are final! No exchanges, no refunds.	一切售出概不退换！不换货，不退款。
@@ -9015,7 +9015,7 @@ QuestLoc_ManonFirst_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. Th
 QuestLoc_ManonFirst_QuestLongDescription	Somewhere out there in the Wasteland is the Jersey of legendary baseball player Rackie Jobinson. Play ball!	废土的某个地方有一件棒球衫，它是棒球界的传奇运动员罗基·杰宾森的。让我们找到它！
 QuestLoc_ManonFirst_QuestName	Man on First	第一个地点
 QuestLoc_ManonFirst_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_ManonFirst_QuestShortDescription	Find the Jersey of baseball legend Rackie Jobinson!	寻找罗基·杰宾森的棒球衫。
+QuestLoc_ManonFirst_QuestShortDescription	Find the Jersey of baseball legend Rackie Jobinson!	寻找棒球传奇罗基·杰宾森的棒球衫！
 QuestLoc_ManonSecond_Conversation_1_NPCStart_1	Nope, not here. We'll have to keep looking.	没有，不在这里。我们得继续找。
 QuestLoc_ManonSecond_QuestLongDescription	Okay, so the first location was a bust. On to the second. The Quest to find Rackie Jobinson's Jersey continues!	好吧，第一个地点并没有什么用。现在前往第二个。继续寻找罗基·杰宾森棒球衫！
 QuestLoc_ManonSecond_QuestName	Man on Second	第二个地点
@@ -9088,13 +9088,13 @@ QuestLoc_MiseryLoathesCompany_QuestName	Misery Loathes Company	苦难不喜结�
 QuestLoc_MiseryLoathesCompany_QuestObjective_1	Eliminate the Raider Boss.	除掉掠夺者首领。
 QuestLoc_MiseryLoathesCompany_QuestShortDescription	Challenge a Raider Boss holed up in a Red Rocket Truck Stop.	挑战藏匿在红火箭服务站的掠夺者首领。
 QuestLoc_MiseryLoathesCompany_RaiderLine_1	Fresh meat, huh? Good, I was gettin' lonely!	来送死的小鲜肉？哈哈，不错。我正觉得有点孤单呢。
-QuestLoc_MissionofMercy_Conversation_1_NPCStart_1	Ha, ha, ha! You're here looking for Maxson's Roughnecks?	哈，哈，哈！你正在找“麦克森钻工”？
+QuestLoc_MissionofMercy_Conversation_1_NPCStart_1	Ha, ha, ha! You're here looking for Maxson's Roughnecks?	哈，哈，哈！你正在找“麦克森硬汉小队”？
 QuestLoc_MissionofMercy_Conversation_1_NPCStart_2	Don't worry, they're, uh, safe and sound at Vault-Tec Headquarters.	别担心。他们，呃，在避难所科技总部那里，非常安全。
 QuestLoc_MissionofMercy_Conversation_1_NPCStart_3	Now all you have to do is live long enough to find them!	现在看看你们有没有本事能活着见到他们！
-QuestLoc_MissionofMercy_QuestLongDescription	I stumbled across a Ghoul who used to be one of Maxson's Roughnecks. He told me the rest of his team is trapped in Vault 390. It's time for a rescue mission!	我遇到了一个尸鬼，曾是“麦克森钻工”的一员。他告诉我小队里其他的成员被困在了390号避难所。是时候开始营救任务了！
+QuestLoc_MissionofMercy_QuestLongDescription	I stumbled across a Ghoul who used to be one of Maxson's Roughnecks. He told me the rest of his team is trapped in Vault 390. It's time for a rescue mission!	我遇到了一个尸鬼，曾是“麦克森硬汉小队”的一员。他告诉我小队里其他的成员被困在了390号避难所。是时候开始营救任务了！
 QuestLoc_MissionofMercy_QuestName	Mission of Mercy	仁慈的任务
-QuestLoc_MissionofMercy_QuestObjective_1	Rescue Maxson's Roughnecks.	拯救“麦克森钻工”。
-QuestLoc_MissionofMercy_QuestShortDescription	Rescue Maxson's Roughnecks in Vault 390.	前往390号避难所拯救“麦克森钻工”。
+QuestLoc_MissionofMercy_QuestObjective_1	Rescue Maxson's Roughnecks.	拯救“麦克森硬汉小队”。
+QuestLoc_MissionofMercy_QuestShortDescription	Rescue Maxson's Roughnecks in Vault 390.	前往390号避难所拯救“麦克森硬汉小队”。
 QuestLoc_MondayNightBrawl_Conversation_1_NPCEnd_1	Oh yeah? We'll see about that.	哦是吗？我们等着瞧。
 QuestLoc_MondayNightBrawl_Conversation_1_NPCEnd_2	This is ridiculous...	真是可笑……
 QuestLoc_MondayNightBrawl_Conversation_1_NPCEnd_3	Get ready to make your first cap, then!	那就准备好赚取你的第一个瓶盖吧！
@@ -9542,13 +9542,13 @@ QuestLoc_NoRestfortheWicked_QuestName	No Rest for the Wicked	邪恶不停歇
 QuestLoc_NoRestfortheWicked_QuestObjective_1	Talk to Overseer Zilewski.	同监督者扎勒斯基交谈。
 QuestLoc_NoRestfortheWicked_QuestShortDescription	Answer Overseer Zilewski's distress call.	回应监督者扎勒斯基的求救信号。
 QuestLoc_NoStoneUnturned_Conversation_1_NPCEnd_1	The few that are left decided to cleanse the Nuka-Cola Plant of its Feral Ghoul infestation.	剩下的几个人决定去清理核子可乐工厂的狂尸鬼。
-QuestLoc_NoStoneUnturned_Conversation_1_NPCStart_1	I'm Knight Sanducci, Maxson's Roughnecks.	我是山杜奇骑士，“麦克森钻工”的一员。
+QuestLoc_NoStoneUnturned_Conversation_1_NPCStart_1	I'm Knight Sanducci, Maxson's Roughnecks.	我是山杜奇骑士，“麦克森硬汉小队”的一员。
 QuestLoc_NoStoneUnturned_Conversation_1_NPCStart_2	Thanks for your help. Those Radscorpions chased off the rest of my team.	谢谢你们的帮助。那些辐射蝎把我队伍里其他人都赶跑了。
 QuestLoc_NoStoneUnturned_Conversation_1_Team_1	My pleasure. Where did the rest of your team go?	很乐意帮忙。队伍的其他人去哪里了？
-QuestLoc_NoStoneUnturned_QuestLongDescription	Some of Maxson's Roughnecks were killed at the Wilson Atomatoys Factory, the rest retreated to the Poseidon Energy Offices. That's where I need to go.	“麦克森钻工”的一些人在威尔逊原子玩具厂被杀害了。其他人撤回到海神能源工作室。我要去那里。
+QuestLoc_NoStoneUnturned_QuestLongDescription	Some of Maxson's Roughnecks were killed at the Wilson Atomatoys Factory, the rest retreated to the Poseidon Energy Offices. That's where I need to go.	“麦克森硬汉小队”的一些人在威尔逊原子玩具厂被杀害了。其他人撤回到了海神能源办公室。我要去那里。
 QuestLoc_NoStoneUnturned_QuestName	No Stone Unturned	全力以赴
 QuestLoc_NoStoneUnturned_QuestObjective_1	Explore the Poseidon Energy Offices.	探索海神能源办公室。
-QuestLoc_NoStoneUnturned_QuestShortDescription	Find the rest of Maxson's Roughnecks at the Poseidon Energy Offices.	前往海神能源工作室，找到“麦克森钻工”的其他人。
+QuestLoc_NoStoneUnturned_QuestShortDescription	Find the rest of Maxson's Roughnecks at the Poseidon Energy Offices.	前往海神能源办公室，找到“麦克森硬汉小队”的其余成员。
 QuestLoc_NoThanksfortheGobbler_QuestlineName	No Thanks for the Gobbler!	对高步勒可不客气！
 QuestLoc_NoTimeforPaws_Conversation_1_NPCEnd_1	I didn't realize he already had a home! You're one lucky owner. Here he is! Bigsby! You can come out now!	我都不知道它已经有了一个家！你真是个幸运的主人。比格斯比在这里！你现在可以出来了。
 QuestLoc_NoTimeforPaws_Conversation_1_NPCStart_1	Did Brody send you? I thought we were goners!	是布罗迪派你来的？我还以为我们死定了！
@@ -9872,7 +9872,7 @@ QuestLoc_PlayBall_Conversation_1_NPCStart_1	It's not here. And neither is Coach.
 QuestLoc_PlayBall_QuestLongDescription	We found a Rackie Jobinson baseball card with a taunting note from Coach. Looks like he really does have the Jersey. But we'll never give up!	我们发现了蔻驰留下的罗基·杰宾森的棒球卡和嘲笑我们的信息。看起来棒球衫似乎真的在他手上。我们绝不会放弃的！
 QuestLoc_PlayBall_QuestName	Play Ball!	开球！
 QuestLoc_PlayBall_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_PlayBall_QuestShortDescription	Keep the search alive!	寻找罗基·杰宾森的棒球衫。
+QuestLoc_PlayBall_QuestShortDescription	Keep the search alive!	坚持搜寻！
 QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_1	Perhaps I've misjudged you. The Raiders you want are headed for the RobCo Building.	抱歉我不该认为你们是那样的人。你们要找的掠夺者去了罗伯科的办公楼。
 QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_2	They went to the RobCo Building, but you'll never leave here alive!	他们去了罗伯科大楼，但你们绝不可能活着离开这里！
 QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_3	They went to the RobCo Building, but you won't live to insult our kind ever again!	他们去了罗伯科大楼，但你们活不到再侮辱我们同类的那一天！
@@ -10358,7 +10358,7 @@ QuestLoc_S2_QL3_Q3_Insider_Question3_Choice1	So, no gasket means no inhibitor…
 QuestLoc_S2_QL3_Q3_Insider_Question3_Line1	Securitron spare parts all around. Lots of combat inhibitor gaskets…	到处都是保安机器人零件。有很多战斗抑制器垫圈……
 QuestLoc_S2_QL3_Q3_Insider_Question3_Line2	The gaskets look stripped of their lining. They're useless now.	这些垫圈的内衬都被剥掉了，毫无用处了。
 QuestLoc_S2_QL3_Q3_Insider_Question4	Help, citizen. You heard our distress call. Our combat inhibitors are compromised. Failure imminent!	市民，求你帮忙。你听到了我们的求救信号。我们的战斗抑制器已被破坏，随时会失效！
-QuestLoc_S2_QL3_Q3_Insider_Question4_Answer1	Warehouse… Near the Sarsaparilla bottling plant. Please… <error>… Criminals! Halt!	仓库……在沙士装瓶工厂附近。求……<error>……罪犯！站住！
+QuestLoc_S2_QL3_Q3_Insider_Question4_Answer1	Warehouse… Near the Sarsaparilla bottling plant. Please… <error>… Criminals! Halt!	仓库……在沙士装瓶工厂附近。求……<故障>……罪犯！站住！
 QuestLoc_S2_QL3_Q3_Insider_Question4_Answer2	Go the Sarsaparilla bottling plant's warehouse. Ok. Now shutting down…	去沙士装瓶工厂的仓库。好的。现在关机……
 QuestLoc_S2_QL3_Q3_Insider_Question4_Choice1	Quick, tell me who did this to you!	快，告诉我是谁干的！
 QuestLoc_S2_QL3_Q3_Insider_Question4_Choice2	We'll shut you down and fix you. But we need to find who's behind this.	我们会关掉你然后修好你。但我们需要找到幕后黑手。
@@ -10748,13 +10748,13 @@ QuestLoc_SignalFailure_QuestObjective_1	Find the source of the Vault 233 distres
 QuestLoc_SignalFailure_QuestShortDescription	Follow up on the old distress signal emanating from Vault 233!	查看233号避难所发出的求救信号。
 QuestLoc_SignalFailure_RaiderLine_1	Hey! We got here first! No one's looting this Vault but us!	嘿！我们是第一个到这里的！还没有人搜刮过这个避难所呢！
 QuestLoc_SlashandBurn_Conversation_1_NPCEnd_1	No, just save the rest of my team. They're trapped in Vault 390.	不用，只要去救我们小队剩下的人就行。他们被困在了390号避难所。
-QuestLoc_SlashandBurn_Conversation_1_NPCStart_1	You're too late. I was once a Scribe with Maxson's Roughnecks... but the radiation did this to me.	你们来得太迟了。我曾是“麦克森钻工”的学士……但辐射让我变了样子。
+QuestLoc_SlashandBurn_Conversation_1_NPCStart_1	You're too late. I was once a Scribe with Maxson's Roughnecks... but the radiation did this to me.	你们来得太迟了。我曾是“麦克森硬汉小队”的学士……但辐射让我变了样子。
 QuestLoc_SlashandBurn_Conversation_1_Team_1	I'm so sorry. Can I help?	真是太可怜了。有什么我能帮你的吗？
-QuestLoc_SlashandBurn_QuestLongDescription	One of Maxson's Roughnecks told me his team went to clear out a Nuka-Cola Plant. Looks like that's the next stop on my hunt.	“麦克森钻工”的一员告诉我他的队伍去清理核子可乐工厂了。看来这就是我们下一站的目的地。
+QuestLoc_SlashandBurn_QuestLongDescription	One of Maxson's Roughnecks told me his team went to clear out a Nuka-Cola Plant. Looks like that's the next stop on my hunt.	“麦克森硬汉小队”的一员告诉我他的队伍去清理核子可乐工厂了。看来这就是我们下一站的目的地。
 QuestLoc_SlashandBurn_QuestName	Slash and Burn	刀耕火种
 QuestLoc_SlashandBurn_QuestObjective_1	Kill the Glowing One.	杀死发光种。
 QuestLoc_SlashandBurn_QuestObjective_2	Explore the Nuka-Cola Plant.	探索核子可乐工厂。
-QuestLoc_SlashandBurn_QuestShortDescription	Search the Nuka-Cola Plant for Maxson's Roughnecks.	前往核子可乐工厂，寻找麦克森钻工。
+QuestLoc_SlashandBurn_QuestShortDescription	Search the Nuka-Cola Plant for Maxson's Roughnecks.	前往核子可乐工厂，寻找“麦克森硬汉小队”。
 QuestLoc_SlidingintoHome_Conversation_1_NPCStart_1	There's a box of stale Sugar Bombs, but no Jersey.	有一盒过期的糖衣炸弹麦片。但没有棒球衫。
 QuestLoc_SlidingintoHome_QuestLongDescription	Maybe Coach got hungry and is hiding out in the old cereal processing plant. Rackie Jobinson's Jersey, here we come!	也许蔻驰饿了，然后躲在了某个麦片加工厂。罗基·杰宾森的棒球衫，我们来了！
 QuestLoc_SlidingintoHome_QuestName	Sliding into Home	溜回家
@@ -11106,7 +11106,7 @@ QuestLoc_StopthePresses_Conversation_1_NPCEnd_1	Smart move! We would have wiped 
 QuestLoc_StopthePresses_Conversation_1_NPCEnd_2	Fine, then. HAVE AT THEE!	那好。准备受死吧！
 QuestLoc_StopthePresses_Conversation_1_NPCStart_1	You think you can shut my paper down with violence? Prepare to become the victim of a scathing editorial!	你们觉得用武力就能让我停刊吗？准备好成为一篇辛辣社论的牺牲品吧！
 QuestLoc_StopthePresses_Conversation_1_NPCStart_2	Not only that, I'll publish the name and location of your Vault - my Raider pals will eat you up and spit you out!	不仅如此，我还会发布你们避难所的名字和地点。我的掠夺者朋友们会把你们生吞活剥的！
-QuestLoc_StopthePresses_Conversation_1_NPCStart_3	But... I get half of everything the Raiders take. In fact, I'll cut you in if you just walk away.	但。。。我可以得到掠夺者们一半的战利品。如果你们愿意走开的话，我可以算你们一份。
+QuestLoc_StopthePresses_Conversation_1_NPCStart_3	But... I get half of everything the Raiders take. In fact, I'll cut you in if you just walk away.	但……我可以得到掠夺者们一半的战利品。如果你们愿意走开的话，我可以算你们一份。
 QuestLoc_StopthePresses_Conversation_1_Team_1	We'll take the Caps. Just keep your Raiders away from our Vault!	我们要瓶盖。不过你得保证让那些掠夺者离我们的避难所远点！
 QuestLoc_StopthePresses_Conversation_1_Team_2	Lying is lying and people are dying! We're here to stop you!	谎言永远都是谎言，有人因为这个死了！我们来就是为了阻止你们的！
 QuestLoc_StopthePresses_QuestLongDescription	We've found out that the whole “New Boston Bugle” thing is a total scam. We have to hunt down the Editor and put him out of business.	我们发现“新波士顿号角报”这整件事都是一个骗局。我们得找到这个编辑，然后阻止他！
@@ -11508,10 +11508,10 @@ QuestLoc_TheFinalPush_Conversation_1_Team_1	It's been an honor.	是我们的荣�
 QuestLoc_TheFinalPush_Conversation_1_Team_2	I'm not a soldier!	我不是战士！
 QuestLoc_TheFinalPush_Conversation_1_Team_3	Thanks, I guess.	谢谢。
 QuestLoc_TheFinalPush_Conversation_1_Team_4	You should be more careful next time.	你下次要更加小心些。
-QuestLoc_TheFinalPush_QuestLongDescription	A Raider Boss in the ruins of Vault 390 told me that Maxson's Roughnecks are in Vault-Tec Headquarters. I'm concerned for their safety, so I better armor up and hurry!	390号避难所废墟里的掠夺者首领告诉我，“麦克森钻工”在避难所科技的总部。我很担心他们的安危。所以赶紧穿好装备去找他们吧！
+QuestLoc_TheFinalPush_QuestLongDescription	A Raider Boss in the ruins of Vault 390 told me that Maxson's Roughnecks are in Vault-Tec Headquarters. I'm concerned for their safety, so I better armor up and hurry!	390号避难所废墟里的掠夺者首领告诉我，“麦克森硬汉小队”在避难所科技的总部。我很担心他们的安危。所以赶紧穿好装备去找他们吧！
 QuestLoc_TheFinalPush_QuestName	The Final Push	最后一击
-QuestLoc_TheFinalPush_QuestObjective_1	Find Maxson's Roughnecks.	寻找“麦克森钻工”。
-QuestLoc_TheFinalPush_QuestShortDescription	Find Maxson's Roughnecks in the Vault-Tec Headquarters.	前往避难所科技总部寻找“麦克森钻工”。
+QuestLoc_TheFinalPush_QuestObjective_1	Find Maxson's Roughnecks.	寻找“麦克森硬汉小队”。
+QuestLoc_TheFinalPush_QuestShortDescription	Find Maxson's Roughnecks in the Vault-Tec Headquarters.	前往避难所科技总部寻找“麦克森硬汉小队”。
 QuestLoc_TheGreatAmericanPastime_Conversation_1_NPCStart_1	No Jersey, but we're getting closer! I can feel it.	没看到棒球衫，但我们已经接近了，我能感觉得到。
 QuestLoc_TheGreatAmericanPastime_QuestLongDescription	Well, Coach wasn't in the sports bar. Maybe he's a teetotaler. He'd better not spill any darjeeling on that Jersey! Time to keep looking...	好吧，蔻驰并不在运动酒吧里。也许他是个禁酒主义者。他最好不要把什么茶水洒在那件棒球衫上。该继续寻找了……
 QuestLoc_TheGreatAmericanPastime_QuestName	The Great American Pastime	美国人的伟大消遣
@@ -11757,7 +11757,7 @@ QuestLoc_TheSecretofREDACTED_Conversation_4_NPCEnd_1	It is?! No one ever tells m
 QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_1	Psst... Dwellers, over here!	嘘……居民，在这里！
 QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_2	It's me, Moley! Come closer, so I can share the secret of [REDACTED].	是我，莫里！走近一点，这样我就能分享[REDACTED]的秘密。
 QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_3	Are you ready? I can barely believe it myself... Here it is.	你准备好了吗？我自己都不敢相信……就这儿了。
-QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_4	Vault-Tec has been running experiments on Dwellers for *years*!	避难所科技在居民身上做实验已经有*很多年了*!
+QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_4	Vault-Tec has been running experiments on Dwellers for *years*!	避难所科技在居民身上做实验已经有*很多年了*！
 QuestLoc_TheSecretofREDACTED_Conversation_4_Team_1	Pfft, we've known that for ages... It's common knowledge by now.	呸，我们早就知道了……这是常识。
 QuestLoc_TheSecretofREDACTED_QuestLongDescription	Keep this to yourself, but we've been contacted by one of our deep agents, codename Moley, who says he's uncovered a massive conspiracy with vast ramifications. Go over to Vault 322 to hear Moley's big story!	你要保密，我们的一个高级特工，代号莫里，联系过我们，他说他发现了一个巨大的阴谋，影响深远。到322号避难所去听莫里的大故事！
 QuestLoc_TheSecretofREDACTED_QuestName	The Secret of [REDACTED]	[REDACTED]的秘密
@@ -12049,11 +12049,11 @@ QuestLoc_TooGoodtobeTrue_QuestObjective_1	Claim the supply stash in the abandone
 QuestLoc_TooGoodtobeTrue_QuestShortDescription	Claim a stash of supplies... if you can get past the Deathclaw that's guarding them!	领取物资储备……如果你能过得了死爪那一关！
 QuestLoc_ToySoldiers_Conversation_1_NPCEnd_1	The survivors ran off to Poseidon Energy's Offices. Too bad you won't be so lucky!	幸存者逃往了海神能源办公室。抱歉你不够走运！
 QuestLoc_ToySoldiers_Conversation_1_NPCStart_1	Look! More stupid soldiers trying to get themselves killed!	看，又有傻子士兵来找死了！
-QuestLoc_ToySoldiers_Conversation_1_Team_1	You mean the Roughnecks? Where did they go?	你是说“麦克森钻工”吗？他们去哪儿了？
-QuestLoc_ToySoldiers_QuestLongDescription	A Dweller told me that Maxson's Roughnecks made their way to the Wilson Atomatoys Factory. That should be my next stop.	一个居民告诉我“麦克森钻工”去了威尔逊原子玩具厂。我下一站就去那里。
+QuestLoc_ToySoldiers_Conversation_1_Team_1	You mean the Roughnecks? Where did they go?	你是说那支硬汉小队吗？他们去哪儿了？
+QuestLoc_ToySoldiers_QuestLongDescription	A Dweller told me that Maxson's Roughnecks made their way to the Wilson Atomatoys Factory. That should be my next stop.	一个居民告诉我“麦克森硬汉小队”去了威尔逊原子玩具厂。我下一站就去那里。
 QuestLoc_ToySoldiers_QuestName	Toy Soldiers	玩具士兵
 QuestLoc_ToySoldiers_QuestObjective_1	Explore the Wilson Atomatoys Factory.	探索威尔逊原子玩具厂。
-QuestLoc_ToySoldiers_QuestShortDescription	Look for Maxson's Roughnecks at the Wilson Atomatoys Factory.	前往威尔逊原子玩具厂寻找“麦克森钻工”。
+QuestLoc_ToySoldiers_QuestShortDescription	Look for Maxson's Roughnecks at the Wilson Atomatoys Factory.	前往威尔逊原子玩具厂寻找“麦克森硬汉小队”。
 QuestLoc_TruthAmongtheAshes_Conversation_1_NPCStart_1	Aha! It's the journal of Overseer Patel! Hmm. What's this passage...	啊哈！是监督者帕特尔的日志。这段是什么……
 QuestLoc_TruthAmongtheAshes_Conversation_1_NPCStart_2	“Had an interesting visitor - Paula Plumbkin. Weird name. Nice lady.	来了一位有趣的客人 - 宝拉·普朗布金。奇怪的名字，但人还不错。
 QuestLoc_TruthAmongtheAshes_Conversation_1_NPCStart_3	She headed out to visit Vault 909, but I told her it had been overrun.	她准备去909号避难所，但我告诉她，那里已经被占领了。
@@ -13424,8 +13424,8 @@ Social_Button_UnselectAll	UNSELECT ALL	取消选择全部
 Social_Filter_All	ALL FRIENDS	所有朋友
 Social_Filter_Gifts	GIFTS ONLY	仅限礼物
 Social_Filter_HelpRequests	REQUESTS	要求
-Social_FriendList_Title	Friend List PHR	朋友列表 PHR
-Social_GiftNumber	1 gift remaining PHR	还剩一个礼物 PHR
+Social_FriendList_Title	Friend List PHR	好友列表
+Social_GiftNumber	1 gift remaining PHR	还剩一个礼物
 Social_GiftNumber_Plural	and {0} more	还有{0}个
 Social_Gift_Title	SEND GIFT	赠送礼物
 Social_ItemAvailable	You have: {0}	您有：{0}
@@ -14612,7 +14612,7 @@ Stats_Stimpaks_Taken	Stimpaks Taken	使用治疗针
 Stats_Successful_Rushes	Successful Rushes	极速模式成功
 Stats_Time_Played	Time Played (All-Time)	玩游戏时间（所有时间）
 Stats_Title_All_Time	CUMULATIVE	累积
-Stats_Title_Current	CURRENT	现在
+Stats_Title_Current	CURRENT	当前
 Stats_Total_Lifetime_Dwellers	Dwellers	居民
 Stats_Wasteland_Creatures_Killed	Wasteland Creatures Killed	废土生物被杀
 Stats_Wasteland_Total_Time	Wasteland Exploration Time	废土探险时间
