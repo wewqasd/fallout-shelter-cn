@@ -87,7 +87,7 @@ BarberShop_Upgrade_Info	Customize facial features	个性化面部特征
 Bonus_AddMaxHP	+{0}% Health	+{0}%生命值
 Bonus_CheaperCrafting	-{0}% Crafting Cost	-{0}%打造花费
 Bonus_ChildMultiplier	{0}% Twins Chance	{0}%双胞胎概率
-Bonus_ChildSpecialBoost	+{0} Child SPECIALs	+{0}小孩的属性(SPECIAL)
+Bonus_ChildSpecialBoost	+{0} Child SPECIALs	+{0}小孩的属性（SPECIAL）
 Bonus_DamageBoost	+{0} Damage	+{0}伤害
 Bonus_FasterAndCheaperCrafting	-{0}% Crafting Time & Cost	-{0}%打造的时间和花费
 Bonus_FasterCrafting	-{0}% Crafting Time	-{0}%打造时间
@@ -2141,25 +2141,25 @@ The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hi
 
 You can see the mandatory and optional Quest objectives by pressing [Y].
 
-When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务允许您探索新的地点，遇见新的居民和收集战利品。 
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务允许您探索新的地点，遇见新的居民和收集战利品。
 
-建造监督者办公室，从您的避难所里派出一队居民去完成任务。 
+建造监督者办公室，从您的避难所里派出一队居民去完成任务。
 
-要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。
+要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。
 
-任务列表显示您的可用任务、奖励、需求和状态。 在任务中，通过选择您希望居民前往的房间来探索地点。 
+在任务中，通过选择您希望居民前往的房间来探索地点。
 
-居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。 
+居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。
 
 当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。
 
 当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。
 
-按以停止出现的移动箭头，箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。 
+按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。
 
-居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。 
+居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
 
-按可以查看主线和支线任务目标。 
+按可以查看主线和支线任务目标。
 
 当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
 Help_Page26_MainText_Xbox	"Quests allow you to explore new locations, meet new Dwellers and collect loot.
@@ -4150,14 +4150,7 @@ PreTutorial_Start	Great! You created a new Vault. Your main objective is to keep
 PreTutorial_VaultName	Now you have to determine the ID of your Vault. Choose carefully, because once you select an ID, it can't be changed!	现在需要决定您的避难所ID号。请仔细选择，因为一旦选择，就无法改变。
 PrivacyFull_ButtonText	FULL PRIVACY POLICY	完整隐私政策
 PrivacyPolicy_Contact	"
-[212F21]Contact Us/Review or Delete Your Collected Info"	"[212F21]联系我们/查看或者删除已收集信息[365136]
-? privacy@support.zenimax.com
-? 注意：著作权协调
-ZeniMax Media, Inc.
-1370 Piccard Drive
-Rockville, MD 20850
-USA
-? (301) 963-2000"
+[212F21]Contact Us/Review or Delete Your Collected Info"	[212F21]联系我们/查看或者删除已收集信息
 PrivacyPolicy_Email_Link	mailto:privacy@support.zenimax.com	mailto:privacy@support.zenimax.com
 PrivacyPolicy_Email_Text	[365136][u]privacy@support.zenimax.com[/u]	[365136][u]privacy@support.zenimax.com[/u]
 PrivacyPolicy_InfoCollected	"
@@ -4169,15 +4162,14 @@ PrivacyPolicy_InfoCollected	"
 • Demographics (e.g., country and age) 
 • Usage Information (e.g., in-game messages, stats, and usage data) 
 "	"[212F21]哪些信息可能被收集[365136]
-•注册和个人资料信息(例如，联系方式和登录信息)
-•来自Steam、Twitch和Facebook等第三方账户的信息(如好友和公众资料信息)
-•支付信息（例如，购买历史）
-•技术(如设备ID、IP地址和广告标签)
-•人口统计(如国家和年龄)
-•使用信息(例如，统计数据和使用数据)"
+• 注册和个人资料信息（例如，联系方式和登录信息）
+• 来自Steam、Twitch和Facebook等第三方账户的信息（如好友和公众资料信息）
+• 支付信息（例如，购买历史）
+• 技术（如设备ID、IP地址和广告标签）
+• 人口统计（如国家和年龄）
+• 使用信息（例如，统计数据和使用数据）"
 PrivacyPolicy_OptOut	"
-[212F21]Opt-out of Targeted Ads"	"[212F21]选择退出目标广告[365136]
-?privacy@support.zenimax.com"
+[212F21]Opt-out of Targeted Ads"	[212F21]选择退出目标广告
 PrivacyPolicy_Title	[365136]Effective Date: September 15, 2025	[365136]生效日期：2025年9月15日
 PrivacyPolicy_Unity_Link	https://unity.com/legal/privacy-policy	https://unity.com/legal/privacy-policy
 PrivacyPolicy_Unity_Text	[365136]• Third Party Ad Companies, such as AppsFlyer, DoubleClick, King, MessageGears, Meta, [u]Unity[/u], and X	[365136]• 第三方广告公司，如 AppsFlyer、DoubleClick、King、MessageGears、Meta、[u]Unity[/u] 和 X
@@ -4262,7 +4254,7 @@ QuestLoc_ADeliciousTrailofDanger_QuestShortDescription	Follow the Gobbler's trai
 QuestLoc_AGatheringofGhouls_QuestLongDescription	A ghastly Glowing One has taken up residence a little too close to the Vault, and it's drawing in Ghouls like moths to a flame. Extinguish the brilliant beacon before this Ghoulish gathering grows any larger!	可怕的发光种占领了一处居所，离避难所很近。其他的尸鬼像飞蛾扑火般地朝他涌了过来。趁着尸鬼团伙还没有扩张太快的时候，赶紧干掉这个恐怖的绿光“灯塔”！
 QuestLoc_AGatheringofGhouls_QuestName	A Gathering of Ghouls	一群尸鬼
 QuestLoc_AGatheringofGhouls_QuestObjective_1	Eliminate the Glowing One.	除掉发光种。
-QuestLoc_AGatheringofGhouls_QuestShortDescription	Confront a Glowing One and its Ghoul minions.	遭遇了一只发光种和他的跟班们。
+QuestLoc_AGatheringofGhouls_QuestShortDescription	Confront a Glowing One and its Ghoul minions.	迎战一只发光种及其尸鬼爪牙。
 QuestLoc_ALaborofLove_Conversation_1_NPCEnd_1	Suit yourself, Dwellers!	请随意，居民们！
 QuestLoc_ALaborofLove_Conversation_1_NPCEnd_2	Well, I'd have to ask my supervisor, but I think this can be arranged.	那么，我得问问我的领导，但我觉得这个应该是能够安排的。
 QuestLoc_ALaborofLove_Conversation_1_NPCEnd_3	I SAID, VACATE THE... Ah, just shoot them!	我说，清空……呃，给我开枪就是了！
@@ -4402,14 +4394,14 @@ QuestLoc_AThirstforAdventure_QuestName	A Thirst for Adventure	探险渴望者
 QuestLoc_AThirstforAdventure_QuestObjective_1	Explore the old Nuka-Cola Plant.	探索核子可乐工厂。
 QuestLoc_AThirstforAdventure_QuestShortDescription	Follow the path of Paula Plumbkin to the old Nuka-Cola Plant.	沿着宝拉·普朗布金走过的路进入到旧的核子可乐工厂。
 QuestLoc_AWastelandTail_QuestlineName	A Wasteland Tail	废土踪迹
-QuestLoc_AWinningSeason_Conversation_1_NPCStart_1	Another note on the ground! Let me guess: It's from Coach...	地上又有记号，让我猜猜。我觉得是蔻驰留下的。
+QuestLoc_AWinningSeason_Conversation_1_NPCStart_1	Another note on the ground! Let me guess: It's from Coach...	地上又有记号，让我猜猜。我觉得是教练留下的。
 QuestLoc_AWinningSeason_Conversation_1_NPCStart_2	“All right, I've got to give you Dwellers credit.	好吧，我得承认，你们这些居民确实有两下子。
 QuestLoc_AWinningSeason_Conversation_1_NPCStart_3	The Wasteland has thrown everything at you, and still you press on!	废土丢了个大烂摊子给你，但你仍然勇往直前！
-QuestLoc_AWinningSeason_Conversation_1_NPCStart_4	But you're still not getting Jobinson's Jersey! - Coach”	“但是你们仍然不可能得到罗基·杰宾森的棒球衫！”——蔻驰
-QuestLoc_AWinningSeason_QuestLongDescription	We have word that a fierce Alpha Deathclaw has taken up residence in an old office building. Maybe it killed Coach! Dare to dream, right?	据说一只凶猛的领头死爪占领了一幢旧的办公楼。也许它杀了蔻驰！它还真的做得出来！
+QuestLoc_AWinningSeason_Conversation_1_NPCStart_4	But you're still not getting Jobinson's Jersey! - Coach”	“但是你们仍然不可能得到罗基·杰宾森的棒球衫！”——教练
+QuestLoc_AWinningSeason_QuestLongDescription	We have word that a fierce Alpha Deathclaw has taken up residence in an old office building. Maybe it killed Coach! Dare to dream, right?	据说一只凶猛的领头死爪占领了一幢旧的办公楼。也许它杀了教练！它还真的做得出来！
 QuestLoc_AWinningSeason_QuestName	A Winning Season	胜利的赛季
 QuestLoc_AWinningSeason_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_AWinningSeason_QuestShortDescription	Did an Alpha Deathclaw take Coach out?	是不是那只领头死爪干掉了蔻驰？
+QuestLoc_AWinningSeason_QuestShortDescription	Did an Alpha Deathclaw take Coach out?	是不是那只领头死爪干掉了教练？
 QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_1	You may have made it this far, but now you're done!	虽然你们已经做了这么多，但现在你们完蛋了！
 QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_2	Once I'm through with you, I'm gonna start a new, better gang!	等这次结束了，我一定会重新建立一个新的，更好的小队！
 QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_3	Maybe the “Fancy 55”... Whatever, you're dead!	也许是“华丽55”吧……不管怎么样，你已经死了。
@@ -4688,16 +4680,16 @@ QuestLoc_AtDeathsDoor_RaiderLine_2	The Manual never said Death would try to kill
 QuestLoc_AtDeathsDoor_RaiderLine_3	Flee! There's nothing for you down there but disembowelment!	快逃！下面除了会让你开膛破肚没有别的！
 QuestLoc_AtDeathsDoor_RaiderLine_4	It's Death! Let him reap what he's sown!	是“死亡”！让它得到报应！
 QuestLoc_AtDeathsDoor_RaiderLine_5	Death is a Mole rat?! For crying out loud...	“死亡”是只鼹鼠？这是搞什么鬼……
-QuestLoc_BacktotheOutfield_Conversation_1_NPCStart_1	We've come up empty again! Darn that caustic Coach!	我们又一无所获！这个该死的蔻驰！
-QuestLoc_BacktotheOutfield_QuestLongDescription	We found a note from someone named Coach, who claims he has Rackie Jobinson's Jersey! Maybe he's hiding out in the ruins of Vault 428...	我们发现了一个叫蔻驰的人留下的消息，他说自己有罗基·杰宾森的棒球衫！也许他藏在了428号避难所的废墟里……
+QuestLoc_BacktotheOutfield_Conversation_1_NPCStart_1	We've come up empty again! Darn that caustic Coach!	我们又一无所获！这个该死的教练！
+QuestLoc_BacktotheOutfield_QuestLongDescription	We found a note from someone named Coach, who claims he has Rackie Jobinson's Jersey! Maybe he's hiding out in the ruins of Vault 428...	我们发现了一个叫教练的人留下的消息，他说自己有罗基·杰宾森的棒球衫！也许他藏在了428号避难所的废墟里……
 QuestLoc_BacktotheOutfield_QuestName	Back to the Outfield	返回外场
 QuestLoc_BacktotheOutfield_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_BacktotheOutfield_QuestShortDescription	Look for Coach in Vault 428.	在 428 号避难所寻找蔻驰。
+QuestLoc_BacktotheOutfield_QuestShortDescription	Look for Coach in Vault 428.	在 428 号避难所寻找教练。
 QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_1	Whoa! Another note! It says...	哇！又有一条消息！上面说……
 QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_2	“I hear you've been searching for Rackie Jobinson's Jersey.	我听说你们正在寻找罗基·杰宾森的棒球衫。
 QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_3	My name's Henrietta, and I may be able to help.	“我的名字叫亨丽埃塔，也许我能帮忙。”
 QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_4	Come find me at Vault 232.”	来232号避难所找我吧。”
-QuestLoc_BeanballtotheFace_QuestLongDescription	Assuming Coach doesn't have the Jersey, there's reason to believe Rackie Jobinson once stayed at the old Le Pierre Hotel. We'll check there!	假如蔻驰没有棒球衫，我们有理由相信罗基·杰宾森曾待在旧的乐皮埃尔酒店。我们去那边看看吧！
+QuestLoc_BeanballtotheFace_QuestLongDescription	Assuming Coach doesn't have the Jersey, there's reason to believe Rackie Jobinson once stayed at the old Le Pierre Hotel. We'll check there!	假如教练没有棒球衫，我们有理由相信罗基·杰宾森曾待在旧的乐皮埃尔酒店。我们去那边看看吧！
 QuestLoc_BeanballtotheFace_QuestName	Beanball to the Face!	打在脸上的球！
 QuestLoc_BeanballtotheFace_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_BeanballtotheFace_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -4842,7 +4834,7 @@ QuestLoc_BountyYak_QuestName	Bounty: Yak	悬赏：“牦牛”
 QuestLoc_BountyYak_QuestObjective_1	Whack Yak.	除掉鼹鼠“牦牛”。
 QuestLoc_BountyYak_QuestShortDescription	Take down the Mole rat brood mother known as Yak and claim your reward!	拿下鼹鼠妈妈“牦牛”，领取奖励！
 QuestLoc_BreakingalltheRecords_Conversation_1_NPCStart_1	I could have SWORN this was the one. Guess not.	我本来发誓这次一定能找到，但好像并不能。
-QuestLoc_BreakingalltheRecords_QuestLongDescription	There's an old Wilson Automatoys factory we never checked out. Maybe Coach, and Rackie Jobinson's Jersey, are there...	那儿有一个旧的威尔逊原子玩具厂，我们没有查看过。蔻驰和罗基·杰宾森的棒球衫说不定会在那儿。
+QuestLoc_BreakingalltheRecords_QuestLongDescription	There's an old Wilson Automatoys factory we never checked out. Maybe Coach, and Rackie Jobinson's Jersey, are there...	那儿有一个旧的威尔逊原子玩具厂，我们没有查看过。教练和罗基·杰宾森的棒球衫说不定会在那儿。
 QuestLoc_BreakingalltheRecords_QuestName	Breaking all the Records	打破所有记录
 QuestLoc_BreakingalltheRecords_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_BreakingalltheRecords_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -4928,7 +4920,7 @@ QuestLoc_CapturedCritter_QuestName	Captured Critter	拯救小动物
 QuestLoc_CapturedCritter_QuestObjective_1	Rescue the Pet from the hungry Ghouls.	从饥饿的尸鬼手中救出宠物。
 QuestLoc_CapturedCritter_QuestShortDescription	Save a lost Pet from some hungry Ghouls.	从一些尸鬼手中拯救迷失的宠物。
 QuestLoc_CheapBeerintheBleacherSeats_Conversation_1_NPCStart_1	No Jersey in sight. Though I do see a nice polyester leisure suit.	没有看见棒球衫。倒是发现了一套不错的休闲西装。
-QuestLoc_CheapBeerintheBleacherSeats_QuestLongDescription	If Coach was at Lakeville Library, he checked out of there a long time ago. Maybe he went to Fallon's Department Store for some slacks to match that Jersey...	就算蔻驰到过莱克维尔图书馆，他也很早就离开了。也许他去肥伦百货商店，想找条裤子配上那件棒球衫……
+QuestLoc_CheapBeerintheBleacherSeats_QuestLongDescription	If Coach was at Lakeville Library, he checked out of there a long time ago. Maybe he went to Fallon's Department Store for some slacks to match that Jersey...	就算教练到过莱克维尔图书馆，他也很早就离开了。也许他去肥伦百货商店，想找条裤子配上那件棒球衫……
 QuestLoc_CheapBeerintheBleacherSeats_QuestName	Cheap Beer in the Bleacher Seats	看台座椅上的廉价啤酒
 QuestLoc_CheapBeerintheBleacherSeats_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_CheapBeerintheBleacherSeats_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -5103,7 +5095,7 @@ QuestLoc_CoveWatch_QuestShortDescription	Auditions for a TV Show, or trap? Proba
 QuestLoc_CoveWatch_RaiderLine_1	You fell for it? There's no water anywhere NEAR here!	你居然信了？这附近根本就没有水。
 QuestLoc_CoveWatch_RaiderLine_2	More suckers... Get 'em!	一群废物……抓住他们！
 QuestLoc_CoveringAlltheBases_Conversation_1_NPCStart_1	Again, with the coming up empty. Argh!	再一次，一无所获。哎！
-QuestLoc_CoveringAlltheBases_QuestLongDescription	Still no sign of Coach, or Rackie Jobinson's Jersey. Time to venture farther out. No risk, no reward!	还是没有蔻驰或是棒球衫的影子。该去更远的地方了。不入虎穴，焉得虎子！
+QuestLoc_CoveringAlltheBases_QuestLongDescription	Still no sign of Coach, or Rackie Jobinson's Jersey. Time to venture farther out. No risk, no reward!	还是没有教练或是棒球衫的影子。该去更远的地方了。不入虎穴，焉得虎子！
 QuestLoc_CoveringAlltheBases_QuestName	Covering All the Bases	占领所有基地
 QuestLoc_CoveringAlltheBases_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_CoveringAlltheBases_QuestShortDescription	Search farther out for Coach and the Jersey.	去更远的地方搜寻教练与棒球衫。
@@ -5120,7 +5112,7 @@ QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3	And when Pestilence i
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_4	Blessed be the irradiated!	愿辐射保佑我们！
 QuestLoc_CrimeSceneInvestigation_Conversation_2_Team_1	But your entire philosophy makes no sense! And “Pests” is a stupid name!	但你们整体的理念毫无意义！还有“害虫”是一个愚蠢的名字！
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCEnd_1	We know Death well. In fact, our Overseer might be able to help you. We'll be in touch...	我们很了解“死亡”。事实上，我们的监督者也许能帮助你。我们会保持联系……
-QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_1	Who goes there? Other Vault Dwellers! It's nice to meet you.	是谁在那里？
+QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_1	Who goes there? Other Vault Dwellers! It's nice to meet you.	谁在那儿？是其他避难所的居民！很高兴认识你们。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_2	We're from Vault 144. We were trading partners with Vault 672.	我们来自于144号避难所。我们是672号避难所的贸易伙伴。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_3	We hadn't heard from them in weeks, so we came to investigate.	我们几个星期没有收到他们的消息了，所以我们就来调查。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_4	As you can tell, it seems they were attacked, with no survivors! Do you know who did it?	正如你所知道的，他们似乎被攻击，没有幸存者！你们知道是谁干的吗？
@@ -5155,7 +5147,7 @@ QuestLoc_DartofHarkness_Conversation_2_NPCEnd_1	You can have this weapon. I call
 QuestLoc_DartofHarkness_Conversation_2_NPCEnd_2	Use this weapon! I call it the “Dart.” Don't ask.	拿着这个武器！我叫它“飞镖”，别问为什么。
 QuestLoc_DartofHarkness_Conversation_2_NPCEnd_3	I'm not a big shot, just a guy doing his job. Here, this is for you.	我不是一个大人物，只是一个家伙在做他的工作。拿着，这是给你的。
 QuestLoc_DartofHarkness_Conversation_2_NPCStart_1	Finally, you're here. I was beginning to worry.	终于，你在这里。我开始担心。
-QuestLoc_DartofHarkness_Conversation_2_NPCStart_2	The Ghouls were hot on my trail. I believe they were sent to kill me.	尸鬼很狂热地追踪我。我相信他们是被派来杀我的。
+QuestLoc_DartofHarkness_Conversation_2_NPCStart_2	The Ghouls were hot on my trail. I believe they were sent to kill me.	尸鬼在我身后穷追不舍。我相信他们是派来杀我的。
 QuestLoc_DartofHarkness_Conversation_2_NPCStart_3	They were probably hired by those who want to destroy your Vault.	他们可能是被那些想摧毁你们避难所的人雇来的。
 QuestLoc_DartofHarkness_Conversation_2_NPCStart_4	Here, take these documents to your Overseer. They'll know what to do.	这里，把这些文件带给你们的监督者。他（她）会知道该怎么做。
 QuestLoc_DartofHarkness_Conversation_2_Team_1	Great. Anything else?	太棒了。还有别的吗？
@@ -5167,7 +5159,7 @@ QuestLoc_DartofHarkness_QuestObjective_1	Talk to Harkness.	和哈克尼斯说话
 QuestLoc_DartofHarkness_QuestShortDescription	Meet with security chief Harkness.	会见安保长官哈克尼斯。
 QuestLoc_DartofHarkness_RaiderLine_1	Cleanup in aisle one.	清理一号通道。
 QuestLoc_DartofHarkness_RaiderLine_2	Can I talk to the manager?	我能和经理谈一下吗？
-QuestLoc_DaysGoneBye_Conversation_1_NPCEnd_1	Hmm, maybe you could scare them away with Ghost Costumes from the old costume factory nearby!	恩，也许你们可以扮鬼把他们从附近旧的服装厂吓跑！
+QuestLoc_DaysGoneBye_Conversation_1_NPCEnd_1	Hmm, maybe you could scare them away with Ghost Costumes from the old costume factory nearby!	嗯，也许你们可以穿上鬼服把他们从附近的旧服装厂吓跑！
 QuestLoc_DaysGoneBye_Conversation_1_NPCStart_1	Wow, I'm glad you're here. Those Raiders almost got me!	哇，我真高兴你们在这。那些掠夺者差点就抓到我了！
 QuestLoc_DaysGoneBye_Conversation_1_NPCStart_2	They're after anyone who gets near Vault 31.	任何靠近31号避难所的人，都会被他们追杀。
 QuestLoc_DaysGoneBye_Conversation_1_NPCStart_3	It's not really haunted. I think they started that story to keep people away.	我没有真的觉得闹鬼，我想他们编出那个故事只是为了把人们吓跑。
@@ -5251,7 +5243,7 @@ QuestLoc_DeathandDenial_Conversation_5_NPCEnd_3	I'm sorry, my niece has a poor m
 QuestLoc_DeathandDenial_Conversation_5_NPCStart_1	Ah, the detective! I am Commodore Tramiel, and this is my niece Vicky.	啊，侦探！我是特拉米尔准将，这是我侄女维琪。
 QuestLoc_DeathandDenial_Conversation_5_NPCStart_2	So someone finally did old Peabody in, huh? Well, can't say I'm surprised.	终于有人把皮博迪干掉了？我一点不惊讶。
 QuestLoc_DeathandDenial_Conversation_5_NPCStart_3	The man had lots of enemies! More crooked than a Turkish blade, he was.	这个人有很多敌人！他的人格比土耳其弯刀还要扭曲。
-QuestLoc_DeathandDenial_Conversation_5_NPCStart_4	If you ask me, the killer deserves a medal. One that could complement this array, here.	它配得上我这一排勋章。
+QuestLoc_DeathandDenial_Conversation_5_NPCStart_4	If you ask me, the killer deserves a medal. One that could complement this array, here.	要我说，凶手真该得一枚勋章——正好配我这一排。
 QuestLoc_DeathandDenial_Conversation_5_Team_1	Are you saying you wanted him dead?	你是说你想让他死？
 QuestLoc_DeathandDenial_Conversation_5_Team_2	Turkish blade, huh? Did you know Peabody was stabbed to death?	土耳其弯刀，是吧？你知道皮博迪是被刺死的吗？
 QuestLoc_DeathandDenial_Conversation_5_Team_3	What about you, Vicky? Did you see anything?	你呢，维琪？你看到什么了吗？
@@ -5477,7 +5469,7 @@ QuestLoc_Dog_Answer01_NPC02	The Brotherhood sent you, didn't they? The mutt's ou
 QuestLoc_Dog_Answer01_PC01	I think we'll stick around. You don't look like you'd make the best pet owners.	我想我们会留下来。你们看起来不像合格的宠物主人。
 QuestLoc_Dog_Answer01_PC02	No need for that. We can help you look for... what was it, a dog?	没必要这样。我们可以帮你找……是什么来着，一条狗？
 QuestLoc_Dog_Conversation01_NPC01	Come on, we gotta find that dog, Wilzig might not be enough!	来吧，我们得找到那条狗，威尔齐格可能不够！
-QuestLoc_Dog_Conversation01_NPC02	What? what are you looking at? Get out of here or there'll be trouble!	什么？你在找什么？快滚，不然有你好受的！
+QuestLoc_Dog_Conversation01_NPC02	What? what are you looking at? Get out of here or there'll be trouble!	什么？看什么看？快滚，不然有你好受的！
 QuestLoc_Dog_QuestLongDescription	You passed by a run down refueling station on your way back to Filly and you heard odd noises coming from inside. What could it be? You won't know until you find out!	你在返回菲利镇的路上经过一个破旧的加油站，听到里面传来的奇怪声音。那会是什么呢？只有进去才能知道！
 QuestLoc_Dog_QuestName	Codename: DOG	代号：狗狗
 QuestLoc_Dog_QuestObjective	Find a new friend...	找到新朋友……
@@ -5489,10 +5481,10 @@ QuestLoc_DogsofWar_Conversation_1_NPCStart_4	We need to save him!	我们需要�
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_1	With those cute little blue suits of yours that are *so* intimidating, right?	穿着你们那些可爱的蓝色小套装真是太吓人了，对吧？
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_2	Oh no! The Pests have come to take our outfits! I'm shaking in my boots. Not.	哦不！“害虫”来抢我们的装备了！我在颤抖。不。
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_3	You certainly don't look very hungry. Those Ghouls must be fattening you up for later.	你看起来不太饿。那些尸鬼肯定会等你养肥了之后再说。
-QuestLoc_DogsofWar_Conversation_2_NPCEnd_4	Death finally makes a move and decides to send *you*? That's rather anticlimactic.	还真是有点虎头蛇尾呢。
+QuestLoc_DogsofWar_Conversation_2_NPCEnd_4	Death finally makes a move and decides to send *you*? That's rather anticlimactic.	死亡总算行动了，结果派来的是*你们*？还真是虎头蛇尾。
 QuestLoc_DogsofWar_Conversation_2_NPCStart_1	Looky here, someone got through all the rookies. What, you think you can take us?	看这里，有人打败了那些菜鸟。怎么，你们觉得能打败我们？
 QuestLoc_DogsofWar_Conversation_2_NPCStart_2	No matter. The message is out. “You can't stop the signal,” after all.	不管了。消息已发出。毕竟“你不能阻止信号传播”。
-QuestLoc_DogsofWar_Conversation_2_NPCStart_3	Raiders will come from all over to serve War. Or else face his wrath. And his morning breath.	否则就要面对他的怒火。还有他的晨间口臭。
+QuestLoc_DogsofWar_Conversation_2_NPCStart_3	Raiders will come from all over to serve War. Or else face his wrath. And his morning breath.	掠夺者会从四面八方赶来为“战争”效力，否则就要面对他的怒火。还有他的晨间口臭。
 QuestLoc_DogsofWar_Conversation_2_NPCStart_4	Now, before we introduce you to our weapons, tell me. Which Horseman sent you?	现在，在亮出我的武器之前，告诉我。哪位“骑士”派你来的？
 QuestLoc_DogsofWar_Conversation_2_Team_1	None of them. We're Vault Dwellers and we'll stop the Horsemen.	没谁。我们是避难所的居民，我们会阻止“骑士”。
 QuestLoc_DogsofWar_Conversation_2_Team_2	Pestilence. Blessed be the irradiated!	“瘟疫”。辐射保佑着我们！
@@ -5553,7 +5545,7 @@ QuestLoc_DuoofDestructionAlphaDeathclaws_QuestLongDescription	Two Alpha Deathcla
 QuestLoc_DuoofDestructionAlphaDeathclaws_QuestName	Duo of Destruction: Alpha Deathclaws	双重毁灭：领头死爪
 QuestLoc_DuoofDestructionAlphaDeathclaws_QuestObjective_1	Kill the first Alpha Deathclaw.	杀死第一只领头死爪。
 QuestLoc_DuoofDestructionAlphaDeathclaws_QuestObjective_2	Kill the second Alpha Deathclaw.	杀死第二只领头死爪。
-QuestLoc_DuoofDestructionAlphaDeathclaws_QuestShortDescription	Put down an angry pair of Alpha Deathclaws!	放倒一对发怒的的领头死爪！
+QuestLoc_DuoofDestructionAlphaDeathclaws_QuestShortDescription	Put down an angry pair of Alpha Deathclaws!	放倒一对发怒的领头死爪！
 QuestLoc_DuoofDestructionGlowingOnex2_Conversation_1_NPCStart_1	Gosh. I could see the glow halfway across the waste. Good luck in there.	天。隔着大半个废土都能看见那绿光。上帝保佑。
 QuestLoc_DuoofDestructionGlowingOnex2_QuestLongDescription	A pair of Glowing Ones have taken over an old Fusion Core factory. Toss those Ghouls out on their keisters!	两只发光种占领了一处旧的聚变核心工厂。赶紧解决掉他们。
 QuestLoc_DuoofDestructionGlowingOnex2_QuestName	Duo of Destruction: Glowing One (x2!)	双重毁灭：发光种(x2!)
@@ -6274,7 +6266,7 @@ QuestLoc_ESterEggHunt_Conversation_1_NPCStart_2	Eggs are a wonderful representat
 QuestLoc_ESterEggHunt_Conversation_1_NPCStart_3	Deathclaw eggs most of all, because of all the power they hold in their small shells.	死爪蛋最重要，因为那些小壳里所包含的巨大力量。
 QuestLoc_ESterEggHunt_Conversation_1_NPCStart_4	May Atom smile on your fortunes!	愿原子对你的命运微笑！
 QuestLoc_ESterEggHunt_Conversation_1_Team_1	Anything else we should look out for? Large, emits radiation...?	还有什么值得我们注意的吗？大的，能发出辐射的……？
-QuestLoc_ESterEggHunt_Conversation_1_Team_2	This Egg Hunt is *the bomb*! Get it? The Bomb?	这个彩蛋搜寻是-炸弹！明白了吗？炸弹？
+QuestLoc_ESterEggHunt_Conversation_1_Team_2	This Egg Hunt is *the bomb*! Get it? The Bomb?	这次寻蛋活动可太“炸”了！懂吗？是真·炸弹？
 QuestLoc_ESterEggHunt_Conversation_1_Team_3	We'll have megatons of fun!	我们将有百万吨的乐趣！
 QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_1	Oh yeah, that... Never mind that. Just find some eggs.	哦，是的，那个……请别介意。只是找一些蛋。
 QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_2	We'll find out soon after detonation... I mean, after we, uh, *atone* for our sins.	爆炸之后我们很快就会查明……我是说，在我们呃……为罪孽“赎罪”之后。
@@ -6287,8 +6279,8 @@ QuestLoc_ESterEggHunt_Conversation_2_Team_3	Are you guys planning on detonating 
 QuestLoc_ESterEggHunt_Conversation_3_NPCStart_1	Look there, behind that pile of Deathclaw dung!	看，在一大堆死爪粪后面！
 QuestLoc_ESterEggHunt_Conversation_3_NPCStart_2	Right there, in the hidden section that can only been seen from this angle!	就在那里，从这个角度才能看到隐藏的部分！
 QuestLoc_ESterEggHunt_Conversation_3_NPCStart_3	It's the nuclear bomb! We've found it!	是核弹！我们找到了它！
-QuestLoc_ESterEggHunt_Conversation_3_NPCStart_4	Wow, it's really big and impressive, too...	哇，真是太大了，令人印象深刻，太……
-QuestLoc_ESterEggHunt_QuestLongDescription	We've been invited to the Children of Atom's annual Deathclaw Egg Hunt! This is a good opportunity to validate Brother Will's claims that the Church plans to detonate a large nuclear bomb on E-Ster Sunday...	我们被邀请参加原子之子一年一度的复活节彩蛋寻宝活动！这是一个很好的机会来验证威尔修士的声明——教会计划在星期天引爆核弹……
+QuestLoc_ESterEggHunt_Conversation_3_NPCStart_4	Wow, it's really big and impressive, too...	哇，真是又大又气派……
+QuestLoc_ESterEggHunt_QuestLongDescription	We've been invited to the Children of Atom's annual Deathclaw Egg Hunt! This is a good opportunity to validate Brother Will's claims that the Church plans to detonate a large nuclear bomb on E-Ster Sunday...	我们被邀请参加原子之子一年一度的死爪蛋寻宝活动！这是验证威尔修士说法的好机会——教会打算在复活节当天引爆一枚大型核弹……
 QuestLoc_ESterEggHunt_QuestName	E-Ster Egg Hunt	复活节彩蛋寻宝
 QuestLoc_ESterEggHunt_QuestObjective_1	Learn more about the alleged nuclear bomb.	了解更多有关所谓的核弹。
 QuestLoc_ESterEggHunt_QuestObjective_2	Harvest some Deathclaw Eggs.	收获一些死爪蛋。
@@ -6442,7 +6434,7 @@ QuestLoc_FactoryFloorofFear_QuestObjective_1	Explore the industrial complex.	探
 QuestLoc_FactoryFloorofFear_QuestShortDescription	Explore a dangerous industrial area.	探索一片危险的工业区域。
 QuestLoc_FalloutShow_QuestlineName	Power Struggle	权力斗争
 QuestLoc_FamilyMatters_Conversation_1_NPCEnd_1	She's my grandma, but careful, she's a biter. Papa was too until he lost his dentures. They both mean well! Call it tough love.	她是我的外婆，但是小心，她会咬人。我外公也是，直到他丢了他的假牙。当然他们都是好心，我称之为“强悍的爱”。
-QuestLoc_FamilyMatters_Conversation_1_NPCEnd_2	Sure is, but careful, she's a biter. Papa used to be until he lost his dentures. But they both mean well! I call it tough love.	当然是了。但请注意，她会咬人的。我外公也是，直到他丢了他的假牙。当然他们都是好心，我称之为“强悍的爱”。
+QuestLoc_FamilyMatters_Conversation_1_NPCEnd_2	Sure is, but careful, she's a biter. Papa used to be until he lost his dentures. But they both mean well! I call it tough love.	当然是了。但小心，她爱咬人。老爸以前也这样，直到他丢了假牙。当然他们都是好意，我管这叫“严厉的爱”。
 QuestLoc_FamilyMatters_Conversation_1_NPCStart_1	Nana didn't tell me we were expecting guests!	外婆没告诉我会有客人来。
 QuestLoc_FamilyMatters_Conversation_1_NPCStart_2	Oh my, I should have tidied up.	哦我的天，我应该打扫一下的。
 QuestLoc_FamilyMatters_Conversation_1_Team_1	Who is Nana?	谁是外婆？
@@ -6687,7 +6679,7 @@ QuestLoc_GameShowGauntletA_Conversation_3_Team_3	Enclave.	英克雷。
 QuestLoc_GameShowGauntletA_Conversation_3_Team_4	Association of zookeepers?	动物园管理员协会？
 QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_1	Oh, so close. But so wrong. Time to... Lose Your Head!	哦，很接近了。但还是错。该……“掉脑袋”了！
 QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_2	I have no idea who that is. So... Lose Your Head!	我不知道你说的是啥。所以……“掉脑袋”吧！
-QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说的对！你赢了！
+QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说对了！你赢了……该“掉脑袋”了！
 QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_4	Hey! Family is off limits. Just for that... Lose Your Head!	嘿！家人可是忌讳！因为这个……准备“掉脑袋”吧！
 QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_2	Who was trapped on the roof of Trinity Tower?	谁被困在了崔尼帝塔？
@@ -6733,7 +6725,7 @@ QuestLoc_GameShowGauntletB_Conversation_3_Team_3	Mirelurk King.	泥沼蟹之王�
 QuestLoc_GameShowGauntletB_Conversation_3_Team_4	Legendary Radroach?	传奇辐射蟑螂？
 QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_1	You've got to get out more. Time to... Lose Your Head!	你真该多出去见见世面。是时候……“掉脑袋”了！
 QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_2	Good guess, but no. So... Lose Your Head!	想法不错，但不对。所以……“掉脑袋”吧！
-QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说的对！你赢了！
+QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说对了！你赢了……该“掉脑袋”了！
 QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_4	He's a dog. Your dog. Just for that... Lose Your Head!	它是一只狗，你的狗。因为这个，准备“掉脑袋”吧！
 QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2	Who is the DJ for Galaxy News Radio?	谁是银河广播电台的DJ？
@@ -6825,12 +6817,12 @@ QuestLoc_GameShowGauntletD_Conversation_3_Team_3	Robots.	机器人。
 QuestLoc_GameShowGauntletD_Conversation_3_Team_4	Armored donkeys.	穿上装甲的驴子。
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_1	Oh, so close. But so wrong. Time to... Lose Your Head!	哦，很接近了。但还是错。该……“掉脑袋”了！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_2	I have no idea what that is. So... Lose Your Head!	根本不知道你说的是什么。所以……准备“掉脑袋”吧！
-QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说的对！你赢了！
+QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说对了！你赢了……该“掉脑袋”了！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_4	I'm sick and tired of donkey jokes. Lose Your Head!	我受够了驴子的笑话。来“掉脑袋”吧！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletD_Conversation_4_NPCStart_2	What were the Brotherhood of Steel seeking at Mass Fusion HQ?	钢铁兄弟会在大核融合总部寻找什么？
 QuestLoc_GameShowGauntletD_Conversation_4_Team_1	Mega nuke.	大核子。
-QuestLoc_GameShowGauntletD_Conversation_4_Team_2	Beryllium agitator.	自由至尊的头。
+QuestLoc_GameShowGauntletD_Conversation_4_Team_2	Beryllium agitator.	铍搅拌器。
 QuestLoc_GameShowGauntletD_Conversation_4_Team_3	Liberty Prime's head.	自由至尊机器人的头。
 QuestLoc_GameShowGauntletD_Conversation_4_Team_4	A donkey.	一头驴。
 QuestLoc_GameShowGauntletD_QuestLongDescription	You've been invited to play Lose Your Head! Answer the questions or...	你被邀请参与“掉脑袋”的游戏！请回答问题，不然就……
@@ -7063,7 +7055,7 @@ QuestLoc_GameShowGauntletJ_Conversation_1_Team_2	Maine.	缅因州。
 QuestLoc_GameShowGauntletJ_Conversation_1_Team_3	Rhode Island.	罗得岛州。
 QuestLoc_GameShowGauntletJ_Conversation_1_Team_4	State of confusion.	混乱之州。
 QuestLoc_GameShowGauntletJ_Conversation_2_NPCEnd_1	Kinda looks like one, but wrong. Now you... Lose Your Head!	看上去像是对的，但不对。现在……“掉脑袋”吧！
-QuestLoc_GameShowGauntletJ_Conversation_2_NPCEnd_2	Bing, bing, bing! Winner, winner, chicken dinner.	呯呯呯！赢的人有肉吃。
+QuestLoc_GameShowGauntletJ_Conversation_2_NPCEnd_2	Bing, bing, bing! Winner, winner, chicken dinner.	呯呯呯！大吉大利，今晚吃鸡！
 QuestLoc_GameShowGauntletJ_Conversation_2_NPCEnd_3	Nah. He's a Synth, you idiot. Which means you... Lose Your Head!	不对，他是个合成人，白痴！意味着你该……“掉脑袋”了！
 QuestLoc_GameShowGauntletJ_Conversation_2_NPCEnd_4	Wow. You have quite the imagination. But now you will... Lose Your Head!	哇。你想象力还真是可以啊。现在准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletJ_Conversation_2_NPCStart_1	We've come to round two.	我们现在进入第二回合。
@@ -7084,7 +7076,7 @@ QuestLoc_GameShowGauntletJ_Conversation_3_Team_3	Acadia Federal Naval Base.	阿�
 QuestLoc_GameShowGauntletJ_Conversation_3_Team_4	Uh... Joe's Spuckies?	呃……乔伊的司泊吉？
 QuestLoc_GameShowGauntletJ_Conversation_4_NPCEnd_1	Right! No, wait, wrong! Totally wrong. Now you... Lose Your Head!	正确！不，等等，错了！大错特错。现在准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletJ_Conversation_4_NPCEnd_2	Wrongo. But I'm going to be cruel to you by making you... Lose Your Head!	不对。这次的“掉脑袋”我是不会手下留情的！
-QuestLoc_GameShowGauntletJ_Conversation_4_NPCEnd_3	Winner, winner, chicken dinner!	赢的人有肉吃！
+QuestLoc_GameShowGauntletJ_Conversation_4_NPCEnd_3	Winner, winner, chicken dinner!	大吉大利，今晚吃鸡！
 QuestLoc_GameShowGauntletJ_Conversation_4_NPCEnd_4	Focus. That's not even an answer. So you'll have to... Lose Your Head!	专心点好嘛。那都算不上一个答案。现在你要……“掉脑袋”了！
 QuestLoc_GameShowGauntletJ_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletJ_Conversation_4_NPCStart_2	Why did Kasumi Nakano run away to Acadia?	为什么霞野逃跑去了阿卡迪亚？
@@ -7154,7 +7146,7 @@ QuestLoc_GasNGo_QuestName	Gas 'N Go	加好油出发
 QuestLoc_GasNGo_QuestObjective_1	Eliminate the Raider.	除掉掠夺者。
 QuestLoc_GasNGo_QuestShortDescription	Eliminate the Raider in the Red Rocket.	除掉红火箭服务站的掠夺者。
 QuestLoc_GetchaPeanutsHere_Conversation_1_NPCStart_1	Wait! On the floor! Is that... Nope. Sorry. Just an old rag.	等等！地上那个！是……哦不对，只是一块破布。
-QuestLoc_GetchaPeanutsHere_QuestLongDescription	We've searched a few locations, but still haven't found Coach, or the Jersey. Maybe the old Super Duper Mart holds the key!	我们搜索了几处地点，但还是没有找到蔻驰，或者棒球衫。也许旧的大无敌超市里能有什么线索。
+QuestLoc_GetchaPeanutsHere_QuestLongDescription	We've searched a few locations, but still haven't found Coach, or the Jersey. Maybe the old Super Duper Mart holds the key!	我们搜索了几处地点，但还是没有找到教练，或者棒球衫。也许旧的大无敌超市里能有什么线索。
 QuestLoc_GetchaPeanutsHere_QuestName	Getcha' Peanuts Here!	来买花生啦！
 QuestLoc_GetchaPeanutsHere_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_GetchaPeanutsHere_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -7162,7 +7154,7 @@ QuestLoc_GetinLine_QuestLongDescription	One of your Wasteland explorers discover
 QuestLoc_GetinLine_QuestName	Get in Line	请排队
 QuestLoc_GetinLine_QuestObjective_1	Eliminate the Raiders.	除掉掠夺者。
 QuestLoc_GetinLine_QuestShortDescription	Battle the Raiders in the Super-Duper Mart.	和大无敌超市里的掠夺者战斗。
-QuestLoc_GetinLine_RaiderLine_1	You're about to check out... permanently!	你结账之后将永远离开！
+QuestLoc_GetinLine_RaiderLine_1	You're about to check out... permanently!	你就要“退房”了——永远地！
 QuestLoc_Getting Started_QuestLongDescription	For your training mission, Vault-Tec asks you to prove yourself as a worthy Overseer and kill a Glowing Radroach.	避难所科技想要你证明自己是一个合格的监督者。作为训练任务，请先杀掉发光辐射蟑螂。
 QuestLoc_Getting Started_QuestName	Getting Started	开始前的准备
 QuestLoc_Getting Started_QuestShortDescription	Kill the Glowing Radroach and complete your training.	杀死发光辐射蟑螂，完成训练。
@@ -7461,7 +7453,7 @@ QuestLoc_GroomforDoubt_QuestLongDescription	That was quite the bachelor party la
 QuestLoc_GroomforDoubt_QuestName	Groom for Doubt	新郎的疑惑
 QuestLoc_GroomforDoubt_QuestObjective_1	Rescue the groom.	拯救新郎。
 QuestLoc_GroomforDoubt_QuestObjective_2	Kill the Raider Boss.	杀死掠夺者首领。
-QuestLoc_GroomforDoubt_QuestShortDescription	Rescue a missing groom from Raiders.	营救失踪的新郎。
+QuestLoc_GroomforDoubt_QuestShortDescription	Rescue a missing groom from Raiders.	从掠夺者手中营救失踪的新郎。
 QuestLoc_GroomforDoubt_RaiderLine_1	Take groom, meet doom.	带走新郎，迎接厄运。
 QuestLoc_GroomforDoubt_RaiderLine_2	A rose by any other name would smell as sweet...if roses still existed.	玫瑰换个名字照样芬芳……如果这世上还有玫瑰的话。
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
@@ -7541,20 +7533,20 @@ QuestLoc_HeatoftheKnight_QuestName	Heat of the Knight	火热的骑士
 QuestLoc_HeatoftheKnight_QuestObjective_1	Support the soldiers at the RobCo Corporate Offices.	支持罗伯科企业办公室的士兵们。
 QuestLoc_HeatoftheKnight_QuestShortDescription	Support the Brotherhood at the RobCo Corporate Offices.	去罗伯科办公大楼支援钢铁兄弟会。
 QuestLoc_HeresthePitch_Conversation_1_NPCStart_1	Not here. But it won't be long now.	不是这里。但应该不远了。
-QuestLoc_HeresthePitch_QuestLongDescription	Coach wasn't in Vault 789, but the place did have a familiar, sour smell... We're following the stench to Sandra's Stationary Store!	蔻驰不在789号避难所，但这地方有种熟悉的酸腐味……顺着这股味道去桑德拉文具店吧。
+QuestLoc_HeresthePitch_QuestLongDescription	Coach wasn't in Vault 789, but the place did have a familiar, sour smell... We're following the stench to Sandra's Stationary Store!	教练不在789号避难所，但这地方有种熟悉的酸腐味……顺着这股味道去桑德拉文具店吧。
 QuestLoc_HeresthePitch_QuestName	Here's the Pitch...	就是这里了……
 QuestLoc_HeresthePitch_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_HeresthePitch_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_1	Time to send you back down to the minors!	是时候把你们打回小联盟了！
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_2	Oh, you're gonna strike out sooooo hard!	哦，你们一定会被狠狠三振出局的！
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_3	Now this is a real bench clearer!	看来必须要打一架了！
-QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_4	Hmmm. Okay, sure. Why not. But be careful. Coach is no joke!	嗯。好吧，当然。为什么不呢？但是记得要小心，蔻驰可不是开玩笑的。
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_4	Hmmm. Okay, sure. Why not. But be careful. Coach is no joke!	嗯。好吧，当然。为什么不呢？但是记得要小心，教练可不是开玩笑的。
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_1	Wow! I heard about you! Searching the Wasteland fooorreevveer...	哇，我听说过你们！永远都在废土上寻找……
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_2	Well, you're in the right place! Rackie Jobinson's Jersey is here!	你们来对地方了！罗基·杰宾森的棒球衫就在这里！
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_3	But you ain't never gonna get it!	但是你们是不可能拿到的！
-QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_4	When our Coach sees you, it'll be the final inning!	等蔻驰发现的时候，就是你们的末日了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_4	When our Coach sees you, it'll be the final inning!	等教练发现的时候，就是你们的末日了！
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_1	Do you have any idea what we've been through? That Outfit's Ours!	你以为我们是吃素的吗？把那件衣服交出来！
-QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_2	Coach shmoach! We're not leaving without that Outfit!	蔻驰就是个蠢货！我们不拿到衣服是不会走的！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_2	Coach shmoach! We're not leaving without that Outfit!	教练就是个蠢货！我们不拿到衣服是不会走的！
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_3	Pfft. Please. We could do this in our sleep at this point.	切，省省吧。我们睡着了都能打赢。
 QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_4	We've been in, like, a million fights. I don't suppose you'd just walk away?	我们打过，呃，无数场架了。你们总不至于就这么转身开溜吧？
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_1	We'll see about that!	我们等着瞧！
@@ -7565,11 +7557,11 @@ QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_1	We meet at last, you
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_2	You like my notes? Ha ha ha ha ha.	你们可喜欢我留的消息？哈哈哈哈哈哈哈。
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_3	Look, I don't know why you want Rackie Jobinson's Jersey so bad...	听着，我不知道你们为什么这么想要罗基·杰宾森的棒球衫……
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_4	But it's mine! And I ain't never giving it up!	但是它是我的！我是绝不会放弃它的！
-QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_1	Hey Coach? You're fired!	喂，蔻驰？你被炒鱿鱼了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_1	Hey Coach? You're fired!	喂，教练？你被炒鱿鱼了！
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_2	Try not to bleed too much on my Jersey!	我会努力不让血溅到我的棒球衫上！
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_3	Henrietta says hello!	亨丽埃塔要我们代她向你问声好！
-QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_4	So what's the play, Coach?	所以我们要怎么玩儿，蔻驰？
-QuestLoc_HerestoYouRackieJobinson_QuestLongDescription	This is it, the end of the game! It's a bench-clearing brawl with Coach in the Dugout. Time to retire this washout, and claim Rackie Jobinson's Jersey for our own!	就是这里，大结局了！在球员休息区跟蔻驰来一场全线群架。是该让这个失败者退役，把罗基·杰宾森的棒球衫拿回来了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_4	So what's the play, Coach?	所以我们要怎么玩儿，教练？
+QuestLoc_HerestoYouRackieJobinson_QuestLongDescription	This is it, the end of the game! It's a bench-clearing brawl with Coach in the Dugout. Time to retire this washout, and claim Rackie Jobinson's Jersey for our own!	就是这里，大结局了！在球员休息区跟教练来一场全线群架。是该让这个失败者退役，把罗基·杰宾森的棒球衫拿回来了！
 QuestLoc_HerestoYouRackieJobinson_QuestName	Here's to You, Rackie Jobinson	为了你，罗基·杰宾森。
 QuestLoc_HerestoYouRackieJobinson_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_HerestoYouRackieJobinson_QuestShortDescription	Bottom of the 9th! Head to the Dugout and get that Jersey!	第九局下半！去球员休息区把那件棒球衫拿到手！
@@ -7598,17 +7590,17 @@ QuestLoc_HittingtheBooks_QuestName	Halloween (Non)Fiction	万圣节小说
 QuestLoc_HittingtheBooks_QuestObjective_1	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
 QuestLoc_HittingtheBooks_QuestShortDescription	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
 QuestLoc_HomeFieldAdvantage_Conversation_1_NPCStart_1	So close... but yet so far.	感觉很近……又感觉很远。
-QuestLoc_HomeFieldAdvantage_QuestLongDescription	Could Coach be hiding out in the old pencil factory? Probably not. But we're going to look there anyway.	蔻驰会藏在旧铅笔厂吗？大概不会。但无论如何还是查看一下。
+QuestLoc_HomeFieldAdvantage_QuestLongDescription	Could Coach be hiding out in the old pencil factory? Probably not. But we're going to look there anyway.	教练会藏在旧铅笔厂吗？大概不会。但无论如何还是查看一下。
 QuestLoc_HomeFieldAdvantage_QuestName	Home-Field Advantage	主场优势
 QuestLoc_HomeFieldAdvantage_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_HomeFieldAdvantage_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_HomerunDerby_Conversation_1_NPCStart_1	If Coach was here with the Jersey, he's long gone now.	如果蔻驰在这里拿着棒球衫，现在应该早就走远了吧。
-QuestLoc_HomerunDerby_QuestLongDescription	Call it a gut feeling, but Coach may be taking a breather in the ruins of Holy Heart Hospital. If he's there, so is Rackie Jobinson's Jersey!	就算是直觉吧，我看蔻驰可能在圣心脏医院的废墟里歇脚。只要他在那儿，罗基·杰宾森的棒球衫也一定在！
+QuestLoc_HomerunDerby_Conversation_1_NPCStart_1	If Coach was here with the Jersey, he's long gone now.	如果教练在这里拿着棒球衫，现在应该早就走远了吧。
+QuestLoc_HomerunDerby_QuestLongDescription	Call it a gut feeling, but Coach may be taking a breather in the ruins of Holy Heart Hospital. If he's there, so is Rackie Jobinson's Jersey!	就算是直觉吧，我看教练可能在圣心脏医院的废墟里歇脚。只要他在那儿，罗基·杰宾森的棒球衫也一定在！
 QuestLoc_HomerunDerby_QuestName	Homerun Derby	职业棒球大联盟全垒打大赛
 QuestLoc_HomerunDerby_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_HomerunDerby_QuestShortDescription	Comb through Holy Heart Hospital.	搜索圣心脏医院。
-QuestLoc_Homerun_Conversation_1_NPCStart_1	I smell something foul! Coach must have been here recently!	我闻到了腐臭的味道！蔻驰应该不久前就在这儿！
-QuestLoc_Homerun_QuestLongDescription	Still no Coach, and no Rackie Jobinson's Jersey. But he's close! I can sense it. Or maybe it's just his lingering B.O. In any event, it's time to search the Precious Paws Pet Store!	还是没有蔻驰或是棒球衫的影子。但他应该就在附近了！我能感觉到。还是说只是他的狐臭！无论如何，我们去搜搜宝贝爪爪宠物商店吧！
+QuestLoc_Homerun_Conversation_1_NPCStart_1	I smell something foul! Coach must have been here recently!	我闻到了腐臭的味道！教练应该不久前就在这儿！
+QuestLoc_Homerun_QuestLongDescription	Still no Coach, and no Rackie Jobinson's Jersey. But he's close! I can sense it. Or maybe it's just his lingering B.O. In any event, it's time to search the Precious Paws Pet Store!	还是没有教练或是棒球衫的影子。但他应该就在附近了！我能感觉到。还是说只是他的狐臭！无论如何，我们去搜搜宝贝爪爪宠物商店吧！
 QuestLoc_Homerun_QuestName	Homerun!	全垒打！
 QuestLoc_Homerun_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_Homerun_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -7658,7 +7650,7 @@ QuestLoc_HopontheRoachCoach_RaiderLine_1	I guess whatever food was left is long 
 QuestLoc_HorrorMovieNight_QuestLongDescription	One of your Dwellers is feeling... “inspired” by a horror movie he watched.	你的一位居民受到了某部恐怖电影的“启发”。
 QuestLoc_HorrorMovieNight_QuestName	Horror Movie Night!	恐怖电影之夜！
 QuestLoc_HorrorMovieNight_QuestObjective_1	Kill the Raider Boss.	杀死掠夺者首领。
-QuestLoc_HorrorMovieNight_QuestShortDescription	Send out a lone Vault Dweller wearing a Ghost Costume to wreak havoc!	派一位穿着鬼魂服装的避难所居民，去制造大混乱吧！
+QuestLoc_HorrorMovieNight_QuestShortDescription	Send out a lone Vault Dweller wearing a Ghost Costume to wreak havoc!	派一位穿着鬼服的避难所居民，去制造大混乱吧！
 QuestLoc_HorrorMovieNight_RaiderLine_1	Think you're scary, pal? Get them!	笑话，你以为自己很吓人？给我拿下他！
 QuestLoc_HorrorMovieNight_RaiderLine_2	It's unstoppable!	怎么办，我们拦不住他！
 QuestLoc_HorrorMovieNight_RaiderLine_3	Nooooo! Get away! Aaaah!	不要啊！！快走开！！！啊啊啊啊啊！！
@@ -7865,7 +7857,7 @@ QuestLoc_HowCanYouNotBeRomanticAboutBaseball_Conversation_1_NPCStart_1	Rackie Jo
 QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestLongDescription	Okay, so Holy Heart Hospital was a dead end. But at least we're still alive! Next stop, the ruins of Lakeville Library.	好吧。所以圣心脏医院肯定是条死路了，但至少我们都还活着！下一站，莱克维尔图书馆。
 QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestName	How Can You Not Be Romantic About Baseball?	你怎么可能不喜欢棒球呢？
 QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestShortDescription	Track Coach down in the Lakeville Library.	去莱克维尔图书馆找蔻驰。
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestShortDescription	Track Coach down in the Lakeville Library.	去莱克维尔图书馆找教练。
 QuestLoc_HumanBeanJuice_Conversation_1_NPCEnd_1	They make camp at a Radaway plant up north.	他们在北部的消辐宁工厂扎营。
 QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_1	Your boy came in with a shipment of other Dwellers and some Feral Ghouls.	你们要找的人和一些其他的居民还有狂尸鬼一起被送过来的。
 QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_2	But he disappeared when Khan Killian's Raider gang attacked!	但是遭到可汗·基利安的掠夺者帮派袭击之后他就消失了！
@@ -7930,9 +7922,9 @@ QuestLoc_HumansLikeUs_QuestShortDescription	Investigate strange aerial lights.	�
 QuestLoc_IDontKnowsonThird_Conversation_1_NPCStart_1	No Jersey. But what's this...	没有棒球衫。但这是什么……
 QuestLoc_IDontKnowsonThird_Conversation_1_NPCStart_2	A Rackie Jobinson baseball card!	一张罗基·杰宾森的棒球卡！
 QuestLoc_IDontKnowsonThird_Conversation_1_NPCStart_3	There's something written on the back...	背后好像写了什么……
-QuestLoc_IDontKnowsonThird_Conversation_1_NPCStart_4	“This is as close as you're going to get! - Coach”	“你们最多也就只能得到这个了！- 蔻驰”
-QuestLoc_IDontKnowsonThird_QuestLongDescription	If Coach has the Jersey, maybe he needs to keep it clean. We're off to search the BubblySuds Laundromat!	如果蔻驰手里有棒球衫的话，也许他需要保持干净。我们去泡泡多自助洗衣店看看吧！
-QuestLoc_IDontKnowsonThird_QuestName	I Don't Know's on Third!	我不知道第三是哪里！
+QuestLoc_IDontKnowsonThird_Conversation_1_NPCStart_4	“This is as close as you're going to get! - Coach”	“你们最多也就只能得到这个了！- 教练”
+QuestLoc_IDontKnowsonThird_QuestLongDescription	If Coach has the Jersey, maybe he needs to keep it clean. We're off to search the BubblySuds Laundromat!	如果教练手里有棒球衫的话，也许他需要保持干净。我们去泡泡多自助洗衣店看看吧！
+QuestLoc_IDontKnowsonThird_QuestName	I Don't Know's on Third!	“不知道”在三垒！
 QuestLoc_IDontKnowsonThird_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_IDontKnowsonThird_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_INS_QL1_MajorPlayers_1_CombatInit6	Wow, there's a lot of Ghouls here!	哇，这里尸鬼真多！
@@ -7941,7 +7933,7 @@ QuestLoc_INS_QL1_MajorPlayers_1_QuestLongDesc	We've received a distress call fro
 QuestLoc_INS_QL1_MajorPlayers_1_QuestName	Hold on a Minuteman	坚持住，义勇军！
 QuestLoc_INS_QL1_MajorPlayers_1_QuestObjective1	Rescue citizens	营救平民
 QuestLoc_INS_QL1_MajorPlayers_1_QuestObjective2	Rescue the Minutemen Commander	营救义勇军指挥官
-QuestLoc_INS_QL1_MajorPlayers_1_QuestObjective3	Defeat the Glowing One	击败发光者
+QuestLoc_INS_QL1_MajorPlayers_1_QuestObjective3	Defeat the Glowing One	击败发光种
 QuestLoc_INS_QL1_MajorPlayers_1_QuestShortDesc	Rescue the Minutemen and defeat the feral Ghouls attacking their outpost.	营救义勇军并击败袭击他们前哨站的狂尸鬼。
 QuestLoc_INS_QL1_MajorPlayers_1_Room0_Question_Line1	Boy, am I glad to see you. I was about to panic. I'm a new recruit!	天哪，见到你太高兴了。我差点就要惊慌失措了。我是新兵！
 QuestLoc_INS_QL1_MajorPlayers_1_Room0_Question_Line1_Answer0	God bless you. Oh! Take this. Save some for the Commander, will you?	上帝保佑你。哦！拿着这个。给指挥官留点，好吗？
@@ -8701,7 +8693,7 @@ QuestLoc_Infested_RaiderLine_1	Whoa, she wasn't kidding!	哇哦，她真不是�
 QuestLoc_IntoVault333_Conversation_1_NPCEnd_1	Go kill that Raider jerk, Frank the Tank. He's in that building down the road. This might help.	去杀掉掠夺者“坦克弗兰克”，他是个混蛋。他在这条路上的那幢建筑里。希望这些信息能帮到你。
 QuestLoc_IntoVault333_Conversation_1_NPCEnd_2	Could you kill Frank the Tank? He raids us all the time. He's in that building down the road. This might help.	你能杀掉“坦克弗兰克”吗？他总是将我们洗劫一空。他就在这条路上的那幢建筑里。希望这些消息能帮到你。
 QuestLoc_IntoVault333_Conversation_1_NPCEnd_3	Tell you what. You kill Frank the Tank. He's in that building down the road. Then we'll talk. This might help.	我告诉你，你去杀了“坦克弗兰克”。他就在那幢建筑里。然后我们再谈谈。这个可能会有帮助。
-QuestLoc_IntoVault333_Conversation_1_NPCStart_1	Whoa whoa whoa. Hold it right there. I'm Overseer Patel.	诶。。诶？等等。我是监督者帕特尔。
+QuestLoc_IntoVault333_Conversation_1_NPCStart_1	Whoa whoa whoa. Hold it right there. I'm Overseer Patel.	诶……诶？等等。我是监督者帕特尔。
 QuestLoc_IntoVault333_Conversation_1_NPCStart_2	You can't just walk around in here all willy nilly!	你们可不能这么大摇大摆地在这里走来走去。
 QuestLoc_IntoVault333_Conversation_1_NPCStart_3	We've had a lot of trouble with Raiders lately. Trust has to be earned!	我们最近深受掠夺者的危害，你们必须要证明自己是可信的！
 QuestLoc_IntoVault333_Conversation_1_Team_1	Ugh. Fine. What do we need to do?	呃，好的。我们应该怎么做？
@@ -8713,7 +8705,7 @@ QuestLoc_IntoVault333_QuestObjective_1	Explore Vault 333.	探索333号避难所�
 QuestLoc_IntoVault333_QuestShortDescription	Explore Vault 333 and find Paula Plumbkin.	探索333号避难所然后找到宝拉·普朗布金。
 QuestLoc_IntotheInfield_Conversation_1_NPCStart_1	What's this? A note on the ground?	这是？地上写了什么？
 QuestLoc_IntotheInfield_Conversation_1_NPCStart_2	“So you're looking for Rackie Jobinson's Jersey, huh?	“所以你在找罗基·杰宾森的棒球衫是吧？
-QuestLoc_IntotheInfield_Conversation_1_NPCStart_3	Well it's mine, and you'll never find it! - Coach”	呃，它是我的，而你们永远不可能找到它！——蔻驰”
+QuestLoc_IntotheInfield_Conversation_1_NPCStart_3	Well it's mine, and you'll never find it! - Coach”	呃，它是我的，而你们永远不可能找到它！——教练”
 QuestLoc_IntotheInfield_QuestLongDescription	Maybe Rackie Jobinson's Jersey is in the Clear Morning Place Insane Asylum!	也许罗基·杰宾森的棒球衫就在清晨之地精神病院里！
 QuestLoc_IntotheInfield_QuestName	Into the Infield	进入到内场
 QuestLoc_IntotheInfield_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -8721,9 +8713,9 @@ QuestLoc_IntotheInfield_QuestShortDescription	Find Rackie Jobinson's Baseball Je
 QuestLoc_IntotheOutfield_Conversation_1_NPCStart_1	A note on the ground!	地上写了什么！
 QuestLoc_IntotheOutfield_Conversation_1_NPCStart_2	“Okay, fine. You've proven I can't avoid you forever.	“好吧，你们已经证明了我不可能永远躲着你们。
 QuestLoc_IntotheOutfield_Conversation_1_NPCStart_3	Let's end your crazy scavenger hunt once and for all.	让我们一次性了结你们这个疯狂的寻宝游戏吧。
-QuestLoc_IntotheOutfield_Conversation_1_NPCStart_4	Come to my hideout, the Dugout. - Coach”	来我的据点，防空洞。——蔻驰”
-QuestLoc_IntotheOutfield_QuestLongDescription	Coach wasn't in the pet store, but there's a warehouse close by. He may have headed there...	蔻驰不在宠物商店里，但附近有个仓库，他可能去了那儿……
-QuestLoc_IntotheOutfield_QuestName	Into the Outfield	进入到外场
+QuestLoc_IntotheOutfield_Conversation_1_NPCStart_4	Come to my hideout, the Dugout. - Coach”	来我的据点，防空洞。——教练”
+QuestLoc_IntotheOutfield_QuestLongDescription	Coach wasn't in the pet store, but there's a warehouse close by. He may have headed there...	教练不在宠物商店里，但附近有个仓库，他可能去了那儿……
+QuestLoc_IntotheOutfield_QuestName	Into the Outfield	冲进外场
 QuestLoc_IntotheOutfield_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_IntotheOutfield_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ItsnotEasyBeingGreen_Conversation_1_NPCEnd_1	They're all below. Good luck!	他们都在下面。祝你好运！
@@ -8814,10 +8806,10 @@ QuestLoc_JustDeserts_QuestName	Just Deserts	罪有应得
 QuestLoc_JustDeserts_QuestObjective_1	Discover the origin of the Horsemen.	探索骑士的起源。
 QuestLoc_JustDeserts_QuestShortDescription	Discover the origin of the Horsemen.	探索骑士的起源。
 QuestLoc_JuuussstttaBitOutside_Conversation_1_NPCStart_1	The Jersey's not here. Rats.	棒球衫不在这里。烦人。
-QuestLoc_JuuussstttaBitOutside_QuestLongDescription	Okay, so the Raiders didn't lead us to Coach. It was worth a shot. Maybe he's taking a nap in the old mattress factory!	好吧，所以掠夺者没能带我们找到蔻驰。但还是值得一试。也许他会在旧的床垫厂小睡一会儿。
+QuestLoc_JuuussstttaBitOutside_QuestLongDescription	Okay, so the Raiders didn't lead us to Coach. It was worth a shot. Maybe he's taking a nap in the old mattress factory!	好吧，所以掠夺者没能带我们找到教练。但还是值得一试。也许他会在旧的床垫厂小睡一会儿。
 QuestLoc_JuuussstttaBitOutside_QuestName	Juuusssttt... a Bit Outside	就……稍偏外一点
 QuestLoc_JuuussstttaBitOutside_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_JuuussstttaBitOutside_QuestShortDescription	Explore the mattress factory to find Coach.	探索床垫厂，找到蔻驰。
+QuestLoc_JuuussstttaBitOutside_QuestShortDescription	Explore the mattress factory to find Coach.	探索床垫厂，找到教练。
 QuestLoc_KHAAANNNNN_Conversation_1_NPCEnd_1	Good! The Khan is most pleased by this arrangement!	很好！可汗对这个安排很满意！
 QuestLoc_KHAAANNNNN_Conversation_1_NPCEnd_2	Fine! The Khan gives you the boy and your lives. But remember... the Khan is always watching...	算了，可汗放过这个孩子和你们的命。但记住……他会一直看着你们的……
 QuestLoc_KHAAANNNNN_Conversation_1_NPCStart_1	What's this? You challenge the Khan? The Khan is going to take your home and everything in it!	这是啥？你居然敢挑衅可汗？可汗会让你无家可归！
@@ -8825,7 +8817,7 @@ QuestLoc_KHAAANNNNN_Conversation_1_NPCStart_2	The Khan is going to sell you to t
 QuestLoc_KHAAANNNNN_Conversation_1_NPCStart_3	But maybe not. Maybe the Khan likes you, and we can make a deal...	但是也许不会吧。也许可汗喜欢你，这样我们可以做个交易……
 QuestLoc_KHAAANNNNN_Conversation_1_NPCStart_4	You let me keep the boy, and I give you great reward! Otherwise, you die! Your choice!	如果你们让我留下这孩子，我会给你们很大的奖赏！不然的话你们就得死！自己选！
 QuestLoc_KHAAANNNNN_Conversation_1_Team_1	I'm not dying for a kid who can't handle his booze. Stay away from our Vault and we have a deal.	我不会为一个喝不了酒的小鬼送命。离我们避难所远点，这笔交易就算谈成。
-QuestLoc_KHAAANNNNN_Conversation_1_Team_2	No deal, Raider scum! You'll just go back on your word anyway!	没门儿，你们这些人渣！反正你们最后肯定会说话不算数！
+QuestLoc_KHAAANNNNN_Conversation_1_Team_2	No deal, Raider scum! You'll just go back on your word anyway!	没门儿，掠夺者人渣！反正你们最后肯定会说话不算数！
 QuestLoc_KHAAANNNNN_QuestLongDescription	Our boy got traded into marriage against his will, sold into slavery, shipped to a meat factory and now some Raiders have him hostage... What's next?	我们的孩子被拐卖给别人，强制结婚，后来又被卖给人贩子，最后送进了肉加工厂。现在一些掠夺者把他作为人质……接下来会发生什么？
 QuestLoc_KHAAANNNNN_QuestName	KHAAANNNNN!!!!	可汗安安安安安！！！
 QuestLoc_KHAAANNNNN_QuestObjective_1	Rescue Jack from Khan Killian's gang!	从可汗·基利安的掠夺者帮派手里救出杰克。
@@ -8875,22 +8867,22 @@ QuestLoc_LastInningOrnot_Conversation_2_NPCEnd_1	He's tough. I never said he was
 QuestLoc_LastInningOrnot_Conversation_2_NPCEnd_2	Sounds like a plan!	听起来像是个不错的计划！
 QuestLoc_LastInningOrnot_Conversation_2_NPCEnd_3	That's the least of your worries, meat sack!	你最不该担心的就是那个了，肉球！
 QuestLoc_LastInningOrnot_Conversation_2_NPCEnd_4	You think I'd fall for your Vault-Tec lies?! Never!	你以为我会相信你们避难所科技的鬼话吗？！绝不！
-QuestLoc_LastInningOrnot_Conversation_2_NPCStart_1	Well well well. Some nosy looky-loos, come lookin' for Coach.	哎呦哎呦哎呦。某些好管闲事的吃瓜群众，来这里找蔻驰。
+QuestLoc_LastInningOrnot_Conversation_2_NPCStart_1	Well well well. Some nosy looky-loos, come lookin' for Coach.	哎呦哎呦哎呦。某些好管闲事的吃瓜群众，来这里找教练。
 QuestLoc_LastInningOrnot_Conversation_2_NPCStart_2	Sorry scrubs, but our big bad boss ain't here.	不好意思小矮人们，可我们的超级无敌坏蛋大老板不在这里。
 QuestLoc_LastInningOrnot_Conversation_2_NPCStart_3	He decided to test his mettle at the old office building.	他去了旧办公楼那里检验他的勇气。
-QuestLoc_LastInningOrnot_Conversation_2_NPCStart_4	There's a Deathclaw there! And Coach needed some batting practice!	那儿有一只死爪！蔻驰正好需要一点战斗训练！
-QuestLoc_LastInningOrnot_Conversation_2_Team_1	Batting practice? Against a Deathclaw? So Coach is evil AND a complete idiot.	战斗训练？和死爪？蔻驰不仅邪恶还是个十足的蠢蛋。
+QuestLoc_LastInningOrnot_Conversation_2_NPCStart_4	There's a Deathclaw there! And Coach needed some batting practice!	那儿有一只死爪！教练正好需要练练击球！
+QuestLoc_LastInningOrnot_Conversation_2_Team_1	Batting practice? Against a Deathclaw? So Coach is evil AND a complete idiot.	击球练习？拿死爪当球打？教练不但邪恶，还是个十足的蠢蛋。
 QuestLoc_LastInningOrnot_Conversation_2_Team_2	Thanks for the info. I suppose now we kill each other?	多谢你们的信息。我想现在我们可以互相伤害了？
 QuestLoc_LastInningOrnot_Conversation_2_Team_3	I swear, if that Deathclaw rips Jobinson's Jersey, I'm going to be SO mad.	我发誓，如果死爪把罗基·杰宾森的棒球衫给扯烂了，我会发飙的！
-QuestLoc_LastInningOrnot_Conversation_2_Team_4	That's crazy! Coach is as good as dead! Let me go and I can help him!	真是疯了！蔻驰会死的！让我去吧，我能帮他！
+QuestLoc_LastInningOrnot_Conversation_2_Team_4	That's crazy! Coach is as good as dead! Let me go and I can help him!	真是疯了！教练会死的！让我去吧，我能帮他！
 QuestLoc_LastInningOrnot_QuestLongDescription	Maybe Rackie Jobinson got his amazing athletic prowess from drinking lots of coffee. It's time to search the Slocum's Joe!	也许罗基·杰宾森惊人的运动才能是因为喝了很多咖啡。是时候查看一下斯诺克姆乔伊甜甜圈店了。
 QuestLoc_LastInningOrnot_QuestName	Last Inning! Or not...	最后一次了！或者还不是……
 QuestLoc_LastInningOrnot_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_LastInningOrnot_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_1	You made it! So I guess you found my note. I'm Henrietta.	你们成功了！我猜你们一定是看到了我留下的信息。我是亨丽埃塔。
-QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_2	I hear you're looking for Rackie Jobinson's Jersey. Well, Coach has it!	我听说你在寻找罗基·杰宾森的棒球衫。没错，就在蔻驰的手里！
+QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_2	I hear you're looking for Rackie Jobinson's Jersey. Well, Coach has it!	我听说你在寻找罗基·杰宾森的棒球衫。没错，就在教练的手里！
 QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_3	I loved him once, you know. But he's nothing but a cheating jerk!	你知道吗，我曾经爱过他。可他就是个彻头彻尾的骗子！
-QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_4	Here. Use this to kill Coach. And tell him Henrietta said hello!	拿着，用这个杀掉蔻驰。并且告诉他亨丽埃塔向他问好！
+QuestLoc_LetsKnockitOuttathePark_Conversation_1_NPCStart_4	Here. Use this to kill Coach. And tell him Henrietta said hello!	拿着，用这个杀掉教练。并且告诉他亨丽埃塔向他问好！
 QuestLoc_LetsKnockitOuttathePark_QuestLongDescription	A note from someone named Henrietta has led us to Vault 232. Hopefully she can lead us to Rackie Jobinson's Jersey!	一位名叫亨丽埃塔的人留下了一些信息，让我们去232号避难所。但愿她能指引我们找到罗基·杰宾森的棒球衫！
 QuestLoc_LetsKnockitOuttathePark_QuestName	Let's Knock it Outta the Park!	让我们大干一场吧！
 QuestLoc_LetsKnockitOuttathePark_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -8980,7 +8972,7 @@ QuestLoc_LittleRedRadiumHood_QuestLongDescription	We sent one of our Dwellers to
 QuestLoc_LittleRedRadiumHood_QuestName	Little Red Radium Hood	辐射小红帽
 QuestLoc_LittleRedRadiumHood_QuestObjective_1	Rescue the food delivery courier.	拯救送货人。
 QuestLoc_LittleRedRadiumHood_QuestObjective_2	Find out what happened to Grandmamma.	去看看奶奶发生了什么事。
-QuestLoc_LittleRedRadiumHood_QuestShortDescription	Locate and rescue the food delivery girl.	找到送食物的女孩。
+QuestLoc_LittleRedRadiumHood_QuestShortDescription	Locate and rescue the food delivery girl.	找到并救出送餐姑娘。
 QuestLoc_LittleRedRadiumHood_RaiderLine_1	Hey, you're not Grandmamma!	嘿，你不是奶奶！
 QuestLoc_LiveDeadDrop_Conversation_1_NPCEnd_1	You're lucky I didn't shoot you just then...	你真幸运，我刚才差点开枪了……
 QuestLoc_LiveDeadDrop_Conversation_1_NPCEnd_2	*sigh* Just give me the message already.	*叹息*赶紧告诉我消息。
@@ -8999,8 +8991,8 @@ QuestLoc_LunchboxRun_QuestLongDescription	You've found the location of a Vault-T
 QuestLoc_LunchboxRun_QuestName	Lunchbox Run	午餐盒大作战
 QuestLoc_LunchboxRun_QuestObjective_1	Recover the Lunchbox.	找回午餐盒。
 QuestLoc_LunchboxRun_QuestShortDescription	Bring back that Lunchbox.	带回午餐盒。
-QuestLoc_MVPoftheYear_Conversation_1_NPCStart_1	Coach isn't here. The Jersey's not here.	蔻驰不在这里，棒球衫也不在这里。
-QuestLoc_MVPoftheYear_QuestLongDescription	Coach survived the Alpha Deathclaw, but he won't survive me! The Sultan of Slime left another narcissistic note, so we know he's still out there. The search continues!	领头死爪没能杀掉蔻驰。但坏家伙又留下了其他的信息！所以至少我们知道他还在外面。继续搜索！
+QuestLoc_MVPoftheYear_Conversation_1_NPCStart_1	Coach isn't here. The Jersey's not here.	教练不在这里，棒球衫也不在这里。
+QuestLoc_MVPoftheYear_QuestLongDescription	Coach survived the Alpha Deathclaw, but he won't survive me! The Sultan of Slime left another narcissistic note, so we know he's still out there. The search continues!	领头死爪没能杀掉教练。但坏家伙又留下了其他的信息！所以至少我们知道他还在外面。继续搜索！
 QuestLoc_MVPoftheYear_QuestName	MVP of the Year!	年度最佳球员！
 QuestLoc_MVPoftheYear_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_MVPoftheYear_QuestShortDescription	Keep tracking Coach and the Jersey!	继续追踪教练与棒球衫！
@@ -9018,7 +9010,7 @@ QuestLoc_ManonFirst_QuestObjective_1	Search for Rackie Jobinson's Baseball Jerse
 QuestLoc_ManonFirst_QuestShortDescription	Find the Jersey of baseball legend Rackie Jobinson!	寻找棒球传奇罗基·杰宾森的棒球衫！
 QuestLoc_ManonSecond_Conversation_1_NPCStart_1	Nope, not here. We'll have to keep looking.	没有，不在这里。我们得继续找。
 QuestLoc_ManonSecond_QuestLongDescription	Okay, so the first location was a bust. On to the second. The Quest to find Rackie Jobinson's Jersey continues!	好吧，第一个地点并没有什么用。现在前往第二个。继续寻找罗基·杰宾森棒球衫！
-QuestLoc_ManonSecond_QuestName	Man on Second	第二个地点
+QuestLoc_ManonSecond_QuestName	Man on Second	二垒有人
 QuestLoc_ManonSecond_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ManonSecond_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ManonThird_Conversation_1_NPCStart_1	Another bust. Oh well.	又是一场空。好吧。
@@ -9035,10 +9027,10 @@ QuestLoc_MaskHysteria_Conversation_1_Team_1	I fear ending this day with unnecess
 QuestLoc_MaskHysteria_Conversation_1_Team_2	I'm not telling you anything!	我什么都不会跟你说的！
 QuestLoc_MaskHysteria_Conversation_1_Team_3	I fear turning into an ugly mug like you!	我恐怕会变成像你那样面目狰狞的人！
 QuestLoc_MaskHysteria_Conversation_1_Team_4	No games! Just let me have what I came here for.	不要耍花招！赶紧给我想要的东西。
-QuestLoc_MaskHysteria_QuestLongDescription	In order to scare the Raiders away from Vault 31, a helpful traveler suggested getting Ghost Costumes from an old factory nearby.	为了把31号避难所的掠夺者吓跑，一位乐于助人的旅行者建议我们去附近的工厂找到扮鬼的服装。
+QuestLoc_MaskHysteria_QuestLongDescription	In order to scare the Raiders away from Vault 31, a helpful traveler suggested getting Ghost Costumes from an old factory nearby.	为了把31号避难所的掠夺者吓跑，一位乐于助人的旅行者建议我们去附近的工厂找到鬼服。
 QuestLoc_MaskHysteria_QuestName	Mask Hysteria	面具癔症
-QuestLoc_MaskHysteria_QuestObjective_1	Get the Ghost Costumes from the factory.	在工厂里找到扮鬼的服装。
-QuestLoc_MaskHysteria_QuestShortDescription	Get the Ghost Costumes from the old costume factory.	从旧的服装厂里找到扮鬼的服装。
+QuestLoc_MaskHysteria_QuestObjective_1	Get the Ghost Costumes from the factory.	在工厂里找到鬼服。
+QuestLoc_MaskHysteria_QuestShortDescription	Get the Ghost Costumes from the old costume factory.	从旧的服装厂里找到鬼服。
 QuestLoc_MatterstoSettle_Conversation_1_NPCEnd_1	Only a few. Most people got out in time thanks to Three Dog's warning. Please save them.	只有少数几个。多亏三狗的警告，大多数人及时撤离了。请救救他们。
 QuestLoc_MatterstoSettle_Conversation_1_NPCStart_1	Weapons free, folks! Fire at w-	允许开火，各位！朝那个——
 QuestLoc_MatterstoSettle_Conversation_1_NPCStart_2	Wait! Hold!	等等，慢着！
@@ -9588,7 +9580,7 @@ QuestLoc_OBrother_Answer05_PC03	No problem. As long as you share some of those w
 QuestLoc_OBrother_Conversation01_NPC01	Welcome to the chapter. It's good to see outsiders in the base.	欢迎来到兄弟会支部。很高兴看到外人来到基地。
 QuestLoc_OBrother_Conversation01_NPC02	The brotherhood can be a bit closed off sometimes, but...	兄弟会的人有时候有点儿冷冰冰的，但……
 QuestLoc_OBrother_Conversation01_NPC03	I don't think we can do our job without reaching out.	我觉得我们不能一直把自己关起来。
-QuestLoc_OBrother_Conversation02_NPC01	Keep your hands to yourself and try not to get in the way.	别乱摸啊，小心点儿。
+QuestLoc_OBrother_Conversation02_NPC01	Keep your hands to yourself and try not to get in the way.	别乱动手动脚，也尽量别碍事。
 QuestLoc_OBrother_Conversation02_NPC02	We have a lot of important work to do here.	我们这儿挺忙的，别添乱。
 QuestLoc_OBrother_Conversation03_NPC01	Hey! Have you ever tangled with a death claw?	嘿！你打过死爪没？
 QuestLoc_OBrother_Conversation03_NPC02	One of our, uh, specimens got loose and I don't know what to do.	我们有个，呃，实验品逃跑了，我不知道该怎么办。
@@ -9830,7 +9822,7 @@ QuestLoc_PetPeeve_QuestName	Pet Peeve	宠物的怨恨
 QuestLoc_PetPeeve_QuestObjective_1	Search the RobCo Building for any sign of Bottle & Cappy.	搜索罗伯科大楼，寻找有关瓶瓶和盖盖的线索。
 QuestLoc_PetPeeve_QuestShortDescription	Pursue Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪。
 QuestLoc_PickedOffatSecond_Conversation_1_NPCStart_1	Is that... Ugh. It's just a ripped Matt “The Missile” Murtagh Jersey.	那是……呃。只是一件撕破的马特“导弹”默塔球衣。
-QuestLoc_PickedOffatSecond_QuestLongDescription	Maybe Coach is rummaging around the ruins of the old sports bar, Nick Nack Quarterback's. If he is, that Jersey's as good as ours!	也许蔻驰在旧的运动酒吧废墟里四处搜寻。如果他在“小摆设四分卫”那家店的话，棒球衫一定是我们的了！
+QuestLoc_PickedOffatSecond_QuestLongDescription	Maybe Coach is rummaging around the ruins of the old sports bar, Nick Nack Quarterback's. If he is, that Jersey's as good as ours!	也许教练在旧的运动酒吧废墟里四处搜寻。如果他在“小摆设四分卫”那家店的话，棒球衫一定是我们的了！
 QuestLoc_PickedOffatSecond_QuestName	Picked Off at Second!	第二次扑空！
 QuestLoc_PickedOffatSecond_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_PickedOffatSecond_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -9868,8 +9860,8 @@ QuestLoc_PittStop_QuestLongDescription	A band of well-armed raiders attacked a c
 QuestLoc_PittStop_QuestName	Pitt Stop	匹兹堡事件
 QuestLoc_PittStop_QuestObjective	Find the band of slavers and free their captives.	找到奴隶贩子并解救俘虏。
 QuestLoc_PittStop_QuestShortDescription	Rescue abducted settlers from the slavers.	从奴隶贩子手中解救被绑架的居民。
-QuestLoc_PlayBall_Conversation_1_NPCStart_1	It's not here. And neither is Coach. So we keep looking!	不在这里。蔻驰也不在。继续寻找吧！
-QuestLoc_PlayBall_QuestLongDescription	We found a Rackie Jobinson baseball card with a taunting note from Coach. Looks like he really does have the Jersey. But we'll never give up!	我们发现了蔻驰留下的罗基·杰宾森的棒球卡和嘲笑我们的信息。看起来棒球衫似乎真的在他手上。我们绝不会放弃的！
+QuestLoc_PlayBall_Conversation_1_NPCStart_1	It's not here. And neither is Coach. So we keep looking!	不在这里。教练也不在。继续寻找吧！
+QuestLoc_PlayBall_QuestLongDescription	We found a Rackie Jobinson baseball card with a taunting note from Coach. Looks like he really does have the Jersey. But we'll never give up!	我们发现了教练留下的罗基·杰宾森的棒球卡和嘲笑我们的信息。看起来棒球衫似乎真的在他手上。我们绝不会放弃的！
 QuestLoc_PlayBall_QuestName	Play Ball!	开球！
 QuestLoc_PlayBall_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_PlayBall_QuestShortDescription	Keep the search alive!	坚持搜寻！
@@ -10020,7 +10012,7 @@ QuestLoc_RaidingParty_QuestObjective_2	Spread lies among the belligerent Raiders
 QuestLoc_RaidingParty_QuestObjective_3	Spread lies among the drinking Raiders.	在喝酒的掠夺者当中散播谣言。
 QuestLoc_RaidingParty_QuestShortDescription	Infiltrate the Raiders' hideout and sow the seeds of distrust.	深入掠夺者根据地，播下怀疑的种子。
 QuestLoc_RainDelay_Conversation_1_NPCStart_1	We'll have to keep looking...	我们得继续找……
-QuestLoc_RainDelay_QuestLongDescription	No sign of Coach at the cereral processing plant. Maybe he's scavenging for electronics at the old General Atomics factory? Worth a looksie...	没在麦片加工厂看到蔻驰。也许他去旧的通用原子厂寻找电子元件了？值得看一看。
+QuestLoc_RainDelay_QuestLongDescription	No sign of Coach at the cereral processing plant. Maybe he's scavenging for electronics at the old General Atomics factory? Worth a looksie...	没在麦片加工厂看到教练。也许他去旧的通用原子厂寻找电子元件了？值得看一看。
 QuestLoc_RainDelay_QuestName	Rain Delay	迟来的雨
 QuestLoc_RainDelay_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_RainDelay_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -10228,10 +10220,10 @@ QuestLoc_RunThreeDogRun_RaiderLine_2	By the power of Article 23, Subsection e!	�
 QuestLoc_RunThreeDogRun_RaiderLine_3	May Death wake up on the right side of the bed!	愿“死亡”在床的右边醒来！
 QuestLoc_RunThreeDogRun_RaiderLine_4	You'll never escape the claws of Death!	你永远无法逃脱“死亡”的魔爪！
 QuestLoc_RunnersinScoringPosition_Conversation_1_NPCStart_1	Warmer still... but not on fire yet!	已经有点热了，不过还不到开火的时候！
-QuestLoc_RunnersinScoringPosition_QuestLongDescription	Coach left a taunting message spray painted on the wall of the Lakeville Library! We're closing in! Time to search the ruins of Vault 789.	蔻驰在莱克维尔图书馆的墙上喷了一条嘲讽的留言！我们快追上了！该去789号避难所的废墟搜一搜了。
+QuestLoc_RunnersinScoringPosition_QuestLongDescription	Coach left a taunting message spray painted on the wall of the Lakeville Library! We're closing in! Time to search the ruins of Vault 789.	教练在莱克维尔图书馆的墙上喷了一条嘲讽的留言！我们快追上了！该去789号避难所的废墟搜一搜了。
 QuestLoc_RunnersinScoringPosition_QuestName	Runners in Scoring Position!	得分位置的跑步者！
 QuestLoc_RunnersinScoringPosition_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_RunnersinScoringPosition_QuestShortDescription	Chase after Coach in Vault 789.	在789号避难所追赶蔻驰。
+QuestLoc_RunnersinScoringPosition_QuestShortDescription	Chase after Coach in Vault 789.	在789号避难所追赶教练。
 QuestLoc_S2_QL2_Area51_QuestLineName	The day Area 51 stood still	51区停转之日
 QuestLoc_S2_QL2_Q1_Doc_CombatInit2	We've been waiting to see a doctor for days. You'll do nicely to pass the time!	我们已经等着看医生等了好几天了。正好拿你们打发时间！
 QuestLoc_S2_QL2_Q1_Doc_CombatInit3	I TOLD YOU I WON'T LET YOU TAKE MY ARMS!!!!!!	我告诉过你我不会让你拿走我的手臂！！！！！
@@ -10438,7 +10430,7 @@ QuestLoc_Sabotage_Conversation_2_NPCEnd_3	Well, he did give us these. They're on
 QuestLoc_Sabotage_Conversation_2_NPCStart_1	Hey, how come *you* get to wear a Radiation Suit?	嘿，你怎么会穿上防辐射服？
 QuestLoc_Sabotage_Conversation_2_NPCStart_2	It's bad enough the boss has us poisoning people with radioactive materials.	老大让我们用放射性物质毒害人已经够糟糕的了。
 QuestLoc_Sabotage_Conversation_2_NPCStart_3	Least he could do is give us adequate protection.	至少他还能给我们足够的保护。
-QuestLoc_Sabotage_Conversation_2_Team_1	Maybe we should just leave this Raider clan.	也许我们应该离开这个部落。
+QuestLoc_Sabotage_Conversation_2_Team_1	Maybe we should just leave this Raider clan.	也许我们该离开这个掠夺者部落了。
 QuestLoc_Sabotage_Conversation_2_Team_2	He's not even protecting you from undercover saboteurs.	他甚至不能保护你免遭秘密破坏者的伤害。
 QuestLoc_Sabotage_Conversation_2_Team_3	The boss doesn't care about your health.	老板不关心你的健康。
 QuestLoc_Sabotage_QuestLongDescription	We found some worrying info in the documents retrieved from the Raider base. It appears they made camp in a nearby uranium mine to poison our water supply. We need to send someone to stop this... discreetly, of course.	我们在掠夺者基地的文件中发现了一些令人担忧的信息。他们似乎在附近的一个铀矿井里毒害我们的水源。我们需要派人……当然是谨慎地阻止他们。
@@ -10517,7 +10509,7 @@ QuestLoc_ScareTactics_Conversation_1_Team_1	Boooo! Leave this place and never co
 QuestLoc_ScareTactics_Conversation_1_Team_2	Trick or treat!	不给糖就捣蛋！
 QuestLoc_ScareTactics_Conversation_1_Team_3	I can't believe this actually worked.	真不敢相信他们居然信了。
 QuestLoc_ScareTactics_Conversation_1_Team_4	Happy Halloween!	万圣节快乐！
-QuestLoc_ScareTactics_QuestLongDescription	With the Ghost Costumes in hand, it's time to head out to Vault 31 and confront the Raiders there once and for all!	有了这些扮鬼的服装，就可以去31号避难所然后和掠夺者们来决一死战了！
+QuestLoc_ScareTactics_QuestLongDescription	With the Ghost Costumes in hand, it's time to head out to Vault 31 and confront the Raiders there once and for all!	有了这些鬼服，就可以去31号避难所和掠夺者们决一死战了！
 QuestLoc_ScareTactics_QuestName	Scare Tactics	恐吓战术
 QuestLoc_ScareTactics_QuestObjective_1	Confront the Raiders at Vault 31.	在31号避难所和掠夺者对峙。
 QuestLoc_ScareTactics_QuestShortDescription	Confront the Raiders at Vault 31.	在31号避难所和掠夺者对峙。
@@ -10629,13 +10621,13 @@ QuestLoc_ScientificProgress_QuestObjective_2	Kill the Raider Boss.	杀死掠夺�
 QuestLoc_ScientificProgress_QuestShortDescription	Don't let anything stand in the way of Science!	任何事都无法阻挡科学之路！
 QuestLoc_ScientificProgress_RaiderLine_1	Oh, no! It's the Institute!	哦，不！是学院！
 QuestLoc_ScientificProgress_RaiderLine_2	“Mankind, Redefine” THIS, jerks!	“人类，重新定义”这个，混蛋们！
-QuestLoc_SecondStringers_Conversation_1_NPCEnd_1	It's a contest. The Commish gives it to the nastiest Raider, and there's nobody nastier than me!	这是个比赛。柯米什将把它交给最歹毒的掠夺者。没有人比我还歹毒了！
+QuestLoc_SecondStringers_Conversation_1_NPCEnd_1	It's a contest. The Commish gives it to the nastiest Raider, and there's nobody nastier than me!	这是个比赛。“总裁”将把它交给最歹毒的掠夺者。没有人比我还歹毒了！
 QuestLoc_SecondStringers_Conversation_1_NPCEnd_2	He's the big, bad boss who awards the Super Cup to the nastiest Raider. Like me!	他就是那个大坏蛋老板，奖励给最歹毒的掠夺者“超级杯”！比如说我！
-QuestLoc_SecondStringers_Conversation_1_NPCStart_1	You're too late! I sent that settler to the Commish!	你太迟了！我把那个居民送去了柯米什那里！
+QuestLoc_SecondStringers_Conversation_1_NPCStart_1	You're too late! I sent that settler to the Commish!	你太迟了！我把那个居民送去“总裁”那儿了！
 QuestLoc_SecondStringers_Conversation_1_NPCStart_2	They're gonna be our new cheerleader, heh heh.	他们将会是我们新的拉拉队，呵呵。
 QuestLoc_SecondStringers_Conversation_1_NPCStart_3	I'm gonna win this year's Super Cup for sure!	我一定会赢得今年的“超级杯”！
 QuestLoc_SecondStringers_Conversation_1_Team_1	What is this Super Cup?	这个超级奖杯是什么东西？
-QuestLoc_SecondStringers_Conversation_1_Team_2	Who's the Commish?	谁是柯米什？
+QuestLoc_SecondStringers_Conversation_1_Team_2	Who's the Commish?	谁是“总裁”？
 QuestLoc_SecondStringers_QuestLongDescription	A gang of Raiders has taken a settler hostage. Rescue the captive and solve the mystery of the Super Cup!	一群掠夺者们绑架了一位居民做人质。拯救人质并解开“超级杯”之谜！
 QuestLoc_SecondStringers_QuestName	Second-Stringers	替补队员
 QuestLoc_SecondStringers_QuestObjective_1	Locate the hostage.	找到人质。
@@ -10643,7 +10635,7 @@ QuestLoc_SecondStringers_QuestObjective_2	Learn about the Super Cup	了解“超
 QuestLoc_SecondStringers_QuestShortDescription	Locate the hostage.	找到人质。
 QuestLoc_SecondStringers_RaiderLine_1	Blitz 'em!	闪电战！
 QuestLoc_SecondStringers_RaiderLine_2	You're goin' on injured reserve!	你上了伤病储备名单！
-QuestLoc_SecretAgentPerson_QuestlineName	Secret Agent Person	秘密特工的人
+QuestLoc_SecretAgentPerson_QuestlineName	Secret Agent Person	秘密特工人员
 QuestLoc_SecretWeaponTest_Conversation_1_NPCEnd_1	Fine, we'll just take it then!	好吧，那我们就拿去吧！
 QuestLoc_SecretWeaponTest_Conversation_1_NPCEnd_2	How about no?	没门！
 QuestLoc_SecretWeaponTest_Conversation_1_NPCEnd_3	Well, you're in a bit of a pickle then, 'cause we all saw you.	好吧，那你就有点麻烦了，因为我们都看见你了。
@@ -10711,10 +10703,10 @@ QuestLoc_SetEmUpPestilence_RaiderLine_2	Worthiness is overrated!	价值被高估
 QuestLoc_SetEmUpPestilence_RaiderLine_3	After we kill you, Pestilence will glow... with pride!	我们杀了你，“瘟疫”会因骄傲而闪闪发光！
 QuestLoc_SetEmUpPestilence_RaiderLine_4	I agree with the criticisms leveled at our organization's name!	我同意对我们组织名称的批评！
 QuestLoc_SeventhInningStretch_Conversation_1_NPCStart_1	Nope. Nada. Nothing.	不，没，什么都没有。
-QuestLoc_SeventhInningStretch_QuestLongDescription	Does Coach really have the Jersey? Evidence suggests he may be in an old office building, so it's worth a look.	蔻驰真的有棒球衫吗？有证据说他可能在一幢旧的办公大楼里。最好去看看。
+QuestLoc_SeventhInningStretch_QuestLongDescription	Does Coach really have the Jersey? Evidence suggests he may be in an old office building, so it's worth a look.	教练真的有棒球衫吗？有证据说他可能在一幢旧的办公大楼里。最好去看看。
 QuestLoc_SeventhInningStretch_QuestName	Seventh Inning Stretch	棒球第七局
 QuestLoc_SeventhInningStretch_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_SeventhInningStretch_QuestShortDescription	Hunt Coach down in an office building.	在办公楼里找到蔻驰。
+QuestLoc_SeventhInningStretch_QuestShortDescription	Hunt Coach down in an office building.	在办公楼里找到教练。
 QuestLoc_ShamrocktheCasbah_Conversation_1_NPCStart_1	Well, that's disappointing.	好吧，那太令人失望了。
 QuestLoc_ShamrocktheCasbah_Conversation_1_NPCStart_2	Clover sprigs are supposed to have three leaves only...	三叶草或者是应该只有三片叶……
 QuestLoc_ShamrocktheCasbah_Conversation_1_NPCStart_3	...but all the samples here have four leaves. Must be a different plant.	但是这里所有的样品都有四片叶子。肯定是不同的植物。
@@ -10734,7 +10726,7 @@ QuestLoc_ShotgunWedding_QuestObjective_2	Defeat the Raider Boss.	打败掠夺者
 QuestLoc_ShotgunWedding_QuestShortDescription	Rescue the kidnapped Vault Dweller from the Raider Boss.	从掠夺者首领手中救出被绑架的居民。
 QuestLoc_ShotgunWedding_RaiderLine_1	You won't be crashin' this wedding!	你们休想破坏这个婚礼！
 QuestLoc_SignalFailure_Conversation_1_NPCStart_1	Look at that. An old note. Gosh. It looks pre-war.	快看那个，一张旧的便条，感觉像是战前的。
-QuestLoc_SignalFailure_Conversation_1_NPCStart_2	“Received our Mr. Handy today. We're going to need to get this thing up and running quick if we're going to get the repairs done in time.”	“今天收到了‘巧手’先生。如果我们能即时把它修理好，应该能让它重新工作，灵活运转。”
+QuestLoc_SignalFailure_Conversation_1_NPCStart_2	“Received our Mr. Handy today. We're going to need to get this thing up and running quick if we're going to get the repairs done in time.”	“今天收到了‘巧手’先生。如果我们能及时把它修好，应该能让它重新工作，灵活运转。”
 QuestLoc_SignalFailure_Conversation_2_NPCStart_1	Ah ha. Another note.	啊哈，又是一张字条。
 QuestLoc_SignalFailure_Conversation_2_NPCStart_2	“Repairs are taking longer than expected. I'm going to get everyone into the lower levels. Hopefully we'll all be safe down there.”	“修理的时间比我们预计的要长。我要把所有人都带到下面几层去，但愿我们在那儿能安全。”
 QuestLoc_SignalFailure_Conversation_2_NPCStart_3	Oh gosh...	哦天啊……
@@ -10756,7 +10748,7 @@ QuestLoc_SlashandBurn_QuestObjective_1	Kill the Glowing One.	杀死发光种。
 QuestLoc_SlashandBurn_QuestObjective_2	Explore the Nuka-Cola Plant.	探索核子可乐工厂。
 QuestLoc_SlashandBurn_QuestShortDescription	Search the Nuka-Cola Plant for Maxson's Roughnecks.	前往核子可乐工厂，寻找“麦克森硬汉小队”。
 QuestLoc_SlidingintoHome_Conversation_1_NPCStart_1	There's a box of stale Sugar Bombs, but no Jersey.	有一盒过期的糖衣炸弹麦片。但没有棒球衫。
-QuestLoc_SlidingintoHome_QuestLongDescription	Maybe Coach got hungry and is hiding out in the old cereal processing plant. Rackie Jobinson's Jersey, here we come!	也许蔻驰饿了，然后躲在了某个麦片加工厂。罗基·杰宾森的棒球衫，我们来了！
+QuestLoc_SlidingintoHome_QuestLongDescription	Maybe Coach got hungry and is hiding out in the old cereal processing plant. Rackie Jobinson's Jersey, here we come!	也许教练饿了，然后躲在了某个麦片加工厂。罗基·杰宾森的棒球衫，我们来了！
 QuestLoc_SlidingintoHome_QuestName	Sliding into Home	溜回家
 QuestLoc_SlidingintoHome_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_SlidingintoHome_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -10850,7 +10842,7 @@ QuestLoc_SpelunKingTrainingE_Conversation_2_NPCStart_2	The Overseer is sure to s
 QuestLoc_SpelunKingTrainingE_QuestLongDescription	The annual Spelun-King competition is coming up, but which Dwellers should go? Let's send charming and agile Dwellers to explore a cave and see how well they do!	一年一度的洞穴探险赛即将开始，但是该送哪一个居民过去呢？让我们派遣那些有魅力又敏捷的居民去吧，看看他们有多厉害！
 QuestLoc_SpelunKingTrainingE_QuestShortDescription	Do charming and agile Dwellers have what it takes?	魅力又敏捷的居民真的有本事赢得大赛吗？
 QuestLoc_SpelunKingTrainingF_Conversation_1_NPCEnd_1	Then let the chips fall where they may!	那就让该发生的都发生吧！
-QuestLoc_SpelunKingTrainingF_Conversation_1_NPCEnd_2	All bets are off! Get them!	世事难料！给我拿下他们！
+QuestLoc_SpelunKingTrainingF_Conversation_1_NPCEnd_2	All bets are off! Get them!	规矩不算了！给我拿下他们！
 QuestLoc_SpelunKingTrainingF_Conversation_1_NPCStart_1	With us in the game, the deck is stacked against you!	只要我们参加比赛，你们就不可能赢的！
 QuestLoc_SpelunKingTrainingF_Conversation_1_NPCStart_2	You're starting behind the eight ball against pocket aces.	你们一开局就落在下风，而我们手里捏着一对王牌。
 QuestLoc_SpelunKingTrainingF_Conversation_1_NPCStart_3	We'll be Spelun-Kings. You can bet on it.	我们将会成为洞穴探险之王的。你们尽可以打赌！
@@ -10921,7 +10913,7 @@ QuestLoc_SpringingtheTrap_Conversation_3_NPCEnd_4	You're preaching to the choir,
 QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_1	Oh good, you're not Pests! I'm an undercover reporter with the Weekly Exposition.	哦，好吧，你不是“害虫”！我是一名每周博览会的卧底记者。
 QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_2	We have people undercover with the three active Horsemen. No word yet on Death, if there is one.	我们在三位活跃的“骑士”左右都安插了卧底。至于“死亡”，还没有任何消息，如果有的话。
 QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_3	You have to tell my editor what I've found. Pestilence isn't a person like War!	你必须告诉我的编辑我找到了什么。“瘟疫”不是和“战争”一样的人！
-QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_4	It's a Glowing Radscorpion! And the suits all the Pests wear protect them from its radiation.	这是一只有辐射的发光蝎子！那些“害虫”穿着的防护服能让他们免受它的辐射。
+QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_4	It's a Glowing Radscorpion! And the suits all the Pests wear protect them from its radiation.	这是一只发光辐射蝎！那些“害虫”穿着的防护服能让他们免受它的辐射。
 QuestLoc_SpringingtheTrap_Conversation_3_Team_1	So what's all this talk about being unworthy?	那么这些关于不配的话题是什么呢？
 QuestLoc_SpringingtheTrap_Conversation_3_Team_2	But doesn't Pestilence attack them?	但是“瘟疫”不会攻击他们吗？
 QuestLoc_SpringingtheTrap_Conversation_3_Team_3	What makes this Glowing Radscorpion so special?	是什么让这只发光辐射蝎这么特别？
@@ -10975,7 +10967,7 @@ QuestLoc_SpyonRaiders_Conversation_1E_NPCEnd_1	That's it. You're dead!	够了。
 QuestLoc_SpyonRaiders_Conversation_1E_NPCEnd_2	That's what we like to hear. Go on ahead.	那是我们想听的。请继续。
 QuestLoc_SpyonRaiders_Conversation_1E_NPCEnd_3	Yeah, right. Wait, seriously? You're dead!	是啊，对的。等等，你说什么？你们死定了！
 QuestLoc_SpyonRaiders_Conversation_1E_NPCStart_1	What do we have here? Looking to join our gang?	你们是谁？想加入我们帮派？
-QuestLoc_SpyonRaiders_Conversation_1E_NPCStart_2	We're the Pencil Pushers. We push pencils through people.	我们用铅笔把人捅穿。
+QuestLoc_SpyonRaiders_Conversation_1E_NPCStart_2	We're the Pencil Pushers. We push pencils through people.	我们是“推铅笔帮”——用铅笔把人捅穿。
 QuestLoc_SpyonRaiders_Conversation_1E_NPCStart_3	You think you're tough enough to join us?	你们觉得自己足够厉害到能加入我们吗？
 QuestLoc_SpyonRaiders_Conversation_1E_Team_1	We prefer pens, to be honest.	老实讲，我们更喜欢钢笔。
 QuestLoc_SpyonRaiders_Conversation_1E_Team_2	Finally! People who understand that writing is the deadliest art.	终于有人明白书写是最致命的艺术！
@@ -11084,7 +11076,7 @@ QuestLoc_SpyonRaiders_Conversation_3E_Team_1	That's right, and we'd love some ne
 QuestLoc_SpyonRaiders_Conversation_3E_Team_2	We need medical supplies, Boss!	老大！我们想要点医疗物资！
 QuestLoc_SpyonRaiders_Conversation_3E_Team_3	How about some Junk? We're feeling crafty.	能给我们点杂物么？我们想造东西。
 QuestLoc_SpyonRaiders_Conversation_3E_Team_4	Die Raider scum!	去死吧，你们这些掠夺者人渣！
-QuestLoc_SpyonRaiders_QuestLongDescription	Let's put these Raider Outfits to good use! Send some Dwellers to spy on one of the Raider camps.	让这些掠夺者装备物尽其用吧！派遣一些居民去掠夺者营地当间谍。
+QuestLoc_SpyonRaiders_QuestLongDescription	Let's put these Raider Outfits to good use! Send some Dwellers to spy on one of the Raider camps.	让这些掠夺者服装物尽其用吧！派一些居民去掠夺者营地当间谍。
 QuestLoc_SpyonRaiders_QuestName	Spy on Raiders!	掠夺者无间道！
 QuestLoc_SpyonRaiders_QuestObjective_1	Talk to the Raider Boss.	同掠夺者首领交谈。
 QuestLoc_SpyonRaiders_QuestObjective_2	Talk to Raiders.	同掠夺者交谈。
@@ -11162,16 +11154,16 @@ QuestLoc_SynthsforSale_QuestObjective_1	Rescue the Synths!	拯救合成人！
 QuestLoc_SynthsforSale_QuestShortDescription	Rescue the Institute Synths.	拯救学院的合成人。
 QuestLoc_SynthsforSale_RaiderLine_1	You ain't from the Institute, are ya? Then you're dead meat!	你们不是从学院来到是吧？那只能送你们上西天了！
 QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCEnd_1	It's a hit! Actually, lots of hits.	一记安打！其实是很多安打。
-QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCEnd_2	Ball four! You get to walk, home that is.	第四球！快走，去本垒。
+QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCEnd_2	Ball four! You get to walk, home that is.	四坏球！保送——直接上本垒。
 QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCStart_1	I'm Slugger, captain of this ball club.	我是斯洛格，棒球俱乐部的队长。
-QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCStart_2	It's the bottom of the ninth and we're up to bat.	到了第九局关键时候，轮到我们击球。
+QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCStart_2	It's the bottom of the ninth and we're up to bat.	现在是九局下半，轮到我们上场击球。
 QuestLoc_TakeMeOuttotheBallGame_Conversation_1_NPCStart_3	You going to swing this pitch or not?	你这次要不要挥棒？
 QuestLoc_TakeMeOuttotheBallGame_Conversation_1_Team_1	I'll swing at it.	我会挥的。
 QuestLoc_TakeMeOuttotheBallGame_Conversation_1_Team_2	I'll hold. I think you'll throw a ball.	我先放着。我觉得你会扔球。
 QuestLoc_TakeMeOuttotheBallGame_QuestLongDescription	Slugger the Raider is hosting a baseball game, but he forgot to invite you. Time to throw him out at home plate.	掠夺者斯洛格正在举办一场棒球比赛，但他忘记邀请你了。是时候在本垒将他封杀出局了。
 QuestLoc_TakeMeOuttotheBallGame_QuestName	Take Me Out to the Ball Game	带我去比赛。
 QuestLoc_TakeMeOuttotheBallGame_QuestObjective_1	Defeat Slugger.	打败斯洛格。
-QuestLoc_TakeMeOuttotheBallGame_QuestShortDescription	Beat Slugger the Raider at his own game.	在斯洛格自己的比赛里击败他。
+QuestLoc_TakeMeOuttotheBallGame_QuestShortDescription	Beat Slugger the Raider at his own game.	在掠夺者斯洛格自己的比赛里击败他。
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_1	So you got to first base. We'll throw you out at second.	所以你必须要拿下第一垒。我们会让你在第二垒出局。
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_2	Infield double! Guess we need a double play boys!	内野双打！看来我们需要双杀球员了！
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_3	Third base! We'll make sure you never get home.	三垒！我们会让你回不了本垒。
@@ -11203,7 +11195,7 @@ QuestLoc_Test_Conversation01_Answer02PC	No.	不好。
 QuestLoc_Test_QuestLongDescription	This is just a test. Remain calm.	这是一个测试，请不要惊慌。
 QuestLoc_Test_QuestShortDescription	Perform the test.	完成测试。
 QuestLoc_The20thInning_Conversation_1_NPCStart_1	Another day, another empty room.	又过了一天，又是一个空房间。
-QuestLoc_The20thInning_QuestLongDescription	There's been so sign of Coach, or Rackie Jobinson's Jersey. Is he still out there? Does he really have the Jersey? Only one way to find out!	没有蔻驰或是棒球衫的影子。他到底还在吗？他是不是真的有棒球衫？只有这一种方法才能知道了。
+QuestLoc_The20thInning_QuestLongDescription	There's been so sign of Coach, or Rackie Jobinson's Jersey. Is he still out there? Does he really have the Jersey? Only one way to find out!	没有教练或是棒球衫的影子。他到底还在吗？他是不是真的有棒球衫？只有这一种方法才能知道了。
 QuestLoc_The20thInning_QuestName	The 20th Inning	第二十局
 QuestLoc_The20thInning_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_The20thInning_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -11223,7 +11215,7 @@ QuestLoc_TheAbyss_Conversation_2_NPCEnd_3	Yup. That was our experiment, to have 
 QuestLoc_TheAbyss_Conversation_2_NPCEnd_4	Yeah, I haven't seen him in a while. Maybe I'll visit him in the Spring.	是的，我很久没见他了。也许我会在春天拜访他。
 QuestLoc_TheAbyss_Conversation_2_NPCStart_1	My eyes must be deceiving me...	我的眼睛一定在欺骗我……
 QuestLoc_TheAbyss_Conversation_2_NPCStart_2	No one has come this deep in decades...	几十年来都没有人走这么深了……
-QuestLoc_TheAbyss_Conversation_2_NPCStart_3	Even then, very few people ever did. Robots built most of this Vault.	即便如此，很少有人到过。机器人建造了这个避难所。
+QuestLoc_TheAbyss_Conversation_2_NPCStart_3	Even then, very few people ever did. Robots built most of this Vault.	即便如此，来过的人也屈指可数。这个避难所大部分是由机器人建造的。
 QuestLoc_TheAbyss_Conversation_2_NPCStart_4	They malfunctioned, and just kept on digging until they broke down.	他们出了故障，并继续向下挖直到他们坏了。
 QuestLoc_TheAbyss_Conversation_2_Team_1	This is the bottom then?	那这是底部呢？
 QuestLoc_TheAbyss_Conversation_2_Team_2	Why do you stay here?	你为什么待在这儿？
@@ -11260,7 +11252,7 @@ QuestLoc_TheBansheesKeen_Conversation_2_Team_3	Give us your weapons first, then 
 QuestLoc_TheBansheesKeen_Conversation_2_Team_4	You guys are nuts!	你们是疯子！
 QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_1	Sure we can! It's for the greater good, or something...	我们当然可以！这是为了更大的好处，或某事……
 QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_2	Meh, we're just following orders.	去你的，我们只是服从命令。
-QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_3	Fine, we were done anyway.	好吧，反正我们都完了。
+QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_3	Fine, we were done anyway.	好吧，反正我们也该结束了。
 QuestLoc_TheBansheesKeen_Conversation_3_NPCStart_1	So you're the ones messing with our little experiment...	所以你就是那些破坏我们小实验的人……
 QuestLoc_TheBansheesKeen_Conversation_3_NPCStart_2	We transmit the sound of a barn owl screeching directly into the Settlers' brains.	我们把一只猫头鹰尖叫直接传送到居民的大脑里。
 QuestLoc_TheBansheesKeen_Conversation_3_NPCStart_3	We then measure how quickly they turn against each other.	然后我们看他们多久会反目。
@@ -11366,14 +11358,14 @@ QuestLoc_TheCaseoftheMissingMitt_Conversation_1_Team_4	What's so special about t
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCEnd_1	Nope, but it didn't walk off on its own. Might be someone else around who snatched it.	不是，但它肯定不可能自己跑掉了。也许是周围什么人偷偷顺走了。
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCEnd_2	Hey, hey. Let's not do anything hasty here. I'll give you some of the other stuff I “recovered.” Now, don't you have a mitt to recover?	嘿，先不要着急。我会给你们看看我“找回”的另外的东西。现在，你们能帮我找回手套了吗？
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCEnd_3	Honestly? Guy just rubbed me the wrong way. Wanted to wipe that droopy grin off his face.	说实话？那家伙就是惹毛了我，想把他那张傻笑的脸打烂。
-QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCStart_1	Whoa, whoa, whoa. Did Clarence send you? Look, I don't have his mitt.	诶。。诶？等等。是克拉伦斯派你们来的？他的手套不在我这。
+QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCStart_1	Whoa, whoa, whoa. Did Clarence send you? Look, I don't have his mitt.	诶……诶？等等。是克拉伦斯派你们来的？他的手套不在我这。
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCStart_2	I mean, I did, but it's gone now.	我的意思是，我曾经有，但现在没有了。
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCStart_3	It was stolen while I was sleeping.	我睡觉的时候，手套被偷了。
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_NPCStart_4	You want it back, you're going to have to find it yourself.	你们想要手套的话，就得自己去找了。
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_Team_1	Any idea who might've taken it?	你知道是谁拿的吗？
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_Team_2	Clarence suggested I rough you up. You want to give me a reason not to?	克拉伦斯想让我给你点颜色看看。你能告诉我一个不这么做的理由吗？
 QuestLoc_TheCaseoftheMissingMitt_Conversation_2_Team_3	Why steal his mitt?	为什么要偷他的手套？
-QuestLoc_TheCaseoftheMissingMitt_QuestLongDescription	A note among Nick's files requested his help in recovering a lost family heirloom - a pre-war catcher's mitt with great sentimental value.	尼克的档案里有一张字条，请求他帮忙去找回一件遗失的的传家宝——一个战前的接球者手套。
+QuestLoc_TheCaseoftheMissingMitt_QuestLongDescription	A note among Nick's files requested his help in recovering a lost family heirloom - a pre-war catcher's mitt with great sentimental value.	尼克的档案里有一张字条，请求他帮忙找回一件遗失的传家宝——一只颇具纪念意义的战前捕手手套。
 QuestLoc_TheCaseoftheMissingMitt_QuestName	The Case of the Missing Mitt	丢失的手套
 QuestLoc_TheCaseoftheMissingMitt_QuestObjective_1	Speak to Clarence.	同克拉伦斯交谈。
 QuestLoc_TheCaseoftheMissingMitt_QuestObjective_2	Confront the thief.	和窃贼对峙。
@@ -11482,7 +11474,7 @@ QuestLoc_TheEndoftheRainbow_Conversation_2_NPCStart_3	What's on ya, boyo? Are yo
 QuestLoc_TheEndoftheRainbow_Conversation_2_Team_1	So you're the leper Shaun at the end of the rainbow?	你是彩虹尽头的那个麻风病尚恩吗？
 QuestLoc_TheEndoftheRainbow_Conversation_2_Team_2	I'm not sure what you're saying, but I sense you're upset.	我不知道你在说什么，但我感觉到你不开心。
 QuestLoc_TheEndoftheRainbow_Conversation_2_Team_3	Hand us your treasure and everything will be fine.	把你的宝藏交给我们，一切都会好起来的。
-QuestLoc_TheEndoftheRainbow_QuestLongDescription	We've heard strange rumors of a great treasure found at the end of the rainbow! Our calculations indicate that's near the abandoned talc mines to the West, ruled by a myserious Raider boss called “Shaun the Leper.”	我们听到过关于在彩虹尽头发现巨大宝藏的奇怪传闻！我们的计算表明，那就在废弃矿山附近的西部，由一个神秘的名叫“麻风病尚恩”的掠夺者首领所统治。
+QuestLoc_TheEndoftheRainbow_QuestLongDescription	We've heard strange rumors of a great treasure found at the end of the rainbow! Our calculations indicate that's near the abandoned talc mines to the West, ruled by a myserious Raider boss called “Shaun the Leper.”	我们听到传闻，说有人在彩虹尽头发现了巨大宝藏！据我们计算，那就在西边废弃的滑石矿附近，由一个神秘的掠夺者头目“麻风尚恩”统治。
 QuestLoc_TheEndoftheRainbow_QuestName	The End of the Rainbow	彩虹的尽头
 QuestLoc_TheEndoftheRainbow_QuestObjective_1	Find the main treasure trove.	找到主要的宝藏。
 QuestLoc_TheEndoftheRainbow_QuestObjective_2	Find the secondary treasure trove.	找到第二处宝藏。
@@ -11513,7 +11505,7 @@ QuestLoc_TheFinalPush_QuestName	The Final Push	最后一击
 QuestLoc_TheFinalPush_QuestObjective_1	Find Maxson's Roughnecks.	寻找“麦克森硬汉小队”。
 QuestLoc_TheFinalPush_QuestShortDescription	Find Maxson's Roughnecks in the Vault-Tec Headquarters.	前往避难所科技总部寻找“麦克森硬汉小队”。
 QuestLoc_TheGreatAmericanPastime_Conversation_1_NPCStart_1	No Jersey, but we're getting closer! I can feel it.	没看到棒球衫，但我们已经接近了，我能感觉得到。
-QuestLoc_TheGreatAmericanPastime_QuestLongDescription	Well, Coach wasn't in the sports bar. Maybe he's a teetotaler. He'd better not spill any darjeeling on that Jersey! Time to keep looking...	好吧，蔻驰并不在运动酒吧里。也许他是个禁酒主义者。他最好不要把什么茶水洒在那件棒球衫上。该继续寻找了……
+QuestLoc_TheGreatAmericanPastime_QuestLongDescription	Well, Coach wasn't in the sports bar. Maybe he's a teetotaler. He'd better not spill any darjeeling on that Jersey! Time to keep looking...	好吧，教练并不在运动酒吧里。也许他是个禁酒主义者。他最好不要把什么茶水洒在那件棒球衫上。该继续寻找了……
 QuestLoc_TheGreatAmericanPastime_QuestName	The Great American Pastime	美国人的伟大消遣
 QuestLoc_TheGreatAmericanPastime_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_TheGreatAmericanPastime_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -11930,24 +11922,24 @@ QuestLoc_TheresnoCryinginBaseball_QuestShortDescription	Find Rackie Jobinson's B
 QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_1	Hah! You know who gives us the best chance to win? Me!	哈！你知道谁最大程度上保证了咱们能赢吗？我！
 QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_2	My playoff run is only getting started, and I will go all the way!	我的季后赛跑才刚刚开始，我会一直跑下去的！
 QuestLoc_ThirdandGoal_Conversation_1_NPCStart_1	What?! You found me? I can't believe it!	什么？！你找到我了？真不敢相信！
-QuestLoc_ThirdandGoal_Conversation_1_Team_1	What's wrong, Commish? Feeling a little... deflated?	怎么了？柯米什？觉得有点……泄气？
-QuestLoc_ThirdandGoal_Conversation_1_Team_2	Your little Super Cup contest is over, Commish.	你的那个愚蠢的“超级杯”要结束了，柯米什。
+QuestLoc_ThirdandGoal_Conversation_1_Team_1	What's wrong, Commish? Feeling a little... deflated?	怎么了，“总裁”？觉得有点……泄气？
+QuestLoc_ThirdandGoal_Conversation_1_Team_2	Your little Super Cup contest is over, Commish.	你的那个愚蠢的“超级杯”要结束了，“总裁”。
 QuestLoc_ThirdandGoal_Conversation_2_NPCEnd_1	Thanks!	谢谢！
 QuestLoc_ThirdandGoal_Conversation_2_NPCStart_1	Help! These Raiders have lost their minds!	救命！这些掠夺者疯了！
 QuestLoc_ThirdandGoal_Conversation_2_NPCStart_2	They're obsessed with a pre-war sport called foosball!	他们很痴迷于战前的一种游戏，叫桌上足球！
 QuestLoc_ThirdandGoal_Conversation_2_NPCStart_3	At least, that's what I think they called it...	至少我听见他们好像是这么叫的……
 QuestLoc_ThirdandGoal_Conversation_2_Team_1	There's a Vault nearby. You'll be safe there.	这附近有一个避难所。你去那里比较安全。
-QuestLoc_ThirdandGoal_QuestLongDescription	You've tracked the kidnapped settler to the lair of the Commish. Time to put an end to this football flunky's Super Cup contest!	你已经知道被绑架的居民在柯米什那里。是时候终结这个足球怪人的“超级杯”比赛了！
+QuestLoc_ThirdandGoal_QuestLongDescription	You've tracked the kidnapped settler to the lair of the Commish. Time to put an end to this football flunky's Super Cup contest!	你已经知道被绑架的居民在“总裁”那里。是时候终结这个足球怪人的“超级杯”比赛了！
 QuestLoc_ThirdandGoal_QuestName	Third and Goal	第三和目标
 QuestLoc_ThirdandGoal_QuestObjective_1	Rescue the hostage.	解救人质。
-QuestLoc_ThirdandGoal_QuestObjective_2	Confront the Commish.	和柯米什对峙。
-QuestLoc_ThirdandGoal_QuestShortDescription	Rescue the hostage and confront the Commish.	拯救人质并和柯米什对峙。
+QuestLoc_ThirdandGoal_QuestObjective_2	Confront the Commish.	和“总裁”对峙。
+QuestLoc_ThirdandGoal_QuestShortDescription	Rescue the hostage and confront the Commish.	拯救人质并与“总裁”对峙。
 QuestLoc_ThirdandGoal_RaiderLine_1	Time for some big play offense!	是时候来个大进攻了！
 QuestLoc_ThirdandGoal_RaiderLine_2	You're goin' back to the practice squad!	准备好被打回预备队吧！
 QuestLoc_ThisGoldenRing_Conversation_1_NPCEnd_1	What? No, it's a sixpack of Nuka-Cola Quantum!	什么？不，这只是一箱六瓶装的量子核子可乐！
 QuestLoc_ThisGoldenRing_Conversation_1_NPCEnd_2	Oh, we don't care then. Here, for your troubles.	哦，我们不在乎。来，这是给你们的辛苦费。
 QuestLoc_ThisGoldenRing_Conversation_1_NPCEnd_3	We hate when Dwellers makes fun of our grammar! Die!	我们讨厌居民取笑我们的语法！去死吧！
-QuestLoc_ThisGoldenRing_Conversation_1_NPCStart_1	*Hiss* Filthy Dwellers, coming to steal from us.	*嘘*肮脏的居民，想来偷我们。
+QuestLoc_ThisGoldenRing_Conversation_1_NPCStart_1	*Hiss* Filthy Dwellers, coming to steal from us.	嘶——肮脏的居民，想来偷我们的东西。
 QuestLoc_ThisGoldenRing_Conversation_1_NPCStart_2	They want our prize!	他们想要我们的奖品！
 QuestLoc_ThisGoldenRing_Conversation_1_NPCStart_3	We hate them! We kill them!	我们讨厌他们！我们要杀了他们！
 QuestLoc_ThisGoldenRing_Conversation_1_Team_1	Is your “prize” some sort of gold jewelry, by chance?	“奖品”不会是某种黄金首饰吗？
@@ -11967,13 +11959,13 @@ QuestLoc_ThrowMeSomePepper_Conversation_1_NPCEnd_4	Yeeeaaahhhh!	耶耶耶耶耶�
 QuestLoc_ThrowMeSomePepper_Conversation_1_NPCStart_1	What? Vault Dwellers? Ugh. I HATE Vault Dwellers!	什么？避难所居民？呃。我讨厌避难所居民！
 QuestLoc_ThrowMeSomePepper_Conversation_1_NPCStart_2	You come here to die, is that it?!	你来这里是为了去死的，对吧？！
 QuestLoc_ThrowMeSomePepper_Conversation_1_Team_1	We came to kill Raiders and eat Cram. And we're all out of Cram!	我们来是为了杀死掠夺者然后吃饱饱牌肉罐头的。我们的饱饱牌肉罐头都吃完了！
-QuestLoc_ThrowMeSomePepper_Conversation_1_Team_2	We're looking for a guy named Coach. You seen him?	我们在找一个叫蔻驰的人。你们有见过他吗？
+QuestLoc_ThrowMeSomePepper_Conversation_1_Team_2	We're looking for a guy named Coach. You seen him?	我们在找一个叫教练的人。你们有见过他吗？
 QuestLoc_ThrowMeSomePepper_Conversation_1_Team_3	We're not Vault Dwellers! We killed them, and stole their suits!	我们不是避难所居民！我们杀了他们，然后拿了他们的衣服！
 QuestLoc_ThrowMeSomePepper_Conversation_1_Team_4	That's it! We've had enough of you... you... Bad guys!!	够了！我受够了你们这些……坏蛋！！
-QuestLoc_ThrowMeSomePepper_QuestLongDescription	Some Raiders have taken over an old apartment complex. Maybe these jerks know the big jerk, Coach. Can't hurt to ask!	一些掠夺者占领了一幢旧的复式公寓。也许这些混蛋们知道蔻驰这个混蛋在哪儿。问问也无妨。
+QuestLoc_ThrowMeSomePepper_QuestLongDescription	Some Raiders have taken over an old apartment complex. Maybe these jerks know the big jerk, Coach. Can't hurt to ask!	一些掠夺者占领了一幢旧的复式公寓。也许这些混蛋们知道教练这个混蛋在哪儿。问问也无妨。
 QuestLoc_ThrowMeSomePepper_QuestName	Throw Me Some Pepper!	给我一些胡椒！
 QuestLoc_ThrowMeSomePepper_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_ThrowMeSomePepper_QuestShortDescription	Do the Raiders know where Coach is?	掠夺者们知道蔻驰在哪儿吗？
+QuestLoc_ThrowMeSomePepper_QuestShortDescription	Do the Raiders know where Coach is?	掠夺者们知道教练在哪儿吗？
 QuestLoc_ThymeisMoney_Conversation_1_NPCEnd_1	Oregano, I'm not!	牛至，我不是！
 QuestLoc_ThymeisMoney_Conversation_1_NPCEnd_2	You had it cumin.	你得了，小茴香。
 QuestLoc_ThymeisMoney_Conversation_1_NPCEnd_3	Careful, I don't saffron fools gladly.	小心点，我才不高兴惹傻瓜呢。
@@ -11997,7 +11989,7 @@ QuestLoc_ThymeisMoney_QuestName	Thyme is Money	珍贵的百里香
 QuestLoc_ThymeisMoney_QuestObjective_1	Retrieve the spice.	找到香料。
 QuestLoc_ThymeisMoney_QuestObjective_2	Eliminate the Raider Boss.	除掉掠夺者首领。
 QuestLoc_ThymeisMoney_QuestShortDescription	Steal some spices from a band of Raiders.	从一伙掠夺者那里偷点香料。
-QuestLoc_ThymeisMoney_RaiderLine_1	Keep calm and curry on.	保持冷静，继续拍马屁。
+QuestLoc_ThymeisMoney_RaiderLine_1	Keep calm and curry on.	保持冷静，继续咖喱下去。
 QuestLoc_ThymeisMoney_RaiderLine_2	I mint to do that.	我很勒意那样做。
 QuestLoc_ThymeisMoney_RaiderLine_3	What a load of horseradish!	真是一派胡言！
 QuestLoc_TimeforaGrandSlam_Conversation_1_NPCStart_1	Still no Jersey! The Wasteland sure is a cruel mistress!	还是没有棒球衫！废土真是个残酷的地方！
@@ -12322,9 +12314,9 @@ QuestLoc_WaroftheNerds_Conversation_2_NPCEnd_3	Ugh! Set masers to carbonize!	呸
 QuestLoc_WaroftheNerds_Conversation_2_NPCStart_1	In the name of the Planetary League, I command you to stop!	以行星联盟的名义，我命令你停止！
 QuestLoc_WaroftheNerds_Conversation_2_NPCStart_2	Are you despicable Cosmic Clash nerds, or classy Space Trip aficionados?	你是可鄙的宇宙碰撞书呆子，还是一流的太空旅行爱好者？
 QuestLoc_WaroftheNerds_Conversation_2_NPCStart_3	Only one way to find out, by answering this question.	只有通过回答这个问题来找出答案。
-QuestLoc_WaroftheNerds_Conversation_2_NPCStart_4	When did the Chief Engineer synthesize Technobabblium to save the ship?	总工程师是什么时候合成科技巴氏合金来拯救飞船的？
+QuestLoc_WaroftheNerds_Conversation_2_NPCStart_4	When did the Chief Engineer synthesize Technobabblium to save the ship?	总工程师是什么时候合成“科技呓语素”来拯救飞船的？
 QuestLoc_WaroftheNerds_Conversation_2_Team_1	I believe it's vol. 2, issue 7, “Nebulous Intentions.”	我相信这是第二卷第七期，“模糊的意图”。
-QuestLoc_WaroftheNerds_Conversation_2_Team_2	Technobabblium isn't real.	科技巴氏合金不是真的。
+QuestLoc_WaroftheNerds_Conversation_2_Team_2	Technobabblium isn't real.	“科技呓语素”不是真的。
 QuestLoc_WaroftheNerds_Conversation_2_Team_3	Are you wearing... alien ears?	你戴的是……异形耳朵？
 QuestLoc_WaroftheNerds_Conversation_3_NPCEnd_1	You forget our Energy Scimitars! Pkssshiioom... vwoom... vwooom...	你忘了我们还有能量弯刀！噗克嘶嘶轰……呜嗡……呜嗡……
 QuestLoc_WaroftheNerds_Conversation_3_NPCEnd_2	Star Council commandos! I knew it!	星际议会突击队！我早就知道了！
@@ -12540,7 +12532,7 @@ QuestLoc_WelcometoParadise_QuestObjective_1	Explore Vault 242.	探索242号避�
 QuestLoc_WelcometoParadise_QuestObjective_2	Kill the Alpha Deathclaw.	杀死领头死爪。
 QuestLoc_WelcometoParadise_QuestShortDescription	Unlock the secrets of Vault 242.	揭开242号避难所的秘密。
 QuestLoc_WereBatting1000_Conversation_1_NPCStart_1	Ain't no Jersey here.	这里还是没有棒球衫。
-QuestLoc_WereBatting1000_QuestLongDescription	Coach is out there. Somewhere. Watching. Taunting. When we find him, we find Rackie Jobinson's Jersey!	蔻驰还在外面，某个地方。看着，嘲笑着我们。当我们找到他的时候，我们就能找到罗基·杰宾森的棒球衫了！
+QuestLoc_WereBatting1000_QuestLongDescription	Coach is out there. Somewhere. Watching. Taunting. When we find him, we find Rackie Jobinson's Jersey!	教练还在外面，某个地方。看着，嘲笑着我们。当我们找到他的时候，我们就能找到罗基·杰宾森的棒球衫了！
 QuestLoc_WereBatting1000_QuestName	We're Batting 1000!	击球一千次！
 QuestLoc_WereBatting1000_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WereBatting1000_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -12555,7 +12547,7 @@ QuestLoc_WhatsonSecond_QuestObjective_1	Search for Rackie Jobinson's Baseball Je
 QuestLoc_WhatsonSecond_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WhenIrishEyesareGlowing_QuestlineName	When Irish Eyes are Glowing	当爱尔兰的眼睛开始闪光
 QuestLoc_WhenLifeThrowsYouaCurveball_Conversation_1_NPCStart_1	What? STILL no Jersey?	什么？还是没有棒球衫？
-QuestLoc_WhenLifeThrowsYouaCurveball_QuestLongDescription	Coach wasn't at the Wilson Automatoys factory, but maybe he's getting in a workout in the ruins of Madden's Gym!	蔻驰不在威尔逊原子玩具厂，但是也许他在麦登健身房里锻炼！
+QuestLoc_WhenLifeThrowsYouaCurveball_QuestLongDescription	Coach wasn't at the Wilson Automatoys factory, but maybe he's getting in a workout in the ruins of Madden's Gym!	教练不在威尔逊原子玩具厂，但是也许他在麦登健身房里锻炼！
 QuestLoc_WhenLifeThrowsYouaCurveball_QuestName	When Life Throw's You a Curveball...	当生活甩给你一个弧形球……
 QuestLoc_WhenLifeThrowsYouaCurveball_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WhenLifeThrowsYouaCurveball_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
@@ -12581,8 +12573,8 @@ QuestLoc_WhosCarvingtheTurkey_QuestLongDescription	The cook went to go find his 
 QuestLoc_WhosCarvingtheTurkey_QuestName	Who's Carving the Turkey?	谁在切火鸡？
 QuestLoc_WhosCarvingtheTurkey_QuestObjective_1	Find the cook.	找到厨师。
 QuestLoc_WhosCarvingtheTurkey_QuestShortDescription	Rescue the cook.	救出厨师。
-QuestLoc_WhosonFirst_Conversation_1_NPCStart_1	No Coach. No Jersey. No nothing.	没有蔻驰。没有棒球衫。什么都没有。
-QuestLoc_WhosonFirst_QuestLongDescription	Henrietta was Coach's old girlfriend. She doesn't know where he is, but gave us a sweet weapon to help take him down. The search goes on!	亨丽埃塔是蔻驰的前女友。她不知道他在哪里，但她给了一个很赞的武器来帮助你拿下他。继续寻找吧！
+QuestLoc_WhosonFirst_Conversation_1_NPCStart_1	No Coach. No Jersey. No nothing.	没有教练。没有棒球衫。什么都没有。
+QuestLoc_WhosonFirst_QuestLongDescription	Henrietta was Coach's old girlfriend. She doesn't know where he is, but gave us a sweet weapon to help take him down. The search goes on!	亨丽埃塔是教练的前女友。她不知道他在哪里，但她给了一个很赞的武器来帮助你拿下他。继续寻找吧！
 QuestLoc_WhosonFirst_QuestName	Who's on First?	谁是第一个？
 QuestLoc_WhosonFirst_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WhosonFirst_QuestShortDescription	The search goes on!	搜寻仍在继续！
@@ -12590,7 +12582,7 @@ QuestLoc_WithFriendsLikeThese_Conversation_1_NPCStart_1	Thank you for rescuing m
 QuestLoc_WithFriendsLikeThese_Conversation_1_NPCStart_2	That Willard Glover guy was out of his mind.	那个叫威拉德·格洛弗的人一定是疯了。
 QuestLoc_WithFriendsLikeThese_Conversation_1_NPCStart_3	He thought the Mole rats were his friends.	他以为鼹鼠是他的朋友。
 QuestLoc_WithFriendsLikeThese_Conversation_1_NPCStart_4	Just when I thought Raiders couldn't get any crazier...	就在我以为不可能有人比掠夺者还要疯狂的时候……
-QuestLoc_WithFriendsLikeThese_QuestLongDescription	I've found a ransom note written by a Raider Boss named Willard Glover. He says he's captured a settler and taken him to the nearby Corvega Factory.	一位名叫威拉德·格洛弗的人留下了一条关于赎金的信息。说他抓住了一个居民并把他带到了附近的可伟佳装配厂。
+QuestLoc_WithFriendsLikeThese_QuestLongDescription	I've found a ransom note written by a Raider Boss named Willard Glover. He says he's captured a settler and taken him to the nearby Corvega Factory.	我们找到了一条赎金字条，落款是掠夺者头目威拉德·格洛弗。他说他抓了一个定居者，把人带到了附近的可伟佳装配厂。
 QuestLoc_WithFriendsLikeThese_QuestName	With Friends Like These	另类的朋友
 QuestLoc_WithFriendsLikeThese_QuestObjective_1	Kill Willard Glover.	杀死威拉德·格洛弗。
 QuestLoc_WithFriendsLikeThese_QuestObjective_2	Rescue the settler.	拯救居民。
@@ -12645,9 +12637,9 @@ QuestLoc_WorkingOvertime_QuestObjective_1	Investigate Vault 700.	调查700号避
 QuestLoc_WorkingOvertime_QuestShortDescription	Investigate Vault 700 and see what Rubarb's Raiders are up to.	调查700号避难所去看看鲁巴布的掠夺者们想干什么。
 QuestLoc_WorstCoachEver_Conversation_1_NPCStart_1	There's something spray painted on the wall!	有人在墙上用喷漆写了点东西！
 QuestLoc_WorstCoachEver_Conversation_1_NPCStart_2	“Getting Warmer”	“越来越暖和了”
-QuestLoc_WorstCoachEver_Conversation_1_NPCStart_3	It must be Coach! Mocking us!	一定是蔻驰！他在嘲笑我们！
+QuestLoc_WorstCoachEver_Conversation_1_NPCStart_3	It must be Coach! Mocking us!	一定是教练！他在嘲笑我们！
 QuestLoc_WorstCoachEver_QuestLongDescription	No luck in the pencil factory, but we're not discouraged. Rackie Jobinson's Jersey will be ours! We'll search the old Hubris Comics store.	铅笔厂里也没有。但我们并不气馁。棒球衫一定是我们的！我们去“虎不理漫画”漫画店看看吧。
-QuestLoc_WorstCoachEver_QuestName	Worst. Coach. Ever.	恶劣的蔻驰。
+QuestLoc_WorstCoachEver_QuestName	Worst. Coach. Ever.	最。烂。教练。
 QuestLoc_WorstCoachEver_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WorstCoachEver_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ZinesFromtheCommonwealth_QuestlineName	Zines From the Commonwealth	联邦来的扎因斯
@@ -14872,7 +14864,7 @@ Tutorial_Tip_29_PC	You can skip 1 Objective each day by clicking the X on the Ob
 Tutorial_Tip_29_Xbox	You can skip 1 Objective each day by pressing [Y] on the Objective screen.	每天您可以通过按下来跳过1个目标。
 Tutorial_Tip_30	If a room is full of Dwellers, the Dweller with the lowest stat for that room will swap places with the new Dweller.	如果一个房间已满员，这个房间里相关属性最低的居民将会和新分配的居民交换位置。
 Tutorial_Tip_31	You can get free Lunchboxes for completing some Objectives.	您可以通过完成一些目标得到免费的午餐盒。
-Tutorial_Tip_32	Confused how something works?  Check the VDSG in the Pip-Boy for help.	仍然有点不明白？？点击哔哔小子的VDSG来寻求帮助。
+Tutorial_Tip_32	Confused how something works?  Check the VDSG in the Pip-Boy for help.	还有不明白的地方？点击哔哔小子的VDSG来寻求帮助。
 Tutorial_Tip_33	You can assign Dwellers to the Vault entrance to act as guards.	您可以将居民分配在避难所入口大厅作为守门者。
 Tutorial_Tip_34	Upgrading your Vault entrance will make it harder for invaders to break in.	升级您的避难所入口，让掠夺者更难以攻入。
 Tutorial_Tip_35	Need extra CAPS? You can sell weapons and outfits from your Vault storage.	需要额外的瓶盖吗？您可以卖掉储藏室里的武器和装备。
