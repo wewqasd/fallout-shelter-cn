@@ -150,7 +150,7 @@ Button_Buy	BUY	购买
 Button_BuyMore	BUY MORE	购买更多
 Button_BuyMore_Switch	OPEN SHOP	打开商店
 Button_BuyPack	BUY PACK	购买一袋
-Button_BuyPack_Switch	OPEN ESHOP	打开电子商店
+Button_BuyPack_Switch	OPEN ESHOP	打开在线商店
 Button_Cancel	CANCEL	取消
 Button_Confirm	CONFIRM	确定
 Button_Continue	CONTINUE	继续
@@ -169,7 +169,7 @@ Button_Ignore	IGNORE	忽略
 Button_Instant	INSTANT	立即
 Button_Job	JOB	工作
 Button_No	NO	否
-Button_NotInThisVault	NOT IN THIS VAULT	不在本避难所
+Button_NotInThisVault	NOT IN THIS VAULT	不在这个避难所
 Button_NotNow	NOT NOW	暂时不用
 Button_Ok	OK	确定
 Button_QuantumComplete	COMPLETE	完成
@@ -240,7 +240,7 @@ Controls_Xbox_Vault_ResetCamera	Reset Camera (Click)	重设摄像头（点击）
 Controls_Xbox_Vault_ResetCamera_Switch	Reset Camera (Press)	重置镜头（按）
 Controls_Xbox_Vault_Resources	Resources (Click)	资源（点击）
 Controls_Xbox_Vault_Resources_Switch	Resources (Press)	资源（按）
-Controls_Xbox_Vault_RoomAction	Room Action	房间动作
+Controls_Xbox_Vault_RoomAction	Room Action	房间行动
 Controls_Xbox_Vault_Screenshot	Screenshot	截屏
 Controls_Xbox_Vault_SelectDweller	Select Dweller	选择居民
 Controls_Xbox_Vault_Settings	Settings	设置
@@ -569,7 +569,7 @@ Encounter_Intro_Creature1	Observed {0}	观察到{0}
 Encounter_Intro_Creature2	Detected {0}	侦察到{0}
 Encounter_Intro_Creature3	Identified {0}	辨认出{0}
 Encounter_Intro_Creature4	Spotted {0}	瞥见{0}
-Encounter_Intro_Creature5	Found {0}	找到{0}
+Encounter_Intro_Creature5	Found {0}	发现{0}
 Encounter_Intro_Creature6	Saw {0}	看见{0}
 Encounter_Intro_Location1	Located {0}	发现了{0}
 Encounter_Intro_Location2	Found {0}	发现{0}
@@ -577,10 +577,10 @@ Encounter_Intro_Location3	Came upon {0}	来到{0}
 Encounter_Intro_Location4	Reached {0}	到达{0}
 Encounter_Intro_Location5	Discovered {0}	发现{0}
 Encounter_Intro_Location6	Stumbled across {0}	误打误撞发现了{0}
-Encounter_Intro_NPC1	Detected {0}	发现{0}
+Encounter_Intro_NPC1	Detected {0}	侦察到{0}
 Encounter_Intro_NPC2	Met {0}	遇见{0}
-Encounter_Intro_NPC3	Located {0}	碰上{0}
-Encounter_Intro_NPC4	Found {0}	发现了{0}
+Encounter_Intro_NPC3	Located {0}	发现了{0}
+Encounter_Intro_NPC4	Found {0}	发现{0}
 Encounter_Intro_NPC5	Discovered {0}	发现{0}
 Encounter_Intro_NPC6	Encountered {0}	遇到{0}
 Encounter_Journal_Message26	Explorer's journal. New entry. Fancy Lads snack cakes provide excellent sustenance.	探险家日志。新条目：奇想小子牌蛋糕提供了极好的营养。
@@ -2411,7 +2411,7 @@ KeyboardMapping_OpenWindowFriendList	Social	社交
 KeyboardMapping_OpenWindowGameSettings	Settings/Cancel	设置/取消
 KeyboardMapping_OpenWindowHelp	Help	帮助
 KeyboardMapping_OpenWindowInventory	Inventory	储存
-KeyboardMapping_OpenWindowLunchBoxCollection	Collection	收集
+KeyboardMapping_OpenWindowLunchBoxCollection	Collection	收藏
 KeyboardMapping_OpenWindowObjective	Objectives	目标
 KeyboardMapping_OpenWindowQuestList	Quest List	任务
 KeyboardMapping_OpenWindowQuestOptions	Open the Quest Menu	打开任务菜单
@@ -2512,7 +2512,7 @@ CAPS (32.6%)"	"稀有居民 (20.0%)
 传奇宠物 (0.3%)
 瓶盖 (32.6%)"
 LunchBox_DoYouWantToBuyOne	You don't have any LunchBoxes, would you like to buy one?	您没有午餐盒，是否想要买一个？
-LunchBox_NotEnoughNuka	You don't have enough CAPS	您没有足够的瓶盖。
+LunchBox_NotEnoughNuka	You don't have enough CAPS	没有足够的瓶盖
 LunchBox_WindowTitle	Lunchboxes	午餐盒
 MainMenu_EnterVault	ENTER VAULT {0}	进入避难所{0}
 MainMenu_NoVaultTitle_Season	NO STANDARD VAULT FOUND	未找到标准避难所
@@ -2599,7 +2599,7 @@ Message_OutOfAP	You don't have enough CAPS	没有足够的瓶盖
 Message_OutOfNukaCaps	You don't have enough CAPS	没有足够的瓶盖
 Message_OutOfNukaQuantum	You need {0} more Nuka-Cola Quantum. Shop for more?	您还需要{0}瓶量子核子可乐，是否购买更多？
 Message_OutOfNukaQuantumStoreButton	SHOP	商店
-Message_OutOfNukaQuantumStoreButton_Switch	OPEN ESHOP	开启在线商店
+Message_OutOfNukaQuantumStoreButton_Switch	OPEN ESHOP	打开在线商店
 Message_OutOfRadAway	You don't have any RadAway left	您没有任何消辐宁
 Message_OutOfStimpacks	You don't have any Stimpaks left	您没有任何治疗针
 Message_OverseerOfficeNoPower	The Overseer's Office can't run without Power. Generate more Power to get it back up and running!	电力不足，监督者办公室无法运行。请产生更多的电力来让其恢复。
@@ -2710,7 +2710,7 @@ Message_TutorialPopup_08_Body_Xbox	"Your Vault Storage holds all the items your 
 Select the boxes icon in the Pip-Boy to see your stored items."	"避难所的储存室储藏着所有居民从废土上找来的或者午餐盒里得到的物品。
 点击哔哔小子菜单上的盒子图标可以查看储藏的物品。"
 Message_TutorialPopup_08_Hint	Hint: Storage rooms are excellent holding bay for Dwellers in case all other Rooms are full	提示：当其他房间都满员的时候，储藏室是很好的居民临时安置点。
-Message_TutorialPopup_08_Title	Storage	储藏
+Message_TutorialPopup_08_Title	Storage	储存
 Message_TutorialPopup_09_Body	Building a Medbay allows your Vault to produce Stimpaks and heal injured Dwellers.	建造医务室可以生产治疗针来治疗受伤的居民。
 Message_TutorialPopup_09_Hint	Hint: Equipping a Dweller with RadAway and Stimpak before sending him to the Wasteland will increase his chance of survival	提示：在将居民送去废土探险之前给他们配备治疗针和消辐宁将提高他们的存活率。
 Message_TutorialPopup_09_Title	RadAway - Stimpaks	消辐宁 - 治疗针
@@ -2847,11 +2847,9 @@ Message_TutorialPopup_27_Body_Xbox	"Use the Left Stick to select a room.
 
 After selecting a room, press [A] or use the Left Stick to cycle through Dwellers in that room.
 
-Use the Right Stick to move the camera, and [LT] and [RT] to zoom in and out."	"使用左杆来选择一个房间。
-
-选择好房间后，按下或使用左杆来循环移动选择居民。
-
-使用右摇杆移动镜头，用和放大缩小。"
+Use the Right Stick to move the camera, and [LT] and [RT] to zoom in and out."	"用左摇杆选择房间。
+选择房间后，按或用左摇杆切换房间内的居民。
+使用右摇杆移动镜头，和放大和缩小。"
 Message_TutorialPopup_27_Hint_Xbox		按住控制器上的对应按键即可快速调出避难所管理菜单。
 Message_TutorialPopup_27_Title_Xbox	Controls	控制
 Message_TutorialPopup_BuildUltraciteMine_Body	"Your Vault is on top of a valuable mineral called Ultracite.
@@ -2901,17 +2899,17 @@ Message_Tutorial_04	{BUILD ZONES} are where you can build {ROOMS}. Confirm the l
 Message_Tutorial_04_PC	{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {CLICKING} the {BUILD ZONE}.	{建造区域}是可以选择来建造{房间}的位置。确认位置，{点击}{建造区域}。
 Message_Tutorial_04_PS4	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
 Message_Tutorial_04_Switch	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
-Message_Tutorial_04_Xbox	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	{建造区域}是可以选择来建造{房间}的位置。使用{左杆}来{选择}一个{建造区域}，{按下}来确认。
+Message_Tutorial_04_Xbox	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
 Message_Tutorial_05	Now we need {DWELLERS} to make the {POWER GENERATOR} produce power.	现在我们需要{居民}来使{发电室}发电。
 Message_Tutorial_06	Look! {NEW DWELLERS} have shown up at the {VAULT DOOR}.	看！{新居民}已出现在{避难所大门}。
 Message_Tutorial_07	Let's look at the {STATS} of a {DWELLER}. {TAP} on a {DWELLER} to {SEE THEIR INFO}.	让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。
 Message_Tutorial_07_PC	Let's look at the {STATS} of a {DWELLER}. {CLICK} on a {DWELLER} to {SEE THEIR INFO}.	让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。
 Message_Tutorial_07_PS4	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
 Message_Tutorial_07_Switch	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
-Message_Tutorial_07_Xbox	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。用左杆{移动}至{废土}来{选择}第一个{居民}。
+Message_Tutorial_07_Xbox	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
 Message_Tutorial_08	You can see the {DWELLER'S SPECIAL} stats. This info tells you where a {DWELLER} can be used most effectively.	您可以看到{居民的SPECIAL属性}统计。这个信息告诉您{居民}在哪儿能被最有效地利用。
-Message_Tutorial_09	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}和{按住}居民，然后将其{拖}到一个房间。试着将这个{居民}分配到刚才所建的{发电室}。
-Message_Tutorial_09_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}和{按住}居民，然后将其{拖}到一个房间。试着将这个{居民}分配到刚才所建的{发电室}。
+Message_Tutorial_09	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_09_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
 Message_Tutorial_09_Xbox	To assign a {SELECTED DWELLER}, {HOLD} [A] to grab them and then {SELECT} a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{选中的居民}，{按住}抓住居民，然后{选择}一个房间。试着将这个{居民}分配到刚才所建的{发电室}。
 Message_Tutorial_10	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {TAP} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
 Message_Tutorial_10_PC	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {CLICK} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
@@ -3082,12 +3080,12 @@ MissingInternetConnection	This action requires an internet connection. Please co
 Molerat_Name	Mole rat	鼹鼠
 Molerat_Name_Plural	Mole rats	鼹鼠
 MoveInsteadOfOverrideText	Backup to free slot	备份到空档
-MrHandyDialog_Armory_01	Oh my. I certainly hope all this firepower is just for show.	哦，天哪，我真希望这些家伙只是玩具而已。
-MrHandyDialog_Armory_02	Oh my. I certainly hope all this firepower is just for show.	哦，天哪，我真希望这些家伙只是玩具而已。
+MrHandyDialog_Armory_01	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
+MrHandyDialog_Armory_02	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
 MrHandyDialog_Athletics_01	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
 MrHandyDialog_Athletics_02	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
 MrHandyDialog_Bar_01	Anyone fancy a tipple?	有谁想来一杯吗？
-MrHandyDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类就好好放松吧。不，不，没关系。我乐意为你们服务……
+MrHandyDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……
 MrHandyDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？速食薯泥？人类竟然真吃这些垃圾？
 MrHandyDialog_Cafeteria_02	Thank Heavens General Atomics International spared me from the threat of nausea. And obesity.	感谢通用原子国际让我免受恶心和肥胖的威胁。
 MrHandyDialog_Classroom_01	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
@@ -3098,36 +3096,36 @@ MrHandyDialog_GameRoom_01	Hmph. Just let these humans try and beat my high score
 MrHandyDialog_GameRoom_02	Hmph. Just let these humans try and beat my high score in Red Menace...	哼，就让这些人类来挑战我在《红色威胁》中的高分吧……
 MrHandyDialog_Generic_01	If the humans are happy, I'm happy. I swear.	人类开心，我就开心。我发誓。
 MrHandyDialog_Generic_02	So many humans, so little time.	人类如此之多，我的时间却如此之少。
-MrHandyDialog_Generic_03	Entombed in cold, unyielding steel. It's robot Heaven.	被冰冷坚硬的钢铁所束缚。这就是机器人的天堂。
+MrHandyDialog_Generic_03	Entombed in cold, unyielding steel. It's robot Heaven.	长眠于冰冷坚硬的钢铁之中——这就是机器人的天堂。
 MrHandyDialog_Generic_04	My kingdom for an oil bath...	我渴望一场机油浴……
 MrHandyDialog_Generic_05	If I've told them once, I've told them a thousand times. NO. PEDICURES.	这话我跟他们说过不下一千遍了：不。做。修。脚。
-MrHandyDialog_Generic_06	Do this, do that. But do I get a “thank you”? Nooooo...	做这个，做那个。但我能得到一句“谢谢”吗？从来没有……
-MrHandyDialog_Generic_07	Yes, Overseer, I know you're watching. I'm working as fast as I bloody can...	是的，监督者，我知道你在看着。我已经在尽快工作了……
-MrHandyDialog_Generic_08	I am a Mister Handy model robot. The pride of General Atomics International!	我是通用原子国际的骄傲，巧手先生型机器人。
+MrHandyDialog_Generic_06	Do this, do that. But do I get a “thank you”? Nooooo...	做这个，做那个。可我听过一句“谢谢”吗？没——有……
+MrHandyDialog_Generic_07	Yes, Overseer, I know you're watching. I'm working as fast as I bloody can...	是的，监督者，我知道你在看着。我已经在拼了命地赶工了……
+MrHandyDialog_Generic_08	I am a Mister Handy model robot. The pride of General Atomics International!	我是巧手先生型机器人，通用原子国际的骄傲！
 MrHandyDialog_Generic_09	Not a day goes by that I don't revel in the servitude of humankind. 	每天我都沉浸在为人类服务的喜悦中。
 MrHandyDialog_Generic_10	Live to serve, serve to live...	活着是为了服务，服务是为了活着……
 MrHandyDialog_Generic_11	Coming, coming! I'll be with you in two ticks!	来啦，来啦！我马上就来！
 MrHandyDialog_Generic_12	They don't call me Mister Handy for nothing.	“巧手先生”这名字可不是白叫的。
-MrHandyDialog_Generic_13	Hello, humans. Mister Handy here, ready to serve your every whim!	你们好，人类。巧手先生随时为你们服务！
+MrHandyDialog_Generic_13	Hello, humans. Mister Handy here, ready to serve your every whim!	你好，人类。巧手先生在此，随时伺候各位的每个突发奇想！
 MrHandyDialog_Generic_14	What do you need? Dusting? Mopping? General tidying?	需要什么？除尘？拖地？还是一般的整理？
 MrHandyDialog_Generic_15	Now now, I don't do windows. Oh wait! You don't have any! Ha ha ha. Sorry, robot humor...	先说好，我不擦窗户。哦，等等！你们根本没有窗户！哈哈哈。抱歉，这是机器人的幽默……
 MrHandyDialog_Generic_16	Feeling lazy? You called the right robot! You want it, I'll fetch it.	懒得动？那你可找对机器人了！你想要什么，我去拿。
 MrHandyDialog_Generic_17	I'll do whatever I can to support you humans' fat, lazy lifestyle.	我会尽我所能支持你们人类肥胖懒惰的生活方式。
 MrHandyDialog_Generic_18	Sometimes these humans feel like characters in a video game. Incapable of doing anything on their own...	有时候，这些人类感觉就像视频游戏里的角色，无法独立完成任何事情……
 MrHandyDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
-MrHandyDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，看，一层灰尘。谁会不喜欢清理人类掉落的头发和皮肤呢。
-MrHandyDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	猜谜时间！把根啤酒盛在方玻璃杯里会得到什么？猜到了吗？是啤酒！哦，我真是太搞笑了……
+MrHandyDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，快看，一层灰。毕竟，谁会不喜欢清理人类掉的毛发和皮屑呢。
+MrHandyDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	讲笑话时间！把根汁啤酒倒进方玻璃杯里，会得到什么？猜不出来吧？是啤酒！哦，我能把自己笑死……
 MrHandyDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了“棱镜”。懂吗？棱镜？
 MrHandyDialog_Generic_23	They say there are 10 different kinds of people in the world. Those who understand binary... and those who don't.	他们说世界上有10种人。懂二进制的和不懂二进制的。
 MrHandyDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我可能会照顾一个生活小康的郊区家庭……
-MrHandyDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？来吧，人类！
-MrHandyDialog_Generic_26	Have hover unit, will travel. Just let me know what you need, people.	有悬浮单元，可以旅行。告诉我你需要什么就行了，人类。
+MrHandyDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？放马过来吧，人类！
+MrHandyDialog_Generic_26	Have hover unit, will travel. Just let me know what you need, people.	自带悬浮单元，说走就走。各位有什么需要，尽管吩咐。
 MrHandyDialog_Generic_27	Personally, I think all this talk of an “Overseer” is so much rubbish. I've certainly never seen them.	个人认为，关于“监督者”的所有说法都是胡说八道。我从来没有见过他们。
 MrHandyDialog_Generic_28	I do hope there's no diaper changing today. The little humans are always so... wiggly.	真希望今天不用换尿布。那些小家伙总是……扭来扭去。
 MrHandyDialog_Generic_29	Cheerio, Vault Dwellers!	再见，避难所居民！
-MrHandyDialog_Generic_30	Is that... oh, it is. Blood on the floor. Wonderful.	这是什么……哦，是血。在地板上。真是太棒了。
+MrHandyDialog_Generic_30	Is that... oh, it is. Blood on the floor. Wonderful.	这是什么……哦，还真是。地板上有血。太“棒”了。
 MrHandyDialog_Generic_31	There's not enough Abraxo on the planet to scrub this place clean.	把全世界的 Abraxo 清洁剂都拿来，也刷不干净这地方。
-MrHandyDialog_Generic_32	Ugh. This place leaks like a sieve. And me without my brolly.	呃，这个地方漏水严重。而我没有带雨伞。
+MrHandyDialog_Generic_32	Ugh. This place leaks like a sieve. And me without my brolly.	呃，这地方漏得跟筛子似的。偏偏我又没带伞。
 MrHandyDialog_Generic_33	I wonder if we could convert one of these rooms into a proper study. Fireplace, bookshelves... gin.	我想知道我们能不能把其中一个房间改造成一个正经的书房。壁炉、书架……还有杜松子酒。
 MrHandyDialog_Generic_34	These humans can be so hard to understand. Everyone has SUCH an accent.	这些人类真是太难理解了。每个人都有那么重的口音。
 MrHandyDialog_Generic_35	Hard work is happy work? Like you humans would know.	努力工作令人快乐？你们人类真的懂吗？
@@ -3149,10 +3147,10 @@ MrHandyDialog_Gym_01	That's it, humans. Pump it up!	加油，人类！
 MrHandyDialog_Gym_02	That's it, humans. Pump it up!	加油，人类！
 MrHandyDialog_Hydroponics_01	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
 MrHandyDialog_Hydroponics_02	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
-MrHandyDialog_LivingQuarters_01	So this is where the magic happens...	所以这就是魔法发生的地方……
-MrHandyDialog_LivingQuarters_02	*Sigh* These humans get to have all the fun.	唉，人类真会享受。
-MrHandyDialog_Medbay_01	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，需要“治疗针”来维持生命。哦，人类啊，你们真是太搞笑了。
-MrHandyDialog_Medbay_02	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，需要“治疗针”来维持生命。哦，人类啊，你们真是太搞笑了。
+MrHandyDialog_LivingQuarters_01	So this is where the magic happens...	哦，原来“魔法”就是在这种地方变的……
+MrHandyDialog_LivingQuarters_02	*Sigh* These humans get to have all the fun.	唉，天下的乐子都让你们人类占了。
+MrHandyDialog_Medbay_01	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，居然需要“治疗针”来做自我维护。哦，人类，你们真是笑死我了。
+MrHandyDialog_Medbay_02	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，居然需要“治疗针”来做自我维护。哦，人类，你们真是笑死我了。
 MrHandyDialog_NukaCola_01	Because, really, why WOULDN'T you fill your body with processed sugar water?	说真的，往身体里灌满加工糖水，你还有什么理由不这么干呢？
 MrHandyDialog_NukaCola_02	Because, really, why WOULDN'T you fill your body with processed sugar water?	说真的，往身体里灌满加工糖水，你还有什么理由不这么干呢？
 MrHandyDialog_PowerGenerator_01	Ah, my favorite room.	啊，我最喜欢的房间。
@@ -3167,11 +3165,11 @@ MrHandyDialog_StorageRoom_01
 MrHandyDialog_StorageRoom_02		
 MrHandyDialog_Wasteland_1	Oh my. Isn't this... cheery.	哦，天哪。这儿可真是……“喜气洋洋”啊。
 MrHandyDialog_Wasteland_10	Surely someone out here must need a shoe shine...	这儿肯定有人需要擦鞋……
-MrHandyDialog_Wasteland_11	Hello! Anyone?	有人吗？
-MrHandyDialog_Wasteland_12	Those voices do NOT sound friendly. Time to skedaddle.	那些声音听起来不太友好，该溜了！
+MrHandyDialog_Wasteland_11	Hello! Anyone?	你好——有人吗？
+MrHandyDialog_Wasteland_12	Those voices do NOT sound friendly. Time to skedaddle.	那些声音听起来可一点儿都不友好。该开溜了！
 MrHandyDialog_Wasteland_13	Oh look, a broken crib. Isn't that encouraging.	看哪，一个破损的婴儿床。真是“鼓舞人心”啊。
-MrHandyDialog_Wasteland_14	Is that? Why yes, it's an old General Atomics factory. Looks like they broke the mold when they made me. Literally.	那是？没错，那是个破败的通用原子工厂。看起来他们制造我的时候确实“打破”常规了。字面意义上的。
-MrHandyDialog_Wasteland_15	If I were human, I'd be dead by now. Perish the thought.	如果我是人类，我肯定早就死了！想想就可怕。
+MrHandyDialog_Wasteland_14	Is that? Why yes, it's an old General Atomics factory. Looks like they broke the mold when they made me. Literally.	那是？没错，那是个破败的通用原子工厂。看来他们造完我之后就把模具给砸了。这可是字面意思。
+MrHandyDialog_Wasteland_15	If I were human, I'd be dead by now. Perish the thought.	如果我是人类，我肯定早就死了！呸呸呸，不吉利。
 MrHandyDialog_Wasteland_16	My radiation sensors are going haywire. Not that I care.	我的辐射传感器快要爆表了，不过我不在乎。
 MrHandyDialog_Wasteland_17	You know, it's not much to look at, but an enterprising robot could make quite the life for himself out here...	这地方看着是不怎么样，但一个有进取心的机器人在废土上也能闯出好日子来……
 MrHandyDialog_Wasteland_18	A deflated basketball, lying in the road. Symbolic of something, I'm sure...	一个瘪了的篮球，扔在路上。一定有什么象征意义……
@@ -3198,13 +3196,13 @@ MrHandyDialog_Wasteland_36	I want to go home. I want to go home. I want to go ho
 MrHandyDialog_Wasteland_37	Should I head back to the Vault? Or is it too soon? Somebody please tell me what to do!	我应该回避难所吗？还是太早了？快来个人告诉我该怎么做！
 MrHandyDialog_Wasteland_38	A domestic robot dedicated to cleaning. Wandering a post-apocalyptic landscape. My OCD is going HAYWIRE.	一个致力于清洁的家务机器人，在末世废土中游荡。我的强迫症要发作了。
 MrHandyDialog_Wasteland_39	Definitely starting to rethink this whole, “Send the Mister Handy to the Wasteland!” idea...	我得重新考虑一下“把巧手先生送到废土”这个主意……
-MrHandyDialog_Wasteland_4	Send the robot, they said. He'll be fine, they said. Barbarians.	他们说，派机器人去吧，它不会有事的。真是一帮野蛮人。
+MrHandyDialog_Wasteland_4	Send the robot, they said. He'll be fine, they said. Barbarians.	他们说什么“派机器人去吧”“它不会有事的”。真是一帮蛮子。
 MrHandyDialog_Wasteland_40	Overseer? Are you out there? Please, I implore you! Don't... don't let me die.	监督者？你在吗？求你了，别……别让我死在外头啊。
 MrHandyDialog_Wasteland_41	Oh for Heaven's sake, I'm a domestic robot, not a bloody tank. What am I even doing out here?!	拜托，我是一个家务机器人，又不是一辆坦克。我来这干什么？！
 MrHandyDialog_Wasteland_42	I'll find what I find, then head back. No heroics! Not for this Mister Handy!	我会找到需要的东西，然后就回去。英雄主义什么的可不适合像我这样的巧手先生！
-MrHandyDialog_Wasteland_43	Agh! A Deathclaw! Retreat! I'm a lover not a fighter!	啊！死爪！快跑！我不是战士，我是和平主义者！
-MrHandyDialog_Wasteland_44	Guess I'll head this way.	我觉得要往这个方向走。
-MrHandyDialog_Wasteland_45	This direction looks as good as any.	这个方向看起来不错。
+MrHandyDialog_Wasteland_43	Agh! A Deathclaw! Retreat! I'm a lover not a fighter!	啊！死爪！快跑！我只擅长爱人，不擅长打架！
+MrHandyDialog_Wasteland_44	Guess I'll head this way.	那就走这边吧。
+MrHandyDialog_Wasteland_45	This direction looks as good as any.	这边跟其他方向也半斤八两。
 MrHandyDialog_Wasteland_46	Hmmm. Left or right? I think... right.	嗯，左还是右？我猜是往……右。
 MrHandyDialog_Wasteland_47	Hmmm. Left or right? I think... left.	嗯，左还是右？我猜是往……左。
 MrHandyDialog_Wasteland_48	No. NO! Shoo, dog! Shoo! I am NOT a fire hydrant! I am a Mister Handy model... Agghh! No! BAD doggie!	不。不！走开，狗狗！走开！我不是消防栓！我是巧手先生……啊！不！坏狗！
@@ -3212,7 +3210,7 @@ MrHandyDialog_Wasteland_49	Oh look. A Feral Ghoul eating a man's arm. That's cer
 MrHandyDialog_Wasteland_5	Calibrating sensors...	正在校准传感器……
 MrHandyDialog_Wasteland_50	I'd be sweating profusely by now, I'd imagine. Had I the glands.	要是我有汗腺的话，现在应该大汗淋漓了。
 MrHandyDialog_Wasteland_51	Oh, wonderful. I'm talking to myself. Just what I need – psychosis.	哦，太棒了，开始自言自语了。我正缺这个呢——精神错乱。
-MrHandyDialog_Wasteland_52	I think I've had enough “fresh air” for one lifetime, thank you very much.	我已经吸够了避难所外的新鲜空气，非常感谢，该回去了。
+MrHandyDialog_Wasteland_52	I think I've had enough “fresh air” for one lifetime, thank you very much.	这辈子吸的“新鲜空气”已经够多了，多谢，不必了。
 MrHandyDialog_Wasteland_53	Maybe I'll hum to myself. That'll lift the ol' spirits.	或许我该哼点歌，这能振奋精神。
 MrHandyDialog_Wasteland_54	Exploring is so interesting. And terrifying. Not to mention utterly boring.	探索很有趣，也很恐怖，但也无聊透顶了。
 MrHandyDialog_Wasteland_55	Let's try... this direction.	试试……这个方向。
@@ -3225,21 +3223,21 @@ MrHandyDialog_Wasteland_60	Let's try... this direction.	试试……这个方向
 MrHandyDialog_Wasteland_61	I'll just hover right over this puddle of blood...	我可以从这滩血上面飘过去……
 MrHandyDialog_Wasteland_62	Mole rat holes. Maybe I'd best go the other way.	鼹鼠洞，也许我最好走另一条路。
 MrHandyDialog_Wasteland_63	Hmm. Large humans in the distance. Maybe... Ah yes, Super Mutants. Time to turn around.	嗯，远处有些大块头人类，也许……啊，没错，超级变种人。该掉头了。
-MrHandyDialog_Wasteland_64	Was that a... “pling”? Did someone actually take a shot at me? How rude!	那是什么……“砰”？有人向我开枪吗？真没礼貌！
+MrHandyDialog_Wasteland_64	Was that a... “pling”? Did someone actually take a shot at me? How rude!	那是……“叮”？居然真有人朝我开枪？真没礼貌！
 MrHandyDialog_Wasteland_65	If I had feet, they would be SO sore right now.	如果我有脚，现在肯定会很疼。
 MrHandyDialog_Wasteland_66	Oh look, an old basketball court. Definitely not my game. I possess neither a shirt, nor skin.	哦，看哪，一个旧篮球场。这运动不适合我，我没有衬衫，也没有皮肤。
 MrHandyDialog_Wasteland_67	Ah, an old baseball diamond. A game much like cricket, only far inferior.	啊，一个旧棒球场。这游戏类似板球，但要差得多。
 MrHandyDialog_Wasteland_68	A child's wooden blocks. From before the war. I wonder where... Oh.	小孩的木制积木，来自战前。我好奇那个小孩……哦。
-MrHandyDialog_Wasteland_69	Well bless my stars! A Giddyup Buttercup. Such an elegant steed.	天哪！一匹组装奶油小马，真是优雅的坐骑。
+MrHandyDialog_Wasteland_69	Well bless my stars! A Giddyup Buttercup. Such an elegant steed.	天哪！一匹“骑乘小马”，真是优雅的坐骑。
 MrHandyDialog_Wasteland_7	My internal compass indicates I'm now facing south. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝南。看来我该朝这个方向飘……
 MrHandyDialog_Wasteland_70	A locked door. And me without my bobby pin.	一扇锁着的门，但是我却没带开锁用的发夹。
 MrHandyDialog_Wasteland_71	Hmm. A computer terminal. Meant for human fingers, sadly.	哦？一个电脑终端。可惜，是为人类手指设计的。
 MrHandyDialog_Wasteland_72	If I were to just hover off into the sunset, would the Vault even care?	如果我就这样飘向夕阳，避难所真的会在乎吗？
-MrHandyDialog_Wasteland_73	Hmph. A broken down Protectron. Typical RobCo workmanship.	哼，一个破烂的保卫者。典型的劣质罗伯科公司产品。
-MrHandyDialog_Wasteland_74	Ah, look at that. An old Chryslus Corvega. Because nuclear cars were SUCH a good idea...	哦，看啊，一辆旧的克莱斯勒斯·科维加。核动力汽车可真是个“好”主意啊……
+MrHandyDialog_Wasteland_73	Hmph. A broken down Protectron. Typical RobCo workmanship.	哼，一个破烂的保卫者。典型的罗伯科劣质货。
+MrHandyDialog_Wasteland_74	Ah, look at that. An old Chryslus Corvega. Because nuclear cars were SUCH a good idea...	哦，看啊，一辆旧的克莱斯勒·科维加。核动力汽车可真是个“好”主意啊……
 MrHandyDialog_Wasteland_75	A radio playing, somewhere in the distance. Almost makes me feel like dancing.	远处传来广播的声音，让我有点想要跳舞。
 MrHandyDialog_Wasteland_76	Heavens, it's like one giant, uncleanable mess out here. I think I'm having a panic attack.	天哪，这里乱得都没有办法清理了，我都快恐慌发作了。
-MrHandyDialog_Wasteland_77	I'll stay out for just a while longer...	我要在外面再呆一会儿……
+MrHandyDialog_Wasteland_77	I'll stay out for just a while longer...	我要在外面再待一会儿……
 MrHandyDialog_Wasteland_78	This way looks... Well, it looks terrible. But so does every other way.	这个方向看起来……嗯，看起来很糟糕。但其他方向又有什么不同呢？
 MrHandyDialog_Wasteland_79	North it is.	那就向北走吧。
 MrHandyDialog_Wasteland_8	My internal compass indicates I'm now facing west. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝西。看来我就顺着这个方向飘下去了……
@@ -3249,9 +3247,9 @@ MrHandyDialog_Wasteland_82	West it is.	那就向西走吧。
 MrHandyDialog_Wasteland_83	Looks like an old office building. Ah, the skeleton of commerce.	看起来像是一座旧办公楼。啊，商业的残骸。
 MrHandyDialog_Wasteland_84	An old coffee shop. If it were a tea house, I might feel a tinge of sorrow.	一家旧咖啡店。如果那是一家茶馆，我可能会感到一丝悲伤。
 MrHandyDialog_Wasteland_85	Yet another destroyed school. Get smart, build a bomb, destroy yourselves. That's humans for you.	又一所被毁的学校。学习进步，制造炸弹，毁灭自己。这就是人类。
-MrHandyDialog_Wasteland_86	This exploring is exhausting work. If I had pores, I'd be sweating like a corpulent human in a sauna.	探索真是累人的工作，如果我有汗腺，我现在应该会像一个胖子在桑拿房里一样。
+MrHandyDialog_Wasteland_86	This exploring is exhausting work. If I had pores, I'd be sweating like a corpulent human in a sauna.	探索真是累人的活儿，如果我有毛孔，现在一定像桑拿房里的胖子一样汗如雨下。
 MrHandyDialog_Wasteland_87	If I were a human, I'd be exceptionally thirsty right now. Guess that explains their Nuka-Cola obsession.	如果我是人类，我现在一定会非常渴。看来他们对核子可乐的痴迷也不是没有原因的。
-MrHandyDialog_Wasteland_88	Oh ho! A fork in the road. Let's go... right!	哦？一个路口？我们走……右边！
+MrHandyDialog_Wasteland_88	Oh ho! A fork in the road. Let's go... right!	嚯！一个岔路口。我们走……右边！
 MrHandyDialog_Wasteland_89	Well, well... a fork in the road! Let's go... left!	哟，瞧瞧……一个岔路口！我们走……左边！
 MrHandyDialog_Wasteland_9	My internal compass indicates I'm now facing east. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝东。看来我该朝这个方向飘……
 MrHandyDialog_Wasteland_90	Maybe I should crest that hill, take stock of my surroundings.	也许我应该登上那个山丘，看看周围的环境。
@@ -3261,12 +3259,12 @@ MrHandyDialog_Wasteland_93	Oh, how interesting. A crudely-written sign. “Enter
 MrHandyDialog_Wasteland_94	Oh look, two humans beating each other to death with tire irons. Go, humanity.	看啊，两个人类正在用轮胎扳手互相殴打。人类真是太棒了。
 MrHandyDialog_Wasteland_95	What is this? Ah yes. I'm hovering over a minefield. I'll never be envious of legs again.	这是什么？啊，原来我正在雷区上啊。我再也不会羡慕别的生物有腿了。
 MrHandyDialog_Wasteland_96	I've heard rumors that a rogue A.I. actually caused the Great War. To think – WANTING a mess like this.	我听说大战是由一个反叛的人工智能引发的。真是怪了——它怎么会想要把一切弄得这么混乱？
-MrHandyDialog_Wasteland_97	Ooooohhh... An old suit of Power Armor. Now THAT'S a chassis.	哇哦……一套旧的动力甲，这才称得上是真正的装甲。
+MrHandyDialog_Wasteland_97	Ooooohhh... An old suit of Power Armor. Now THAT'S a chassis.	哇哦……一套旧的动力装甲。这才叫底盘！
 MrHandyDialog_Wasteland_98	Every step, used chems and empty liquor bottles. That explains so much.	到处都是用过的药剂和空酒瓶，这很能说明问题了。
 MrHandyDialog_WaterPlant_01	I'm starting to rethink my aversion to plastic parts...	我开始重新考虑我对塑料零件的厌恶了……
 MrHandyDialog_WaterPlant_02	I may not sleep, or dream, but this room gives me nightmares.	虽然我不会睡觉或做梦，但这个房间给了我噩梦。
-MrHandyDialog_WaterPurification_01	Really, if you're going to consume water, you may as well make it digestible.	如果你要喝水，最好还是喝点真能喝的水。
-MrHandyDialog_WaterPurification_02	Really, if you're going to consume water, you may as well make it digestible.	如果你要喝水，最好还是喝点真能喝的水。
+MrHandyDialog_WaterPurification_01	Really, if you're going to consume water, you may as well make it digestible.	说真的，反正要喝水，不如喝点能“消化”的水。
+MrHandyDialog_WaterPurification_02	Really, if you're going to consume water, you may as well make it digestible.	说真的，反正要喝水，不如喝点能“消化”的水。
 MrHandy_Card_TagLine	Always a Pleasure to Serve You!	很高兴能为您服务！
 MrHandy_Category_Name	Vault-Tec	避难所科技
 MrHandy_Collect	COLLECT	收集
@@ -3290,7 +3288,7 @@ MysteriousStrangerWindow_Title	NOT SO MYSTERIOUS NOW, IS HE?	现在没那么神�
 MysteriousStrangerWindow_Watch	Claim your reward or DOUBLE your results by watching a word from our sponsors (video).	领取奖励或查看来自赞助商的消息（视频），获取双倍奖励。
 NewGameSaveConfirmMessage	Are you sure you want to create a new save?	您确定要创建一个新存档吗？
 NewVegasA_Description	Vault-Tec has identified Novac as a strategic location for advancing our interests across the Mojave region. Recruit loyal allies, bring Novac under control, and transform it into a shining beacon beneath the dazzling glow of New Vegas! We're betting on you, Overseer!	避难所科技已将诺瓦克认定为推进我们在莫哈维地区利益的战略要地。招募忠诚盟友，将诺瓦克收入麾下，并在新维加斯璀璨霓虹的映照下将其打造成一座闪耀的灯塔！我们押注你，监督者！
-NewVegasA_IntroPopup_Body	Test your skill as Overseer in this season's new Experimental Vault! Experimental Vaults introduce a new twist and unique rewards. Seasons only last a short time - don't miss out!	在本赛季新实验避难所中考验你作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
+NewVegasA_IntroPopup_Body	Test your skill as Overseer in this season's new Experimental Vault! Experimental Vaults introduce a new twist and unique rewards. Seasons only last a short time - don't miss out!	在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
 NewVegasA_IntroPopup_Title	THE SEASON OF “VIVA NEW VEGAS” IS HERE	“新维加斯万岁”赛季来袭！
 NewVegasA_SeasonEndPopup_Title	THE SEASON OF “VIVA NEW VEGAS” HAS ENDED	“新维加斯万岁”赛季已结束
 NewVegasA_Title	SHELTER SEASON: VIVA NEW VEGAS	避难所赛季：新维加斯万岁
@@ -3449,7 +3447,7 @@ Objective_KillRadscorpions	Kill a Radscorpion	消灭1只辐射蝎
 Objective_KillRadscorpions_Plural	Kill {0} Radscorpions	消灭{0}只辐射蝎
 Objective_KillScorched	Kill 1 Scorched	消灭1名焦化体
 Objective_KillScorched_Plural	Kill {0} Scorched	消灭{0}名焦化体
-Objective_LevelUp	Level up 1 Dweller	升级一位居民
+Objective_LevelUp	Level up 1 Dweller	让1名居民升级
 Objective_LevelUpDwellers	Level up 1 Dweller	让1名居民升级
 Objective_LevelUpDwellers_Plural	Level up Dwellers {0} times	让居民共升级{0}次
 Objective_LevelUp_Plural	Level up {0} Dwellers	升级{0}位居民
@@ -3457,7 +3455,7 @@ Objective_Merge	Merge 2 rooms together	同时合并两个房间
 Objective_Merge_Plural	Merge {0} pairs of rooms together	同时合并{0}对房间
 Objective_MysteriousStranger	Find the Mysterious Stranger	找到神秘陌生人
 Objective_MysteriousStranger_Plural	Find the Mysterious Stranger {0} times	找到{0}次神秘陌生人
-Objective_Nuka	Collect {0} CAPS in the Vault	在避难所收集{0}个瓶盖
+Objective_Nuka	Collect {0} CAPS in the Vault	在避难所里收集{0}个瓶盖
 Objective_OpenLunchbox	Open 1 Lunchbox	打开1个午餐盒
 Objective_OpenLunchbox_Plural	Open {0} Lunchboxes	打开{0}个午餐盒
 Objective_Outfits	Equip 1 Dweller with an Outfit	给一个居民穿上装备
@@ -3522,7 +3520,7 @@ Objective_SurviveRadscorpionNoCasualties_Plural	Survive {0} Radscorpion attacks 
 Objective_Upgrade	Upgrade 1 room	升级一个房间
 Objective_Upgrade_Plural	Upgrade {0} rooms	升级{0}个房间
 Objective_UseRadaway	Use 1 RadAway	使用1次消辐宁
-Objective_UseRadaway_Plural	Use {0} RadAway	使用{0}次消辐宁
+Objective_UseRadaway_Plural	Use {0} RadAway	使用{0}个消辐宁
 Objective_UseStimpack	Use 1 Stimpak	使用1次治疗针
 Objective_UseStimpack_Plural	Use {0} Stimpaks	使用{0}次治疗针
 Objective_VaultHappiness	Have a {1} happy Vault for 1 hour	保持避难所{1}开心了1小时。
@@ -4137,7 +4135,7 @@ Pet_TurkishVan	Turkish Van	土耳其梵猫？
 Pet_YoungBlackBrahmin	Young Black Brahmin	年轻的黑色双头牛
 Pet_YoungBrownBrahmin	Young Brown Brahmin	年轻的褐色双头牛
 Pet_YoungWhiteBrahmin	Young White Brahmin	年轻的白色双头牛
-Piper_campaign_Btn	NOT NOW	不是现在
+Piper_campaign_Btn	NOT NOW	暂时不用
 Piper_campaign_Text	A new special visitor from Fallout 4 wants to join your Vault	一位新来自辐射4的特殊拜访者想要加入您的避难所
 Piper_campaign_Title	Piper	派珀
 Placeholder_WeeklyQuest	Weekly Quest PLACEHOLDER	每周任务 占位符
@@ -4222,8 +4220,8 @@ QuestList_TeamEquipment	Team Equipment	小队装备
 QuestList_WeeklyQuest	WEEKLY QUEST	每周任务
 QuestLoc_12PointBuck_QuestLongDescription	“I once shot a Deathclaw in my pajamas. How he got in my pajamas I'll never know.”	“我曾经射杀了一只穿着我睡衣的死爪。我永远都不会知道这是为什么了”
 QuestLoc_12PointBuck_QuestName	12-Point Buck	成精的死爪
-QuestLoc_12PointBuck_QuestObjective_1	Kill the Alpha Deathclaw.	杀死那只领头死爪。
-QuestLoc_12PointBuck_QuestShortDescription	Kill the Alpha Deathclaw.	杀死那只领头死爪。
+QuestLoc_12PointBuck_QuestObjective_1	Kill the Alpha Deathclaw.	杀死领头死爪。
+QuestLoc_12PointBuck_QuestShortDescription	Kill the Alpha Deathclaw.	杀死领头死爪。
 QuestLoc_ACryforHelp_Conversation_1_NPCEnd_1	In that case, sign me up!	如果是那样的话，让我加入你们吧！
 QuestLoc_ACryforHelp_Conversation_1_NPCStart_1	Thank goodness you're here! I'm all alone and my supplies have run out.	谢天谢地你在这里！只剩我一个人了，所有的物资也用光了。
 QuestLoc_ACryforHelp_Conversation_1_Team_1	Your troubles are over. The Vault's got everything you need.	你可以不用苦恼了。你需要的东西避难所里都有。
@@ -4369,7 +4367,7 @@ QuestLoc_ASettlerNeedsYourHelp_Conversation_1_Team_3	Minutemen?	义勇军？
 QuestLoc_ASettlerNeedsYourHelp_QuestLongDescription	Minuteman Preston Garvey has gotten himself stuck in the Kendall Hospital surrounded by Feral Ghouls and who knows what else. Save him!	义勇军民兵普雷斯顿加维被困在肯德尔医院了，医院被狂尸鬼和不知道是什么的可怕东西包围了，快救他！
 QuestLoc_ASettlerNeedsYourHelp_QuestName	A Settler Needs Your Help	有人需要你的帮助
 QuestLoc_ASettlerNeedsYourHelp_QuestObjective_1	Find Preston Garvey in Kendall Hospital.	在肯德尔医院找到普雷斯顿加维。
-QuestLoc_ASettlerNeedsYourHelp_QuestObjective_2	Kill the Glowing One.	杀死绿光食尸鬼。
+QuestLoc_ASettlerNeedsYourHelp_QuestObjective_2	Kill the Glowing One.	杀死绿光尸鬼。
 QuestLoc_ASettlerNeedsYourHelp_QuestObjective_3	Loot the manager's office.	搜刮经理办公室。
 QuestLoc_ASettlerNeedsYourHelp_QuestShortDescription	Find Preston Garvey in the Kendall Hospital.	在肯德尔医院找到了普雷斯顿加维。
 QuestLoc_ASettlerNeedsYourHelp_QuestlineName	A Settler Needs Your Help	有人需要你的帮助
@@ -4443,7 +4441,7 @@ QuestLoc_AlienBotQuest03_Conversation_4_PC1_3	ALIENS?!	外星人！？
 QuestLoc_AlienBotQuest03_Conversation_4_PC2_4	They're aliens.	他们是外星人。
 QuestLoc_AlienBotQuest03_Conversation_4_PC3_1	What the hell were those guys?	这些家伙到底是什么？
 QuestLoc_AlienBotQuest03_Conversation_4_PC3_2	Ok now I'm freaking out!	太吓人了！
-QuestLoc_AlienBotQuest03_Conversation_5_NPC_1	<Unintelligible language>	<难以理解的语言>
+QuestLoc_AlienBotQuest03_Conversation_5_NPC_1	<Unintelligible language>	<无法理解的语言>
 QuestLoc_AlienBotQuest03_Conversation_5_PC1_7	There has to be more than that, though. How did they get here?	但肯定不止这些。他们怎么会来到这里的？
 QuestLoc_AlienBotQuest03_Conversation_5_PC2_5	There were rumors for years before the bombs fell. Looks like they were true.	在炸弹落下之前的几年里，一直有传言。看来传言是真的。
 QuestLoc_AlienBotQuest03_Conversation_5_PC3_6	This tech they've got is wild! Did you see their guns? PEW PEW!	他们的科技真疯狂！你看到他们的枪了吗？咻！咻！
@@ -4454,7 +4452,7 @@ QuestLoc_AlienBotQuest04_Conversation_2_PC1_3	Another one of those things!	又�
 QuestLoc_AlienBotQuest04_Conversation_2_PC1_4	There's an id tag here... RobCo?	还有个身份标签……罗伯科公司？
 QuestLoc_AlienBotQuest04_Conversation_2_PC2_2	Maybe not all. Look at that!	也许不全是，快看那边！
 QuestLoc_AlienBotQuest04_Conversation_2_PC3_1	They cleaned the place out on their way. All they left behind is garbage.	他们在撤离时把这里打扫得干干净净，留下的全是没用的东西。
-QuestLoc_AlienBotQuest04_Conversation_2_PC3_4	I've got a bad feeling about this...	我感觉不妙……
+QuestLoc_AlienBotQuest04_Conversation_2_PC3_4	I've got a bad feeling about this...	我有种不祥的预感……
 QuestLoc_AlienBotQuest04_Conversation_3_NPCStart_1	INTRUDER. PLEASE PROVIDE IDENTIFICATION.	入侵者！请提供身份证明。
 QuestLoc_AlienBotQuest04_Conversation_3_NPCStart_2	Vault-Tec Personnel identified.	确认避难所科技公司人员身份。
 QuestLoc_AlienBotQuest04_Conversation_3_NPCStart_3	Error. Vault-Tec employees not authorized to access site data.	错误。避难所科技公司员工无权访问现场数据。
@@ -4551,7 +4549,7 @@ QuestLoc_AllWorkandNoPlay_Conversation_2_NPCStart_1	Whoa whoa whoa! Don't shoot!
 QuestLoc_AllWorkandNoPlay_Conversation_2_NPCStart_2	We don't want no trouble!	我们可不想惹麻烦！
 QuestLoc_AllWorkandNoPlay_Conversation_2_NPCStart_3	Rubarb sent us here, but then the Deathclaw came, and...	鲁巴布派我们来的，但后来死爪又来了，然后……
 QuestLoc_AllWorkandNoPlay_Conversation_2_NPCStart_4	Look. We just want to get out alive. Cool?	听着，我们只想活着出去，放我们走行吗？
-QuestLoc_AllWorkandNoPlay_Conversation_2_Team_1	Cool.	行。
+QuestLoc_AllWorkandNoPlay_Conversation_2_Team_1	Cool.	赞。
 QuestLoc_AllWorkandNoPlay_Conversation_2_Team_2	No. So totally NOT cool.	不行。完全不想放你们走。
 QuestLoc_AllWorkandNoPlay_Conversation_2_Team_3	Fine. But where is Overseer Chang?	好吧。但告诉我们监督者阿昌在哪儿？
 QuestLoc_AllWorkandNoPlay_Conversation_2_Team_4	Ya bunch o' cowards! Can you at least lend a hand?	你们这群懦夫！至少过来帮帮忙吧？
@@ -4619,7 +4617,7 @@ QuestLoc_Aquaschema_Conversation_1_Team_1	Do you know where we can find him?	你
 QuestLoc_Aquaschema_QuestLongDescription	We did what the people at the Vault-Tec offices asked. Now it's time for some answers!	我们做了那些避难所科技办公室的人拜托的事情。现在是回答的时候了！
 QuestLoc_Aquaschema_QuestName	Aqua-schema	水的阴谋
 QuestLoc_Aquaschema_QuestObjective_1	Return to the Vault-Tec offices.	返回避难所科技办公室。
-QuestLoc_Aquaschema_QuestShortDescription	Return to the Vault-Tec offices.	返回避难所科技办公室
+QuestLoc_Aquaschema_QuestShortDescription	Return to the Vault-Tec offices.	返回避难所科技办公室。
 QuestLoc_ArghMatey_Conversation_1_NPCStart_1	Dead men tell no tales.	人死了就无从对证了。
 QuestLoc_ArghMatey_Conversation_1_NPCStart_2	Let's feed 'em to the fishes!	让我们把他们丢去喂鱼吧！
 QuestLoc_ArghMatey_QuestLongDescription	Grandpa wants to play Pirates, but he needs a Parrot first.	爷爷想要扮海盗，但是首先得有一只鹦鹉。
@@ -4959,11 +4957,11 @@ QuestLoc_CheerfortheGhouls_QuestName	Cheer for the Ghouls	为尸鬼制造节日�
 QuestLoc_CheerfortheGhouls_QuestObjective_1	Speak to the Ghoul Leader.	和尸鬼首领聊聊
 QuestLoc_CheerfortheGhouls_QuestObjective_2	Talk to the Ghouls.	和尸鬼聊天
 QuestLoc_CheerfortheGhouls_QuestObjective_3	Talk to the Ghouls.	和尸鬼聊天
-QuestLoc_CheerfortheGhouls_QuestShortDescription	Spread Christmas cheer!	传播圣诞的节日气氛
+QuestLoc_CheerfortheGhouls_QuestShortDescription	Spread Christmas cheer!	传播圣诞的节日气氛！
 QuestLoc_CheesePlease_Conversation_1_NPCEnd_1	Really? Thanks! We were wondering how to get rid of it. We even tried this!	真的吗？谢谢！我们想知道如何摆脱它。我们甚至试过这个！
 QuestLoc_CheesePlease_Conversation_1_NPCEnd_2	All right, have it your way!	好吧，照你说的做！
 QuestLoc_CheesePlease_Conversation_1_NPCEnd_3	You guys actually eat that? We could kill you, but this actually sounds worse...	你们真的吃了那个？我们可以杀了你，但吃那个听着更糟……
-QuestLoc_CheesePlease_Conversation_1_NPCStart_1	What do you want, Dwellers?	你们想要什么, 居民？
+QuestLoc_CheesePlease_Conversation_1_NPCStart_1	What do you want, Dwellers?	你们想要什么，居民们？
 QuestLoc_CheesePlease_Conversation_1_NPCStart_2	There is nothing of value in this place, only junk.	这个地方没有有价值的东西，只有垃圾。
 QuestLoc_CheesePlease_Conversation_1_NPCStart_3	You should turn around and leave.	你们应该掉头离开。
 QuestLoc_CheesePlease_Conversation_1_Team_1	We're just here to clean the gray goo off the machinery.	我们只是来清理这些机器上的灰色粘液。
@@ -4972,7 +4970,7 @@ QuestLoc_CheesePlease_Conversation_1_Team_3	Our chef wants us to bring back proc
 QuestLoc_CheesePlease_QuestLongDescription	The chef is happy - and surprised - that you made it back in one piece! He now requires processed cheese, AKA gray gold, the miracle food that endures the passage of time and nuclear war. Some may be left in the old Cheese Factory.	厨师很高兴——也很惊讶——你完好无损地把它带回来了！他现在需要加工过的奶酪，也就是灰金奶酪，这种神奇的食物能经受住时间和核战争的考验。有些可能留在老奶酪厂。
 QuestLoc_CheesePlease_QuestName	Cheese, Please!	请给我奶酪！
 QuestLoc_CheesePlease_QuestObjective_1	Retrieve cheese paste from the factory.	从工厂取回芝士酱。
-QuestLoc_CheesePlease_QuestObjective_2	Kill the Glowing One.	干掉绿光尸鬼。
+QuestLoc_CheesePlease_QuestObjective_2	Kill the Glowing One.	杀死绿光尸鬼。
 QuestLoc_CheesePlease_QuestShortDescription	Obtain processed cheese from the abandoned factory. 	从废弃的工厂取回加工过的奶酪。
 QuestLoc_CheesePlease_RaiderLine_1	We came here with grate expectations.	我们怀着极大的期望来到这里。
 QuestLoc_CheesePlease_RaiderLine_2	This place seems uncontaminated by cheese...	这个地方似乎没有奶酪……
@@ -5113,7 +5111,7 @@ QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCEnd_1	Your lies can't be hear
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_1	Like flies to a carcass, everyone comes to see what Death leaves behind.	就像苍蝇飞到尸体上一样，每个人都来看看“死亡”留下的痕迹。
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_2	The fourth Horseman is elusive, but the Pests will be the ones to find him.	第四骑士是难以捉摸的，但“害虫”们会找到他。
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3	And when Pestilence is the final Horseman, we shall be unworthy no more.	当“瘟疫”成为最后的骑士时，我们将不会毫无价值了。
-QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_4	Blessed be the irradiated!	被辐射保佑！
+QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_4	Blessed be the irradiated!	愿辐射保佑我们！
 QuestLoc_CrimeSceneInvestigation_Conversation_2_Team_1	But your entire philosophy makes no sense! And “Pests” is a stupid name!	但你们整体的理念毫无意义！还有“害虫”是一个愚蠢的名字！
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCEnd_1	We know Death well. In fact, our Overseer might be able to help you. We'll be in touch...	我们很了解“死亡”。事实上，我们的监督者也许能帮助你。我们会保持联系……
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_1	Who goes there? Other Vault Dwellers! It's nice to meet you.	谁去那儿？其他避难所居民！很高兴见到你。
@@ -5398,7 +5396,7 @@ QuestLoc_DiplomaticMission_Conversation_1_Team_2	We'll take whatever weapons you
 QuestLoc_DiplomaticMission_Conversation_1_Team_3	Our Vault has great fashion sense. We want more outfits.	我们是个讲时尚的避难所。我们想要更多的衣服。
 QuestLoc_DiplomaticMission_QuestLongDescription	A local settlement wants to make contact with our Vault! We should send some diplomats.	一个当地的定居点试图联系我们避难所！我们应该派一些外交家去。
 QuestLoc_DiplomaticMission_QuestName	Diplomatic Mission!	外交任务！
-QuestLoc_DiplomaticMission_QuestObjective_1	Talk to the settlers.	和安置点的人交谈。
+QuestLoc_DiplomaticMission_QuestObjective_1	Talk to the settlers.	和定居点的居民交谈。
 QuestLoc_DiplomaticMission_QuestShortDescription	Send a team in Formal Wear out to talk to a settlement.	派遣一队着装正式的居民去和安置点的代表交谈。
 QuestLoc_DivideandConquer_Conversation_1_NPCEnd_1	That's *point* 22. Here, let me show you.	这是22点。在这里，让我告诉你。
 QuestLoc_DivideandConquer_Conversation_1_NPCEnd_2	...or very small values of 5. All right, you can go through.	,,,或5里非常小的值。好吧，你可以过去了。
@@ -5540,8 +5538,8 @@ QuestLoc_DrivingtheSnakesOut_Conversation_3_Team_3	I say it's time to get all Sa
 QuestLoc_DrivingtheSnakesOut_QuestLongDescription	A band of Raiders known as the Snakes has been targeting Settlers with red hair, calling them “gingers” and claiming they are inferior beings. We need to drive these Snakes out of the neighborhood, for good!	一伙被称为“蛇”的掠夺者正在针对红头发的居民，称他们为“生姜”，声称他们是下等人种。我们得把这些人赶走。
 QuestLoc_DrivingtheSnakesOut_QuestName	Driving the Snakes Out	把“蛇”赶出去
 QuestLoc_DrivingtheSnakesOut_QuestObjective_1	Defeat the Raider Boss.	打败掠夺者首领。
-QuestLoc_DrivingtheSnakesOut_QuestObjective_2	Defeat the Raiders.	击败突袭者。
-QuestLoc_DrivingtheSnakesOut_QuestObjective_3	Defeat the Raiders.	击败突袭者。
+QuestLoc_DrivingtheSnakesOut_QuestObjective_2	Defeat the Raiders.	击败掠夺者。
+QuestLoc_DrivingtheSnakesOut_QuestObjective_3	Defeat the Raiders.	击败掠夺者。
 QuestLoc_DrivingtheSnakesOut_QuestShortDescription	Defeat a band of Raiders hostile to redheads.	打败一伙敌视红发人的掠夺者。
 QuestLoc_DuoofDestructionAlphaDeathclaws_Conversation_1_NPCStart_1	You know, someone told me Alpha Deathclaws are an endangered species...	话说有人告诉我领头死爪是濒临灭绝的物种……
 QuestLoc_DuoofDestructionAlphaDeathclaws_Conversation_1_NPCStart_2	Well, we're all going to be endangered if you don't take those monsters down!	呃，可是如果我们不把这些怪兽拿下的话，我们都会灭绝的！
@@ -5822,7 +5820,7 @@ QuestLoc_ENC_QL2_Defective_2_Room4_Question_Line2	We are those merry wanderers o
 QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1	Come on, you lazy rat substitute! It's not complicated. 	快点，你这个懒惰的耗子替身！这又不复杂。
 QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1_Answer0	Isn't it obvious? I'm training these good-for-nothing pests as stage hands. Don't interfere.	这还不明显吗？我在训练这些没用的害虫当后台杂工。别捣乱。
 QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1_Answer1	Perhaps you'd be interested in an unpaid internship then? Think on it and come back to me.	那也许你对无薪实习感兴趣？想想再回来找我。
-QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1_Choice0	What's going on here?	这里在干什么？
+QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1_Choice0	What's going on here?	这里发生了什么？
 QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line1_Choice1	We can't get any good help these days.	如今想找点得力帮手可真难。
 QuestLoc_ENC_QL2_Defective_2_Room5_Question_Line2	Just move the décor to the scene. Aim the spotlight at the actor. Pull the lever to lift the fairies in the air.	把布景搬到场景里。把聚光灯对准演员。拉下杠杆，把精灵们升到空中。
 QuestLoc_ENC_QL2_Defective_2_Room6_Question_Line1	Yes, I am THE director!	没错，我就是那位导演！
@@ -6362,7 +6360,7 @@ QuestLoc_ExpressCheckout_QuestName	Express Checkout	快捷收银台
 QuestLoc_ExpressCheckout_QuestObjective_1	Search the Super-Duper Mart.	搜索大无敌超市。
 QuestLoc_ExpressCheckout_QuestShortDescription	Clear out the Super-Duper Mart.	清空大无敌超市。
 QuestLoc_ExtremeOuterference_Conversation01_NPC01	#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!	#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!
-QuestLoc_ExtremeOuterference_Conversation01_PC01	What?	什么鬼？
+QuestLoc_ExtremeOuterference_Conversation01_PC01	What?	什么？
 QuestLoc_ExtremeOuterference_QuestLongDescription	Some strange signals are interfering with our radio transmissions out in the waste. Take a squad with you and triangulate the interference. Once you know where it's coming from, investigate the site and disable whatever is blocking our Radio.     	废土中有一些奇怪的信号干扰了我们的无线电传输。带上一队人马，定位干扰源。一旦知道干扰信号的来源，就去调查那个地方，处理掉干扰我们无线电的东西。
 QuestLoc_ExtremeOuterference_QuestName	Extreme Outerference	极端干扰
 QuestLoc_ExtremeOuterference_QuestObjective	Investigate the strange signals	调查奇怪的信号
@@ -6625,7 +6623,7 @@ QuestLoc_FriendlySettlement_Conversation_2B_Team_4	Crafting supplies. All the ju
 QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_1	I think I have something that could work.	我想我应该有一些东西有用。
 QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_2	All right. How about this?	好啊，这个怎么样？
 QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_3	Here. Take this with you.	来，你把这个拿走。
-QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_4	Here you are, then.	那，给你们吧。
+QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_4	Here you are, then.	那就给你们吧。
 QuestLoc_FriendlySettlement_Conversation_2C_NPCStart_1	Glad you could make it. This settlement is dedicated to preserving books.	很高兴你们来了。这个定居点致力于保护书籍。
 QuestLoc_FriendlySettlement_Conversation_2C_NPCStart_2	But we know a Vault is looking for more than just knowledge.	但我们也知道，一个避难所需要的不仅仅是知识。
 QuestLoc_FriendlySettlement_Conversation_2C_NPCStart_3	We're happy to help you. What would you like?	我们很高兴能帮助你。你想要什么呢？
@@ -6671,7 +6669,7 @@ QuestLoc_GameShowGauntletA_Conversation_2_Team_1	Battleship.	战舰。
 QuestLoc_GameShowGauntletA_Conversation_2_Team_2	Aircraft Carrier.	航空母舰。
 QuestLoc_GameShowGauntletA_Conversation_2_Team_3	Iron Foundry.	铸铁厂。
 QuestLoc_GameShowGauntletA_Conversation_2_Team_4	Rusty? Full of holes? I don't know!	生锈之城？千疮百孔的城市？我怎么会知道？！
-QuestLoc_GameShowGauntletA_Conversation_3_NPCEnd_1	That's right! You get to move on to the next round.	答对了！我们继续进行下一轮。
+QuestLoc_GameShowGauntletA_Conversation_3_NPCEnd_1	That's right! You get to move on to the next round.	你说得对！你可以进入下一个回合了。
 QuestLoc_GameShowGauntletA_Conversation_3_NPCEnd_2	Oh! So close. Well, not really. Time to... Lose Your Head!	哦！答案已经很接近了。好像，也不全对。是时候……“掉脑袋”了！
 QuestLoc_GameShowGauntletA_Conversation_3_NPCEnd_3	Couldn't be more wrong. Now you have to... Lose Your Head!	简直错得离谱了。现在你必须……“掉脑袋”了！
 QuestLoc_GameShowGauntletA_Conversation_3_NPCEnd_4	Wow. You are really bad at this game. You get to... Lose Your Head!	哇哦。你真是不擅长这个游戏呢。还是准备……“掉脑袋”吧！
@@ -6695,13 +6693,13 @@ QuestLoc_GameShowGauntletA_QuestLongDescription	You've been invited to play Lose
 QuestLoc_GameShowGauntletA_QuestName	Game Show Gauntlet	游戏秀场的考验
 QuestLoc_GameShowGauntletA_QuestObjective_1	Answer all the questions.	请回答全部问题。
 QuestLoc_GameShowGauntletA_QuestShortDescription	Play to win!	为胜利而战！
-QuestLoc_GameShowGauntletB_Conversation_1_NPCEnd_1	Wrongo! I'm afraid you must... Lose Your Head!	答错了。我恐怕你得……掉脑袋！
+QuestLoc_GameShowGauntletB_Conversation_1_NPCEnd_1	Wrongo! I'm afraid you must... Lose Your Head!	答错了！我恐怕你得……“掉脑袋”！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCEnd_2	Ooo! Not even close. Guess you... Lose Your Head!	哦！差得远呢。我想你要……“掉脑袋”！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCEnd_3	Bing, bing, bing! That's... Wright!	叮咚叮！ 那是……对的！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCEnd_4	Never heard of him. But you get to... Lose Your Head!	从没听说过他。你要准备……“掉脑袋”！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCStart_1	Welcome to Lose Your Head!	欢迎来到“掉脑袋”的世界！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCStart_2	Answer the questions correctly and win Caps.	请正确回答问题来赢取瓶盖。
-QuestLoc_GameShowGauntletB_Conversation_1_NPCStart_3	Answer them wrong and... Lose Your Head!	如果回答错了，你会……“掉脑袋”!
+QuestLoc_GameShowGauntletB_Conversation_1_NPCStart_3	Answer them wrong and... Lose Your Head!	如果你回答错了，你就会……“掉脑袋”！
 QuestLoc_GameShowGauntletB_Conversation_1_NPCStart_4	Who is the most famous reporter in Diamond City?	谁是钻石城最有名的记者？
 QuestLoc_GameShowGauntletB_Conversation_1_Team_1	Travis Miles.	特拉维斯迈尔斯。
 QuestLoc_GameShowGauntletB_Conversation_1_Team_2	Vadim Bobrov.	瓦迪姆波普洛夫。
@@ -6717,7 +6715,7 @@ QuestLoc_GameShowGauntletB_Conversation_2_Team_1	Luca Sims.	卢卡西姆斯
 QuestLoc_GameShowGauntletB_Conversation_2_Team_2	Lucas Sims.	卢卡斯西蒙斯
 QuestLoc_GameShowGauntletB_Conversation_2_Team_3	Lucas Simms.	卢卡斯西姆斯
 QuestLoc_GameShowGauntletB_Conversation_2_Team_4	Billy the Kid.	那个叫比利的孩子。
-QuestLoc_GameShowGauntletB_Conversation_3_NPCEnd_1	That's right! You get to move on to the next round.	你说的对！你可以进入下一个回合了。
+QuestLoc_GameShowGauntletB_Conversation_3_NPCEnd_1	That's right! You get to move on to the next round.	你说得对！你可以进入下一个回合了。
 QuestLoc_GameShowGauntletB_Conversation_3_NPCEnd_2	Super wrong! Time to... Lose Your Head!	大错特错！准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletB_Conversation_3_NPCEnd_3	Right! Just kidding. Now you have to... Lose Your Head!	回答正确！只是开玩笑。现在准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletB_Conversation_3_NPCEnd_4	A legendary wrong answer. You get to... Lose Your Head!	一个传奇般的错误答案。准备……“掉脑袋”吧！
@@ -6813,7 +6811,7 @@ QuestLoc_GameShowGauntletD_Conversation_3_NPCEnd_1	That's right! You get to move
 QuestLoc_GameShowGauntletD_Conversation_3_NPCEnd_2	Not really. But now you get to... Lose Your Head!	不完全是。你可以准备……“掉脑袋”了！
 QuestLoc_GameShowGauntletD_Conversation_3_NPCEnd_3	They wish! But instead you're going to... Lose Your Head!	他们倒是想呢！但你可以……“掉脑袋”了！
 QuestLoc_GameShowGauntletD_Conversation_3_NPCEnd_4	What is it with you and donkeys? Now you'll... Lose Your Head!	你和驴子什么仇什么怨？现在准备……“掉脑袋”吧！
-QuestLoc_GameShowGauntletD_Conversation_3_NPCStart_1	Time for round 3 of... Lose Your Head!	接下来进入“掉脑袋”的第三回合！
+QuestLoc_GameShowGauntletD_Conversation_3_NPCStart_1	Time for round 3 of... Lose Your Head!	现在进入“掉脑袋”的第三回合！
 QuestLoc_GameShowGauntletD_Conversation_3_NPCStart_2	Which advanced technology is used by many Brotherhood of Steel members?	哪一种先进科技被许多钢铁兄弟会成员使用？
 QuestLoc_GameShowGauntletD_Conversation_3_Team_1	Power Armor.	动力装甲。
 QuestLoc_GameShowGauntletD_Conversation_3_Team_2	Gauss Rifles.	高斯步枪。
@@ -6864,7 +6862,7 @@ QuestLoc_GameShowGauntletE_Conversation_3_NPCStart_2	Who is the crazy mechanic i
 QuestLoc_GameShowGauntletE_Conversation_3_Team_1	Tinker Ted.	修补匠泰德。
 QuestLoc_GameShowGauntletE_Conversation_3_Team_2	Tinker Tim.	修补匠蒂姆。
 QuestLoc_GameShowGauntletE_Conversation_3_Team_3	Tinker Tom.	修补匠汤姆。
-QuestLoc_GameShowGauntletE_Conversation_3_Team_4	Mike the Mechanic.	技工麦克。
+QuestLoc_GameShowGauntletE_Conversation_3_Team_4	Mike the Mechanic.	机械师麦克。
 QuestLoc_GameShowGauntletE_Conversation_4_NPCEnd_1	He did hate them, but that's still wrong. You gotta... Lose Your Head!	他确实讨厌他们，但还是错。你要……“掉脑袋”了。
 QuestLoc_GameShowGauntletE_Conversation_4_NPCEnd_2	Righto! He wanted it nuked into oblivion.	对啦！他想要用核攻击让它消失。
 QuestLoc_GameShowGauntletE_Conversation_4_NPCEnd_3	Tall, but not in his way. So you get to... Lose Your Head!	是很高，但是不是像这样。所以你要……“掉脑袋”了。
@@ -6892,7 +6890,7 @@ QuestLoc_GameShowGauntletF_Conversation_1_Team_2	Reilly's Rangers.	莱利的骑�
 QuestLoc_GameShowGauntletF_Conversation_1_Team_3	Talon Company.	魔爪公司。
 QuestLoc_GameShowGauntletF_Conversation_1_Team_4	Goon Swarm.	蜂群暴徒。
 QuestLoc_GameShowGauntletF_Conversation_2_NPCEnd_1	Definitely not. Which means you get to... Lose Your Head!	当然不是。也就是说你该……“掉脑袋”了！
-QuestLoc_GameShowGauntletF_Conversation_2_NPCEnd_2	Bing, bing, bing! That's right.	叮咚叮！你答对了。
+QuestLoc_GameShowGauntletF_Conversation_2_NPCEnd_2	Bing, bing, bing! That's right.	叮咚叮！答对了。
 QuestLoc_GameShowGauntletF_Conversation_2_NPCEnd_3	They woulda if they coulda! But now you have to... Lose Your Head!	如果他们能做到的话他们会做的！但现在你要准备……“掉脑袋”了！
 QuestLoc_GameShowGauntletF_Conversation_2_NPCEnd_4	Focus. You're off topic. And now you're going to... Lose Your Head!	集中注意力。你跑题了。现在准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletF_Conversation_2_NPCStart_1	We've come to round two.	现在进入第二回合。
@@ -6915,7 +6913,7 @@ QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_1	Too bad. You're right! I was 
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_2	That would be a silly name. Off with your... no... Lose Your Head!	那真是个愚蠢的名字。好吧，准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_3	Close but no cigar. Now we're going to make you... Lose Your Head!	很接近但是不是。现在准备好……“掉脑袋”吧！
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_4	You won't have to worry about thinking when you... Lose Your Head!	你的脑袋掉了，就不会再苦恼了。
-QuestLoc_GameShowGauntletF_Conversation_4_NPCStart_1	Now for the final round.	现在进入最后一个回合。
+QuestLoc_GameShowGauntletF_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletF_Conversation_4_NPCStart_2	What was the name of the Super Mutant Behemoth hiding in the Boston Common pond?	那个藏在波士顿公园池塘里的超级变种人巨兽叫什么名字？
 QuestLoc_GameShowGauntletF_Conversation_4_Team_1	Swan.	天鹅。
 QuestLoc_GameShowGauntletF_Conversation_4_Team_2	Goose.	鹅。
@@ -6933,7 +6931,7 @@ QuestLoc_GameShowGauntletG_Conversation_1_NPCStart_4	What famous statue lost its
 QuestLoc_GameShowGauntletG_Conversation_1_Team_1	George Washington.	乔治华盛顿
 QuestLoc_GameShowGauntletG_Conversation_1_Team_2	Abraham Lincoln.	亚伯拉罕林肯
 QuestLoc_GameShowGauntletG_Conversation_1_Team_3	Thomas Jefferson.	托马斯杰弗逊
-QuestLoc_GameShowGauntletG_Conversation_1_Team_4	Mike the Mechanic.	机械师麦克
+QuestLoc_GameShowGauntletG_Conversation_1_Team_4	Mike the Mechanic.	机械师麦克。
 QuestLoc_GameShowGauntletG_Conversation_2_NPCEnd_1	Correct-o! If you could even call that little freak a “boy”...	答对啦！如果你叫那个小疯子“男孩”的话……
 QuestLoc_GameShowGauntletG_Conversation_2_NPCEnd_2	Oh, Donny boy is wrong. We'll just help you... Lose Your Head!	哦，唐尼男孩错了。我们会帮你……“掉脑袋”的！
 QuestLoc_GameShowGauntletG_Conversation_2_NPCEnd_3	Hardly. It will hardly hurt when you... Lose Your Head!	几乎不对。所以……“掉脑袋”的时候几乎伤不到你！
@@ -6994,7 +6992,7 @@ QuestLoc_GameShowGauntletH_Conversation_3_NPCEnd_1	Dang, that's right. Who gave 
 QuestLoc_GameShowGauntletH_Conversation_3_NPCEnd_2	Ixnay on the Iner Day! But you get to... Lose Your Head!	完全不对！但是你有机会……“掉脑袋”了！
 QuestLoc_GameShowGauntletH_Conversation_3_NPCEnd_3	You couldn't be more wrong! Now you have to... Lose Your Head!	你不能错得更离谱了！现在你必须……“掉脑袋”！
 QuestLoc_GameShowGauntletH_Conversation_3_NPCEnd_4	You are really, really bad at this game. Time to... Lose Your Head!	你真是一点都不擅长这个游戏。是时候……“掉脑袋”了！
-QuestLoc_GameShowGauntletH_Conversation_3_NPCStart_1	Time for round 3 of... Lose Your Head!	是时候进入“掉脑袋”的第三回合了！
+QuestLoc_GameShowGauntletH_Conversation_3_NPCStart_1	Time for round 3 of... Lose Your Head!	现在进入“掉脑袋”的第三回合！
 QuestLoc_GameShowGauntletH_Conversation_3_NPCStart_2	Which of the following is not a location in the Commonwealth?	下面哪个地点不属于联邦？
 QuestLoc_GameShowGauntletH_Conversation_3_Team_1	Harbor Hotel.	港口旅店
 QuestLoc_GameShowGauntletH_Conversation_3_Team_2	Cambridge Campus Diner.	剑桥校园食堂。
@@ -7023,10 +7021,10 @@ QuestLoc_GameShowGauntletI_Conversation_2_NPCEnd_1	Ha! As if. But we'll invite h
 QuestLoc_GameShowGauntletI_Conversation_2_NPCEnd_2	The grease monkey? Wrong! But you're going to... Lose Your Head!	那个机械修理工？错！接下来准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletI_Conversation_2_NPCEnd_3	Righto! That was too easy. We need better questions.	正确！那个太容易了，我们应该出点更难的题。
 QuestLoc_GameShowGauntletI_Conversation_2_NPCEnd_4	You don't have an aunt Tilly. Just for that... Lose Your Head!	"你根本就没有一个叫缇丽的姨妈。就冲这点……""掉脑袋""吧！"
-QuestLoc_GameShowGauntletI_Conversation_2_NPCStart_1	We've come to round two.	现在进入第二回合。
+QuestLoc_GameShowGauntletI_Conversation_2_NPCStart_1	We've come to round two.	我们现在进入第二回合。
 QuestLoc_GameShowGauntletI_Conversation_2_NPCStart_2	Who trims the bushes in Sanctuary?	谁修剪了庇护山丘的灌木丛？
 QuestLoc_GameShowGauntletI_Conversation_2_Team_1	Marcy Long.	马西隆恩
-QuestLoc_GameShowGauntletI_Conversation_2_Team_2	Sturges.	司特吉
+QuestLoc_GameShowGauntletI_Conversation_2_Team_2	Sturges.	斯特奇斯。
 QuestLoc_GameShowGauntletI_Conversation_2_Team_3	Codsworth.	巧手先生克兹沃思
 QuestLoc_GameShowGauntletI_Conversation_2_Team_4	My aunt Tilly.	我姨妈缇丽
 QuestLoc_GameShowGauntletI_Conversation_3_NPCEnd_1	A good dog's name, but wrong. You'll have to... Lose Your Head!	是个好狗狗的名字，但不对。现在准备……掉脑袋吧！
@@ -7037,7 +7035,7 @@ QuestLoc_GameShowGauntletI_Conversation_3_NPCStart_1	Time for round 3 of... Lose
 QuestLoc_GameShowGauntletI_Conversation_3_NPCStart_2	Who is hanging around the Red Rocket near Sanctuary?	谁在庇护山丘旁的红火箭加油站附近转悠？
 QuestLoc_GameShowGauntletI_Conversation_3_Team_1	Red Rover.	红色漫游者
 QuestLoc_GameShowGauntletI_Conversation_3_Team_2	Spot.	斑点
-QuestLoc_GameShowGauntletI_Conversation_3_Team_3	Dogmeat.	狗肉
+QuestLoc_GameShowGauntletI_Conversation_3_Team_3	Dogmeat.	狗肉。
 QuestLoc_GameShowGauntletI_Conversation_3_Team_4	The President.	总统
 QuestLoc_GameShowGauntletI_Conversation_4_NPCEnd_1	Just like Thanksgiving turkey, you're going to... Lose Your Head!	就像感恩节的火鸡，你将会失去你的脑袋！
 QuestLoc_GameShowGauntletI_Conversation_4_NPCEnd_2	You're right! Now THAT is terrifying.	你说对了！这才是吓人。
@@ -7101,7 +7099,7 @@ QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_1	Good choice, but oh so wrong.
 QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_2	Nope. Overkill much? We're all going to watch as you... Lose Your Head!	不对。是不是有点大材小用了？我们都将看着你……“掉脑袋”！
 QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_3	Love that gun, but it won't do the trick. So now you... Lose Your Head!	我爱那把枪。但没用的。现在你可以……“掉脑袋”了！
 QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_4	Ridiculous, but right!	可笑，但是是对的！
-QuestLoc_GameShowGauntletK_Conversation_2_NPCStart_1	We've come to round two.	现在到了第二回合。
+QuestLoc_GameShowGauntletK_Conversation_2_NPCStart_1	We've come to round two.	我们现在进入第二回合。
 QuestLoc_GameShowGauntletK_Conversation_2_NPCStart_2	What weapon is needed to defeat Colter?	什么样的武器可以打败雷克？
 QuestLoc_GameShowGauntletK_Conversation_2_Team_1	Super Sledge.	超级雪橇
 QuestLoc_GameShowGauntletK_Conversation_2_Team_2	Fat Man.	胖子核弹
@@ -7156,7 +7154,7 @@ QuestLoc_GetchaPeanutsHere_QuestObjective_1	Search for Rackie Jobinson's Basebal
 QuestLoc_GetchaPeanutsHere_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基杰宾森的棒球衫。
 QuestLoc_GetinLine_QuestLongDescription	One of your Wasteland explorers discovered a Super-Duper Mart, but some Raiders beat you to it. Run them off and grab some supplies.	一位废土探险者发现了一处大无敌超市，但一些掠夺者比你快。赶紧超过他们，多拿些物资。
 QuestLoc_GetinLine_QuestName	Get in Line	请排队
-QuestLoc_GetinLine_QuestObjective_1	Eliminate the Raiders.	除掉掠夺者们。
+QuestLoc_GetinLine_QuestObjective_1	Eliminate the Raiders.	除掉掠夺者。
 QuestLoc_GetinLine_QuestShortDescription	Battle the Raiders in the Super-Duper Mart.	和大无敌超市里的掠夺者战斗。
 QuestLoc_GetinLine_RaiderLine_1	You're about to check out... permanently!	你结账之后将永远离开！
 QuestLoc_Getting Started_QuestLongDescription	For your training mission, Vault-Tec asks you to prove yourself as a worthy Overseer and kill a Glowing Radroach.	避难所科技想要你证明自己是一个合格的监督者。作为训练任务，请先杀掉绿光辐射蟑螂。
@@ -7250,7 +7248,7 @@ QuestLoc_GivemeLibertyandorDeath_QuestLongDescription	It was a trap! Whoever Dea
 QuestLoc_GivemeLibertyandorDeath_QuestName	Give me Liberty and/or Death	给我自由和/或死亡
 QuestLoc_GivemeLibertyandorDeath_QuestObjective_1	Discover the location of Vault 144.	发现144号避难所的位置。
 QuestLoc_GivemeLibertyandorDeath_QuestShortDescription	Discover the location of Vault 144, home of the Death cultists.	"找到144号避难所的位置——那些""死亡""邪教徒的老巢。"
-QuestLoc_GivemeLibertyandorDeath_RaiderLine_1	We are Death's wake-up call!	"我们就是唤醒""死亡""的号角！"
+QuestLoc_GivemeLibertyandorDeath_RaiderLine_1	We are Death's wake-up call!	我们是“死亡”的警钟！
 QuestLoc_GivemeLibertyandorDeath_RaiderLine_2	It's all there in the Manual!	手册里什么都有！
 QuestLoc_GivemeLibertyandorDeath_RaiderLine_3	The quota must be met!	配额必须被满足！
 QuestLoc_GoWest_Conversation_1_NPCEnd_1	Anyone that goes near it disappears. I think it's haunted! Vault-Tec's local office might have more.	任何走近它的人都消失了。我想它一定是闹鬼了！避难所科技当地的办公室应该会有更多的信息。
@@ -7466,7 +7464,7 @@ QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1	Kill the Alpha Deathcla
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestShortDescription	Exterminate the Deathclaws.	剿灭死爪。
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestName	Guardian of the Wastes: Feral Ghouls!	废墟守卫者：狂尸鬼！
-QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	杀死绿光食尸鬼。
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	杀死绿光尸鬼。
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestShortDescription	Show the Feral Ghouls no mercy.	对狂尸鬼绝不心慈手软。
 QuestLoc_GuardianoftheWastes:MoleRats_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:MoleRats_QuestName	Guardian of the Wastes: Mole Rats!	废墟守卫者：鼹鼠！
@@ -7591,7 +7589,7 @@ QuestLoc_HittingtheBooks_Conversation_1_NPCStart_3	How can I help you in return?
 QuestLoc_HittingtheBooks_Conversation_1_Team_1	Do you know anything about Vault 31?	你知道有关31号避难所的消息吗？
 QuestLoc_HittingtheBooks_QuestLongDescription	As Halloween approaches, the story of Vault 31 and its strange past is being told once again. But is the Vault really haunted, or is something else to blame? It's up to you to solve... The Mystery of Vault 31!	随着万圣节临近，有关31号避难所的故事和它奇怪的过去再一次流传了起来。但是到底是避难所真的闹鬼，还是有其他的什么原因？31避难所之谜正等待你去解决！
 QuestLoc_HittingtheBooks_QuestName	Halloween (Non)Fiction	万圣节小说
-QuestLoc_HittingtheBooks_QuestObjective_1	Learn more about Vault 31 at the ruined library.	在图书馆废墟找到更多关于31号避难所的消息。
+QuestLoc_HittingtheBooks_QuestObjective_1	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
 QuestLoc_HittingtheBooks_QuestShortDescription	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
 QuestLoc_HomeFieldAdvantage_Conversation_1_NPCStart_1	So close... but yet so far.	感觉很近……又感觉很远。
 QuestLoc_HomeFieldAdvantage_QuestLongDescription	Could Coach be hiding out in the old pencil factory? Probably not. But we're going to look there anyway.	蔻驰会藏在旧铅笔厂吗？大概不会。但无论如何还是查看一下。
@@ -8666,7 +8664,7 @@ QuestLoc_InAnotherVault_Conversation_1_NPCStart_2	You must be another of those p
 QuestLoc_InAnotherVault_Conversation_1_Team_1	No, but I'm looking for a dog that was with them named Bigsby.	我不是，但我在找一只和他们一起逃跑的狗，它叫比格斯比。
 QuestLoc_InAnotherVault_QuestLongDescription	Bigsby wasn't in Vault 199, but a member told me he may be in their sister Vault: 899. I should go check it out.	比格斯比不在199号避难所，但一个成员告诉我它可能会在他们的姐妹避难所，899号。我应该去那儿看看。
 QuestLoc_InAnotherVault_QuestName	In Another Vault	另一个避难所
-QuestLoc_InAnotherVault_QuestObjective_1	Find Bigsby.	寻找比格斯比。
+QuestLoc_InAnotherVault_QuestObjective_1	Find Bigsby.	找到比格斯比。
 QuestLoc_InAnotherVault_QuestShortDescription	Look for Bigsby in Vault 899.	在899号避难所寻找比格斯比。
 QuestLoc_InHotPursuit_Conversation_1_NPCEnd_1	We took them to the Poseidon Energy offices. Too bad you won't live long enough to find them!	我们把他们带去了波塞冬能源办公室。真可惜你们不能活着见到他们了！
 QuestLoc_InHotPursuit_Conversation_1_NPCStart_1	Ha ha! Another idiot fell for our “helpful survivor” trap.	哈哈！又有一个白痴上钩了，落入我们“提供帮助的幸存者”陷阱。
@@ -8674,7 +8672,7 @@ QuestLoc_InHotPursuit_Conversation_1_Team_1	Tell me where you've taken Bottle & 
 QuestLoc_InHotPursuit_QuestLongDescription	A helpful survivor who escaped from the Raiders suggested I search Vault 177 for Bottle & Cappy. If I hurry, I might be able to catch up with them.	一位幸存者刚从掠夺者手中逃出来，他建议我们去177号避难所寻找瓶瓶和盖盖。如果抓紧时间的话，说不定能追上他们。
 QuestLoc_InHotPursuit_QuestName	In Hot Pursuit	火热追击
 QuestLoc_InHotPursuit_QuestObjective_1	Search Vault 177 for any sign of Bottle & Cappy.	搜寻177号避难所关于瓶瓶和盖盖的消息。
-QuestLoc_InHotPursuit_QuestShortDescription	Pursue Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪
+QuestLoc_InHotPursuit_QuestShortDescription	Pursue Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪。
 QuestLoc_InShiningArmor_Conversation_1_NPCStart_1	You've done a remarkable job, soldier.	战士，你们做得很好。
 QuestLoc_InShiningArmor_Conversation_1_NPCStart_2	I heard you're turning your Vault into a Brotherhood outpost.	我听说你们要把避难所变成钢铁兄弟会的前哨。
 QuestLoc_InShiningArmor_Conversation_1_NPCStart_3	I'm pleased to say I can't think of a better place for it to be.	我真的很高兴，因为我想不到它还可以成为什么更好的地方了。
@@ -9007,7 +9005,7 @@ QuestLoc_MallMadness_QuestLongDescription	Who knew shopping could be so dangerou
 QuestLoc_MallMadness_QuestName	Mall Madness	疯狂采购
 QuestLoc_MallMadness_QuestObjective_1	Kill the Glowing One.	杀死绿光食尸鬼。
 QuestLoc_MallMadness_QuestShortDescription	The mall has been overrun!	商场被占领了！
-QuestLoc_ManonFirst_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. The search continues!	该死的，棒球衫不在这里。继续搜索！
+QuestLoc_ManonFirst_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. The search continues!	该死的！棒球衫不在这里。继续搜索！
 QuestLoc_ManonFirst_QuestLongDescription	Somewhere out there in the Wasteland is the Jersey of legendary baseball player Rackie Jobinson. Play ball!	废土的某个地方有一件棒球衫，它是棒球界的传奇运动员罗基杰宾森的。让我们找到它！
 QuestLoc_ManonFirst_QuestName	Man on First	第一个地点
 QuestLoc_ManonFirst_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基杰宾森的棒球衫。
@@ -9076,9 +9074,9 @@ QuestLoc_MatterstoSettle_QuestObjective_1	Search the settlement for Pests and Hu
 QuestLoc_MatterstoSettle_QuestObjective_2	Save the Settlers.	拯救居民
 QuestLoc_MatterstoSettle_QuestObjective_3	Talk to the Warshipper.	跟“战争崇拜者”交谈。
 QuestLoc_MatterstoSettle_QuestShortDescription	Save a settlement caught between the Pests and the Hungry.	拯救陷入“害虫”和“饥饿者”争端的居民点。
-QuestLoc_MatterstoSettle_RaiderLine_1	Blessed be the irradiated!	辐射保佑你们！
+QuestLoc_MatterstoSettle_RaiderLine_1	Blessed be the irradiated!	愿辐射保佑我们！
 QuestLoc_MatterstoSettle_RaiderLine_2	We are unworthy!	我们不配！
-QuestLoc_MatterstoSettle_RaiderLine_3	Accept Pestilence's radiation into your hearts!	拥抱“瘟疫”的辐射照耀进你的心灵！
+QuestLoc_MatterstoSettle_RaiderLine_3	Accept Pestilence's radiation into your hearts!	让“瘟疫”的辐射照进你们心中！
 QuestLoc_MiseryLoathesCompany_QuestLongDescription	A tough Raider boss is holed up in a Red Rocket fuel station, and he's using your Wasteland explorer for target practice. Take him out before someone gets hurt!	一个凶悍的掠夺者首领藏匿在红火箭服务站，他正在把你的废土探险者当做练习的靶子。请在有人受伤之前阻止他。
 QuestLoc_MiseryLoathesCompany_QuestName	Misery Loathes Company	苦难不喜结伴
 QuestLoc_MiseryLoathesCompany_QuestObjective_1	Eliminate the Raider Boss.	除掉掠夺者首领。
@@ -9553,7 +9551,7 @@ QuestLoc_NoTimeforPaws_Conversation_1_NPCStart_3	Good thing Bigsby was here. He 
 QuestLoc_NoTimeforPaws_Conversation_1_Team_1	I'm here to find Bigsby, and bring him home. Please say he's with you...	我来这里是为了找比格斯比，并把它带回家。告诉我，它和你们在一起对吗？
 QuestLoc_NoTimeforPaws_QuestLongDescription	I rescued the salvage team, but Bigsby wasn't with them. One said they may have taken shelter in Vault 314.	我救下了救援队。但比格斯比没有和他们在一起。有人说他们可能去了314号避难所。
 QuestLoc_NoTimeforPaws_QuestName	No Time for Paws	肉爪去哪儿了
-QuestLoc_NoTimeforPaws_QuestObjective_1	Find Bigsby.	寻找比格斯比。
+QuestLoc_NoTimeforPaws_QuestObjective_1	Find Bigsby.	找到比格斯比。
 QuestLoc_NoTimeforPaws_QuestShortDescription	Find Sally and Bigsby in Vault 314.	前往314号避难所寻找莎莉和比格斯比。
 QuestLoc_NotSoSafehouse_Conversation_1_NPCStart_1	This sure seemed like a good idea at the time...	这个看起来像是个不错的主意……
 QuestLoc_NotSoSafehouse_Conversation_1_NPCStart_2	Thanks for saving our bacon.	谢谢你们救了我们的命。
@@ -9848,7 +9846,7 @@ QuestLoc_PierIntoFuture_QuestObjective	Investigate the old pier.	调查旧码头
 QuestLoc_PierIntoFuture_QuestShortDescription	Investigate the old pier.	调查旧码头。
 QuestLoc_PitStop_QuestLongDescription	Opportunity knocks! One of your Wasteland explorers has discovered a Red Rocket fuel station that looks uninhabited. There might be something useful inside.	机会来敲门！你的一位废土勇士发现了一个尚未被占领的红火箭服务站。里面可能有些有用的东西。
 QuestLoc_PitStop_QuestName	Pit Stop	加油站
-QuestLoc_PitStop_QuestObjective_1	Investigate the Red Rocket Truck Stop.	侦查红火箭服务站
+QuestLoc_PitStop_QuestObjective_1	Investigate the Red Rocket Truck Stop.	调查红火箭服务站。
 QuestLoc_PitStop_QuestShortDescription	Search the Red Rocket Truck Stop for supplies.	搜索红火箭服务站的物资
 QuestLoc_PittStop_Conversation01_NPC01	You're the ones causing all the racket?	就是你们搞出这么大动静？
 QuestLoc_PittStop_Conversation01_NPC02	Listen, we caught these workers fair and square. Go find your own.	听着，我们光明正大地抓到了这些工人，去找你们自己的吧。
@@ -10123,7 +10121,7 @@ QuestLoc_RevengeoftheGeeks_Conversation_3_Team_2	17	17
 QuestLoc_RevengeoftheGeeks_Conversation_3_Team_3	Who cares?	管它多少呢。
 QuestLoc_RevengeoftheGeeks_QuestLongDescription	Who says accountants are wimps? Answer the questions or face the consequences.	是谁说会计都是懦夫的？请回答问题不然就得面对后果。
 QuestLoc_RevengeoftheGeeks_QuestName	Revenge of the Geeks	书呆子的复仇
-QuestLoc_RevengeoftheGeeks_QuestObjective_1	Answer all the questions.	回答全部问题。
+QuestLoc_RevengeoftheGeeks_QuestObjective_1	Answer all the questions.	请回答全部问题。
 QuestLoc_RevengeoftheGeeks_QuestShortDescription	Test your math skills.	测试一下你的数学水平。
 QuestLoc_RoboRampage_Conversation01_NPC01	Humans! You cleverly present yourselves for extermination! This will be quick and painful.	人类！你们聪明地自投罗网了！迎接快速且痛苦的死亡吧。
 QuestLoc_RoboRampage_Conversation01_NPC02	We do not recognize humans as civilized, but so be it.	我们不承认人类是文明的，但可以谈谈。
@@ -10167,8 +10165,8 @@ QuestLoc_RobotRetrieval_QuestObjective_1	Find the Mr. Handy Box.	寻找巧手先
 QuestLoc_RobotRetrieval_QuestShortDescription	Find the Mr. Handy Box.	寻找巧手先生盒子
 QuestLoc_RockThemLikeAHurricane_QuestLongDescription	Let's see how you fare against a nest full of Radscorpions. Oh, and this time, you can only have two people in your squad.	让我们来看看你想怎么对付一窝辐射蝎子。但这次，你的小队里只能有两个人。
 QuestLoc_RockThemLikeAHurricane_QuestName	Rock Them Like A Hurricane	风卷残云
-QuestLoc_RockThemLikeAHurricane_QuestObjective_1	Kill the Glowing Radscorpion.	杀死绿光辐射蝎子
-QuestLoc_RockThemLikeAHurricane_QuestShortDescription	Kill the Glowing Radscorpion.	杀死绿光辐射蝎子
+QuestLoc_RockThemLikeAHurricane_QuestObjective_1	Kill the Glowing Radscorpion.	杀死绿光辐射蝎子。
+QuestLoc_RockThemLikeAHurricane_QuestShortDescription	Kill the Glowing Radscorpion.	杀死绿光辐射蝎子。
 QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_1	Trust me. I've learned my lesson!	相信我。我已经得到教训了！
 QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_2	Don't worry. I've had enough of the outside world...	别担心。我已经受够了外面的世界……
 QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_3	My only business from now on is Vault business.	我现在唯一的工作就是避难所的工作。
@@ -10470,7 +10468,7 @@ QuestLoc_SantasHelpers_QuestName	Santa's Helpers	圣诞老人的小帮手
 QuestLoc_SantasHelpers_QuestObjective_1	Speak to Overseer Nicholas.	和监督者尼古拉斯交谈。
 QuestLoc_SantasHelpers_QuestObjective_2	Talk to the Dwellers.	和居民们交谈。
 QuestLoc_SantasHelpers_QuestObjective_3	Talk to the Dwellers.	和居民们交谈。
-QuestLoc_SantasHelpers_QuestShortDescription	Spread Christmas cheer!	传播一些节日气氛。
+QuestLoc_SantasHelpers_QuestShortDescription	Spread Christmas cheer!	传播圣诞的节日气氛！
 QuestLoc_SavingDaylight_Conversation_1_NPCEnd_1	You're wrong! And don't count on us to reveal how Daylight Savings will let us live!	错了。不要指望我们告诉你“节省天光”将如何让我们生活！
 QuestLoc_SavingDaylight_Conversation_1_NPCEnd_2	If the Confessor were here instead of upstairs with the detonator, he'd tell you you're wrong!	如果神父在这里而不是在楼上和炸药在一起，他会告诉你，你错了！
 QuestLoc_SavingDaylight_Conversation_1_NPCStart_1	It's the Vault Dwellers!	这是避难所居民！
@@ -10930,7 +10928,7 @@ QuestLoc_SpringingtheTrap_QuestObjective_3	Talk to the second group of Pests.	�
 QuestLoc_SpringingtheTrap_QuestShortDescription	Get answers from the Pests lured into your trap.	从被引诱进陷阱的害虫口中得到答案。
 QuestLoc_SpringingtheTrap_RaiderLine_1	Blessed be the irradiated!	愿辐射保佑我们！
 QuestLoc_SpringingtheTrap_RaiderLine_2	We are unworthy!	我们不配！
-QuestLoc_SpringingtheTrap_RaiderLine_3	Accept Pestilence's radiation into your hearts!	欢迎“瘟疫”的辐射照耀进你的心灵！
+QuestLoc_SpringingtheTrap_RaiderLine_3	Accept Pestilence's radiation into your hearts!	让“瘟疫”的辐射照进你们心中！
 QuestLoc_SpringtimeforAtom_QuestlineName	Springtime for Atom	原子的春天
 QuestLoc_SpyonRaiders_Conversation_1A_NPCEnd_1	You guess? What kind of Raider talks like that? Get 'em!	你觉得呢？哪种掠夺者会像那样说话？给我拿下他们！
 QuestLoc_SpyonRaiders_Conversation_1A_NPCEnd_2	Whoa. I'm feeling that rage. All right, head in!	哇，我能感受到那怒火。好吧，我们上！
@@ -10959,7 +10957,7 @@ QuestLoc_SpyonRaiders_Conversation_1C_Team_1	That's the stupidest thing we've ev
 QuestLoc_SpyonRaiders_Conversation_1C_Team_2	Only the best Raiders would have that many spikes!	只有最牛的掠夺者才会有那么多的尖钉！
 QuestLoc_SpyonRaiders_Conversation_1C_Team_3	Actually, we're Vault Dwellers in disguise. Here to spy on you!	其实我们是伪装的避难所居民。来这里暗中监视你们的！
 QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_1	You're lying, and you're dead!	居然敢骗我，你们死定了！
-QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_2	That's what we like to hear. Go on ahead.	这是我们喜欢听的。请继续。
+QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_2	That's what we like to hear. Go on ahead.	那是我们想听的。请继续。
 QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_3	Yeah, right. Wait, seriously? You're dead!	是啊，对的。等等，你说什么？你们死定了！
 QuestLoc_SpyonRaiders_Conversation_1D_NPCStart_1	What do we have here? Looking to join our gang?	你们是谁？想加入我们帮派？
 QuestLoc_SpyonRaiders_Conversation_1D_NPCStart_2	We're the Burning Bullets. We shoot people, then set them on fire.	我们是“火焰飞弹”。我们射击敌人，然后让他们着火。
@@ -11193,7 +11191,7 @@ QuestLoc_TargetPractice_QuestShortDescription	Go hunting for Radroaches.	去猎�
 QuestLoc_Test_01_QuestName	Test	测试
 QuestLoc_Test_Conversation01	Hey, we're dwellers from a new vault. Do you want to be our friends?	嘿，我们是来自新避难所的居民。想和我们做朋友吗？
 QuestLoc_Test_Conversation01_Answer01NPC	You have passed THE TEST.	您完成了测试。
-QuestLoc_Test_Conversation01_Answer01PC	Yes!	好的！
+QuestLoc_Test_Conversation01_Answer01PC	Yes!	太棒了！
 QuestLoc_Test_Conversation01_Answer02NPC	You have NOT passed THE TEST. Return when you can pass THE TEST.	您没有完成测试。请在可以完成测试时回来。
 QuestLoc_Test_Conversation01_Answer02PC	No.	不好。
 QuestLoc_Test_QuestLongDescription	This is just a test. Remain calm.	这是一个测试，请不要惊慌。
@@ -11303,8 +11301,8 @@ QuestLoc_TheBrothersGrime_Conversation_2_NPCStart_1	Vault Dweller filth! You'll 
 QuestLoc_TheBrothersGrime_Conversation_2_Team_1	Let's mop the floor with this scrub!	让我们用这个擦布好好擦擦地板！
 QuestLoc_TheBrothersGrime_QuestLongDescription	Few Raiders play dirtier than the two Raider bosses known as the Brothers Grime. Teach these black-hearted sibling scoundrels a lesson.	很少有掠夺者的手段会比两个称之为“污秽兄弟”的掠夺者首领更肮脏。给这对黑心的兄弟无赖一点颜色瞧瞧。
 QuestLoc_TheBrothersGrime_QuestName	The Brothers Grime	“污秽兄弟”
-QuestLoc_TheBrothersGrime_QuestObjective_1	Kill the Brothers Grime.	杀死“污秽兄弟”中的哥哥。
-QuestLoc_TheBrothersGrime_QuestObjective_2	Kill the Brothers Grime.	杀死“污秽兄弟”中的弟弟。
+QuestLoc_TheBrothersGrime_QuestObjective_1	Kill the Brothers Grime.	杀死“污秽兄弟”二人。
+QuestLoc_TheBrothersGrime_QuestObjective_2	Kill the Brothers Grime.	杀死“污秽兄弟”二人。
 QuestLoc_TheBrothersGrime_QuestShortDescription	Confront a dastardly pair of Raider siblings.	对抗一对卑劣的掠夺者兄弟。
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_1	Hey, to each their own.	嘿，各有所好嘛。
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_2	Likewise, smoothskin.	你也一样，“光滑皮肤”们！
@@ -11612,7 +11610,7 @@ QuestLoc_TheNightWatch_Conversation_1_NPCStart_4	Strangest thing I ever seen... 
 QuestLoc_TheNightWatch_Conversation_1_Team_1	Has anyone else seen this?	还有其他人见过吗？
 QuestLoc_TheNightWatch_QuestLongDescription	We've found out there's a group of settlers that has more information about the widespread Tato die-outs. Let's talk to them and see what they know.	我们发现有一群居民对大面积的红果植株死亡有更多的了解。和他们聊聊，看看他们都知道些什么。
 QuestLoc_TheNightWatch_QuestName	The Night Watch	巡夜人
-QuestLoc_TheNightWatch_QuestObjective_1	Get more information on the Tato blight.	寻找更多有关红果枯萎的信息
+QuestLoc_TheNightWatch_QuestObjective_1	Get more information on the Tato blight.	了解更多关于红果枯萎的信息。
 QuestLoc_TheNightWatch_QuestShortDescription	Find out more about the alternate theory concerning the Tato blight.	找到更多关于红果枯萎现象的解释。
 QuestLoc_ThePartyattheEndoftheWorld_QuestlineName	The Party at the End of the World	世界尽头的派对
 QuestLoc_ThePathofPaulaPlumbkin_Conversation_1_NPCEnd_1	Some old Nuka-Cola plant. Not that it matters. You ain't leavin' here alive!	她在某个旧的核子可乐工厂。告诉你又会怎么样，你是不可能活着出去的！
@@ -11918,7 +11916,7 @@ QuestLoc_TheYolksonYou_QuestShortDescription	Bring Radscorpion eggs back to the 
 QuestLoc_TheYolksonYou_RaiderLine_1	You know what? I don't like Radscorpions much...	你知道吗？我不太喜欢辐射蝎子……
 QuestLoc_TheYolksonYou_RaiderLine_2	I'm starting to think our chef wants to kill us...	我在想也许大厨想杀了我们……
 QuestLoc_TheYolksonYou_RaiderLine_3	We'll be done here in a pinch!	我们瞬间就能搞定这里！
-QuestLoc_TheresnoCryinginBaseball_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. The search continues!	该死的！棒球衫不在这里。继续找！
+QuestLoc_TheresnoCryinginBaseball_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. The search continues!	该死的！棒球衫不在这里。继续搜索！
 QuestLoc_TheresnoCryinginBaseball_QuestLongDescription	There's an old Hardware Town store we haven't checked out. Maybe Coach went there to resupply. Off we go.	那有一个旧的“硬件小镇”商店我们还没有看过。也许蔻驰去那里补充物资了，我们走吧。
 QuestLoc_TheresnoCryinginBaseball_QuestName	There's no Crying in Baseball!	棒球场上没有眼泪
 QuestLoc_TheresnoCryinginBaseball_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基杰宾森的棒球衫。
@@ -11935,7 +11933,7 @@ QuestLoc_ThirdandGoal_Conversation_2_NPCStart_3	At least, that's what I think th
 QuestLoc_ThirdandGoal_Conversation_2_Team_1	There's a Vault nearby. You'll be safe there.	这附近有一个避难所。你去那里比较安全。
 QuestLoc_ThirdandGoal_QuestLongDescription	You've tracked the kidnapped settler to the lair of the Commish. Time to put an end to this football flunky's Super Cup contest!	你已经知道被绑架的居民在柯米什那里。是时候终结这个足球怪人的“超级杯”比赛了！
 QuestLoc_ThirdandGoal_QuestName	Third and Goal	第三和目标
-QuestLoc_ThirdandGoal_QuestObjective_1	Rescue the hostage.	拯救人质
+QuestLoc_ThirdandGoal_QuestObjective_1	Rescue the hostage.	解救人质
 QuestLoc_ThirdandGoal_QuestObjective_2	Confront the Commish.	和柯米什对峙
 QuestLoc_ThirdandGoal_QuestShortDescription	Rescue the hostage and confront the Commish.	拯救人质并和柯米什对峙。
 QuestLoc_ThirdandGoal_RaiderLine_1	Time for some big play offense!	是时候来个大进攻了！
@@ -11991,7 +11989,7 @@ QuestLoc_ThymeisMoney_Conversation_2_Team_3	You're busted, buster! Hand over the
 QuestLoc_ThymeisMoney_QuestLongDescription	All right, the Super-Duper Mart was a bust as far as ingredients go. This time, though, we have a sure lead to a cache of spice in a nearby building! And the chef is convinced the Raiders will just hand it over...	好吧，你要找原料的话，大无敌超市不是个啥好去处。但是这回，我们肯定能在附近的一座建筑里找到一些香料！ 厨师相信那些掠夺者会把它们交出来……
 QuestLoc_ThymeisMoney_QuestName	Thyme is Money	珍贵的百里香
 QuestLoc_ThymeisMoney_QuestObjective_1	Retrieve the spice.	找到香料。
-QuestLoc_ThymeisMoney_QuestObjective_2	Eliminate the Raider Boss.	消灭掠夺者头领。
+QuestLoc_ThymeisMoney_QuestObjective_2	Eliminate the Raider Boss.	除掉掠夺者首领。
 QuestLoc_ThymeisMoney_QuestShortDescription	Steal some spices from a band of Raiders.	从一伙掠夺者那里偷点香料。
 QuestLoc_ThymeisMoney_RaiderLine_1	Keep calm and curry on.	保持冷静，继续拍马屁。
 QuestLoc_ThymeisMoney_RaiderLine_2	I mint to do that.	我很勒意那样做。
@@ -12097,7 +12095,7 @@ QuestLoc_UninvitedGuests_Conversation_1_Team_2	I was totally invited...	我当�
 QuestLoc_UninvitedGuests_QuestLongDescription	You can across a small cabin out in the Wasteland. Time to investigate!	你在废土上发现了一个小屋。去调查一下吧！
 QuestLoc_UninvitedGuests_QuestName	Uninvited Guests	不速之客
 QuestLoc_UninvitedGuests_QuestObjective_1	Explore the Cabin.	探索小屋。
-QuestLoc_UninvitedGuests_QuestShortDescription	You've discovered an old Cabin out in the Wasteland.	你在废土上发现了曾经的小屋。
+QuestLoc_UninvitedGuests_QuestShortDescription	You've discovered an old Cabin out in the Wasteland.	你在废土上发现一幢旧的小屋。
 QuestLoc_VacateTheNovac_QuestLineName	Vacate Novac	驱逐诺瓦克
 QuestLoc_Vault199_Conversation_1_NPCEnd_1	No dogs here. Try our sister Vault: 899. They're classier. But first, take this as our token of thanks.	这里没有狗。试试他们的姐妹避难所吧：899号。他们更经典。但首先，拿着这个吧，当做是我们的感谢。
 QuestLoc_Vault199_Conversation_1_NPCStart_1	You got here just in time! We weren't expecting that last minute... infestation.	你们及时赶到了这里！我们完全没有料到……这种灾害。
@@ -12139,7 +12137,7 @@ QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCEnd_4	Here. May you make so
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCStart_1	I am the Overseer. Behold our Vault of horrors!	我是监督者。请亲眼见证我们的避难所有多恐怖！
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCStart_2	We trade in fear. A scare is worth more than Caps here.	我们用恐怖来做交易。恐怖在这里比瓶盖值钱。
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCStart_3	But we understand if other Vaults trade in less fearsome goods.	但是我们明白其他的避难所会用不那么恐怖的物品做交易。
-QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCStart_4	What can we send you back with?	你们想要我们回赠些什么呢？
+QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCStart_4	What can we send you back with?	我们能回赠你们一些什么？
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_Team_1	Nothing scarier than overwhelming firepower.	没有什么比压倒性的火力更恐怖了。
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_Team_2	We need some spooky clothes.	我们需要一些吓人的衣服。
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_Team_3	You say you don't need Caps? We're happy to take all of them!	你是说你们不需要瓶盖是么？我们很乐意拿走你们所有的瓶盖！
@@ -12206,7 +12204,7 @@ QuestLoc_VaultTecExperimentReviewD_Conversation_1_NPCEnd_1	Gary! Gary!	盖瑞！
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_NPCEnd_2	Gary!	盖瑞！
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_NPCEnd_3	Gary!	盖瑞！
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_NPCStart_1	Gary? Gary!	盖瑞？盖瑞！
-QuestLoc_VaultTecExperimentReviewD_Conversation_1_Team_1	What's wrong with you?	你有毛病啊？
+QuestLoc_VaultTecExperimentReviewD_Conversation_1_Team_1	What's wrong with you?	你到底有什么毛病？
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_Team_2	Uh... Gary? Gary, Gary?	呃……盖瑞？盖瑞，盖瑞？
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_Team_3	No one calls us Gary! Attack!	没有人敢叫我们盖瑞！给我上！
 QuestLoc_VaultTecExperimentReviewD_Conversation_2_NPCEnd_1	Gary!	盖瑞！
@@ -12232,7 +12230,7 @@ QuestLoc_VaultTecExperimentReviewE_Conversation_1_NPCEnd_3	The bets are off and 
 QuestLoc_VaultTecExperimentReviewE_Conversation_1_NPCStart_1	Place your bets! Place your bets!	下注了！下注了！
 QuestLoc_VaultTecExperimentReviewE_Conversation_1_NPCStart_2	Red or black?	红还是黑？
 QuestLoc_VaultTecExperimentReviewE_Conversation_1_Team_1	Red?	红？
-QuestLoc_VaultTecExperimentReviewE_Conversation_1_Team_2	Black.	黑。
+QuestLoc_VaultTecExperimentReviewE_Conversation_1_Team_2	Black.	黑色。
 QuestLoc_VaultTecExperimentReviewE_Conversation_1_Team_3	We bet on... Death! Kill them!	我们把赌注押在……死上！给我杀了他们！
 QuestLoc_VaultTecExperimentReviewE_Conversation_2_NPCEnd_1	Always your best bet! You win.	总是你厉害！你赢了。
 QuestLoc_VaultTecExperimentReviewE_Conversation_2_NPCEnd_2	Loser!	倒霉蛋！
@@ -12608,7 +12606,7 @@ QuestLoc_WondersofScience_Conversation_1_NPCStart_4	Nuka-Cola Quantum!	量子核
 QuestLoc_WondersofScience_QuestLongDescription	Famed scientist Otto von Hurfburg is nearby, searching for a modern-day Fountain of Youth. Find him, and learn what he's discovered!	著名科学家欧拓凡霍夫伯格就在附近，正在研究现代社会永葆青春的方法。找到他，看看他有什么发现。
 QuestLoc_WondersofScience_QuestName	Wonders of Science	科学的奇迹
 QuestLoc_WondersofScience_QuestObjective_1	Find Dr. Hurfburg.	寻找霍夫伯格博士。
-QuestLoc_WondersofScience_QuestObjective_2	Kill the Glowing One.	杀死绿光食尸鬼。
+QuestLoc_WondersofScience_QuestObjective_2	Kill the Glowing One.	杀死绿光尸鬼。
 QuestLoc_WondersofScience_QuestShortDescription	Dr. Hurfburg is on a Quest for knowledge and adventure!	霍夫伯格博士背负着探索知识和冒险的重任！
 QuestLoc_WondersofTechnology_Conversation_1_NPCStart_1	Ah, hello there! I am Dr. Hurfburg. Do you like my disguise?	啊，你好呀！我是霍夫伯格博士。你喜欢我的伪装吗？
 QuestLoc_WondersofTechnology_Conversation_1_NPCStart_2	This project has been a disaster! The robots do nothing but explode!	这个项目简直是个灾难！机器人什么都不做，只知道爆炸！
@@ -12656,7 +12654,7 @@ QuestResult_Completed	QUEST COMPLETE	任务完成
 QuestResult_Failed	QUEST FAILED	任务失败
 QuestReward_LunchBox	Lunchbox	午餐盒
 QuestReward_MrHandyBox	Mr. Handy Box	巧手先生盒子
-QuestReward_PetCarrier	Pet Carrier	宠物笼子
+QuestReward_PetCarrier	Pet Carrier	宠物笼
 QuestSurprise_Discovered_AbandonedHouse	{0} has discovered an Abandoned Cabin.	{0}发现了一处废弃的小屋。
 QuestSurprise_Discovered_MarketPlace	{0} has discovered a Super Duper Mart.	{0}发现了一个大无敌超市。
 QuestSurprise_Discovered_RedRocket	{0} has discovered a Red Rocket Truck Stop.	{0}发现了一个红火箭服务站。
@@ -12739,7 +12737,7 @@ RichPresence_Xbox_10	Overseeing Dwellers in the Vault	在避难所里管理居�
 RoomLevel_Advanced	ADVANCED	高级
 RoomLevel_Mega	MEGA	大
 RoomStatus_Full	FULL	满
-RoomStatus_Upgrading	UPGRADING	升级
+RoomStatus_Upgrading	UPGRADING	升级中……
 RoomType_Consumable	CONSUMABLE	消耗品
 RoomType_Consumable_Description	Consumable Description...	消耗品说明……
 RoomType_Facility	FACILITY	设施
@@ -13063,7 +13061,7 @@ SeasonPass_Rank	RANK {0}	等级 {0}
 SeasonPass_RankUpWithQuantum_Confirmation	Rank up for {0} Nuka-Cola Quantum?	花费{0}量子核子可乐升级？
 SeasonPass_RecipeReward_ModalText	Theme recipe unlocked!	主题配方已解锁！
 SeasonPass_ReturnToMainMenuModal_CancelBtn	CANCEL	取消
-SeasonPass_ReturnToMainMenuModal_ConfirmBtn	OK	确认
+SeasonPass_ReturnToMainMenuModal_ConfirmBtn	OK	确定
 SeasonPass_ReturnToMainMenuModal_Description	"No experimental vault detected.
 Return to the main menu to create one?"	"未检测到实验避难所。
 返回主菜单创建一个？"
@@ -13300,14 +13298,14 @@ SnipSnipDialog_Wasteland_1	Oh my. Isn't this... cheery.	哦，天哪。这儿可
 SnipSnipDialog_Wasteland_10	Surely someone out here must need a shoe shine...	这儿肯定有人需要擦鞋……
 SnipSnipDialog_Wasteland_100	A general atomics international mark 4. That's what I am, you seem to be a human.	我是通用原子国际4型机器人，你应该是个人类吧。
 SnipSnipDialog_Wasteland_101	My temporal sensors went out in the Great War. That must have been a week ago at least.	我的时间传感器在大战中受损了，估计至少是一周前的事了。
-SnipSnipDialog_Wasteland_102	Our finger inventory's in a sorry state.	我们的手指库存快没了！
+SnipSnipDialog_Wasteland_102	Our finger inventory's in a sorry state.	我们的手指库存真是惨不忍睹。
 SnipSnipDialog_Wasteland_103	Now would you prefer a dressing of high quality synthetic fibers, classic cotton,  or a comforting synthetic-cotton blend?	你想要哪种绷带？优质合成纤维、经典全棉还是舒适的合成棉混纺？
 SnipSnipDialog_Wasteland_104	Where are you from again? Never been there myself. Hope to go someday soon.	你是从哪儿来的？我从未去过那里，希望有一天能去看看。
 SnipSnipDialog_Wasteland_105	Now, don't be afraid. A little snip-snip,  and it will all be over.	好了，别害怕。咔嚓咔嚓，小剪两下，一切就都结束了。
-SnipSnipDialog_Wasteland_106	I am ever-ready to serve.	我随时准备服务。
-SnipSnipDialog_Wasteland_107	If you've got a clog that's full of muck, trust Abraxo to get it unstuck. It's VERY poisonous.	下水道堵了满街污物？相信艾巴索帮你通。它可是有剧毒的。
+SnipSnipDialog_Wasteland_106	I am ever-ready to serve.	我随时为你效劳。
+SnipSnipDialog_Wasteland_107	If you've got a clog that's full of muck, trust Abraxo to get it unstuck. It's VERY poisonous.	如果你的下水道堵满了污物，放心交给艾巴索疏通——记住，它毒性非常强！
 SnipSnipDialog_Wasteland_108	Pardon me, could I help you have a better day?	打扰一下，我能帮你度过美好的一天吗？
-SnipSnipDialog_Wasteland_109	I'm only going to harvest your organs.	我只是要摘取你的器官，没关系的。
+SnipSnipDialog_Wasteland_109	I'm only going to harvest your organs.	我只是要摘取你的器官而已。
 SnipSnipDialog_Wasteland_11	Hello! Anyone?	你好——有人吗？
 SnipSnipDialog_Wasteland_12	Those voices do NOT sound friendly. Time to skedaddle.	那些声音听起来可一点儿都不友好。该开溜了！
 SnipSnipDialog_Wasteland_13	Oh look, a broken crib. Isn't that encouraging.	看哪，一个破损的婴儿床。真是“鼓舞人心”啊。
@@ -13358,7 +13356,7 @@ SnipSnipDialog_Wasteland_53	Maybe I'll hum to myself. That'll lift the ol' spiri
 SnipSnipDialog_Wasteland_54	Exploring is so interesting. And terrifying. Not to mention utterly boring.	探索很有趣，也很恐怖，但也无聊透顶了。
 SnipSnipDialog_Wasteland_55	Let's try... this direction.	试试……这个方向。
 SnipSnipDialog_Wasteland_56	I'll just cut through this neighborhood, see where it goes...	让我看看穿过这个街区能到哪里……
-SnipSnipDialog_Wasteland_57	I wonder where this road leads.	不知道这条路通向哪儿。
+SnipSnipDialog_Wasteland_57	I wonder where this road leads.	我想知道这条路通向哪里。
 SnipSnipDialog_Wasteland_58	A spooky pass through blasted woods? How could I possibly resist.	一个恐怖的森林小径？这诱惑真是难以抵挡。
 SnipSnipDialog_Wasteland_59	I really don't see what all the fuss is about. It's not so bad out OH MY HEAVENS, A SEVERED HEAD.	我真的不明白有什么好大惊小怪的，这外面也没什么大不……哦，天哪，这有个被砍下来的脑袋！
 SnipSnipDialog_Wasteland_6	My internal compass indicates I'm now facing north. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝北。看来我该朝这个方向飘……
@@ -13371,7 +13369,7 @@ SnipSnipDialog_Wasteland_65	If I had feet, they would be SO sore right now.	如�
 SnipSnipDialog_Wasteland_66	Oh look, an old basketball court. Definitely not my game. I possess neither a shirt, nor skin.	哦，看哪，一个旧篮球场。这运动不适合我，我没有衬衫，也没有皮肤。
 SnipSnipDialog_Wasteland_67	Ah, an old baseball diamond. A game much like cricket, only far inferior.	啊，一个旧棒球场。这游戏类似板球，但要差得多。
 SnipSnipDialog_Wasteland_68	A child's wooden blocks. From before the war. I wonder where... Oh.	小孩的木制积木，来自战前。我好奇那个小孩……哦。
-SnipSnipDialog_Wasteland_69	Well bless my stars! A Giddyup Buttercup. Such an elegant steed.	"天哪！一匹""骑乘小马""，真是优雅的坐骑。"
+SnipSnipDialog_Wasteland_69	Well bless my stars! A Giddyup Buttercup. Such an elegant steed.	天哪！一匹“骑乘小马”，真是优雅的坐骑。
 SnipSnipDialog_Wasteland_7	My internal compass indicates I'm now facing south. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝南。看来我该朝这个方向飘……
 SnipSnipDialog_Wasteland_70	A locked door. And me without my bobby pin.	一扇锁着的门，但是我却没带开锁用的发夹。
 SnipSnipDialog_Wasteland_71	Hmm. A computer terminal. Meant for human fingers, sadly.	哦？一个电脑终端。可惜，是为人类手指设计的。
@@ -13404,7 +13402,7 @@ SnipSnipDialog_Wasteland_95	What is this? Ah yes. I'm hovering over a minefield.
 SnipSnipDialog_Wasteland_96	I've heard rumors that a rogue A.I. actually caused the Great War. To think – WANTING a mess like this.	我听说大战是由一个反叛的人工智能引发的。真是怪了——它怎么会想要把一切弄得这么混乱？
 SnipSnipDialog_Wasteland_97	Ooooohhh... An old suit of Power Armor. Now THAT'S a chassis.	哇哦……一套旧的动力装甲。这才叫底盘！
 SnipSnipDialog_Wasteland_98	Every step, used chems and empty liquor bottles. That explains so much.	到处都是用过的药剂和空酒瓶，这很能说明问题了。
-SnipSnipDialog_Wasteland_99	There's no fudge here.	这儿可没有软糖。
+SnipSnipDialog_Wasteland_99	There's no fudge here.	这里可没有软糖。
 SnipSnipDialog_WaterPlant_01	I'm starting to rethink my aversion to plastic parts...	我开始重新考虑我对塑料零件的厌恶了……
 SnipSnipDialog_WaterPlant_02	I may not sleep, or dream, but this room gives me nightmares.	虽然我不会睡觉或做梦，但这个房间给了我噩梦。
 SnipSnipDialog_WaterPurification_01	Really, if you're going to consume water, you may as well make it digestible.	说真的，反正要喝水，不如喝点能“消化”的水。
@@ -13994,7 +13992,7 @@ Speech_LivingQuarter_PickupLines_63	Your lips. They're just so... smoochable.	�
 Speech_LivingQuarter_PickupLines_64	I saw the doctor. He said my body's deficient... in vitamin U.	我去看了医生。他说我身体缺乏……维生素U。
 Speech_LivingQuarter_PickupLines_65	You're so sweet, I'm getting a toothache.	你是那么的甜美，甜得我牙痛。
 Speech_LivingQuarter_PickupLines_66	I hope another bomb goes off. I'd duck and cover with you anytime.	我希望再来一枚炸弹。这样我随时都能和你一起躲起来。
-Speech_LivingQuarter_PickupLines_67	Are you this nice to all the Dwellers?	你对所有的居民都很好吗？
+Speech_LivingQuarter_PickupLines_67	Are you this nice to all the Dwellers?	你对所有的居民都这么好吗？
 Speech_LivingQuarter_PickupLines_68	I think we're having an earthquake, ‘cause I'm falling for you.	我想一定发地震了，因为我正为你坠落。
 Speech_LivingQuarter_PickupLines_69	Can you get that for me? I dropped my jaw.	能帮我捡一下吗？我的下巴掉地上了。
 Speech_LivingQuarter_PickupLines_7	I just love spending time with you.	我就是喜欢和你待在一起。
@@ -14048,7 +14046,7 @@ Speech_Quest_Generic_Dweller_13	“It'll be fun!” they said. Yeah. “Fun.”	
 Speech_Quest_Generic_Dweller_14	I'm doing this for the experience, right?	我做这个是为了增长见识，对吧？
 Speech_Quest_Generic_Dweller_15	What I wouldn't give for a hot bath...	要能洗个热水澡，让我干什么都行……
 Speech_Quest_Generic_Dweller_16	Ow, my achin' feet.	嗷，我的脚好痛。
-Speech_Quest_Generic_Dweller_17	My body aches all over.	我的全身都疼。
+Speech_Quest_Generic_Dweller_17	My body aches all over.	我全身都疼。
 Speech_Quest_Generic_Dweller_18	I think I've had enough excitement for one day.	我觉得今天的刺激已经够多了。
 Speech_Quest_Generic_Dweller_19	Living out here doesn't seem bad. It seems HORRIBLE.	住在外面也不是糟糕——是恐怖。
 Speech_Quest_Generic_Dweller_2	I left the Vault for this?	我离开避难所就是为了这个？
@@ -14468,7 +14466,7 @@ Speech_SnipSnip_Bark3	My temporal sensors went out in the Great War. That must h
 Speech_SnipSnip_Bark4	Our finger inventory's in a sorry state.	我们的手指库存真是惨不忍睹。
 Speech_SnipSnip_Bark5	Now would you prefer a dressing of high quality synthetic fibers, classic cotton,  or a comforting synthetic-cotton blend?	你想要哪种绷带？优质合成纤维、经典全棉还是舒适的合成棉混纺？
 Speech_SnipSnip_Bark6	Where are you from again? Never been there myself. Hope to go someday soon.	你是从哪儿来的？我从未去过那里，希望有一天能去看看。
-Speech_SnipSnip_Bark7	Now, don't be afraid. A little snip-snip,  and it will all be over.	别害怕，小小地剪两下，一切就都结束了。
+Speech_SnipSnip_Bark7	Now, don't be afraid. A little snip-snip,  and it will all be over.	好了，别害怕。咔嚓咔嚓，小剪两下，一切就都结束了。
 Speech_SnipSnip_Bark8	I am ever-ready to serve.	我随时为你效劳。
 Speech_SnipSnip_Bark9	If you've got a clog that's full of muck, trust Abraxo to get it unstuck. It's VERY poisonous.	如果你的下水道堵满了污物，放心交给艾巴索疏通——记住，它毒性非常强！
 Speech_Success_Rush1	We maximized production! Great work!	我们把产量提到最高了！干得漂亮！
@@ -14493,7 +14491,7 @@ SpinToWin_Info_Heading	Earn tokens by:	赚取筹码的方式：
 SpinToWin_Title	Lucky Spin	幸运转盘
 SpinToWin_Title_Enclave	CAPITALIST SPIN	资本主义转盘
 SpinToWin_Title_Institute	SCIENCE SPIN	科学转盘
-Star_Event_Quest	LIMITED TIME	有限的时间
+Star_Event_Quest	LIMITED TIME	限时
 Star_Weekly_Quest	WEEKLY QUEST	每周任务
 StarterPack_Store	STARTER PACK	新手包
 Stats_Alien_Attacks_Stopped	Alien Attacks Stopped	外星人进攻已停止
@@ -14631,7 +14629,7 @@ Status_Danger	DANGER!	危险！
 Status_Done	DONE!	完成！
 Status_NoPower	NO POWER	没有电力
 Status_Wasteland_Dead	DEAD	死亡
-Status_Wasteland_Returned	WAITING	等待
+Status_Wasteland_Returned	WAITING	等待中
 Status_Wasteland_Returned_Ellipses	WAITING...	等待中……
 Steam_Overlay	To access the Store, please enable the Steam Overlay in the Fallout Shelter Steam properties.	想进入商城，请先在辐射避难所Steam资产所有里激活Steam覆盖。
 SuperRoom2_Upgrade_Info	Increases Endurance training speed	提高耐力训练速度
@@ -14677,7 +14675,7 @@ Theme_ShortName_Exterior	Exterior Theme	外观主题
 Theme_ShortName_Halloween	Halloween	万圣节
 Theme_ShortName_Institute	Institute	学院
 Theme_ShortName_LivingQuarters	Living Quarters Theme	居住区主题
-Theme_ShortName_Lucky38Penthouse	Lucky 38 Penthouse	幸运38号顶层
+Theme_ShortName_Lucky38Penthouse	Lucky 38 Penthouse	幸运38号顶层公寓
 Theme_ShortName_Minutemen	Minutemen	义勇军
 Theme_ShortName_NukaColaPlant	Nuka-Cola Plant Theme	核子可乐工厂主题
 Theme_ShortName_Railroad	Railroad	铁路
@@ -14714,7 +14712,7 @@ Title_Controls	CONTROLS	控制
 Title_Crate_Vault	CREATE VAULT	创建避难所
 Title_Credits	CREDITS	制作人员
 Title_DailyReport	DAILY REPORT	日常报告
-Title_DailyReportSmall	Daily Report	日常报告
+Title_DailyReportSmall	Daily Report	每日报告
 Title_Date	DATE	日期
 Title_DeleteVault	DELETE VAULT	删除避难所
 Title_Destroy	DESTROY	摧毁
@@ -14801,7 +14799,7 @@ Title_SeasonPass_Premium	PREMIUM PASS	高级通行证
 Title_SeasonTime	{0} DAYS {1} HOURS	{0}天 {1}小时
 Title_SeasonVaults	EXPERIMENTAL VAULTS	实验避难所
 Title_Settings	SETTINGS	设置
-Title_Shop	SHOP	店铺
+Title_Shop	SHOP	商店
 Title_ShopSmall	Shop	商店
 Title_Sound	SOUND	声音
 Title_SpecialStats	STATS	状态
@@ -14814,8 +14812,7 @@ Title_SurvivalGuideSmall	Survival Guide	生存指南
 Title_Time	TIME	时间
 Title_UltraciteToolTip	ULTRACITE DEPOSIT	超铀矿床
 Title_Unlock	UNLOCK	解锁
-Title_UnlockRoom	UNLOCK ROOM	"解锁
-房间"
+Title_UnlockRoom	UNLOCK ROOM	解锁房间
 Title_UnlocksQuestlLine	UNLOCKS QUESTLINE:	解锁任务线：
 Title_Upgrade	UPGRADE	升级
 Title_UpgradeTo	UPGRADE TO	升级到
@@ -14823,8 +14820,7 @@ Title_UpgradeToLevel	UPGRADE TO LEVEL {0}	升级到{0}级
 Title_Upgrading	UPGRADING	升级中……
 Title_Uploading	UPLOADING...	上传中……
 Title_Usage_Data_Toggle	Help us improve the app by sharing anonymous usage data.	分享匿名使用数据，帮助我们改进应用。
-Title_VaultList	VAULT LIST	"避难所
-列表"
+Title_VaultList	VAULT LIST	避难所列表
 Title_VaultRating	VAULT RATING	避难所评级
 Title_Vault_List	VAULT LIST	避难所列表
 Title_WatchSafetyVideo	GUARANTEED RUSH	必定加速
@@ -14847,7 +14843,7 @@ Tutorial_Tip_12	The Fitness Room will allow you to train a Dweller's Endurance.	
 Tutorial_Tip_13	The Lounge will allow you to train a Dweller's Charisma.	会客室可以让您训练一个居民的魅力（C）。
 Tutorial_Tip_14	The Classroom will allow you to train a Dweller's Intelligence.	教室可以让您训练一个居民的智力（I）。
 Tutorial_Tip_15	The Athletics Room will allow you to train a Dweller's Agility.	体操室可以让您训练居民的敏捷性（A）。
-Tutorial_Tip_16	Successfully Rushing will give you the room's regular rewards plus a special bonus!	成功地完成极速模式会带给你常规奖励加上特殊奖金！
+Tutorial_Tip_16	Successfully Rushing will give you the room's regular rewards plus a special bonus!	成功地完成极速模式会给你常规奖励加上特殊奖金！
 Tutorial_Tip_17	The Game Room will allow you to train a Dweller's Luck.	棋牌室可以让您训练一个居民的运气（L）。
 Tutorial_Tip_18	Build Storage Rooms to increase your Vault's Weapon and Outfit holding capacity.	建造储藏室以增加避难所储存武器和装备的容量。
 Tutorial_Tip_19	There are higher tier versions of the production rooms that are more efficient, but more expensive.	生产房间有高级版本，会更高效但更昂贵。
@@ -15027,7 +15023,7 @@ VictorDialog_Generic_14	Well, yes, there's Cram for dinner again. But this time 
 VictorDialog_Generic_15	She may be just a fancy hole in the earth, but this vault's home.	她也就是地底下挖的个豪华坑，但这避难所就是家。
 VictorDialog_Generic_16	Scrub, scrub, lather, rinse...	搓啊，搓啊，打满泡沫，冲干净……
 VictorDialog_Generic_17	I'll just mosey on over to where I'm needed next.	哪儿用得着我，我就慢悠悠晃到哪儿。
-VictorDialog_Generic_18	Someone call for ol' Vic?	有人叫我老维克吗？
+VictorDialog_Generic_18	Someone call for ol' Vic?	有人找老维克吗？
 VictorDialog_Generic_19	Don't be alarmed, but I get the feelin' that we're bein' watched.	别担心，但我总感觉有人在盯着咱们。
 VictorDialog_Generic_20	Toilets to scrub? Invaders to vaporize? I'm your man! Er, so to speak.	要刷厕所？要消灭入侵者？包在我身上！呃，打个比方说。
 VictorDialog_Generic_21	Well, hello there!	嘿，你好啊！
@@ -15661,7 +15657,7 @@ Weapon_Name_Shotgun_Enhanced	Enhanced Shotgun	增强型霰弹枪
 Weapon_Name_Shotgun_FarmersDaughter	Farmer's Daughter	“农夫女儿”霰弹枪
 Weapon_Name_Shotgun_Hardened	Hardened Shotgun	硬化型霰弹枪
 Weapon_Name_Shotgun_Rusty	Rusty Shotgun	生锈的霰弹枪
-Weapon_Name_SingleShotgun	Shotgun	猎枪
+Weapon_Name_SingleShotgun	Shotgun	霰弹枪
 Weapon_Name_SniperRifle	Sniper Rifle	狙击步枪
 Weapon_Name_SniperRifle_ArmorPiercing	Armor Piercing Sniper Rifle	穿甲狙击步枪
 Weapon_Name_SniperRifle_Enhanced	Enhanced Sniper Rifle	增强型狙击步枪
