@@ -583,7 +583,7 @@ Encounter_Intro_NPC3	Located {0}	发现了{0}
 Encounter_Intro_NPC4	Found {0}	发现{0}
 Encounter_Intro_NPC5	Discovered {0}	发现{0}
 Encounter_Intro_NPC6	Encountered {0}	遇到{0}
-Encounter_Journal_Message26	Explorer's journal. New entry. Fancy Lads snack cakes provide excellent sustenance.	探险家日志。新条目：俏男孩牌蛋糕提供了极好的营养。
+Encounter_Journal_Message26	Explorer's journal. New entry. Fancy Lads snack cakes provide excellent sustenance.	探险家日志。新条目：俏男孩夹心蛋糕提供了极好的营养。
 Encounter_Journal_Message27	Explorer's journal. New entry. Whoever chose the name “Deathclaw” wasn't kidding.	探险家日志。新条目：起了“死爪”这个名字的人可真不是在开玩笑。
 Encounter_Journal_Message28	Explorer's journal. New entry. Societal infrastructure is completely dismantled.	探险家日志。新条目：社会的基础设施早已彻底瓦解。
 Encounter_Journal_Message29	Explorer's journal. New entry. In the Wasteland, trust can get you killed. 	探险家日志。新条目：在废土上，轻信会害你送命。
@@ -3093,7 +3093,7 @@ MrHandyDialog_Athletics_01	I never did understand the concept of legs, or moving
 MrHandyDialog_Athletics_02	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
 MrHandyDialog_Bar_01	Anyone fancy a tipple?	有谁想来一杯吗？
 MrHandyDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……
-MrHandyDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？速食薯泥？人类竟然真吃这些垃圾？
+MrHandyDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？快餐薯泥？人类竟然真吃这些垃圾？
 MrHandyDialog_Cafeteria_02	Thank Heavens General Atomics International spared me from the threat of nausea. And obesity.	感谢通用原子国际让我免受恶心和肥胖的威胁。
 MrHandyDialog_Classroom_01	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
 MrHandyDialog_Classroom_02	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
@@ -3674,7 +3674,7 @@ Outfit_Description_PowerArmor_T60d	Renowned protection, favored by the Brotherho
 Outfit_Description_PowerArmor_T60f	Specially enhanced and vastly superior to most other armors.	特别加强过。比很多其他装甲都先进。
 Outfit_Description_PrestonSpecial	For those with honor, willing to help out at a minute's notice.	为那些有荣誉感的人们准备的，他们经常毫不犹豫出手相助。
 Outfit_Description_PrewarCowboy	A mite flashy for the actual range, but looks great on camera.	在真正的荒野上有点太花哨了，但在镜头前看起来很棒。
-Outfit_Description_PrinceSpecial	Snack cakes aren't the only fancy lads in town.	俏男孩蛋糕可不是镇上唯一的俏男孩。
+Outfit_Description_PrinceSpecial	Snack cakes aren't the only fancy lads in town.	俏男孩夹心蛋糕可不是镇上唯一的俏男孩。
 Outfit_Description_ProfessorSpecial	Sometimes, just sometimes, brain really is better than brawn.	有时候，只是有时候，脑子真的比肌肉强。
 Outfit_Description_RadiationSuit	Designed to protect its wearer from radiation.	被设计用来保护穿戴者免受辐射伤害。
 Outfit_Description_RadiationSuit_Advanced	Ever want to give a Glowing One a hug? Now's your chance.	是不是想过要给发光种一个拥抱呀？现在你的机会来了。
@@ -6972,8 +6972,8 @@ QuestLoc_GameShowGauntletH_Conversation_1_NPCEnd_2	Not a geography buff, eh? Wel
 QuestLoc_GameShowGauntletH_Conversation_1_NPCEnd_3	Is that wrong? Someone look it up. Yes, it's wrong. So... Lose Your Head!	那个错了吗？来个人查一下。是的，你错了。所以……“掉脑袋”吧！
 QuestLoc_GameShowGauntletH_Conversation_1_NPCEnd_4	No idea where that is, and shortly you'll... Lose Your Head!	不知道你说的啥，总之你马上就会……“掉脑袋”了！
 QuestLoc_GameShowGauntletH_Conversation_1_NPCStart_4	The Children of Atom make their home in what region of the Commonwealth?	原子之子把联邦的哪个区域作为了他们的家？
-QuestLoc_GameShowGauntletH_Conversation_1_Team_1	The Glowing Sea.	绿光之海。
-QuestLoc_GameShowGauntletH_Conversation_1_Team_2	The Glowing Lands.	绿光大地。
+QuestLoc_GameShowGauntletH_Conversation_1_Team_1	The Glowing Sea.	发光海。
+QuestLoc_GameShowGauntletH_Conversation_1_Team_2	The Glowing Lands.	发光之地。
 QuestLoc_GameShowGauntletH_Conversation_1_Team_3	The Sea of Atom.	原子之海。
 QuestLoc_GameShowGauntletH_Conversation_1_Team_4	A nice two-bedroom in Waltham.	沃尔瑟姆的一个两床居室。
 QuestLoc_GameShowGauntletH_Conversation_2_NPCEnd_1	You must be cheating. That's right.	你一定作弊了。居然回答正确。
@@ -7002,7 +7002,7 @@ QuestLoc_GameShowGauntletH_Conversation_4_NPCEnd_3	Good guess, but wrong. Now I 
 QuestLoc_GameShowGauntletH_Conversation_4_NPCEnd_4	Don't talk about my mother! It will be fun to watch you... Lose Your Head!	不许谈论我妈！看你“掉脑袋”一定很有意思！
 QuestLoc_GameShowGauntletH_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletH_Conversation_4_NPCStart_2	Where was Kellogg's headquarters?	克罗格的总部在哪里？
-QuestLoc_GameShowGauntletH_Conversation_4_Team_1	Fort Hagen.	哈根堡。
+QuestLoc_GameShowGauntletH_Conversation_4_Team_1	Fort Hagen.	黑根堡。
 QuestLoc_GameShowGauntletH_Conversation_4_Team_2	Fort Lynn.	林恩堡。
 QuestLoc_GameShowGauntletH_Conversation_4_Team_3	Fort Strong.	史特朗堡。
 QuestLoc_GameShowGauntletH_Conversation_4_Team_4	In yo' mamma's house.	在你妈家里。
@@ -7261,7 +7261,7 @@ QuestLoc_GobbleGobbler_Conversation_1_NPCEnd_2	Really? A Vault? That's perfect! 
 QuestLoc_GobbleGobbler_Conversation_1_NPCEnd_3	Maybe this will help?	也许这个能帮助你们？
 QuestLoc_GobbleGobbler_Conversation_1_NPCStart_1	We were attacked by the Gobbler! I'm the only one left...	我们被高步勒袭击了！我是唯一一个幸存的……
 QuestLoc_GobbleGobbler_Conversation_1_NPCStart_2	But don't ask me what it looked like. I was hiding in a closet!	但是别问我它长什么样子。我当时躲在一个衣柜里！
-QuestLoc_GobbleGobbler_Conversation_1_NPCStart_3	But it leaves behind a trail of Fancy Lads Snack Cakes...	但它走过的地方留下一串俏男孩蛋糕的痕迹……
+QuestLoc_GobbleGobbler_Conversation_1_NPCStart_3	But it leaves behind a trail of Fancy Lads Snack Cakes...	但它走过的地方留下一串俏男孩夹心蛋糕的痕迹……
 QuestLoc_GobbleGobbler_Conversation_1_NPCStart_4	Just follow that delightful deliciousness!	只要顺着那些美味的痕迹就行了！
 QuestLoc_GobbleGobbler_Conversation_1_Team_1	If the Gobbler is that vicious, we need any weapon you can spare.	如果高步勒真的那么厉害，我们需要你们多余的武器。
 QuestLoc_GobbleGobbler_Conversation_1_Team_2	You need a home. Why not come to our Vault?	你需要一个家，为什么不到我们的避难所来呢？
@@ -8427,14 +8427,14 @@ QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line2	When's the last time you did a 
 QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line3	If you did, you'd realize the Institute is far more clever than you are.	要是做了，你就会明白学院比你聪明得多。
 QuestLoc_INS_QL3_Betrayal_4_CombatInit2	There they are! Get them!	他们在那儿！抓住他们！
 QuestLoc_INS_QL3_Betrayal_4_CombatInit5	No one makes a fool of the Brotherhood!	没人能耍弄兄弟会！
-QuestLoc_INS_QL3_Betrayal_4_QuestLongDesc	The Brotherhood did us dirty. Now it's time for some real payback. We've lured Elder Maxson and his entourage into a trap, ready for you to spring.	兄弟会坑了我们。现在该好好回敬他们了。我们已经把马克森长老和他的随从引入陷阱，就等你们来收网了。
+QuestLoc_INS_QL3_Betrayal_4_QuestLongDesc	The Brotherhood did us dirty. Now it's time for some real payback. We've lured Elder Maxson and his entourage into a trap, ready for you to spring.	兄弟会坑了我们。现在该好好回敬他们了。我们已经把麦克森长老和他的随从引入陷阱，就等你们来收网了。
 QuestLoc_INS_QL3_Betrayal_4_QuestName	Steelhead Fishing	钓钢鳟
-QuestLoc_INS_QL3_Betrayal_4_QuestObjective1	Find Arthur Maxson	找到亚瑟·马克森
-QuestLoc_INS_QL3_Betrayal_4_QuestShortDesc	Deal with Elder Maxson, who fell into our trap.	对付落入我们陷阱的马克森长老。
+QuestLoc_INS_QL3_Betrayal_4_QuestObjective1	Find Arthur Maxson	找到亚瑟·麦克森
+QuestLoc_INS_QL3_Betrayal_4_QuestShortDesc	Deal with Elder Maxson, who fell into our trap.	对付落入我们陷阱的麦克森长老。
 QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line1	Hey, we did it!	嘿，我们做到了！
 QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line2	Feels like every time there's a trap, we're the ones walking into it.	感觉每次设陷阱，走进去的都是我们自己。
 QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line3	But now, the Brotherhood is in OUR trap.	但现在，是兄弟会进了我们的陷阱。
-QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line4	What a time to be alive. Let's show Maxson what we're made of.	这年头可真是好时节。让马克森见识见识我们的本事。
+QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line4	What a time to be alive. Let's show Maxson what we're made of.	这年头可真是好时节。让麦克森见识见识我们的本事。
 QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1	Vault Dwellers? Are you with the Synths that were supposed to be in the building?	避难所居民？你们跟那些本该在这栋楼里的合成人是一伙的？
 QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1_Answer0	Augh! We've been duped!	啊！我们被骗了！
 QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1_Choice0	There are no Synths, fool. This is a trap!	哪有什么合成人，蠢货。这是个陷阱！
@@ -13212,7 +13212,7 @@ SnipSnipDialog_Athletics_01	I never did understand the concept of legs, or movin
 SnipSnipDialog_Athletics_02	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
 SnipSnipDialog_Bar_01	Anyone fancy a tipple?	有谁想来一杯吗？
 SnipSnipDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……
-SnipSnipDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？速食薯泥？人类竟然真吃这些垃圾？
+SnipSnipDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？快餐薯泥？人类竟然真吃这些垃圾？
 SnipSnipDialog_Cafeteria_02	Thank Heavens General Atomics International spared me from the threat of nausea. And obesity.	感谢通用原子国际让我免受恶心和肥胖的威胁。
 SnipSnipDialog_Classroom_01	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
 SnipSnipDialog_Classroom_02	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
@@ -13540,7 +13540,7 @@ Speech_Conversation_NPC2_Topic23_Response1	You can say that again.	可不是嘛�
 Speech_Conversation_NPC2_Topic23_Response2	Tell me about it. Life in the Vault, huh?	可不是么。在避难所里的日子，你懂的。
 Speech_Conversation_NPC2_Topic23_Response3	Right? But I wouldn't trade it for anything.	对吧？不过给我什么都不换。
 Speech_Conversation_NPC2_Topic24_Response1	Probably just something quick. Maybe a bowl of Sugar Bombs.	大概来点什么马上能吃的吧。也许一碗糖衣炸弹麦片。
-Speech_Conversation_NPC2_Topic24_Response2	Oh, I could eat Fancy Lads Snack Cakes for any meal. In fact, I usually do.	哦，我可以顿顿吃俏男孩蛋糕。其实我经常这样。
+Speech_Conversation_NPC2_Topic24_Response2	Oh, I could eat Fancy Lads Snack Cakes for any meal. In fact, I usually do.	哦，我可以顿顿吃俏男孩夹心蛋糕。其实我经常这样。
 Speech_Conversation_NPC2_Topic24_Response3	Same thing I have for dinner every night - a can of Pork 'n Beans and an ice cold Nuka-Cola.	每晚的晚餐都是老一套——一罐猪肉豆子，加一瓶冰镇核子可乐。
 Speech_Conversation_NPC2_Topic25_Response1	Checkers? What are we, ten years old? We'll play chess.	跳棋？我们才十岁吗？我们还是下象棋吧。
 Speech_Conversation_NPC2_Topic25_Response2	Sure! That sounds like fun!	跳棋不错啊！听起来很有趣！
@@ -15241,7 +15241,7 @@ Weapon_Description_GrognaksAxe	"As seen in Grognak the Barbarian #23 ""In the La
 Weapon_Description_HardenedT60Pistol	A reinforced beast with a reinforced bite.	加固的猛兽，更强的威力。
 Weapon_Description_HardenedTranqPistol	A rugged piece for the peaceful at heart.	坚固耐用，适合心地善良的人。
 Weapon_Description_HuntingRifle	Great for taking down game - human or animal alike.	非常适合参与放倒人类或动物之类的游戏。
-Weapon_Description_HuntingRifle_ArmorPiercing	Most people don't hunt Sentry Bots. You're not most people.	大多数人不会猎捕哨兵机器人。但你不是大多数人。
+Weapon_Description_HuntingRifle_ArmorPiercing	Most people don't hunt Sentry Bots. You're not most people.	大多数人不会猎捕铁卫兵。但你不是大多数人。
 Weapon_Description_HuntingRifle_Enhanced	Want a new Yao Guai wardrobe? This is the rifle for you.	想要一个新妖怪熊皮衣柜？用这把枪。
 Weapon_Description_HuntingRifle_Hardened	Once, you were the hunted. With this weapon, those days are gone.	曾经，你被四处追杀。有了这个，那些日子就是过去时了。
 Weapon_Description_HuntingRifle_OlPainless	Can put your horse, or a Deathclaw, out of its misery in a second.	可以让你的马，或死爪，一秒内摆脱痛苦。
