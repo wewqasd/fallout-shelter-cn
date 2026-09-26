@@ -22,16 +22,18 @@ def main():
         return 2
     bundle, table = sys.argv[1], sys.argv[2]
     env = UnityPy.load(bundle)
+    # 与 patcher 同款定位：按锚点优先级，取命中锚点的最大 MonoBehaviour
     raw = anchor = None
-    for o in env.objects:
-        if o.type.name != "MonoBehaviour":
-            continue
-        r = o.get_raw_data()
-        for a in patcher.ANCHORS:
-            if a in r:
-                raw, anchor = r, a
-                break
-        if raw is not None:
+    for a in patcher.ANCHORS:
+        best = None
+        for o in env.objects:
+            if o.type.name != "MonoBehaviour":
+                continue
+            r = o.get_raw_data()
+            if a in r and (best is None or len(r) > len(best)):
+                best = r
+        if best is not None:
+            raw, anchor = best, a
             break
     if raw is None:
         print("!! 未找到 I2 LanguageSource（锚点全部缺失）")
@@ -39,8 +41,9 @@ def main():
     terms, _last, LC, _first = patcher.parse_terms(raw, anchor)
     cn = json.load(open(table, encoding="utf-8"))
     vals = {t[0].decode("ascii"): t[2] for t in terms}
-    missing = [k for k in cn if k not in vals]
-    wrong = [k for k, zh in cn.items() if k in vals and not any(v == zh for v in vals[k])]
+    # 空值条目（表内故意留空 = 保留原文）不参与核对
+    missing = [k for k in cn if cn[k] and k not in vals]
+    wrong = [k for k, zh in cn.items() if zh and k in vals and not any(v == zh for v in vals[k])]
     print(f"锚点={anchor.decode() if isinstance(anchor, bytes) else anchor} "
           f"terms={len(terms)} LC={LC} 表={len(cn)} 缺失={len(missing)} 不一致={len(wrong)}")
     for s in ("定居者", "奶油小马", "战斗装甲", "每日任务", "保护者机器人", "领头死爪"):
