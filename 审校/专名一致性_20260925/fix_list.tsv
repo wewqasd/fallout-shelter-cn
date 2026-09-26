@@ -1,0 +1,52 @@
+编号	状态	EN专名	标准写法	异译	key	当前中文	建议中文	处理方式
+1	待审	Alpha Deathclaw	领头死爪	阿尔法死爪	QuestLoc_NVB_QL3_Stripper_4_QuestObjective1	击败阿尔法死爪	击败领头死爪	auto
+1	待审	Alpha Deathclaw	领头死爪	阿尔法死爪	QuestLoc_NVB_QL3_Stripper_4_QuestShortDesc	我们已经困住了阿尔法死爪。是时候终结这个威胁了。	我们已经困住了领头死爪。是时候终结这个威胁了。	auto
+1	待审	Alpha Deathclaw	领头死爪	首领死爪	QuestLoc_DeathclawDeeLite_1_QuestObjective1	消灭首领死爪。	消灭领头死爪。	auto
+1	待审	Alpha Deathclaw	领头死爪	死爪头领	QuestLoc_HighSteaks_QuestObjective_1	杀死死爪头领，取得它的肉。	杀死领头死爪，取得它的肉。	auto
+2	待审	Protectron	保护者	保护者机器人	Protectron_Name	保护者机器人	保护者	auto
+2	待审	Protectron	保护者	保护者机器人	Protectron_Name_Plural	保护者机器人	保护者	auto
+2	待审	Protectron	保护者	保护者机器人	QuestLoc_INS_QL1_MajorPlayers_3_Room4_Question_Line1_Choice2	<黑入保护者机器人>	<黑入保护者>	auto
+2	待审	Protectron	保护者	保护者机器人	VictorDialog_Wasteland_42	瞧这可怜的保护者机器人，零件散了一地。也许不是罗伯科最精良的工艺。	瞧这可怜的保护者，零件散了一地。也许不是罗伯科最精良的工艺。	auto
+3	待审	Feral Ghoul	狂尸鬼	尸鬼攻击	Objective_SurviveGhoulNoCasualties	在没有人员伤亡的情况下撑过了{0}次尸鬼攻击	在没有人员伤亡的情况下撑过了{0}次狂尸鬼攻击	auto
+3	待审	Feral Ghoul	狂尸鬼	尸鬼攻击	Objective_SurviveGhoulNoCasualties_Plural	在没有人员伤亡的情况下撑过了{0}次尸鬼攻击	在没有人员伤亡的情况下撑过了{0}次狂尸鬼攻击	auto
+4	待审	Radroach	辐射蟑螂	辐射小强	Objective_KillRadroaches	消灭1只辐射小强	消灭1只辐射蟑螂	auto
+4	待审	Radroach	辐射蟑螂	辐射小强	Objective_KillRadroaches_Plural	消灭{0}只辐射小强	消灭{0}只辐射蟑螂	auto
+5	待审	Athletics Room	体操房	运动室	Room_Dojo	运动室	体操房	auto
+5	待审	Athletics Room	体操房	体操室	Tutorial_Tip_15	体操室可以让您训练居民的敏捷性（A）。	体操房可以让您训练居民的敏捷性（A）。	auto
+6	待审	Boss	首领	头目	QuestLoc_INS_QL1_MajorPlayers_1_CombatInit8	那肯定是个头目。准备好你的消辐宁！	那肯定是个首领。准备好你的消辐宁！	auto
+7	待审	Perception	观察力	感知	QuestLoc_ENC_QL2_Defective_3_Room5_Question_Line2	<凭借你的感知，你发现后面有一扇隐藏的门。>	<凭借你的观察力，你发现后面有一扇隐藏的门。>	auto
+8	待审	Luck	运气	幸运值	Message_TutorialPopup_16_Body	幸运值（L）高的居民所处的房间更容易在极速模式上成功并且在生产结束时获得更多的瓶盖奖励。	运气值（L）高的居民所处的房间更容易在极速模式上成功并且在生产结束时获得更多的瓶盖奖励。	auto
+9	待审	Stimpak+RadAway	治疗针/消辐宁	治疗用品	Message_TutorialPopup_15_Body	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗用品。	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。	manual
+9	待审	Stimpak+RadAway	治疗针/消辐宁	治疗用品	Message_TutorialPopup_15_Body_PC	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗用品。	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。	manual
+9	待审	Stimpak+RadAway	治疗针/消辐宁	治疗用品	Message_TutorialPopup_15_Body_Xbox	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗用品。	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。	manual
+10	待审	Nuka-Cola Quantum	量子核子可乐	你的可乐	QuestLoc_OneGhoulCustomer_Conversation_1_Team_2	这位女士你真的疯了。它们是冲你来的，不是你的可乐。	这位女士你真的疯了。它们是冲你来的，不是你的量子核子可乐。	auto
+10	待审	Nuka-Cola Quantum	量子核子可乐	那些可乐	QuestLoc_OneGhoulCustomer_Conversation_1_Team_3	也许我该拿着那些可乐，这样你就安全了。	也许我该拿着那些量子核子可乐，这样你就安全了。	auto
+11	待审	Caps	瓶盖	花钱玩游戏	QuestLoc_TheDeBuggers_Conversation_2_NPCEnd_2	听起来很疯狂，有些人会花钱玩游戏。	听起来很疯狂，有些人会花瓶盖玩游戏。	auto
+12	待审	Giddyup Buttercup	骑乘小马	玩具马	Junk_Name_GiddyupButtercup	玩具马	骑乘小马	auto
+13	待审	Legendary	传奇级	传说级	Weapon_Name_Rifle_Legendary	传说级步枪	传奇级步枪	auto
+14	待审	Nuka-Cola Bottler	核子可乐装瓶室	核子可乐装瓶厂	Shop_SeasonPass_NewVegasA_Blurb	"解锁所有赛季奖励：
+- 全新避难所外观[-][F7C531]主题[-]
+- 全新核子可乐装瓶厂[-][F7C531]主题[-]
+- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]"	"解锁所有赛季奖励：
+- 全新避难所外观[-][F7C531]主题[-]
+- 全新核子可乐装瓶室[-][F7C531]主题[-]
+- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]"	auto
+15	待审	Diner	餐厅	食堂	QuestLoc_GameShowGauntletH_Conversation_3_Team_2	剑桥校园食堂。	剑桥校园餐厅。	auto
+16	待审	Decorations	装饰品	普通装饰	Stats_Common_Decorations	普通装饰	普通装饰品	auto
+17	待审	Mr. Handy	巧手先生	巧手先生机器人	QuestLoc_CollectorsEdition_Conversation_1_Team_1	这样不好吧。巧手先生机器人在烹饪方面很糟糕。	这样不好吧。巧手先生在烹饪方面很糟糕。	auto
+18	待审	Wasteland	废土	荒地	QuestLoc_HumansLikeUs_QuestLongDescription	有好几份报告说，在离这里不远的荒地上有奇怪的光在盘旋。灯光聚集在一个废弃的旧矿井上。我们需要在外星人入侵的谣言开始传播之前进行调查！	有好几份报告说，在离这里不远的废土上有奇怪的光在盘旋。灯光聚集在一个废弃的旧矿井上。我们需要在外星人入侵的谣言开始传播之前进行调查！	auto
+19	待审	Agility	敏捷	敏捷性	Stats_Average_Agility	居民平均敏捷性	居民平均敏捷	auto
+20	待审	Alien	外星	异形	QuestLoc_WaroftheNerds_Conversation_2_Team_3	你戴的是……异形耳朵？	你戴的是……外星耳朵？	auto
+20	待审	Alien	外星	异形	Weapon_Name_AlienBlaster	异形破坏者	外星破坏者	auto
+20	待审	Alien	外星	异形	Weapon_Name_AlienBlaster_Amplified	放大型异形破坏者	放大型外星破坏者	auto
+20	待审	Alien	外星	异形	Weapon_Name_AlienBlaster_Focused	聚焦型异形破坏者	聚焦型外星破坏者	auto
+20	待审	Alien	外星	异形	Weapon_Name_AlienBlaster_Rusty	生锈的异形破坏者	生锈的外星破坏者	auto
+20	待审	Alien	外星	异形	Weapon_Name_AlienBlaster_Tuned	调试型异形破坏者	调试型外星破坏者	auto
+21	待审	Combat Armor	战斗装甲	格斗护甲	Outfit_Name_CombatArmor	格斗护甲	战斗装甲	auto
+21	待审	Combat Armor	战斗装甲	格斗护甲	Outfit_Name_CombatArmor_Heavy	重型格斗护甲	重型战斗装甲	auto
+21	待审	Combat Armor	战斗装甲	格斗护甲	Outfit_Name_CombatArmor_Sturdy	坚固格斗护甲	坚固战斗装甲	auto
+22	待审	Daily Quest	每日任务	日常任务	QuestList_DailyQuest	日常任务	每日任务	auto
+23	待审	Baby(UI层)	婴儿	宝贝	Baby_NewBabyArrived	请给新出生的宝贝起个名字！	请给新出生的婴儿起个名字！	auto
+23	待审	Baby(UI层)	婴儿	宝贝	Message_DwellerBorn	新的宝贝	新的婴儿	auto
+26	待审	Ultracite Factory/Plant（映射反了）	FACTORY=车间/PLANT=工厂	辐射极琉矿武器	Room_UltraciteWeaponFactory_2	辐射极琉矿武器工厂	(改档位映射：_2→车间, _3→工厂)	manual
+26	待审	Ultracite Factory/Plant（映射反了）	FACTORY=车间/PLANT=工厂	辐射极琉矿武器	Room_UltraciteWeaponFactory_3	辐射极琉矿武器车间	(改档位映射：_2→车间, _3→工厂)	manual

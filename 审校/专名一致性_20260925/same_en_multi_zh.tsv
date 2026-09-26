@@ -1,0 +1,146 @@
+EN	译法数	key	中文
+	17	Message_TutorialPopup_10_Hint	点击武器或装备即可给居民穿戴上。
+	17	Message_TutorialPopup_10_Title	穿戴物品
+	17	Message_TutorialPopup_11_Hint	居民在完成生产周期或击败敌人时会获得经验值。点击居民头顶的升级图标即可提升其等级！
+	17	Message_TutorialPopup_11_Title	居民升级
+	17	Message_TutorialPopup_12_Hint	点击避难所大门，然后点击齿轮图标，即可将居民派往废土探险！
+	17	Message_TutorialPopup_12_Title	废土探险
+	17	Message_TutorialPopup_13_Hint	废土探险者会找到瓶盖、武器、装备和杂物。点击外出的居民并选择“召回”让他们带着战利品回家！
+	17	Message_TutorialPopup_13_Title	召回探险者
+	17	Message_TutorialPopup_14_Hint	房间着火或遭到入侵时，派遣健康的居民前往该房间进行灭火或抵御袭击！
+	17	Message_TutorialPopup_14_Title	灾害处理
+	17	Message_TutorialPopup_15_Hint	在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！
+	17	Message_TutorialPopup_15_Title	医疗补给
+	17	Message_TutorialPopup_16_Hint	建造广播站可以向废土发送信号，吸引新的居民前来避难所！
+	17	Message_TutorialPopup_16_Title	广播招募
+	17	Message_TutorialPopup_20_Hint	给居民分配符合其最高属性的房间，可以大幅提高生产效率！
+	17	Message_TutorialPopup_27_Hint_Xbox	按住控制器上的对应按键即可快速调出避难所管理菜单。
+	17	MrHandyDialog_StorageRoom_01	
+	17	MrHandyDialog_StorageRoom_02	
+	17	SnipSnipDialog_StorageRoom_01	
+	17	SnipSnipDialog_StorageRoom_02	
+	17	Speech_Happiness_InteractingLove1	
+	17	Speech_Room_SomeoneHappy1	
+"Quests allow you to explore new locations, meet new Dwellers and collect loot.
+
+Build the Overseer's Office room to send teams of Dwellers from your Vault on Quests.
+
+To access the Quest List, press [DU] in the Overseer's Office or select the map icon from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. 
+
+On Quests, explore the location by selecting the room you want Dwellers to travel to.
+
+Dwellers in combat fight automatically, but you can command a selected Dweller attack a specific enemy by holding [A] to make a target appear and then selecting an enemy.
+
+As your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking.
+
+With a Dweller selected, use the Left Stick to select the checkmark, then hold [A] to unleash a deadly Critical Hit attack.
+
+Press [A] to stop the moving arrows that appear; the closer the arrows are to the center of the reticle, the higher the damage multiplier for your Critical Hit attack. 
+
+The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.
+
+You can see the mandatory and optional Quest objectives by pressing [Y].
+
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	2	Help_Page26_MainText_PS4	"任务允许您探索新的地点，遇见新的居民和收集战利品。
+
+建造监督者办公室，从您的避难所里派出一队居民去完成任务。
+
+要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。
+
+在任务中，通过选择您希望居民前往的房间来探索地点。
+
+居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。
+
+当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。
+
+当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。
+
+按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。
+
+居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
+
+按可以查看主线和支线任务目标。
+
+当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
+"Quests allow you to explore new locations, meet new Dwellers and collect loot.
+
+Build the Overseer's Office room to send teams of Dwellers from your Vault on Quests.
+
+To access the Quest List, press [DU] in the Overseer's Office or select the map icon from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. 
+
+On Quests, explore the location by selecting the room you want Dwellers to travel to.
+
+Dwellers in combat fight automatically, but you can command a selected Dweller attack a specific enemy by holding [A] to make a target appear and then selecting an enemy.
+
+As your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking.
+
+With a Dweller selected, use the Left Stick to select the checkmark, then hold [A] to unleash a deadly Critical Hit attack.
+
+Press [A] to stop the moving arrows that appear; the closer the arrows are to the center of the reticle, the higher the damage multiplier for your Critical Hit attack. 
+
+The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.
+
+You can see the mandatory and optional Quest objectives by pressing [Y].
+
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	2	Help_Page26_MainText_Switch	"任务允许您探索新的地点，遇见新的居民和收集战利品。
+
+建造监督者办公室，从您的避难所里派出一队居民去完成任务。
+
+要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。
+
+在任务中，通过选择您希望居民前往的房间来探索地点。
+
+居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。
+
+当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。
+
+当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。
+
+按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。
+
+居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
+
+按可以查看主线和支线任务目标。
+
+当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
+"Quests allow you to explore new locations, meet new Dwellers and collect loot.
+
+Build the Overseer's Office room to send teams of Dwellers from your Vault on Quests.
+
+To access the Quest List, press [DU] in the Overseer's Office or select the map icon from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. 
+
+On Quests, explore the location by selecting the room you want Dwellers to travel to.
+
+Dwellers in combat fight automatically, but you can command a selected Dweller attack a specific enemy by holding [A] to make a target appear and then selecting an enemy.
+
+As your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking.
+
+With a Dweller selected, use the Left Stick to select the checkmark, then hold [A] to unleash a deadly Critical Hit attack.
+
+Press [A] to stop the moving arrows that appear; the closer the arrows are to the center of the reticle, the higher the damage multiplier for your Critical Hit attack. 
+
+The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.
+
+You can see the mandatory and optional Quest objectives by pressing [Y].
+
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	2	Help_Page26_MainText_Xbox	"任务能让您探索新的地点，遇见新的居民和收集战利品。
+
+建造监督者办公室来派遣居民小队去完成任务。
+
+按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。
+
+在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。
+
+居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以按住使目标出现，然后选择敌人。
+
+居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。
+
+当选中一个居民时，用左摇杆选择勾形图标，按住来释放一次致命暴击。
+
+当箭头出现在十字线的中心时，按下来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。
+
+居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。
+
+按下来查看必须和选择性完成的任务目标。
+
+当您结束探险时，可以从任务目标里让任务小队返回避难所。"

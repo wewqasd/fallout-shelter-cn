@@ -1,0 +1,18 @@
+translations.json : 14064 键
+translations.tsv  : 14064 键（重复键 0）
+en_zh_pairs.tsv   : 14064 键（表头 ['key', 'EN', '中文']，重复键 0）
+
+===== translations.json  vs  translations.tsv
+  条目数: 14064 vs 14064
+  仅 translations.json 有: 0  仅 translations.tsv 有: 0
+  同键不同值: 0
+
+===== translations.json  vs  en_zh_pairs.tsv(中文列)
+  条目数: 14064 vs 14064
+  仅 translations.json 有: 0  仅 en_zh_pairs.tsv(中文列) 有: 0
+  同键不同值: 0
+
+===== en_zh_pairs.tsv(EN列)  vs  i2_dump.json[0]
+  条目数: 14064 vs 14064
+  仅 en_zh_pairs.tsv(EN列) 有: 0  仅 i2_dump.json[0] 有: 0
+  同键不同值: 0
