@@ -1,5 +1,9 @@
 name: Build EXE
 
+# 上传 Release 资产需要写权限
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:        # 手动触发（Actions 页点 Run workflow）
   release:

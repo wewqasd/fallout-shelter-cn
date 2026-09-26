@@ -3,6 +3,10 @@ name: Build Bundle
 # 云端重建汉化 data.unity3d（本地 481MB 包 + UnityPy 需数 GB 内存，故放 CI）。
 # 源包默认取当前 Release 的 data.unity3d（已是汉化版，重新打一遍即得新译文），
 # 也可传入原版包 URL —— 二者产物结构一致（patcher 会把全部语言槽写成中文）。
+# 上传 Release 资产需要写权限（workflow_dispatch 的 GITHUB_TOKEN 默认只读 → 会 403）
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
     inputs:
