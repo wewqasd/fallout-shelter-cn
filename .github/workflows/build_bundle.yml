@@ -1,0 +1,76 @@
+name: Build Bundle
+
+# 云端重建汉化 data.unity3d（本地 481MB 包 + UnityPy 需数 GB 内存，故放 CI）。
+# 源包默认取当前 Release 的 data.unity3d（已是汉化版，重新打一遍即得新译文），
+# 也可传入原版包 URL —— 二者产物结构一致（patcher 会把全部语言槽写成中文）。
+on:
+  workflow_dispatch:
+    inputs:
+      src_url:
+        description: 源 data.unity3d 下载地址
+        required: true
+        default: https://github.com/wewqasd/fallout-shelter-cn/releases/download/v1.0/data.unity3d
+      tag:
+        description: 上传到哪个 Release（留空则只产出 artifact）
+        required: false
+        default: v1.0
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip unitypy==1.25.3
+
+      - name: Download source bundle
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path src_bundle | Out-Null
+          Invoke-WebRequest -Uri "${{ inputs.src_url }}" -OutFile src_bundle\data.unity3d
+          Get-Item src_bundle\data.unity3d | Select-Object Length
+          (Get-FileHash src_bundle\data.unity3d -Algorithm MD5).Hash
+
+      - name: Patch bundle
+        shell: pwsh
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          chcp 65001 > $null
+          python -c "import sys; sys.path.insert(0,'src'); from fs_cn import patcher, resources; cn,font=resources.load_default_resources(); r=patcher.patch_bundle(src='src_bundle/data.unity3d', out='build/data.unity3d', translations=cn, font_bytes=font, packer='lz4', progress=print); print('RESULT', r); assert r['ok']"
+
+      - name: Verify written table
+        shell: pwsh
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          chcp 65001 > $null
+          python tools\verify_bundle.py build\data.unity3d data\translations.json
+
+      - name: Checksum
+        shell: pwsh
+        run: |
+          Get-Item build\data.unity3d | Select-Object Length
+          (Get-FileHash build\data.unity3d -Algorithm MD5).Hash
+
+      - name: Upload bundle to Release
+        if: inputs.tag != ''
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release upload ${{ inputs.tag }} build\data.unity3d --clobber
+
+      - name: Upload bundle as artifact
+        if: inputs.tag == ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: data.unity3d
+          path: build/data.unity3d
+          if-no-files-found: error
