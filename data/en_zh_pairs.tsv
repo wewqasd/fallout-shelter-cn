@@ -6652,7 +6652,7 @@ QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_4	What? Are you an idiot? Time 
 QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_1	Welcome to Lose Your Head!	欢迎来到“掉脑袋”的世界！
 QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_2	Answer the questions correctly and win Caps.	请正确回答问题来赢取瓶盖。
 QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_3	Answer them wrong and... Lose Your Head!	如果你回答错了，你就会……“掉脑袋”！
-QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_4	Who was the insane leader of the Republic of Dave?	请问，谁是戴维共和国的疯狂领袖？
+QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_4	Who was the insane leader of the Republic of Dave?	请问，谁是戴夫共和国的疯狂领袖？
 QuestLoc_GameShowGauntletA_Conversation_1_Team_1	Uh... Dave?	呃……戴维？
 QuestLoc_GameShowGauntletA_Conversation_1_Team_2	I'm going to say Dave.	我想是戴维。
 QuestLoc_GameShowGauntletA_Conversation_1_Team_3	Sure hope it's Dave.	当然希望是戴维。
@@ -6902,7 +6902,7 @@ QuestLoc_GameShowGauntletF_Conversation_3_NPCEnd_2	Wrong president. But you get 
 QuestLoc_GameShowGauntletF_Conversation_3_NPCEnd_3	It could sure use it, but no. Now you have to... Lose Your Head!	确实可以用，但并不是正确答案。还是准备好……“掉脑袋”吧！
 QuestLoc_GameShowGauntletF_Conversation_3_NPCEnd_4	Wow. That's a horrible answer. You get to... Lose Your Head!	哇。真是个差劲的回答。准备……“掉脑袋”吧！
 QuestLoc_GameShowGauntletF_Conversation_3_NPCStart_1	Time for round 3 of... Lose Your Head!	现在进入“掉脑袋”的第三回合！
-QuestLoc_GameShowGauntletF_Conversation_3_NPCStart_2	What monument did Hannibal Hamlin want to restore?	汉尼拔哈姆林想要修复的是哪座纪念碑？
+QuestLoc_GameShowGauntletF_Conversation_3_NPCStart_2	What monument did Hannibal Hamlin want to restore?	汉尼拔·哈姆林想要修复的是哪座纪念碑？
 QuestLoc_GameShowGauntletF_Conversation_3_Team_1	Lincoln Memorial.	林肯纪念碑。
 QuestLoc_GameShowGauntletF_Conversation_3_Team_2	Jefferson Memorial.	杰弗逊纪念碑。
 QuestLoc_GameShowGauntletF_Conversation_3_Team_3	Washington Monument.	华盛顿纪念碑。
@@ -12503,22 +12503,22 @@ QuestLoc_WeaponsRun_QuestShortDescription	Recover the Weapons.	找回武器。
 QuestLoc_WeddingCrashers_Conversation_1_NPCEnd_1	Great! Oh by the way, no one else is expecting you here, so you'll probably get shot at. Good luck!	真棒！哦顺便，没人等你们来，所以你们很可能一进门就挨枪子儿。祝好运！
 QuestLoc_WeddingCrashers_Conversation_1_NPCEnd_2	No. The bosses ain't thinking straight. Go deal with it.	不，这些老大们根本没动脑子！赶紧去处理。
 QuestLoc_WeddingCrashers_Conversation_1_NPCStart_1	Oh good, someone came! Look, you gotta do something about this wedding!	哦好啊，有人来了！看看，你必须得做点什么才行！
-QuestLoc_WeddingCrashers_Conversation_1_NPCStart_2	Sally an' Marcus are supposed to get married, but there's a problem.	萨莉和马克斯本应该结婚的，但出了点问题。
+QuestLoc_WeddingCrashers_Conversation_1_NPCStart_2	Sally an' Marcus are supposed to get married, but there's a problem.	萨莉和马库斯本应该结婚的，但出了点问题。
 QuestLoc_WeddingCrashers_Conversation_1_NPCStart_3	See, I'm good with the murdering and pillaging, not so much with the words.	看吧，打打杀杀才是我擅长的，说话什么的根本不行。
 QuestLoc_WeddingCrashers_Conversation_1_NPCStart_4	Anyway, I told Sally I was sending for a love guru. So can you help them?	不管怎么样， 我告诉萨莉我会派一个爱情专家过去。你能帮助他们吗？
 QuestLoc_WeddingCrashers_Conversation_1_Team_1	I'll certainly try.	我会努力的。
 QuestLoc_WeddingCrashers_Conversation_1_Team_2	Are you sure about this? Shouldn't love just run its course?	你确定吗？难道爱情不是天注定的吗？
-QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_1	Yeah, you're right. Marcus, I'm leaving you forever. Goodbye!	是啊，你说得对。马克斯，再见，我再也不会回到你身边了！
-QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_2	Is that how it's going to be? Fine, go live with the Vault Dwellers for all I care, Marcus.	你真的要这样吗？行啊，去和那些居民们一起生活啊，马克斯！我一点儿也不在乎！
+QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_1	Yeah, you're right. Marcus, I'm leaving you forever. Goodbye!	是啊，你说得对。马库斯，再见，我再也不会回到你身边了！
+QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_2	Is that how it's going to be? Fine, go live with the Vault Dwellers for all I care, Marcus.	你真的要这样吗？行啊，去和那些居民们一起生活啊，马库斯！我一点儿也不在乎！
 QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_3	You're right! Honeycakes? Let's run away together!	你说得对！小甜心？我们一起逃走吧！
 QuestLoc_WeddingCrashers_Conversation_2_NPCStart_1	Hey! You there! You must be that love guru I've been hearing about.	嘿，你在那儿呀。你应该就是传说中的那个爱情专家吧。
-QuestLoc_WeddingCrashers_Conversation_2_NPCStart_2	Marcus seems to have gotten cold feet about this wedding.	马克斯似乎对这场婚礼临阵退缩了。
+QuestLoc_WeddingCrashers_Conversation_2_NPCStart_2	Marcus seems to have gotten cold feet about this wedding.	马库斯似乎对这场婚礼临阵退缩了。
 QuestLoc_WeddingCrashers_Conversation_2_NPCStart_3	And I don't know if I can go on being a Raider.	而且我不知道我能不能继续当一个掠夺者。
 QuestLoc_WeddingCrashers_Conversation_2_NPCStart_4	What should we do?	我们应该怎么做？
-QuestLoc_WeddingCrashers_Conversation_2_Team_1	Sally, you're too good for Marcus. Come live with us at the Vault.	萨莉，马克斯配不上你。跟我们一起回避难所生活吧。
-QuestLoc_WeddingCrashers_Conversation_2_Team_2	Marcus, Sally doesn't appreciate you enough.	马克斯，萨莉不够珍惜你。
+QuestLoc_WeddingCrashers_Conversation_2_Team_1	Sally, you're too good for Marcus. Come live with us at the Vault.	萨莉，马库斯配不上你。跟我们一起回避难所生活吧。
+QuestLoc_WeddingCrashers_Conversation_2_Team_2	Marcus, Sally doesn't appreciate you enough.	马库斯，萨莉不够珍惜你。
 QuestLoc_WeddingCrashers_Conversation_2_Team_3	Neither one of you is cut out for Raiding anymore. Why not give it up and elope?	你们俩谁都不适合再干掠夺者这行了。为什么不干脆放弃，一起私奔呢？
-QuestLoc_WeddingCrashers_QuestLongDescription	The notorious Raider, Sally Switchblade, is getting married to the infamous Marcus Hammer. But they're both having second thoughts, because neither wants to live the Raider lifestyle anymore. If only they'd communicate! Bust in and solve their problems for them.	臭名昭著的掠夺者“刀锋萨莉”要和声名狼藉的“铁锤马克斯”结婚了。但两人都还在犹豫，因为他们都不想再过掠夺者的日子了。他们要是肯沟通就好了！赶紧闯进去替他们解决问题吧。
+QuestLoc_WeddingCrashers_QuestLongDescription	The notorious Raider, Sally Switchblade, is getting married to the infamous Marcus Hammer. But they're both having second thoughts, because neither wants to live the Raider lifestyle anymore. If only they'd communicate! Bust in and solve their problems for them.	臭名昭著的掠夺者“刀锋萨莉”要和声名狼藉的“铁锤马库斯”结婚了。但两人都还在犹豫，因为他们都不想再过掠夺者的日子了。他们要是肯沟通就好了！赶紧闯进去替他们解决问题吧。
 QuestLoc_WeddingCrashers_QuestName	Wedding Crashers	婚礼上的不速之客
 QuestLoc_WeddingCrashers_QuestObjective_1	Stop the wedding.	阻止婚礼。
 QuestLoc_WeddingCrashers_QuestShortDescription	Help an engaged Raider couple work through their problems.	帮助掠夺者夫妇解决问题。
