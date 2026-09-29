@@ -1117,7 +1117,7 @@ Help_Page11_MainText	将居民放进训练房间里将会提升他们的SPECIAL�
 魅力：会客室
 智力：教室
 敏捷：体操房
-运气：棋牌室
+运气：游戏室
 
 每个属性最高能提升到10点。
 
@@ -4090,7 +4090,7 @@ QuestLoc_GameShowGauntletB_Conversation_2_NPCEnd_4	什么？你是个白痴吗�
 Title_RoomRewards	生产
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_2	你们都会孤独终老吗？
 SnipSnipDialog_Wasteland_27	想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……
-Weapon_Name_LaserRifle_WazerWifle	“瓦仄外辐”激光步枪
+Weapon_Name_LaserRifle_WazerWifle	“基光布枪”激光步枪
 Title_UpgradeTo	升级到
 QuestLoc_GameShowGauntletF_Conversation_2_NPCStart_2	哪个组织创造了合成人？
 QuestLoc_RevengeoftheGeeks_Conversation_1_NPCEnd_2	错！这可会影响你的成绩。
@@ -6543,7 +6543,7 @@ Speech_Kid38	多亏爸爸妈妈帮忙，这地方才能正常运转！
 QuestLoc_S2_QL3_Q4_Warehouse_Question1_Choice2	你老板叫我来的。你被开除了！
 Objective_SurviveDeathclawNoCasualties_Plural	在没有人员伤亡的情况下撑过了{0}次死爪攻击
 QuestLoc_RescueSanta_Conversation_1_Team_3	我们想要一匹小马。
-Tutorial_Tip_17	棋牌室可以让您训练一个居民的运气（L）。
+Tutorial_Tip_17	游戏室可以让您训练一个居民的运气（L）。
 MrHandyDialog_Wasteland_88	嚯！一个岔路口。我们走……右边！
 QuestTitle_FireSupport[PL]	火力支援 [PL]
 Outfit_Description_SynthArmor	学院合成人的基本装备。
@@ -8952,7 +8952,7 @@ Outfit_Name_costume_09	休闲服09
 Message_Tutorial_30	看！{更多的居民}出现在了{避难所门口}。
 QuestLoc_ESterEggHunt_Conversation_1_NPCStart_2	鸡蛋是原子的奇妙表现，充满潜力！
 VictorDialog_Classroom_01	知识胜过任何武器。毕竟，你可以学会怎么造武器！
-Room_Casino_Build	建造一个棋牌室？
+Room_Casino_Build	建造一个游戏室？
 QuestLoc_GameShowGauntletD_Conversation_2_Team_2	海伦学士。
 QuestLoc_AtDeathsDoor_QuestName	在“死亡”的门外
 QuestLoc_RadroachRoundup_Conversation_1_NPCStart_1	谢天谢地，有人来了！
@@ -11257,7 +11257,7 @@ Outfit_Description_PowerArmor_T45f	保存得很好。骑士们很喜欢这种。
 MrHandyDialog_Wasteland_24	你好！是的，就是你，先生！我想知道……哦，你是具尸体。好吧，没事了。
 QuestLoc_TheShadowWolf_QuestLongDescription	一个坏蛋一直在训练鼹鼠在人们眼皮底下窃取红果。去见见那个追踪者，他可能已经找到了事情发生的根源。
 QuestLoc_NoRestfortheWicked_Conversation_1_NPCStart_2	监督者扎勒斯基在那边。
-Room_Casino	棋牌室
+Room_Casino	游戏室
 QuestLoc_VaultTecExperimentReviewD_Conversation_1_NPCStart_1	加里？加里！
 Help_Page08_Title	建造您的避难所和电梯
 Encounter_Progression_JustStartedTier2_9	这条路看上去还不错。

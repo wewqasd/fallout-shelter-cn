@@ -1,0 +1,6 @@
+key	new_zh	note
+Room_Casino	游戏室	S3复核补充
+Room_Casino_Build	建造一个游戏室？	S3复核补充
+Help_Page11_MainText	将居民放进训练房间里将会提升他们的SPECIAL属性。\n\n每一个属性都有对应的训练房间。\n\n力量：举重房\n观察力：军械库\n耐力：健身房\n魅力：会客室\n智力：教室\n敏捷：体操房\n运气：游戏室\n\n每个属性最高能提升到10点。\n\n居民的属性值越高，训练到下一级所需的时间就越长，但您可以使用量子核子可乐来加速训练。	S3复核补充
+Tutorial_Tip_17	游戏室可以让您训练一个居民的运气（L）。	S3复核补充
+Weapon_Name_LaserRifle_WazerWifle	“基光布枪”激光步枪	S3复核补充
