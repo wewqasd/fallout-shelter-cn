@@ -1,0 +1,11 @@
+key	new_zh	note
+Weapon_Name_PlasmaThrower_Tactical	战术型等离子喷枪	译名统一
+Weapon_Name_PlasmaThrower_Boosted	增压型等离子喷枪	译名统一
+Weapon_Name_PlasmaThrower_Overcharged	过载型等离子喷枪	译名统一
+Weapon_Name_AlienBlaster_Tuned	调谐型异形破坏者	译名统一
+Theme_ShortName_Workshop	工厂主题	译名统一
+Message_ThemeChange_WeaponFactory	你所有已完全合并并升级的武器工厂主题将从{0}更改为{1}。确认吗？	译名统一
+Shop_SeasonPass_Description	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、武器工厂主题、辐射极琉矿武器等更多内容。奖励可在所有避难所领取。	译名统一
+Shop_SeasonPass_Blurb	解锁所有赛季奖励：\n- 全新避难所外观[-][F7C531]主题[-]\n- 全新武器工厂[-][F7C531]主题[-]\n- [-][F7C531]辐射极琉矿武器[-]及[-][F7C531]更多！[-]	译名统一
+SeasonPass_EndingSoon	赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n\n在高级赛道达到20级即可获得独家武器工厂房间主题，仅限本赛季。	译名统一
+Shop_SeasonPass_Enclave_Premium_Description	将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新赛博狗宠物、全新英克雷军官制服、奥特姆上校的制服、重型避难所连体服、变种人猎人装备、“龙胃”等离子喷枪、2个宠物笼子和5000瓶盖。	译名统一
