@@ -7157,7 +7157,7 @@ QuestLoc_GetinLine_QuestShortDescription	Battle the Raiders in the Super-Duper M
 QuestLoc_GetinLine_RaiderLine_1	You're about to check out... permanently!	你马上就要“结账”了——永远地！
 QuestLoc_Getting Started_QuestLongDescription	For your training mission, Vault-Tec asks you to prove yourself as a worthy Overseer and kill a Glowing Radroach.	避难所科技想要你证明自己是一个合格的监督者。作为训练任务，请先杀掉发光辐射蟑螂。
 QuestLoc_Getting Started_QuestName	Getting Started	开始前的准备
-QuestLoc_Getting Started_QuestShortDescription	Kill the Glowing Radroach and complete your training.	杀死发光辐射蟑螂，完成训练。
+QuestLoc_Getting Started_QuestShortDescription	Kill the Glowing Radroach and complete your training.	消灭发光辐射蟑螂，完成训练。
 QuestLoc_Ghooooooooooooooooooul_Conversation_1_NPCEnd_1	Absolutely! And here, take this, as well!	当然了！这个，也拿上吧！
 QuestLoc_Ghooooooooooooooooooul_Conversation_1_NPCEnd_2	Well, no need to be rude. I didn't ask for you to come barging in here.	呃，没必要这么粗鲁吧。我又没有逼你来这里。
 QuestLoc_Ghooooooooooooooooooul_Conversation_1_NPCStart_1	What the..? You scared me! I haven't had visitors in a long while.	什么鬼……？你吓死我了，已经很久没有人来拜访过我了。
@@ -7458,23 +7458,23 @@ QuestLoc_GroomforDoubt_RaiderLine_1	Take groom, meet doom.	带走新郎，迎接
 QuestLoc_GroomforDoubt_RaiderLine_2	A rose by any other name would smell as sweet...if roses still existed.	玫瑰换个名字照样芬芳……如果这世上还有玫瑰的话。
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestName	Guardian of the Wastes: Deathclaws!	废土守卫者：死爪！
-QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1	Kill the Alpha Deathclaw.	杀死领头死爪。
+QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1	Kill the Alpha Deathclaw.	消灭领头死爪。
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestShortDescription	Exterminate the Deathclaws.	剿灭死爪。
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestName	Guardian of the Wastes: Feral Ghouls!	废土守卫者：狂尸鬼！
-QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	杀死发光种。
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	消灭发光种。
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestShortDescription	Show the Feral Ghouls no mercy.	对狂尸鬼绝不心慈手软。
 QuestLoc_GuardianoftheWastes:MoleRats_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:MoleRats_QuestName	Guardian of the Wastes: Mole Rats!	废土守卫者：鼹鼠！
-QuestLoc_GuardianoftheWastes:MoleRats_QuestObjective_1	Kill the Mole rat brood mother.	杀死鼹鼠妈妈。
+QuestLoc_GuardianoftheWastes:MoleRats_QuestObjective_1	Kill the Mole rat brood mother.	消灭鼹鼠妈妈。
 QuestLoc_GuardianoftheWastes:MoleRats_QuestShortDescription	Get rid of those pesky Mole rats.	除掉这些可恶的鼹鼠。
 QuestLoc_GuardianoftheWastes:Radroaches_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:Radroaches_QuestName	Guardian of the Wastes: Radroaches!	废土守卫者：辐射蟑螂！
-QuestLoc_GuardianoftheWastes:Radroaches_QuestObjective_1	Kill the Glowing Radroach.	杀死发光辐射蟑螂。
+QuestLoc_GuardianoftheWastes:Radroaches_QuestObjective_1	Kill the Glowing Radroach.	消灭发光辐射蟑螂。
 QuestLoc_GuardianoftheWastes:Radroaches_QuestShortDescription	Clear out the nest of Radroaches.	清理辐射蟑螂窝。
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestName	Guardian of the Wastes: Radscorpions!	废土守卫者：辐射蝎！
-QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1	Kill the Glowing Radscorpion.	杀死发光辐射蝎。
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1	Kill the Glowing Radscorpion.	消灭发光辐射蝎。
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestShortDescription	Eradicate the Radscorpions.	根除辐射蝎。
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCEnd_1	Our brahmin drank it all. Who can say no to golden dung? Try the abandoned Vault-Tec offices.	我们的双头牛一饮而尽。谁能对金色的粪便说不？去废弃的避难所科技办公室试试看吧。
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1	Is the Wizard's Wonder Water really so wondrous? We didn't get enough to test it scientifically.	水之术士的“神奇水”真有那么神奇吗？我们没弄到足够的量来做科学测试。
@@ -12643,7 +12643,7 @@ QuestLoc_WorstCoachEver_QuestName	Worst. Coach. Ever.	最。烂。教练。
 QuestLoc_WorstCoachEver_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WorstCoachEver_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ZinesFromtheCommonwealth_QuestlineName	Zines From the Commonwealth	来自联邦的杂志
-QuestObjective_ClearOut	Kill all Enemies in the Secret Room	杀死秘密房间的全部敌人
+QuestObjective_ClearOut	Kill all Enemies in the Secret Room	消灭秘密房间的全部敌人
 QuestObjective_PickUpAllItems	Loot the Secret Room	搜刮秘密房间
 QuestRequirement_Dweller	Dweller	居民
 QuestRequirement_Dweller_Plural	Dwellers	居民
