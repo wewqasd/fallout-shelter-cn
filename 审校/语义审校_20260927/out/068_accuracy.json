@@ -1,0 +1,39 @@
+{
+ "chunk": "068",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Speech_Eviction_19",
+   "severity": "S2",
+   "type": "病句",
+   "problem": "EN 用「Worst. Day. EVER.」把句子拆成三段来加重语气，中文照搬句号切分后成了不通的碎片：中文里「最。」无法独立成句，「糟糕的。」是悬空的“的”字短语，玩家看到的是三段不成话的东西（同类逐字照搬断句在 060 批「Never. Ending. Deathclaws.」也已被判为问题）。",
+   "fix": "史上最糟糕的一天。",
+   "confidence": "high"
+  },
+  {
+   "key": "Speech_Generic_Dweller6",
+   "severity": "S3",
+   "type": "多译",
+   "problem": "EN 结尾的 Huh. 只是自言自语的一声「嗯？」，译文写成「谁知道呢。」，替说话人加上了一句原文没有的判断（这件事没人知道）；同批 Speech_Generic_Dweller23 的 Huh. 就译作语气词「咦」，语料中其余 Huh 亦同，此处沉思的语气被换成了否定结论。",
+   "fix": "中国也建过避难所吗？嗯……",
+   "confidence": "medium"
+  },
+  {
+   "key": "Speech_Happiness_Radiation1",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "「松一口气」是动词短语，中文不把它当独立感叹句用，对应 EN 的 Phew!（呼——）应是叹词；后半句「我真的很需要那个」把 that 直译成远指的「那个」，指刚打下去的消辐宁，中文口语该说「这一下／这个」。整句是英文语序直搬，读着像机翻。",
+   "fix": "呼——我太需要这一下了！",
+   "confidence": "medium"
+  },
+  {
+   "key": "Speech_Fail_Rush1",
+   "severity": "S3",
+   "type": "病句",
+   "problem": "「生产出了严重事故」动词与宾语搭配不通：中文「生产出」后面接的是产品，写「生产出事故」字面成了“生产出了事故这种东西”；原意是极速模式失败导致生产严重失败（同批 Help_Page14 作「极速模式如果失败，会导致灾害发生」），玩家只应读出“生产完蛋了”。",
+   "fix": "哦不！生产严重失败！",
+   "confidence": "medium"
+  }
+ ]
+}

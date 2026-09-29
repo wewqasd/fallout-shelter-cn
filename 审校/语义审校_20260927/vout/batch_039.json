@@ -1,0 +1,110 @@
+{
+ "batch": 39,
+ "items": [
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Do your worst 是挑衅「放马过来」（IT fatevi sotto）；ZH「作最坏的打算」成了忠告，说话人态度反了。",
+   "final_fix": "放马过来吧，居民们！"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "but to 是更正：不是杀他，而是送回；ZH「却要」用成转折，且「归还」不能用于人。",
+   "final_fix": "什么？我们不想杀他，而是要把他送回原子之子那里。"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_3_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "which is tomorrow 修饰 the ritual Egg Hunt；ZH「就是明天」悬在句尾不成句，ritual 也非「传统的」。",
+   "final_fix": "就在明天那场例行仪式的死爪彩蛋狩猎之后。"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "They're a couple of tough cookies（ES duros de roer）整句漏译，ZH 只余 Vault 314 两句。",
+   "final_fix": "他们可是两个难缠的家伙。我打赌莎莉很可能会躲进314号避难所。那地方已废弃，千万小心！"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "No 是否定答复（ES No、DE Nein），回答上句 did you see a girl and a dog?；ZH「不是吧」成了惊讶感叹。",
+   "final_fix": "没有。那你知道他们去哪儿了吗？"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "get updates on（ES recibir noticias、DE erfahren）是打听消息，ZH「搜刮物资和宝物」变成实物掠夺，来意被改写。",
+   "final_fix": "他拜访完罗伯科工厂的定居者之后，会来这里打听物资和宝物的最新消息，再带回去给编辑。"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I'd talk to 是建议（FR Si j'étais vous、RU Поговори），ZH「我会和…谈谈」成了 NPC 自己的打算，意图错位。",
+   "final_fix": "你该去跟罗伯科工厂的定居者谈谈。他们是最先遭到袭击的。关于“号角男孩”和他的编辑，他们知道的应该更多。"
+  },
+  {
+   "key": "QuestLoc_TheToweringIlForno_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "End of the line 是「到此为止」（ES Se acabó、DE Endstation），ZH「终点线」是跑道线；your 复数又作「你」。",
+   "final_fix": "到此为止了，居民们。这就是你们的终点站。"
+  },
+  {
+   "key": "QuestLoc_TheToweringIlForno_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "possessed 是「中邪」（DE geritten、FR diable），ZH「什么使你」把习语拉平成中性书面句，语气丢失。",
+   "final_fix": "你究竟是中了什么邪，才跑到这种地方来？"
+  },
+  {
+   "key": "QuestLoc_TheToweringIlForno_Conversation_2_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "to get us killed 是让我们送死（IT per farci ammazzare）；ZH「为了杀了我们」目的状语带「了」不成句。",
+   "final_fix": "我敢肯定，大厨派我们来这儿，就是想让我们送死。"
+  },
+  {
+   "key": "QuestLoc_TheVaultTecVantage_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "They say 指 notes（FR elles、DE Hier steht），ZH「他们说」把人当资料；Vaultopolis 全库 17 处作「大都会」。",
+   "final_fix": "我们找到了避难所科技关于避难所大都会的记录！上面写着……"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_1_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 为 there ain't much else here，无 challenge 字样；初审引文与 fix 属他条，误报。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "you guys 是复数（ES hacéis、DE ihr），doing 是「在干什么」；ZH「你能…做什么」缩成单数并改成能力质疑。",
+   "final_fix": "你们来这儿干什么？"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "weren't up to the challenge 是「不是这块料」（RU не справитесь）；ZH「能挑战自己」误读成自我挑战。",
+   "final_fix": "他大概是觉得你根本不是这块料。他说得没错！"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "our share of the eggs with you 是我们那份分给你们，ZH「和我们去分享」施受颠倒；José 只是押韵非人名。",
+   "final_fix": "还想让我们把蛋分给你们？做梦吧，老兄！"
+  }
+ ]
+}

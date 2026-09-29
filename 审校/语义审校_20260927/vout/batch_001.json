@@ -1,0 +1,110 @@
+{
+ "batch": 1,
+ "items": [
+  {
+   "key": "Help_Page09_MainText",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN of the same type（同类型）在 ZH 无对应，「最多能合并三个房间」丢掉合并前提；more efficient 也被改挂到居民数量上。",
+   "final_fix": "升级您的房间，来提高它们的性能。\n\n- 大多数房间都可以升级两次。升级的资源房间能够生产更多资源。\n\n- 同类型的房间最多可以合并三个，只要将它们建在彼此相邻的位置即可。\n\n- 合并的房间能容纳更多居民，同时效率也会更高。\n\n- 有些房间，比如工坊，开始就是一个大房间，是不能合并的。\n\n- 主题只能应用于完全合并并升级至顶级的餐厅和宿舍。"
+  },
+  {
+   "key": "Message_TutorialPopup_16_Body",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "more successful 的落点虽是居民，但游戏内极速成败按房间结算，「房间更容易成功」与之一致；CAPS bonuses 本就含「额外」义。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_TutorialPopup_ScorchedAttackWarning_Body",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN normal invaders（ES invasores corrientes/DE gewöhnliche Eindringlinge）是泛称，ZH 换成自创的「普通掠夺者」；原 fix 还删掉了首段，段数不符。",
+   "final_fix": "辐尸人正在前来袭击您的避难所！\n\n辐尸人比普通入侵者更强更难对付，但战斗结束后您的居民会免费复活。\n\n痛苦是真实的，但死亡只是暂时的！"
+  },
+  {
+   "key": "Message_Tutorial_50",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN exceed your {INVENTORY}（FR trop volumineux）说超出容量，ZH「不在您的{库存}范围内」可读成不在库存中；又自补 EN 没有的「储藏室」。",
+   "final_fix": "{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前无法{使用}。"
+  },
+  {
+   "key": "Outfit_Description_FlightSuit_Advanced",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Negative 是否定应答（DE Negativ、RU Никак нет）却译成感叹「糟糕」；the pattern is full 的 pattern 指进场航线，译成「样式已经满员」读不通。",
+   "final_fix": "不行，避难所居民。进场航线已经满了。"
+  },
+  {
+   "key": "Outfit_Description_MaximusJacket",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 后半句 the rank chevrons conceal crippling self-doubt（军衔臂章、自我怀疑）整句未译，ZH 只剩「红色能掩盖血迹……」并以省略号带过。",
+   "final_fix": "红色能掩盖血迹，军衔臂章则能掩盖严重的自我怀疑。"
+  },
+  {
+   "key": "Outfit_Description_SpecialThemeHalloween",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 前两分句 Give the tricks, get the treats 未译，ZH 只剩 try not to go into sugar shock 一句，节日梗的来源信息丢失。",
+   "final_fix": "不给糖就捣蛋，收了糖果就享用，只是别吃到血糖飙升。"
+  },
+  {
+   "key": "Outfit_Description_WrestlerSpecial",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 是卖点句：protection and style 兼得于 squared circle（擂台）内外；ZH「总是很难两全」正好反义，并丢掉擂台。",
+   "final_fix": "无论擂台内外，防护与造型一样不缺。"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 三句只译中间一句：There are?（接前句 332 号避难所单身汉）与 Here, take this to remember how I let you live 全丢，赠物与嘲讽没了。",
+   "final_fix": "真有？好吧兄弟们，咱们离开这个鬼地方吧。来，拿着这个，记住是我饶了你一命。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN No known Glowing One is as old 是「没有哪只比他更老」，ZH 丢掉 as old 的比较，成了「没有哪只是老的」，与上句「古老」矛盾。",
+   "final_fix": "也许“饥饿”是上了年纪才有的？已知的发光种里，没有哪只有他这么老。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_3_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN for one（DE zum Beispiel：举例）被当作数量词译成「一只手」，插在「赤手空拳」后读不通；主句事实尚完整。",
+   "final_fix": "比方说，传闻他曾赤手空拳杀死六只死爪，但这只是个传说！真相早就无从查证了。"
+  },
+  {
+   "key": "QuestLoc_Broadsides_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 主句 Our people have been running off on quests of derring-do 整段未译，ZH 只剩「他们希望……」，主语指代悬空且丢了因果铺垫。",
+   "final_fix": "我们的人都跑出去干那些冒险的差事，就为了能入号角报的眼……"
+  },
+  {
+   "key": "QuestLoc_CanineRecovery_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN didn't spend all that time tying them up… just for them to run away 的否定管目的从句，ZH 移到「绑住」上，成了「没绑他们」，逻辑相反。",
+   "final_fix": "我们花了那么大的力气把他们捆起来、还留着他们的命，可不是为了让他们跑掉！真是没礼貌！"
+  },
+  {
+   "key": "QuestLoc_CheerfortheGhouls_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN We see how it is（DE Wir verstehen schon／RU Нам все ясно）是「我们算是看清了」，ZH 直译成「看到了它是怎样的」，「它」无指代，翻脸原因丢失。",
+   "final_fix": "我们算是看清你们了，“光滑皮肤”们！赶紧滚吧！"
+  },
+  {
+   "key": "QuestLoc_CollateralMurder_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 首句 We've been watching him, waiting for the right time to strike 整句未译，只剩指路句，监视目标的剧情情报丢失。",
+   "final_fix": "哦，是啊。我们一直在盯着他，就等着下手的机会。去试试从这里往北约一公里处的旧大无敌超市吧。"
+  }
+ ]
+}

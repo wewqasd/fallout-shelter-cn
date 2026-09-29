@@ -1,0 +1,110 @@
+{
+ "batch": 30,
+ "items": [
+  {
+   "key": "QuestLoc_RaidingParty_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "up for that promotion=升职本该轮到我，ZH「为了那个升职而来」错成来意；piece of my mind 该是骂他一顿。",
+   "final_fix": "什么？那个升职本来该是我的！我得去好好数落他一顿！"
+  },
+  {
+   "key": "QuestLoc_RaidingParty_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "take any chances=不能冒险（ES correr el riesgo），ZH 把 chance 误作「机会」译成「没有机会」，逻辑反了。",
+   "final_fix": "要是他真这么干，我可不能冒这个险。谢了，新来的！"
+  },
+  {
+   "key": "QuestLoc_RaidingParty_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Not if I can help it 是「只要我拦得住，他就别想」（FR Oh que non!），ZH「说的我好像能控制得住」立场反了。",
+   "final_fix": "只要我还有一口气，他就别想得逞！来，拿着这个。让他跟我的拳头好好聊聊吧！"
+  },
+  {
+   "key": "QuestLoc_RaidingParty_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "shindig 是闹哄哄的聚会，不是跳舞的「舞会」；ZH 另加 EN 没有的「偷偷」，同段 Boss 忽「老大」忽「老板」。",
+   "final_fix": "一群掠夺者趁着老大不在，闹哄哄地开起了狂欢派对。现在正是趁他们玩乐时渗透进去的好机会。只要能挑拨他们跟自家老大反目，整个帮派就会从内部瓦解！"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "warn sb. about sth. 硬搬成「警告大家关于……的事」，中文搭配不成立；应作「警告……提防」。",
+   "final_fix": "他在警告所有人提防144号避难所……"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_RaiderLine_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "War be upon you 是仿「愿和平与你同在」的祝愿式（ES Que la guerra sea contigo），ZH 成了陈述且不成话。",
+   "final_fix": "愿战争降临于你！"
+  },
+  {
+   "key": "QuestLoc_RescueSanta_Conversation_1_Team_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "doing good 是「做好事／行善」（ES poder ayudar、DE helfen），ZH「成为好孩子」把行善换成当乖孩子。",
+   "final_fix": "圣诞老人，我们什么都不需要，我们只是喜欢做好事！"
+  },
+  {
+   "key": "QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I know when I'm beat=我已知道自己认输了（ES me han derrotado），ZH「如果我败了」改成假设且不成句。",
+   "final_fix": "但我知道自己什么时候该认输。我会回你们的避难所，累死累活地干活！"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Very. 是回答「离完成配额还有多远」的省略答语（ES Muy cerca），ZH「相当的。」不成句，答案信息丢失。",
+   "final_fix": "非常接近了。三狗可能就是他们需要的最后一个目标。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "can't make this stuff up=编都编不出来，ZH「胡编滥造不来」错字又不通；It's just=无非是，非「差不多」。",
+   "final_fix": "无非是“都写在手册里”那一套。这种事你根本编不出来。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "that's how you fight X=这才叫，ZH「你打好仗的窍门」凭空多出「窍门」；Now 是感叹词，非「现在」。",
+   "final_fix": "*这才叫*打好这场仗！我对你们这些英雄感激不尽！"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_3_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for a radio legend 是「为了电台传奇」让出清闲工作，ZH「交换一个传说」搭配不成立，「将很乐意」硬搬。",
+   "final_fix": "到我们避难所来吧！为了电台界的传奇人物，我们的电台员工很乐意让出他们那份清闲的工作。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "习语 wake up on the right side of the bed=醒来心情好，ZH 直译「在床的右边醒来」，祝福意全失。",
+   "final_fix": "愿“死亡”一觉醒来心情大好！"
+  },
+  {
+   "key": "QuestLoc_RunnersinScoringPosition_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "not on fire yet 是冷热猜谜「还没到手」（ES aún no te quemas），ZH「还不到开火的时候」误作开枪。",
+   "final_fix": "更热了……不过还没到着火的地步！"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q2_Field_QuestLongDesc",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "raid their own facilities 在 ZH 无对应，their own 被错挂到「装备」上，突袭目标丢失；「申领表」原文亦无。",
+   "final_fix": "多亏了我们的联系人，我们有信心说服钢铁兄弟会签字批准我们申领装备——而这些装备将被我们用来突袭他们自己的设施。啊，真是讽刺！"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "batch": 66,
+ "items": [
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_3_NPCStart_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「送到」是本库 send sb to 的通行译法（如 Send the Mister Handy→把巧手先生送到废土），无押送义，句意清楚。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Buzz 是答错蜂鸣提示音（ES ¡Rin, rin!、DE Bzzz!、RU Бжжж!），ZH 换成笑声「哈哈」，音效错位。",
+   "final_fix": "哔！答错了。看来你得……“掉脑袋”了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "crazy 只是「疯狂的」，ZH 多出最高级「最」；Railroad 全库作「铁路」，「铁路上」易读成现实铁路。",
+   "final_fix": "铁路组织里那个疯疯癫癫的技工是谁？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Rangers 指游骑兵（RU Рейнджеры、ES Rangers），ZH「骑兵」是 cavalry；本库 NCR Ranger 亦作游骑兵。",
+   "final_fix": "莱莉的游骑兵。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletH_Conversation_1_Team_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "two-bedroom 是「两居室」（ES dos habitaciones），ZH「两床」把卧室数换成床数，量词也错。",
+   "final_fix": "沃尔瑟姆一套不错的两居室。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletH_Conversation_3_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Ixnay on the Iner Day＝Nix on the Diner（别提那家餐厅），暗指选项剑桥校园餐厅；ZH「完全不对」把这层内容丢光。",
+   "final_fix": "别提那家餐厅了！不过你还是得……“掉脑袋”！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletI_Conversation_4_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Lose Your Head 是节目名，全库 160 处均作「掉脑袋」；此处直译「失去你的脑袋」既断节目名呼应又生硬。",
+   "final_fix": "就像感恩节的火鸡，你就要……“掉脑袋”了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletI_Conversation_4_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "The Great War 全库专名作「大战」（如「让我们在大战中活了下来」），「世界大战」改指现实一战二战，指代错。",
+   "final_fix": "大战是在哪个节日之前爆发的？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletJ_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "a hair（一根头发丝）与 Speaking of hair（说到头发）被换成「既然这样」，hair 双关链断裂；「太南边」也不地道。",
+   "final_fix": "往南偏了那么一根头发丝的距离。说到头发……你就快“掉脑袋”了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletJ_Conversation_3_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Mount Desert Island 是缅因州实地名，ZH 把 Mount 拆成「山」、Desert 拆成「沙漠」，造出不存在的地名。",
+   "final_fix": "芒特迪瑟特岛海军设施。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletJ_Conversation_4_Team_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Kasumi 是名不是姓（同轮 Kasumi Nakano＝中野霞），ZH 误拼成「霞野」；ran away 是离家出走，非「逃跑」。",
+   "final_fix": "中野霞离家出走了？太可怕了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletK_Conversation_3_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "leek 应为韭葱而非韭菜，turnip 应为芜菁而非甘蓝（ES nabos、RU репой）；「双头牛」本身译法可用。",
+   "final_fix": "双头牛、韭葱和芜菁？味道不错，但是错了。“掉脑袋”吧！"
+  },
+  {
+   "key": "QuestLoc_GameofVaults_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "den 指兽穴/巢穴（FR tanière、ES cubil），ZH「深渊」是地形；fair（美丽的）漏译，Hark 骑士腔亦未译出。",
+   "final_fix": "听着，美丽的少女！是我，你的救世主。快出来，与我一同骑马离开这野兽的巢穴。"
+  },
+  {
+   "key": "QuestLoc_GameofVaults_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Dragon 是「龙」（各语言 dragón/Drachen/дракона），ZH「暴龙」是霸王龙，与括号内「死爪」自相矛盾。",
+   "final_fix": "斩杀巨龙（死爪）。"
+  },
+  {
+   "key": "QuestLoc_GasNGo_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "lead 在此指铅弹（get plenty of lead＝吃枪子），ZH 直译成金属「铅」，威胁与上句无铅汽油的对照全失。",
+   "final_fix": "我保证让你吃够铅弹！"
+  }
+ ]
+}

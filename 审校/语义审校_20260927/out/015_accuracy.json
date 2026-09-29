@@ -1,0 +1,79 @@
+{
+  "chunk": "015",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Pet_Description_blueyellowmacaw_l3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "这是鹦鹉「学人说话」的介绍，EN 的 speech 指鸟说话/学舌，ZH 译成「演讲」（当众讲话），词义整个跑偏；后半句「它就准备好想要挑战了」也是生硬直译，中文不通。",
+      "fix": "要论学人说话，它可从不怯场。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_akita_l",
+      "severity": "S2",
+      "type": "乱译",
+      "problem": "EN 的 teach him otherwise 意思是「纠正它这个想法、让它明白谁是主人」，ZH 把 otherwise 当成连词「否则」，后半句变成没头没尾的「不然的话还得教它」，原意丢失且读不通；前半句 Likes to think 译成「乐意认为」也不对。",
+      "fix": "喜欢自认为是老大，你得让它明白谁才是主人。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_goldenret_l",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Has been known to 是「据说／以……闻名」，ZH 直译成「已经知道」导致句子没有主语、语义残缺，前面还多出一个位置莫名的省略号，玩家读不出是谁知道什么。",
+      "fix": "据说它能一次接住五个球。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_cx404_l",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN 的笑点是这只机器狗的特长叫 snoofs and borks（嗅嗅和汪汪，狗的拟声黑话），ZH 只保留「嗅探活动」，把 borks（汪汪叫）整半句删了，包袱少一半。",
+      "fix": "一个训练有素的前英克雷特工，专精嗅嗅和汪汪叫。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_cattledog_b",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "herd 是放牧、把牲畜赶拢，ZH 译成「圈养」（关起来饲养），动作完全换了一个；且改成被动句「都可以被它圈养」，把「它能把小孩、双头牛、死爪全都赶拢」的牧羊犬画面写成了把它们当牲畜养起来。",
+      "fix": "儿童。双头牛。死爪。它全都能放牧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_bombay_b",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 说的是「黑猫招厄运这种说法被夸大了」（blown out of proportion），ZH 换成「坏运气的魔咒才没有那么大的概率呢」，把「传言被夸大」偷换为「中招概率低」，并把 myth（传说/说法）写成「魔咒」，是两回事。",
+      "fix": "那个倒霉的传说被夸大得也太离谱了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Name_PowerArmor_T60f",
+      "severity": "S3",
+      "type": "错别字",
+      "problem": "型号 T-60f 的首字母被写成小写：「t-60f动力装甲」，与 EN 的 T-60f 不符，属笔误。",
+      "fix": "T-60f动力装甲",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Name_SantaSuit_Original",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN 的 Original 是限定词，用来与另一件 Santa Suit 区分（本批 Outfit_Name_SpecialThemeXmas 的 Santa Suit 同样译作「圣诞老人服」），漏掉后两件不同装备在游戏里同名。",
+      "fix": "原版圣诞老人服",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_havanabrown_b",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "Get used to saying … 是祈使语气，意思是「你以后会习惯经常这么问它」；ZH 写成「已经习惯和它说」，变成陈述既成事实的完成态，时态和语气都错位。",
+      "fix": "你会习惯常常问它：“你是怎么爬上去的？”",
+      "confidence": "medium"
+    }
+  ]
+}

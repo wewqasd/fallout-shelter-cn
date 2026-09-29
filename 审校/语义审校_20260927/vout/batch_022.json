@@ -1,0 +1,17 @@
+{"batch":22,"items":[
+{"key":"QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_1","verdict":"confirm","severity":"S2","reason":"taking care of 此处是“收拾、解决”义；现译“照顾”取照看义，与玩家刚打退教徒的事实正好相反。","final_fix":"多谢你们收拾了那帮疯子！监控摄像头把一切都拍下来了。"},
+{"key":"QuestLoc_GivemeLibertyandorDeath_Conversation_2_Team_1","verdict":"confirm","severity":"S2","reason":"article 指手册条款，同库 Article 14 作“第14条”；“文章”会让玩家误以为在读刊物，非手册条款。","final_fix":"手册里每一条关于居民死亡的条款里……“死亡”都是大写的。"},
+{"key":"QuestLoc_GoingToTown_1_Question5_Answer1","verdict":"confirm_fix_better","severity":"S2","reason":"or your money back 是“否则退钱”的保证句式，现译“或者退款”并列成两个选项，逻辑断裂；原 fix 又丢了“保证”，保留更准。","final_fix":"你不会后悔的！包你满意，否则退钱——前提是你找得到我。"},
+{"key":"QuestLoc_GoingToTown_2_Question3","verdict":"confirm_fix_better","severity":"S2","reason":"got past 是“躲过、逃过”，现译“通过”不能拿人作宾语；且同库 slaver 通用“奴隶贩子”（16处），此处“奴隶商”偏离。","final_fix":"哦，你好！你……躲过了那些奴隶贩子。我是说，警卫。太好了！干得好！"},
+{"key":"QuestLoc_GoingToTown_3_CombatInit2","verdict":"confirm","severity":"S2","reason":"was supposed to be 表“本来指望”，现译句尾“的！”把“是……的”套在完整句上，成残句，战斗喊话读不通。","final_fix":"本来还指望这班能清闲点！"},
+{"key":"QuestLoc_GroomforDoubt_Conversation_1_NPCEnd_3","verdict":"confirm_fix_better","severity":"S2","reason":"done with you 是“收拾掉你”，RU убьем 可证；“结束你”不成话，但原 fix 漏了 right after 的“之后”时间关系。","final_fix":"行啊，等我们把你收拾了之后再说。"},
+{"key":"QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_3","verdict":"confirm_fix_better","severity":"S2","reason":"what we're made of 是“有多大本事”，RU на что мы способны 为证；“我们是什么做的”不成话，且“失败者”偏书面。","final_fix":"来吧，女士们，让这些废物见识见识我们的本事！"},
+{"key":"QuestLoc_GroomforDoubt_Conversation_2_NPCStart_2","verdict":"confirm","severity":"S2","reason":"you've come to the right place 是口语“来对地方了”，现译“你来到了正确的地方”按英文语序硬搬，不像人话。","final_fix":"你们要是想找点冒险，那可来对地方了。"},
+{"key":"QuestLoc_GroomforDoubt_Conversation_3_NPCStart_1","verdict":"confirm","severity":"S2","reason":"there you are 是见面招呼“你们在这儿啊/可算来了”，DE da seid ihr ja、RU Вот вы где 为证；“你们在那里”方向译反。","final_fix":"嘿，伙计们，你们可算来了！"},
+{"key":"QuestLoc_GroomforDoubt_Conversation_3_Team_3","verdict":"confirm_fix_better","severity":"S1","reason":"It sure is 是附和上句“单身派对最棒”，it 无所指却硬译“它肯定是”，句意断在半截，玩家读不出回应对象。","final_fix":"是啊，绝对是最好的……不过我们现在得送你去结婚了。"},
+{"key":"QuestLoc_HalfFullHalfEmpty_QuestLongDescription","verdict":"confirm_fix_better","severity":"S2","reason":"than meets the taste buds 与 taste 双关，“故事并不只是满足味蕾”主谓不搭；“耳目一新”修饰饮料搭配错误，又与“清新”叠用。","final_fix":"看来这事可不只是味蕾上的文章。这款提神的奇迹饮料说到底既不神奇也不提神。而罗伯科工厂里的人或许知道真相……"},
+{"key":"QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_1","verdict":"confirm_fix_better","severity":"S2","reason":"That Outfit's Ours! 是宣告所有权，现译改成索要“交出来”；Outfit 按约定应作“装备”，首句亦被改写。","final_fix":"你知道我们这一路是怎么过来的吗？那件装备是我们的！"},
+{"key":"QuestLoc_HighSteaks_QuestLongDescription","verdict":"confirm","severity":"S2","reason":"straight from their den 意为“直接从窝里取来”，现译“深藏巢穴里”凭空加“深藏”且不成话；alter 只是“改变”。","final_fix":"好吧，辐射蝎蛋卷还是有点恶心的。为了弥补，大厨提议把威灵顿死爪作为他的招牌菜，他只需要新鲜的死爪肉，直接从它们的巢穴里取就行（据说光照会改变味道）。"},
+{"key":"QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_1","verdict":"confirm","severity":"S2","reason":"Here you go 是交付物品“给你”，现译“干得漂亮”系本库对 Well done 的译法；off the hook 是“没我们事了”，非“脱险”。","final_fix":"太好了！总算没我们什么事了！给你。"},
+{"key":"QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_2","verdict":"confirm","severity":"S2","reason":"同 NPCEnd_1：Here you go 被误作夸奖“干得漂亮”，交还物品的动作丢失，off the hook 亦由“不用操心”偏成“脱险”。","final_fix":"太好了！总算没我们什么事了！给你。"}
+]}

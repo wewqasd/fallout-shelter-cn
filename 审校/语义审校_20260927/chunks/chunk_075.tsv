@@ -1,0 +1,181 @@
+key	EN	ZH
+Tutorial_Tip_89	You can use Nuka-Cola Quantum to skip certain Quests.	你可以使用量子核子可乐来跳过某些任务。
+Tutorial_Tip_90	You can use Nuka-Cola Quantum to speed up a Dweller's SPECIAL training.	你可以使用量子核子可乐来加速居民的SPECIAL属性训练。
+Tutorial_Tip_91	You can use Nuka-Cola Quantum to get missing Theme Recipe Fragments.	你可以使用量子核子可乐来得到缺失的主题配方碎片。
+Tutorial_Tip_92	Even if you stop a Radio Room from calling out, it continues to boost Dweller happiness.	即使您停止了广播室的对外召唤功能，它仍能提升居民的幸福度。
+Tutorial_Title	HELPFUL HINT	小贴士
+UI_Widget_NextRaidIn	NEXT RAID IN	下次突袭倒计时
+UI_Widget_Title_RaidInfo	Raid Info	突袭信息
+UI_Widget_Wave	Wave	波次
+UWP_MandatoryUpdateMessage	A mandatory update is available. Do you want to install this update now?	现在有一个必须安装的更新。是否立即安装？
+UWP_OptionalUpdateMessage	An optional update is available. Do you want to install this update now?	现在有一个可选更新。是否立即安装？
+UnlockRoom	UNLOCK ROOM	解锁房间
+UnlockRoom_Agility	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Armory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Bar	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_BarberShop	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Cardio	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Class	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_DecorationFactory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_DesignFactory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Game	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Gym	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Hydroponic	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Medbay	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Nuka	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_OutfitFactory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Overseer	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_PowerPlant	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_RadioStation	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_ScienceLab	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_Storage	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_UltraciteMiningRoom	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_UltraciteWeaponFactory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_WaterRoom	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+UnlockRoom_WeaponFactory	Have {0} Dwellers in your Vault	您的避难所有{0}位居民
+Updated_Terms_Message	[365136]By tapping 'Continue', I acknowledge that ZeniMax will process my personal info as described in the Privacy Policy, and I accept the Terms of Service, Code of Conduct, and EULA.	[365136]点击“继续”，即表示我确认 ZeniMax 将按《隐私政策》所述处理我的个人信息，并接受《服务条款》《行为准则》和《最终用户许可协议》。
+Updated_Terms_Privacy	[365136]To opt in or out of the sharing of your data with third parties, please click the privacy settings button below or visit the Settings menu.	[365136]如需选择接受或拒绝与第三方共享您的数据，请点击下方隐私设置按钮或访问设置菜单。
+Updated_Terms_Privacy_US	[365136]To opt out of the sharing of your data with third parties, please click the privacy settings button below or visit the Settings menu.	[365136]如需选择退出与第三方共享您的数据，请点击下方隐私设置按钮或访问设置菜单。
+Updated_Terms_Privacy_US_iOSDenied	[365136]To opt out of the sharing of your data with third parties, please visit the Settings menu.	[365136]如需选择退出与第三方共享您的数据，请访问设置菜单。
+Updated_Terms_Privacy_iOSDenied	[365136]To opt in or out of the sharing of your data with third parties, please visit the Settings menu.	[365136]如需选择接受或拒绝与第三方共享您的数据，请访问设置菜单。
+Updated_Terms_Title	[212F21]WE HAVE UPDATED OUR TERMS	[212F21]我们更新了服务条款
+Vault	Vault	避难所
+VaultBabyPopUp_error_emptyString	Your Baby needs a name.	婴儿需要一个名字。
+VaultNameSurvivalSuffix	(Survival)	（生存）
+VaultTecWindow_Description	Overseer - Watch this video and receive a fabulous gift!	监督者 - 观看此视频，即可获得精美礼品一份！
+VaultTecWindow_Explanation	You could get:	您可获得：
+VaultTecWindow_Explanation_ExVault	1 TOKEN to spin the Spin-to-Win wheel!	花1枚筹码转动幸运转盘！
+VaultTecWindow_Title	VAULT-TEC	避难所科技
+Vault_Caps_Count	Vault CAPS	瓶盖
+Vaultboy_Message_BabyGrewUp	THE BABY GREW UP!	孩子长大了！
+Vaultboy_Message_EnergyWarning	LOW POWER SUPPLY	电力不足
+Vaultboy_Message_FoodWarning	LOW FOOD SUPPLY	食物不足
+Vaultboy_Message_HappinessWarning	LOW OVERALL VAULT HAPPINESS	幸福度过低
+Vaultboy_Message_ObjectiveCompleted	CONGRATULATIONS! OBJECTIVE COMPLETED	恭喜你！\n目标完成
+Vaultboy_Message_ScorchedRaidFail	DEFEAT! YOU'LL GET THEM NEXT TIME	失败！下次一定能行！
+Vaultboy_Message_ScorchedRaidSuccess	VICTORY! YOU FOUGHT THEM OFF!	胜利！你击退了他们！
+Vaultboy_Message_StorageWarning	LOW STORAGE SPACE	储藏空间不足
+Vaultboy_Message_WaterWarning	LOW WATER SUPPLY	水资源不足
+Vibration	VIBRATION	震动
+Vibration_Switch	HD Rumble	高清震动
+VictorDialog_Armory_01	Ol' Vic can show you a thing or two about hittin' your mark.	老维克可以教你一两招如何打中目标。
+VictorDialog_Athletics_01	Amazin' how humans get around without wheels.	真佩服人类没有轮子照样能走来走去。
+VictorDialog_Bar_01	Can I get you a little fire water to take the edge off?	要来点烧刀子解解乏吗？
+VictorDialog_Cafeteria_01	Never found much use for eatin', myself. But I sure love cookin'!	我自己倒是用不着吃东西。不过我超爱做饭！
+VictorDialog_Classroom_01	Knowledge is greater than any weapon. After all, you can learn how to make weapons!	知识胜过任何武器。毕竟，你可以学会怎么造武器！
+VictorDialog_Fitness_01	Humans sure are somethin'. The more you use your bodies, the stronger they get!	人类真是神奇。身体用得越多，就变得越强！
+VictorDialog_GameRoom_01	Not to toot my own horn or nothin', but I can run any casino game in the biz.	不是老维克自夸，这一行赌场里的游戏，就没有我玩不转的。
+VictorDialog_GameRoom_02	Yeehaw! Blackjack again! You are on fire, friend!	呀呼！又是二十一点！你今天手气真旺，朋友！
+VictorDialog_Generic_01	Hey there, friend.	嘿，你好，朋友！
+VictorDialog_Generic_02	Fancy meetin' you here, friend.	能在这碰上你真是缘分啊，朋友！
+VictorDialog_Generic_03	Butter my butt and call me a biscuit!	我的老天爷！
+VictorDialog_Generic_04	I hate to say it, but you look like ten miles of bad road.	不得不说，你这副模样，就像在烂路上跑了十英里似的。
+VictorDialog_Generic_05	Heh, I like you, friend. Have I mentioned that?	嘿，我可喜欢你了，朋友！我提过吗？
+VictorDialog_Generic_06	Is there anythin' old Vic can do you for?	有什么老维克能帮上忙的？
+VictorDialog_Generic_07	C'mon, everyone needs a hand from time to time.	来嘛，人嘛，偶尔总需要别人搭把手的。
+VictorDialog_Generic_08	Howdy, pardner! Fine evenin' ain't it?	你好啊，搭档！今晚真不赖，是不是？
+VictorDialog_Generic_09	You look like you could use a sarsaparilla.	你这副样子，像是需要喝杯沙士了。
+VictorDialog_Generic_10	You make sure to take a little siesta, y'hear?	一定要记得小憩一下哦，听到了吗？
+VictorDialog_Generic_11	Nothin' like a day's hard work to ease the soul in these tryin' times.	在这艰难时世，踏踏实实干一天活儿，才能真正安心。
+VictorDialog_Generic_12	Now don't you hesitate to ask ol' Vic for anythin' you need.	有什么需要，别犹豫，尽管来找老维克。
+VictorDialog_Generic_13	Here, let me help. You take a load off.	来，让我帮你。你先歇着。
+VictorDialog_Generic_14	Well, yes, there's Cram for dinner again. But this time it's grilled!	唉，没错，晚饭又是饱饱牌肉罐头。不过这次是烤的！
+VictorDialog_Generic_15	She may be just a fancy hole in the earth, but this vault's home.	她也就是地底下挖的个豪华坑，但这避难所就是家。
+VictorDialog_Generic_16	Scrub, scrub, lather, rinse...	搓啊，搓啊，打满泡沫，冲干净……
+VictorDialog_Generic_17	I'll just mosey on over to where I'm needed next.	哪儿用得着我，我就慢悠悠晃到哪儿。
+VictorDialog_Generic_18	Someone call for ol' Vic?	有人找老维克吗？
+VictorDialog_Generic_19	Don't be alarmed, but I get the feelin' that we're bein' watched.	别担心，但我总感觉有人在盯着咱们。
+VictorDialog_Generic_20	Toilets to scrub? Invaders to vaporize? I'm your man! Er, so to speak.	要刷厕所？要消灭入侵者？包在我身上！呃，打个比方说。
+VictorDialog_Generic_21	Well, hello there!	嘿，你好啊！
+VictorDialog_Generic_22	My software tells me it's 6 o'clock, but I don't know. Feels more like 8 o'clock.	我的程序显示现在是6点，不过怎么感觉更像8点。
+VictorDialog_Generic_23	What'll it be? Foot rub? Disinfectant? Philosophical debate?	来点什么？揉脚？消毒？还是哲学辩论？
+VictorDialog_Generic_24	I wonder if the Overseer is listenin'. If you are… I like you, pardner.	不知道监督者有没有在听。如果有……我挺喜欢你的，搭档。
+VictorDialog_Generic_25	All you can do is your best. And your best is good enough, pardner.	人只能做到尽力而为。而你的尽力，已经足够了，搭档。
+VictorDialog_Gym_01	Strength trainin' is very important for those without built-in hydraulics.	力量训练对那些没有内置液压系统的人来说非常重要。
+VictorDialog_Hydroponics_01	Ahh, what a beautiful room. I could spend all day lookin' at these plants.	啊，真是美丽的房间。我能在这里看植物看上一整天。
+VictorDialog_LivingQuarters_01	I wonder what those humans get up to in that back room.	不知道那些人类在后屋里捣鼓些什么。
+VictorDialog_LivingQuarters_02	Beggin' your pardon, you take how many hours to recharge? Darn!	对不住，你说你充个电要多少小时来着？哎呀！
+VictorDialog_Medbay_01	I suppose even a human's self-repairing body has its limits.	我想就算人类自我修复的身体也是有极限的。
+VictorDialog_Nuka Cola_01	Nothin' like a cold sarsaparilla on a hot day.	大热天来杯冰沙士，再好不过。
+VictorDialog_OutfitWorkshop_01	What'll it take to make ol' Vic a nice cotton shirt and a leather vest?	给老维克做件漂亮的棉衬衫和皮背心，得费多少工夫？
+VictorDialog_PowerGenerator_01	This room lights up my life. No, really! It does!	这个房间点亮了我的生命。真的！是字面意思！
+VictorDialog_RadioStation_01	Tune in next time for another episode of Vic's Vintage in... five seconds.	敬请收听下一集《维克的复古时光》，时间就在……五秒之后。
+VictorDialog_Reactor_01	I don't suppose it's such a good idea to jump in there. Might be fun, though!	跳进去应该不是个好主意。不过可能挺好玩！
+VictorDialog_ScienceLab_01	Between you and me, I ain't got such a good head for science-y stuff.	和你说句悄悄话，我对那些科学的东西不太有头脑。
+VictorDialog_StorageRoom_01	It's not just stuff. Every object tells its own tale, pardner.	这不只是些杂物而已。每件东西都有它自己的故事，搭档。
+VictorDialog_Wasteland_1	I can smell trouble a mile away.	我能闻出一英里外的麻烦。
+VictorDialog_Wasteland_2	Just rolled into an empty town. My skin is startin' to itch.	刚转悠进一座空城。我的铁皮都开始发痒了。
+VictorDialog_Wasteland_3	My gut is tellin' me to head this-a-way. And I always follow my gut.	我的直觉告诉我要往这边走。而我一直都听我的直觉。
+VictorDialog_Wasteland_4	Looks like a tussle up ahead. Nothin' old Vic can't handle!	看起来前头有场架要打。就没老维克摆不平的事！
+VictorDialog_Wasteland_5	Some rascals tried to drygulch me. Can't have that, of course.	有几个无赖想伏击我。这当然不能忍。
+VictorDialog_Wasteland_6	Sounds like trouble. Time to skedaddle!	听这动静是出事了。该脚底抹油啦！
+VictorDialog_Wasteland_7	Why, you low-down nibbler. Quit gnawin' on my wheel!	喂，你这下贱的鼠辈。别咬我的轮子！
+VictorDialog_Wasteland_8	I do believe I heard somethin'...	我敢说我是听到了什么动静……
+VictorDialog_Wasteland_9	Death's comin' for ya, I swear!	死神来找你了，我发誓！
+VictorDialog_Wasteland_10	Yeehaw!	呀呼！
+VictorDialog_Wasteland_11	Hostiles! Say your prayers, desperado!	发现敌人！留好遗言吧，亡命之徒！
+VictorDialog_Wasteland_12	Somethin' don't sit right... best look lively.	感觉有什么不对劲……最好警醒起来。
+VictorDialog_Wasteland_13	Draw, pardner! Heh heh. Just practicin'.	拔枪，搭档！哈哈，就是练练手。
+VictorDialog_Wasteland_14	Mighty lonesome out here.	这地方好寂寞啊。
+VictorDialog_Wasteland_15	Ain't it just my luck. Thought I'd found somethin' neat, but it's just trash.	瞧我这运气。还以为找到什么好东西，结果就是垃圾。
+VictorDialog_Wasteland_16	Had to lay some Mole rats down to rest. Fascinatin' creatures!	只好送几只鼹鼠长眠了。真是有趣的生物！
+VictorDialog_Wasteland_17	Think I'll take a short siesta and clean the Radroach out o' my wheel.	我想小睡一会儿，顺便把轮子里的辐射蟑螂清一清。
+VictorDialog_Wasteland_18	Hmm... why do I get the feelin' I've been here before?	嗯……我怎么感觉来过这里？
+VictorDialog_Wasteland_19	Oh, give me a home where the Radroaches roam, where the Mole rats and Cazadors play…	喔，给我一个辐射蟑螂乱窜的家，那里鼹鼠和卡扎多尽情欢玩……
+VictorDialog_Wasteland_20	These ruins sure are somethin'. Makes ya wonder about how it all used to be.	这些废墟真是壮观。让人不禁想，以前这里曾是什么样子。
+VictorDialog_Wasteland_21	I intend to see you dead, vermin!	我要你死，害虫！
+VictorDialog_Wasteland_22	What was that? Sounded like voices. Might have to tread carefully...	那是什么？好像有人在说话。得小心行事了……
+VictorDialog_Wasteland_23	Let's see here, which way to head next?	让我看看，下一步该往哪走？
+VictorDialog_Wasteland_24	Door's locked. Guess I'll just have to bust it open!	门锁上了。看来得直接撞开！
+VictorDialog_Wasteland_25	If anyone's listenin', I'd just like to say... I hope you're well, pardner.	如果有人在听，我就想说……希望你一切安好，搭档。
+VictorDialog_Wasteland_26	I spy some Super Mutants there in the distance. I wonder if they're friendly.	我远远看到几个超级变种人。不知道他们是不是友好的。
+VictorDialog_Wasteland_27	I reckon it's time to choose a direction at random, and roll!	我想是时候随机选个方向，然后出发！
+VictorDialog_Wasteland_28	Sure is nice to have some time to myself.	能有点独处的时间真不赖。
+VictorDialog_Wasteland_29	Hum de dum, doot doo dedum...	哼哼哼，嗒嗒嗒嗒……
+VictorDialog_Wasteland_30	My, my, look at that Deathclaw. That's a big critter. I'd best give it a wide berth.	哟，你瞧这只死爪。真是头大家伙。最好离它远点。
+VictorDialog_Wasteland_31	Yao Guai? More like “Now die!”	妖怪熊？我看倒像是“要你命”！
+VictorDialog_Wasteland_32	I daresay these ruins would have been called a “dive bar” back before the fall. Now they're all “dive bars”!	我得说，这些废墟在核弹落下之前，大概会被称为“破烂酒吧”。而现在，它们全都是“破烂酒吧”！
+VictorDialog_Wasteland_33	Butter my biscuit, a real suit of Power Armor! I wonder if it fits me...	哎哟我的老天，一套货真价实的动力装甲！不知道合不合我的身……
+VictorDialog_Wasteland_34	Sure are a lot of empty syringes out here.	这外头空针管还真多。
+VictorDialog_Wasteland_35	Looks like a Cazador nest up ahead. They don't take much interest in those of the robotic persuasion.	前面看起来有个卡扎多巢穴。它们对机器人这一类的家伙可没什么兴趣。
+VictorDialog_Wasteland_36	You know what they say. When you see a fork in the road, take it!	你知道老话怎么说的——见到岔路口，就把叉子拿走！
+VictorDialog_Wasteland_37	I think I'll head North.	我想往北走。
+VictorDialog_Wasteland_38	I think I'll head East.	我想往东走。
+VictorDialog_Wasteland_39	I think I'll head West.	我想往西走。
+VictorDialog_Wasteland_40	I think I'll head South.	我想往南走。
+VictorDialog_Wasteland_41	This looks like it would've been a farm once. Now there's good, honest work.	这里看起来以前是个农场。如今可是正当踏实的营生。
+VictorDialog_Wasteland_42	Look at this poor Protectron all in pieces. Maybe not RobCo's finest workmanship.	瞧这可怜的保护者机器人，零件散了一地。也许不是罗伯科最精良的工艺。
+VictorDialog_Wasteland_43	Wooo-ee! Dang near blew myself up on that frag mine. Careless of me.	哇哦！差点踩上那颗破片地雷炸了自己。我真粗心。
+VictorDialog_Wasteland_44	Seems I'm headin' North. May as well keep on keepin' on!	看来我正往北走。那就接着往前晃呗！
+VictorDialog_Wasteland_45	Seems I'm headin' East. May as well keep on keepin' on!	看来我正往东走。那就接着往前晃呗！
+VictorDialog_Wasteland_46	Seems I'm headin' West. May as well keep on keepin' on!	看来我正往西走。那就接着往前晃呗！
+VictorDialog_Wasteland_47	Seems I'm headin' South. May as well keep on keepin' on!	看来我正往南走。那就接着往前晃呗！
+VictorDialog_Wasteland_48	Would you look at that. An Ace of Spades! I think it's my lucky day.	你看看这个。一张黑桃A！我想今天运气不错。
+VictorDialog_Wasteland_49	I wonder what Mr. House is up to right now.	不知道豪斯先生现在在干什么。
+VictorDialog_Wasteland_50	It's as hot as the Mojave at high noon. Wait... this IS the Mojave at high noon!	热得就像莫哈维的正午。等等……这就是莫哈维的正午！
+VictorDialog_WaterPlant_01	For some reason, I feel threatened in this room.	不知为何，在这房间里我总觉得自身安全受到威胁。
+VictorDialog_WaterPurification_01	RobCo built me to be 100% waterproof, up to 400 feet of depth. Not that I'm going to test it, mind.	罗伯科把我造得百分之百防水，最深能扛到400英尺。当然，我可没打算去试就是了。
+VictorDialog_WeaponsWorkshop_01	Now that's a lot o' heat!	哟，这火力可不小！
+Victor_Card_TagLine	Someone call for ol' Vic?	有人找老维克吗？
+Victor_Category_Name	RobCo	罗伯科
+Victor_Name	Victor	维克托
+WastelandCollectAllCommonItems	Collect Common Items	收集普通的物品
+WastelandItem_Title	Scavenger	拾荒者
+WastelandSellAllCommonItems	Sell Common Items	出售普通物品
+Wasteland_Button_CancelQuest	RECALL	召回
+Wasteland_Button_ResumeQuest	RESUME QUEST	继续任务
+Wasteland_Button_StartQuest	ENTER!	进入！
+Wasteland_Cant_Send	You can't send this Dweller to the Wasteland right now.	你现在不能把此居民派去废土。
+Wasteland_Collect_Items	Collect	收集
+Wasteland_Dead	Dweller died in the Wasteland.	居民在废土探险时死亡。
+Wasteland_Dead_SurpriseQuest	Dweller died exploring a location in the Wasteland.	居民在探索一处地点时死亡。
+Wasteland_DwellerRevived	I'm alive!	我活过来了！
+Wasteland_DwellerRevived2	Back in action!	重新开始探险！
+Wasteland_DwellerRevived3	Can't keep a good Dweller down!	不能让一个优秀的居民倒下！
+Wasteland_DwellerRevived4	Reports of my death have been greatly exaggerated!	关于我死亡的报道也太夸张了吧！
+Wasteland_DwellerRevived5	Ahhh! Much better!	啊啊啊！好多了！
+Wasteland_ExteriorItem_SubTitle	Customize Wasteland Theme	自定义废土主题
+Wasteland_ExteriorItem_Title	WASTELAND	废土
+Wasteland_ExteriorName_Concord	Concord	康科德
+Wasteland_ExteriorName_Default	Default	默认
+Wasteland_ExteriorName_Enclave	Enclave Mobile Base Crawler	英克雷移动基地履带车

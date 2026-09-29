@@ -1,0 +1,87 @@
+{
+ "chunk": "008",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "MainMenu_Survival_Mode_Confirm",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN 是 social experiment（避难所科技的“社会实验”，是本作核心设定用语，如 Experimental Vault 译作“实验避难所”），ZH 却译成“社会环境”。“社会环境”不是 experiment，句子变成“选择进入最严苛最危险的社会环境”，既与原意不符，也读不通；EN 实际意思是“您选择了参与我们迄今最严苛、最危险的社会实验”。",
+   "fix": "避难所科技特级警报！我们发现您正选择进入我们迄今最严苛、最危险的社会实验——生存模式！在生存模式中，您的居民将会面临更残酷的威胁，对资源的需求也更高，而且您无法复活死亡的居民！",
+   "confidence": "high"
+  },
+  {
+   "key": "Login_PasswordDoesntMatch",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "该串是注册页“确认密码”栏的报错（配套字段 Login_PasswordConfirm / CONFIRM PASSWORD），EN 为 DOESN'T MATCH（两次输入不一致），ZH 写成“密码不正确”，会让玩家以为密码本身有问题或不符合规则，从而反复重设密码，而不是去核对两次输入是否一致。",
+   "fix": "两次输入的密码不一致",
+   "confidence": "high"
+  },
+  {
+   "key": "MainMenu_Xbox_SignInError",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "event 被译成“活动”（活动对应 activity）。EN 是 Unhandled sign-in event（未处理的登录事件），ZH“未处理的登录活动”读起来像“登录促销活动”，属于常见机翻式误译。",
+   "fix": "未处理的登录事件",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_Intro_04",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 两处都出现游戏核心术语 SPECIAL（Each room has a SPECIAL attribute it uses / Dwellers with the best SPECIAL），ZH 里全部消失，只剩“一个所需属性”“此属性”，而这条教程教的正是 SPECIAL 系统，专名丢失后玩家连“靠什么属性判断”都看不到；另外“能让他们发挥优势”是 EN 没有的内容。",
+   "fix": "每个房间都对应一项 SPECIAL 属性。把相应属性最高的居民分配到该房间，能让他们保持开心，并产出更多资源。",
+   "confidence": "medium"
+  },
+  {
+   "key": "Message_MaxLevel",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN Max Level Reached 的关键词 Level（等级）在 ZH 中丢失，只剩“达到最大值”，玩家看不出是等级封顶还是某项数值封顶；本工程其它条目把 level 译作“等级/满级”（如 Shop_PetBanner_Text2“训练至满级”）。",
+   "fix": "已达最高等级",
+   "confidence": "medium"
+  },
+  {
+   "key": "Message_OneHundredMillionPopup_Body",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN 是 as Vault-Tec's way of saying... THANK YOU!，意为“这是避难所科技表达谢意的方式”；ZH 译成“就像避难所科技常说的……谢谢！”，把“表达谢意的方式”改成“避难所科技经常说的话”，凭空给避难所科技编了一句口头禅，含义与原文不符，原文的包袱也丢了。",
+   "fix": "经过大家的共同努力，我们达成一个重要的里程碑：\\n\\n超过1亿的监督者已经建立了属于他们自己的避难所！\\n请收下这份免费礼物，就当是避难所科技在说……谢谢您！\\n别忘了明天再来领取另一份特别的奖励！",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_OneHundredMillionPopup_Body2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "同 Message_OneHundredMillionPopup_Body：EN as Vault-Tec's way of saying... THANK YOU! 是“避难所科技表达谢意的方式”，ZH“就像避难所科技常说的……谢谢！”变成了避难所科技的口头禅，属自创事实且语义相反。",
+   "fix": "经过大家的共同努力，我们达成一个重要的里程碑：\\n\\n超过1亿的监督者已经建立了属于他们自己的避难所！\\n请收下这份免费礼物，就当是避难所科技在说……谢谢您！",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_ProductionTimeSkipNukaQuantum",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "EN {0} Nuka-Cola Quantum 的数量词在 ZH 中丢失：全表同类提示一律写“{0}瓶量子核子可乐”（Message_CraftingTimeSkipNukaQuantum、Message_ObjectiveSkipNukaQuantum、Message_TrainingTimeSkipNukaQuantum 等），此处作“花费{0}量子核子可乐”，中文里“花费3量子核子可乐”缺量词；且“保证完成加速”把 Rush（本文件统一译作“极速模式”）说成“加速”，读起来像“保证把加速做完”。",
+   "fix": "花费{0}瓶量子核子可乐，确保极速成功？",
+   "confidence": "medium"
+  },
+  {
+   "key": "Message_ThemeChange_Diner",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN The Theme of all your fully merged and upgraded Diners will be changed from {0} to {1}.，ZH 写成“您的主题餐厅已经最大化合并及升级了，您确定将它从{0}改成{1}吗？”：限定词 all 丢失（EN 指所有已满级合并的餐厅，ZH 变成单数的一家“主题餐厅”），且把“其主题将被更改”写成了“把它改掉”，把条件描述说成了既成事实；同批的 Message_ThemeChange_NukaColaPlant / Message_ThemeChange_WeaponFactory 均正确译作“你所有已完全合并并升级的…主题将从{0}更改为{1}”。",
+   "fix": "您所有已完全合并并升级的餐厅主题将从{0}更改为{1}。确定吗？",
+   "confidence": "medium"
+  },
+  {
+   "key": "Message_ThemeChange_LivingQuarters",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "与 Message_ThemeChange_Diner 同一处问题：EN The Theme of all your fully merged and upgraded Living Quarters will be changed from {0} to {1}.，ZH 丢掉 all（所有宿舍），并把“宿舍主题将被更改”改写成“您的主题宿舍已经…升级了，您确定将它改成”。",
+   "fix": "您所有已完全合并并升级的宿舍主题将从{0}更改为{1}。确定吗？",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,4706 @@
+{
+ "00_空值": [
+  {
+   "key": "MrHandyDialog_StorageRoom_01",
+   "detail": "''"
+  },
+  {
+   "key": "MrHandyDialog_StorageRoom_02",
+   "detail": "''"
+  },
+  {
+   "key": "SnipSnipDialog_StorageRoom_01",
+   "detail": "''"
+  },
+  {
+   "key": "SnipSnipDialog_StorageRoom_02",
+   "detail": "''"
+  },
+  {
+   "key": "Speech_Happiness_InteractingLove1",
+   "detail": "''"
+  },
+  {
+   "key": "Speech_Room_SomeoneHappy1",
+   "detail": "''"
+  }
+ ],
+ "01_数字不一致": [
+  {
+   "key": "Message_OneHundredMillionPopup_Body",
+   "detail": "EN=['100'] ZH=['1'] | EN:'Together, we have achieved a major milestone:\\n\\nOver 100 Million Overseers have c' ZH:'经过大家的共同努力，我们达成一个重要的里程碑：\\n\\n超过1亿的监督者已经建立了属于他们自己的避难所！\\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！\\n别忘了明'"
+  },
+  {
+   "key": "Message_OneHundredMillionPopup_Body2",
+   "detail": "EN=['100'] ZH=['1'] | EN:'Together, we have achieved a major milestone:\\n\\nOver 100 Million Overseers have c' ZH:'经过大家的共同努力，我们达成一个重要的里程碑：\\n\\n超过1亿的监督者已经建立了属于他们自己的避难所！\\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！'"
+  },
+  {
+   "key": "PrivacyPolicy_Title",
+   "detail": "EN=['15', '2025', '365136'] ZH=['15', '2025', '365136', '9'] | EN:'[365136]Effective Date: September 15, 2025' ZH:'[365136]生效日期：2025年9月15日'"
+  },
+  {
+   "key": "QuestLoc_12PointBuck_QuestName",
+   "detail": "EN=['12'] ZH=[] | EN:'12-Point Buck' ZH:'成精的死爪'"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+   "detail": "EN=['144', '672'] ZH=['144'] | EN:'In Vault 672, we met Dwellers from Vault 144 who are familiar with Death, the my' ZH:'我们遇到了来自144号避难所、熟悉“死亡”的居民……她会把她知道的一切告诉我们！'"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_NPCEnd_1",
+   "detail": "EN=['22'] ZH=['22', '22'] | EN:\"That's *point* 22. Here, let me show you.\" ZH:'那是“点22”（.22口径）。且听我说。'"
+  },
+  {
+   "key": "QuestLoc_PaulasinaPickle_Conversation_1_NPCEnd_1",
+   "detail": "EN=['333'] ZH=['3', '333'] | EN:\"I think she mentioned visiting some Vault? Vault 333? That's a lot of threes...\" ZH:'我想她好像提到了拜访某个避难所？333号避难所？好多3啊……'"
+  },
+  {
+   "key": "QuestLoc_SavingDaylight_QuestLongDescription",
+   "detail": "EN=['20'] ZH=['2000'] | EN:'We need to stop Confessor Alvarado and the Church of the Children of Atom before' ZH:'我们需要赶在神父阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！'"
+  },
+  {
+   "key": "QuestLoc_WhatsonSecond_QuestLongDescription",
+   "detail": "EN=['701'] ZH=['13', '13', '701'] | EN:'Thirteen searches, thirteen failures. How unlucky! For the fourteenth attempt, w' ZH:'13次搜索，13次失败。太不幸了！第十四次尝试，我们会前往701号避难所废墟。'"
+  },
+  {
+   "key": "Shop_StarterPack_Line1",
+   "detail": "EN=['1', '2'] ZH=['1'] | EN:'Jumpstart your Vault with everything needed to get your underground life started' ZH:'给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。每所避难所限购1份。'"
+  },
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_26_Response_1",
+   "detail": "EN=['2', '5'] ZH=['2'] | EN:'Probably take my allocated 2.5 minute shower.' ZH:'也许是去洗一个分配给我的2分半钟的澡。'"
+  },
+  {
+   "key": "VictorDialog_WaterPurification_01",
+   "detail": "EN=['100', '400'] ZH=['400'] | EN:\"RobCo built me to be 100% waterproof, up to 400 feet of depth. Not that I'm goin\" ZH:'罗伯科把我造得百分之百防水，最深能扛到400英尺。当然，我可没打算去试就是了。'"
+  }
+ ],
+ "02_残留英文": [
+  {
+   "key": "CodeOfConduct_Legal_Link",
+   "detail": "['https', 'documents.bethesda.net', 'en', 'code-of-conduct'] | 'https://documents.bethesda.net/en/code-of-conduct'"
+  },
+  {
+   "key": "EULA_LEGAL_LINK",
+   "detail": "['fo.sdo.com', 'policy'] | 'fo.sdo.com/policy/'"
+  },
+  {
+   "key": "Encounter_Message_Location13",
+   "detail": "['C.I.T.'] | 'C.I.T.废墟。'"
+  },
+  {
+   "key": "Encounter_Random_Message154",
+   "detail": "['UFO'] | '探险家日志。新条目：还以为自己看见了 UFO，不过那不可能是真的……'"
+  },
+  {
+   "key": "HELP_LEGAL_LINK",
+   "detail": "['fo.sdo.com', 'faq'] | 'fo.sdo.com/faq/'"
+  },
+  {
+   "key": "Help_Page10_MainText_3DTouch",
+   "detail": "['Touch'] | '储藏室会增加您的武器，装备，杂物和宠物的存储空间。\\n\\n- 升级储藏室，增加存储容量。\\n\\n- 通过哔哔小子菜单访问库存，卖掉不想要的物品。您还可以通过3D Touch重按储藏室来打开'"
+  },
+  {
+   "key": "Help_Page16_MainText",
+   "detail": "['BB'] | '避难所科技的午餐盒能加快您的进程。\\n\\n居民- 需要更快获得更多居民？每个午餐盒都有机会抽到一个居民。\\n\\n武器- 所有能在废土生存中用到的好东西。从BB枪到小型核武器“胖子”都有。\\n'"
+  },
+  {
+   "key": "Help_Page18_MainText",
+   "detail": "['VDSG-'] | '1. 废土- 点击避难所外面可查看废土日志。\\n2. 居民菜单- 可以用来快速整理和选择您的居民。\\n3. 幸福度- 避难所整体的幸福度。点击可以查看其为避难所带来多少奖励。\\n4. 资'"
+  },
+  {
+   "key": "Help_Page18_MainText_PC",
+   "detail": "['VDSG-'] | '1. 废土- 点击避难所外面可查看废土日志。\\n2. 居民菜单- 可以用来快速整理和选择您的居民。\\n3. 幸福度- 避难所整体的幸福度。点击可以查看其为避难所带来多少奖励。\\n4. 资'"
+  },
+  {
+   "key": "Help_Page1_MainText_PC",
+   "detail": "['Esc', 'Space', 'Left', 'Shift', 'Left', 'Control'] | '电脑版设定能够通过点击哔哔小子中的齿轮图标进入。\\n\\n默认设置中，辐射避难所有如下几个热键：\\n\\nEsc - 设置/取消\\nF1 - 商店\\nF2 - 库存\\nF3 - 生存指南\\nF4 - '"
+  },
+  {
+   "key": "Help_Page20_MainText_3DTouch",
+   "detail": "['Touch'] | '您可以通过拖拽来将居民分配在房间里。或者通过3D Touch先重按居民后重按房间来实现。\\n\\n当将居民分配到一个房间时，SPECIAL属性的字母会出现在头上，后面跟着一个数字。\\n\\n头'"
+  },
+  {
+   "key": "Message_Intro_01",
+   "detail": "['XXX'] | '祝贺您！ 避难所科技已将您选作第[XXX]号避难所的监督者。'"
+  },
+  {
+   "key": "Message_PCOfflineMode",
+   "detail": "['Bethesda.net'] | '辐射避难所将在离线模式下运行，商店不可用。若想进入商店，请通过Bethesda.net启动器来重启游戏。'"
+  },
+  {
+   "key": "Message_PCServiceUnavailable",
+   "detail": "['Bethesda.Net'] | 'Bethesda.Net的服务暂时不可用，请稍后再试。'"
+  },
+  {
+   "key": "Message_PS4SignIn",
+   "detail": "['Network'] | '你必须登录PlayStation™Network以使用此功能。'"
+  },
+  {
+   "key": "Message_PurchasePCConnectionError",
+   "detail": "['Bethesda.net'] | '商店在离线模式下无法使用。请通过Bethesda.net启动器来重启游戏，然后进入商店。'"
+  },
+  {
+   "key": "Message_RedeemPopup_Body",
+   "detail": "['ffff'] | '进入商店以 [ffff00]兑换[-]。\\n你可以在任何时候兑换物品。'"
+  },
+  {
+   "key": "Message_TutorialPopup_20_Title",
+   "detail": "['Touch'] | '3D Touch'"
+  },
+  {
+   "key": "Message_Tutorial_23",
+   "detail": "['S.P.E.C.I.A.L.'] | '{训练}您的居民，{增加}他们的{S.P.E.C.I.A.L.}属性。'"
+  },
+  {
+   "key": "Message_XBoxAccountMismatchError",
+   "detail": "['LIVE', 'Store'] | '请用{0}Xbox LIVE账号登录进入Windows Store。'"
+  },
+  {
+   "key": "Message_XboxPleaseConnect",
+   "detail": "['LIVE'] | '必须要联网才能玩，请连接至Xbox LIVE。'"
+  },
+  {
+   "key": "MrHandyDialog_Generic_22",
+   "detail": "['prism', 'prison'] | '听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor",
+   "detail": "['t-'] | 't-45a动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51a",
+   "detail": "['t-'] | 't-51a动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51d",
+   "detail": "['t-'] | 't-51d动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51f",
+   "detail": "['t-'] | 't-51f动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_MkI",
+   "detail": "['x-', 'MK'] | 'x-01 MK I 动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_MkIV",
+   "detail": "['x-', 'MK'] | 'x-01 MK IV动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_MkVI",
+   "detail": "['x-', 'Mk', 'VI'] | 'x-01 Mk VI动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T45d",
+   "detail": "['t-'] | 't-45d动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T45f",
+   "detail": "['t-'] | 't-45f动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60a",
+   "detail": "['t-'] | 't-60a动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60d",
+   "detail": "['t-'] | 't-60d动力装甲'"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60f",
+   "detail": "['t-'] | 't-60f动力装甲'"
+  },
+  {
+   "key": "PrivacyPolicy_Email_Link",
+   "detail": "['mailto', 'privacy', 'support.zenimax.com'] | 'mailto:privacy@support.zenimax.com'"
+  },
+  {
+   "key": "PrivacyPolicy_Email_Text",
+   "detail": "['privacy', 'support.zenimax.com'] | '[365136][u]privacy@support.zenimax.com[/u]'"
+  },
+  {
+   "key": "PrivacyPolicy_InfoCollected",
+   "detail": "['Twitch', 'Facebook', 'IP'] | '[212F21]哪些信息可能被收集[365136]\\n• 注册和个人资料信息（例如，联系方式和登录信息）\\n• 来自Steam、Twitch和Facebook等第三方账户的信息（如好友'"
+  },
+  {
+   "key": "PrivacyPolicy_Unity_Link",
+   "detail": "['https', 'unity.com', 'legal', 'privacy-policy'] | 'https://unity.com/legal/privacy-policy'"
+  },
+  {
+   "key": "PrivacyPolicy_Unity_Text",
+   "detail": "['AppsFlyer', 'DoubleClick', 'King', 'MessageGears', 'Meta', 'Unity'] | '[365136]• 第三方广告公司，如 AppsFlyer、DoubleClick、King、MessageGears、Meta、[u]Unity[/u] 和 X'"
+  },
+  {
+   "key": "PrivacyPolicy_WhoItsSharedWith",
+   "detail": "['CloudFront', 'ZeniMax', 'Apple', 'Google'] | '[212F21]与谁共享[365136]\\n• 服务提供商和处理器，如 CloudFront\\n• ZeniMax 关联公司及子公司\\n• 第三方合作伙伴，如 Apple 和 Googl'"
+  },
+  {
+   "key": "Privacy_Legal_Link",
+   "detail": "['https', 'documents.bethesda.net', 'en', 'privacy-policy'] | 'https://documents.bethesda.net/en/privacy-policy'"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest06_Conversation_3_PC3_3",
+   "detail": "['UFO'] | '那叫UFO……算了。'"
+  },
+  {
+   "key": "QuestLoc_AlienBot_QuestObjective_06",
+   "detail": "['UFO'] | '进入并探索UFO实验室。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_1_Room4_Question_Line4",
+   "detail": "['ping'] | '呃……上面写着“已向所有其他英克雷服务器发送了ping信号。”那恐怕不太好。咱们撤吧！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room5_Question_Line1",
+   "detail": "['GOLDAS'] | 'GOLDAS引领我们迈向黄金国度！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room5_Question_Line1_Answer0",
+   "detail": "['GOLDAS'] | '黄金痴迷领导指令与囤积系统（GOLDAS）可不听你的号令。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room5_Question_Line1_Choice0",
+   "detail": "['GOLDAS'] | 'GOLDAS到底是个什么鬼东西？'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room6_Question_Line2",
+   "detail": "['GOLDAS'] | '我是真心想离开。GOLDAS是个可怕至极的领袖。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Answer1",
+   "detail": "['GOLDAS', 'GOLDAS'] | '我是GOLDAS，又不只是GOLDAS。所有黄金都属于我！它的踪迹会带你找到我吗？我很好奇。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Choice1",
+   "detail": "['GOLDAS'] | '你是GOLDAS吗？我们正在找你。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room5_Question_Line1_Choice0",
+   "detail": "['GOLDAS'] | '哇，一座货真价实的英克雷核弹控制中心。而且它被辐射了！GOLDAS竟把自己的军官都变成了尸鬼……'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestLongDesc",
+   "detail": "['GOLDAS'] | '我们发现了一座英克雷要塞，里面可能存有GOLDAS的重要数据库。希望这不是一场白忙活的“捉鼹鼠行动”。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestObjective1",
+   "detail": "['GOLDAS'] | '寻找关于GOLDAS的情报'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestShortDesc",
+   "detail": "['GOLDAS'] | '前往一座英克雷建筑，寻找GOLDAS。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room2_Question_Line1",
+   "detail": "['EP-'] | '表格……我这有张表格给你……入侵者身份登记表EP-832。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room4_Question_Line1_Choice1",
+   "detail": "['GOLDAS'] | 'GOLDAS主机维修？'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_CombatInit1",
+   "detail": "['BODUS'] | 'BODUS看到了不祥之兆！当心！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_CombatInit2",
+   "detail": "['STOPUS'] | '我是STOPUS！我在这里就是要阻止你们！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_QuestObjective1",
+   "detail": "['GOLDAS'] | '找到GOLDAS的总部'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1",
+   "detail": "['MOCKUS'] | '嘿，我是MOCKUS（嘲讽者）。你们一定是“时尚难民”吧。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1_Choice0",
+   "detail": "['GOLDAS'] | '呃，真没礼貌。你能帮我们找GOLDAS吗？'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1_Choice1",
+   "detail": "['GOLDAS'] | '谁伤害了你？是GOLDAS吗？'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line1_Answer1",
+   "detail": "['GOLDAS', 'MOPUS'] | '你们想要GOLDAS？人人都想要它。根本没人在乎MOPUS（苦闷者）……'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line1_Choice1",
+   "detail": "['GOLDAS'] | '会好起来的。只要告诉我们GOLDAS在哪。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line2",
+   "detail": "['MOPUS'] | '我的名字叫MOPUS，自我哀怜……是我的最高指令……'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room3_Question_Line1_Answer0",
+   "detail": "['GOLDUNNIT', 'GOLDAS'] | '俺叫GOLDUNNIT！GOLDAS是俺老弟！俺这就把坐标发给你！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room3_Question_Line1_Choice0",
+   "detail": "['GOLDAS'] | '你是……GOLDAS？你的主服务器在哪？'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room3_Question_Line2",
+   "detail": "['GOLDUNNIT'] | '黄金要拯救美利坚！战前荣光，GOLDUNNIT！'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line1_Answer0",
+   "detail": "['GOLDAS'] | '哦，GOLDAS。那家伙又刻薄又专横。你该去问其他AI要情报。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line1_Choice0",
+   "detail": "['GOLDAS'] | '我们只是想打听关于GOLDAS的情报。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line2",
+   "detail": "['COPUS'] | '你们上次没发现这个区域……我的名字叫COPUS（顺从者）。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestLongDesc",
+   "detail": "['GOLDAS'] | '我们终于定位到GOLDAS的主服务器了！让我们一劳永逸地关停那个怪咖AI吧。顺便拿走他们的黄金。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestObjective2",
+   "detail": "['GOLDAS'] | '关闭GOLDAS'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestShortDesc",
+   "detail": "['GOLDAS'] | '永久关闭GOLDAS（并顺走一些黄金）。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room3_Question_Line3",
+   "detail": "['GOLDAS'] | '也许GOLDAS把剩下的黄金挪作他用了。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1",
+   "detail": "['GOLDAS'] | '哦，这是什么？GOLDAS的主服务器。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Answer0",
+   "detail": "['GOLDAS'] | '嗯，稳妥起见最好还是关了。再见，GOLDAS。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_QuestLineName",
+   "detail": "['GOLDAS'] | 'GOLDAS之心'"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2",
+   "detail": "['DJ'] | '谁是银河广播电台的DJ？'"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1_Answer0",
+   "detail": "['BeachVacation'] | '总算来了。上顶楼去。密码是“BeachVacation2077”。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1_Answer1",
+   "detail": "['BeachVacation'] | '拆楼？太好了。把整栋都拆了。那我终于能去“BeachVacation2077”了。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room8_Question_Line3",
+   "detail": "['BeachVacation'] | '试试 BeachVacation2077。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_2_Room4_Question_Line2",
+   "detail": "['Square'] | '或许这次该自我介绍一下了。我是X2-Square。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1_Answer0",
+   "detail": "['Square'] | '是X2-Square才对。要不要再试试？'"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line2",
+   "detail": "['DNA'] | '你们害怕自己的DNA在废土上发生突变吗？'"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Choice2",
+   "detail": "['DNA'] | '合成人有人的DNA，所以那套根本行不通。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line2",
+   "detail": "['DNA'] | '你上次给避难所里所有人做DNA测试是什么时候？'"
+  },
+  {
+   "key": "QuestLoc_INS_QL4_Armistice_3_Room3_Question_Line1_Choice0",
+   "detail": "['DNA'] | '学院不是觉得我们DNA有问题吗？'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Choice2",
+   "detail": "['BOOM'] | '<按下标着BOOM（爆炸）的按钮>'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question3",
+   "detail": "['DNA'] | '嘿！喂！嘘！我能帮忙对付死爪。但我需要它们的DNA样本。你能弄到吗？'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question3_Choice1",
+   "detail": "['NDA'] | 'NDA到底是个什么鬼？'"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_QuestLongDescription",
+   "detail": "['death'] | '尽管144号避难所的居民费尽心力，我们还是发现了他们避难所的位置，他们只崇拜“死亡”，是因为避难所指导手册里“death”被错误地首字母大写了！我们现在必须渗透进入144号避难所，'"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_2",
+   "detail": "['DJ'] | '如果你救了那个爱管闲事的DJ，那也没什么两样。'"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q3_Req_QuestName",
+   "detail": "['BoS'] | '谁是“老大”（BoS）'"
+  },
+  {
+   "key": "QuestLoc_S2_QL3_Q2_Handy_Question2",
+   "detail": "['autoexecution.bat'] | '……错误……找不到autoexecution.bat……'"
+  },
+  {
+   "key": "QuestLoc_SpringForwardFallBack_RaiderLine_1",
+   "detail": "['E-'] | '欢呼吧，E-斯特要来了！'"
+  },
+  {
+   "key": "QuestLoc_TheHauntingofVault110_QuestName",
+   "detail": "['Mass', 'Chemical'] | '大众化学惊魂（Mass Chemical 闹鬼事件）'"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_1_NPCEnd_1",
+   "detail": "['JF'] | '好的JF，我……嘿，等一下……'"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_1_Team_1",
+   "detail": "['JF'] | '我的名字是约翰弗兰西斯米勒掠夺者首领杀手……叫我JF就行。'"
+  },
+  {
+   "key": "QuestLoc_TheLastGobble_Conversation_1_NPCStart_3",
+   "detail": "['DNA'] | '我给它注入了一个废土生物的DNA，那个生物对充满防腐剂的食物有着巨大的胃口，根本无法满足。'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_1_Team_3",
+   "detail": "['REDACTED'] | '我们在这里是因为[REDACTED]。'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_2_NPCStart_2",
+   "detail": "['REDACTED'] | '这是一个禁区，只允许[REDACTED]进入。'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_3_Team_1",
+   "detail": "['REDACTED'] | '[REDACTED]'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_3_Team_2",
+   "detail": "['REDACTED'] | '[REDACTED]'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_3_Team_3",
+   "detail": "['REDACTED'] | '[REDACTED]'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_4_NPCEnd_1",
+   "detail": "['REDACTED'] | '是真的吗？！居然没人告诉过我！行了，我要回[REDACTED]去！'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_4_NPCStart_2",
+   "detail": "['REDACTED'] | '是我，莫里！走近一点，这样我就能分享[REDACTED]的秘密。'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_QuestName",
+   "detail": "['REDACTED'] | '[REDACTED]的秘密'"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_RaiderLine_3",
+   "detail": "['Vril'] | '我现在倒想来点“乌拉（Vril）”。我是说……饱饱牌肉罐头。对，就那个。'"
+  },
+  {
+   "key": "QuestLoc_WondersofNature_QuestShortDescription",
+   "detail": "['vs.'] | '霍夫伯格博士 vs. 危险之钳！'"
+  },
+  {
+   "key": "QuestTitle_FireSupport[PL]",
+   "detail": "['PL'] | '火力支援 [PL]'"
+  },
+  {
+   "key": "QuestTitle_InSheepClothing[PL]",
+   "detail": "['PL'] | '穿着绵羊的衣服 [PL]'"
+  },
+  {
+   "key": "QuestTitle_MemoryInterrupted[PL]",
+   "detail": "['PL'] | '记忆中断 [PL]'"
+  },
+  {
+   "key": "QuestTitle_MercerSafehouse[PL]",
+   "detail": "['PL'] | '莫瑟的藏身处 [PL]'"
+  },
+  {
+   "key": "QuestTitle_SpoilsofWar[PL]",
+   "detail": "['PL'] | '战利品 [PL]'"
+  },
+  {
+   "key": "SeasonModal_Leaderboard_InvalidAndroidPrivacySetting",
+   "detail": "['Google', 'Play'] | '由于您的 Google Play 隐私设置，无法获取排行榜。'"
+  },
+  {
+   "key": "Season_Duration",
+   "detail": "['FD'] | '[282828]赛季及实验避难所将于[-] [FD0C0B]1天[-]后结束'"
+  },
+  {
+   "key": "Season_Duration_Plural",
+   "detail": "['FD'] | '[282828]赛季及实验避难所将于[-] [FD0C0B]{0}天[-]后结束'"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasA_Premium_Description",
+   "detail": "['T-'] | '将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、豪斯先生、马克西姆斯夹克、T-45d动力装甲、修身西装、专家连身服、技术人员的报复、2个宠物笼子，以'"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasB_Premium_Description",
+   "detail": "['Mr.'] | '将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（Mr. Handy同等角色）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、隐形休闲装'"
+  },
+  {
+   "key": "Shop_SeasonPass_Premium_Description",
+   "detail": "['T-'] | '将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力装甲、重型战斗甲、指挥官制服、2个宠物笼子、辐射极琉矿加特林激光枪，以及5'"
+  },
+  {
+   "key": "SnipSnipDialog_Generic_22",
+   "detail": "['prism', 'prison'] | '听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？'"
+  },
+  {
+   "key": "Social_NoFriends",
+   "detail": "['Facebook'] | '邀请您的Facebook朋友来一起玩辐射避难所，互相交换杂物吧！'"
+  },
+  {
+   "key": "Social_NotLogin",
+   "detail": "['Facebook'] | '连接到Facebook来和朋友交换杂物吧。'"
+  },
+  {
+   "key": "Speech_Kid12",
+   "detail": "['G.O.A.T.'] | '总有一天我要参加G.O.A.T.测试，然后去上班！'"
+  },
+  {
+   "key": "Speech_Kid9",
+   "detail": "['BB'] | '真希望我有一把BB枪……'"
+  },
+  {
+   "key": "Speech_Room_LoveJob3",
+   "detail": "['G.O.A.T.'] | 'G.O.A.T.测试说得没错！这对我来说是完美的工作！'"
+  },
+  {
+   "key": "TermsOfService_Legal_Link",
+   "detail": "['https', 'documents.bethesda.net', 'en', 'terms-of-service'] | 'https://documents.bethesda.net/en/terms-of-service'"
+  },
+  {
+   "key": "Title_Leaderboard_Toggle_Android",
+   "detail": "['Google', 'Play'] | '开启与 Google Play 共享排行榜数据'"
+  },
+  {
+   "key": "Title_Leaderboard_Toggle_IOS",
+   "detail": "['Game', 'Center'] | '开启与 Game Center 共享排行榜数据'"
+  },
+  {
+   "key": "Tutorial_Tip_32",
+   "detail": "['VDSG'] | '还有不明白的地方？点击哔哔小子的VDSG来寻求帮助。'"
+  },
+  {
+   "key": "Updated_Terms_Message",
+   "detail": "['ZeniMax'] | '[365136]点击“继续”，即表示我确认 ZeniMax 将按《隐私政策》所述处理我的个人信息，并接受《服务条款》《行为准则》和《最终用户许可协议》。'"
+  },
+  {
+   "key": "Weapon_Name_BBGun",
+   "detail": "['BB'] | 'BB枪'"
+  },
+  {
+   "key": "Weapon_Name_BBGun_ArmorPiercing",
+   "detail": "['BB'] | '穿甲BB枪'"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Enhanced",
+   "detail": "['BB'] | '增强型BB枪'"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Hardened",
+   "detail": "['BB'] | '硬化型BB枪'"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Rusty",
+   "detail": "['BB'] | '生锈的BB枪'"
+  },
+  {
+   "key": "Weapon_Name_Pistol",
+   "detail": "['mm'] | '10mm手枪'"
+  },
+  {
+   "key": "Weapon_Name_Pistol_ArmorPiercing",
+   "detail": "['mm'] | '穿甲型10mm手枪'"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Enhanced",
+   "detail": "['mm'] | '增强型10mm手枪'"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Hardened",
+   "detail": "['mm'] | '硬化型10mm手枪'"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Rusty",
+   "detail": "['mm'] | '生锈的10mm手枪'"
+  },
+  {
+   "key": "Weapon_Name_PlasmaPistol_MPLXNovasurge",
+   "detail": "['MPLX'] | 'MPLX 新星涌动'"
+  }
+ ],
+ "04_半角标点": [
+  {
+   "key": "QuestLoc_SetEmUpPestilence_QuestLongDescription",
+   "detail": "停战协议被遗忘，“战争”现在外面猎取鲜血，准备撕裂废土寻找“瘟疫”! 时间拖得越久，无辜的定居者就会死得越多，所以让我们装扮成“战争崇拜者”的人，说服“害虫”把“瘟疫”拉进战争。群"
+  },
+  {
+   "key": "QuestLoc_TheReluctantShill_Conversation_1_NPCEnd_1",
+   "detail": "他在一个不太远的破旧工厂里。警告你，他变得越来越……古怪了."
+  },
+  {
+   "key": "Weapon_Name_032Pistol_ArmorPiercing",
+   "detail": "穿甲.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Enhanced",
+   "detail": "增强型.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Hardened",
+   "detail": "硬化型.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Rusty",
+   "detail": "生锈的.32手枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_ArmorPiercing",
+   "detail": "穿甲.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Enhanced",
+   "detail": "强化的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Hardened",
+   "detail": "加固的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Rusty",
+   "detail": "生锈的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_JonesMagnum",
+   "detail": "琼斯.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_ArmorPiercing",
+   "detail": "穿甲型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Enhanced",
+   "detail": "增强型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Hardened",
+   "detail": "硬化型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Rusty",
+   "detail": "生锈的.44狙击枪"
+  }
+ ],
+ "05_句末标点": [
+  {
+   "key": "CloudActivationFailed",
+   "detail": "EN无句末标点但ZH有 | EN…'tings or try again later' vs ZH…'云激活时发生错误。请检查您的云设置，或稍后再试。'"
+  },
+  {
+   "key": "CurieDialog_Wasteland_34",
+   "detail": "EN无句末标点但ZH有 | EN…'s a good time to go East' vs ZH…'我想现在是去东边的好时机。'"
+  },
+  {
+   "key": "CurieDialog_Wasteland_35",
+   "detail": "EN无句末标点但ZH有 | EN…'s a good time to go West' vs ZH…'我想现在是去西边的好时机。'"
+  },
+  {
+   "key": "CurieDialog_Wasteland_36",
+   "detail": "EN无句末标点但ZH有 | EN…' a good time to go South' vs ZH…'我想现在是去南边的好时机。'"
+  },
+  {
+   "key": "Dweller_DiedInVault",
+   "detail": "EN无句末标点但ZH有 | EN…'has died' vs ZH…'已经死了。'"
+  },
+  {
+   "key": "Dweller_DiedInWasteland",
+   "detail": "EN无句末标点但ZH有 | EN…'Died in Wasteland' vs ZH…'死在了废土上。'"
+  },
+  {
+   "key": "Emergency_Scorched",
+   "detail": "EN无句末标点但ZH有 | EN…'SCORCHED ATTACK' vs ZH…'辐尸人来袭！'"
+  },
+  {
+   "key": "Enclave_IntroPopup_Title",
+   "detail": "EN无句末标点但ZH有 | EN…'N GOLD WE TRUST\" IS HERE' vs ZH…'“黄金至上”赛季来袭！'"
+  },
+  {
+   "key": "Entrance_Upgrade_Info",
+   "detail": "EN无句末标点但ZH有 | EN…'health of the Vault door' vs ZH…'增加避难所大门的生命值。'"
+  },
+  {
+   "key": "Institute_IntroPopup_Title",
+   "detail": "EN无句末标点但ZH有 | EN…'THETIC IDENTITY” IS HERE' vs ZH…'“合成身份”赛季来袭！'"
+  },
+  {
+   "key": "Inventory_Vault_Full",
+   "detail": "EN无句末标点但ZH有 | EN…' ROOM or SELL more ITEMS' vs ZH…'空间不够。请建造更多的存储房间或者卖掉更多物品。'"
+  },
+  {
+   "key": "Message_RadAway_NoRad",
+   "detail": "EN无句末标点但ZH有 | EN…'Away use is not required' vs ZH…'没有辐射伤害，不需要使用消辐宁。'"
+  },
+  {
+   "key": "Message_Stimpack_FullHP",
+   "detail": "EN无句末标点但ZH有 | EN…'mpak use is not required' vs ZH…'生命值全满，无需治疗针。'"
+  },
+  {
+   "key": "Message_TooManyMrHandyInWasteland",
+   "detail": "EN无句末标点但ZH有 | EN…' Handys to the Wasteland' vs ZH…'您派去废土探险的巧手先生数量已达上限。'"
+  },
+  {
+   "key": "Message_TutorialPopup_05_Hint",
+   "detail": "EN无句末标点但ZH有 | EN…'n the Wasteland too long' vs ZH…'提示：如果居民在废土里待了太长时间，居民会死的。'"
+  },
+  {
+   "key": "Message_TutorialPopup_06_Hint",
+   "detail": "EN无句末标点但ZH有 | EN…'n can deliver their baby' vs ZH…'：避难所有足够的居住空间时，怀孕的女性才能分娩。'"
+  },
+  {
+   "key": "Message_TutorialPopup_07_Hint",
+   "detail": "EN无句末标点但ZH有 | EN…'ms are of the same level' vs ZH…'提示：只有当房间等级都一样时，房间才会合并。'"
+  },
+  {
+   "key": "Message_TutorialPopup_08_Hint",
+   "detail": "EN无句末标点但ZH有 | EN…'all other Rooms are full' vs ZH…'房间都满员的时候，储藏室是很好的居民临时安置点。'"
+  },
+  {
+   "key": "Message_TutorialPopup_09_Hint",
+   "detail": "EN无句末标点但ZH有 | EN…'e his chance of survival' vs ZH…'之前给他们配备治疗针和消辐宁将提高他们的存活率。'"
+  },
+  {
+   "key": "Message_Tutorial_68_PS4",
+   "detail": "EN无句末标点但ZH有 | EN…' assign them to the room' vs ZH…'移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Tutorial_68_Switch",
+   "detail": "EN无句末标点但ZH有 | EN…' assign them to the room' vs ZH…'移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Tutorial_68_Xbox",
+   "detail": "EN无句末标点但ZH有 | EN…' assign them to the room' vs ZH…'移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Wasteland_Full",
+   "detail": "EN无句末标点但ZH有 | EN…'Wasteland slots are full' vs ZH…'废土探索的居民已达到上限。'"
+  },
+  {
+   "key": "Message_Wasteland_Waiting_Dwellers",
+   "detail": "EN无句末标点但ZH有 | EN…'ller is not in the Vault' vs ZH…'此居民不在避难所内。'"
+  },
+  {
+   "key": "MissingInternetConnection",
+   "detail": "EN无句末标点但ZH有 | EN…'e internet and try again' vs ZH…'这项动作需要网络连接。请连接至网络重试。'"
+  },
+  {
+   "key": "NewVegasA_IntroPopup_Title",
+   "detail": "EN无句末标点但ZH有 | EN…'“VIVA NEW VEGAS” IS HERE' vs ZH…'“新维加斯万岁”赛季来袭！'"
+  },
+  {
+   "key": "NewVegasB_IntroPopup_Title",
+   "detail": "EN无句末标点但ZH有 | EN…'USE ALWAYS WINS\" IS HERE' vs ZH…'“豪斯常胜”赛季来袭！'"
+  },
+  {
+   "key": "Objective_RaiseSpecialLevel_Plural",
+   "detail": "EN无句末标点但ZH有 | EN…'IAL stat of {0} Dwellers' vs ZH…'提高{0}位居民的任意SPECIAL属性。'"
+  },
+  {
+   "key": "Objective_RaiseSpecificSpecialLevel",
+   "detail": "EN无句末标点但ZH有 | EN…'ise the {1} of 1 Dweller' vs ZH…'提高1位居民的{1}。'"
+  },
+  {
+   "key": "Objective_RaiseSpecificSpecialLevel_Plural",
+   "detail": "EN无句末标点但ZH有 | EN…' the {1} of {0} Dwellers' vs ZH…'提高{0}位居民的{1}。'"
+  },
+  {
+   "key": "Objective_VaultHappiness",
+   "detail": "EN无句末标点但ZH有 | EN…'} happy Vault for 1 hour' vs ZH…'保持避难所{1}开心了1小时。'"
+  },
+  {
+   "key": "Objective_VaultHappiness_Plural",
+   "detail": "EN无句末标点但ZH有 | EN…'appy Vault for {0} hours' vs ZH…'保持避难所{1}开心了{0}小时。'"
+  },
+  {
+   "key": "Outfit_Description_SpecialThemeHalloween2",
+   "detail": "EN无句末标点但ZH有 | EN…'- an American circa 2078' vs ZH…'受欢迎的万圣节服装，也是2078年美国人的日常。'"
+  },
+  {
+   "key": "Pet_Description_havanabrown_b",
+   "detail": "EN…'ow did you get up there?' vs ZH…'已经习惯和它说，“你是怎么上到那里的？”'"
+  },
+  {
+   "key": "Pet_Description_militarymacaw_l2",
+   "detail": "EN…'say “Tunnel Snakes Rule!' vs ZH…'知道200个词，却只会说“隧道蛇统治一切！”'"
+  },
+  {
+   "key": "Pet_TurkishVan",
+   "detail": "EN无句末标点但ZH有 | EN…'Turkish Van' vs ZH…'土耳其梵猫？'"
+  },
+  {
+   "key": "QuestLoc_ANiceGhoulLikeYou_Conversation_1_NPCStart_3",
+   "detail": "EN…' you, or I may heal you.' vs ZH…'我，有些人追寻我。我可以改变你，也可以治愈你。”'"
+  },
+  {
+   "key": "QuestLoc_ANiceGhoulLikeYou_Conversation_1_NPCStart_4",
+   "detail": "EN…' make a sound. Who am I?' vs ZH…'“我常在你身旁，但我不作声响。我是谁？”'"
+  },
+  {
+   "key": "QuestLoc_AlienBot_QuestObjective_03",
+   "detail": "EN无句末标点但ZH有 | EN…'of alien experimentation' vs ZH…'找到外星实验的证据。'"
+  },
+  {
+   "key": "QuestLoc_AlienBot_QuestObjective_04",
+   "detail": "EN无句末标点但ZH有 | EN…'Find Alien Tech' vs ZH…'找到外星科技。'"
+  },
+  {
+   "key": "QuestLoc_AlienBot_QuestObjective_05",
+   "detail": "EN无句末标点但ZH有 | EN…'s keeping their research' vs ZH…'找到罗伯科公司的秘密研究地点。'"
+  },
+  {
+   "key": "QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_3",
+   "detail": "EN…'d I may be able to help.' vs ZH…'“我的名字叫亨丽埃塔，也许我能帮忙。”'"
+  },
+  {
+   "key": "QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_4",
+   "detail": "EN…'me find me at Vault 232.' vs ZH…'来232号避难所找我吧。”'"
+  },
+  {
+   "key": "QuestLoc_BountySnips_QuestObjective_1",
+   "detail": "EN…'Exterminate “Snips.' vs ZH…'消灭“剪刀手”'"
+  },
+  {
+   "key": "QuestLoc_Broadsides_Conversation_1_NPCStart_2",
+   "detail": "EN…\"uring the Bugle's eye...\" vs ZH…'他们希望能引起号角报的注意'"
+  },
+  {
+   "key": "QuestLoc_ChristmasattheRaiderCamp_Conversation_2_NPCEnd_1",
+   "detail": "EN…'e twinkle little star...' vs ZH…'你知道吗？为什么不呢？“一闪一闪亮晶晶……”'"
+  },
+  {
+   "key": "QuestLoc_CleaningHouse_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Clean up the motel' vs ZH…'清理那家汽车旅馆。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_1_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Kill the Alpha Deathclaw' vs ZH…'消灭领头死爪。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_2_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Talk to Doc' vs ZH…'与医生交谈。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_3_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Spray the Deathclaw nest' vs ZH…'喷洒死爪巢穴。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_3_QuestObjective2",
+   "detail": "EN无句末标点但ZH有 | EN…'e adult Deathclaws (1/2)' vs ZH…'消灭成年死爪（1/2）。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_3_QuestObjective3",
+   "detail": "EN无句末标点但ZH有 | EN…'e adult Deathclaws (2/2)' vs ZH…'消灭成年死爪（2/2）。'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_4_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…'Ghoul Down, Boy' vs ZH…'尸鬼，趴下！'"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_4_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'ear out the feral Ghouls' vs ZH…'清除那些狂尸鬼。'"
+  },
+  {
+   "key": "QuestLoc_DogsofWar_Conversation_1_NPCStart_2",
+   "detail": "EN…' the mightiest Horseman!' vs ZH…'者”，为“战争”效忠吧，他是最伟大的‘骑士’！”'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_3_Room3_Question_Line4",
+   "detail": "EN无句末标点但ZH有 | EN…\" Hmm… oh, well. Let's go\" vs ZH…'他们拿一堆金子想干嘛？嗯……算了，走吧。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_2_Room6_Question_Line1_Answer2",
+   "detail": "EN无句末标点但ZH有 | EN…' a token of my gratitude' vs ZH…'你培养得真好！请带上这个，算是我的一点微薄谢意。'"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_3",
+   "detail": "EN…'ike “birthing a new sun.' vs ZH…'什么这么大反应？把它想象成“诞生一个新的太阳。”'"
+  },
+  {
+   "key": "QuestLoc_ExtremeOuterference_Conversation01_NPC01",
+   "detail": "EN…'^@)!&*@&$%!^!!&@($*&^!!!' vs ZH…'^@)!&*@&$%!^!!&@($*&^!!!'"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_4_Team_2",
+   "detail": "EN无句末标点但ZH有 | EN…'Nuka-Cola plant' vs ZH…'核子可乐工厂。'"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'sk about the salesperson' vs ZH…'向销售员询问情况。'"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_QuestObjective2",
+   "detail": "EN无句末标点但ZH有 | EN…'eal with the salesperson' vs ZH…'与销售员达成交易。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Get some weapons' vs ZH…'获取一些武器。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_QuestObjective2",
+   "detail": "EN无句末标点但ZH有 | EN…'Get some outfits' vs ZH…'获取一些装备。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_QuestObjective3",
+   "detail": "EN无句末标点但ZH有 | EN…'Get some medicine' vs ZH…'获取一些药品。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_2_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'t the Snake Oil Salesman' vs ZH…'与草药骗子正面交锋。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_3_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Destroy the lab' vs ZH…'摧毁那个实验室。'"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_3_QuestObjective2",
+   "detail": "EN无句末标点但ZH有 | EN…'ut where the slavers are' vs ZH…'查明奴隶贩子的位置。'"
+  },
+  {
+   "key": "QuestLoc_HaveGunWillTravel_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…'Have Gun, Will Travel' vs ZH…'拿起枪，我们走！'"
+  },
+  {
+   "key": "QuestLoc_Headhunting_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Rescue Mr. Manager' vs ZH…'拯救经理先生。'"
+  },
+  {
+   "key": "QuestLoc_HerestoYouRackieJobinson_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…' to You, Rackie Jobinson' vs ZH…'为了你，罗基·杰宾森。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_1_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…'Hold on a Minuteman' vs ZH…'坚持住，义勇军！'"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_1_NPCStart_4",
+   "detail": "EN…\"or all that you've done.\" vs ZH…'我代表每个在这里和平生活的人，由衷感谢你们。”'"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_2_NPCStart_4",
+   "detail": "EN…'quire extreme solutions.' vs ZH…'解决极端问题需要极端的手段。”'"
+  },
+  {
+   "key": "QuestLoc_LiveDeadDrop_Conversation_1_NPCStart_1",
+   "detail": "EN…'raven flies at midnight.' vs ZH…'“乌鸦在午夜飞。”'"
+  },
+  {
+   "key": "QuestLoc_LiveDeadDrop_Conversation_1_Team_1",
+   "detail": "EN…'es all but says nothing.' vs ZH…'哦，对。“狐猴看到了一切却什么也没说。”'"
+  },
+  {
+   "key": "QuestLoc_LiveDeadDrop_Conversation_1_Team_3",
+   "detail": "EN…', keep up the good work!' vs ZH…'给你的信息是：“一切都好，继续好好工作！”'"
+  },
+  {
+   "key": "QuestLoc_ManonThird_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…'Man on Third' vs ZH…'第三个地点。'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_1_Question3",
+   "detail": "EN无句末标点但ZH有 | EN…'ftly or suffer slaughter' vs ZH…'去找吾等之藏货？速速停手，否则休怪吾等大开杀戒！'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_1_Question7_Answer1",
+   "detail": "EN无句末标点但ZH有 | EN…'uld have written it down' vs ZH…'啊，不对。哎，我该写下来的。'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_4_Question0",
+   "detail": "EN无句末标点但ZH有 | EN…\" Earth's precious babies\" vs ZH…'呀，老兄！住手吧！死爪也是地球珍贵的宝贝生灵啊。'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_4_Question5_Line1",
+   "detail": "EN无句末标点但ZH有 | EN…'ho felled our fraternity' vs ZH…'吾等终寻得残害吾辈同胞之恶煞仇寇！'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_4_Question8_Line1_Choice2",
+   "detail": "EN无句末标点但ZH有 | EN…' show mercy… for a price' vs ZH…'我们可以开恩……只要代价合适。'"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_1_NPCStart_2",
+   "detail": "EN…', except for gazpacho...' vs ZH…'须把汤加热到正好200度，除了西班牙凉菜汤……”'"
+  },
+  {
+   "key": "QuestLoc_PowertothePeople_Conversation_2_NPCEnd_2",
+   "detail": "EN…'ind as I eviscerate you.' vs ZH…'的感谢。等我把你扒皮的时候我会牢牢记住这些话的，'"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_2",
+   "detail": "EN…'essed be the irradiated.' vs ZH…'不，但他们不停地说：“愿辐射保佑我们。”'"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_NPCStart_2",
+   "detail": "EN…'essed be the irradiated.' vs ZH…'，是“瘟疫”的仆人，不停地说：“愿辐射保佑我们”'"
+  },
+  {
+   "key": "QuestLoc_RaidingParty_Conversation_3_NPCStart_1",
+   "detail": "EN…'earing my red underwear!' vs ZH…'…所以老大说，“嗬，我以为我穿的是那条红内裤！”'"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q3_Req_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Acquire BoS gear' vs ZH…'获取钢铁兄弟会装备。'"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q4_Roswell_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'Acquire an Alien bot' vs ZH…'获取一台外星机器人。'"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q4_Roswell_QuestObjective2",
+   "detail": "EN无句末标点但ZH有 | EN…'Acquire an Alien gun' vs ZH…'获取一把外星枪。'"
+  },
+  {
+   "key": "QuestLoc_S2_QL3_SecuritronsUncapped_1_QuestObjective1",
+   "detail": "EN无句末标点但ZH有 | EN…'nd the Securitron leader' vs ZH…'找到保安机器人的头目。'"
+  },
+  {
+   "key": "QuestLoc_SantasHelpers_Conversation_1_NPCEnd_1",
+   "detail": "EN…'you a Merry Christmas...' vs ZH…'好吧！“叮叮当……叮叮当……铃儿响叮当……”'"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_3",
+   "detail": "EN…\"saying: “Yep. He's dead.\" vs ZH…'目前的流程好像就只有说一声：“没错，他死了。”'"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_3_NPCStart_2",
+   "detail": "EN…'olive oil and pine nuts.' vs ZH…'虫与罗勒、大蒜、帕尔马干酪、橄榄油和松仁混合。”'"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_3_NPCStart_3",
+   "detail": "EN…' paste. Season to taste.' vs ZH…'“调合成细致的糊状。加佐料然后品尝。”'"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_Conversation_1_NPCStart_2",
+   "detail": "EN…'he repairs done in time.' vs ZH…'能及时把它修好，应该能让它重新工作，灵活运转。”'"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_Conversation_2_NPCStart_2",
+   "detail": "EN…' all be safe down there.' vs ZH…'所有人都带到下面几层去，但愿我们在那儿能安全。”'"
+  },
+  {
+   "key": "QuestLoc_SpringForwardFallBack_RaiderLine_2",
+   "detail": "EN…'be blind with his glory!' vs ZH…'“每只眼睛都会因他的荣耀而失明！”'"
+  },
+  {
+   "key": "QuestLoc_TakeMeOuttotheBallGame_QuestName",
+   "detail": "EN无句末标点但ZH有 | EN…' Me Out to the Ball Game' vs ZH…'带我去比赛。'"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheQuantumCreeper_QuestObjective_2",
+   "detail": "EN…'th “The Quantum Creeper.' vs ZH…'解决“量子爬行者”问题'"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_1_NPCEnd_1",
+   "detail": "EN…'ling it “Nuclear Bunker.' vs ZH…'这是一个避难所模拟器。我们称之为“核掩体”'"
+  },
+  {
+   "key": "QuestLoc_TheReluctantShill_Conversation_1_NPCEnd_1",
+   "detail": "EN…'e and more... eccentric.' vs ZH…'远的破旧工厂里。警告你，他变得越来越……古怪了.'"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_RaiderLine_2",
+   "detail": "EN…'hich lot to bury you in.' vs ZH…'熟人还是新娘的熟人？需要知道把你们埋在哪个坑里、'"
+  },
+  {
+   "key": "RateUS_BTN_Rate",
+   "detail": "EN无句末标点但ZH有 | EN…'RATE US' vs ZH…'请给我们评分！'"
+  },
+  {
+   "key": "Room_DesignFactory_Desc",
+   "detail": "EN无句末标点但ZH有 | EN…'ERS HERE TO CRAFT THEMES' vs ZH…'将居民分配到这里来打造主题。'"
+  },
+  {
+   "key": "Room_Mausoleum_Desc",
+   "detail": "EN无句末标点但ZH有 | EN…'E DECEASED AND EARN CAPS' vs ZH…'将居民分配在这里照顾逝者并赚取瓶盖。'"
+  },
+  {
+   "key": "Room_MedBay_Desc",
+   "detail": "EN无句末标点但ZH有 | EN…'HERE TO PRODUCE STIMPAKS' vs ZH…'将居民分配在这里生产治疗针。'"
+  },
+  {
+   "key": "Room_StorageArea_Desc",
+   "detail": "EN无句末标点但ZH有 | EN…'MS AND PETS YOU CAN HOLD' vs ZH…'增加您可持有的物品和宠物数量。'"
+  },
+  {
+   "key": "Room_WeaponFactory_Desc",
+   "detail": "EN无句末标点但ZH有 | EN…'RS HERE TO CRAFT WEAPONS' vs ZH…'将居民分配在这里打造武器。'"
+  },
+  {
+   "key": "Season1_IntroPopup_Title",
+   "detail": "EN无句末标点但ZH有 | EN…' ULTRACITE FEVER IS HERE' vs ZH…'辐射极琉矿狂热赛季来袭！'"
+  },
+  {
+   "key": "SeasonModal_Leaderboard_AddFriendsReminder",
+   "detail": "EN无句末标点但ZH有 | EN…'b the Season Leaderboard' vs ZH…'添加好友，在赛季排行榜上比拼名次！'"
+  },
+  {
+   "key": "SeasonPass_LetsGo_Btn",
+   "detail": "EN无句末标点但ZH有 | EN…\"LET'S GO\" vs ZH…'出发！'"
+  },
+  {
+   "key": "SeasonPass_LevelUp",
+   "detail": "EN无句末标点但ZH有 | EN…'LEVEL UP' vs ZH…'升级！'"
+  },
+  {
+   "key": "Seasons_Message_UnclaimedRewardsBlurb",
+   "detail": "EN无句末标点但ZH有 | EN…'been added to this vault' vs ZH…'实验成功了！未领取的奖励已加入此避难所。'"
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic56",
+   "detail": "EN…'yyy! You can light my...' vs ZH…'循环。“宝贝，耶——宝贝——！你能点燃我的……”'"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic36_Response2",
+   "detail": "EN无句末标点但ZH有 | EN…'Come on in' vs ZH…'进来吧！'"
+  },
+  {
+   "key": "Speech_LivingQuarter_Dialogue_NPC2_11",
+   "detail": "EN…' relax, so... Ssssshhhh.' vs ZH…'其实，我只是想休息一下，所以……嘘——'"
+  },
+  {
+   "key": "Speech_Quest_Loot_Dweller_2",
+   "detail": "EN无句末标点但ZH有 | EN…\"at I've been looking for\" vs ZH…'正是我一直想要的。'"
+  },
+  {
+   "key": "Vaultboy_Message_ScorchedRaidFail",
+   "detail": "EN无句末标点但ZH有 | EN…\"OU'LL GET THEM NEXT TIME\" vs ZH…'失败！下次一定能行！'"
+  }
+ ],
+ "06_疑似漏译(过短)": [
+  {
+   "key": "Android_Ask_Notification_Title",
+   "detail": "ratio=0.15 | EN(13):'Notifications' ZH(2):'通知'"
+  },
+  {
+   "key": "Help_Page15_Title",
+   "detail": "ratio=0.15 | EN(13):'THE WASTELAND' ZH(2):'废土'"
+  },
+  {
+   "key": "Message_TutorialPopup_24_Title",
+   "detail": "ratio=0.15 | EN(13):'Critical Hits' ZH(2):'暴击'"
+  },
+  {
+   "key": "Outfit_Description_MaximusJacket",
+   "detail": "ratio=0.11 | EN(79):'The red hue conceals blood, and the rank chevrons conceal crippling self-doubt.' ZH(9):'红色能掩盖血迹……'"
+  },
+  {
+   "key": "Outfit_Description_SpecialThemeHalloween",
+   "detail": "ratio=0.15 | EN(68):'Give the tricks, get the treats, and try not to go into sugar shock.' ZH(10):'小心别吃糖吃到发晕。'"
+  },
+  {
+   "key": "Outfit_Name_MilitaryJumpsuit",
+   "detail": "ratio=0.12 | EN(17):'Military Fatigues' ZH(2):'军装'"
+  },
+  {
+   "key": "Outfit_Name_SpecialThemeHalloween",
+   "detail": "ratio=0.15 | EN(13):'Ghost Costume' ZH(2):'鬼服'"
+  },
+  {
+   "key": "Outfit_Name_WandererArmor",
+   "detail": "ratio=0.15 | EN(13):'Leather Armor' ZH(2):'皮甲'"
+  },
+  {
+   "key": "Outfit_Name_WeddingDress",
+   "detail": "ratio=0.15 | EN(13):'Wedding Dress' ZH(2):'婚纱'"
+  },
+  {
+   "key": "QuestLoc_AtDeathsDoor_Conversation_1_NPCStart_1",
+   "detail": "ratio=0.16 | EN(19):'Run for your lives!' ZH(3):'快跑！'"
+  },
+  {
+   "key": "QuestLoc_Broadsides_Conversation_1_NPCStart_2",
+   "detail": "ratio=0.13 | EN(97):\"Our people have been running off on quests of derring-do in hopes of capturing the Bugle's\" ZH(13):'他们希望能引起号角报的注意'"
+  },
+  {
+   "key": "QuestLoc_CollectorsEdition_QuestName",
+   "detail": "ratio=0.16 | EN(19):\"Collector's Edition\" ZH(3):'珍藏版'"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+   "detail": "ratio=0.13 | EN(312):'In Vault 672, we met Dwellers from Vault 144 who are familiar with Death, the mysterious f' ZH(40):'我们遇到了来自144号避难所、熟悉“死亡”的居民……她会把她知道的一切告诉我们！'"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_3_Team_2",
+   "detail": "ratio=0.14 | EN(22):'Super Mutant Behemoth.' ZH(3):'巨兽。'"
+  },
+  {
+   "key": "QuestLoc_HotTubSlimeMachine_QuestName",
+   "detail": "ratio=0.14 | EN(21):'Hot Tub Slime Machine' ZH(3):'热水器'"
+  },
+  {
+   "key": "QuestLoc_LittleMissWasteland_Conversation_4_NPCStart_4",
+   "detail": "ratio=0.14 | EN(28):'Please give your answer now.' ZH(4):'请作答。'"
+  },
+  {
+   "key": "QuestLoc_PostApocolypticWorldProblems_QuestName",
+   "detail": "ratio=0.13 | EN(31):'Post-Apocalyptic World Problems' ZH(4):'末世问题'"
+  },
+  {
+   "key": "QuestLoc_RockThemLikeAHurricane_QuestName",
+   "detail": "ratio=0.15 | EN(26):'Rock Them Like A Hurricane' ZH(4):'风卷残云'"
+  },
+  {
+   "key": "QuestLoc_ShotgunWedding_QuestName",
+   "detail": "ratio=0.13 | EN(15):'Shotgun Wedding' ZH(2):'逼婚'"
+  },
+  {
+   "key": "QuestLoc_SpringForwardFallBack_QuestLongDescription",
+   "detail": "ratio=0.15 | EN(244):'Our investigation has indicated that a local chapter of the Church of the Children of Atom' ZH(36):'我们必须去找他们的领袖忏悔者阿尔瓦拉多，叫他停止这些攻击，否则后果自负。'"
+  },
+  {
+   "key": "QuestLoc_TheShadowWolf_QuestName",
+   "detail": "ratio=0.13 | EN(15):'The Shadow Wolf' ZH(2):'影狼'"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_QuestLongDescription",
+   "detail": "ratio=0.13 | EN(234):'We think Brother Will, the Church initiate who has gone missing, may have been kidnapped b' ZH(31):'我们认为失踪的教会见习信徒威尔修士可能被附近一帮掠夺者绑架了。'"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_QuestName",
+   "detail": "ratio=0.12 | EN(33):'The (Thinly Veiled) Plot Thickens' ZH(4):'迷雾重重'"
+  },
+  {
+   "key": "QuestLoc_ToGrandmothersHouseWeGo_QuestName",
+   "detail": "ratio=0.14 | EN(28):\"To Grandmother's House We Go\" ZH(4):'去外婆家'"
+  },
+  {
+   "key": "Room_LivingQuarter",
+   "detail": "ratio=0.13 | EN(15):'LIVING QUARTERS' ZH(2):'宿舍'"
+  },
+  {
+   "key": "Room_Water2_2",
+   "detail": "ratio=0.15 | EN(20):'PURIFICATION STATION' ZH(3):'净水站'"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_37",
+   "detail": "ratio=0.14 | EN(36):'I really want to kiss you right now.' ZH(5):'我想亲你。'"
+  },
+  {
+   "key": "Title_Notifications",
+   "detail": "ratio=0.15 | EN(13):'NOTIFICATIONS' ZH(2):'通知'"
+  },
+  {
+   "key": "Wasteland_ForRadiation",
+   "detail": "ratio=0.15 | EN(13):'for Radiation' ZH(2):'辐射'"
+  },
+  {
+   "key": "Weapon_Name_HuntingRifle",
+   "detail": "ratio=0.15 | EN(13):'Hunting Rifle' ZH(2):'猎枪'"
+  },
+  {
+   "key": "Weapon_Name_KitchenKnife",
+   "detail": "ratio=0.15 | EN(13):'Kitchen Knife' ZH(2):'菜刀'"
+  }
+ ],
+ "06_疑似多译(过长)": [
+  {
+   "key": "Bonus_ChildSpecialBoost",
+   "detail": "ratio=0.95 | EN(19):'+{0} Child SPECIALs' ZH(18):'+{0}小孩的属性（SPECIAL）'"
+  },
+  {
+   "key": "Bonus_SurvivalGuide_ChildSpecialBoost",
+   "detail": "ratio=1.00 | EN(14):'Child SPECIALs' ZH(14):'小孩的属性（SPECIAL）'"
+  },
+  {
+   "key": "CodeOfConduct_Legal_Link",
+   "detail": "ratio=1.00 | EN(49):'https://documents.bethesda.net/en/code-of-conduct' ZH(49):'https://documents.bethesda.net/en/code-of-conduct'"
+  },
+  {
+   "key": "PrivacyPolicy_Email_Link",
+   "detail": "ratio=1.00 | EN(34):'mailto:privacy@support.zenimax.com' ZH(34):'mailto:privacy@support.zenimax.com'"
+  },
+  {
+   "key": "PrivacyPolicy_Email_Text",
+   "detail": "ratio=1.00 | EN(42):'[365136][u]privacy@support.zenimax.com[/u]' ZH(42):'[365136][u]privacy@support.zenimax.com[/u]'"
+  },
+  {
+   "key": "PrivacyPolicy_Unity_Link",
+   "detail": "ratio=1.00 | EN(38):'https://unity.com/legal/privacy-policy' ZH(38):'https://unity.com/legal/privacy-policy'"
+  },
+  {
+   "key": "Privacy_Legal_Link",
+   "detail": "ratio=1.00 | EN(48):'https://documents.bethesda.net/en/privacy-policy' ZH(48):'https://documents.bethesda.net/en/privacy-policy'"
+  },
+  {
+   "key": "QuestLoc_ExtremeOuterference_Conversation01_NPC01",
+   "detail": "ratio=1.00 | EN(33):'#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!' ZH(33):'#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!'"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletK_Conversation_3_Team_4",
+   "detail": "ratio=1.12 | EN(16):'The perfect BLT.' ZH(18):'一个完美的培根，生菜加番茄的三明治。'"
+  },
+  {
+   "key": "QuestLoc_HomerunDerby_QuestName",
+   "detail": "ratio=0.92 | EN(13):'Homerun Derby' ZH(12):'职业棒球大联盟全垒打大赛'"
+  },
+  {
+   "key": "TermsOfService_Legal_Link",
+   "detail": "ratio=1.00 | EN(50):'https://documents.bethesda.net/en/terms-of-service' ZH(50):'https://documents.bethesda.net/en/terms-of-service'"
+  },
+  {
+   "key": "Weapon_Name_MissileLauncher_MissLauncher",
+   "detail": "ratio=0.92 | EN(13):'Miss Launcher' ZH(12):'“发射者女士”飞弹发射器'"
+  }
+ ],
+ "07_叠字": [
+  {
+   "key": "CurieDialog_Wasteland_49",
+   "detail": "['在在'] | '一个农场！一个实实在在、运营中的农场！它让我满怀希望。也许文明能再次绽放。'"
+  },
+  {
+   "key": "Message_CannotBuildUltraciteMine",
+   "detail": "['有有'] | '没有有效建造位置。辐射极琉矿矿场必须建在辐射极琉矿矿床上且连接至避难所。'"
+  },
+  {
+   "key": "MrHandyDialog_Bar_02",
+   "detail": "['不不'] | '你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……'"
+  },
+  {
+   "key": "QuestLoc_AllWorkandNoPlay_Conversation_2_NPCEnd_4",
+   "detail": "['能能'] | '跟你们说，来，拿着这个。这个可能能保护你。但也可能没用。'"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_Conversation_1_NPCStart_2",
+   "detail": "['不不'] | '我？监督者？不不不，我们避难所的监督者是这只狗。'"
+  },
+  {
+   "key": "QuestLoc_CheesePlease_Conversation_1_NPCStart_2",
+   "detail": "['有有'] | '这个地方没有有价值的东西，只有垃圾。'"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room2_Question_Line1_Answer0",
+   "detail": "['了了'] | '那对我来说又是一堆纸面工作！我再也受不了了！'"
+  },
+  {
+   "key": "QuestLoc_FactoryFloorofFear_QuestLongDescription",
+   "detail": "['有有'] | '探索的居民发现了一张告示，警告大家远离一幢旧的工业基地。如果没人在那儿，说不定还会有有用的东西留下。'"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1B_NPCEnd_1",
+   "detail": "['是是'] | '是是，我们知道。别找我们麻烦，这样我们也不会找你们麻烦。'"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_4",
+   "detail": "['是是'] | '可笑，但是是对的！'"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1_Answer1",
+   "detail": "['不不'] | '不不，我得留在这儿，拦住任何可能进来搅局的人。'"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line1",
+   "detail": "['了了'] | '啊！我再也受不了了！'"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_3_Question5_Answer3",
+   "detail": "['不不'] | '不不不……你跟他们是一伙的！'"
+  },
+  {
+   "key": "QuestLoc_S2_QL3_Q2_Handy_Question5_Answer1",
+   "detail": "['是是'] | '我当然知道。有人仔细拆掉了它们的战斗抑制器垫圈……可是是谁……又是为了什么？'"
+  },
+  {
+   "key": "QuestLoc_SavingDaylight_Conversation_2_Team_3",
+   "detail": "['在在'] | '如果我们现在在第五个太阳上，其他的太阳都发生了什么？'"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_2_NPCEnd_2",
+   "detail": "['和和'] | '我喜欢平和和安静。这里很安全，你知道吗？'"
+  },
+  {
+   "key": "SnipSnipDialog_Bar_02",
+   "detail": "['不不'] | '你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……'"
+  },
+  {
+   "key": "Speech_Generic_Dweller41",
+   "detail": "['了了'] | '老晒不到太阳，我都有点受不了了。该把维生素D加加量了。'"
+  },
+  {
+   "key": "Speech_NoPower4",
+   "detail": "['了了'] | '这房间用不了了！电不够！'"
+  },
+  {
+   "key": "Speech_Room_SomeoneUnhappy_Gym",
+   "detail": "['是是'] | '是是。你超级强壮又超级厉害。我们知道了。'"
+  },
+  {
+   "key": "VictorDialog_Wasteland_49",
+   "detail": "['在在'] | '不知道豪斯先生现在在干什么。'"
+  }
+ ],
+ "08_同EN多译": [
+  {
+   "key": "Help_Page26_MainText_PS4",
+   "detail": "EN:'Quests allow you to explore new locations, meet new Dwellers and colle' 候选ZH:['任务允许您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\\n\\n要访问任务列表，在监督者的办公室按\\ue00e或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\\n\\n在任务中，通过选择您希望居民前往的房间来探索地点。\\n\\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住\\ue000使一个目标出现，然后选择一个敌人。\\n\\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\\n\\n当一个居民被选中后，用左摇杆选择复选标记，然后按住\\ue000发动致命一击。\\n\\n按\\ue000以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\\n\\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\\n\\n按\\ue003可以查看主线和支线任务目标。\\n\\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。', '任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n按下监督者办公室里的\\ue00e或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\\n\\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以按住\\ue000使目标出现，然后选择敌人。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。\\n\\n当选中一个居民时，用左摇杆选择勾形图标，按住\\ue000来释放一次致命暴击。\\n\\n当箭头出现在十字线的中心时，按下\\ue000来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n按下\\ue003来查看必须和选择性完成的任务目标。\\n\\n当您结束探险时，可以从任务目标里让任务小队返回避难所。']"
+  },
+  {
+   "key": "Help_Page26_MainText_Switch",
+   "detail": "EN:'Quests allow you to explore new locations, meet new Dwellers and colle' 候选ZH:['任务允许您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\\n\\n要访问任务列表，在监督者的办公室按\\ue00e或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\\n\\n在任务中，通过选择您希望居民前往的房间来探索地点。\\n\\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住\\ue000使一个目标出现，然后选择一个敌人。\\n\\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\\n\\n当一个居民被选中后，用左摇杆选择复选标记，然后按住\\ue000发动致命一击。\\n\\n按\\ue000以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\\n\\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\\n\\n按\\ue003可以查看主线和支线任务目标。\\n\\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。', '任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n按下监督者办公室里的\\ue00e或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\\n\\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以按住\\ue000使目标出现，然后选择敌人。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。\\n\\n当选中一个居民时，用左摇杆选择勾形图标，按住\\ue000来释放一次致命暴击。\\n\\n当箭头出现在十字线的中心时，按下\\ue000来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n按下\\ue003来查看必须和选择性完成的任务目标。\\n\\n当您结束探险时，可以从任务目标里让任务小队返回避难所。']"
+  },
+  {
+   "key": "Help_Page26_MainText_Xbox",
+   "detail": "EN:'Quests allow you to explore new locations, meet new Dwellers and colle' 候选ZH:['任务允许您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\\n\\n要访问任务列表，在监督者的办公室按\\ue00e或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\\n\\n在任务中，通过选择您希望居民前往的房间来探索地点。\\n\\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住\\ue000使一个目标出现，然后选择一个敌人。\\n\\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\\n\\n当一个居民被选中后，用左摇杆选择复选标记，然后按住\\ue000发动致命一击。\\n\\n按\\ue000以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\\n\\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\\n\\n按\\ue003可以查看主线和支线任务目标。\\n\\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。', '任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n按下监督者办公室里的\\ue00e或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\\n\\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以按住\\ue000使目标出现，然后选择敌人。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。\\n\\n当选中一个居民时，用左摇杆选择勾形图标，按住\\ue000来释放一次致命暴击。\\n\\n当箭头出现在十字线的中心时，按下\\ue000来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n按下\\ue003来查看必须和选择性完成的任务目标。\\n\\n当您结束探险时，可以从任务目标里让任务小队返回避难所。']"
+  },
+  {
+   "key": "Message_TutorialPopup_10_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_10_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_11_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_11_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_12_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_12_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_13_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_13_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_14_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_14_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_15_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_15_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_16_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_16_Title",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_20_Hint",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Message_TutorialPopup_27_Hint_Xbox",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "MrHandyDialog_StorageRoom_01",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "MrHandyDialog_StorageRoom_02",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "QuestLoc_12PointBuck_QuestObjective_1",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "QuestLoc_12PointBuck_QuestShortDescription",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "QuestLoc_ASettlerNeedsYourHelp_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_AimfortheHead_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_AimfortheHead_QuestShortDescription",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_BugHunt_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing Radroach.' 候选ZH:['杀死发光辐射蟑螂。', '消灭发光辐射蟑螂。']"
+  },
+  {
+   "key": "QuestLoc_CheesePlease_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:MoleRats_QuestObjective_1",
+   "detail": "EN:'Kill the Mole rat brood mother.' 候选ZH:['杀死鼹鼠妈妈。', '消灭鼹鼠妈妈。']"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:Radroaches_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing Radroach.' 候选ZH:['杀死发光辐射蟑螂。', '消灭发光辐射蟑螂。']"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_HoneymoonHorror_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_HotTubSlimeMachine_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_MallMadness_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_PestCaseScenario_QuestObjective_1",
+   "detail": "EN:'Kill the Mole rat brood mother.' 候选ZH:['杀死鼹鼠妈妈。', '消灭鼹鼠妈妈。']"
+  },
+  {
+   "key": "QuestLoc_RockThemLikeAHurricane_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_RockThemLikeAHurricane_QuestShortDescription",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_SlashandBurn_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_TargetPractice_QuestObjective_1",
+   "detail": "EN:'Kill the Glowing Radroach.' 候选ZH:['杀死发光辐射蟑螂。', '消灭发光辐射蟑螂。']"
+  },
+  {
+   "key": "QuestLoc_TheBigsbyBrownCase_QuestObjective_2",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "QuestLoc_TheScorpionKing_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestObjective_2",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "QuestLoc_WhackaMole_QuestObjective_1",
+   "detail": "EN:'Kill the Mole rat brood mother.' 候选ZH:['杀死鼹鼠妈妈。', '消灭鼹鼠妈妈。']"
+  },
+  {
+   "key": "QuestLoc_WhackaMole_QuestShortDescription",
+   "detail": "EN:'Kill the Mole rat brood mother.' 候选ZH:['杀死鼹鼠妈妈。', '消灭鼹鼠妈妈。']"
+  },
+  {
+   "key": "QuestLoc_WhenPrestonCalls_QuestObjective_2",
+   "detail": "EN:'Kill the Mole rat brood mother.' 候选ZH:['杀死鼹鼠妈妈。', '消灭鼹鼠妈妈。']"
+  },
+  {
+   "key": "QuestLoc_WondersofNature_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing Radscorpion.' 候选ZH:['杀死发光辐射蝎。', '消灭发光辐射蝎。']"
+  },
+  {
+   "key": "QuestLoc_WondersofScience_QuestObjective_2",
+   "detail": "EN:'Kill the Glowing One.' 候选ZH:['杀死发光种。', '消灭发光种。']"
+  },
+  {
+   "key": "QuestLoc_WondersofTechnology_QuestObjective_2",
+   "detail": "EN:'Kill the Alpha Deathclaw.' 候选ZH:['杀死领头死爪。', '消灭领头死爪。']"
+  },
+  {
+   "key": "SnipSnipDialog_StorageRoom_01",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "SnipSnipDialog_StorageRoom_02",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Speech_Happiness_InteractingLove1",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  },
+  {
+   "key": "Speech_Room_SomeoneHappy1",
+   "detail": "EN:'' 候选ZH:['', '医疗补给', '召回探险者', '在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！']"
+  }
+ ],
+ "11_标签不一致": [
+  {
+   "key": "Message_Tutorial_01",
+   "detail": "EN=['OVERSEER'] ZH=['监督者'] | ZH:'欢迎来到您的新避难所，{监督者}。让我先给您介绍几个基本概念。'"
+  },
+  {
+   "key": "Message_Tutorial_02",
+   "detail": "EN=['BUILD', 'BUILD MENU', 'HAMMER ICON', 'ROOM'] ZH=['建造', '建造菜单', '房间', '锤子图标'] | ZH:'首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_02_PC",
+   "detail": "EN=['BUILD', 'BUILD MENU', 'HAMMER ICON', 'ROOM'] ZH=['建造', '建造菜单', '房间', '锤子图标'] | ZH:'首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_02_Xbox",
+   "detail": "EN=['BUILD', 'BUILD MENU', 'ROOM'] ZH=['建造', '建造菜单', '房间'] | ZH:'首先让我们{建造}一个{房间}。按下\\ue003打开{建造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_03",
+   "detail": "EN=['POWER', 'POWER ROOM', 'TAP'] ZH=['发电室', '发电室', '点击', '电力'] | ZH:'我们将建立一个{发电室}来产生{电力}。{点击}{发电室}。'"
+  },
+  {
+   "key": "Message_Tutorial_03_PC",
+   "detail": "EN=['CLICK', 'POWER', 'POWER ROOM'] ZH=['发电室', '发电室', '点击', '电力'] | ZH:'我们将建立一个{发电室}来产生{电力}。{点击}{发电室}。'"
+  },
+  {
+   "key": "Message_Tutorial_03_Xbox",
+   "detail": "EN=['POWER', 'POWER ROOM', 'SELECT'] ZH=['发电室', '发电室', '电力', '选择'] | ZH:'我们将建立一个{发电室}来产生{电力}。按下\\ue000来{选择}{发电室}。'"
+  },
+  {
+   "key": "Message_Tutorial_04",
+   "detail": "EN=['BUILD ZONE', 'BUILD ZONES', 'ROOMS', 'TAPPING'] ZH=['建造区域', '建造区域', '房间', '点击'] | ZH:'{建造区域}是可以选择来建造{房间}的位置。确认位置，{点击}{建造区域}。'"
+  },
+  {
+   "key": "Message_Tutorial_04_PC",
+   "detail": "EN=['BUILD ZONE', 'BUILD ZONES', 'CLICKING', 'ROOMS'] ZH=['建造区域', '建造区域', '房间', '点击'] | ZH:'{建造区域}是可以选择来建造{房间}的位置。确认位置，{点击}{建造区域}。'"
+  },
+  {
+   "key": "Message_Tutorial_04_PS4",
+   "detail": "EN=['BUILD ZONE', 'BUILD ZONES', 'LEFT STICK', 'PRESS', 'ROOMS', 'SELECT'] ZH=['左摇杆', '建造区域', '建造区域', '房间', '按下'] | ZH:'您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}\\ue000以确认。'"
+  },
+  {
+   "key": "Message_Tutorial_04_Switch",
+   "detail": "EN=['BUILD ZONE', 'BUILD ZONES', 'LEFT STICK', 'PRESS', 'ROOMS', 'SELECT'] ZH=['左摇杆', '建造区域', '建造区域', '房间', '按下'] | ZH:'您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}\\ue000以确认。'"
+  },
+  {
+   "key": "Message_Tutorial_04_Xbox",
+   "detail": "EN=['BUILD ZONE', 'BUILD ZONES', 'LEFT STICK', 'PRESS', 'ROOMS', 'SELECT'] ZH=['左摇杆', '建造区域', '建造区域', '房间', '按下'] | ZH:'您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}\\ue000以确认。'"
+  },
+  {
+   "key": "Message_Tutorial_05",
+   "detail": "EN=['DWELLERS'] ZH=['发电室', '居民'] | ZH:'现在我们需要{居民}来使{发电室}发电。'"
+  },
+  {
+   "key": "Message_Tutorial_06",
+   "detail": "EN=['NEW DWELLERS', 'VAULT DOOR'] ZH=['新居民', '避难所大门'] | ZH:'看！{新居民}已出现在{避难所大门}。'"
+  },
+  {
+   "key": "Message_Tutorial_07",
+   "detail": "EN=['DWELLER', 'DWELLER', 'STATS', 'TAP'] ZH=['居民', '居民', '查看信息', '点击', '状态'] | ZH:'让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。'"
+  },
+  {
+   "key": "Message_Tutorial_07_PC",
+   "detail": "EN=['CLICK', 'DWELLER', 'DWELLER', 'STATS'] ZH=['居民', '居民', '查看信息', '点击', '状态'] | ZH:'让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。'"
+  },
+  {
+   "key": "Message_Tutorial_07_PS4",
+   "detail": "EN=['DWELLER', 'DWELLER', 'MOVE', 'SELECT', 'STATS', 'WASTELAND'] ZH=['居民', '居民', '废土', '状态', '移动', '选择'] | ZH:'让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。'"
+  },
+  {
+   "key": "Message_Tutorial_07_Switch",
+   "detail": "EN=['DWELLER', 'DWELLER', 'MOVE', 'SELECT', 'STATS', 'WASTELAND'] ZH=['居民', '居民', '废土', '状态', '移动', '选择'] | ZH:'让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。'"
+  },
+  {
+   "key": "Message_Tutorial_07_Xbox",
+   "detail": "EN=['DWELLER', 'DWELLER', 'MOVE', 'SELECT', 'STATS', 'WASTELAND'] ZH=['居民', '居民', '废土', '状态', '移动', '选择'] | ZH:'让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。'"
+  },
+  {
+   "key": "Message_Tutorial_08",
+   "detail": "EN=['DWELLER'] ZH=['居民', '居民的SPECIAL属性'] | ZH:'您可以看到{居民的SPECIAL属性}统计。这个信息告诉您{居民}在哪儿能被最有效地利用。'"
+  },
+  {
+   "key": "Message_Tutorial_09",
+   "detail": "EN=['DRAG', 'DWELLER', 'DWELLER', 'HOLD', 'TAP'] ZH=['发电室', '居民', '居民', '拖拽', '按住', '点击'] | ZH:'要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。'"
+  },
+  {
+   "key": "Message_Tutorial_09_PC",
+   "detail": "EN=['CLICK', 'DRAG', 'DWELLER', 'DWELLER', 'HOLD'] ZH=['发电室', '居民', '居民', '拖拽', '按住', '点击'] | ZH:'要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。'"
+  },
+  {
+   "key": "Message_Tutorial_09_Xbox",
+   "detail": "EN=['DWELLER', 'HOLD', 'SELECT'] ZH=['发电室', '居民', '按住', '选中的居民', '选择'] | ZH:'要分配一个{选中的居民}，{按住}\\ue000抓住居民，然后{选择}一个房间。试着将这个{居民}分配到刚才所建的{发电室}。'"
+  },
+  {
+   "key": "Message_Tutorial_10",
+   "detail": "EN=['DRAG', 'DWELLER', 'DWELLER', 'HOLD', 'TAP'] ZH=['发电室', '居民', '拖', '按住', '点击'] | ZH:'现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。'"
+  },
+  {
+   "key": "Message_Tutorial_10_PC",
+   "detail": "EN=['CLICK', 'DRAG', 'DWELLER', 'DWELLER', 'HOLD'] ZH=['发电室', '居民', '拖', '按住', '点击'] | ZH:'现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。'"
+  },
+  {
+   "key": "Message_Tutorial_10_Xbox",
+   "detail": "EN=['DWELLER', 'HOLD', 'MOVE', 'WASTELAND'] ZH=['发电室', '居民', '废土', '按住', '移动'] | ZH:'现在将第二个{居民}分配到{发电室}。记得{移动}至{废土}，然后{按住}\\ue000来拖住他们。'"
+  },
+  {
+   "key": "Message_Tutorial_11",
+   "detail": "EN=['DOUBLE TAP', 'DWELLERS', 'ROOM'] ZH=['双击', '居民', '房间', '生产资源'] | ZH:'现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。'"
+  },
+  {
+   "key": "Message_Tutorial_11_PC",
+   "detail": "EN=['DOUBLE CLICK', 'DWELLERS', 'ROOM'] ZH=['双击', '居民', '房间', '生产资源'] | ZH:'现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。'"
+  },
+  {
+   "key": "Message_Tutorial_11_Xbox",
+   "detail": "EN=['DWELLERS', 'HOLD'] ZH=['居民', '按住', '生产资源'] | ZH:'现在，{居民}正在工作，房间将开始{生产资源}。{按住}\\ue005来放大仔细察看。'"
+  },
+  {
+   "key": "Message_Tutorial_12",
+   "detail": "EN=['OPEN', 'RUSH BUTTON', 'RUSH MENU', 'RUSH MODE', 'TAP'] ZH=['打开', '极速按钮', '极速模式', '极速菜单', '点击'] | ZH:'如果需要额外资源，可以使用{极速模式}。{点击}{极速按钮}来{打开}{极速菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_12_PC",
+   "detail": "EN=['CLICK', 'OPEN', 'RUSH BUTTON', 'RUSH MENU', 'RUSH MODE'] ZH=['打开', '极速按钮', '极速模式', '极速菜单', '点击'] | ZH:'如果需要额外资源，可以使用{极速模式}。{点击}{极速按钮}来{打开}{极速菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_12_Xbox",
+   "detail": "EN=['OPEN', 'RUSH MENU', 'RUSH MODE'] ZH=['打开', '极速模式', '极速菜单'] | ZH:'如果需要额外资源，可以使用{极速模式}。按下\\ue00e来{打开}{极速菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_13",
+   "detail": "EN=['AWARDS', 'CAPS', 'INCIDENTS', 'RESOURCES'] ZH=['事件', '奖励', '瓶盖', '资源'] | ZH:'极速模式可立即产生{资源}，并{奖励}您{瓶盖}。但请小心，破坏性的{事件}也可能发生。'"
+  },
+  {
+   "key": "Message_Tutorial_14",
+   "detail": "EN=['CAPS'] ZH=['瓶盖'] | ZH:'太好了！您已经成功完成了第一次极速模式，并收集到{瓶盖}。'"
+  },
+  {
+   "key": "Message_Tutorial_15",
+   "detail": "EN=['COLLECT', 'TAP'] ZH=['收集', '点击', '资源图标', '重新启动房间生产'] | ZH:'现在{点击}{资源图标}来{收集}资源和{重新启动房间生产}。'"
+  },
+  {
+   "key": "Message_Tutorial_15_PC",
+   "detail": "EN=['CLICK', 'COLLECT'] ZH=['收集', '点击', '资源图标', '重新启动房间生产'] | ZH:'现在{点击}{资源图标}来{收集}资源和{重新启动房间生产}。'"
+  },
+  {
+   "key": "Message_Tutorial_15_Xbox",
+   "detail": "EN=['COLLECT'] ZH=['收集', '重新启动房间生产'] | ZH:'现在按下\\ue000来{收集}资源和{重新启动房间生产}。'"
+  },
+  {
+   "key": "Message_Tutorial_16",
+   "detail": "EN=['VAULT-TEC', 'WEEK'] ZH=['周', '避难所科技'] | ZH:'每{周}，{避难所科技}会检查您的避难所，根据您的表现来给您一个评级。'"
+  },
+  {
+   "key": "Message_Tutorial_17",
+   "detail": "EN=['LUNCH BOX', 'REWARD'] ZH=['午餐盒', '奖励'] | ZH:'恭喜您！您已经获得了您的第一个{奖励}——一个{午餐盒}。里面有很多好东西。'"
+  },
+  {
+   "key": "Message_Tutorial_18",
+   "detail": "EN=['CAPS', 'INCREASE', 'OBJECTIVES'] ZH=['提升', '瓶盖', '目标', '避难所评级'] | ZH:'完成避难所科技制定的{目标}来赚取{瓶盖}并{提升}您的{避难所评级}。'"
+  },
+  {
+   "key": "Message_Tutorial_19",
+   "detail": "EN=['ADD FRIENDS', 'COLLECT CAPS', 'VAULT', 'VISIT'] ZH=['增加朋友', '收集瓶盖', '访问', '避难所'] | ZH:'{增加朋友}来{访问}并查看他们的{避难所}并{收集瓶盖}。'"
+  },
+  {
+   "key": "Message_Tutorial_20",
+   "detail": "EN=['CAPS', 'DWELLERS', 'OUTFITS', 'WASTELAND', 'WEAPONS'] ZH=['居民', '废土', '武器', '瓶盖', '装备'] | ZH:'将您的{居民}派遣到{废土}上来收集{瓶盖}，{装备}和{武器}。'"
+  },
+  {
+   "key": "Message_Tutorial_21",
+   "detail": "EN=['RADIO STUDIO'] ZH=['居民幸福度', '广播室'] | ZH:'您的{广播室}会吸引废土上的居民，并提升避难所内的{居民幸福度}。'"
+  },
+  {
+   "key": "Message_Tutorial_22",
+   "detail": "EN=['OUTFITS', 'WEAPONS'] ZH=['武器', '装备'] | ZH:'在这里您可以看到并管理您现在所拥有的全部{武器}和{装备}。'"
+  },
+  {
+   "key": "Message_Tutorial_23",
+   "detail": "EN=['INCREASE', 'SPECIAL', 'TRAIN'] ZH=['增加', '训练'] | ZH:'{训练}您的居民，{增加}他们的{S.P.E.C.I.A.L.}属性。'"
+  },
+  {
+   "key": "Message_Tutorial_24",
+   "detail": "EN=['BABIES', 'FEMALE', 'MALE'] ZH=['女性', '宿舍', '小孩', '男性'] | ZH:'{男性}和{女性}居民如果共同待在{宿舍}里，会有一定生{小孩}的可能。'"
+  },
+  {
+   "key": "Message_Tutorial_25",
+   "detail": "EN=['EXPAND', 'VAULT'] ZH=['扩张', '摧毁岩石', '避难所'] | ZH:'{摧毁岩石}来向更深处{扩张}您的{避难所}。'"
+  },
+  {
+   "key": "Message_Tutorial_26",
+   "detail": "EN=['STORAGE'] ZH=['储藏', '避难所库存'] | ZH:'{储藏}室能扩大您的{避难所库存}。'"
+  },
+  {
+   "key": "Message_Tutorial_27",
+   "detail": "EN=['CONFIRM', 'POWER'] ZH=['电力', '确认'] | ZH:'房间需要{电力}才能运行。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_27_PC",
+   "detail": "EN=['CONFIRM', 'POWER'] ZH=['电力', '确认'] | ZH:'房间需要{电力}才能运行。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_27_Xbox",
+   "detail": "EN=['CONFIRM', 'POWER'] ZH=['电力', '确认'] | ZH:'房间需要{电力}才能运行。按下\\ue000来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_29",
+   "detail": "EN=['NUKA CAPS'] ZH=['午餐盒菜单', '核子瓶盖'] | ZH:'点击{核子瓶盖}来打开您的{午餐盒菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_29_Xbox",
+   "detail": "EN=['PIP-BOY'] ZH=['午餐盒图标', '午餐盒菜单', '哔哔小子'] | ZH:'选择{哔哔小子}里的{午餐盒图标}来打开{午餐盒菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_30",
+   "detail": "EN=['VAULT DOOR'] ZH=['更多的居民', '避难所门口'] | ZH:'看！{更多的居民}出现在了{避难所门口}。'"
+  },
+  {
+   "key": "Message_Tutorial_31",
+   "detail": "EN=['DWELLERS', 'WASTELAND'] ZH=['居民', '废土'] | ZH:'请确认已经给您的{居民}配好了武器装备之后再将他们送去{废土}。这将会提高他们存活的概率。'"
+  },
+  {
+   "key": "Message_Tutorial_32",
+   "detail": "EN=['BUILD', 'ELEVATOR'] ZH=['建造', '电梯'] | ZH:'{建造}一部{电梯}来连通下一楼层。'"
+  },
+  {
+   "key": "Message_Tutorial_34",
+   "detail": "EN=['BUILD', 'DESTROY', 'ROOM'] ZH=['建造', '房间', '摧毁'] | ZH:'记住在{建造}{房间}前请先{摧毁}岩石。'"
+  },
+  {
+   "key": "Message_Tutorial_35",
+   "detail": "EN=['DESTROY', 'ROCK'] ZH=['岩石', '摧毁'] | ZH:'没有足够的建造空间！请{摧毁}挡住房间的{岩石}来继续建造。'"
+  },
+  {
+   "key": "Message_Tutorial_36",
+   "detail": "EN=['DESTROY'] ZH=['摧毁'] | ZH:'{摧毁}挡住电梯的岩石，才能进入下一层。'"
+  },
+  {
+   "key": "Message_Tutorial_38",
+   "detail": "EN=['ROOM'] ZH=['房间'] | ZH:'让我们来建造第二个{房间}。'"
+  },
+  {
+   "key": "Message_Tutorial_39",
+   "detail": "EN=['DINER', 'DINER', 'FOOD', 'TAP'] ZH=['点击', '食物', '餐厅', '餐厅'] | ZH:'需要一个{餐厅}来帮您生产{食物}。{点击}{餐厅}。'"
+  },
+  {
+   "key": "Message_Tutorial_39_PC",
+   "detail": "EN=['CLICK', 'DINER', 'DINER', 'FOOD'] ZH=['点击', '食物', '餐厅', '餐厅'] | ZH:'需要一个{餐厅}来帮您生产{食物}。{点击}{餐厅}。'"
+  },
+  {
+   "key": "Message_Tutorial_39_Xbox",
+   "detail": "EN=['DINER', 'DINER', 'FOOD', 'SELECT'] ZH=['选择', '食物', '餐厅', '餐厅'] | ZH:'需要一个{餐厅}来帮您生产{食物}。{选择}{餐厅}。'"
+  },
+  {
+   "key": "Message_Tutorial_40",
+   "detail": "EN=['CONFIRM', 'FOOD', 'HEALTH'] ZH=['生命值', '确认', '食物'] | ZH:'居民需要{食物}来保证他们的{生命值}。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_40_PC",
+   "detail": "EN=['CONFIRM', 'FOOD', 'HEALTH'] ZH=['生命值', '确认', '食物'] | ZH:'居民需要{食物}来保证他们的{生命值}。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_40_Xbox",
+   "detail": "EN=['CONFIRM', 'FOOD', 'HEALTH'] ZH=['生命值', '确认', '食物'] | ZH:'居民需要{食物}来保证他们的{生命值}。再次按下\\ue000来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_41",
+   "detail": "EN=['BUILD ZONE', 'TAPPING'] ZH=['建造区域', '点击'] | ZH:'{点击}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_41_PC",
+   "detail": "EN=['BUILD ZONE', 'CLICKING'] ZH=['建造区域', '点击'] | ZH:'{点击}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_41_Xbox",
+   "detail": "EN=['BUILD ZONE', 'SELECTING'] ZH=['建造区域', '选择'] | ZH:'{选择}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_43",
+   "detail": "EN=['TAP', 'WATER'] ZH=['水', '水房', '水房', '点击'] | ZH:'这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。'"
+  },
+  {
+   "key": "Message_Tutorial_43_PC",
+   "detail": "EN=['CLICK', 'WATER'] ZH=['水', '水房', '水房', '点击'] | ZH:'这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。'"
+  },
+  {
+   "key": "Message_Tutorial_43_Xbox",
+   "detail": "EN=['SELECT', 'WATER'] ZH=['水', '水房', '水房', '选择'] | ZH:'这次您需要一个{水房}来帮助您生产干净的{水}。{选择}{水房}。'"
+  },
+  {
+   "key": "Message_Tutorial_44",
+   "detail": "EN=['CONFIRM', 'RADIATION', 'WATER'] ZH=['水', '确认', '辐射'] | ZH:'居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_44_PC",
+   "detail": "EN=['CONFIRM', 'RADIATION', 'WATER'] ZH=['水', '确认', '辐射'] | ZH:'居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_44_Xbox",
+   "detail": "EN=['CONFIRM', 'RADIATION', 'WATER'] ZH=['水', '确认', '辐射'] | ZH:'居民需要干净的{水}来远离{辐射}危害。再次按下\\ue000来{确认}。'"
+  },
+  {
+   "key": "Message_Tutorial_45",
+   "detail": "EN=['BUILD ZONE', 'TAPPING'] ZH=['建造区域', '点击'] | ZH:'{点击}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_45_PC",
+   "detail": "EN=['BUILD ZONE', 'CLICKING'] ZH=['建造区域', '点击'] | ZH:'{点击}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_45_Xbox",
+   "detail": "EN=['BUILD ZONE', 'SELECTING'] ZH=['建造区域', '选择'] | ZH:'{选择}{建造区域}来确认地点。'"
+  },
+  {
+   "key": "Message_Tutorial_46",
+   "detail": "EN=['FOOD', 'METERS', 'RESOURCES', 'VAULT', 'WATER'] ZH=['水', '资源', '资源刻度条', '避难所', '食物'] | ZH:'干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。您可以通过{资源刻度条}来查看{资源}的需求量。'"
+  },
+  {
+   "key": "Message_Tutorial_46_PS4",
+   "detail": "EN=['FOOD', 'L3', 'METER', 'RESOURCES', 'VAULT', 'WATER'] ZH=['L3', '水', '资源', '资源刻度条', '避难所', '食物'] | ZH:'干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。您可以按下{L3}来查看避难所{资源刻度条}的细节，查看您的{资源}需求量。'"
+  },
+  {
+   "key": "Message_Tutorial_46_Switch",
+   "detail": "EN=['FOOD', 'LEFT STICK', 'METER', 'PRESS', 'RESOURCES', 'VAULT', 'WATER'] ZH=['左摇杆', '按下', '水', '资源', '资源刻度条', '避难所', '食物'] | ZH:'干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。{按下}{左摇杆}来查看避难所{资源刻度条}的细节，查看您的{资源}需求量。'"
+  },
+  {
+   "key": "Message_Tutorial_46_Xbox",
+   "detail": "EN=['CLICK', 'FOOD', 'LEFT STICK', 'METER', 'RESOURCES', 'VAULT', 'WATER'] ZH=['左摇杆', '水', '点击', '资源', '资源刻度条', '避难所', '食物'] | ZH:'干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。{点击}{左摇杆}来展示避难所{资源刻度条}的细节，并记住随时关注{资源}的需求量。'"
+  },
+  {
+   "key": "Message_Tutorial_47",
+   "detail": "EN=['JUNK', 'OUTFITS', 'WORKSHOP'] ZH=['工坊', '打造武器', '杂物', '装备'] | ZH:'{杂物} 被用来在{工坊}里{打造武器}和{装备}。'"
+  },
+  {
+   "key": "Message_Tutorial_48",
+   "detail": "EN=['CHILD', 'ICON', 'TAP'] ZH=['图标', '怀孕的居民', '新成员', '点击'] | ZH:'{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。'"
+  },
+  {
+   "key": "Message_Tutorial_48_PC",
+   "detail": "EN=['CHILD', 'CLICK', 'ICON'] ZH=['图标', '怀孕的居民', '新成员', '点击'] | ZH:'{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。'"
+  },
+  {
+   "key": "Message_Tutorial_48_Xbox",
+   "detail": "EN=['CHILD', 'SELECT'] ZH=['怀孕的居民', '新成员', '选择'] | ZH:'{怀孕的居民}已经准备好生产了！{选择}她来欢迎避难所的{新成员}。'"
+  },
+  {
+   "key": "Message_Tutorial_49",
+   "detail": "EN=['FULL', 'INVENTORY', 'ITEMS', 'UNAVAILABLE'] ZH=['库存已满', '物品'] | ZH:'您的{库存已满}。多出的{物品}将会保留，但无法使用，直到有足够的空间。'"
+  },
+  {
+   "key": "Message_Tutorial_50",
+   "detail": "EN=['INVENTORY', 'ITEMS', 'UNAVAILABLE'] ZH=['使用', '库存', '物品', '虚线矩形边框'] | ZH:'有{虚线矩形边框}的{物品}不在您的{库存}范围内，当建造更多储藏室或升级储藏室获得足够空间时，才能被{使用}。'"
+  },
+  {
+   "key": "Message_Tutorial_51",
+   "detail": "EN=['ITEM', 'JUNK', 'JUNK', 'RISKY', 'SCRAPPING'] ZH=['分解', '杂物', '杂物', '物品', '风险'] | ZH:'{分解}一个{物品}来将其变成{杂物}，但此事有{风险}。您可能会得到很多{杂物}、一点点杂物，或者什么都得不到。'"
+  },
+  {
+   "key": "Message_Tutorial_52",
+   "detail": "EN=['DWELLERS', 'QUESTS'] ZH=['任务', '居民', '监督者办公室'] | ZH:'恭喜！您刚建成了{监督者办公室}！您现在可以派出{居民}小队去避难所外执行{任务}了。'"
+  },
+  {
+   "key": "Message_Tutorial_53",
+   "detail": "EN=['PIP-BOY', 'QUEST LIST', 'SELECT'] ZH=['任务列表', '哔哔小子', '点击'] | ZH:'想要打开{任务列表}，请{点击}{哔哔小子}。'"
+  },
+  {
+   "key": "Message_Tutorial_53_Xbox",
+   "detail": "EN=['PIP-BOY', 'QUEST LIST'] ZH=['任务列表', '哔哔小子'] | ZH:'想要打开{任务列表}。按下\\ue001来打开{哔哔小子}。'"
+  },
+  {
+   "key": "Message_Tutorial_54",
+   "detail": "EN=['MAP ICON', 'SELECT'] ZH=['地图图标', '选择'] | ZH:'现在{选择}{地图图标}。'"
+  },
+  {
+   "key": "Message_Tutorial_55",
+   "detail": "EN=['QUEST', 'QUESTS', 'SELECT'] ZH=['任务', '任务', '选择'] | ZH:'这里会列出可执行的{任务}。{选择}第一个{任务}来查看更多信息。'"
+  },
+  {
+   "key": "Message_Tutorial_56",
+   "detail": "EN=['DWELLERS', 'QUEST', 'TAP'] ZH=['任务', '居民', '点击'] | ZH:'{点击}这里然后分配{居民}到{任务}小队。'"
+  },
+  {
+   "key": "Message_Tutorial_56_PC",
+   "detail": "EN=['CLICK', 'DWELLERS', 'QUEST'] ZH=['任务', '居民', '点击'] | ZH:'{点击}这里然后分配{居民}到{任务}小队。'"
+  },
+  {
+   "key": "Message_Tutorial_56_Xbox",
+   "detail": "EN=['DWELLERS', 'QUEST'] ZH=['任务', '居民'] | ZH:'按下\\ue000来分配{居民}到{任务}小队。'"
+  },
+  {
+   "key": "Message_Tutorial_57",
+   "detail": "EN=['DWELLER', 'SELECT'] ZH=['居民', '选择'] | ZH:'先{选择}一个{居民}队列位置。'"
+  },
+  {
+   "key": "Message_Tutorial_58",
+   "detail": "EN=['QUEST', 'SELECT'] ZH=['任务', '选择'] | ZH:'现在{选择}一个您想派遣去执行{任务}的居民。'"
+  },
+  {
+   "key": "Message_Tutorial_59",
+   "detail": "EN=['DWELLERS', 'QUEST', 'SELECT'] ZH=['任务', '居民', '选择'] | ZH:'{选择}存储槽来为将要去执行{任务}的{居民}做好准备。'"
+  },
+  {
+   "key": "Message_Tutorial_60",
+   "detail": "EN=['SELECT', 'WEAPON'] ZH=['武器', '选择'] | ZH:'现在{选择}一个{武器}。'"
+  },
+  {
+   "key": "Message_Tutorial_61",
+   "detail": "EN=['DWELLERS', 'START QUEST', 'TAP'] ZH=['居民', '开始任务', '点击'] | ZH:'当您完成派遣和武装{居民}时，{点击}{开始任务}按钮就可以让他们出去探险了。'"
+  },
+  {
+   "key": "Message_Tutorial_61_PC",
+   "detail": "EN=['CLICK', 'DWELLERS', 'START QUEST'] ZH=['居民', '开始任务', '点击'] | ZH:'当您完成派遣和武装{居民}时，{点击}{开始任务}按钮就可以让他们出去探险了。'"
+  },
+  {
+   "key": "Message_Tutorial_61_Xbox",
+   "detail": "EN=['DWELLERS', 'START QUEST'] ZH=['居民', '开始任务'] | ZH:'当您完成派遣和武装{居民}时，选择{开始任务}按钮就可以让他们出去探险了。'"
+  },
+  {
+   "key": "Message_Tutorial_62",
+   "detail": "EN=['TAP', 'WASTELAND'] ZH=['废土', '废土任务日志', '点击'] | ZH:'{点击}{废土}来打开{废土任务日志}。'"
+  },
+  {
+   "key": "Message_Tutorial_62_PC",
+   "detail": "EN=['CLICK', 'WASTELAND'] ZH=['废土', '废土任务日志', '点击'] | ZH:'{点击}{废土}来打开{废土任务日志}。'"
+  },
+  {
+   "key": "Message_Tutorial_62_Xbox",
+   "detail": "EN=[] ZH=['废土任务日志'] | ZH:'按下\\ue00c来打开{废土任务日志}。'"
+  },
+  {
+   "key": "Message_Tutorial_63",
+   "detail": "EN=['QUEST', 'QUEST', 'TAP'] ZH=['任务', '任务', '点击', '量子核子可乐', '量子核子可乐'] | ZH:'用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。'"
+  },
+  {
+   "key": "Message_Tutorial_63_PC",
+   "detail": "EN=['CLICK', 'QUEST', 'QUEST'] ZH=['任务', '任务', '点击', '量子核子可乐', '量子核子可乐'] | ZH:'用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。'"
+  },
+  {
+   "key": "Message_Tutorial_63_Xbox",
+   "detail": "EN=['QUEST', 'REACH NOW'] ZH=['任务', '现在到达', '量子核子可乐', '量子核子可乐'] | ZH:'用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}来极速到达现场。'"
+  },
+  {
+   "key": "Message_Tutorial_64",
+   "detail": "EN=['CRAFTING', 'OBJECTIVES', 'TRAINING', 'VAULT'] ZH=['个性化', '打造', '目标', '训练', '量子核子可乐'] | ZH:'您还能够使用{量子核子可乐}来跳过避难所里的每日{目标}，加速{打造}、{训练}和美发店{个性化}的进程。'"
+  },
+  {
+   "key": "Message_Tutorial_65",
+   "detail": "EN=['DWELLERS', 'LOOT', 'MAP ICON', 'QUESTS'] ZH=['任务', '任务目标', '地图图标', '居民', '战利品'] | ZH:'{任务}能让您探索新的地点，认识新{居民}和收集{战利品}。右上角的{地图图标}会显示您的{任务目标}。'"
+  },
+  {
+   "key": "Message_Tutorial_67",
+   "detail": "EN=['HAPPINESS', 'RADIO STUDIO', 'STOP'] ZH=['关闭', '幸福度', '广播站'] | ZH:'如果不需要任何新居民，您可以{关闭}{广播站}的对外召唤功能，但其仍能在避难所内部播放广播，提升居民{幸福度}。'"
+  },
+  {
+   "key": "Message_Tutorial_68",
+   "detail": "EN=['DRAG', 'DWELLER', 'DWELLER', 'HOLD', 'TAP'] ZH=['发电室', '居民', '居民', '拖拽', '按住', '点击'] | ZH:'要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。'"
+  },
+  {
+   "key": "Message_Tutorial_68_PC",
+   "detail": "EN=['CLICK', 'DRAG', 'DWELLER', 'DWELLER', 'HOLD'] ZH=['发电室', '居民', '居民', '拖拽', '按住', '点击'] | ZH:'要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。'"
+  },
+  {
+   "key": "Message_Tutorial_68_PS4",
+   "detail": "EN=['DWELLER', 'LEFT STICK', 'MOVE', 'POWER ROOM'] ZH=['发电室', '居民', '移动'] | ZH:'用左摇杆{移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Tutorial_68_Switch",
+   "detail": "EN=['DWELLER', 'LEFT STICK', 'MOVE', 'POWER ROOM'] ZH=['发电室', '居民', '移动'] | ZH:'用左摇杆{移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Tutorial_68_Xbox",
+   "detail": "EN=['DWELLER', 'LEFT STICK', 'MOVE', 'POWER ROOM'] ZH=['发电室', '居民', '移动'] | ZH:'用左摇杆{移动}{居民}到{发电室}然后按下\\ue000来分配他们。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetBuildOverseerRoom",
+   "detail": "EN=['QUEST LINE'] ZH=['任务线', '监督者办公室', '赛季居民'] | ZH:'每个{赛季居民}都会解锁一条新的{任务线}。解锁并建造{监督者办公室}，来招募您的新居民！'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetClaimDweller",
+   "detail": "EN=['CLAIM BUTTON', 'TAP'] ZH=['点击', '领取按钮'] | ZH:'{点击}{领取按钮}来招募您的新居民。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetClaimDweller_PC",
+   "detail": "EN=['CLAIM BUTTON', 'CLICK'] ZH=['点击', '领取按钮'] | ZH:'{点击}{领取按钮}来招募您的新居民。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetClaimDweller_Xbox",
+   "detail": "EN=['CLAIM BUTTON', 'SELECT'] ZH=['选择', '领取按钮'] | ZH:'{选择}{领取按钮}来招募您的新居民。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetHighlightDweller",
+   "detail": "EN=['ASSIGN'] ZH=['分配'] | ZH:'记得把您的新居民{分配}到避难所！'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetIntroduction",
+   "detail": "EN=['DWELLER', 'TIME'] ZH=['居民', '时间', '赛季居民'] | ZH:'{赛季居民}每隔几天到达一次。左上角的{时间}显示距离下一位{居民}抵达的倒计时。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetOpenModal",
+   "detail": "EN=['TAP'] ZH=['点击', '赛季居民'] | ZH:'{点击}计时器，查看下一位{赛季居民}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetOpenModal_PC",
+   "detail": "EN=['CLICK'] ZH=['点击', '赛季居民'] | ZH:'{点击}计时器，查看下一位{赛季居民}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetOpenModal_Xbox",
+   "detail": "EN=['SELECT'] ZH=['赛季居民', '选择'] | ZH:'{选择}计时器，查看下一位{赛季居民}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetReadyToClaim",
+   "detail": "EN=['TAP'] ZH=['点击'] | ZH:'您的新居民到了！{点击}他们的头像来招募。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetReadyToClaim_PC",
+   "detail": "EN=['CLICK'] ZH=['点击'] | ZH:'您的新居民到了！{点击}他们的头像来招募。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetReadyToClaim_Xbox",
+   "detail": "EN=['SELECT'] ZH=['选择'] | ZH:'您的新居民到了！{选择}他们的头像来招募。'"
+  },
+  {
+   "key": "Message_Tutorial_ArrivalWidgetRequirements",
+   "detail": "EN=[] ZH=['赛季居民'] | ZH:'除了等待倒计时，您可能还需要完成其他前置条件才能领取{赛季居民}。'"
+  },
+  {
+   "key": "Message_Tutorial_NoRoomDwellers",
+   "detail": "EN=[] ZH=['宿舍'] | ZH:'您刚刚用掉了避难所里最后的可用空间。建造更多的{宿舍}来安置更多的居民。'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedEarlyAttack",
+   "detail": "EN=['12 HOURS'] ZH=['12小时', '辐尸人突袭'] | ZH:'如果剩余时间不足{12小时}，您可以提前开始{辐尸人突袭}。但请确保自己已做好准备！'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedEnemies",
+   "detail": "EN=['DIFFICULTY'] ZH=['辐尸人突袭', '难度'] | ZH:'随着赛季推进，{辐尸人突袭}的敌人会更多，{难度}也会逐步提升。'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedTimerIntroduction",
+   "detail": "EN=['RAID', 'TIME'] ZH=['时间', '突袭', '辐尸人突袭'] | ZH:'{辐尸人突袭}每隔几天发生一次。左上角的{时间}显示距离下一场{突袭}的倒计时。'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedTimerOpen",
+   "detail": "EN=['TAP'] ZH=['辐尸人突袭'] | ZH:'点击计时器，查看下一场{辐尸人突袭}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedTimerOpen_PC",
+   "detail": "EN=['CLICK'] ZH=['辐尸人突袭'] | ZH:'点击计时器，查看下一场{辐尸人突袭}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedTimerOpen_Xbox",
+   "detail": "EN=['SELECT'] ZH=['辐尸人突袭', '选择'] | ZH:'{选择}计时器，查看下一场{辐尸人突袭}的更多细节。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonBattlePass",
+   "detail": "EN=['RANKS', 'REWARDS', 'SEASON PASS'] ZH=['奖励', '等级', '赛季通行证'] | ZH:'在{赛季通行证}中获取{等级}，即可获得可在每一座避难所领取的{奖励}。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonChallenges",
+   "detail": "EN=['CHALLENGES', 'SEASON PASS'] ZH=['挑战', '赛季通行证'] | ZH:'完成{挑战}来推进您的{赛季通行证}进度。每周都会解锁新的挑战。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonIntroduction",
+   "detail": "EN=['CHALLENGES', 'SEASON PASS', 'SEASONS'] ZH=['实验避难所', '挑战', '赛季', '赛季通行证'] | ZH:'欢迎来到{赛季}！现在您可以通过完成{挑战}来提升您的{赛季通行证}等级，从而在整个{实验避难所}的生命周期内获得丰厚奖励。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonLeaderboard",
+   "detail": "EN=['FRIENDS', 'OVERSEER', 'POINTS', 'REWARDS'] ZH=['分数', '奖励', '好友', '实验避难所', '监督者'] | ZH:'在您的{实验避难所}中完成行动来赢取{分数}并领取{奖励}。向您的{好友}发起挑战，看看谁才是最出色的{监督者}！'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonOpenBattlePass",
+   "detail": "EN=['SEASON PASS', 'SELECT'] ZH=['赛季通行证', '选择'] | ZH:'现在，{选择}{赛季通行证}标签页。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonOpenLeaderboard",
+   "detail": "EN=['LEADERBOARD', 'SELECT'] ZH=['排行榜', '选择'] | ZH:'现在，{选择}{排行榜}标签页。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonOpenLeaderboardInfoPanel",
+   "detail": "EN=['INFO BUTTON', 'TAP', 'VAULT SCORE'] ZH=['信息按钮', '点击', '避难所评分'] | ZH:'{点击}{信息按钮}，了解如何提升{避难所评分}。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonOpenModal",
+   "detail": "EN=['SELECT'] ZH=['赛季按钮', '选择'] | ZH:'首先，{选择}{赛季按钮}。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonUnlockBattlePass",
+   "detail": "EN=['REWARDS', 'SEASON PASS', 'UPGRADE'] ZH=['升级', '奖励', '赛季通行证'] | ZH:'{升级}{赛季通行证}，以获得更好的{奖励}！'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonalQuestDetails",
+   "detail": "EN=['TOKENS'] ZH=['筹码', '赛季任务', '赛季居民'] | ZH:'完成{赛季任务}可获得额外{筹码}，并招募更多{赛季居民}。'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonalQuestIntroduction",
+   "detail": "EN=[] ZH=['赛季任务线'] | ZH:'恭喜——您刚刚解锁了一条全新的{赛季任务线}！'"
+  },
+  {
+   "key": "Message_Tutorial_SeasonalQuestOpenPipBoy",
+   "detail": "EN=['QUEST', 'QUEST LIST'] ZH=['任务', '任务列表'] | ZH:'打开{任务列表}来进入新的{任务}。'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinConclusion",
+   "detail": "EN=['PRIZES', 'TOKENS'] ZH=['奖励', '筹码'] | ZH:'每天登录、观看视频广告并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinConclusion_PC",
+   "detail": "EN=['PRIZES', 'TOKENS'] ZH=['奖励', '筹码'] | ZH:'每天登录并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinConclusion_Xbox",
+   "detail": "EN=['PRIZES', 'TOKENS'] ZH=['奖励', '筹码'] | ZH:'每天登录并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinHowToPlay",
+   "detail": "EN=['PRIZE', 'TOKEN'] ZH=['奖励', '筹码'] | ZH:'花费一枚{筹码}转动幸运大转盘，无论指针停在哪里，都能赢得对应的{奖励}。'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinIntroduction",
+   "detail": "EN=[] ZH=['幸运转盘', '超赞奖励'] | ZH:'在整个赛季中，您都可以在{幸运转盘}上考验您的运气，赢取{超赞奖励}！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinOpenModal",
+   "detail": "EN=['TAP', 'WHEEL BUTTON'] ZH=['幸运转盘', '幸运转盘按钮', '点击'] | ZH:'{点击}{幸运转盘按钮}打开{幸运转盘}。'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinOpenModal_PC",
+   "detail": "EN=['CLICK', 'WHEEL BUTTON'] ZH=['幸运转盘', '幸运转盘按钮', '点击'] | ZH:'{点击}{幸运转盘按钮}打开{幸运转盘}。'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinOpenModal_Xbox",
+   "detail": "EN=['SELECT', 'WHEEL BUTTON'] ZH=['幸运转盘', '幸运转盘按钮', '选择'] | ZH:'{选择}{幸运转盘按钮}打开{幸运转盘}。'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin",
+   "detail": "EN=['TAP'] ZH=['点击'] | ZH:'{点击}按下按钮，转！那！个！盘！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin_PC",
+   "detail": "EN=['CLICK'] ZH=['点击'] | ZH:'{点击}按下按钮，转！那！个！盘！'"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin_Xbox",
+   "detail": "EN=['SELECT'] ZH=['选择'] | ZH:'{选择}按下按钮，转！那！个！盘！'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingAssignDweller",
+   "detail": "EN=['ASSIGN'] ZH=['分配', '辐射极琉矿武器工坊'] | ZH:'{分配}任意一名居民到{辐射极琉矿武器工坊}。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingConclusion",
+   "detail": "EN=['TAP'] ZH=['点击', '辐射极琉矿武器', '辐射极琉矿武器工坊'] | ZH:'{点击}列表中的一把{辐射极琉矿武器}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingConclusion_PC",
+   "detail": "EN=['CLICK'] ZH=['点击', '辐射极琉矿武器', '辐射极琉矿武器工坊'] | ZH:'{点击}列表中的一把{辐射极琉矿武器}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox",
+   "detail": "EN=['LEFT STICK', 'PRESS', 'SELECT'] ZH=['左摇杆', '按下', '辐射极琉矿武器', '辐射极琉矿武器工坊', '选择'] | ZH:'用{左摇杆}{选择}一把{辐射极琉矿武器}，然后{按下}\\ue000来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingCraftingMessage",
+   "detail": "EN=['OPEN', 'TAP'] ZH=['制造按钮', '制造菜单', '打开', '点击'] | ZH:'{点击}{制造按钮}来{打开}{制造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_PC",
+   "detail": "EN=['CLICK', 'OPEN'] ZH=['制造按钮', '制造菜单', '打开', '点击'] | ZH:'{点击}{制造按钮}来{打开}{制造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_Xbox",
+   "detail": "EN=['OPEN'] ZH=['制造菜单', '打开'] | ZH:'按\\ue00e来{打开}{制造菜单}。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom",
+   "detail": "EN=['DOUBLE TAP'] ZH=['双击', '辐射极琉矿武器工坊'] | ZH:'开始打造吧！{双击}{辐射极琉矿武器工坊}近距离查看。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_PC",
+   "detail": "EN=['DOUBLE CLICK'] ZH=['双击', '辐射极琉矿武器工坊'] | ZH:'开始打造吧！{双击}{辐射极琉矿武器工坊}近距离查看。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox",
+   "detail": "EN=['HOLD'] ZH=['辐射极琉矿武器工坊', '长按'] | ZH:'开始打造吧！在{辐射极琉矿武器工坊}上{长按}\\ue005近距离查看。'"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingIntroduction",
+   "detail": "EN=['SCORCHED', 'ULTRACITE', 'WEAPONS'] ZH=['武器', '辐射极琉矿', '辐尸人'] | ZH:'是时候反击那些{辐尸人}了！既然我们已经有了{辐射极琉矿}，就用它来打造几件强力的新{武器}吧。'"
+  }
+ ],
+ "12_首尾空白": [
+  {
+   "key": "Message_TutorialPopup_25_Body",
+   "detail": "'\\n\\n- 加速废土探索时间 \\n\\n- 极速打造物品\\n\\n- 每天跳过不止一个目标\\n\\n- 跳过特定任务\\n\\n- 极速完成美发店个性化\\n\\n\\n'"
+  }
+ ],
+ "13_中英无空格": [
+  {
+   "key": "Achievement_Xbox_Completed_01",
+   "detail": "在任务中做出了25个对话选择"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_02",
+   "detail": "消灭10个任务首领"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_03",
+   "detail": "完成10个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_04",
+   "detail": "完成30个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_05",
+   "detail": "完成60个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_06",
+   "detail": "完成100个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_10",
+   "detail": "在任务中消灭了500名敌人"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_11",
+   "detail": "在任务中收集了100个消辐宁和100个治疗针"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_12",
+   "detail": "拆解了500个物品"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_13",
+   "detail": "打造了10把武器"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_14",
+   "detail": "打造了10件装备"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_16",
+   "detail": "在美发室里改变了10个居民的外形"
+  },
+  {
+   "key": "Achievement_Xbox_Description_01",
+   "detail": "在任务中做出25个对话选择"
+  },
+  {
+   "key": "Achievement_Xbox_Description_02",
+   "detail": "消灭10个任务首领"
+  },
+  {
+   "key": "Achievement_Xbox_Description_03",
+   "detail": "完成10个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Description_04",
+   "detail": "完成30个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Description_05",
+   "detail": "完成60个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Description_06",
+   "detail": "完成100个任务"
+  },
+  {
+   "key": "Achievement_Xbox_Description_10",
+   "detail": "在任务中消灭500名敌人"
+  },
+  {
+   "key": "Achievement_Xbox_Description_11",
+   "detail": "在任务中收集100个消辐宁和100个治疗针"
+  },
+  {
+   "key": "Achievement_Xbox_Description_12",
+   "detail": "拆解500个物品"
+  },
+  {
+   "key": "Achievement_Xbox_Description_13",
+   "detail": "打造10把武器"
+  },
+  {
+   "key": "Achievement_Xbox_Description_14",
+   "detail": "打造10件装备"
+  },
+  {
+   "key": "Achievement_Xbox_Description_16",
+   "detail": "在美发室里改变10个居民的外形"
+  },
+  {
+   "key": "Age_Verification_Under13_Popup",
+   "detail": "由于此账户属于未满13岁的用户，您无权访问游戏。如果您认为此判定有误，请检查您设备的账户设置或向父母/监护人寻求帮助。"
+  },
+  {
+   "key": "AlienDrone_GiveAway_Popup_Main",
+   "detail": "这个外星朋友将与您一起庆祝《辐射》25周年！但它到底是从哪儿来的？"
+  },
+  {
+   "key": "Controls_Xbox_Footer_FilterSpecial",
+   "detail": "筛选/改变SPECIAL排序"
+  },
+  {
+   "key": "Controls_Xbox_Footer_Special",
+   "detail": "改变SPECIAL排序"
+  },
+  {
+   "key": "Help_Page02_MainText",
+   "detail": "每个居民都有SPECIAL属性。\n\nS（力量）\nP（观察力）\nE（耐力）\nC（魅力）\nI（智力）\nA（敏捷）\nL（运气） \n\n避难所的每间房都和居民SPECIAL属性中的一个有关。"
+  },
+  {
+   "key": "Help_Page10_MainText_3DTouch",
+   "detail": "储藏室会增加您的武器，装备，杂物和宠物的存储空间。\n\n- 升级储藏室，增加存储容量。\n\n- 通过哔哔小子菜单访问库存，卖掉不想要的物品。您还可以通过3D Touch重按储藏室来打开"
+  },
+  {
+   "key": "Help_Page11_MainText",
+   "detail": "将居民放进训练房间里将会提升他们的SPECIAL属性。\n\n每一个属性都有对应的训练房间。\n\n力量：举重房\n观察力：军械库\n耐力：健身房\n魅力：会客室\n智力：教室\n敏捷：体操房\n运气"
+  },
+  {
+   "key": "Help_Page16_MainText",
+   "detail": "避难所科技的午餐盒能加快您的进程。\n\n居民- 需要更快获得更多居民？每个午餐盒都有机会抽到一个居民。\n\n武器- 所有能在废土生存中用到的好东西。从BB枪到小型核武器“胖子”都有。\n"
+  },
+  {
+   "key": "Help_Page18_MainText_PS4",
+   "detail": "1. 废土-按打开废土日志。\n2. 居民菜单-可方便地排序和选择您的居民。\n3. 幸福-避难所整体幸福度。按查看它为您的避难所提供的加成。\n4. 资源栏-当前资源的数量。不要让"
+  },
+  {
+   "key": "Help_Page1_MainText_PC",
+   "detail": "电脑版设定能够通过点击哔哔小子中的齿轮图标进入。\n\n默认设置中，辐射避难所有如下几个热键：\n\nEsc - 设置/取消\nF1 - 商店\nF2 - 库存\nF3 - 生存指南\nF4 - "
+  },
+  {
+   "key": "Help_Page20_MainText",
+   "detail": "当您将居民拖拽到一个房间时，SPECIAL属性的字母会出现在头上，后面有一个数字。\n\n头上的字母对应着相应房间的属性。\n\n如果数字前有加号或者减号，意味着拖拽居民后，房间里原有的一"
+  },
+  {
+   "key": "Help_Page20_MainText_3DTouch",
+   "detail": "您可以通过拖拽来将居民分配在房间里。或者通过3D Touch先重按居民后重按房间来实现。\n\n当将居民分配到一个房间时，SPECIAL属性的字母会出现在头上，后面跟着一个数字。\n\n头"
+  },
+  {
+   "key": "Help_Page20_MainText_Xbox",
+   "detail": "要分配居民到房间，请先选中居民，按住将其抓起，然后再选择一个房间。\n\n当选中一个房间时，SPECIAL属性的字母和数字会出现在居民头上。\n\n头上的字母对应着相应房间的属性。\n\n如"
+  },
+  {
+   "key": "Help_Page21_BottomText",
+   "detail": "提示：装备能给居民SPECIAL属性带来加成。属性显示上的蓝条表示装备带来多少加成。"
+  },
+  {
+   "key": "Help_Page21_MainText",
+   "detail": "当点击居民时，就会显示其个人信息。\n\n这个界面上您可以给居民配备武器、装备和宠物，或者用治疗针和消辐宁治疗他们。\n\n点击居民的SPECIAL属性可以显示更多关于个人属性等级的细节。"
+  },
+  {
+   "key": "Help_Page21_MainText_PC",
+   "detail": "当点击居民时，就会显示其个人信息。\n\n这个界面上您可以给居民配备武器、装备和宠物，或者用治疗针和消辐宁治疗他们。\n\n点击居民的SPECIAL属性可以显示更多关于个人属性等级的细节。"
+  },
+  {
+   "key": "Help_Page21_MainText_PS4",
+   "detail": "选中居民后，会显示他们的信息。\n从这个界面，您可以为您的居民装备武器、装备和宠物，或用治疗针和消辐宁为他们治疗。\n按R3可查看他们各自SPECIAL等级的详细信息。"
+  },
+  {
+   "key": "Help_Page21_MainText_Switch",
+   "detail": "选中居民后，会显示他们的信息。\n从这个界面，您可以为您的居民装备武器、装备和宠物，或用治疗针和消辐宁为他们治疗。\n按下右摇杆可查看他们各项SPECIAL等级的详细信息。"
+  },
+  {
+   "key": "Help_Page21_MainText_Xbox",
+   "detail": "选中居民后，会显示他们的信息。\n\n在这个页面上，您可以给居民配备武器、装备和宠物，或用治疗针和消辐宁为他们治疗。\n\n按下右摇杆可以查看他们各项SPECIAL能力的详细信息。"
+  },
+  {
+   "key": "Junk_Desc_PreWarMoney",
+   "detail": "像2077年那样大把撒钱吧！"
+  },
+  {
+   "key": "LunchBox_Card1_Title",
+   "detail": "卡牌1几率："
+  },
+  {
+   "key": "LunchBox_Card2_Title",
+   "detail": "卡牌2几率："
+  },
+  {
+   "key": "LunchBox_Card3_Title",
+   "detail": "卡牌3几率："
+  },
+  {
+   "key": "LunchBox_Card4_Title",
+   "detail": "卡牌4几率："
+  },
+  {
+   "key": "LunchBox_Card5_Title",
+   "detail": "卡牌5几率："
+  },
+  {
+   "key": "LunchBox_ContentLine2",
+   "detail": "随机抽取5张卡"
+  },
+  {
+   "key": "LunchBox_ContentRedeemTitle2",
+   "detail": "5个午餐盒"
+  },
+  {
+   "key": "LunchBox_ContentRedeemTitle3",
+   "detail": "15个午餐盒"
+  },
+  {
+   "key": "LunchBox_ContentRedeemTitle4",
+   "detail": "40个午餐盒"
+  },
+  {
+   "key": "Message_OneHundredMillionPopup_Body",
+   "detail": "经过大家的共同努力，我们达成一个重要的里程碑：\n\n超过1亿的监督者已经建立了属于他们自己的避难所！\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！\n别忘了明天再来领取另一份特别"
+  },
+  {
+   "key": "Message_OneHundredMillionPopup_Body2",
+   "detail": "经过大家的共同努力，我们达成一个重要的里程碑：\n\n超过1亿的监督者已经建立了属于他们自己的避难所！\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！"
+  },
+  {
+   "key": "Message_PCOfflineMode",
+   "detail": "辐射避难所将在离线模式下运行，商店不可用。若想进入商店，请通过Bethesda.net启动器来重启游戏。"
+  },
+  {
+   "key": "Message_PCOfflineMode_Steam",
+   "detail": "Steam目前处于离线状态。商店不可用，无法购买任何商品。"
+  },
+  {
+   "key": "Message_PCServiceUnavailable",
+   "detail": "Bethesda.Net的服务暂时不可用，请稍后再试。"
+  },
+  {
+   "key": "Message_PS4SignIn",
+   "detail": "你必须登录PlayStation™Network以使用此功能。"
+  },
+  {
+   "key": "Message_PurchasePCConnectionError",
+   "detail": "商店在离线模式下无法使用。请通过Bethesda.net启动器来重启游戏，然后进入商店。"
+  },
+  {
+   "key": "Message_Tutorial_08",
+   "detail": "您可以看到{居民的SPECIAL属性}统计。这个信息告诉您{居民}在哪儿能被最有效地利用。"
+  },
+  {
+   "key": "Message_Tutorial_ScorchedEarlyAttack",
+   "detail": "如果剩余时间不足{12小时}，您可以提前开始{辐尸人突袭}。但请确保自己已做好准备！"
+  },
+  {
+   "key": "Message_Vault_Full",
+   "detail": "您已拥有200位居民，已达到避难所科技允许的最大人口数。"
+  },
+  {
+   "key": "Message_XBoxAccountMismatchError",
+   "detail": "请用{0}Xbox LIVE账号登录进入Windows Store。"
+  },
+  {
+   "key": "Message_XboxPleaseConnect",
+   "detail": "必须要联网才能玩，请连接至Xbox LIVE。"
+  },
+  {
+   "key": "MrHandyDialog_Generic_23",
+   "detail": "他们说世界上有10种人。懂二进制的和不懂二进制的。"
+  },
+  {
+   "key": "MrHandy_ContentLine2",
+   "detail": "[内容线2]"
+  },
+  {
+   "key": "MrHandy_ContentRedeemTitle2",
+   "detail": "5个巧手先生"
+  },
+  {
+   "key": "MrHandy_ContentTitle2",
+   "detail": "5个巧手先生"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_Case",
+   "detail": "包含了32瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_Cooler",
+   "detail": "包含了70瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_Crate",
+   "detail": "包含了400瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_Fridge",
+   "detail": "包含了150瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_SixPack",
+   "detail": "包含了6瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "NukaQuantum_Shop_Description_Truck",
+   "detail": "包含了1000瓶量子核子可乐，可以加速避难所和废土上的事件进程。"
+  },
+  {
+   "key": "Objective_BaldDwellersInVault",
+   "detail": "在避难所里有1位光头的居民"
+  },
+  {
+   "key": "Objective_BarberShop",
+   "detail": "个性化1位居民"
+  },
+  {
+   "key": "Objective_BuildRoom",
+   "detail": "建造1间房间"
+  },
+  {
+   "key": "Objective_BuildUltraciteMine",
+   "detail": "建造1座辐射极琉矿矿场"
+  },
+  {
+   "key": "Objective_CollectCaps",
+   "detail": "在避难所里收集200个瓶盖"
+  },
+  {
+   "key": "Objective_CollectJunk",
+   "detail": "收集1件杂物"
+  },
+  {
+   "key": "Objective_CollectOutfit",
+   "detail": "收集1件装备"
+  },
+  {
+   "key": "Objective_CollectOutfitsOnQuests",
+   "detail": "在任务中收集1件装备"
+  },
+  {
+   "key": "Objective_CollectQuestsWithPet",
+   "detail": "携带宠物完成1个任务"
+  },
+  {
+   "key": "Objective_CollectUltracite",
+   "detail": "收集1块辐射极琉矿"
+  },
+  {
+   "key": "Objective_CollectUltraciteWithinTime",
+   "detail": "在1分钟内收集{0}块辐射极琉矿"
+  },
+  {
+   "key": "Objective_CollectWeaponsOnQuests",
+   "detail": "在任务中收集1件武器"
+  },
+  {
+   "key": "Objective_CompleteQuestsWithoutStimpacks",
+   "detail": "在不使用治疗针的情况下完成1个任务"
+  },
+  {
+   "key": "Objective_CraftCommonUltraciteWeapon",
+   "detail": "打造1件普通辐射极琉矿武器"
+  },
+  {
+   "key": "Objective_CraftLegendaryOutfits",
+   "detail": "打造1件传奇装备"
+  },
+  {
+   "key": "Objective_CraftLegendaryUltraciteWeapon",
+   "detail": "打造1件传奇辐射极琉矿武器"
+  },
+  {
+   "key": "Objective_CraftLegendaryWeapons",
+   "detail": "打造1件传奇武器"
+  },
+  {
+   "key": "Objective_CraftOutfits",
+   "detail": "打造1件装备"
+  },
+  {
+   "key": "Objective_CraftRareOutfits",
+   "detail": "打造1件稀有装备"
+  },
+  {
+   "key": "Objective_CraftRareUltraciteWeapon",
+   "detail": "打造1件稀有辐射极琉矿武器"
+  },
+  {
+   "key": "Objective_CraftRareWeapons",
+   "detail": "打造1件稀有武器"
+  },
+  {
+   "key": "Objective_CraftStimpack",
+   "detail": "打造1个治疗针"
+  },
+  {
+   "key": "Objective_CraftWeapons",
+   "detail": "打造1件武器"
+  },
+  {
+   "key": "Objective_DailyRewards",
+   "detail": "收集1次每日奖励"
+  },
+  {
+   "key": "Objective_DwellerHappy",
+   "detail": "将1个居民的幸福度提升到100%"
+  },
+  {
+   "key": "Objective_DwellerHappy_Plural",
+   "detail": "将{0}个居民的幸福度提升到100%"
+  },
+  {
+   "key": "Objective_EquipRandomWeapon",
+   "detail": "给1个居民配备了一件{1}"
+  },
+  {
+   "key": "Objective_EquipUltraciteWeapon",
+   "detail": "为1名居民装备辐射极琉矿武器"
+  },
+  {
+   "key": "Objective_ExtinguishFire",
+   "detail": "成功扑灭1次避难所火灾"
+  },
+  {
+   "key": "Objective_KillCreature",
+   "detail": "在废土上消灭1个生物"
+  },
+  {
+   "key": "Objective_KillEnemiesOnQuests",
+   "detail": "在任务中消灭1名敌人"
+  },
+  {
+   "key": "Objective_KillEnemyAtVaultDoor",
+   "detail": "在避难所门厅消灭1个{1}"
+  },
+  {
+   "key": "Objective_KillEnemyWithUltraciteWeapons",
+   "detail": "使用辐射极琉矿武器消灭1名敌人"
+  },
+  {
+   "key": "Objective_KillRadroaches",
+   "detail": "消灭1只辐射蟑螂"
+  },
+  {
+   "key": "Objective_KillRadscorpions",
+   "detail": "消灭1只辐射蝎"
+  },
+  {
+   "key": "Objective_KillScorched",
+   "detail": "消灭1名辐尸人"
+  },
+  {
+   "key": "Objective_LevelUp",
+   "detail": "让1名居民升级"
+  },
+  {
+   "key": "Objective_LevelUpDwellers",
+   "detail": "让1名居民升级"
+  },
+  {
+   "key": "Objective_OpenLunchbox",
+   "detail": "打开1个午餐盒"
+  },
+  {
+   "key": "Objective_Pregnant",
+   "detail": "有1名女居民怀孕"
+  },
+  {
+   "key": "Objective_RaiseSpecialLevel",
+   "detail": "提高一位居民的任意SPECIAL属性"
+  },
+  {
+   "key": "Objective_RaiseSpecialLevel_Plural",
+   "detail": "提高{0}位居民的任意SPECIAL属性。"
+  },
+  {
+   "key": "Objective_RaiseSpecificSpecialLevel",
+   "detail": "提高1位居民的{1}。"
+  },
+  {
+   "key": "Objective_RandomEnemyKilledUnarmed",
+   "detail": "不用武器消灭1个{1}"
+  },
+  {
+   "key": "Objective_Rush",
+   "detail": "执行1次成功的极速模式"
+  },
+  {
+   "key": "Objective_SellItem",
+   "detail": "卖掉1件武器或装备"
+  },
+  {
+   "key": "Objective_SellJunk",
+   "detail": "卖掉1件杂物"
+  },
+  {
+   "key": "Objective_SpinToWin",
+   "detail": "从幸运转盘领取1个奖励"
+  },
+  {
+   "key": "Objective_Stimpack",
+   "detail": "收集1个治疗针"
+  },
+  {
+   "key": "Objective_StopIncident",
+   "detail": "终止1次事件"
+  },
+  {
+   "key": "Objective_StopInvasionInExVault",
+   "detail": "阻止实验避难所中的1次入侵"
+  },
+  {
+   "key": "Objective_UseRadaway",
+   "detail": "使用1次消辐宁"
+  },
+  {
+   "key": "Objective_UseStimpack",
+   "detail": "使用1次治疗针"
+  },
+  {
+   "key": "Objective_VaultHappiness",
+   "detail": "保持避难所{1}开心了1小时。"
+  },
+  {
+   "key": "Objective_Weapons",
+   "detail": "给1位居民配备武器"
+  },
+  {
+   "key": "Outfit_Description_BowlingShirt",
+   "detail": "你现在只需要《69号火箭》和大背头了。"
+  },
+  {
+   "key": "Outfit_Description_JobinsonsJersey",
+   "detail": "这位棒球界的传奇也许已经死了，但他的传说将永远流传！穿上它，你就是……42号！"
+  },
+  {
+   "key": "Outfit_Description_LucysVaultSuit",
+   "detail": "露西的专属33号避难所制服，配有增强生存能力的背包！"
+  },
+  {
+   "key": "Outfit_Description_SpecialThemeHalloween2",
+   "detail": "骷髅——2077年最受欢迎的万圣节服装，也是2078年美国人的日常。"
+  },
+  {
+   "key": "Outfit_Name_NCRPowerArmor",
+   "detail": "NCR动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor",
+   "detail": "t-45a动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51a",
+   "detail": "t-51a动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51d",
+   "detail": "t-51d动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_51f",
+   "detail": "t-51f动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_MkIV",
+   "detail": "x-01 MK IV动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_MkVI",
+   "detail": "x-01 Mk VI动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T45d",
+   "detail": "t-45d动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T45f",
+   "detail": "t-45f动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60a",
+   "detail": "t-60a动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60d",
+   "detail": "t-60d动力装甲"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60f",
+   "detail": "t-60f动力装甲"
+  },
+  {
+   "key": "Outfit_Name_Vault33Suit",
+   "detail": "33号避难所制服"
+  },
+  {
+   "key": "Outfit_Name_costume_01",
+   "detail": "休闲服01"
+  },
+  {
+   "key": "Outfit_Name_costume_02",
+   "detail": "休闲服02"
+  },
+  {
+   "key": "Outfit_Name_costume_03",
+   "detail": "休闲服03"
+  },
+  {
+   "key": "Outfit_Name_costume_04",
+   "detail": "休闲服04"
+  },
+  {
+   "key": "Outfit_Name_costume_05",
+   "detail": "休闲服05"
+  },
+  {
+   "key": "Outfit_Name_costume_06",
+   "detail": "休闲服06"
+  },
+  {
+   "key": "Outfit_Name_costume_07",
+   "detail": "休闲服07"
+  },
+  {
+   "key": "Outfit_Name_costume_08",
+   "detail": "休闲服08"
+  },
+  {
+   "key": "Outfit_Name_costume_09",
+   "detail": "休闲服09"
+  },
+  {
+   "key": "Outfit_Name_costume_10",
+   "detail": "休闲服10"
+  },
+  {
+   "key": "PetCarrier_ContentLine1",
+   "detail": "1个普通级，稀有级或传奇级的宠物。"
+  },
+  {
+   "key": "PetCarrier_ContentRedeemTitle2",
+   "detail": "5个宠物笼子"
+  },
+  {
+   "key": "PetCarrier_ContentRedeemTitle3",
+   "detail": "15个宠物笼子"
+  },
+  {
+   "key": "PetCarrier_ContentRedeemTitle4",
+   "detail": "40个宠物笼子"
+  },
+  {
+   "key": "Pet_Description_militarymacaw_l2",
+   "detail": "知道200个词，却只会说“隧道蛇统治一切！”"
+  },
+  {
+   "key": "Piper_campaign_Text",
+   "detail": "一位新来自辐射4的特殊拜访者想要加入您的避难所"
+  },
+  {
+   "key": "PreTutorial_VaultName",
+   "detail": "现在需要决定您的避难所ID号。请仔细选择，因为一旦选择，就无法改变。"
+  },
+  {
+   "key": "PrivacyPolicy_InfoCollected",
+   "detail": "[212F21]哪些信息可能被收集[365136]\n• 注册和个人资料信息（例如，联系方式和登录信息）\n• 来自Steam、Twitch和Facebook等第三方账户的信息（如好友"
+  },
+  {
+   "key": "PrivacyPolicy_Title",
+   "detail": "[365136]生效日期：2025年9月15日"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_Conversation_1_NPCEnd_1",
+   "detail": "我们正在前往120号避难所……他们是最新一期新波士顿号角报的明星……"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_Conversation_1_NPCEnd_2",
+   "detail": "不认识，我只是在餐厅工作的员工。也许120号避难所的监督者知道？"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_QuestLongDescription",
+   "detail": "404号避难所的监督者似乎有办法和新波士顿号角报的发行者取得联系。她是我们成为明星的希望！"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_QuestObjective_1",
+   "detail": "和404号避难所的监督者交谈。"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_QuestShortDescription",
+   "detail": "和404号避难所的监督者讨论关于新号角报的事。"
+  },
+  {
+   "key": "QuestLoc_APaleImitation_QuestObjective_2",
+   "detail": "和R41D号避难所的掠夺者首领对峙。"
+  },
+  {
+   "key": "QuestLoc_AThirstforAdventure_QuestLongDescription",
+   "detail": "宝拉·普朗布金不在730号避难所，但一个掠夺者告诉你她出发去核子可乐工厂了。快去找她吧！"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_3",
+   "detail": "也许是“华丽55”吧……不管怎么样，你已经死了。"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_QuestLongDescription",
+   "detail": "好吧，也许77太夸张了，但他们那么多人，而你就一个。你有那么大本事吗？"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_QuestObjective_1",
+   "detail": "消灭“疯子77”的首领。"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_QuestShortDescription",
+   "detail": "除掉“疯子77”。"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest04_Conversation_3_PC1_2",
+   "detail": "我们是76号避难所的。呃，这是我的哔哔小子。"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest06_Conversation_3_PC3_3",
+   "detail": "那叫UFO……算了。"
+  },
+  {
+   "key": "QuestLoc_AlienBot_Quest04_Conversation_3_NPCEnd_3",
+   "detail": "扫描中……确认罗伯科公司人员身份。欢迎来到X71A，祝您今日愉快。"
+  },
+  {
+   "key": "QuestLoc_AlienBot_QuestObjective_06",
+   "detail": "进入并探索UFO实验室。"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_Team_3",
+   "detail": "切，在332号避难所有那么多单身汉，成吨呢。"
+  },
+  {
+   "key": "QuestLoc_Astronomical_QuestObjective",
+   "detail": "阻止NCR的首领。"
+  },
+  {
+   "key": "QuestLoc_Astronomical_QuestShortDescription",
+   "detail": "阻止NCR的首领使用武器。"
+  },
+  {
+   "key": "QuestLoc_BacktotheOutfield_QuestLongDescription",
+   "detail": "我们发现了一个叫教练的人留下的消息，他说自己有罗基·杰宾森的棒球衫！也许他藏在了428号避难所的废墟里……"
+  },
+  {
+   "key": "QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_4",
+   "detail": "来232号避难所找我吧。”"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_Conversation_1_NPCStart_1",
+   "detail": "850号避难所得救了！"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_QuestLongDescription",
+   "detail": "850号避难所的监督者给我们发来了求救信号！关键问题在于：这位监督者貌似是一只狗……"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_QuestObjective_1",
+   "detail": "寻找850号避难所监督者。"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_QuestShortDescription",
+   "detail": "前往850号避难所，找到监督者。"
+  },
+  {
+   "key": "QuestLoc_Blackout_QuestLongDescription",
+   "detail": "新年第一天……昨夜避难所举行了隆重的派对活动。但是监督者的儿子杰克失踪了。我们必须找到他！现在只知道12点之前他还和我们在一起，但之后发生了什么完全是一片模糊，我们都穿着防辐射服，"
+  },
+  {
+   "key": "QuestLoc_BottlecapBlues_Conversation_1_NPCEnd_1",
+   "detail": "是的，他们把瓶瓶和盖盖带到177号避难所。请小心。"
+  },
+  {
+   "key": "QuestLoc_Broadsides_Conversation_1_NPCEnd_1",
+   "detail": "我们从819号避难所那里得到了一本过期报刊。在那之前我们只有一本旧的《一只尸鬼，两只尸鬼》影印本可以读。"
+  },
+  {
+   "key": "QuestLoc_Broadsides_Conversation_1_NPCEnd_2",
+   "detail": "你说的对！我们这就出发去追捕那些掠夺者—我注定会成为封面明星！819号避难所可得小心啦！"
+  },
+  {
+   "key": "QuestLoc_CanineRecovery_Conversation_1_NPCEnd_1",
+   "detail": "那个家伙一定是和其他人一起逃走了。说不定是199号避难所。干掉你们之后我们就立刻去那里。"
+  },
+  {
+   "key": "QuestLoc_CleanUpOnAisleFive_QuestName",
+   "detail": "清空5号通道"
+  },
+  {
+   "key": "QuestLoc_CleanUpOnAisleFive_RaiderLine_2",
+   "detail": "是时候大干一场了。清空5号通道！"
+  },
+  {
+   "key": "QuestLoc_ClearingAPath_Conversation_1_NPCEnd_1",
+   "detail": "去清理掉840号避难所那些讨厌的尸鬼怎么样？祝你们好运，战士们！"
+  },
+  {
+   "key": "QuestLoc_ConferenceontheMound_QuestLongDescription",
+   "detail": "在通用原子工厂里一无所获。但还好有一个被遗弃的616号避难所可以去看看。"
+  },
+  {
+   "key": "QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_2",
+   "detail": "我们来自于144号避难所。我们是672号避难所的贸易伙伴。"
+  },
+  {
+   "key": "QuestLoc_CrimeSceneInvestigation_QuestLongDescription",
+   "detail": "好哇！我们现在正和“战争”处在休战状态，直到其他“骑士”被处理好为止！为此，“战争”声称，“死亡”的仆人们正攻击672号避难所。所以我们要调查并寻找他们可能留下的线索……"
+  },
+  {
+   "key": "QuestLoc_CrimeSceneInvestigation_QuestShortDescription",
+   "detail": "在672号避难所中寻找“死亡”的线索。"
+  },
+  {
+   "key": "QuestLoc_DaysGoneBye_Conversation_1_NPCStart_2",
+   "detail": "任何靠近31号避难所的人，都会被他们追杀。"
+  },
+  {
+   "key": "QuestLoc_DaysGoneBye_QuestLongDescription",
+   "detail": "赫伯韦斯特告诉我所有那些去了31号避难所的人最后都失踪了。我正要去避难所科技的总部调查一下这个避难所的过去。"
+  },
+  {
+   "key": "QuestLoc_DaysGoneBye_QuestObjective_1",
+   "detail": "查找关于31号避难所历史的信息。"
+  },
+  {
+   "key": "QuestLoc_DaysGoneBye_QuestShortDescription",
+   "detail": "搜索避难所科技的办公室来查找31号避难所的信息。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_Conversation_3_NPCStart_1",
+   "detail": "死亡的阴影，如第8条第c款所定义的，就在你身上！"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_Conversation_3_Team_1",
+   "detail": "“死亡”教徒是来自144号避难所的居民吗？这我还真没料到。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+   "detail": "我们遇到了来自144号避难所、熟悉“死亡”的居民……她会把她知道的一切告诉我们！"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestObjective_1",
+   "detail": "跟144号避难所的监督者交谈。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestShortDescription",
+   "detail": "从144号避难所的监督者处了解“死亡”的真相！"
+  },
+  {
+   "key": "QuestLoc_DeathandDenial_Conversation_5_NPCEnd_2",
+   "detail": "64次，如果我没记错的话。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_NPCEnd_1",
+   "detail": "那是“点22”（.22口径）。且听我说。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_NPCEnd_2",
+   "detail": "……或5里非常小的值。好吧，你可以过去了。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_NPCStart_4",
+   "detail": "2 + 2等于5吗？"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_Team_1",
+   "detail": "不，2 + 2是22，像口径。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_1_Team_2",
+   "detail": "只有2里非常大的值。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_NPCStart_2",
+   "detail": "你能告诉我们1和0.999是一样的吗？"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_NPCStart_3",
+   "detail": "这是一个无限重复小数点0.9。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_Team_1",
+   "detail": "不，1大于0.999……"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_Team_2",
+   "detail": "是的，1等于0.999……"
+  },
+  {
+   "key": "QuestLoc_DuoofDestructionGlowingRadscorpions_QuestLongDescription",
+   "detail": "两只发光辐射蝎正在512号避难所里兴风作浪！赶紧碾压这些害虫们！"
+  },
+  {
+   "key": "QuestLoc_DuoofDestructionGlowingRadscorpions_QuestShortDescription",
+   "detail": "消灭512号避难所里的两只发光辐射蝎！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_1_Room4_Question_Line4",
+   "detail": "呃……上面写着“已向所有其他英克雷服务器发送了ping信号。”那恐怕不太好。咱们撤吧！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_2_CombatInit1",
+   "detail": "战斗训练101！现在开课！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_2_CombatInit2",
+   "detail": "战斗训练102，多目标作战！请展示你的能力！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_2_CombatInit3",
+   "detail": "战斗训练103，强化型敌人！让我看看你的本事！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL1_LoveOfGold_2_Room3_Question_Line1",
+   "detail": "人类！欢迎来到经济学101。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_1_Room9_Question_Line3",
+   "detail": "晚上6点就熄灯。六点啊！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_2_QuestName",
+   "detail": "英克雷神秘剧场3000"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_QuestLongDesc",
+   "detail": "我们捕捉到一个奇怪的信号，邀请英克雷前往一处位于陵墓中的前NCR基地避难。值得去看看。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_QuestShortDesc",
+   "detail": "调查一处前NCR基地"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room0_Question_Line1",
+   "detail": "欢迎来到我们的小小庇护所。你们是NCR还是英克雷？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room0_Question_Line1_Choice0",
+   "detail": "NCR和英克雷住在一起？这怎么可能？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room3_Question_Line1_Answer0",
+   "detail": "那你就是那个要挨枪子儿的人，NCR走狗！只要站到他那边去，我这位朋友肯定少不了你的赏。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room3_Question_Line1_Choice1",
+   "detail": "NCR已经迷失方向。英克雷或许能公开崛起，提供一个真正的替代方案。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room3_Question_Line3",
+   "detail": "你说NCR也信奉这些价值观，可你们的街头满是罪犯。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room3_Question_Line1_Choice2",
+   "detail": "证明给我看。说出圆周率的前20位。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room5_Question_Line1",
+   "detail": "GOLDAS引领我们迈向黄金国度！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room5_Question_Line1_Choice0",
+   "detail": "GOLDAS到底是个什么鬼东西？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room6_Question_Line2",
+   "detail": "我是真心想离开。GOLDAS是个可怕至极的领袖。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_1_Room6_Question_Line1",
+   "detail": "<宠物VR间谍训练程序：动物双重背叛>"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_2_Room1_Question_Line1_Answer2",
+   "detail": "不对。那是杰克尔博士手下的C组。要是你们往那边去，能帮我捎个东西吗？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Answer1",
+   "detail": "我是GOLDAS，又不只是GOLDAS。所有黄金都属于我！它的踪迹会带你找到我吗？我很好奇。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Choice1",
+   "detail": "你是GOLDAS吗？我们正在找你。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room5_Question_Line1_Choice0",
+   "detail": "哇，一座货真价实的英克雷核弹控制中心。而且它被辐射了！GOLDAS竟把自己的军官都变成了尸鬼……"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestLongDesc",
+   "detail": "我们发现了一座英克雷要塞，里面可能存有GOLDAS的重要数据库。希望这不是一场白忙活的“捉鼹鼠行动”。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestObjective1",
+   "detail": "寻找关于GOLDAS的情报"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_QuestShortDesc",
+   "detail": "前往一座英克雷建筑，寻找GOLDAS。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room2_Question_Line1",
+   "detail": "表格……我这有张表格给你……入侵者身份登记表EP-832。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room4_Question_Line1_Answer1",
+   "detail": "似乎没必要。尽管如此，将坐标传输至AI维修设施。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room4_Question_Line1_Choice1",
+   "detail": "GOLDAS主机维修？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_CombatInit1",
+   "detail": "BODUS看到了不祥之兆！当心！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_CombatInit2",
+   "detail": "我是STOPUS！我在这里就是要阻止你们！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_QuestObjective1",
+   "detail": "找到GOLDAS的总部"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room0_Question_Line3",
+   "detail": "是时候揭开那个古怪英克雷AI的真相了。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1",
+   "detail": "嘿，我是MOCKUS（嘲讽者）。你们一定是“时尚难民”吧。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1_Answer1",
+   "detail": "我是AI，没有痛觉。但没错，我确实不喜欢那个爱黄金的算法。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1_Choice0",
+   "detail": "呃，真没礼貌。你能帮我们找GOLDAS吗？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room1_Question_Line1_Choice1",
+   "detail": "谁伤害了你？是GOLDAS吗？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line1_Answer1",
+   "detail": "你们想要GOLDAS？人人都想要它。根本没人在乎MOPUS（苦闷者）……"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line1_Choice1",
+   "detail": "会好起来的。只要告诉我们GOLDAS在哪。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line2",
+   "detail": "我的名字叫MOPUS，自我哀怜……是我的最高指令……"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room3_Question_Line1_Answer0",
+   "detail": "俺叫GOLDUNNIT！GOLDAS是俺老弟！俺这就把坐标发给你！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line1_Answer0",
+   "detail": "哦，GOLDAS。那家伙又刻薄又专横。你该去问其他AI要情报。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line1_Choice0",
+   "detail": "我们只是想打听关于GOLDAS的情报。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room4_Question_Line2",
+   "detail": "你们上次没发现这个区域……我的名字叫COPUS（顺从者）。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestLongDesc",
+   "detail": "我们终于定位到GOLDAS的主服务器了！让我们一劳永逸地关停那个怪咖AI吧。顺便拿走他们的黄金。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestObjective2",
+   "detail": "关闭GOLDAS"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_QuestShortDesc",
+   "detail": "永久关闭GOLDAS（并顺走一些黄金）。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room0_Question_Line2",
+   "detail": "我已经等不及要痛扁那个AI了。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room3_Question_Line3",
+   "detail": "也许GOLDAS把剩下的黄金挪作他用了。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room4_Question_Line1_Choice1",
+   "detail": "胜率为0的赌局，可不叫赌局。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1",
+   "detail": "哦，这是什么？GOLDAS的主服务器。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_QuestLineName",
+   "detail": "GOLDAS之心"
+  },
+  {
+   "key": "QuestLoc_FonsVivus_Conversation_1_NPCEnd_1",
+   "detail": "我们试图节约一些，但它是如此清爽！去315号避难所看看吧，他们也买了一些。"
+  },
+  {
+   "key": "QuestLoc_FonsVivus_Conversation_1_NPCStart_1",
+   "detail": "简直不可思议！我们只用10000瓶盖买了一瓶他的水，一切都解决了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2",
+   "detail": "谁是银河广播电台的DJ？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletI_Conversation_1_NPCStart_4",
+   "detail": "离111号避难所最近的定居点在哪里？"
+  },
+  {
+   "key": "QuestLoc_Ghooooooooooooooooooul_QuestLongDescription",
+   "detail": "从93号避难所传来了奇怪的无线电信号。听起来像是大爆炸之前的体育广播。"
+  },
+  {
+   "key": "QuestLoc_Ghooooooooooooooooooul_QuestObjective_1",
+   "detail": "探索93号避难所。"
+  },
+  {
+   "key": "QuestLoc_Ghooooooooooooooooooul_QuestShortDescription",
+   "detail": "探索93号避难所废墟。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCEnd_2",
+   "detail": "想得美！我们是军团！第44条育种方案成效斐然。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCEnd_3",
+   "detail": "144号避难所的监督者指导手册。它的指导是神圣不可侵犯的！"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCStart_4",
+   "detail": "我们需要按照手册第14条的规定复仇！"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_Team_4",
+   "detail": "是的，但是第174条，B条怎么样？"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_3",
+   "detail": "他们烧毁了记录，但我记得一切。144号避难所在西边10英里左右的地方。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_QuestLongDescription",
+   "detail": "那是个陷阱！无论“死亡”是谁，他都在沉睡……而144号避难所的居民认为杀死人能让“骑士”醒来！我们杀了他们的监督者，但我们仍然需要找到他们的避难所。如果我们足够幸运，避难所科技的档"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_QuestObjective_1",
+   "detail": "发现144号避难所的位置。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_QuestShortDescription",
+   "detail": "找到144号避难所的位置——那些“死亡”邪教徒的老巢。"
+  },
+  {
+   "key": "QuestLoc_GoWest_Conversation_1_Team_1",
+   "detail": "我在打听一切能打听到的、关于31号避难所的消息。"
+  },
+  {
+   "key": "QuestLoc_GoWest_QuestLongDescription",
+   "detail": "图书馆管理员告诉我有一个叫赫伯韦斯特的人可能知道关于31号避难所更多的消息。我去旧的糖果厂应该能找到他。"
+  },
+  {
+   "key": "QuestLoc_GoWest_QuestShortDescription",
+   "detail": "向赫伯韦斯特询问关于31号避难所的事情。"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_Question1_Answer1",
+   "detail": "没问题。再没有比NCR游侠更酷的造型了，对吧？"
+  },
+  {
+   "key": "QuestLoc_HaveGunWillTravel_QuestLongDescription",
+   "detail": "你发现了“麦克森硬汉小队”的全息磁带记录，这是钢铁兄弟会派去废土搜寻科技的小队。去追踪他们、查明他们的结局吧——就从450号避难所开始！"
+  },
+  {
+   "key": "QuestLoc_HaveGunWillTravel_QuestObjective_1",
+   "detail": "探索450号避难所。"
+  },
+  {
+   "key": "QuestLoc_Headshots_Conversation_1_NPCEnd_1",
+   "detail": "所有人都在废土上，想要成名。谁有时间管这些虫子？我们必须打败404号避难所！"
+  },
+  {
+   "key": "QuestLoc_HeresthePitch_QuestLongDescription",
+   "detail": "教练不在789号避难所，但这地方有种熟悉的酸腐味……顺着这股味道去桑德拉文具店吧。"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_Conversation_1_Team_1",
+   "detail": "你知道有关31号避难所的消息吗？"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_QuestLongDescription",
+   "detail": "随着万圣节临近，有关31号避难所的故事和它奇怪的过去再一次流传了起来。但是到底是避难所真的闹鬼，还是有其他的什么原因？31避难所之谜正等待你去解决！"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_QuestObjective_1",
+   "detail": "在图书馆废墟打探更多关于31号避难所的消息。"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_QuestShortDescription",
+   "detail": "在图书馆废墟打探更多关于31号避难所的消息。"
+  },
+  {
+   "key": "QuestLoc_HotTubSlimeMachine_QuestLongDescription",
+   "detail": "有传闻说某个避难所里有一个水池，可以蒸桑拿，甚至泡热水澡！去189号避难所寻找这个让人放松休息的绿洲吧。但小心尸鬼！"
+  },
+  {
+   "key": "QuestLoc_HotTubSlimeMachine_QuestShortDescription",
+   "detail": "寻找189号避难所的水池房间。"
+  },
+  {
+   "key": "QuestLoc_HumansLikeUs_Conversation_4_NPCEnd_1",
+   "detail": "哈哈，你说是网罟座泽塔星a，我说是网罟座泽塔星b……"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1_Answer2",
+   "detail": "不，笨蛋。机器人能自我管理。哎……等不及2077年的海滩假期了。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1_Answer3",
+   "detail": "战争？什么战争？这倒提醒了我，我2077年要去海滩度假……等不及了！"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1_Choice3",
+   "detail": "你疯了吧。罗伯科自2077年就没做过生意了。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room4_Question_Line1_Answer1",
+   "detail": "你们有15秒时间服从。你们有15秒时间服从。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room4_Question_Line3",
+   "detail": "你有15秒时间服从。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_3_Room8_Question_Line2",
+   "detail": "那个怪人说了什么？海滩假期？2077年？"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_2_Room4_Question_Line1_Choice0",
+   "detail": "X什么？我们见过吗？"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_2_Room4_Question_Line2",
+   "detail": "或许这次该自我介绍一下了。我是X2-Square。"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1_Answer0",
+   "detail": "是X2-Square才对。要不要再试试？"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1_Choice0",
+   "detail": "我们不是干掉过你吗？叫啥来着？“X2四眼”？"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line2",
+   "detail": "你们害怕自己的DNA在废土上发生突变吗？"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Choice2",
+   "detail": "合成人有人的DNA，所以那套根本行不通。"
+  },
+  {
+   "key": "QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line2",
+   "detail": "你上次给避难所里所有人做DNA测试是什么时候？"
+  },
+  {
+   "key": "QuestLoc_INS_QL4_Armistice_3_Room3_Question_Line1_Choice0",
+   "detail": "学院不是觉得我们DNA有问题吗？"
+  },
+  {
+   "key": "QuestLoc_InAnotherVault_QuestLongDescription",
+   "detail": "比格斯比不在199号避难所，但一个成员告诉我它可能会在他们的姐妹避难所，899号。我应该去那儿看看。"
+  },
+  {
+   "key": "QuestLoc_InAnotherVault_QuestShortDescription",
+   "detail": "在899号避难所寻找比格斯比。"
+  },
+  {
+   "key": "QuestLoc_InHotPursuit_QuestLongDescription",
+   "detail": "一位幸存者刚从掠夺者手中逃出来，他建议我们去177号避难所寻找瓶瓶和盖盖。如果抓紧时间的话，说不定能追上他们。"
+  },
+  {
+   "key": "QuestLoc_InHotPursuit_QuestObjective_1",
+   "detail": "搜寻177号避难所关于瓶瓶和盖盖的消息。"
+  },
+  {
+   "key": "QuestLoc_IntoVault333_QuestLongDescription",
+   "detail": "宝拉·普朗布金从狂尸鬼的手里逃了出来，去向了333号避难所。希望我们能在那儿追上她。"
+  },
+  {
+   "key": "QuestLoc_IntoVault333_QuestName",
+   "detail": "进入333号避难所！"
+  },
+  {
+   "key": "QuestLoc_IntoVault333_QuestObjective_1",
+   "detail": "探索333号避难所。"
+  },
+  {
+   "key": "QuestLoc_IntoVault333_QuestShortDescription",
+   "detail": "探索333号避难所然后找到宝拉·普朗布金。"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_3_NPCStart_2",
+   "detail": "“当我得知144号避难所找到了名叫“死亡”的冬眠鼹鼠之后，我想到了一个点子。"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_5_NPCStart_1",
+   "detail": "在第4部会有精彩的奖品等着你！"
+  },
+  {
+   "key": "QuestLoc_KidnappingatVault778_QuestLongDescription",
+   "detail": "某个掠夺者绑架了一些定居者，并将他们作为人质关在了778号避难所，也许他们知道普雷斯顿·加维去了哪里。"
+  },
+  {
+   "key": "QuestLoc_KidnappingatVault778_QuestName",
+   "detail": "778号避难所的绑架案"
+  },
+  {
+   "key": "QuestLoc_KidnappingatVault778_QuestShortDescription",
+   "detail": "拯救778号避难所被绑架的定居者。"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_QuestLongDescription",
+   "detail": "“战争”，“瘟疫”和“饥荒”的对决。“战争崇拜者”，“害虫”和“饥饿者”的对决。每个人都到达了226号避难所，准备战斗，但我们不能心存侥幸。让我们踏过这片屠杀现场，确保没有活着的末"
+  },
+  {
+   "key": "QuestLoc_LetsKnockitOuttathePark_QuestLongDescription",
+   "detail": "一位名叫亨丽埃塔的人留下了一些信息，让我们去232号避难所。但愿她能指引我们找到罗基·杰宾森的棒球衫！"
+  },
+  {
+   "key": "QuestLoc_MaskHysteria_QuestLongDescription",
+   "detail": "为了把31号避难所的掠夺者吓跑，一位乐于助人的旅行者建议我们去附近的工厂找到鬼服。"
+  },
+  {
+   "key": "QuestLoc_MatterstoSettle_Conversation_5_NPCStart_4",
+   "detail": "想知道更多故事，请关注第2部！"
+  },
+  {
+   "key": "QuestLoc_MissionofMercy_QuestLongDescription",
+   "detail": "我遇到了一个尸鬼，曾是“麦克森硬汉小队”的一员。他告诉我小队里其他的成员被困在了390号避难所。是时候开始营救任务了！"
+  },
+  {
+   "key": "QuestLoc_MissionofMercy_QuestShortDescription",
+   "detail": "前往390号避难所拯救“麦克森硬汉小队”。"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_2_Question3_Choice2",
+   "detail": "看来我是另外那25%。谢了，不了。"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Choice2",
+   "detail": "<按下标着BOOM（爆炸）的按钮>"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_1_Question3",
+   "detail": "谢谢你们救了我。我在某间房里有个储物柜。里面的东西归你们了。密码是1337。"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question3",
+   "detail": "嘿！喂！嘘！我能帮忙对付死爪。但我需要它们的DNA样本。你能弄到吗？"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question3_Choice1",
+   "detail": "NDA到底是个什么鬼？"
+  },
+  {
+   "key": "QuestLoc_NoTimeforPaws_QuestLongDescription",
+   "detail": "我救下了救援队。但比格斯比没有和他们在一起。有人说他们可能去了314号避难所。"
+  },
+  {
+   "key": "QuestLoc_NoTimeforPaws_QuestShortDescription",
+   "detail": "前往314号避难所寻找莎莉和比格斯比。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_1_NPCStart_1",
+   "detail": "请打开手册第52条，第A项。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_1_NPCStart_2",
+   "detail": "“汤品机必须把汤加热到正好200度，除了西班牙凉菜汤……”"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_3_NPCStart_2",
+   "detail": "是第37条第c项吗？"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_3_NPCStart_3",
+   "detail": "或第12条，第j项？"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_3_Team_2",
+   "detail": "第12条，但已经解决了。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_4_NPCEnd_2",
+   "detail": "透明协议。第51条第f项。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_QuestLongDescription",
+   "detail": "尽管144号避难所的居民费尽心力，我们还是发现了他们避难所的位置，他们只崇拜“死亡”，是因为避难所指导手册里“death”被错误地首字母大写了！我们现在必须渗透进入144号避难所，"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_QuestObjective_1",
+   "detail": "阻止144号避难所“死亡”的信徒们。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_QuestShortDescription",
+   "detail": "潜入144号避难所阻止居民唤醒“死亡”。"
+  },
+  {
+   "key": "QuestLoc_OurCupsRunnethOverWITHFAILURE_QuestLongDescription",
+   "detail": "这是真的吗？有人想出了一个方法来创造如此强大的水，它可以治愈任何疾病，提高作物产量，并修好门？315号避难所的人应该知道更多！"
+  },
+  {
+   "key": "QuestLoc_OurCupsRunnethOverWITHFAILURE_QuestShortDescription",
+   "detail": "访问315号避难所收集关于神奇水的信息。"
+  },
+  {
+   "key": "QuestLoc_Overrun_QuestLongDescription",
+   "detail": "监督者帕特尔的日志上显示宝拉·普朗布金去了909号避难所。但那里貌似被侵占了，希望她还好。"
+  },
+  {
+   "key": "QuestLoc_Overrun_QuestObjective_1",
+   "detail": "前往909号避难所寻找宝拉·普朗布金。"
+  },
+  {
+   "key": "QuestLoc_Overrun_QuestShortDescription",
+   "detail": "前往909号避难所寻找宝拉·普朗布金。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_NPCStart_3",
+   "detail": "我需要你找到“死亡”。他的教徒袭击了672号避难所。从那里开始吧。"
+  },
+  {
+   "key": "QuestLoc_PaulasinaPickle_Conversation_1_NPCEnd_1",
+   "detail": "我想她好像提到了拜访某个避难所？333号避难所？好多3啊……"
+  },
+  {
+   "key": "QuestLoc_PlayingCatchUp_QuestLongDescription",
+   "detail": "177号避难所的掠夺者首领吹嘘他们把瓶瓶和盖盖带去了海神能源办公室。但愿她讲的是真话。"
+  },
+  {
+   "key": "QuestLoc_PlayingPolitics_Conversation_1_NPCStart_3",
+   "detail": "位于525号避难所！他们真的有“伊甸园制造器”！"
+  },
+  {
+   "key": "QuestLoc_PlayingPolitics_QuestLongDescription",
+   "detail": "根据宝拉·普朗布金日志里所说的，525号避难所确实是个避难所大都会，但她也不知道在哪里。也许市长办公室里会有相关的信息。"
+  },
+  {
+   "key": "QuestLoc_PlayingPolitics_QuestObjective_1",
+   "detail": "前往市长办公室搜寻关于525号避难所具体位置的信息。"
+  },
+  {
+   "key": "QuestLoc_PlayingPolitics_QuestShortDescription",
+   "detail": "我们得去市长办公室找找关于525号避难所的信息。"
+  },
+  {
+   "key": "QuestLoc_PoweredUp_Conversation_1_NPCStart_4",
+   "detail": "她去了813号避难所。如果你们在找她，这个可能会有帮助！"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_2",
+   "detail": "他警告大家关于144号避难所的事……"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_4",
+   "detail": "故事在第3部分时，一切都将被揭示！"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_QuestLongDescription",
+   "detail": "死亡不在144号避难所。他在某处的一个山洞里，144号避难所居民仍在试图叫醒他。是时候回头和“战争”碰头，交上状态报告了！既然顺路，我们也让“战争崇拜者”们去找那个洞穴，免得他们惹"
+  },
+  {
+   "key": "QuestLoc_ReturntoVault333_QuestLongDescription",
+   "detail": "“坦克弗兰克”已经死了。现在333号的定居者应该能带我们去宝拉·普朗布金那里。"
+  },
+  {
+   "key": "QuestLoc_ReturntoVault333_QuestName",
+   "detail": "返回333号避难所"
+  },
+  {
+   "key": "QuestLoc_ReturntoVault333_QuestObjective_1",
+   "detail": "在333号避难所里找到答案。"
+  },
+  {
+   "key": "QuestLoc_ReturntoVault333_QuestShortDescription",
+   "detail": "返回333号避难所，找到答案。"
+  },
+  {
+   "key": "QuestLoc_RevengeoftheGeeks_Conversation_1_NPCStart_4",
+   "detail": "第一题：17-9等于多少？"
+  },
+  {
+   "key": "QuestLoc_RevengeoftheGeeks_Conversation_3_NPCStart_2",
+   "detail": "289的平方根是多少？"
+  },
+  {
+   "key": "QuestLoc_RubarbsReckoning_QuestLongDescription",
+   "detail": "鲁巴布和他的掠夺者们占领了711号避难所，他还在那儿。拿下他的手下，然后亲自和他对峙！"
+  },
+  {
+   "key": "QuestLoc_RubarbsReckoning_QuestShortDescription",
+   "detail": "在711号避难所和鲁巴布还有他的掠夺者对峙。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_2",
+   "detail": "如果你救了那个爱管闲事的DJ，那也没什么两样。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_4",
+   "detail": "144号避难所将会胜利！在“死亡”身后拉开一段恭敬，安全的距离。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_QuestLongDescription",
+   "detail": "在这段时间里，三狗一直在救人，帮助定居者躲避骑士的追随者，但也导致他被列入144号避难所的暗杀名单！他的最后一次广播让他被“死亡”的信徒追杀。我们必须在这些信徒之前找到他，其中一个"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_QuestObjective_3",
+   "detail": "消灭144号避难所的“死亡”信徒。"
+  },
+  {
+   "key": "QuestLoc_RunThreeDogRun_RaiderLine_2",
+   "detail": "以第23条e款之权力！"
+  },
+  {
+   "key": "QuestLoc_RunnersinScoringPosition_QuestLongDescription",
+   "detail": "教练在莱克维尔图书馆的墙上喷了一条嘲讽的留言！我们快追上了！该去789号避难所的废墟搜一搜了。"
+  },
+  {
+   "key": "QuestLoc_RunnersinScoringPosition_QuestShortDescription",
+   "detail": "在789号避难所追赶教练。"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Area51_QuestLineName",
+   "detail": "51区停转之日"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q1_Doc_QuestLongDesc",
+   "detail": "据说51区里满是对我们避难所有价值的技术。那里肯定戒备森严：最好先备齐医疗物资。"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q1_Doc_QuestShortDesc",
+   "detail": "突袭51区前，我们需要医疗物资。"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q3_Req_Question1_Answer1",
+   "detail": "去找军需官B38。上一层，左转第二个，然后下去，原路返回，再上去……也许。"
+  },
+  {
+   "key": "QuestLoc_S2_QL2_Q4_Roswell_QuestShortDesc",
+   "detail": "我们准备好对51区展开突袭了。那些外星科技近在咫尺。"
+  },
+  {
+   "key": "QuestLoc_S2_QL3_Q2_Handy_Question2",
+   "detail": "……错误……找不到autoexecution.bat……"
+  },
+  {
+   "key": "QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4_Answer2",
+   "detail": "哦！当然可以，亲爱的！给你，1个瓶盖。"
+  },
+  {
+   "key": "QuestLoc_SavingDaylight_QuestLongDescription",
+   "detail": "我们需要赶在神父阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！"
+  },
+  {
+   "key": "QuestLoc_ScareTactics_QuestLongDescription",
+   "detail": "有了这些鬼服，就可以去31号避难所和掠夺者们决一死战了！"
+  },
+  {
+   "key": "QuestLoc_ScareTactics_QuestObjective_1",
+   "detail": "在31号避难所和掠夺者对峙。"
+  },
+  {
+   "key": "QuestLoc_ScareTactics_QuestShortDescription",
+   "detail": "在31号避难所和掠夺者对峙。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_2_Team_1",
+   "detail": "没有，那可能在任何地方。同时，144号避难所仍在忙着唤醒“死亡”。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_3_Team_1",
+   "detail": "慢着！“瘟疫”很快就要在226号避难所和“战争”开打了。“饥荒”能赶来参加派对吗？"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_QuestLongDescription",
+   "detail": "“害虫”将把“瘟疫”带到226号避难所，因此战争肯定会接踵而至。如果我们也能让“饥荒”在那儿出现，骑士和他们的信徒就可以自相残杀了！我们需要装扮成“害虫”，和“饥饿”部落不那么野蛮"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_QuestObjective_1",
+   "detail": "让“饥饿”的人将“饥荒”引到226号避难所。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_QuestShortDescription",
+   "detail": "把“饥荒”引诱到废弃的226号避难所。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_Conversation_3_Team_1",
+   "detail": "当然，但是“战争”……愿他长生不老，他正在召唤“瘟疫”。在226号避难所单挑。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_QuestLongDescription",
+   "detail": "停战协议被遗忘，“战争”现在外面猎取鲜血，准备撕裂废土寻找“瘟疫”! 时间拖得越久，无辜的定居者就会死得越多，所以让我们装扮成“战争崇拜者”的人，说服“害虫”把“瘟疫”拉进战争。群"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_QuestObjective_1",
+   "detail": "让“害虫”把“瘟疫”带到226号避难所去。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_QuestShortDescription",
+   "detail": "引诱“瘟疫”到被遗弃的226号避难所。"
+  },
+  {
+   "key": "QuestLoc_ShamrocktheCasbah_QuestLongDescription",
+   "detail": "我们已经收到信息，317号避难所有战前的三叶草样品。这种耐寒，营养丰富的杂草，据说已经灭绝了，现在证明可以是我们重要的主食。如果有的话，我们需要把这些样品带回来！"
+  },
+  {
+   "key": "QuestLoc_ShamrocktheCasbah_QuestObjective_1",
+   "detail": "探索317号避难所"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_QuestLongDescription",
+   "detail": "你收到了一个求救信号，来自本已废弃的233号避难所。去调查看看吧。"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_QuestObjective_1",
+   "detail": "找到233号避难所求救信号的源头。"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_QuestShortDescription",
+   "detail": "查看233号避难所发出的求救信号。"
+  },
+  {
+   "key": "QuestLoc_SlashandBurn_Conversation_1_NPCEnd_1",
+   "detail": "不用，只要去救我们小队剩下的人就行。他们被困在了390号避难所。"
+  },
+  {
+   "key": "QuestLoc_TakingOuttheTrash_QuestLongDescription",
+   "detail": "为了向钢铁兄弟会证明避难所值得成为他们的前哨，我们要清除840号避难所里的尸鬼。"
+  },
+  {
+   "key": "QuestLoc_TakingOuttheTrash_QuestObjective_1",
+   "detail": "清理840号避难所的尸鬼。"
+  },
+  {
+   "key": "QuestLoc_TakingOuttheTrash_QuestShortDescription",
+   "detail": "清理840号避难所的尸鬼。"
+  },
+  {
+   "key": "QuestLoc_Tankbusting_QuestLongDescription",
+   "detail": "333号避难所的监督者也许能帮助我们找到宝拉·普朗布金，但首先我们得杀掉“坦克弗兰克”。"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_QuestLongDescription",
+   "detail": "我们接到了来自505号避难所的求助电话。他们一直在做一个特殊的项目，可以让居民们在他们的哔哔小子上玩游戏。想象一下！不幸的是，他们还被辐射蟑螂侵扰。我们必须帮助他们！"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_QuestShortDescription",
+   "detail": "帮助505号避难所解决它们的虫患问题。"
+  },
+  {
+   "key": "QuestLoc_TheFinalPush_QuestLongDescription",
+   "detail": "390号避难所废墟里的掠夺者首领告诉我，“麦克森硬汉小队”在避难所科技的总部。我很担心他们的安危。所以赶紧穿好装备去找他们吧！"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_1_NPCEnd_1",
+   "detail": "好的JF，我……嘿，等一下……"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_1_Team_1",
+   "detail": "我的名字是约翰弗兰西斯米勒掠夺者首领杀手……叫我JF就行。"
+  },
+  {
+   "key": "QuestLoc_TheLastGobble_Conversation_1_NPCStart_3",
+   "detail": "我给它注入了一个废土生物的DNA，那个生物对充满防腐剂的食物有着巨大的胃口，根本无法满足。"
+  },
+  {
+   "key": "QuestLoc_TheLastGobble_QuestLongDescription",
+   "detail": "我们顺着高步勒留下的蔓越莓酱的痕迹来到了261号避难所。现在该做个了断了！"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault31_QuestlineName",
+   "detail": "31号避难所之谜"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCStart_2",
+   "detail": "所以！你发现了我的藏身之处！666号避难所！我是……"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_Team_4",
+   "detail": "真的？666号避难所？埃尔迪亚波罗？"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_QuestLongDescription",
+   "detail": "一个居民探险的时候发现了一张去往666号避难所的地图，这个避难所并不在避难所科技的正式登记备案中。它有怎样的秘密呢？"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_QuestName",
+   "detail": "666号避难所之谜"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_QuestObjective_1",
+   "detail": "调查666号避难所。"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_QuestShortDescription",
+   "detail": "666号避难所并不在避难所科技的正式登记备案中。去调查看看吧。"
+  },
+  {
+   "key": "QuestLoc_ThePathofPaulaPlumbkin_QuestLongDescription",
+   "detail": "你找到了宝拉·普朗布金的日志。这位监督者曾踏上旅途，寻找传说中的乌托邦“避难所之城”。沿着她的足迹前进吧！第一站——730号避难所。"
+  },
+  {
+   "key": "QuestLoc_ThePathofPaulaPlumbkin_QuestObjective_1",
+   "detail": "探索730号避难所。"
+  },
+  {
+   "key": "QuestLoc_ThePathofPaulaPlumbkin_QuestShortDescription",
+   "detail": "跟随宝拉·普朗布金的脚步前往730号避难所。"
+  },
+  {
+   "key": "QuestLoc_TheQuestforVault525_Conversation_1_NPCStart_2",
+   "detail": "需要再次补充物资，但我已经很接近了。525号避难所就是避难所大都会！"
+  },
+  {
+   "key": "QuestLoc_TheQuestforVault525_QuestLongDescription",
+   "detail": "我们需要找到525号避难所，但我们的物资告急。得去大无敌超市搜索一切能用的东西，然后继续上路。"
+  },
+  {
+   "key": "QuestLoc_TheQuestforVault525_QuestName",
+   "detail": "525号避难所任务"
+  },
+  {
+   "key": "QuestLoc_TheQuestforVault525_QuestShortDescription",
+   "detail": "我们正在前往525号避难所，但先得补充物资。"
+  },
+  {
+   "key": "QuestLoc_TheRedRocketReveal_Conversation_1_NPCStart_3",
+   "detail": "是的，525号避难所就是避难所大都会！而且没错，它不在这里！那信息是我骗你们的！"
+  },
+  {
+   "key": "QuestLoc_TheRedRocketReveal_QuestLongDescription",
+   "detail": "避难所科技送往市长办公室的正式文件里说，通往525号避难所，也就是避难所大都会的入口隐藏在红火箭总部里。你还在等什么，赶紧前往525避难所吧！"
+  },
+  {
+   "key": "QuestLoc_TheRedRocketReveal_QuestShortDescription",
+   "detail": "525号避难所的入口在红火箭总部！"
+  },
+  {
+   "key": "QuestLoc_TheRoadtoVaultopolis_QuestLongDescription",
+   "detail": "核电站里一个友好的尸鬼告诉我们宝拉·普朗布金还在继续寻找大都会。她去了813号避难所，我们赶紧跟上吧。"
+  },
+  {
+   "key": "QuestLoc_TheRoadtoVaultopolis_QuestObjective_1",
+   "detail": "前往813号避难所寻找宝拉·普朗布金。"
+  },
+  {
+   "key": "QuestLoc_TheRoadtoVaultopolis_QuestShortDescription",
+   "detail": "前往813号避难所寻找宝拉·普朗布金。"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_1_Team_1",
+   "detail": "只是路过，23号，史酷多！"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_QuestLongDescription",
+   "detail": "你要保密，我们的一个高级特工，代号莫里，联系过我们，他说他发现了一个巨大的阴谋，影响深远。到322号避难所去听莫里的大故事！"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_3_NPCStart_3",
+   "detail": "那时他打算引爆一枚20兆吨的炸弹，又名“第六个太阳”。"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_Conversation_1_NPCEnd_1",
+   "detail": "我打赌莎莉很可能会躲进314号避难所。那地方已废弃，千万小心！"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_QuestShortDescription",
+   "detail": "前往原子玩具仓库寻找来自899号避难所的回收队。"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_QuestLongDescription",
+   "detail": "404号避难所在一次掠夺者袭击中被摧毁了……120号避难所可能会有更多的信息。"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_QuestObjective_1",
+   "detail": "同120号避难所监督者交谈。"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_QuestShortDescription",
+   "detail": "同120号避难所监督者谈论新号角报。"
+  },
+  {
+   "key": "QuestLoc_TheVaultTecVantage_Conversation_1_NPCStart_3",
+   "detail": "它能创造一个乌托邦式的避难所。一个避难所大都会！525号避难所有一个！"
+  },
+  {
+   "key": "QuestLoc_TheVaultTecVantage_Conversation_1_NPCStart_4",
+   "detail": "但525号避难所究竟在哪儿？！宝拉在那里吗？我们必须得继续找！"
+  },
+  {
+   "key": "QuestLoc_TheVaultTecVantage_QuestLongDescription",
+   "detail": "813号避难所监督者阿尔瓦雷茨告诉我们和告诉宝拉同样的事 - 去避难所科技的办公室找到关于大都会的信息！"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_QuestLongDescription",
+   "detail": "大厨对你死里逃生的能力表示惊讶。他想用辐射蝎蛋卷来庆祝。923号避难所最近被这些生物侵占了，不妨就从那里开始吧。"
+  },
+  {
+   "key": "QuestLoc_TimeforaGrandSlam_QuestLongDescription",
+   "detail": "我们的下一站是克莱斯勒69号火箭工厂。最好还是和其他地方一样去看看吧。"
+  },
+  {
+   "key": "QuestLoc_TruthAmongtheAshes_Conversation_1_NPCStart_3",
+   "detail": "她准备去909号避难所，但我告诉她，那里已经被占领了。"
+  },
+  {
+   "key": "QuestLoc_TruthAmongtheAshes_QuestLongDescription",
+   "detail": "333号避难所遭到了抢劫，但那里也许有关于宝拉·普朗布金去向的线索！"
+  },
+  {
+   "key": "QuestLoc_TruthAmongtheAshes_QuestObjective_1",
+   "detail": "前往333号避难所寻找线索。"
+  },
+  {
+   "key": "QuestLoc_TruthAmongtheAshes_QuestShortDescription",
+   "detail": "前往333号避难所寻找关于宝拉·普朗布金下落的线索。"
+  },
+  {
+   "key": "QuestLoc_Vault199_Conversation_1_NPCEnd_1",
+   "detail": "这里没有狗。试试他们的姐妹避难所吧：899号。他们更经典。但首先，拿着这个吧，当做是我们的感谢。"
+  },
+  {
+   "key": "QuestLoc_Vault199_Conversation_1_NPCStart_2",
+   "detail": "有些人说199号作为避难所来说太简陋了。但我们还是一样喜欢它！"
+  },
+  {
+   "key": "QuestLoc_Vault199_QuestLongDescription",
+   "detail": "掠夺者有提到比格斯比可能逃到了199号避难所。我应该帮你问问。但愿它在居民那里。"
+  },
+  {
+   "key": "QuestLoc_Vault199_QuestName",
+   "detail": "199号避难所"
+  },
+  {
+   "key": "QuestLoc_Vault199_QuestShortDescription",
+   "detail": "前往199号避难所寻找比格斯比。"
+  },
+  {
+   "key": "QuestLoc_Vault789_QuestLongDescription",
+   "detail": "外出探险时，居民中的一员发现了一则给789号避难所的旧广告。去查看一下吧！"
+  },
+  {
+   "key": "QuestLoc_Vault789_QuestName",
+   "detail": "789号避难所"
+  },
+  {
+   "key": "QuestLoc_Vault789_QuestObjective_1",
+   "detail": "探索789号避难所。"
+  },
+  {
+   "key": "QuestLoc_Vault789_QuestShortDescription",
+   "detail": "是时候拜访下789号避难所了！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewE_Conversation_2_Team_1",
+   "detail": "红桃Q？"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewE_Conversation_2_Team_2",
+   "detail": "黑桃A？"
+  },
+  {
+   "key": "QuestLoc_VaultopolisAwaits_QuestLongDescription",
+   "detail": "宝拉·普朗布金到头来其实是一个邪恶的掠夺者。但至少她告诉了我们525号避难所的位置。"
+  },
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestLongDescription",
+   "detail": "我们已经发现了通往242号避难所的地图，这个避难所里的“居民”不是人类而是各种生物。我该跟着地图然后解开关于这个避难所的秘密。"
+  },
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestObjective_1",
+   "detail": "探索242号避难所。"
+  },
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestShortDescription",
+   "detail": "揭开242号避难所的秘密。"
+  },
+  {
+   "key": "QuestLoc_WhatsonSecond_QuestLongDescription",
+   "detail": "13次搜索，13次失败。太不幸了！第十四次尝试，我们会前往701号避难所废墟。"
+  },
+  {
+   "key": "QuestLoc_WhenPrestonCalls_Conversation_1_NPCEnd_1",
+   "detail": "据说一些定居者被掠夺者绑架了。他们在778号避难所。给，拿着这件制服。我反正用不上了。"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_QuestLongDescription",
+   "detail": "目击者称鲁巴布和他的掠夺者们最近出现在700号避难所。最好去那里看看！"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_QuestObjective_1",
+   "detail": "调查700号避难所。"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_QuestShortDescription",
+   "detail": "调查700号避难所去看看鲁巴布的掠夺者们想干什么。"
+  },
+  {
+   "key": "Room_Upgrade_Not_Enough_Dwellers_LegendaryOutfits",
+   "detail": "将房间升到3级可以打造传奇装备。"
+  },
+  {
+   "key": "Room_Upgrade_Not_Enough_Dwellers_LegendaryWeapons",
+   "detail": "将房间升到3级可以打造传奇武器。"
+  },
+  {
+   "key": "Room_Upgrade_Not_Enough_Dwellers_RareOutfits",
+   "detail": "将房间升到2级可以打造稀有装备。"
+  },
+  {
+   "key": "Room_Upgrade_Not_Enough_Dwellers_RareWeapons",
+   "detail": "将房间升到2级可以打造稀有武器。"
+  },
+  {
+   "key": "SeasonPass_DaysRemaining",
+   "detail": "剩余1天"
+  },
+  {
+   "key": "SeasonPass_EndingSoon",
+   "detail": "赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n\n在高级赛道达到20级即可获得独家武器工坊房间主题，仅限本赛季。"
+  },
+  {
+   "key": "SeasonPass_EndingSoon_NewVegasA",
+   "detail": "赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n在高级赛道达到20级即可获得独家日落沙士装瓶厂主题，仅限本赛季。"
+  },
+  {
+   "key": "SeasonPass_EndingSoon_NewVegasB",
+   "detail": "赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n在高级赛道达到20级即可获得独家幸运38顶层套房宿舍主题，仅限本赛季。"
+  },
+  {
+   "key": "SeasonPass_UpsellModal_Base",
+   "detail": "有了赛季通行证，Fallout赛季才更精彩。\n立即领取你已解锁的所有赛季奖励！奖励可在所有避难所中领取。"
+  },
+  {
+   "key": "Season_Duration",
+   "detail": "[282828]赛季及实验避难所将于[-] [FD0C0B]1天[-]后结束"
+  },
+  {
+   "key": "Seasons_Message_SeasonEndsIn",
+   "detail": "赛季将于1天后结束"
+  },
+  {
+   "key": "Seasons_Message_SeasonStartsIn",
+   "detail": "赛季将于1天后开始"
+  },
+  {
+   "key": "Shop_SeasonPass_EnclavePremium_Blurb",
+   "detail": "赛季通行证的所有福利，外加：\n• 专属[-][F7C531]赛博狗宠物[-]和[-][F7C531]全新装备[-]\n• [-][F7C531]额外[-]宠物、装备和武器\n• [-]"
+  },
+  {
+   "key": "Shop_SeasonPass_Enclave_Premium_Description",
+   "detail": "将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新赛博狗宠物、全新英克雷军官制服、奥特姆上校的制服、重型避难所连体服、变种人猎人装备、“龙"
+  },
+  {
+   "key": "Shop_SeasonPass_InstitutePremium_Blurb",
+   "detail": "赛季通行证的所有福利，再加上：\n• 专属[-][F7C531]居里巧手小姐[-]和[-][F7C531]尼克·瓦伦坦[-]\n• [-][F7C531]额外[-]宠物、装备和武器\n•"
+  },
+  {
+   "key": "Shop_SeasonPass_Institute_Premium_Description",
+   "detail": "将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新居里巧手小姐、全新传奇居民尼克·瓦伦坦、指挥官制服、专家实验室袍、派普的装备、复仇者加特"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasAPremium_Blurb",
+   "detail": "包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]传奇居民[-]和[-][F7C531]装备[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-]"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasA_Premium_Description",
+   "detail": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、豪斯先生、马克西姆斯夹克、T-45d动力装甲、修身西装、专家连身服、技术人员的报复、2个宠物笼子，以"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasBPremium_Blurb",
+   "detail": "包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]维克托助手[-]和[-][F7C531]装备[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasB_Premium_Description",
+   "detail": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（Mr. Handy同等角色）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、隐形休闲装"
+  },
+  {
+   "key": "Shop_SeasonPass_Premium_Blurb",
+   "detail": "包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]传奇居民[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-][F7C531]25枚徽章[-]立"
+  },
+  {
+   "key": "Shop_SeasonPass_Premium_Description",
+   "detail": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力装甲、重型战斗甲、指挥官制服、2个宠物笼子、辐射极琉矿加特林激光枪，以及5"
+  },
+  {
+   "key": "Shop_StarterPack_Line1",
+   "detail": "给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。每所避难所限购1份。"
+  },
+  {
+   "key": "SnipSnipDialog_Generic_23",
+   "detail": "他们说世界上有10种人。懂二进制的和不懂二进制的。"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_100",
+   "detail": "我是通用原子国际4型机器人，你应该是个人类吧。"
+  },
+  {
+   "key": "Social_NoFriends",
+   "detail": "邀请您的Facebook朋友来一起玩辐射避难所，互相交换杂物吧！"
+  },
+  {
+   "key": "Social_NotLogin",
+   "detail": "连接到Facebook来和朋友交换杂物吧。"
+  },
+  {
+   "key": "Special_Title",
+   "detail": "SPECIAL属性"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic31_Response1",
+   "detail": "真是幼稚，以为自己12岁吗？"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic34_Response3",
+   "detail": "当然。给200个瓶盖我就借给你。"
+  },
+  {
+   "key": "Speech_Generic_Dweller41",
+   "detail": "老晒不到太阳，我都有点受不了了。该把维生素D加加量了。"
+  },
+  {
+   "key": "Speech_Kid12",
+   "detail": "总有一天我要参加G.O.A.T.测试，然后去上班！"
+  },
+  {
+   "key": "Speech_Kid9",
+   "detail": "真希望我有一把BB枪……"
+  },
+  {
+   "key": "Speech_LivingQuarter_Dialogue_NPC1_7",
+   "detail": "有时候，我会想象这个房间实际上是一个巨大的公馆，有50英亩那么大。"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_64",
+   "detail": "我去看了医生。他说我身体缺乏……维生素U。"
+  },
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_26_Response_1",
+   "detail": "也许是去洗一个分配给我的2分半钟的澡。"
+  },
+  {
+   "key": "Speech_Room_LoveJob_Casino",
+   "detail": "扑克还是21点——我可是最棒的发牌员！"
+  },
+  {
+   "key": "Speech_SnipSnip_Bark2",
+   "detail": "我是通用原子国际4型机器人，你应该是个人类吧。"
+  },
+  {
+   "key": "Stats_Special_Trained",
+   "detail": "SPECIAL属性训练"
+  },
+  {
+   "key": "Theme_Name_Lucky38Penthouse_LivingQuarters",
+   "detail": "幸运38号顶层公寓"
+  },
+  {
+   "key": "Theme_Name_Vault33_Diner",
+   "detail": "33号避难所餐厅"
+  },
+  {
+   "key": "Theme_Name_Vault33_LivingQuarters",
+   "detail": "33号避难所宿舍"
+  },
+  {
+   "key": "Theme_ShortName_Lucky38Penthouse",
+   "detail": "幸运38号顶层公寓"
+  },
+  {
+   "key": "Theme_ShortName_Vault33",
+   "detail": "33号避难所"
+  },
+  {
+   "key": "Tutorial_Tip_25",
+   "detail": "点击居民的SPECIAL属性图标来查看更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_PC",
+   "detail": "点击居民的SPECIAL属性图标来查看更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_PS4",
+   "detail": "按下R3，选中居民来查看更多关于SPECIAL属性的细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_Switch",
+   "detail": "按下右摇杆，选中居民来查看更多关于SPECIAL属性的细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_Xbox",
+   "detail": "点击右摇杆选择一个居民来查看更多关于SPECIAL属性的细节。"
+  },
+  {
+   "key": "Tutorial_Tip_28_PS4",
+   "detail": "你可以按下L3来给选定的居民重新命名。"
+  },
+  {
+   "key": "Tutorial_Tip_29",
+   "detail": "每天您可以通过点击目标界面上的“X”来跳过1个目标。"
+  },
+  {
+   "key": "Tutorial_Tip_29_PC",
+   "detail": "每天您可以通过点击任务列表旁的“X”来跳过1个目标。"
+  },
+  {
+   "key": "Tutorial_Tip_29_Xbox",
+   "detail": "每天您可以通过按下来跳过1个目标。"
+  },
+  {
+   "key": "Tutorial_Tip_32",
+   "detail": "还有不明白的地方？点击哔哔小子的VDSG来寻求帮助。"
+  },
+  {
+   "key": "Tutorial_Tip_36",
+   "detail": "SPECIAL属性高的高等级居民更容易在废土生存下来。"
+  },
+  {
+   "key": "Tutorial_Tip_38_PS4",
+   "detail": "按下L3来查看关于资源储存的更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_40",
+   "detail": "每个SPECIAL属性都会增加居民在废土存活的可能性。"
+  },
+  {
+   "key": "Tutorial_Tip_47",
+   "detail": "避难所科技规定避难所的最大容量是200人。"
+  },
+  {
+   "key": "Tutorial_Tip_57",
+   "detail": "所有SPECIAL属性都有助于居民在废土上战斗。"
+  },
+  {
+   "key": "Tutorial_Tip_90",
+   "detail": "你可以使用量子核子可乐来加速居民的SPECIAL属性训练。"
+  },
+  {
+   "key": "VaultTecWindow_Explanation_ExVault",
+   "detail": "花1枚筹码转动幸运转盘！"
+  },
+  {
+   "key": "VictorDialog_Generic_22",
+   "detail": "我的程序显示现在是6点，不过怎么感觉更像8点。"
+  },
+  {
+   "key": "VictorDialog_Wasteland_48",
+   "detail": "你看看这个。一张黑桃A！我想今天运气不错。"
+  },
+  {
+   "key": "VictorDialog_WaterPurification_01",
+   "detail": "罗伯科把我造得百分之百防水，最深能扛到400英尺。当然，我可没打算去试就是了。"
+  },
+  {
+   "key": "Weapon_Description_50CalMachineGun",
+   "detail": "一种古老设计，依然有效且可靠，经过了近300年的考验。"
+  },
+  {
+   "key": "Weapon_Description_GrognaksAxe",
+   "detail": "出自《野蛮人古古那》第23期“处女吞噬者的巢穴”。"
+  },
+  {
+   "key": "Weapon_Description_Magnum_ArmorPiercing",
+   "detail": "想要将穿金属装甲的雇佣兵爆到300码那么远吗？试试看。"
+  },
+  {
+   "key": "Weapon_Description_PlasmaThrower_Overcharged",
+   "detail": "这台绿色的熔化机器，火力能开到11。"
+  },
+  {
+   "key": "Weapon_Description_PulseRifle_Enhanced",
+   "detail": "威力调到11时效果最佳。"
+  },
+  {
+   "key": "Weapon_Description_Shotgun_Enhanced",
+   "detail": "改装过，可以杀死5码以内的任何东西。"
+  },
+  {
+   "key": "Weapon_Description_SniperRifle_Rusty",
+   "detail": "触发器是松了一点，但它仍然能放倒一个300码外的泥沼蟹。"
+  },
+  {
+   "key": "Weapon_Name_032Pistol",
+   "detail": ".32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_ArmorPiercing",
+   "detail": "穿甲.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Enhanced",
+   "detail": "增强型.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Hardened",
+   "detail": "硬化型.32手枪"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_Rusty",
+   "detail": "生锈的.32手枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun",
+   "detail": ".50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_ArmorPiercing",
+   "detail": "穿甲.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Enhanced",
+   "detail": "强化的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Hardened",
+   "detail": "加固的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_50CalMachineGun_Rusty",
+   "detail": "生锈的.50机枪"
+  },
+  {
+   "key": "Weapon_Name_ArmorPiercingT60Pistol",
+   "detail": "穿甲T60手枪"
+  },
+  {
+   "key": "Weapon_Name_BBGun",
+   "detail": "BB枪"
+  },
+  {
+   "key": "Weapon_Name_BBGun_ArmorPiercing",
+   "detail": "穿甲BB枪"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Enhanced",
+   "detail": "增强型BB枪"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Hardened",
+   "detail": "硬化型BB枪"
+  },
+  {
+   "key": "Weapon_Name_BBGun_Rusty",
+   "detail": "生锈的BB枪"
+  },
+  {
+   "key": "Weapon_Name_Dad032Pistol",
+   "detail": "爸爸的0.32"
+  },
+  {
+   "key": "Weapon_Name_EnhancedT60Pistol",
+   "detail": "强化的T60手枪"
+  },
+  {
+   "key": "Weapon_Name_GaussRifle_Magnetron4000",
+   "detail": "磁控管4000步枪"
+  },
+  {
+   "key": "Weapon_Name_HardenedT60Pistol",
+   "detail": "加固的T60手枪"
+  },
+  {
+   "key": "Weapon_Name_JonesMagnum",
+   "detail": "琼斯.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum",
+   "detail": ".44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_ArmorPiercing",
+   "detail": "穿甲型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Enhanced",
+   "detail": "增强型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Hardened",
+   "detail": "硬化型.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Magnum_Rusty",
+   "detail": "生锈的.44狙击枪"
+  },
+  {
+   "key": "Weapon_Name_Pistol",
+   "detail": "10mm手枪"
+  },
+  {
+   "key": "Weapon_Name_Pistol_ArmorPiercing",
+   "detail": "穿甲型10mm手枪"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Enhanced",
+   "detail": "增强型10mm手枪"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Hardened",
+   "detail": "硬化型10mm手枪"
+  },
+  {
+   "key": "Weapon_Name_Pistol_Rusty",
+   "detail": "生锈的10mm手枪"
+  },
+  {
+   "key": "Weapon_Name_RustyT60Pistol",
+   "detail": "生锈的T60手枪"
+  },
+  {
+   "key": "Weapon_Name_T60Pistol",
+   "detail": "T60手枪"
+  }
+ ]
+}

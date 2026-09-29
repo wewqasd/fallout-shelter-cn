@@ -1,0 +1,39 @@
+{
+  "chunk": "073",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Title_Diff",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「DIFF」是难度（difficulty）的缩写，不是「差异」：德语版作「SCHW」（Schwierigkeit）、俄语版作「Слжн」（сложность），两个版本都把它当成难度标签，说明这条显示的是任务/内容的难度。ZH 译成「差异」(difference)，玩家读到的含义与原文不同——会以为是两项数据之间的差值，而不是难度标识。",
+      "fix": "难度",
+      "confidence": "high"
+    },
+    {
+      "key": "Theme_Name_EnclaveLivingQuarters",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "同一批主题名里 Living Quarters 一律作「宿舍」（Theme_Name_BoS_LivingQuarters=钢铁兄弟会宿舍、Theme_Name_Institute_LivingQuarters=学院宿舍、Theme_ShortName_LivingQuarters=宿舍主题），全语料共 46 处，专名一致性评审也已定案 Living Quarters→宿舍；只有这一条写成「英克雷生活区」，而「生活区」在全语料里仅此一处。游戏里该房间本身就叫「宿舍」，主题列表里单冒出一个「生活区」，会让玩家以为这是另一个房间的主题。",
+      "fix": "英克雷宿舍",
+      "confidence": "high"
+    },
+    {
+      "key": "Stats_Time_Played",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「(All-Time)」指的是累计/总计：法语版 Temps de jeu (total)、德语 Spielzeit (gesamt)、俄语 Время игры (общее) 都是「总计时长」。ZH 直译成「（所有时间）」，中文没有这种搭配（同一屏的统计分区标题已经写作「累积」），是明显的机翻腔而非地道说法。",
+      "fix": "游戏时间（累计）",
+      "confidence": "medium"
+    },
+    {
+      "key": "Steam_Overlay",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "Steam Overlay 在 Steam 简体中文客户端和官方文档里叫「Steam 界面」：游戏属性中的勾选项写作「在游戏中启用 Steam 界面」，Steamworks 简体中文文档标题也是「Steam 界面」。ZH 生译成「Steam 覆盖」，玩家按这句提示去属性里找名为「覆盖」的选项是找不到的，属于会误导玩家的操作指引用词。",
+      "fix": "想进入商店，请在辐射避难所的 Steam 属性中启用 Steam 界面。",
+      "confidence": "medium"
+    }
+  ]
+}

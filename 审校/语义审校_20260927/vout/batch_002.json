@@ -1,0 +1,110 @@
+{
+ "batch": 2,
+ "items": [
+  {
+   "key": "QuestLoc_DeathRevealed_Conversation_3_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN to help meet that quota 指邪教凑够那个配额（上句：配额一到 Death 苏醒），ZH「帮助你达到」把配额栽给玩家。",
+   "final_fix": "所以我们今天让你们流血不是出于恶意，而是为了凑够那个配额。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 的 In Vault 672、fourth Horseman、abandoned building 等四层信息 ZH 全无，只剩半句。",
+   "final_fix": "在672号避难所，我们遇到了来自144号避难所的居民，他们熟悉那位神秘的第四骑士“死亡”。按照约定，他们的监督者联系了我们并安排了会面，届时她会把她知道的一切都告诉我们！但她不想透露自己避难所的位置，所以我们将会在一座废弃的建筑里与她碰面……"
+  },
+  {
+   "key": "QuestLoc_DeathandDenial_Conversation_4_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Got her son addicted 承接 Team_1「他怎么毁了她家」省略的主语是皮博迪，ZH「她让儿子」把加害者写成沃辛顿夫人。",
+   "final_fix": "是皮博迪让夫人的儿子迷上了剪刀石头布，然后每次出石头，把钱全赢光了。"
+  },
+  {
+   "key": "QuestLoc_DeathandDenial_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Resuscitating 是阿加莎答「案发时你在干什么」，ZH「夫人…苏醒过来」改成夫人自己醒，施救者与因果都没了。",
+   "final_fix": "我在给沃辛顿夫人做急救复苏——她想咬一口蓝莓烤饼，结果噎住了。"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_3_NPCEnd_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN I'm feeling negative 兼指情绪消极与算式「负数」，ZH「今天我并不想」丢掉 negative，只剩半截省略句。",
+   "final_fix": "通常我会同意你的，但今天我的心情很负面。"
+  },
+  {
+   "key": "QuestLoc_DogGone_Conversation_2_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN It isn't? 是回声问「不是？」，ZH「它不是吗？」易被读成反向确认；Well, shoot 只是「哎呀」，非「真烦」。",
+   "final_fix": "不是？哎呀。那你们就把它带走吧。反正它吃得也太多了。"
+  },
+  {
+   "key": "QuestLoc_Dog_Answer01_NPC02",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN They can't have him 是拒绝让兄弟会带走狗，ZH「和他们无关」改成狗与兄弟会不相干；mutt 指狗应作杂种狗。",
+   "final_fix": "是兄弟会派你来的吧？那条杂种狗是我们的！绝不能给他们！"
+  },
+  {
+   "key": "QuestLoc_DogsofWar_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN fattening you up for later 是尸鬼把你养肥留着吃，ZH「等你养肥了之后再说」既丢原意又不成句。",
+   "final_fix": "你看起来可一点都不饿。那些尸鬼一定是在把你养肥，留着以后吃呢。"
+  },
+  {
+   "key": "QuestLoc_DogsofWar_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN protective gear 的关键限定「防护」被换成无出处的「美好的」，且 these…gear 的「这些」在 ZH 无前指。",
+   "final_fix": "不。不过“害虫”们很想要防护装备。你可以拿一些来把他们引进陷阱……"
+  },
+  {
+   "key": "QuestLoc_DogsofWar_Conversation_3_NPCStart_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "EN Doggone 系亲热加强语（德 verdammte／西 verdaderos），ZH「该死的英雄」成骂人；good fight 亦非「打好仗」。",
+   "final_fix": "你们这些孩子确实懂得为正义而战！你们可真是了不起的英雄。谢啦！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_1_Room2_Question_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN Rent's up 指租期到了该交租（ES paga、DE fällig、RU пора платить），ZH「房租涨了」凭空多出涨价这一事实。",
+   "final_fix": "房租到期了。"
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN before you showed up 意为「你迟早会来」，ZH 把从句硬塞进「只是时间问题」中间成了病句，语义也反了。",
+   "final_fix": "我看你出现在这儿，不过是早晚的事。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2D_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN weapons 是武器，与 Team_2 的 outfits（本表定案 装备）分属两类物品，ZH 两处都写「装备」，与所得武器对不上。",
+   "final_fix": "来点武器怎么样？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Dave is... right! 是主持人确认玩家答对戴维，ZH 只剩后半句「从简单的开始」，答对反馈整段丢失。",
+   "final_fix": "戴维……答对了！我们喜欢先从简单的开始。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Close but no cigar 意为差一点就中，ZH「很接近但是不是」不成句；make you…Lose Your Head 的主语也丢了。",
+   "final_fix": "差一点就答对了。现在我们要让你……“掉脑袋”了！"
+  }
+ ]
+}

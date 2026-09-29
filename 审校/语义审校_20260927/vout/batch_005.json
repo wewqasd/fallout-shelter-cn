@@ -1,0 +1,110 @@
+{
+ "batch": 5,
+ "items": [
+  {
+   "key": "QuestLoc_TheSixthSun_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 两句，ZH 只译首句；We'll send a team 与 inform Confessor Alvarado 两句全缺，营救目标与后续交代丢失。",
+   "final_fix": "我们认为失踪的教会见习信徒威尔修士可能被驻扎在附近的一帮掠夺者绑架了。我们会派一支队伍去救他，等他平安回来之后，再视情况通知神父阿尔瓦拉多。"
+  },
+  {
+   "key": "QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "disease＝病害（同任务作「红果枯萎」），ZH「虫灾」指错；They have an alternate theory 被写成断言「一定有其他原因」。",
+   "final_fix": "那边一个研究所里有群人认为这不是病害。他们另有一套说法……"
+  },
+  {
+   "key": "QuestLoc_TheresnoCryinginBaseball_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 三句，ZH 只留首句；Maybe Coach went there to resupply 与 Off we go（出发）全缺，动机与行动指引丢失。",
+   "final_fix": "有一家旧的“五金小镇”商店我们还没去看过。也许教练去那里补给物资了。我们出发吧。"
+  },
+  {
+   "key": "QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN playoff run＝季后赛征程，ZH「季后赛跑」不成词；go all the way 被当作真跑步译成「一直跑下去」，整句读不通。",
+   "final_fix": "我的季后赛征程才刚开始，我会一路杀到底的！"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN the fuzz 是警察俚语（DE die Bullen、RU легавые），ZH 按字面作「毛毛」（绒毛），下一句 narc 也是警察，整句读不通。",
+   "final_fix": "我的天，是条子！"
+  },
+  {
+   "key": "QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Here you go 是递东西的「给你/拿好」，ZH「你们走吧」变成赶人，与后句「希望里面有什么好东西」自相矛盾。",
+   "final_fix": "拿好，希望里面有什么好东西！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 把 Never-ending 拆成 Never. Ending. 三段，ZH「永远。结束。」自相矛盾（读成「永远结束」），「没完没了」的梗消失。",
+   "final_fix": "三个词：没完。没了。死爪。"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_2_Team_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN The Only Ones Who Aren't Idiots 的所指（非白痴者＝本队）与 ZH「除了我们都是白痴」逻辑等值，队名玩笑保留，只是换句式。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_WastelandDoctoring_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN Courtesy of... 是「由……提供」，ZH 把 courtesy 解成「礼节」，写成「这是出于……友好礼节」，提供者关系被写歪且生硬。",
+   "final_fix": "快捷的医疗服务！由你们友好的避难所邻居提供！"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN You and me both! 是附和（DE Geht mir genauso!、RU я тоже），ZH「我俩都是！」缺宾语，作为回话看不出在赞同。",
+   "final_fix": "我也这么觉得！"
+  },
+  {
+   "key": "QuestLoc_ZinesFromtheCommonwealth_QuestlineName",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN Zines 指同人杂志（ES Revistas、DE Magazine、RU Издания），ZH 音译成「扎因斯」，凭空造出人名/地名，指向全错。",
+   "final_fix": "来自联邦的杂志"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic8_Response2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 猜测词是 Corpse（尸体，六语一致），ZH 却作「拾荒者」＝Scavenger（WastelandItem_Title 等皆为拾荒者），原词被替换。",
+   "final_fix": "哦，我知道了！“尸体”！"
+  },
+  {
+   "key": "Tutorial_Tip_50",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN rooms that are touching dirt 是「紧挨泥土的房间」，ZH 改成「房间会有泥土冒出」，生成条件被换成另一种现象，机制说明错。",
+   "final_fix": "鼹鼠会从紧挨着泥土的房间开始出现，还可能蔓延到整个避难所。"
+  },
+  {
+   "key": "Tutorial_Tip_76",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN require Secret Clues to unlock＝任务需要线索才能解锁，ZH「需要解锁秘密线索」把条件关系倒过来，线索变成待解锁物。",
+   "final_fix": "有些任务需要秘密线索才能解锁。尽可能把能找到的容器都搜刮一遍！"
+  },
+  {
+   "key": "Weapon_Description_ButcherKnife",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 是祈使句 Go mete out some punishment（去施加惩罚），ZH「为了某些惩罚而存在的」是无中心语的残句，指使玩家的动作丢失。",
+   "final_fix": "去好好教训别人一顿吧。懂我意思吗？"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "batch": 21,
+ "items": [
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_4_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Allistair Tenpenny＝阿利斯泰尔·特佩尼；ZH 把姓加引号前置充当绰号，人名顺序不合规范，但不致误读。",
+   "final_fix": "阿利斯泰尔·特佩尼老头想除掉的眼中钉是哪一个？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN「Off with your... no...」整段自打断未译，ZH 另造「好吧」；Lose Your Head 口号尚在。",
+   "final_fix": "那真是个愚蠢的名字。砍掉你的……不对……“掉脑袋”吧！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_2_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN「If you could even call...」本身即以省略号收尾，ZH「如果你叫……的话……」是口语留白，非病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_3_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "must 表推测＝「一定」，ZH「必须」表义务并与其叠用，成了肉眼可见的病句。",
+   "final_fix": "不对，不过你肯定特别渴望失败！准备好……“掉脑袋”吧！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "created using＝用什么造出来，ZH「构成」改问组成成分，而 FEV 是制造手段，题干被换。",
+   "final_fix": "超级变种人是用什么制造出来的……"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_4_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Children of Atom 与 Atom's Children 在 ZH 同作「原子之子」，两个选项完全相同，无法分辨。",
+   "final_fix": "原子的子民。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletJ_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "as funny as when you＝和你掉脑袋那一刻一样好笑，ZH 误读为 as funny as you，句尾成残句。",
+   "final_fix": "哈哈哈哈！几乎和你……“掉脑袋”的时候一样好笑！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletJ_Conversation_4_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Kasumi Nakano＝姓中野＋名霞，ZH 丢掉「中」并把「霞」「野」拼成不存在的「霞野」。",
+   "final_fix": "为什么中野霞逃跑去了阿卡迪亚？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletK_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "carnival ride＝游乐场的设施（题中巨轮），ZH「奇幻旅程」把 ride 当旅程；Yes 应作「没错」。",
+   "final_fix": "没错！那些白痴就是不肯承认那不过是个游乐场的设施。"
+  },
+  {
+   "key": "QuestLoc_GameofVaults_QuestLongDescription",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "EN 只说在全境恐吓村民（throughout the land），ZH 多出「占领了村庄」；Hear ye 是传令腔而非报刊「号外」。",
+   "final_fix": "听好啦，听好啦！一头凶猛可憎的野兽一直在全境恐吓村民。循着踪迹找到它的巢穴，干掉它！"
+  },
+  {
+   "key": "QuestLoc_GasNGo_Conversation_1_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "on my way＝我这就走了，ZH「我自己会去的」把离开说成前往，掠夺者问避难所时更显错位。",
+   "final_fix": "别管我，我这就走了。"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_QuestObjective1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Ask about the salesperson＝打听销售员，ZH「向销售员询问」把被问者换成了销售员本人。",
+   "final_fix": "打听销售员的下落。"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_Question3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "running for my life＝逃命，ZH 生造「跑命」且与后面的「跑」重复，读来是错词。",
+   "final_fix": "我只想买点家具！可为了逃命，我已经跑了好几个小时了！"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Dweller 是通用名词「居民」，ZH 音译成人名「德维勒」再加括号；past the deadline＝误了期限。",
+   "final_fix": "标准居民的老一套作风——一成不变，而且总是误了期限。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Article＝条、Subsection＝款/项，ZH 两级都作「条」成「第174条，B条」；同类条目作「第8条第c款」。",
+   "final_fix": "没错，可第174条第b款又该怎么说？"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "batch": 35,
+ "items": [
+  {
+   "key": "QuestLoc_SynthsforSale_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「are ya?」=「是吧？」，「从学院来到」把 from the Institute 的「来的」写成「来到」，句子在此卡住；属错字，含义尚可辨。",
+   "final_fix": "你们不是学院来的，是吧？那就别怪我们送你们上西天了！"
+  },
+  {
+   "key": "QuestLoc_TakeMeOuttotheBallGame_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「I'll hold」回应挥棒之问，即「不挥棒」，ZH「我先放着」答非所问；throw a ball 是投坏球，ZH「扔球」丢失术语。",
+   "final_fix": "我不挥棒。我觉得你会投出坏球。"
+  },
+  {
+   "key": "QuestLoc_TakeMeOuttotheBallGame_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「got to first base」是已上一垒，ZH读成「必须要拿下」；垒位术语应是「一垒/二垒」，ZH「第一垒/第二垒」不规范。",
+   "final_fix": "这么说你已经上了一垒。我们会在二垒把你封杀出局。"
+  },
+  {
+   "key": "QuestLoc_TakeMeOuttotheBallGame_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「double」是二垒安打，ZH「双打」属网球术语；「double play」应作双杀，ZH「双杀球员」把战术变人，呼语「boys」也丢了。",
+   "final_fix": "内野二垒安打！看来我们得来个双杀了，兄弟们！"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「Sure. I think.」的 I think 是独立口语缓冲，ZH「我想。」缺宾语成半句；「has to be」译「肯定有」尚可，不算错。",
+   "final_fix": "当然。应该是吧。我自己从没下去过，但总得有个底，对吧？"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_1_NPCEnd_3",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "「being too afraid」的主语是死爪，ZH「因为太害怕」主语悬空、易误读为去找死爪，「追的」应为「追得」；原fix多补了EN无有的「快到底了」。",
+   "final_fix": "留意死爪什么时候害怕得不敢再往深处追你。"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「only gets worse as you go deeper」=越深越糟，ZH「只有…时会更糟糕」关联词残缺成病句；「or so」的传闻变成确定陈述。",
+   "final_fix": "越往深处走，情况只会更糟——这是我哥哥说的。"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「there *is* a bottom, then?」的 then 是推断语气「那么说」，ZH「然后呢？」把求证变成催下文，玩家会以为在问下一步。",
+   "final_fix": "所以说，确实是有个底的？"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「This is the bottom then?」=「那这里就是底部了？」，ZH「那这是底部呢？」缺谓语「就是…了」，「呢」煞尾不成句，读不通。",
+   "final_fix": "那这里就是底部了？"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「so loud I can barely make out」是「大声得我几乎听不清」，ZH「如此大声我几乎不能弄清楚」两分句硬粘、缺「得」，机翻味重。",
+   "final_fix": "真的？声音大得我几乎听不清你在说什么！"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「or something」是「或者别的什么」的含糊收尾，ZH「或某事」不成中文；「the greater good」宜作「大局」而非「更大的好处」。",
+   "final_fix": "我们当然可以！这都是为了大局，或者别的什么……"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_Conversation_3_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「Meh」只是敷衍、无所谓，ZH「去你的」是骂人，凭空给角色加了敌意，与「just following orders」的冷淡语气相冲。",
+   "final_fix": "算了，我们只是奉命行事。"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「the sound of a barn owl screeching」是「猫头鹰的尖叫声」，ZH「一只猫头鹰尖叫」量词挂在鸟上，读成把整只猫头鹰传送进脑子。",
+   "final_fix": "我们把猫头鹰的尖叫声直接传进定居者的脑子里。"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「mating calls」是求偶叫声，ZH「交配对话」把鸣叫译成「对话」，玩家会以为鼹鼠在聊天；ES/DE 均为求偶、发情鸣叫。",
+   "final_fix": "也许定居者听到的是鼹鼠的求偶叫声？"
+  },
+  {
+   "key": "QuestLoc_TheBigsbyBrownCase_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「Tenderize 'em」本义是把肉捶软拍松，ZH「给我煮了他们」换成了下锅水煮，动作和画面都变了（DE「Klopft sie weich」）。",
+   "final_fix": "哦快看呐，我们的宠物又有零食可以吃了。把他们捶软点儿！"
+  }
+ ]
+}

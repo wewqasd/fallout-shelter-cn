@@ -1,0 +1,110 @@
+{
+ "batch": 85,
+ "items": [
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_7_Response_3",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "Darn it 全库两处均译「该死的」，ES/DE 亦用咒骂；「别犯怂」与 stay strong 同为别被吓倒，属语气偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Quest_Loot_Dweller_40",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "dang it 是给自己壮胆的感叹；全库「Dang it.」译「该死」（chunk_032），「就是这么回事」把它换成了平铺论断，感叹情绪丢失。",
+   "final_fix": "这可是我挣来的，真是的。"
+  },
+  {
+   "key": "Speech_Quest_MainPath_Dweller_11",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "This feels like 的说明对象是「路」；现译让「感觉」作主语与「路」搭配，主谓不成立需回读，WrongPath_11 作「感觉这条路是错的」。",
+   "final_fix": "感觉这条路是对的……"
+  },
+  {
+   "key": "Speech_Quest_MainPath_Dweller_12",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "right direction 的说明对象是「方向」，「这个感觉是对的方向」主谓不搭；WrongPath_12 已作「感觉方向是错的」。",
+   "final_fix": "感觉这个方向是对的……"
+  },
+  {
+   "key": "Speech_Room_DeadDweller_Cafeteria",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "has GOT to be a health violation 本身是准公文语气的调侃，ES、DE 同样正式；「一起…事件」虽偏书面，属风格偏好，非误译。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Room_LoveJob17",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "大写 ME 的强调已由「有我在」承担，on the job 即「在岗」；同族 LoveJob16「有我在这里工作」同为该句式，现译义已足。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Room_SomeoneUnhappy_Classroom",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "know-it-all 译「自以为是」可以，但该成语作定语须带「的」；「这个自以为是家伙」缺结构助词，是病句，补「的」即可。",
+   "final_fix": "我只是来学习的，不是来受这个自以为是的家伙的气的。"
+  },
+  {
+   "key": "SpinToWin_FreeChip",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "TOKEN=筹码 无误，但 IN 后接倒计时读数；「刷新于」是「在某时刻刷新」的介词结构，同族 NextRaidIn 作「倒计时」。",
+   "final_fix": "免费筹码刷新倒计时"
+  },
+  {
+   "key": "Stats_Alien_Attacks_Stopped",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同族死爪/掠夺者/狂尸鬼条目均作「终止X攻击」，本条 Attacks Stopped 却译成陈述句「已停止」，与计数标签体例不符。",
+   "final_fix": "终止外星人袭击"
+  },
+  {
+   "key": "Stats_Time_Played",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "All-Time 指累计（FR total、DE gesamt），非「所有时间」；同屏 Stats_Title_All_Time 已译「累积」，故应用「累积」。",
+   "final_fix": "游戏时间（累积）"
+  },
+  {
+   "key": "Stats_Wasteland_Creatures_Killed",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "全统计表仅此条用「被」字句：Killed 译作「废土生物被杀」，成了无施动者的被动小句；同列 Weapons Collected=收集的武器 均为名词性标签。",
+   "final_fix": "消灭的废土生物"
+  },
+  {
+   "key": "Steam_Overlay",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Steam 简中客户端与 Steamworks 文档把 Overlay 作「Steam 界面」（在游戏中启用 Steam 界面），按「覆盖」找不到该选项。",
+   "final_fix": "要进入商店，请在《辐射避难所》的 Steam 属性中启用 Steam 界面（Overlay）。"
+  },
+  {
+   "key": "Theme_Name_EnclaveLivingQuarters",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Living Quarters 全库译「宿舍」（标准宿舍、学院宿舍等），游戏内房间亦名「宿舍」；「生活区」全语料仅此一处，会被当成另一个房间。",
+   "final_fix": "英克雷宿舍"
+  },
+  {
+   "key": "Theme_Name_Standard_WeaponFactory",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是 Weapon Plant；房间表 _3「WEAPON PLANT」=武器工厂、_2「WEAPON FACTORY」=武器车间，现译占了低一档名。",
+   "final_fix": "标准武器工厂"
+  },
+  {
+   "key": "Theme_Name_UltraciteWeaponFactory",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是 Ultracite Weapon Plant；房间表 _3 既定名「辐射极琉矿武器工厂」，「车间」属 FACTORY 档。",
+   "final_fix": "辐射极琉矿武器工厂"
+  }
+ ]
+}

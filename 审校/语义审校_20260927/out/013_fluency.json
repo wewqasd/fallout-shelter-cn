@@ -1,0 +1,175 @@
+{
+  "chunk": "013",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Outfit_Description_AbrahamSpecial",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「为了演唱那首著名的抗争之歌，国歌！」只有目的状语、没有主句，是断掉的残句；「国歌」又以感叹号单独甩在逗号后面，读起来像在喊口号而不是描述装备。另外 battle hymn 是「战歌」，「抗争之歌」也偏。",
+      "fix": "专为演唱那首著名的战歌——国歌——而准备。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_ArgyleSweater",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「不会自我计算」是 doesn't count itself 的逐字硬译，中文对瓶盖储备不会说「计算自己」，机翻腔很显眼，会计梗也没落地。",
+      "fix": "因为避难所的瓶盖储备可不会自己数自己。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_BattleArmor_Sturdy",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "原文 the look and protection 指「外形和防护」，中文写成「能力和……外形」，protection 被换成了「能力」；原文没有省略号，「……」硬插在「能力和外形」之间，读起来像漏了字。",
+      "fix": "让你拥有佣兵队长的外形和防护力。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_BittercupSpecial",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "child at heart 是「童心未泯的人」，译成「孩子」后整句变成「不得不忍受废墟的孩子」，指向了真小孩；the Wastes 又误作「废墟」（全表 415 处用「废土」，「废墟」只对应 ruins）；「是完美的存在」也是硬译。",
+      "fix": "献给所有童心未泯、却不得不忍受废土的人。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_BurnedConditionResistence",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Burned Condition 是游戏内的「灼伤状态」，「抵抗燃烧条件」把状态译成了条件，玩家看不懂到底在抵抗什么。",
+      "fix": "+50%抵抗灼伤状态",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_ColonelSpecial",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「发布施令」是把「发号施令」和「发布命令」杂糅出来的生造词，中文没有这种搭配（全表仅此一处）；hard-nosed 指强硬、不留情面，译成「勇猛」也换了形容方向。",
+      "fix": "曾由一位强硬的上校穿着。现在轮到你发号施令了。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_CombatArmor_Heavy",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「他们过去曾派军队过去」一句话里「过去」连出两次，「派军队过去」也赘余拗口；an army 的「一整支」量感也没译出来。",
+      "fix": "过去他们得派一整支军队上阵。现在只需要你一个人。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_DetectiveOutfit",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "原文结尾整句 Human or not.（不管你是不是人类——针对合成人的梗）被完全丢掉，中文只剩「为任何有自尊的废土侦探定制的侦探装备。」；另外 gear 被译成「定制的」，也是原文没有的。",
+      "fix": "为任何有自尊的废土侦探准备的侦探行头——不管你是不是人类。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_FlightSuit_Advanced",
+      "severity": "S1",
+      "type": "乱译",
+      "problem": "Negative 是否定应答（不行／否），译成「糟糕」把回答变成了叹气；The pattern is full 出自《壮志凌云》，指进场航线已满，pattern 被当成「样式」，「样式已经满员了」根本读不通。Vault Dweller 是对单个玩家的称呼，也不该加「们」。",
+      "fix": "不行，避难所居民。进场航线已经满了。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_JailhouseRocker",
+      "severity": "S2",
+      "type": "其他",
+      "problem": "「猫王帮」左右两侧各残留一个字面的反斜杠（转义残留），游戏里会把反斜杠一起显示给玩家。",
+      "fix": "末日前猫王《监狱摇滚》演出服的复制品，曾由新维加斯帮派“猫王帮”穿着。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_LabCoat_Advanced",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "warp travel 是科幻里的「曲速航行」，译成「弯曲旅行」是照字面拆词，中文读者只会一头雾水；后半句「就在午餐前」也硬。",
+      "fix": "分裂原子，或者发明曲速航行——全都能赶在午饭前搞定。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_LegatesArmor",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "原文是 scary armor for one of the scariest figures（专供最可怖人物之一的护甲），「出自……之手」在中文里明确表示「由……制作」，读起来变成这套护甲是那位将领打造的，关系搞反；one of 也丢了。",
+      "fix": "令人胆寒的护甲，属于废土上最凶悍的军队里最凶悍的人物之一。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_LibrarianSpecial",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "print 指纸媒／印刷出版，译成「打印」会让玩家想到打印机，图书管理员的梗失效；prove to everyone that in the future... 还被拆成「证明给未来的人类」，把「在未来」读成了「未来的人」。",
+      "fix": "向所有人证明：在未来，纸媒并没有消亡。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_LifeguardOutfit",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "breaking hearts（因为太有魅力而让人心碎、伤透芳心）译成「打击心灵」，「打击」在中文里不与「心灵」这样搭配，读来既生硬又像心理学术语，救生员撩人的调侃没了。",
+      "fix": "拯救生命，也让人心碎。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_MaximusJacket",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "原文是两个并列分句，中文只剩「红色能掩盖血迹……」，后半句「军衔臂章掩盖着严重的自我怀疑」整句丢失，末尾省略号还让它像被截断的半句话，玩家看到的是不完整的描述。",
+      "fix": "红色能掩盖血迹，军衔臂章则能掩盖啃噬内心的自我怀疑。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_MetalArmor",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「当皮革没有用的时候。」是没有主句的时间状语残句；「可以阻止一颗子弹」搭配不当，子弹只能挡下、拦下，不能说「阻止」。",
+      "fix": "皮革不管用的时候，就换它。挡得下一颗子弹，也挡得下一百颗。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_MoviefanSpecial",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "drive-in 指的是（老式）汽车影院，译成「“免下车”通道」后再接「在通道中闲逛」，画面变成了在马路上溜达，和电影迷的梗对不上。",
+      "fix": "最适合在废弃的老式汽车影院里消磨时间。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_PowerArmor_T45d",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "原文 Chinese tanks 被译成「外国坦克」，把特指换成了泛称、信息丢失；另外「战前被用来对抗外国坦克的。」以「的」收尾，是个成分残缺的「的」字残句。",
+      "fix": "战前被用来对付中国坦克。没错——就是坦克。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_PrestonSpecial",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "at a minute's notice 是「随时、一接到招呼就动身」，译成「经常」把「随时待命」写成了频率；同时「为那些有荣誉感的人们准备的」和「他们经常……」两个结构用逗号直接连缀，主语跳脱。",
+      "fix": "献给有荣誉感的人——他们随时都愿意出手相助。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Outfit_Description_RaiderArmor_Heavy",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「为了管理其他疯子的疯子准备的。」缺谓语、不成句：读的时候要先按状语理解「为了管理其他疯子」，再回读成「的疯子准备的」，是典型的杂糅残句。",
+      "fix": "给那个管着其他疯子的疯子准备的。",
+      "confidence": "high"
+    },
+    {
+      "key": "Outfit_Description_RiotGear_Sturdy",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "the Wastes 又译成「废墟」（本表通篇为「废土」，「废墟」另用于 ruins）；「把废墟带给你的任何东西都处理得……有型」中「处理得有型」搭配不通，「有型」形容的是人或穿着，不能作「处理」的补语。",
+      "fix": "废土扔过来什么，你都能帅气地接住。",
+      "confidence": "high"
+    }
+  ]
+}

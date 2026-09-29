@@ -1,0 +1,95 @@
+{
+  "chunk": "054",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "英文 Why don't you just get going? 是打发人走（「你们还是赶紧走吧」），译文「为什么不继续呢？」把逐客令译成了鼓励对方再说下去，语义正好反过来。玩家喊完 KA-KAW 后 NPC 的这句「喊得不错啊小子们。为什么不继续呢？」前后也自相矛盾；同批 1B/1D/1E_NPCEnd_2 的 Go on ahead 才是「继续（说）」的意思，两处被混为一谈。",
+      "fix": "呃，是啊。喊得不错，小子们。你们还是赶紧走吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_2D_NPCStart_3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「想着我应该退休了吧，建一个小农场，种点花。」整句没有主语，「想着……吧」是英文 Thinking maybe… 的硬搬，句末的「吧」又把自言自语说成了商量的口气；原文三个短句被一个逗号串成一长句，节奏全丢，读起来像半截话。",
+      "fix": "我想我该退休了。弄个小农场，种点花。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_2E_NPCStart_1",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「新来到“铅笔推进器”的吗？」中「新来到」不是中文说法（应为「新来的」「刚加入的」），「新来到 X 的吗」是英文 be new to 的逐字直搬，读着别扭。",
+      "fix": "你们是谁？刚加入“推铅笔帮”的？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_3A_NPCStart_1",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "「你现在面前站的就是“扳关节者”……」是 You stand before… 的英文语序直搬（状语＋「就是」），中文该说「站在你面前的，就是……」。同一批首领登场白都犯这个毛病：3B_NPCStart_1「你现在面前站的就是“鹰嘴”……」，3D_NPCStart_1「正在和你们说话的人叫“地狱”……」，3E_NPCStart_1「你们跟前站的名叫“尖点”……」，四条全是机翻腔。",
+      "fix": "站在你面前的，就是“碎骨者”的首领“扳关节者”！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_3E_NPCStart_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「你们跟前站的名叫“尖点”，“铅笔推进器”的首领！」里「你们跟前站的」后面直接接「名叫」，缺「那位／这位」一类的中心语，读起来像半句话。另外同一个帮派在 1E_NPCStart_2 里译作「推铅笔帮」，这里（连同 2E 的两处）却叫「铅笔推进器」——「推进器」在中文里是机械装置，拿来做帮派名既不通，也让玩家以为这是两个不同的团伙。建议统一为「推铅笔帮」。",
+      "fix": "站在你们面前的，是“推铅笔帮”的首领“尖点”！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_3A_NPCEnd_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "英文 cause mayhem 是「去大闹一场／放手去搞破坏」的口语命令，译文「现在去致伤致残吧！」用的是法律、医疗语体的书面词，字面含义也窄（把人弄伤弄残），像在念条文，与首领打发手下出去闹事的语气不搭。同一句在 3B/3C/3D/3E_NPCEnd_1 重复出现，需一并改。",
+      "fix": "很好。现在去大闹一场吧！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_1D_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「我们射击敌人，然后让他们着火。」两句都是英文语序与搭配的硬搬：中文口语说「开枪打人」而不是「射击敌人」；set them on fire 也不是「让他们着火」，而是「把他们点着／烧起来」；「然后」是 then 的逐字直译，整句读着像使用说明。同类问题见 1D_Team_2「你准备射击然后燃烧鲜花吗？」、RaiderLine_1D「射击然后燃烧！」。",
+      "fix": "我们是“火焰飞弹”。我们先开枪打人，再把对方点着。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_1B_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "自我介绍用「我们被称之为“尖叫猎鹰”」——「被」加「称之为」双重被动，中文里自己报帮名直接说「我们叫……」即可。后一句「就是那种又大又吓人的鸟知道吗？」缺逗号，两个分句黏成一串，读起来喘不上气。",
+      "fix": "我们叫“尖叫猎鹰”，就是那种又大又吓人的鸟，明白吗？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_RaiderLine_1A",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "这是战斗中的吼话，译文却是「我们之所以被称作“碎骨者”是有原因的！」——「之所以……是有原因的」是书面说明句式，再加上「被称作」的被动直译，完全不是战场上喊出来的话，人设与前三句 RaiderLine 的短促吼叫也对不上。",
+      "fix": "我们叫“碎骨者”可不是白叫的！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「那是我们想听的」是 That's what we like to hear 的逐字直译（英文的「那是……」结构硬套中文），中文口语该说「这话我们爱听」；「请继续」用敬语「请」，与掠夺者粗声粗气的口吻也不搭（1E_NPCEnd_2 是同一句）。",
+      "fix": "这话我们爱听。继续说。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "英文 wake-up call 在这里是威胁语（「该让你清醒清醒了」），译文「我想你需要叫醒服务……」把习语按字面译出；中文的「叫醒服务」只让人想到酒店前台，威胁感全无，只剩滑稽，和同角色下一句的敌意也接不上。",
+      "fix": "哦，是吗？我看你需要好好清醒一下……",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line3	I sent everyone on hand to investigate. But I am the only Knight here, so...	我把手头所有人都派下去查了。但我是这里唯一的骑士，所以……
+QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line4	No one came back.	没人回来。
+QuestLoc_INS_QL2_Railroaded_3_Room1_Question_Line1	This must be the supply room the Knight mentioned.	这肯定是那位骑士提到的补给室了。
+QuestLoc_INS_QL2_Railroaded_3_Room1_Question_Line2	Let's see how much we can carry!	看看我们能搬走多少！
+QuestLoc_INS_QL2_Railroaded_3_Room3_Question_Line1	Protect the infiltration team.	保护渗透小队。
+QuestLoc_INS_QL2_Railroaded_3_Room3_Question_Line1_Choice0	Synths. The Knight was right!	合成人。骑士说对了！
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1	Reinforcements? Wait, you're not Brotherhood.	援军？等等，你们不是兄弟会的。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Answer0	Sharp one.	真机灵。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Answer1	More fodder, then.	那就只是更多的炮灰罢了。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Answer2	Here to meddle in the Institute's affairs one last time.	这是你们最后一次干涉学院的事了。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Choice0	Neither are you.	你们也不是。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Choice1	Your Knight sent us.	你们的骑士派我们来的。
+QuestLoc_INS_QL2_Railroaded_3_Room4_Question_Line1_Choice2	We're Vault Dwellers.	我们是避难所居民。
+QuestLoc_INS_QL2_Railroaded_3_Room5_Question_Line1	Our extraction is unsuccessful, the enemy is here.	我们撤离失败，敌人来了。
+QuestLoc_INS_QL2_Railroaded_3_Room5_Question_Line1_Choice0	Saboteurs! Must've come through from the same holes the Mole rats came from…	破坏者！准是从鼹鼠进来的那些洞钻进来的……
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line1	This is the generator room. Can we fix it?	这是发电机室。我们能修好吗？
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line2	<Tinkering with the engine>	<摆弄发动机>
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line3	Hmm, I see. They were thorough.	嗯，我明白了。他们破坏得非常彻底。
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line4	We can restart the generator, but the array will never work again.	我们能重启发电机，但阵列再也无法运作了。
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line5	At least the Brotherhood get to keep their base.	至少兄弟会能保住基地。
+QuestLoc_INS_QL2_Railroaded_3_Room6_Question_Line6	And like any good engineering job, we get to keep the leftover bits.	而且跟任何一项好的工程活一样，剩下的零件归我们。
+QuestLoc_INS_QL2_Railroaded_4_CombatInit1	Eradication incomplete. Further correction required.	清除不彻底。需要进一步修正。
+QuestLoc_INS_QL2_Railroaded_4_CombatInit3	Additional hostiles detected. Total termination authorized.	检测到更多敌对者。授权全面清除。
+QuestLoc_INS_QL2_Railroaded_4_QuestLongDesc	Things are getting worse for the Railroad. Relentless Institute attacks have cornered them in a building on the outskirts of Boston. They need help.	铁路的日子越来越难过了。学院的穷追不舍，把他们逼到波士顿郊区一栋建筑里。他们需要帮助。
+QuestLoc_INS_QL2_Railroaded_4_QuestName	Runaway Train	失控的火车
+QuestLoc_INS_QL2_Railroaded_4_QuestObjective1	Find survivors	寻找幸存者
+QuestLoc_INS_QL2_Railroaded_4_QuestShortDesc	The Railroad has been cornered by the Institute. We have to help them.	铁路被学院逼入绝境。我们必须去帮他们。
+QuestLoc_INS_QL2_Railroaded_4_Room0_Question_Line1	You are too late, Vault Dweller. Your friend Wyatt is dead. The Railroad is finished.	你来得太迟了，避难所居民。你的朋友怀亚特已经死了。铁路彻底完蛋了。
+QuestLoc_INS_QL2_Railroaded_4_Room0_Question_Line1_Choice0	The Railroad is an idea. Ideas don't die. You, on the other hand...	铁路是一种理念。理念不会死。而你，则是另一回事……
+QuestLoc_INS_QL2_Railroaded_4_Room2_Question_Line1	There is a symbol drawn behind that painting. A hidden cache is nearby.	那幅画后面画着一个符号。附近有处藏匿点。
+QuestLoc_INS_QL2_Railroaded_4_Room2_Question_Line2	Let's loot it.	搜刮一下吧。
+QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1	Ah! It's you! Poetic, isn't it? You and Wyatt, erased on the same day.	啊！是你！多讽刺，对吧？你和怀亚特，同一天被抹去。
+QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1_Answer0	That's X2-SQUARE? Care to try again?	是X2-Square才对。要不要再试试？
+QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1_Choice0	Didn't we kill you already? What was it? “X2-foureyes?”	我们不是干掉过你吗？叫啥来着？“X2四眼”？
+QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line1	We cleared the area, and there's no sign of Wyatt.	我们清空了这片区域，没有怀亚特的踪迹。
+QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line2	And here we are at a dead end... or is it? What does this terminal do?	我们走到了死胡同……等等，真的是吗？这台终端机是干什么的？
+QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line3	<Enter Friendship Code>	<输入友谊代码>
+QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line4	A “Friendship Code”? Could the code Wyatt gave us work here?	一个“友谊代码”？怀亚特给我们的代码能在这儿用吗？
+QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line5	Bingo. A hidden door.	成了。一扇暗门。
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line1	Are you the Vault Dweller Wyatt spoke so highly of?	你就是怀亚特赞不绝口的那个避难所居民？
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line1_Answer0	That's what Wyatt would want. May I come with you while I plan my next move?	那是怀亚特的心愿。我在计划下一步的时候，能跟你们一起走吗？
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line1_Answer1	Wyatt said I had a will of steel, but I'm no leader. Maybe you know one? Until then, can I hide with you?	怀亚特说我意志如钢，但我不是当领袖的料。也许你知道谁行？在那之前，我能跟你们躲一阵吗？
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line1_Choice0	If you believe in the Railroad, you can keep the dream alive.	只要你相信铁路，就能让这个梦想延续下去。
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line1_Choice1	Rebuild the movement. More secretive. More ruthless.	重建这个运动。更隐蔽。更冷酷。
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line2	Wyatt... Poor Wyatt... They turned him into goo.	怀亚特……可怜的怀亚特……他们把他化成了一滩浆糊。
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line3	It's all over. Our dream. I'm all that's left.	一切都结束了。我们的梦想。就剩我了。
+QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line4	What am I supposed to do?	我该怎么办？
+QuestLoc_INS_QL2_Railroaded_QuestLineName	Railroaded	被迫上路
+QuestLoc_INS_QL3_Betrayal_1_CombatInit2	You think these things are part of the Brotherhood?	你们觉得这些东西是兄弟会的？
+QuestLoc_INS_QL3_Betrayal_1_QuestLongDesc	An Elder from the Brotherhood of Steel has proposed a meeting to discuss battle plans against the Institute. Let's see what they've got to offer.	钢铁兄弟会的一位长老提出要会面，商讨对抗学院的作战计划。看看他们能提供什么。
+QuestLoc_INS_QL3_Betrayal_1_QuestName	A Steel Fist in a Velvet Glove	丝绒手套里的铁拳
+QuestLoc_INS_QL3_Betrayal_1_QuestObjective1	Meet with the Brotherhood Elder	与兄弟会长老会面
+QuestLoc_INS_QL3_Betrayal_1_QuestShortDesc	Attend a war meeting with the Brotherhood of Steel.	出席与钢铁兄弟会的作战会议。
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1	Ah, Vault folk. Hello! I'm Squire Daniels.	啊，避难所的朋友。你们好！我是侍从丹尼尔斯。
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1_Answer0	Well, we have to be sure there are no Synth spies. You understand.	呃，我们得确保没有合成人间谍。你明白的。
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1_Answer1	No, no, I need to stay here. To stop anyone that might come in to disrupt our talks.	不不，我得留在这儿，拦住任何可能进来搅局的人。
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1_Choice0	Why are we meeting in this cave?	我们为什么在这洞里开会？
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line1_Choice1	Are you coming with me?	你跟我一起来吗？
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line2	The Elder wants to meet with you. He's underground a ways.	长老想见你。往地下再走一段就是。
+QuestLoc_INS_QL3_Betrayal_1_Room0_Question_Line3	Hope you don't get lost!	希望你们别迷路！
+QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line1	Aaah! I can't take it anymore!	啊！我再也受不了了！
+QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line1_Answer0	Right. You keep going, then. I'm outta here.	行吧。那你继续吧。我撤了。
+QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line1_Choice0	Sure. They were in our way to get to your boss.	当然。它们挡了我们见你老大的路。
+QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line2	The scorpions… they're everywhere! I barely escaped!	那些蝎子……到处都是！我差点没逃出来！
+QuestLoc_INS_QL3_Betrayal_1_Room3_Question_Line3	Wait, you… you beat up the Scorpions?	等等，你们……你们把那些蝎子都干趴下了？
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line1	Hey, I remember you. You're the maybe-Synths from that Ghoul-infested building.	嘿，我记得你们。你们就是从那座满是尸鬼的大楼里出来的那伙“疑似合成人”吧。
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line1_Answer0	Oh, plenty. Not that I'd share with you…	哦，多着呢。不过我可不会分给你……
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line1_Answer1	Mostly Radroach steak. Want a taste? I might believe you're not a Synth if you eat it.	大多是辐射蟑螂排。想来一口吗？你吃掉它，我或许就信你不是合成人。
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line1_Choice0	Find anything interesting?	找到什么有趣的东西了吗？
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line1_Choice1	What do you eat around here?	你们在这儿吃什么？
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line2	I've found a new family. These Radscorpions are DEFINITELY not Synths.	我找到了新家人。这些辐射蝎绝对不可能是合成人。
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line3	I had started thinking, maybe the Institute have replica Ghouls now, prowling the Wasteland…	我开始琢磨，学院现在是不是造出了尸鬼复制品，在废土上游荡……
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line4	So I came here. And for some reason, the Brotherhood is here too. And you.	所以我来了这儿。而不知为何，兄弟会也在这儿。还有你们。
+QuestLoc_INS_QL3_Betrayal_1_Room5_Question_Line5	Never any peace and quiet…	从来就没个清静……
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1	Hsssskkk!	嘶嘶嘶！
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Answer0	Rrrsssshaaaak!	嘶嘶嘶啊！
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Answer1	Rrrsssshaaaak!	嘶嘶嘶啊！
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Answer2	Shhhhhkrrrsk…	嘶……嘶嘶咔……
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Choice0	Hey, uh, are you the Brotherhood Elder?	嘿，呃，你就是兄弟会长老吗？
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Choice1	I'm starting to think we may have been tricked.	我开始觉得我们可能被骗了。
+QuestLoc_INS_QL3_Betrayal_1_Room6_Question_Line1_Choice2	Down, girl. Stay. Good girl.	趴下，姑娘。待着。好姑娘。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1	You! I can barely believe you're still alive.	你们！真不敢相信你们还活着。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Answer0	Let's see about that. Troops: open fire!	那我们来试试看。士兵们：开火！
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Answer1	That's what I thought. Troops: open fire!	果然如此。士兵们：开火！
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Answer2	What do you know of honor? You cower in your vault while we fight to survive. Troops: open fire!	你懂什么叫荣誉吗？我们在外面拼死求生，你们却缩在避难所里。士兵们：开火！
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Choice0	Weak? If anything, we're stronger from the experience.	虚弱？要说的话，这次经历让我们更强了。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Choice1	Oh, yes, I can barely hold my weapon.	哦，是啊，我连武器都举不稳。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line1_Choice2	I thought the Brotherhood was supposed to be honorable.	我还以为兄弟会是有荣誉感的。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line2	The other Elders and I decided you couldn't be trusted.	我和其他长老一致认为，你们不可信。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line3	Vault-Tec was an evil organization, who profited from the Great War.	避难所科技是个邪恶的组织，靠大战发了财。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line4	And now that you're helping Synths and the Railroads, you're our enemy as much as the Institute.	如今你们帮助合成人和铁路，你们就是我们的敌人，和学院一样。
+QuestLoc_INS_QL3_Betrayal_1_Room7_Question_Line5	You must be strong… but surely weak from fighting.	你们一定很强……但想必已被战斗耗得虚弱。
+QuestLoc_INS_QL3_Betrayal_2_CombatInit2	Protect our Fusion Cores at all costs!	不惜一切代价保护我们的聚变核心！
+QuestLoc_INS_QL3_Betrayal_2_CombatInit4	We're under attack!	我们遭到攻击！
+QuestLoc_INS_QL3_Betrayal_2_CombatInit5	Our betrayal is coming back to haunt us!	我们的背叛终于来报复我们了！
+QuestLoc_INS_QL3_Betrayal_2_QuestLongDesc	The Brotherhood made the mistake of becoming our enemies, so let's raid their storage and steal their Fusion Cores!	兄弟会犯了个错误，成了我们的敌人。那我们去劫掠他们的仓库，偷走他们的聚变核心！
+QuestLoc_INS_QL3_Betrayal_2_QuestName	The Power Room	能源室
+QuestLoc_INS_QL3_Betrayal_2_QuestObjective1	Steal some Fusion Cores	偷走一些聚变核心
+QuestLoc_INS_QL3_Betrayal_2_QuestObjective2	Mess with the Brotherhood's network	破坏兄弟会的网络
+QuestLoc_INS_QL3_Betrayal_2_QuestShortDesc	Steal Fusion Cores from the Brotherhood now that we're enemies.	既然我们和兄弟会成了敌人，去偷他们的聚变核心。
+QuestLoc_INS_QL3_Betrayal_2_Room0_Question_Line1	Okay, we made it. Let's go over the plan.	好，我们到了。来对一下计划。
+QuestLoc_INS_QL3_Betrayal_2_Room0_Question_Line2	We go in, we find some Fusion Cores, we leave.	我们进去，找到聚变核心，然后撤退。
+QuestLoc_INS_QL3_Betrayal_2_Room0_Question_Line3	… And beat up anyone from the Brotherhood who tries to stop us.	……顺便揍扁任何敢拦我们的兄弟会成员。
+QuestLoc_INS_QL3_Betrayal_2_Room0_Question_Line4	And they'll deserve it, because they betrayed our alliance!	他们活该，因为他们背叛了我们的同盟！
+QuestLoc_INS_QL3_Betrayal_2_Room0_Question_Line5	All agreed? Great! Let's go.	都同意？好！出发。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1	Hey! It's you!	嘿！是你！
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Answer0	Oh. I uh… right. That's cool. I was just testing you. Go on in.	哦。我呃……好吧。没事。我只是在考验你。进去吧。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Answer1	D-death doesn't scare me!	死……死亡吓不倒我！
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Answer2	You won't leave? Okay, protocol says I can kill you now.	你不肯走？好吧，按照规定，我现在可以杀了你。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Choice0	What? We totally are. Can't you tell from our clothes?	什么？我们当然是啊。你看我们的衣服还看不出来吗？
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Choice1	You're right, I'm not. I'm Death incarnate.	你说得对，我不是。我是死亡化身。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line1_Choice2	Just pretend you didn't see us. You'll be glad you did.	就当我们没来过。你会庆幸自己这么做的。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line2	Um… who are you?	呃……你们是谁？
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line3	No, don't answer that. You're not allowed to be here.	不，别回答。你们不该在这里。
+QuestLoc_INS_QL3_Betrayal_2_Room1_Question_Line4	I'm pretty sure you're not Brotherhood. So go away.	我很确定你们不是兄弟会的人。所以请走开。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1	Hello! You are… Vault Dwellers, I think. I can tell, of course, just by looking.	你们好！你们是……避难所居民，我想。这我当然一眼就能看出来。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Answer0	It's over?! I never get informed about these things… Look, don't hurt me, I'm just a scribe!	已经结束了？！这些事从来不通知我……听着，别伤害我，我只是个书记官！
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Answer1	Oh. Well… here, take this for starters. Sorry about the mixup.	哦。那……这些先拿去。误会了真是抱歉。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Answer2	Oh. OH NO! Where's my gun?!	哦。哦，不！我的枪呢？！
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Choice0	Our alliance is over. We're taking the rest of them.	我们的同盟结束了。剩下的我们也都要拿走。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Choice1	Enough? We never got them.	够？我们压根没拿到过。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line1_Choice2	You gave us a knife in our back. Now we're returning it.	你们在我们背后捅了一刀。现在该我们还回去了。
+QuestLoc_INS_QL3_Betrayal_2_Room3_Question_Line2	I don't know what you want from us here. Didn't we already give you enough Fusion Cores?	我不知道你们想要什么。我们不是给过你们足够的聚变核心了吗？
+QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1	You bastards... You'll pay for this!	你们这群混蛋……你们会为此付出代价！
+QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Answer0	I don't agree with the methods we used… but I do believe in their reasons. Die, Synth-lover!	我不赞成我们用的手段……但我相信它们的理由。去死吧，合成人爱好者！
+QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Answer1	Can't you take this seriously?! You are a heathen and a cretin! Die!	你就不能认真点吗？！你是个异教徒和白痴！去死！
+QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Choice0	You're the ones paying for your treachery.	要为背叛付出代价的是你们。
+QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Choice1	Oh, sure. Where's the bill?	哦，当然。账单在哪儿？
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1	Ooh, a Brotherhood terminal. Let's see…	噢，一台兄弟会终端机。看看……
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Answer0	They're going to be so mad…	他们会气疯的……
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Answer1	Just think of all the paperwork they'll have to do!	想想他们得填多少文书吧！
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Answer2	That'll keep them busy.	那够他们忙一阵了。
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Choice0	<Brag in a message to all Brotherhood elite>	<给所有兄弟会精英发消息炫耀>
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Choice1	<Erase personnel data>	<删除人员数据>
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line1_Choice2	<Program their turrets to shoot anything on sight>	<编程让他们的炮塔见人就打>
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line2	<Shotgun>, no… <Because>, no… <Retrace>, no… <Betrays>… yes!	<霰弹枪>，不……<因为>，不……<追寻>，不……<背叛>……对了！
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line3	Really? Even their password is treacherous.	真的假的？连他们的密码都透着背叛。
+QuestLoc_INS_QL3_Betrayal_2_Room7_Question_Line4	Well, what should we do?	好吧，我们该怎么办？
+QuestLoc_INS_QL3_Betrayal_3_CombatInit1	It's the Vaulties! What are they doing here? Get them!	是那些避难所的人！他们来这干什么？抓住他们！
+QuestLoc_INS_QL3_Betrayal_3_CombatInit3	Take them out!	干掉他们！
+QuestLoc_INS_QL3_Betrayal_3_CombatInit6	A Knighthood for anyone that takes their heads!	谁砍下他们的脑袋，谁就获封骑士！
+QuestLoc_INS_QL3_Betrayal_3_QuestLongDesc	We've found a Brotherhood of Steel prison for Synths and other “abominations”, where they do experiments on the inmates. Let's break them out!	我们发现一座钢铁兄弟会的监狱，关押着合成人和其他“畸变体”，他们还在囚犯身上做实验。我们去把囚犯救出来！
+QuestLoc_INS_QL3_Betrayal_3_QuestName	Abomination	畸变体
+QuestLoc_INS_QL3_Betrayal_3_QuestObjective1	Rescue Synths	拯救合成人
+QuestLoc_INS_QL3_Betrayal_3_QuestObjective2	Rescue some other prisoners	拯救其他囚犯
+QuestLoc_INS_QL3_Betrayal_3_QuestObjective3	Confront the Warden	与典狱长对质
+QuestLoc_INS_QL3_Betrayal_3_QuestShortDesc	Break some “abominations” out of a Brotherhood prison.	从兄弟会监狱中救出一些“畸变体”。
+QuestLoc_INS_QL3_Betrayal_3_Room0_Question_Line1	Here we are at the Brotherhood prison.	到兄弟会监狱了。
+QuestLoc_INS_QL3_Betrayal_3_Room0_Question_Line2	I hear they're doing horrible experiments on Synths.	听说他们在合成人身上做可怕实验。
+QuestLoc_INS_QL3_Betrayal_3_Room0_Question_Line3	And their other prisoners too, maybe? I guess we'll find out.	也许还有他们其他的囚犯？大概走着瞧吧。
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1	Vault Dwellers! Fascinating… Were you all born in the Vault?	避难所居民！真有意思……你们都在避难所里出生的吗？
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Answer0	Oh, right. Here we go…	哦，对。又来了……
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Answer1	They told me to! I… I shouldn't have listened. I'm sorry! Please take this!	是他们让我这么干的！我……我真不该听他们的。对不起！请收下这个！
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Answer2	So this is what Vault Dwellers are like. Here, it's all I have!	原来避难所居民是这种人啊。给，这是我的全部家当了！
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Choice0	It's ok, you can go ahead and try.	没事，你可以尽管试试。
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Choice1	I'm a scientist, too. I'm disgusted by your experiments.	我也是科学家。我对你的实验感到恶心。
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line1_Choice2	Give me some caps and you can live.	给我些瓶盖，你就能活命。
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line2	Are you afraid of your DNA becoming mutated out in the Wasteland?	你们害怕自己的DNA在废土上发生突变吗？
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line3	Augh, I have too many questions to ask you.	啊，我有太多问题想问你们了。
+QuestLoc_INS_QL3_Betrayal_3_Room2_Question_Line4	And now we're enemies. I should be trying to kill you. <Sigh>	而现在我们成了敌人。我本该试着杀掉你们。<叹气>
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1	So, there really is a break-in.	所以，真的有人闯进来了。
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Answer0	Nope, not at all. And soon, you won't be either!	不，一点也不。而且很快，你也活不成了！
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Answer1	Now you're talking my language!	这下你说到点子上了！
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Answer2	No way. I have memories from childhood. Just like the Synths… AHH I DON'T KNOW!	没门。我有童年记忆。就像那些合成人一样……啊！我不知道！
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Choice0	You really think a Synth isn't alive?	你真觉得合成人不是活的？
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Choice1	I don't care about Synths. I'm here to mess you up.	我不在乎合成人。我是来揍扁你的。
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line1_Choice2	What if YOU are a Synth?	万一你自己就是合成人呢？
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line2	What are you after? Our prisoners? What do you want this trash for?	你们想要什么？我们的囚犯？你们要这堆垃圾干什么？
+QuestLoc_INS_QL3_Betrayal_3_Room4_Question_Line3	They're just machines.	它们只是机器。
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1	Who are you? Did you come to save us?	你们是谁？是来救我们的吗？
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Answer0	Well, thanks a bunch!	太好了，多谢！
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Answer1	So, you mean… they might be right? I have to go think about this!	所以，你是说……他们可能说得对？我得好好想想这事！
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Answer2	Not really. Unless you want this sweaty old jumpsuit!	还真没什么能拿来感谢的。除非你想要这件汗津津的旧连体服！
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Choice0	I don't care who you are. Just go.	我不在乎你是谁。走吧。
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Choice1	Synths are programmed to think they're human.	合成人的程序设定就是自以为是人类。
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Choice2	You're saved. Got anything to thank us with?	你们得救了。有什么要感谢我们的吗？
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line2	They keep calling me a Synth… but I have no idea what they're talking about!	他们一直叫我合成人……可我完全不知道他们在说什么！
+QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line3	I'm just a guy from Diamond City.	我只是个钻石城的普通人。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1	You again? What do you want now?	又是你？你这次又想干嘛？
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer0	Don't have to tell me twice!	不用你说第二遍！

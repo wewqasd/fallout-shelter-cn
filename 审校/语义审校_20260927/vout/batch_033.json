@@ -1,0 +1,110 @@
+{
+  "batch": 33,
+  "items": [
+    {
+      "key": "QuestLoc_ShamrocktheCasbah_QuestLongDescription",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "could prove 是「可能成为」，ZH「现在证明可以是」把推测说成既成事实，且「证明可以是」不成话。",
+      "final_fix": "我们收到情报，317号避难所里有战前的三叶草样本。这种耐寒又营养丰富的野草据信已经灭绝了，却可能成为我们重要的口粮。我们得把这些样本带回来——如果还有剩下的话！"
+    },
+    {
+      "key": "QuestLoc_ShotgunWedding_QuestLongDescription",
+      "verdict": "reject",
+      "severity": "S3",
+      "reason": "her unwanted groom＝她根本不想要的未婚夫，对应准确；双「她」是所属格加定语嵌套，指代仍是新娘。",
+      "final_fix": ""
+    },
+    {
+      "key": "QuestLoc_SignalFailure_RaiderLine_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "No one's looting this Vault but us 是排他威胁（ES/DE/RU 一致），ZH「还没有人搜刮过」改成对过去事实的陈述。",
+      "final_fix": "嘿！是我们先到的！除了我们，谁也别想碰这个避难所里的东西！"
+    },
+    {
+      "key": "QuestLoc_SnakeWater_Conversation_1_NPCStart_3",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "Spare yourself my wrath 指发火的是说话人，ZH「别生气」把怒火移到玩家身上，威胁语气荡然无存。",
+      "final_fix": "但没必要闹到那一步……免得领受我的怒火，我们可以平分利润！"
+    },
+    {
+      "key": "QuestLoc_SnakeWater_QuestObjective_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "operation 指他的营生（ES negocio、DE Geschäft），ZH「操作」在中文里无法被「关闭」，目标读不通。",
+      "final_fix": "捣毁水之术士的生意。"
+    },
+    {
+      "key": "QuestLoc_SnakeWater_QuestShortDescription",
+      "verdict": "confirm_fix_better",
+      "severity": "S2",
+      "reason": "问题同任务目标；但同一英文在两处 UI 用「买卖」另译不统一，且「捣毁……买卖」搭配生硬。",
+      "final_fix": "捣毁水之术士的生意。"
+    },
+    {
+      "key": "QuestLoc_SpearFishing_Conversation_1_NPCEnd_1",
+      "verdict": "confirm",
+      "severity": "S3",
+      "reason": "left an hour ago 是「一小时前走了」（ES hace una hora），ZH「走了一个小时了」改说持续时长，还重复「走了」。",
+      "final_fix": "我不知道。我们派了最好的追踪者影狼，顺着它们的地道去找源头。他往北去了，一个小时前就出发了。"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingA_Conversation_1_NPCStart_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "in their natural habitat 是地点状语（ES/DE/RU 同），ZH「找到了他们的家」凭空加了个动作，嘲讽比喻丢失。",
+      "final_fix": "看啊，傻子待在他们的天然栖息地里！"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingA_Conversation_1_NPCStart_3",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "We'll be＝「将会成为」，ZH「我们猜是」凭空加猜测；concede＝认输，ZH「退下吧」与后句解释「放弃吧」对不上。",
+      "final_fix": "我们将会成为洞穴探险之王，所以你们最好现在就认输。也就是说，你们“放弃吧”。"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingA_Conversation_1_Team_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "Stalag-*this* 是照石笋/钟乳石梗回敬，ZH「要不要尝试下这个的滋味」另起话题；That means 应为「也就是说」而非「我想说」。",
+      "final_fix": "石笋——就这个，书呆子！意思就是，“咱们打一架”。"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingB_Conversation_1_NPCStart_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "without a scratch＝毫发无伤（DE/RU 同），ZH「不动声色」指不露情绪，还拆掉下句 scratch（挠）的笑点。",
+      "final_fix": "迅捷又安静，我们会毫发无伤地成为洞穴探险之王。"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingD_Conversation_1_NPCEnd_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "watch your back＝护着你们（ES/RU 同），ZH「关注着你的」变成盯梢，并把复数你们收成单数你。",
+      "final_fix": "这场胜利本来就该是你们的，在你们夺冠之前，我们会一路替你们保驾护航。"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingD_Conversation_1_NPCEnd_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "can't just talk this over 是请求式反问，ZH「不需要讨论」把 can't 读成 need not，肯否与语气全偏。",
+      "final_fix": "你确定我们就不能好好谈谈这件事吗？"
+    },
+    {
+      "key": "QuestLoc_SpelunKingTrainingG_Conversation_1_Team_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "No one insults us and lives＝「谁敢侮辱我们就别想活」，ZH「没有人侮辱了我们还能活着的」结构杂糅不成句。",
+      "final_fix": "谁敢侮辱我们，就别想活着！"
+    },
+    {
+      "key": "QuestLoc_SpringingtheTrap_Conversation_1_NPCEnd_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "Roaming the Wasteland 是答「瘟疫在哪」的省略句，ZH 缺主语；down here 被删，动作对象还换成地点。",
+      "final_fix": "很不巧，他正在废土上到处跑。眼下你可以帮我们在这下面找动力装甲。"
+    }
+  ]
+}

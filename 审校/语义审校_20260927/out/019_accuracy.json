@@ -1,0 +1,119 @@
+{
+  "chunk": "019",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "No known Glowing One is as old 意为“已知的发光种里没有哪一个有他这么老”，是用来解释“饥荒”为何是古老又贪食的发光种。译文把比较级 as old 丢掉，写成“没有哪只已知的发光种是老的”，等于说发光种都不老，既与上一句“古老的发光种”自相矛盾，信息也正好反了。",
+      "fix": "也许“饥饿”是上了年纪才有的？已知的发光种里，没有哪只有他这么老。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_3_NPCEnd_2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "for one 是“举个例子”，被当成数量词译成了“一只手”，而且正好接在“赤手空拳”后面，“曾赤手空拳杀死了六只死爪，一只手”读起来是“赤手空拳……一只手”，整句不成立。",
+      "fix": "比方说，传闻他曾赤手空拳杀死六只死爪，但这只是个传说！真相早就无从查证了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "holed up 是“躲藏、窝在某处”，不是“被关在”。译文“他现在被关在了大无敌超市里”让玩家以为号角男孩是被囚禁的，与原文“他躲在大无敌超市里”这一事实不符。",
+      "fix": "到头来，新波士顿号角报是某种骗局，而我们唯一的线索就是号角男孩——他正躲在大无敌超市里。去找到他，从他嘴里撬点情报出来吧！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_Team_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "feral 在《辐射》里指“狂化”（本批第 75 行 The non-feral ones 就译作“那些不狂化的尸鬼”），问的是“饥荒”是不是狂化尸鬼；译成“很凶残吗”变成问凶暴程度，与紧接着“由那些不狂化的尸鬼为整个群落做决定”的回答对不上。",
+      "fix": "“饥荒”是狂化尸鬼吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "to children and veterans alike 是“在小孩和老兵眼里都一样（都是传奇）”，alike 表并列。译文把 alike 当成比喻，写成“足以成为儿童眼里的传奇，就像那些退伍军人一样”，等于说只有小孩这么看他、老兵只是被拿来打比方，并列关系与指代对象都被改掉。",
+      "fix": "他活了这么久，在小孩和老兵眼里都已经是个传奇人物。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_4_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "handler 是情报工作的“上线/联络人”，译成“监督者”与同批 Overseer 的固定译名撞车（“为了监督者！”“850号避难所的监督者”），玩家会误以为他管着避难所；另外 Yes? 是“有事吗？”，译成“是吗？”接不住玩家刚提出的问题。",
+      "fix": "有事吗？我是所有卧底记者的联络人。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_4_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "上一句他说自己在摆弄 puzzle（拼图），“I've almost got a picture”是“图快拼好了”，译文“差点就搞到一张可爱小猫玩毛线的照片了”把拼图说成弄到一张照片，场景断裂（同段 NPCStart_3 的 puzzle 也译成了“解这个谜”，建议一并改为“拼图”）。",
+      "fix": "看到了吗？这幅小猫玩毛线的拼图我马上就拼好了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Blackout_Conversation_1_Team_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "We were partying with Raiders? 问的是过去真发生过的事（玩家断片后难以置信），译成“我们要和掠夺者一起开派对？”会被读成将来的打算，跟任务“昨晚的派对”语境冲突；同一句里 we 还译成了单数“我”。",
+      "fix": "我们跟掠夺者一起开过派对？我们可……不记得……有这回事！这派对是在哪儿办的？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "原文是“我用（多名）卧底记者寄来的素材写‘战争’和‘战争崇拜者’的报道”，译文“那个卧底记者寄给我的”把复数 reporters 变成单数，寄来的素材被说成故事本身，还成了悬空定语，等于说是有个记者把稿子寄给他。",
+      "fix": "你好，关于“战争”和“战争崇拜者”的报道，我都是根据卧底记者们寄来的材料写的。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_BountyBash_RaiderLine_1",
+      "severity": "S2",
+      "type": "乱译",
+      "problem": "crash Bash's bash 是“搅了暴击的场子”，译成“你击溃了“暴击”的暴击”读不通（中文里“暴击”还是游戏术语，叠在一起更费解）；Bash gonna smash 是这号人物用第三人称自称的口癖，改成“他会撕碎你”后主语被换掉、人物特色也丢了。",
+      "fix": "你！你搅了暴击的场子！暴击要把你砸扁！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_Blackout_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "mothership 是“母舰”（《辐射3》资料片通译“母舰泽塔”），“航母”专指航空母舰，属专有说法生译。",
+      "fix": "在那条街上我们的仓库里。你一直说自己是来自泽塔母舰的外星人。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_Blackout_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "Corvega Auto Plant 的 Auto 是“汽车”（可伟佳是《辐射》里的汽车品牌，本工程别处把 Corvega Factory 译作“可伟佳装配厂”），译成“可伟佳自动化工厂”是把 Auto 误读成 automatic，凭空给场景加了“自动化”这一设定。同任务的 QuestLoc_Blackout_QuestObjective_1 用了同一译名，需一并改。",
+      "fix": "新年第一天……昨夜避难所举行了隆重的派对活动。但是监督者的儿子杰克失踪了。我们必须找到他！现在只知道12点之前他还和我们在一起，但之后发生了什么完全是一片模糊，我们都穿着防辐射服，所以我们应该是去过可伟佳汽车厂……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_3",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "同一句里 Famine 先称“他”又改称“它”，而“它们”刚刚指代过“饥饿部落”，“它们被它的放射性光环迷住了”中的“它”很容易被读成部落自己，指代混乱。",
+      "fix": "“饥饿部落”只是跟在他后面四处游荡，被他身上的放射性光环迷得神魂颠倒。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_BewareofOverdog_Conversation_1_Team_3",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "漏掉 almost：“几乎百分百确定你疯了”的自嘲被抹平成“可以百分百确定”，语气和笑点都没了。",
+      "fix": "我们几乎百分百确定你疯了。",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "chunk": "019",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ArmsRace_Conversation_1_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "就像保证的那样是 as promised 的照搬，中文不这么说（应为说到做到、如约）；一个武器量词错误，武器的量词是件或把，一个武器既别扭又刺眼。",
+      "fix": "嗯，说到做到，我给你们准备了一件武器。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_3",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "This is it 是时候到了、就是现在，译成这下对了变成这样才对、搞好了，与马上要和死亡开打的语境不接；现在与死亡共舞一曲缺该是时候，读起来像半句话。",
+      "fix": "就是现在，大伙。该和“死亡”共舞了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "to children and veterans alike 是孩子和老兵眼里都算传奇，译文断成儿童眼里的传奇，就像那些退伍军人一样，读起来成了那些老兵也是传奇或是他像老兵，把并列对象错解成比较对象。",
+      "fix": "他活了这么久，在孩子和老兵眼里都已经是传奇了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "前句 the hunger comes with age（饥饿感是上年纪才有的）被译成“饥饿”年纪大了，把一种状态说成叫“饥饿”的人上了岁数；后句 as old 的比较对象丢失，译成没有哪只已知的发光种是老的，与前半句自相矛盾，玩家读不通。",
+      "fix": "也许是上了年纪才这么饿？已知的发光种里，没有哪只活得像它这么久。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "我正在写关于“饥饿者”的缺中心语（报道/故事）；我们有多个卧底尸鬼在现场与他们一起把 in the field with them 直搬，句末一起悬空，成分残缺。",
+      "fix": "你好！我在写关于“饥饿者”的报道。我们有好几个卧底尸鬼一直跟着他们在外面跑。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_3",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "同一个对象（饥荒）在同一句里先称他、后称它，中间又刚出现过指部落的它们，最后那个它到底指谁有歧义。",
+      "fix": "“饥饿部落”总是跟在他身边，被他身上的放射性光环迷得神魂颠倒。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_4",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "同一句里指同一群尸鬼先写他们、再写它们，人称前后不统一，它们还容易被读成指动物；不知何故与也使得堆在一句里也别扭。",
+      "fix": "它能治好他们，但不知怎么回事，也会让他们比平时饿得多。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_2_Team_2",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "玩家对话选项突然写成文言腔（为何如此饥饿），与同组选项“饥荒”很凶残吗、全部是由尸鬼组成的吗的口语风格不符，饥饿作形容词也很书面。",
+      "fix": "“饥荒”为什么这么饿？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_3_NPCEnd_2",
+      "severity": "S1",
+      "type": "乱译",
+      "problem": "for one（举个例子、其中一条）被译成一只手，紧接在赤手空拳之后，句子直接读不通，玩家会理解成一只手打死了六只死爪。",
+      "fix": "比如说，传闻他赤手空拳就杀死了六只死爪，可那只是传说！真相早就无从查证了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_3_NPCEnd_3",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "at least 按英文语序塞在逗号后面悬空，读起来像至少那些不加入的就会被攻击，把原文至少人人都能加入的意思弄反了。",
+      "fix": "征服。至少人人都能加入“战争崇拜者”，只不过不加入的人就会挨打。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "后半句那个卧底记者寄给我的是结构杂糅的悬空成分，既没有我用来写这层关系，也没有的中心语，读不通；原文 reporters 是复数，译文却写成那个。",
+      "fix": "你好，我根据卧底记者们寄来的材料写“战争”和“战争崇拜者”的报道。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BeatReporting_Conversation_4_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "上一句自述在解这个谜（拼图），这里 I have almost got a picture 指拼图快拼完了，译成我差点就搞到一张可爱小猫玩毛线的照片了，变成差点弄到一张照片且没弄到，意思和事态都错，与上一句对不上。",
+      "fix": "看到了吗？我这幅拼图快拼好了，图案是几只可爱的小猫在玩毛线。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "What is that, Overseer 是你说什么、什么，是对监督者出声的反应，译成监督者你怎么了变成你哪里不舒服、出什么事了，含义错；你不在我应该也行的缺的时候，成分残缺。",
+      "fix": "他显然是最合适的人选。什么？监督者？你想和他们一起去？你不在的时候，我想我还能把事情撑起来……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Blackout_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "回答派对在哪儿，按英文语序写成在那条街上我们的仓库里，定语顺序错乱，中文应说在街那头我们的仓库里；mothership Zeta 的母舰译成泽塔航母，航母在本项目其它条目里是 aircraft carrier。",
+      "fix": "就在街那头我们的仓库里。你一直说自己是来自泽塔母舰的外星人。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_Blackout_Conversation_1_Team_1",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "同一句话里指同一队人，前句用我们、后句突然换成我（我可……不记得）；且我们要和掠夺者一起开派对用要把已经发生过的事写成将来或打算，与原文回想的语气不符。",
+      "fix": "我们跟掠夺者一起开过派对？我们……不记得……有这回事。派对是在哪儿办的？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Blackout_QuestLongDescription",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "避难所举行了隆重的派对活动是新闻通稿腔，与原文 threw one heck of a party 的随口感叹不合；但之后发生了什么完全是一片模糊搭配不当，模糊的是记忆不是事情；整句逗号连缀过长，从12点到防辐射服一路挂下来，末句只好用所以硬接。",
+      "fix": "新年第一天……昨晚避难所办了场不得了的派对。可监督者的儿子杰克不见了，我们得找到他！我们只知道午夜12点敲响之前他还和我们在一起，那之后的事就完全记不清了。而且我们全都穿着防辐射服，看来我们肯定去过可伟佳汽车厂……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_Blackout_QuestObjective_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "Corvega Auto Plant 的 Auto 指汽车，译成自动化工厂是误译，且与项目其它条目统一使用的可伟佳装配厂/可伟佳工厂不一致。",
+      "fix": "在可伟佳汽车厂里寻找杰克。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_Blackout_QuestShortDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "英文同位语的两个逗号被照搬成监督者的儿子，杰克，，中文同位语不加逗号，读起来一顿一顿；消失了也不如失踪了准确，同一任务的长描述用的正是失踪。",
+      "fix": "监督者的儿子杰克在一场疯狂的新年派对后失踪了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "holed up 是躲着、藏身，译成他现在被关在了大无敌超市里，变成被人关起来的人质，给玩家的信息是错的；询问点信息也没有译出 extract some information 撬出消息的意思。",
+      "fix": "原来《新波士顿号角报》是个骗局，我们唯一的线索只有躲在大无敌超市里的号角男孩。去找到他，从他嘴里撬点消息出来！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_BountyBash_RaiderLine_1",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "Bash 的 bash 是狂欢、派对，译成“暴击”的暴击后与游戏里的暴击（critical hit）同形，读起来莫名其妙；末句原文是暴击用第三人称自称（Bash gonna smash），译成他会撕碎你，玩家会以为说的是另一个人。",
+      "fix": "你！你搅了“暴击”的派对！“暴击”要砸扁你！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "原文是一般现在时的断言，译文用会是带上将来或猜测语气，与你们见过的经验式最高级冲突；meanest 指最凶最难缠，卑鄙是形容人的道德品质，用来形容辐射蟑螂搭配不当，读着滑稽。",
+      "fix": "呃，“独眼龙”是你们见过的最凶的辐射蟑螂。",
+      "confidence": "medium"
+    }
+  ]
+}

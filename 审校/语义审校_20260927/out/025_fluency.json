@@ -1,0 +1,39 @@
+{
+  "chunk": "025",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_1_QuestLongDesc",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "两处问题叠在一句里：一是「我们截获了一段密码求援」，coded plea 指加密的求救信息，「密码」是名词不能这样直接修饰「求援」，读起来像「密码（本身）在求援」；二是后句用「他们」指代前文的「一个想脱离英克雷的人」，单复数自相矛盾，玩家会以为叛逃的是一群人（同任务 QuestShortDesc 写的是「一名英克雷叛逃者」）。",
+      "fix": "我们截获了一段加密的求救信息，来自一个想脱离英克雷的人。此人正藏身于一处易于渗透的民用哨站里。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_1_Room2_Question_Line1_Choice2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "Rent's up 的 up 表「期限已到」，意为「房租到期了／该交房租了」（玩家借此冒充房东或催租人上门），译成「房租涨了」变成了租金上浮，含义被换掉，且是玩家选项里说出口的台词，玩家读到的字面意思与英文原意不符。",
+      "fix": "房租到期了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_2_Room2_Question_Line1_Choice2",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "英文是三句：I take thee at thy word. / Call me but love, and I'll be new baptized. / Henceforth I never will be Romeo. 中文只译出后两句，第一句（我信你的话／我听你的）整句丢失，罗密欧接朱丽叶台词的这个应答环节被抹掉，玩家的「台词接龙」少了一拍。",
+      "fix": "我信你的话。只要你肯叫我一声爱人，我便重新受洗；从此不再是罗密欧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_3_Room3_Question_Line1_Choice3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「就像你们正在进行的这样」是 just like the one you're having 的逐词直译，「正在进行的」后面缺了中心语（辩论／这场），成了半截话，机翻腔明显；中文此处习惯说「就像你们现在这样」或「就像你们这场一样」。",
+      "fix": "关键在于健康的辩论，不动用暴力——就像你们现在这样。",
+      "confidence": "medium"
+    }
+  ]
+}

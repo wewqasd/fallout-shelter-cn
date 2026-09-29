@@ -1,0 +1,17 @@
+{"batch":24,"items":[
+{"key":"QuestLoc_HumansLikeUs_QuestLongDescription","verdict":"confirm","severity":"S2","reason":"EN 是 rumors of alien visitors（访客），本任务就是外星访客装人类的喜剧；ZH 添出原文没有的“入侵”，把访客改写成入侵。","final_fix":"有好几份报告说，在离这里不远的废土上有奇怪的光在盘旋。灯光聚集在一个废弃的旧矿井上。我们需要在外星访客的谣言开始传播之前进行调查！"},
+{"key":"QuestLoc_IDontKnowsonThird_QuestLongDescription","verdict":"confirm","severity":"S2","reason":"keep it clean 的宾语 it 是棒球衫，ZH 省掉后“他需要保持干净”把对象落到教练本人；ES lavarla 指球衫。","final_fix":"如果教练手里有棒球衫，也许他需要把球衫保持干净。我们去泡泡多自助洗衣店找找看！"},
+{"key":"QuestLoc_INS_QL1_MajorPlayers_1_Room7_Question_Line1_Answer1","verdict":"confirm","severity":"S2","reason":"上一条选项是 How can I earn your trust?；EN 反问 My trust? 指“我的信任”，ZH“信任你？”反转成 NPC 质疑玩家。","final_fix":"我的信任？你只是想显得自己高人一等。就像那些合成人……就像所有人。走开。"},
+{"key":"QuestLoc_INS_QL1_MajorPlayers_2_Room2_Question_Line1_Answer0","verdict":"confirm","severity":"S2","reason":"They do! 是替代前句谓语（他们确实玷污了研究名声）的省略式；ZH“他们确实！”缺谓语，成分残缺读不通。","final_fix":"你说得对！他们确实如此！现在我火大了。我入伙。来，为了这项事业，收下这个。"},
+{"key":"QuestLoc_INS_QL1_MajorPlayers_3_Room0_Question_Line1_Choice2","verdict":"confirm","severity":"S3","reason":"Got anything to help? 是索要援助（ES“Nos das algo…”）；ZH“有什么能帮上忙的吗”易读成主动帮忙，与后文答案错位。","final_fix":"有什么能帮上忙的东西吗？"},
+{"key":"QuestLoc_INS_QL2_Railroaded_1_Room6_Question_Line1_Answer0","verdict":"confirm","severity":"S3","reason":"We were founded on compassion 是被动句；“我们因恻隐之心而建立”中“我们”像施事又缺宾语，DE/RU 都补出了“我们的组织”。","final_fix":"我们是以恻隐之心创立的。记住这一点。动作要快，赶紧撤，合成人援军快到了。"},
+{"key":"QuestLoc_INS_QL2_Railroaded_1_Room8_Question_Line2","verdict":"confirm_fix_better","severity":"S3","reason":"look me in the eye and do it himself 是一件事，ZH 硬连成“直视我的眼睛亲自动手”要回读；fix 拆成两个“不敢”。","final_fix":"他不敢当着我的面亲自动手，是吧？"},
+{"key":"QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line1_Answer1","verdict":"confirm","severity":"S2","reason":"Didn't help 是过去既成事实（ES“no les sirvió de nada”）；“帮不了……了”成了能力否定且指向将来，警告信息丢失。","final_fix":"我解锁了补给室。就在你下去的路上。不过对之前那批人没什么用。"},
+{"key":"QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Answer0","verdict":"confirm","severity":"S2","reason":"their 指兄弟会一方的人；ZH 用指物的“它们”，按本库惯例（它们=合成人/机器）会被读成合成人，与下句“去死吧，合成人爱好者”自相矛盾。","final_fix":"我不赞成我们用的手段……但我相信他们的理由。去死吧，合成人爱好者！"},
+{"key":"QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Choice1","verdict":"confirm","severity":"S3","reason":"understand 在此省略了对象（听你讲的那套），ZH“我不是来理解的”光杆动词缺宾语，与后半句“我是来揍人的”利落口语节奏不齐。","final_fix":"我不是来搞懂这些的。我是来揍人的。"},
+{"key":"QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line2","verdict":"confirm","severity":"S3","reason":"good 回指上文“来得正好”的那个“好”；ZH 无标记的“说好”会被先读成“谈妥”，与“过头了”搭配不通，FR/IT 均给 good 加引号。","final_fix":"嗯……说“好”可能有点过头了。"},
+{"key":"QuestLoc_INS_QL4_Armistice_3_QuestName","verdict":"confirm","severity":"S2","reason":"Fratboys 是“（大学）联谊会毛头小子”，本任务台词全是开派对装大人的少年；“技术兄弟会”既撞本库钢铁兄弟会专名，又丢笑点。","final_fix":"科技社团小子"},
+{"key":"QuestLoc_INS_QL4_Armistice_4_Room3_Question_Line1_Choice2","verdict":"confirm","severity":"S2","reason":"EN 主语是“学院照我们样子造合成人”这件事，ZH 把整件事塞进定语去修饰“合成人”，要读到句尾才知主语，得读两遍。","final_fix":"学院照着我们的样子造合成人，这让我很不舒服。"},
+{"key":"QuestLoc_InAnotherVault_QuestLongDescription","verdict":"confirm_fix_better","severity":"S2","reason":"EN he 指 Bigsby（人类侦探），ZH 用指物的“它”；“在……避难所”后缺“里”，“899号”游离句尾，且 fix 仍保留“它”。","final_fix":"比格斯比不在199号避难所，但那里的一位居民告诉我，他可能在他们的姐妹避难所——899号避难所里。我应该去那儿看看。"},
+{"key":"QuestLoc_InHotPursuit_QuestObjective_1","verdict":"confirm","severity":"S2","reason":"EN 是 Search Vault 177 for any sign of…；ZH 把“177号避难所关于瓶瓶和盖盖的消息”整块当宾语，成了搜寻一条消息。","final_fix":"在177号避难所里搜寻瓶瓶和盖盖的踪迹。"}
+]}

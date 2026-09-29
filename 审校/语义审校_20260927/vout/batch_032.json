@@ -1,0 +1,110 @@
+{
+ "batch": 32,
+ "items": [
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_2A_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for your vital assistance 是谢你关键相助（ES inestimable ayuda），现译读成物品「关键时候帮你」，答谢义丢失。",
+   "final_fix": "当然！现在说得通了！来，拿着，多谢你帮了大忙！"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_2A_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I think…might be 是当下判断，「我还以为」意为原先以为、现已推翻；Oh well＝也罢，「既然这样」变顺势承接。",
+   "final_fix": "一个有机光电发射器？我觉得这项技术可能太超前了。也罢……"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_2C_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "conversation 应为 conservation（守恒），ES 作 conversión、下句「物质不会被摧毁」亦指守恒；rigorous 宜「严谨」。",
+   "final_fix": "我正在用严谨的烧水实验，研究物质的守恒。"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for your trouble 是习语「酬谢你费心」（ES por las molestias），现译读成「遇到麻烦时可用」，丢酬谢又多译用途。",
+   "final_fix": "有趣的理论！谢谢你。来，拿着，算是对你费心的谢礼。"
+  },
+  {
+   "key": "QuestLoc_SecondStringers_Conversation_1_NPCEnd_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「奖励给＋人＋物」与「送给他一本书」同构，宾语未错位、句意清楚；big, bad boss 本就戏谑（FR grand méchant loup）。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_SecretWeaponTest_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Tell you what 是提议开场「这样吧」（ES Te diré qué vamos a hacer），直译「告诉你。」丢了提议语气，属不地道。",
+   "final_fix": "这样吧。你把它交给我们，我们就饶你一命。"
+  },
+  {
+   "key": "QuestLoc_SecretWeaponTest_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "and lives to tell about it 指灭口（RU 明说不得活），现译「没有活着的人看到你」丢此信息；retrieved 作「检索」不当。",
+   "final_fix": "从掠夺者基地搜出的文件里有一份新武器的设计方案。我们的工程师已经把它造了出来，现在得拉到实地测试一下性能。务必别让任何人看见你，更不能留活口。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "the only ones left 是「仅剩的人」，现译「唯一活着的」把 left 读成 alive，且漏掉复数 you。",
+   "final_fix": "哎，别放弃！你们是仅剩的、还能对抗骑士的人了！"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "上文问 Can Famine make it to the party?，make it 即「赶得上」（ES llegará），译「他会没事的」答非所问。",
+   "final_fix": "哦，他肯定赶得上，而且他会把“所有”的食物都吃光！"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "non-feral 的 feral 指尸鬼「狂化」（本库作「还没狂化」），「不那么野蛮」丢设定；War 未加引号易读成战争。",
+   "final_fix": "“害虫”将把“瘟疫”带到226号避难所，因此“战争”肯定会跟着来。如果我们也能让“饥荒”在那儿出现，骑士和他们的信徒说不定就会自相残杀！我们需要装扮成“害虫”，去和“饥饿”部落里那些尚未狂化的头领谈谈。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpFamine_RaiderLine_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "hunger strike 即「绝食抗议」（ES huelga de hambre、DE Hungerstreik），现译「饥肠辘辘的侵扰」词义与双关皆失。",
+   "final_fix": "就让我们来终结这场绝食抗议吧！"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I... am... un... 是被打断的 unworthy，本库 unworthy＝不配；现译只剩「呃」，worthy 译成孤立的「值得」不成句。",
+   "final_fix": "我……我……不……配……不！我现在配得上了！"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_Conversation_3_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "calling Pestilence out 是「向瘟疫叫阵」（ES reta a Peste、DE fordert heraus），「召唤」与单挑自相矛盾。",
+   "final_fix": "当然，不过“战争”——愿他长生不老——正在向“瘟疫”叫阵。就在226号避难所单挑。"
+  },
+  {
+   "key": "QuestLoc_SetEmUpPestilence_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "out for blood 是「渴求鲜血」（ES quiere sangre），「现在外面猎取鲜血」缺介词读不通；War 指骑士，拉进战争指代错。",
+   "final_fix": "停战协议已被抛在脑后，“战争”如今渴求鲜血，正准备把废土翻个底朝天去找“瘟疫”！拖得越久，死去的无辜定居者就越多。所以我们扮成“战争崇拜者”，说服“害虫”把“瘟疫”带到“战争”面前。群山之中那座废弃的226号避难所，将是他们末日对决的绝佳竞技场！"
+  },
+  {
+   "key": "QuestLoc_ShamrocktheCasbah_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "are supposed to 是「按理说该只有三片叶」的断定，「或者是」为衍文，句子读不通、语义变猜测。",
+   "final_fix": "三叶草应该只长三片叶子才对……"
+  }
+ ]
+}

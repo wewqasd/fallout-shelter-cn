@@ -1,0 +1,127 @@
+{
+  "chunk": "057",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_TheFinalHunt_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "\"You guys are good\" 是夸对方身手好、有两下子（该任务线里玩家一路猎杀，紧接的台词就是 \"But I'm the number one hunter in the Wasteland, not you!\"，此处 \"I can respect that\" 是「我服气」），译成「你们是好人」把「本事高」错解成「品德好」，后半句也跟着变成空泛的道德表态。",
+      "fix": "你们确实有两下子。这点我服气。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheFinalHunt_Conversation_1_NPCStart_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "hunter 在本作既有译法是「猎人」（同批另一 chunk：\"Hunter Big Wes\" → 「猎人大维斯」；本任务名 The Final Hunt → 「最终猎杀」，整条线都在讲狩猎），译成「杀手」丢了狩猎主题，也让「废土第一」的称号变成了另一个意思。",
+      "fix": "但废土第一的猎手是我，不是你们！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheFinalHunt_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "两处：① \"calling you out\" 是「点名向你叫板/下战书」，译成「在呼唤你」成了打招呼式的呼唤，挑战意味全失；② \"big game hunter\"（猎杀大型猎物的猎人）译成「杀手」，与既有译名「猎人大维斯」及本条任务名「最终猎杀」冲突。",
+      "fix": "大维斯向你叫板了！是时候把他拉下马，成为废土第一的狩猎大师了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheFinalPush_QuestLongDescription",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "原文整段是第一人称叙述（told me / I'm concerned / so I better armor up and hurry），中文后半句突然改成对玩家的祈使句「所以赶紧穿好装备去找他们吧」，主语由「我」变成「你」，还多出原文没有的「去找他们」。同批其它任务描述都保留第一人称（如 \"That's where I need to go.\" → 「我要去那里。」、\"my next stop\" → 「我的下一站」）。",
+      "fix": "390号避难所废墟里的掠夺者首领告诉我，“麦克森硬汉小队”在避难所科技总部。我很担心他们的安危，所以我最好赶紧穿好装备赶过去！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheHauntingofVault110_Conversation_1_NPCStart_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "① \"P-p-please don't hurt me ghost!\" 的 please 是求饶的「求你了」，「ghost」是呼语，译成「亲爱的鬼」把吓破胆的求饶变成了亲昵称呼，情绪反了；② 「不要伤害伤害我」叠词为原文所无；③ 原文 \"W-w-what is it you want?\" 是疑问句，中文却写成「你要什么我都给你！」这一原文没有的承诺。",
+      "fix": "求、求求你别伤害我，鬼！你、你到底想要什么？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheHauntingofVault110_QuestName",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "任务名里残留了未清理的译注「（Mass Chemical 闹鬼事件）」，英文原名只有 \"The Haunting of Mass Chemical\"，这串英文原词加解释是编辑器/译注痕迹，不该出现在上线文本里。",
+      "fix": "大众化学惊魂",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheHauntingofVault110_RaiderLine_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "\"Look out!\" 是示警「当心/快躲开」，不是招呼人去看。同批其它 look out 都译作示警：「look out for the monsters」→「小心怪物」、「Look out for her」→「小心提防她」；这里译成「快看！」把警示说成了叫大家围观。",
+      "fix": "一只鬼！当心！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheInfiltrationGame_Conversation_2_NPCEnd_3",
+      "severity": "S2",
+      "type": "乱译",
+      "problem": "① \"Ugh, I can't even...\" 是口语里表示无语/崩溃的固定说法（「我真是服了」），直译成「我甚至不能……」是个断掉的半句，中文读不通；② 递东西时说的 \"Here\" 被译成方位词「这里」，与同批 \"Here. Take this.\" → 「给，拿着。」、\"Here you are.\" → 「给你。」自相矛盾。",
+      "fix": "呃，我真是服了……给，记得把找零带回来！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheInfiltrationGame_Conversation_2_NPCStart_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "\"over an hour ago\" 是「一个多小时前」，中文丢了「多」；更关键的是「才」表示「刚刚、仅仅」，把「早就点了、等到现在」的抱怨说成了「才刚点」，等待的时长和不满的语气都反了（下句 \"Do I need to start shooting people again?\" 正是发火）。",
+      "fix": "我一个多小时前就点好了……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheInfiltrationGame_QuestObjective_2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "\"For Your Eyes Only\" 与上一条目标里的 \"Top Secret\"（已译「绝密」）并列，是文件密级标注，逐字直译成「只为你的眼睛」在中文里不像密级、读起来是硬搬的外语（同批 \"Top Secret\" 就译成了「绝密」）。",
+      "fix": "找回“仅限本人阅览”的文档。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "这句是反派被玩家骂「二流反派」（\"Put a sock in it, you second-rate supervillain!\"）后的回嘴，意思是「你说谁二流呢？」，指代对象是他自己；中文写成「谁说这只是二流水平？」，把矛头从人换成了「这（水平）」，指代错位，回嘴的味道也散了。",
+      "fix": "你说谁二流呢？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_2",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "\"You have no idea.\" 是冲玩家放的狠话「你根本想象不到（我有多厉害／后面是什么）」，主语是「你」；中文只剩「不知道。」，主语丢失后读起来像反派对别人的问题回答「我不知道」，说话人和所指都错了。",
+      "fix": "你根本想象不到。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ThePathofPaulaPlumbkin_Conversation_1_Team_1",
+      "severity": "S2",
+      "type": "错别字",
+      "problem": "同一句里同一个人名出现两种译法：开头 \"Plumbkin!\" 译成「布朗金」，紧接着的 \"Paula Plumbkin\" 又译成「宝拉·普朗布金」，全篇（含本 chunk 的任务描述、后文对话）都用「普朗布金」，「布朗金」是错译。",
+      "fix": "普朗布金！宝拉·普朗布金！她去哪里了？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheRedRocketReveal_QuestObjective_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "\"Search the Red Rocket Headquarters\" 是要玩家进总部里搜查，译成「寻找红火箭总部」变成「去找这个地点本身」。对比本批其它条目：\"Search for Rackie Jobinson's Baseball Jersey\" 才译作「寻找」，而 \"Search Vault 813 for…\" 译作「前往…寻找」、\"Search the Vault-Tec offices…\" 译作「搜寻…」，动词对象被搞错了。",
+      "fix": "搜查红火箭总部。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheReluctantShill_Conversation_1_Team_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "\"point us to him\" 被逐字搬成「指给我们他在哪儿」，「指给」后面在中文里接的是人/物而不是一个小句，读起来别扭；应为「告诉我们他在哪儿」。",
+      "fix": "你能告诉我们他在哪儿吗？",
+      "confidence": "medium"
+    }
+  ]
+}

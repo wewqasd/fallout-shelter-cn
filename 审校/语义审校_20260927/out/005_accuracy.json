@@ -1,0 +1,31 @@
+{
+ "chunk": "005",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Encounter_Random_Message107",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「My soles are wearing out.」是进行中的磨损（鞋底正在磨薄、快磨破，还没穿透），ZH 却写成「我的鞋底已经磨穿了。」把尚未发生的结果当成已经完成的事实。同批同族文案对时态/状态都很敏感（如 Message106「汗水流进了眼睛」写的是当下正在发生），此处被改写成既成结果。",
+   "fix": "我的鞋底快磨破了。",
+   "confidence": "medium"
+  },
+  {
+   "key": "Encounter_Random_Message17",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「I'll follow this road, see where it goes.」的谓语是 follow（顺着、沿着这条路走下去），ZH 译成「我选这条路」，动作变成在岔路口挑一条路。本批真正表示挑选方向的是 Message43/44（Guess I'll go left/right → 我选左边／右边）和 Message38（No, I'll go this way → 我还是走这条吧），follow 与 choose 的动作性质不同。",
+   "fix": "我顺着这条路走，看它会通向哪里。",
+   "confidence": "medium"
+  },
+  {
+   "key": "Encounter_Random_Message72",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "EN「Am I talking to myself? I think I am. Uh oh.」中「我想我是。」是把 I think I am 逐字搬进中文：汉语不会用一个没有表语的「我想我是」独立成句作答，读起来是断句式的翻译腔。同族台词处理成自然中文的是 Message9「我是不是开始自言自语了？我自己也说不准。」",
+   "fix": "我是在自言自语吗？好像是。糟了。",
+   "confidence": "medium"
+  }
+ ]
+}

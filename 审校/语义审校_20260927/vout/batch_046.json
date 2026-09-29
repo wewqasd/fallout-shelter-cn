@@ -1,0 +1,110 @@
+{
+ "batch": 46,
+ "items": [
+  {
+   "key": "Speech_LivingQuarter_PickupLines_68",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN falling for you 是「为你倾心」的双关，ZH「为你坠落」只剩字面坠落，情话读不出；「一定发地震了」也非规范搭配。",
+   "final_fix": "我想一定是地震了，因为我正为你倾倒。"
+  },
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_32_Response_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN Not me! 反驳的是「累」，汉语「我不觉得」紧接上文即「我不觉得累」，与「这个太赞了」自洽，属可接受省略。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Room_LoveJob1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN Best. Job. EVER. 用句点做重音，ZH 断在「的」「之一」中间，碎出「的工作」残片；库内同类句断片均成词。",
+   "final_fix": "最好的。工作。没有之一！"
+  },
+  {
+   "key": "Title_Diff",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN DIFF 是 difficulty 缩写（DE SCHW、RU Слжн），库内 {DIFFICULTY} 译「难度」；ZH「差异」把难度标签读成差值。",
+   "final_fix": "难度"
+  },
+  {
+   "key": "Tutorial_Tip_25_PS4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN while a Dweller is selected 是先选中居民的前提，ZH「按下R3，选中居民来查看」把前提写成后一步，顺序反了。",
+   "final_fix": "选中居民后按下R3，即可查看该居民SPECIAL属性的更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_Switch",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN while a Dweller is selected 是「已选中居民时」的前提，ZH「按下右摇杆，选中居民来查看」把前提写成后一步。",
+   "final_fix": "选中居民后按下右摇杆，即可查看该居民SPECIAL属性的更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_25_Xbox",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 仍是先选中居民再点右摇杆，ZH「点击右摇杆选择一个居民」把选择居民的动作错误地交给右摇杆，对象错位。",
+   "final_fix": "选中一名居民后点击右摇杆，即可查看其SPECIAL属性的更多细节。"
+  },
+  {
+   "key": "Tutorial_Tip_40",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN effectiveness in the Wasteland 是废土整体效能，ZH 窄化为「存活的可能性」，且漏掉 in its own way。",
+   "final_fix": "每项SPECIAL属性都会以各自的方式提升居民在废土上的效能。"
+  },
+  {
+   "key": "Tutorial_Tip_44",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN keep warm with Vault-Tec 指玩家靠避难所科技取暖，ZH「让避难所保持温暖」换了保暖对象并丢掉专名。",
+   "final_fix": "核冬天很冷，让避难所科技为您保暖！"
+  },
+  {
+   "key": "Tutorial_Tip_52",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN deadlier 对应「更致命」；ZH「更致死」不能受「更」修饰，属生造搭配，致死一般只用于致死率/量。",
+   "final_fix": "死爪比掠夺者更快，更强，更致命。"
+  },
+  {
+   "key": "Tutorial_Tip_60",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN you might get 表或然，ZH「能得到」的「能」本身即表可能（非「会得到」），玩家不会读成必得，只是措辞略弱。",
+   "final_fix": ""
+  },
+  {
+   "key": "Tutorial_Tip_70",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN not revived 是被动的「没有被复活」，ZH「不准备复活」变成玩家打算；「如果…了且…时」句式杂糅。",
+   "final_fix": "配备了宠物的居民如果在任务中死亡且没有复活，宠物会自动回到避难所。"
+  },
+  {
+   "key": "Tutorial_Tip_85",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 集齐 Fragments 即换得 Theme Recipes，ZH 只剩「找到…碎片」，丢掉获得主题配方这一结果。",
+   "final_fix": "在任务中集齐某套主题配方的全部碎片，就能获得这套主题配方。"
+  },
+  {
+   "key": "VictorDialog_Generic_15",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN She 指代避难所（RU Хоть Убежище…），ZH「她」无先行词易读成人；「地底下挖的个豪华坑」的「挖的个」不成话。",
+   "final_fix": "它也就是地底下挖出来的一个豪华大坑，但这避难所就是家。"
+  },
+  {
+   "key": "Wasteland_DwellerRevived3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN Can't keep a good Dweller down 是「压不垮」的断言，ZH「不能让…倒下」变成劝阻祈使，情态反了。",
+   "final_fix": "优秀的居民可没那么容易倒下！"
+  }
+ ]
+}

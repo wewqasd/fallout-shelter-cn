@@ -1,0 +1,110 @@
+{
+ "batch": 19,
+ "items": [
+  {
+   "key": "QuestLoc_FactoryFloorofFear_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「探索的居民」缺「在……时」成定语；「如果没人在那儿」丢掉 kept clear＝一直没人靠近；量词「幢」与工业区不搭。",
+   "final_fix": "居民在探索时发现了一张告示，警告大家远离那片老旧的工业区。如果一直没人靠近，里面说不定还留着些有用的东西。"
+  },
+  {
+   "key": "QuestLoc_FashionStatement_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "be in＝正流行（ES se llevan mucho、DE der letzte Schrei），「挺配的」丢失流行义；spikes＝尖刺，非铆钉。",
+   "final_fix": "很久了。顺便说一句，尖刺配皮衣现在可时髦了。"
+  },
+  {
+   "key": "QuestLoc_FollowingHisFirstSteps_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「离开这里…穿过小河」缺主语读成给玩家的命令，EN 是报告他去 across the river 的工厂；take out 宜作「干掉」；帮/团伙重复。",
+   "final_fix": "没错！就是那个。他从这里出发，去了河对岸的那座工厂，要干掉“道路丘疹”和他那帮掠夺者！"
+  },
+  {
+   "key": "QuestLoc_FollowingHisFirstSteps_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "漏译 to take out：ES para acabar con、DE auszuheben 均表目的，现译只剩「就住在那里」。",
+   "final_fix": "他往汽车厂的方向去了，要去干掉住在那里的那帮掠夺者。"
+  },
+  {
+   "key": "QuestLoc_FonsVivus_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "save some＝留一些，非「节约」；it was so REFRESHING 硬译「它是如此清爽」，中文不成句。",
+   "final_fix": "我们本想留一些，可它实在太清爽了！你们可以去315号避难所问问，他们也买了。"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1A_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Now that 是承接上文的口语，直译「现在那个」主语悬空；ES Eso suena、DE Das klingt 均无「现在那个」。",
+   "final_fix": "这么一说，倒像是一顿营养均衡的早餐！"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1C_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "do-gooder＝爱管闲事的好心人，译「假善人」添了伪善义，与 Team_2「好人？」对不上；Geez 译「天。」不成句。",
+   "final_fix": "哎哟。我们掠夺者想填饱肚子，就非得被哪个爱管闲事的好心人骚扰吗？"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1D_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Don't mind if I do＝那我就不客气了（自己取用），「别介意」把主语换成对方且句意不全。",
+   "final_fix": "哦……我就好这一口饱饱牌肉罐头。那我就不客气了。"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1D_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "句尾 Soooo 是拖长的 So＝那么／所以（ES Así que、RU Так что），译「非常」成无着落的程度副词。",
+   "final_fix": "老实说我不想要。但我确实想杀了你。那么……"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1E_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "notwithstanding＝让步「尽管」（DE Trotz、ES A pesar de），译「即使」后无主句成残句。",
+   "final_fix": "毋庸置疑，我终究是个掠夺者——尽管我品味高雅。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1A_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "=「这才像话」（IT Questo sì che è parlare），非「好故事」；morning glory 此处是称呼，非牵牛花。",
+   "final_fix": "这才像话！拿着，这是我们给你们的一点纪念品。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1A_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Mellow out 之后的 Why don't you take a walk 是打发人走，非邀请参观；同节 mosey on 亦为走开之意。",
+   "final_fix": "等等，等等。放轻松，帅哥。你还是走吧？"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1A_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "You dig?＝你懂吗（ES ¿Lo pillas?、DE Geschnallt?），「是不是挖？」不成句；2A 同源 dig 译「如何？」不一致。",
+   "final_fix": "我们最酷，其他人只有干瞪眼的份。懂「挖」的意思吗？"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1B_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "You're all right＝你们人不错（ES Me caéis bien），非「你说的对」；smoothskins 复数也丢了。",
+   "final_fix": "哈！你们人不错，“光滑皮肤”们。来，拿着这个。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_1B_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "smoothskins 复数应作「你们」；make it＝能来（RU сюда доберетесь），「逃过这一劫」凭空添了灾祸。",
+   "final_fix": "嘿，你们这些光滑皮肤的家伙！我们还以为你们来不了呢。"
+  }
+ ]
+}

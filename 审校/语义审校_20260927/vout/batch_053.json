@@ -1,0 +1,110 @@
+{
+ "batch": 53,
+ "items": [
+  {
+   "key": "Help_Page1_MainText_PC",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同段 EN 三处 Settings，项目 UI 术语作「设置/取消」，首句「设定」与下文两处「设置」不一致。",
+   "final_fix": "电脑版设置能够通过点击哔哔小子中的齿轮图标进入。\n\n默认设置中，辐射避难所有如下几个热键：\n\nEsc - 设置/取消\nF1 - 商店\nF2 - 库存\nF3 - 生存指南\nF4 - 目标\nF5 - 废土\nF6 - 帮助\nB - 建造/升级\nSpace - 任务列表\nLeft Shift - 剪贴板\nLeft Control - 房间操作\nTab - 居民列表\n\n按方向键、WASD键或点击并拖动鼠标来移动镜头。\n\n使用鼠标滚轮或Q和E键缩放画面。\n\n您可以在设置菜单中调整镜头缩放和滚动速度。\n\n当辐射避难所最小化到任务栏或长时间无人操作时，它会继续运行几分钟，然后进入休眠模式。\n\n辐射避难所会自动定期保存游戏，但如果想更加保险，可以点击设置菜单中的保存按钮。"
+  },
+  {
+   "key": "Junk_Desc_GiddyupButtercup",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Get on 指跨坐上去（ES Monta、DE Setz dich drauf），ZH「上车」是车辆用语，与玩具小马搭配不上。",
+   "final_fix": "去吧，没人看着。骑上去溜一圈吧。"
+  },
+  {
+   "key": "Junk_Desc_TeddyBear",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "no picnic 是「不好过」的习语（ES no es fácil、RU не сахар），ZH 直译「不是野餐」不成中文说法。",
+   "final_fix": "废土的日子可不好过，所以他随时都准备好给您一个温暖的拥抱。"
+  },
+  {
+   "key": "Junk_Desc_YaoGuaiHide",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Don't mess with me 是威胁口吻（RU Отвали!），ZH「请不要乱来」成了客气劝阻，语气不符。",
+   "final_fix": "“别惹我。”你的兽皮装备会这么对你说。"
+  },
+  {
+   "key": "MainMenu_Xbox_SignInError",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN event 在技术提示中指「事件」（ES Evento），ZH「活动」易被读成促销活动。",
+   "final_fix": "未处理的登录事件"
+  },
+  {
+   "key": "Message_MaxLevel",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Level 是这句唯一实义名词（ES nivel、DE Stufe、RU уровень），ZH「最大值」丢掉「等级」，玩家不知何物封顶。",
+   "final_fix": "已达最高等级"
+  },
+  {
+   "key": "Message_NoValidDwellerToStartQuestTutorial",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「至少有一位…才能…」是可成立的中文条件句，承接 must have 的义务义；「能被派遣」对应 who can be sent，可接受。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_ProductionTimeSkipNukaQuantum",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同类提示均作「{0}瓶量子核子可乐」（RU 亦用量词），此处缺「瓶」；Rush 全项目作「极速模式」而非「加速」。",
+   "final_fix": "花费{0}瓶量子核子可乐，保证极速模式成功？"
+  },
+  {
+   "key": "Message_TutorialPopup_03_Hint",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN rushing the Power rooms 的对象是发电室（ES salas de energía），ZH 只写「点击极速模式」丢了作用对象。",
+   "final_fix": "提示：当电力不足时，可以给发电室分配属性更高的居民，或者对发电室使用极速模式。"
+  },
+  {
+   "key": "Message_TutorialPopup_11_Body",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN reduce Dwellers Rads 指降低辐射值（DE Strahlungswerte），ZH「辐射伤害」多出「伤害」。",
+   "final_fix": "建造一个实验室可以生产消辐宁来降低居民的辐射值。"
+  },
+  {
+   "key": "Message_TutorialPopup_21_Body_Part2",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN dragging the target 拖的是准星（同族 Xbox 条作「使目标出现」），ZH 省去宾语，与 Part1「拖拽居民」混同。",
+   "final_fix": "攻击敌人时，点击居民然后再点击敌人。您也可以按住居民不放，再把目标拖到敌人身上。"
+  },
+  {
+   "key": "Message_TutorialPopup_21_Body_Part2_PC",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "PC 同条 EN 亦为 dragging the target，ZH 省去准星宾语，且「按住居民不动」易读成不许居民动。",
+   "final_fix": "攻击敌人时，点击居民然后再点击敌人。您也可以按住居民不放，再把目标拖到敌人身上。"
+  },
+  {
+   "key": "Message_TutorialPopup_24_Body_Part1_Xbox",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Xbox 专有的 like you would a Dweller（ES、IT、DE、RU 均译出）在 ZH 丢失，只剩「选择它」。",
+   "final_fix": "当勾形图标出现时，像选择居民那样选择它，然后按住来释放暴击。"
+  },
+  {
+   "key": "Message_TutorialPopup_25_Title",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「能够被用来」读得通且 Help_Page31_MainText 同句同写法，can be used to 无信息丢失，属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_TutorialPopup_BuildUltraciteMine_Hint",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN mining timer 指采矿计时（ES temporizador、FR temps），ZH「计时器时间」计时器与时间语义重复。",
+   "final_fix": "提示：高耐力居民能大幅缩短采矿倒计时。别把时间都耗在等待上！"
+  }
+ ]
+}

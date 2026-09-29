@@ -1,0 +1,17 @@
+{"batch":34,"items":[
+{"key":"QuestLoc_SpringingtheTrap_Conversation_1_NPCEnd_4","verdict":"confirm","severity":"S2","reason":"That works! 是评价玩家补的 all glowing and earthy 可行，ZH「有用的！」把 works 误当 useful，评价对象丢失。","final_fix":"这说法行得通！而且居然是真的。他总是满身是土。谢谢您！"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S3","reason":"serve in other ways 直搬成「我们在其他方面服务」缺宾语，中文不成话；本句含义未错（ES le servimos 仍指向瘟疫），属不地道。","final_fix":"当“害虫”就意味着不配得到他的辐射，所以我们改用别的方式来侍奉。"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_1_NPCStart_3","verdict":"confirm","severity":"S2","reason":"Woe is me 的感叹被逐字译成「我是悲哀的，悲哀是我」，不成句；all glowing 又译「散发圣光」，加「圣」且丢掉「浑身」。","final_fix":"我真可悲啊，我真可悲啊，因为我不配。但“瘟疫”是伟大的，浑身发光，而且……"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_1_Team_1","verdict":"confirm","severity":"S2","reason":"would be nice 是委婉索要（DE wäre nicht schlecht），ZH 把 would 作「将是」、nice 作「美好」，请求读成陈述。","final_fix":"那就有劳赐福了。“瘟疫”在哪儿？"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_2_NPCStart_1","verdict":"confirm","severity":"S2","reason":"You there! 是招呼语「喂，那边的」，ZH「你在那里！」成陈述位置；converts 是复数（ES Sois），ZH 却用单数「你」。","final_fix":"喂，那边的！你们是新来的皈依者吗？"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_3_NPCEnd_2","verdict":"confirm","severity":"S3","reason":"EN they 指害虫（人），ZH 却用「它们」；it 又生造成「那兽」，与下句「一只普通的野兽」不接，属指代不当。","final_fix":"不，我也不知道为什么，但只要“害虫”们穿着全封闭的装备，那只野兽就不会去招惹他们。"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_3_NPCEnd_4","verdict":"confirm","severity":"S2","reason":"preaching to the choir 是「我本来就同意」，ZH「对牛弹琴」把听者读成听不懂的牛；but 转折又被「而且」改成并列。","final_fix":"你跟我说这个是白费口舌，可他们实在算不上聪明。"},
+{"key":"QuestLoc_SpringingtheTrap_QuestLongDescription","verdict":"confirm_fix_better","severity":"S2","reason":"searching for the suits 译成「搜寻洞穴」，诱饵动力装甲丢失；a dozen 是十二（他处作十二个奴隶），fix 却仍写「十几套」。","final_fix":"在三狗的建议下，我们放出消息，说有十二套动力装甲藏在某个洞穴里。“害虫”上钩了，现在正在里面搜寻那些动力装甲。是时候进去打探一下“瘟疫”和“害虫”的底细了！"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_2D_NPCEnd_2","verdict":"confirm_fix_better","severity":"S2","reason":"承接 Team_2「你准备射击然后燃烧鲜花吗」，省略谓语是 shoot/burn flowers，fix 改「我不退」张冠李戴；现译「我不是」缺谓语。","final_fix":"不，我不会的。算了。你们赶紧走人吧。"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_2D_NPCStart_3","verdict":"confirm","severity":"S3","reason":"Thinking…/Start a farm/Grow some flowers 被逗号串成一句，「想着……了吧」翻译腔，句末「吧」把独白变商量；含义未错。","final_fix":"我想我该退休了。弄个小农场，种点花。"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_2E_NPCStart_1","verdict":"confirm","severity":"S2","reason":"Pencil Pushers 在 1E 作「推铅笔帮」，此处及 2E_Team_2、3E 作「铅笔推进器」，pusher 误读成推进器，同一帮派出现两名。","final_fix":"你们是谁？新加入“推铅笔帮”的？"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_2E_Team_1","verdict":"confirm","severity":"S3","reason":"leave this place behind 是「离开/抛在身后」（ES dejar atrás），ZH「别管这个地方」只剩不理会，丢了离开动作。","final_fix":"你们应该自己成立一个新帮派。离开这个地方吧。"},
+{"key":"QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_1","verdict":"confirm","severity":"S2","reason":"wake-up call 是习语「该敲醒敲醒」（RU привести в чувство），ZH「叫醒服务」成了酒店服务，威胁语气全失。","final_fix":"哦，是吗？我看是该给你敲敲警钟了……"},
+{"key":"QuestLoc_SuperDuperTrooper_Conversation_1_Team_1","verdict":"confirm","severity":"S1","reason":"Nightmare, Your Worst＝你最可怕的噩梦（ES Soy tu peor pesadilla），ZH「你是最糟糕的」主客颠倒。","final_fix":"我是噩梦，你最可怕的噩梦。"},
+{"key":"QuestLoc_SuperDuperTrooper_Conversation_2_NPCEnd_3","verdict":"confirm","severity":"S2","reason":"so there! 是口语收尾「就这样，气死你」（RU вот так），ZH 当成因果连词译成断尾的「所以！」，台词像被截断。","final_fix":"好吧，我们才不在乎你呢，就这样！"}
+]}

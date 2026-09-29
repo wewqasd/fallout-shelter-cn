@@ -1,0 +1,87 @@
+{
+  "chunk": "008",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "MainMenu_Survival_Mode_Confirm",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "两处问题：一是 social experiment 译成「社会环境」，同一批文本里 social experiment 的既定译法是「社会实验」（chunk_022 也是「社会实验」），「进入……社会环境」把避难所科技拿居民做的实验说成了环境，意思跑偏；二是结尾「对资源的需求也更高，以及您无法复活死亡的居民！」把英文并列句硬塞进「以及」，与前一分句的「更高」并列不起来，读起来像清单没写完。另外「将会面临着」也是「将会面临／将面临」的累赘写法。",
+      "fix": "避难所科技特级警报！我们检测到您已选择加入我们迄今为止最严苛、最危险的社会实验——生存模式！在生存模式中，您的避难所将面临更致命的威胁，资源需求也会更大，而且您将无法复活死去的居民！",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_NoValidDwellerToStartQuestTutorial",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「避难所里至少有一位……居民，才能建造监督者办公室。」前一分句缺「必须／只有」，与「才能」呼应不上，条件关系断在半空；「能被派遣到废土上的居民」两个「的」加被动式也绕。",
+      "fix": "避难所里必须至少有一位可以派往废土的居民，才能建造监督者办公室。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_OneHundredMillionPopup_Body",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "as Vault-Tec's way of saying... THANK YOU! 是「这是避难所科技说谢谢的方式」，译成「就像避难所科技常说的……谢谢！」变成了「避难所科技经常这么说」，礼物与致谢之间的因果关系丢失，读起来莫名其妙；「请笑纳」的谦辞用在厂商送礼上也别扭。",
+      "fix": "经过大家的共同努力，我们取得了一个重要的里程碑：\\n\\n超过1亿名监督者已经创建了属于他们自己的避难所！\\n请收下这份免费礼物，这是避难所科技在向您说……谢谢！\\n别忘了明天再来领取另一份特别的奖励！",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_OneHundredMillionPopup_Body2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "同一句 as Vault-Tec's way of saying... THANK YOU! 又译成「就像避难所科技常说的……谢谢！」，「way of saying」被当成「常说的话」，致谢的含义被译没。",
+      "fix": "经过大家的共同努力，我们取得了一个重要的里程碑：\\n\\n超过1亿名监督者已经创建了属于他们自己的避难所！\\n请收下这份免费礼物，这是避难所科技在向您说……谢谢！",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_ProductionTimeSkipNukaQuantum",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "本条是唯一漏掉量词「瓶」的量子核子可乐提示（同批 86／87／90／102／121／142／176／180 都写「{0}瓶」）；「保证完成加速」把 Guarantee Rush 逐字拼起来，中文不成搭配，且游戏里 Rush 的既定叫法是「极速模式」，「加速」与其它条目不一致，玩家不易判断这是保底极速（不失败）的确认框。",
+      "fix": "花费{0}瓶量子核子可乐，保证极速模式成功？",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_Quest_DeadDweller_RemoveAll_Warning",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「您将失去您死亡的居民。」一句里两个「您」，且「您死亡的居民」缺了必要的成分（应为「您已死去的居民／您那些死去的居民」），「您死亡的……」读起来像「您死亡了」，指代混乱。",
+      "fix": "您将失去死去的居民。您确定要全部移除吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_ThemeChange_Diner",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "英文是所有「已完全合并并升级的餐厅」的主题将从 {0} 变为 {1}，中文却写成「您的主题餐厅已经最大化合并及升级了」——把修饰语变成了「已经完成」的陈述，还丢掉了「所有（all）」，玩家无法知道这次改动会一次性作用到全部餐厅；同批 174／175 的两条是正确句式，本条与它们不一致。",
+      "fix": "所有已完全合并并升级的餐厅，其主题都将从{0}更改为{1}。确定吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_ThemeChange_LivingQuarters",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "与 Message_ThemeChange_Diner 同一模板：fully merged and upgraded 被译成「已经最大化合并及升级了」的完成状态，「所有」也丢失（同批 174／175 为正确句式），玩家看不出哪些宿舍会一起改主题。",
+      "fix": "所有已完全合并并升级的宿舍，其主题都将从{0}更改为{1}。确定吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_TooManyVictorInWasteland",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「你已将最大数量的维克托派往废土」是 the maximum amount of... 的逐字搬运：「将最大数量的 X 派往」在中文不成话，也丢了三单同位提示该有的口吻；同一对的 178（巧手先生）写成「您派去废土探险的巧手先生数量已达上限」，自然通顺，两条风格割裂。",
+      "fix": "您派往废土的维克托数量已达上限。",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_TutorialPopup_01_Body",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「房间将开始停止工作」把 shutting down 拆成「开始停止」，两个反义动作连用，中文读着别扭；末句「所需资源的刻度线会在资源条上显示，表明了现在的资源需求」与原文 The required resource line on the resource bar shows your Vault's current resource needs 相比，主语绕了两遍（刻度线「显示」并「表明」需求），还漏了「您的避难所」，是典型的机翻长句。",
+      "fix": "当任何一项资源不足时，屏幕顶端的资源条都会变红。\\n\\n电力不足时，房间将陆续停止运作。\\n食物不足时，居民会开始损失生命值。\\n水不足时，居民会受到辐射伤害。\\n\\n资源条上的所需资源线显示了避难所当前的资源需求。",
+      "confidence": "medium"
+    }
+  ]
+}

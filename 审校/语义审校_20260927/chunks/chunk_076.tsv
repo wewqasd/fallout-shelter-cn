@@ -1,0 +1,181 @@
+key	EN	ZH
+Wasteland_ExteriorName_NewVegas	New Vegas	新维加斯
+Wasteland_ExteriorName_NewVegasNight	New Vegas Strip	新维加斯大道
+Wasteland_ExteriorName_Ultracite	Land of the Scorched	辐尸人之地
+Wasteland_ExteriorName_Xmas	Holiday	节日
+Wasteland_ForRadiation	for Radiation	辐射
+Wasteland_Found	found	找到
+Wasteland_Found_Nuka	Found {0}.	找到{0}。
+Wasteland_Full	You have reached the maximum amount of Dwellers allowed in the Wasteland!	您已经达到了允许在废土探险居民数量的上限！
+Wasteland_Got	got	得到了
+Wasteland_GotDamage	got a damage of	受到了伤害
+Wasteland_Got_Exp	Got {0} XP	得到{0}XP
+Wasteland_Intro01	I think this will be a good adventure	我想这将是一场很棒的冒险
+Wasteland_Intro02	I'm so excited	我好激动
+Wasteland_Intro03	I hope to find wonderful items	我希望能找到好东西
+Wasteland_Inventory_Full	That's as much as I can carry. I better head back and show the Overseer what I found.	我最多就只能带这么多了。我应该回去告诉监督者我发现了什么。
+Wasteland_ItemCycleLegendary_03	Whoa! I found a {0} inside a metal chest!	哇！我在一个金属箱里找到了一个{0}！
+Wasteland_ItemCycleNormalPet_01	I rescued a {0} from a Raider trap and now it's following me.	我从一个掠夺者陷阱里救了一个{0}，它现在跟着我。
+Wasteland_ItemCycleNormal_01	I've found a locker containing a {0}.	我找到了一个锁柜，里面有{0}。
+Wasteland_ItemCycleRarePet_02	A {0} just appeared and saved me from walking into a pit! Better take it with me to watch my back.	一个{0}出现并阻止我走进一个坑里！最好带着它，应该能帮衬我一点。
+Wasteland_ItemCycleRare_02	What luck! I found a {0} laying on the ground!	好运气！我发现一个{0}躺在地上！
+Wasteland_Item_QuestClue	Quest	任务
+Wasteland_Level_Up	I leveled up!	我升级了！
+Wasteland_Quest_RemoveAll	REMOVE ALL	移除所有
+Wasteland_Quest_Retry	RETRY QUEST	重试任务
+Wasteland_Recall	RECALL	召回
+Wasteland_RemoveDeadDweller	REMOVE	删除
+Wasteland_Return_To_Explore	EXPLORE	探险
+Wasteland_ReviveDeadDweller	REVIVE	复活
+Wasteland_ReviveDeadDweller_And_Retry	REVIVE ALL AND RETRY	全部复活并重试
+Wasteland_TeamReturned	I've returned from the Wasteland!	我从废土上回来了！
+Wasteland_TeamSent	Wasteland expedition started!	开始废土探险！
+Wasteland_Title_Exploring	Exploring Wasteland	探索废土中
+Wasteland_Title_Leaving_Vault	Leaving Vault	正在离开避难所
+Wasteland_Title_Ret_To_Vault	Returning To Vault	正在返回避难所
+Wasteland_Title_Returned	Returned To Vault	回到了避难所
+Wasteland_Use_Radaway	I used a RadAway. That should help with the radiation.	用了一支消辐宁。这应该有助于缓解我的辐射伤害。
+Wasteland_Use_Stimpack	I used a Stimpak. Ahhh. That's better.	用了一支治疗针。啊啊啊。我好多了。
+Weapon_Description_032Pistol	Powerful enough to kill an attacker. Barely.	威力足以杀死攻击者。勉强。
+Weapon_Description_032Pistol_ArmorPiercing	Serious stopping power in a small package.	小身材，大威力。
+Weapon_Description_032Pistol_Enhanced	A decent gun for killing unarmored opponents.	一把体面的枪。可以干掉没有护甲的对手。
+Weapon_Description_032Pistol_Hardened	Just enough to keep you in the fight. And maybe even win.	足以让你撑过一场战斗，也许还能赢。
+Weapon_Description_032Pistol_Rusty	The least dependable handgun in the Wasteland. Good luck.	在废土上最不靠谱的手枪。祝你好运。
+Weapon_Description_032Pistol_WildBillsSidearm	When someone says “draw,” you say, “die.”	当有人说“出招”时，你说“死”。
+Weapon_Description_50CalMachineGun	An ancient design  so effective and reliable, it's still in use after nearly 300 years.	一种古老设计，依然有效且可靠，经过了近300年的考验。
+Weapon_Description_50CalMachineGun_ArmorPiercing	The pinnacle. This thing will punch holes in an airship.	巅峰之作，这东西甚至能给飞艇打洞。
+Weapon_Description_50CalMachineGun_Enhanced	A perfect classic, improved with updated parts.	完美的经典武器，安装了新零件。
+Weapon_Description_50CalMachineGun_Hardened	The right deterrent for a horde of raiders or supermutants.	抵御一群掠夺者或变种人的正确防身武器。
+Weapon_Description_50CalMachineGun_Rusty	Still intimidating, despite the occasional jam.	虽然偶尔卡壳，但威慑力十足。
+Weapon_Description_AlienBlaster	A technologically advanced weapon of alien origin.	一种外星起源的先进技术武器。
+Weapon_Description_AlienBlaster_Amplified	This much power is usually reserved for a Zetan cruiser.	这么强大的力量是为外星人巡航舰准备的。
+Weapon_Description_AlienBlaster_Destabilizer	Scatter the atoms of your foes... or an entire planet.	打散敌人的原子……或者整个星球的。
+Weapon_Description_AlienBlaster_Focused	Specifically enhanced for maximum Earthling annihilation.	特别为最大化的地球毁灭而增强制造的。
+Weapon_Description_AlienBlaster_Rusty	Left on this planet a long time ago. Still ludicrously powerful.	很久以前就被留在这个星球上了。却仍然强大得荒唐。
+Weapon_Description_AlienBlaster_Tuned	Probably belonged to an alien officer, who made some... tweaks.	可能是一个外星人军官，他做了一些……调整。
+Weapon_Description_AlienDisintegrator	A technologically advanced weapon of alien origin, but bigger.	一种技术先进的外星武器，而且体型更大。
+Weapon_Description_AlienDisintegrator_Enhanced	Whoever built this was not content with vaporising one person at a time.	制造它的人，或者生物，显然不满足于一次只让一个目标蒸发。
+Weapon_Description_AlienDisintegrator_Hardened	Now you're loaded for space-bear.	现在你准备好了对付太空怪兽了。
+Weapon_Description_AlienDisintegrator_Rusty	This hunk of junk can still bissect a super mutant.	这堆破烂仍然可以将变种人拦腰斩断。
+Weapon_Description_ArmorPiercingT60Pistol	This thing will put a hole through power armor at fifty paces.	这个东西可以在五十步内打穿动力装甲。
+Weapon_Description_AssaultRifle	Fully automatic, and perfect for most combat situations.	全自动射击，完美适用于大多数战斗情况。
+Weapon_Description_AssaultRifle_ArmorPiercing	This thing can punch through Power Armor like it's paper.	这东西能像穿破纸一样穿破动力装甲。
+Weapon_Description_AssaultRifle_Enhanced	The kind of gun that wins a soldier the war.	那种枪能让士兵在战争中胜利。
+Weapon_Description_AssaultRifle_Hardened	Perfect for a merc who wants one gun for any situation, forever.	适用于雇佣兵在任何情况下对枪的需要。永远。
+Weapon_Description_AssaultRifle_Infiltrator	Get in, get out, and leave a pile of corpses in your wake.	进去，出来，身后留下一堆尸体。
+Weapon_Description_AssaultRifle_Rusty	It jams every now and then, but so what? Still great.	偶尔会堵塞，但那又怎样呢？还是很强大的。
+Weapon_Description_AssaultronHead	Decapitation has done little to reduce its deadliness.	斩首并没有降低它的致命性。
+Weapon_Description_AssaultronHead_Enhanced	It has tunnel vision. Tunneling through your enemies vision.	它有着隧道视觉——能钻透敌人的视野。
+Weapon_Description_AssaultronHead_Hardened	There's getting a little hot headed, then there's this.	有的人头脑发热，有的人头脑发光。
+Weapon_Description_AssaultronHead_Rusty	A piece of scrap with a mean thousand-yard stare.	这块废铁带着凶狠的千码凝视。
+Weapon_Description_BBGun	The best weapon in the world... for a 10 year-old.	世界上最好的武器……如果你只有十岁的话。
+Weapon_Description_BBGun_ArmorPiercing	Can shoot through a pair of jeans. And maybe even the leg.	能射穿一条牛仔裤，甚至射穿腿。
+Weapon_Description_BBGun_Enhanced	Be careful! This baby may actually break the skin.	小心！这个宝贝可能会破坏你的皮肤。
+Weapon_Description_BBGun_Hardened	It may not kill your enemy. But it'll sure hurt like heck.	它可能不会杀死你的敌人。但它肯定会狠狠伤害。
+Weapon_Description_BBGun_RedRocket	Powerful enough to shoot a Super Mutant's eye out.	强大到足以射穿一个超级变种人的眼睛。
+Weapon_Description_BBGun_Rusty	After 20 shots, you just might knock a tin can off the fence.	打了二十枪之后，你才能将一个锡罐打下栏杆。
+Weapon_Description_BOSAssaultRifle	High caliber assault rifle built for troops in power armor.	为动力装甲部队打造的大口径突击步枪。
+Weapon_Description_BOSAssaultRifle_ArmorPiercing	Every spot is a weak spot for this lead spewing beast.	对这个子弹喷射猛兽来说，哪里都是弱点！
+Weapon_Description_BOSAssaultRifle_Enhanced	Fresh out of the BOS armory and ready to spread some order.	刚从兄弟会军械库出来，准备传递一点“秩序”。
+Weapon_Description_BOSAssaultRifle_Hardened	Battle worn but meticulously maintained weapon for the discerning knight.	虽然略有磨损，却维护得无比细致，适合挑剔的骑士。
+Weapon_Description_BOSAssaultRifle_Rusty	This monstrous military firearm might need a tuneup, but it's still kicking.	这把巨大的军用武器可能需要调试，但它依然威风凛凛。
+Weapon_Description_BaseballBat	Enemy head, meet Bat. I'm sure the two of you will hit it off.	敌人的头，和棒球棒相遇。我相信你会喜欢它的。
+Weapon_Description_ButcherKnife	Go mete out some punishment. Get it?	去好好教训别人一顿吧。懂我意思吗？
+Weapon_Description_CombatShotgun	A fully-automatic, drum-loaded shotgun. Ouch.	一种全自动筒装的霰弹枪。哎呦喂。
+Weapon_Description_CombatShotgun_CharonsShotgun	Rumored to be a Ghoul merc's key to the River Styx.	据说是一个尸鬼雇佣兵通向冥河的钥匙。
+Weapon_Description_CombatShotgun_DoubleBarrelled	Close-range death dealing... x2. Brutal.	近距离死亡威胁……X2。很残忍。
+Weapon_Description_CombatShotgun_Enhanced	Faster shots, better shells, messier deaths.	弹速更快，炮弹更强，死得更惨。
+Weapon_Description_CombatShotgun_Hardened	Every pull of the trigger is a kiss of death.	每一次扣动扳机，就是一个死亡之吻。
+Weapon_Description_CombatShotgun_Rusty	For every misfired shell, there are 5 more that do the job.	子弹走火不用急，还有五枚帮助你。
+Weapon_Description_Cryolator	One of the coolest weapons in the wasteland. Everyone will want to chill out with you.	废土上最酷的武器之一，所有人都想与你一起冷静下来。
+Weapon_Description_EnclavePlasmaRifle	For those that prefer a sleeker, blacker look when gooifying their opponents.	专为那些喜欢在把对手化为一滩绿浆时显得更冷峻、更深沉的人士设计。
+Weapon_Description_EnhancedT60Pistol	A hip-slung cannon packing the latest brotherhood upgrades.	这把便携加农炮配备了最新的兄弟会升级。
+Weapon_Description_EnhancedTranqPistol	The quickest and cleanest way to a bonus for bringing 'em in alive.	取得“活捉”奖金最快、最干净的方法。
+Weapon_Description_FatMan	A portable nuclear bomb catapult. “Deadly” is an understatement.	一种便携式核弹弹射器。“致命”只是轻描淡写。
+Weapon_Description_FatMan_Enhanced	Some nuclear physicist's pet project. More atoms, bigger boom.	某个核物理学家的小项目。意味着更多的原子，更大的爆炸。
+Weapon_Description_FatMan_Guided	Portable nuclear bombs, guided right to their targets. Yes!	便携式核弹，准确引导直达目标。一个字，好！
+Weapon_Description_FatMan_Hardened	Higher-yield shells for bigger booms... and a bigger body count.	更高当量的炮弹带来更大的爆炸……以及更多的阵亡者。
+Weapon_Description_FatMan_Mirv	Fires multiple Fat-Man shells. At once. That's a lot of fat.	一次性发射多枚“胖子”核弹。可真够“胖”的。
+Weapon_Description_FatMan_Rusty	Even old and beat up, this thing can still drop a Radscorpion.	即使又破又旧，这东西还是能放倒一只辐射蝎。
+Weapon_Description_FireHydrantBat	Now you can pretend you're a tiny, underpowered Super Mutant Behemoth.	现在你可以装作你只是一只弱小的巨兽。
+Weapon_Description_Flamer	Fry them alive with this combat flamethrower.	用战斗型火焰喷射器将他们活活烧死。
+Weapon_Description_Flamer_Burnmaster	Excellent for charring some burgers. Or, say, a Raider compound.	做碳烤汉堡的绝佳工具。或者说，烧掉一个掠夺者营地。
+Weapon_Description_Flamer_Enhanced	Blasts fire farther, hotter and happier than the standard model.	比标准款能喷射出更远，更热和更开心的火焰。
+Weapon_Description_Flamer_Hardened	Shoots flames as hot as the Hell you send its victims to. Oh, the irony.	喷射的火焰如地狱般炙热，把受害者直接送去了地狱。多么讽刺。
+Weapon_Description_Flamer_Pressurized	It's like wielding the power of a dragon in your arms.	这就像在你的手臂上挥舞着一条龙的力量。
+Weapon_Description_Flamer_Rusty	Shoots fire a few degrees lower than normal, but still a death dealer.	喷射的火焰会比正常型号低几度，但仍然是一个死亡使者。
+Weapon_Description_GatlingLaser	It's a Minigun. With lasers. 'Nuff said.	这是一个旋转机枪。有激光。足够了。
+Weapon_Description_GatlingLaser_Amplified	Modded emitters. Faster barrel. Higher ammo capacity. It is ON.	改装过的发射器。枪筒更快。载弹量更多。等着瞧吧。
+Weapon_Description_GatlingLaser_Focused	More power in each beam means more pain in every shot!	每束光线有更多力量，意味每一次射击有更多痛苦！
+Weapon_Description_GatlingLaser_Rusty	One of the laser emitters may misfire occasionally. Big deal.	一个激光发射器可能偶尔走火。没什么大不了。
+Weapon_Description_GatlingLaser_Tuned	It's like a disco of death, and everyone's invited!	像是一个死亡迪斯科，而每个人都被邀请了！
+Weapon_Description_GatlingLaser_Vengeance	Need revenge? Feeling that furious anger? Oh, are you in for a treat.	想要复仇吗？感受到了狂暴的怒火？来吧，这是奖励。
+Weapon_Description_GaussPistol	All the magnetic acceleration you can hold in one hand.	用一只手能掌握的最大电磁加速力。
+Weapon_Description_GaussPistol_Enhanced	A well balanced, well crafted pistol with high quality coils.	一把平衡且精致的手枪，配备高质量线圈。
+Weapon_Description_GaussPistol_Focused	This overcharged pistol is powerful, but of dubious reliability.	这把过度充能手枪威力强大，但并不一定可靠。
+Weapon_Description_GaussPistol_Hardened	Modified to drive a heavier projectile, this gun packs a wallop.	为了发射更重的弹药而改造，威力十足。
+Weapon_Description_GaussPistol_Rusty	Corroded or not, the coils still do their job.	无论线圈是否被腐蚀，它仍能正常工作。
+Weapon_Description_GaussRifle	Shoots a magnetically accelerated projectile. Fast.	发射磁加速炮弹。快。
+Weapon_Description_GaussRifle_Accelerated	Wait, the projectile can go... even faster? You have no idea.	等等，炮弹可以……更快吗？不知道。
+Weapon_Description_GaussRifle_Enhanced	Someone intensified the magnetic field. You know what that means...	有人加强了磁场。你知道那意味着什么……
+Weapon_Description_GaussRifle_Hardened	Out of the R&D lab and in the field, this thing is even more deadly.	出了研发实验室而在实地演练，这会更致命。
+Weapon_Description_GaussRifle_Magnetron4000	Magnets + Science! = killing just about anything. No really, anything.	磁铁+科学！=几乎杀死任何东西。不是几乎，是真的任何东西。
+Weapon_Description_GaussRifle_Rusty	Time has dulled its shine, but not its effectiveness.	时间磨灭了它的光泽，但没有降低它的威力。
+Weapon_Description_GhoulRevolver	This sizeable sidearm serves as a fine companion piece to the Mare's Leg.	这把大号手枪是马腿的最佳拍档。
+Weapon_Description_GrognaksAxe	As seen in Grognak the Barbarian #23 "In the Lair of the Virgin Eater."	出自《野蛮人古古那》第23期“处女吞噬者的巢穴”。
+Weapon_Description_HardenedT60Pistol	A reinforced beast with a reinforced bite.	加固的猛兽，更强的威力。
+Weapon_Description_HardenedTranqPistol	A rugged piece for the peaceful at heart.	坚固耐用，适合心地善良的人。
+Weapon_Description_HuntingRifle	Great for taking down game - human or animal alike.	非常适合猎杀猎物——不管是人还是野兽。
+Weapon_Description_HuntingRifle_ArmorPiercing	Most people don't hunt Sentry Bots. You're not most people.	大多数人不会猎捕铁卫兵。但你不是大多数人。
+Weapon_Description_HuntingRifle_Enhanced	Want a new Yao Guai wardrobe? This is the rifle for you.	想要一个新妖怪熊皮衣柜？用这把枪。
+Weapon_Description_HuntingRifle_Hardened	Once, you were the hunted. With this weapon, those days are gone.	曾经，你被四处追杀。有了这个，那些日子就是过去时了。
+Weapon_Description_HuntingRifle_OlPainless	Can put your horse, or a Deathclaw, out of its misery in a second.	可以让你的马，或死爪，一秒内摆脱痛苦。
+Weapon_Description_HuntingRifle_Rusty	Dirty but dependable, this is a gun you can trust.	肮脏但可靠，是你可以信任的枪。
+Weapon_Description_InstitutePistol	Sleek, portable and powerful.	光滑，便携而且强大。
+Weapon_Description_InstitutePistol_Apotheosis	The power of the future in the palm of your hand.	未来的力量在你手中。
+Weapon_Description_InstitutePistol_Improved	The latest lethal tech from the Advanced Systems division.	来自高级系统部门的最新致命技术。
+Weapon_Description_InstitutePistol_Incendiary	Open fire on the Institute's enemies. Literally.	向学院的敌人们开火。字面意义上的。
+Weapon_Description_InstitutePistol_Scattered	Why settle for vaporizing only one enemy at a time?	为什么满足于一次只蒸发一个敌人？
+Weapon_Description_InstitutePistol_Scoped	Every great strategy starts with a clear vision.	每一个伟大的策略都始于清晰的视野。
+Weapon_Description_InstituteRifle	Show them you mean business. Institute business.	向他们展示你的本事。学院的本事。
+Weapon_Description_InstituteRifle_Excited	There's a particle party in that power core.	在力量的核心有一个粒子派对。
+Weapon_Description_InstituteRifle_Long	The Institute's reach is long, indeed. Now yours is, too.	学院的触角伸得很长。现在你的也是。
+Weapon_Description_InstituteRifle_NightVision	Your enemies have nowhere left to hide.	让你的敌人无处可躲。
+Weapon_Description_InstituteRifle_Targeting	Locked-on and loaded.	锁定然后上膛。
+Weapon_Description_InstituteRifle_VirgilsRifle	He's had lots of free time to design this lethal laser.	他有大量的空闲时间来设计这种致命的激光。
+Weapon_Description_JunkJet	You'd be surprised how deadly high-speed junk can be.	你会惊讶于高速喷射杂物如何的致命。
+Weapon_Description_JunkJet_Electrified	Death by junk was never so shocking.	你一定不知道杂物致死如此令人震惊。
+Weapon_Description_JunkJet_Flaming	What's scarier than a lethal teddy bear? A flaming teddy bear!	有什么比一个致命的泰迪熊更可怕？一只熊熊燃烧的泰迪熊！
+Weapon_Description_JunkJet_RecoilCompensated	Stand rock steady while you blast the bad guys.	当你喷射这个坏家伙时，请站稳了。
+Weapon_Description_JunkJet_Tactical	The latest in portable power and precision.	在便携式电源和精度上的最新款。
+Weapon_Description_JunkJet_TechniciansRevenge	They'll never make fun of a science nerd again.	他们再不会取笑一个科学呆子了。
+Weapon_Description_KelloggsPistol	Rendered deadly from decades of trauma and vindictiveness.	历经数十年的创伤与复仇执念，让这把枪变得致命无比。
+Weapon_Description_KitchenKnife	Ideal for backstabbing. Frontstabbing too. Any stabbing, really.	背后捅刀子的理想之选，前面捅刀子也行，真的，适用于任何捅刀子。
+Weapon_Description_LaserMusket	Revolutionary style meets high-tech power.	革命式的模型遇上高科技能力。
+Weapon_Description_LaserPistol	The power of a laser in the palm of your hand. Pew pew!	激光力量在你手中。咻咻！
+Weapon_Description_LaserPistol_Amplified	A quick draw, a flash of light, and all that's left is a pile of ash.	快速发射，一道闪光，剩下一堆灰烬。
+Weapon_Description_LaserPistol_Focused	The ultimate sci-fi sidearm. The power of disintegration on your hip.	终极科幻武器。腰上架着让人分崩离析的力量。
+Weapon_Description_LaserPistol_Rusty	It can light a cigarette and maybe kill a Radroach.	它可以点燃一支烟，或者杀死一只辐射蟑螂。
+Weapon_Description_LaserPistol_SmugglersEnd	From dusty cantinas to the end of the line, a true anti-hero's weapon.	从尘土飞扬的小酒馆一路干到穷途末路，真正反英雄的武器。
+Weapon_Description_LaserPistol_Tuned	Time to live out all your space cowboy fantasies.	是时候活出你所有的太空牛仔幻想了。
+Weapon_Description_LaserRifle	A high-tech infantry weapon, used by soldiers before the Great War.	一种高技术的步兵武器，在战前被士兵使用。
+Weapon_Description_LaserRifle_Amplified	If you don't disintegrate your target, you're trying to miss.	要是没能把目标分解，那说明你是故意射偏的。
+Weapon_Description_LaserRifle_Focused	The perfect weapon for a high-tech Wasteland warrior.	一个高技术废土战士的完美武器。
+Weapon_Description_LaserRifle_Rusty	Dinged up and dirty, but just as powerful as ever.	凹凸不平而且脏兮兮的，但还是一如既往的强大。
+Weapon_Description_LaserRifle_Tuned	The laser emitter has been specially tweaked for maximum damage.	调整了激光发射器，为了最大的杀伤力。
+Weapon_Description_LaserRifle_WazerWifle	Biwwy says you'we handy with a weapon. He's got that wight.	比依说你很会使武器。他说得没错。
+Weapon_Description_LeverActionRifle	When you need to take down your enemies, cowboy style.	像牛仔一样放倒你的敌人。
+Weapon_Description_LeverActionRifle_ArmorPiercing	With this beauty, they may as well not even be wearing armor.	有了这个宝贝，他们就算穿了装甲也等于没穿。
+Weapon_Description_LeverActionRifle_Enhanced	A little extra oil in the lever, some fresh rounds. It's killin' time.	在杠杆上上点油，装一些新发子弹。现在是杀戮时间。
+Weapon_Description_LeverActionRifle_Hardened	Take down those black hats like a legend of the Old West.	像旧西部传奇一样放倒那些坏蛋。
+Weapon_Description_LeverActionRifle_Henrietta	Looks like an antique, but don't let Old Longfellow hear you say that.	看上去像是个古董，但别让老费朗罗听到你这么说。
+Weapon_Description_LeverActionRifle_LincolnsRepeater	Abe himself used this to kill Radscorpions. Honest.	林肯本人用这枪杀过辐射蝎。真心话。
+Weapon_Description_LeverActionRifle_Rusty	The lever sticks a bit, but it's still a solid long-range weapon.	杠杆不太灵活，但仍然是一把坚固的远程武器。
+Weapon_Description_Magnum	A favorite of pre-war cops and Wasteland warriors.	战前警察和废土战士最喜欢的类型。
+Weapon_Description_Magnum_ArmorPiercing	Want to blow away a Metal Armored merc at 300 yards? Have fun.	想要将穿金属装甲的雇佣兵爆到300码那么远吗？试试看。
+Weapon_Description_Magnum_Blackhawk	Blow a Behemoth's head off from half a Wasteland away.	将一只变种人巨兽的脑袋射到半个废土那么远。
+Weapon_Description_Magnum_Enhanced	All it takes is a better scope and you're blasting baddies like a champ.	只要换上更好的瞄准镜，你就能像冠军一样横扫那些坏蛋。
+Weapon_Description_Magnum_Hardened	They don't call it a hand cannon for nothin'.	他们可不是随便就叫它“手炮”的。
+Weapon_Description_Magnum_Rusty	Packs a softer punch, but still a reliable handgun.	威力稍弱，但仍是可靠的手枪。
+Weapon_Description_MaresLeg	Big bore bang in a compact package.	大口径、小体积，震撼来袭！
+Weapon_Description_Minigun	Shred your enemies in a hail of bullets.	在子弹冰雹中瞬间撕碎你的敌人。

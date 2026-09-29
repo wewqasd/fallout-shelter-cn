@@ -1,0 +1,143 @@
+{
+  "chunk": "046",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_NoRestfortheWicked_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「所以我们能，就是，像朋友一样？」把英文插入语 just, like 逐个搬进中文，还把 be friends 的意义抽掉了：中文「我们能像朋友一样」后面缺谓语（像朋友一样做什么？），整句不成话。后面「我当然愿意！」译的是 Works for me，语气也偏书面。",
+      "fix": "哦！真的假的？所以咱们就是……就是能当朋友了？我没意见！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_NoRestfortheWicked_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "distress call 译成「求救电话」——辐射世界里没有电话，同任务短描述（QuestLoc_NoRestfortheWicked_QuestShortDescription）用的是「求救信号」，全项目其它 20 多处 distress call 也都是「求救信号」，此处是唯一的「求救电话」；同时漏掉 Overseer Zilewski's Vault 的「避难所」，把「扎勒斯基的避难所发来的求救」错成「扎勒斯基自己打来的求救」。",
+      "fix": "看起来鲁巴布只是刚刚开始。你收到了监督者扎勒斯基的避难所发来的求救信号。最好去调查一下！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NukaColaQuantumRun_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「我想我们知道……」是 We think we know 的逐字直译，中文里「我想」与「我们知道」语义打架，读着别扭；rare 形容物品用「稀少」搭配不当（稀少用于人口、资源，物品该说「稀有」）。",
+      "fix": "我们大概知道哪儿有一瓶稀有的量子核子可乐！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OBrother_Answer05_PC03",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「只要你跟我们分享一些那些东西」把「一些」和指示代词「那些」硬拼在一起，搭配错乱，正常中文不会说「一些那些东西」；whatsits（那玩意儿）译成「东西」也丢了这句插科打诨的口吻。",
+      "fix": "没问题。只要你舍得把那些玩意儿分我们一点。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OBrother_Conversation02_NPC01",
+      "severity": "S2",
+      "type": "其他",
+      "problem": "「别乱动手动脚」用词不当：中文「动手动脚」指动手打人或对人毛手毛脚（带性骚扰意味），而原文 Keep your hands to yourself 是警告访客「别乱碰这儿的东西」，玩家读到的意思跑偏且滑稽。",
+      "fix": "手别乱碰东西，也尽量别碍事。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OBrother_Initial3",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "原文 Nothing like the smell of Power Armor and plasma vapor 说的是「动力装甲和等离子蒸汽的那股味道无可替代」，译文改写成「穿上一身动力装甲，拿着等离子枪」，把嗅觉意象替换成穿戴和持械，已不是同一句话；另外「没什么比穿上一身动力装甲，拿着等离子枪更爽了」两个并列成分之间没有「和／、」，句尾也缺「的」，结构杂糅。",
+      "fix": "没什么比动力装甲和等离子蒸汽的气味更带劲的了！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OfftheRails_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "I thought I was done for 是「我原以为我完蛋了」的过去时反事实，译文「我想我已经完了」变成眼下的判断，时态和视角都错位；「我想我已经完了」在中文里也容易被读成「我快死了」，与「获救后的庆幸」这一语境不符。",
+      "fix": "哦，天啊。我还以为我死定了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OfftheRails_QuestLongDescription",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「一群称作是“铁路”的人」是「称作／被称为」与「是」的杂糅（应作「自称」或「被称作」）；「sneak refugees through the area」的 through the area 丢掉；结尾 Find and rescue them before it's too late 被压缩成「请尽快找到他们」，漏掉 rescue 与「来不及」的紧迫感。",
+      "fix": "一群自称“铁路”的人想把难民偷偷送过这一带，结果被掠夺者发现并抓走了。趁还来得及，赶紧找到并救出他们。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_1",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "for safe keeping 是「代为保管」，译成「上个保险」把意思整个换掉；而且「给量子核子可乐们上个保险」还给一瓶汽水加了复数「们」，既不合法又滑稽。这一句本来是 NPC 把可乐交给玩家保管（紧接着玩家选项就是「我该替你保管」），现在玩家根本读不出这层意思。",
+      "fix": "拿着，这瓶量子核子可乐也许该交给你保管。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "同一处的 for safe keeping 又译成「保险」，且「也许真的需要安保险」不成词、也不成句：「安保险」不是中文说法（应为上保险／买保险），句子还缺主语，而原文 you should have it（你该拿着它）完全没译出来，玩家只能读到一句没头没尾的怪话。",
+      "fix": "哦，好吧，那这瓶就交给你保管吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OneGhoulCustomer_Conversation_1_Team_2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「它们是冲你来的，不是你的量子核子可乐」把比较结构后半截的介词省掉了，成了「不是你的可乐（冲你）来的」，成分残缺、读着卡壳；前半句「这位女士你真的疯了」是 You're crazy, lady 的直译，中文当面这样称呼很别扭。",
+      "fix": "你疯了吧，女士。它们是冲你来的，不是冲你那瓶量子核子可乐来的。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OneGhoulCustomer_Conversation_1_Team_3",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "原文 that Nuka-Cola Quantum 是单数那一瓶（同任务其它句子都说「一瓶／那瓶」），译文写成「那些量子核子可乐」变成复数，量词与指代都错；hang on to 是「代为保管」，译成「拿着」也偏了。",
+      "fix": "也许我该替你保管那瓶量子核子可乐，这样你就安全了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OperationSandman_Conversation_2_NPCEnd_1",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「精彩的！」把感叹词 Wonderful! 当成形容词直译，中文没有这种单独成句的用法，读起来像话没说完；后半句 the day we've all worked toward 的「那一天」也被换成「目标」。",
+      "fix": "太好了！我们共同为之努力的那一天就在眼前了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OperationSandman_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "对 Thousands?! 的惊呼译成孤零零一个字「千？」，中文里数量单位不能这样单独成问句，玩家第一眼很难反应出是在惊呼「几千人」，下一句「但死亡仍在沉睡」就接得莫名其妙。",
+      "fix": "几千人？！但“死亡”仍在沉睡……稍等……给我上！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OperationSandman_Conversation_2_Team_4",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "原文的关键是 The capitalization of “Death” is a typo——错的是「死亡」这个词被大写了；译文只说「“死亡”是一个拼写错误」，丢掉「首字母大写」这个支点，中文读者不明白到底是哪一笔写错了，后面几段围绕「typo」的抬杠也就失去落点。",
+      "fix": "我们发现了真相。手册是错的。“死亡”的首字母大写只是个笔误！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OperationSandman_Conversation_3_Team_1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "上一句刚问「是第37条第c项吗？／或第12条，第j项？」，Definitely the first one 指「先提到的那个」，译文「绝对第一。」缺谓语、不成句，还被读成「排名第一」，答非所问。",
+      "fix": "绝对是前一个。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NVB_QL3_Stripper_4_Question8_Line3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「我能否斗胆希望你们对我开恩？」里「斗胆」搭配错误：它只能修饰「问／说／请求」这类言语动作，不能接「希望」，中文读着别扭（英文 Dare I hope 是可以的，中文不行）。",
+      "fix": "我能否奢望你们对我开恩？",
+      "confidence": "medium"
+    }
+  ]
+}

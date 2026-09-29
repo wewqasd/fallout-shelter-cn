@@ -1,0 +1,23 @@
+{
+  "chunk": "long_003",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "Message_TutorialPopup_16_Body",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 主语是居民：「Dwellers with a high Luck SPECIAL are more successful at rushing rooms」——运气高的居民在极速房间时更容易成功；ZH 把主语换成房间，译作「运气值（L）高的居民所处的房间更容易在极速模式上成功」，机制描述被改写（谁更容易成功被安到了房间上）。同一句尾的 CAPS bonuses 也被写成「更多的瓶盖奖励」，EN 并未作程度比较。",
+      "fix": "运气SPECIAL高的居民在房间极速模式中更容易成功，并且在生产结束时能获得瓶盖奖励。",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_TutorialPopup_ScorchedAttackWarning_Body",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 第二分句「Scorched are tougher and more powerful than normal invaders」的比较对象是通用入侵者，ZH 译成「辐尸人比普通掠夺者更强更难对付」，自创了「掠夺者」这一具体敌人，比较对象被收窄；且 more powerful 与 tougher 被合并为「更难对付」，强度信息弱化。",
+      "fix": "辐尸人比普通入侵者更强更难对付，但战斗结束后您的居民会免费复活。\\n\\n痛苦是真实的，但死亡只是暂时的！",
+      "confidence": "high"
+    }
+  ]
+}

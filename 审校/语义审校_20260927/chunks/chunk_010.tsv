@@ -1,0 +1,181 @@
+key	EN	ZH
+Message_Tutorial_43_PC	This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {CLICK} on {WATER TREATMENT}.	这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。
+Message_Tutorial_43_Xbox	This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {SELECT} the {WATER TREATMENT}.	这次您需要一个{水房}来帮助您生产干净的{水}。{选择}{水房}。
+Message_Tutorial_44	Dwellers require {WATER} to keep their {RADIATION} level low. Tap again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。
+Message_Tutorial_44_PC	Dwellers require {WATER} to keep their {RADIATION} level low. Click again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。
+Message_Tutorial_44_Xbox	Dwellers require {WATER} to keep their {RADIATION} level low. Press [A] again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次按下来{确认}。
+Message_Tutorial_45	Confirm the location by {TAPPING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
+Message_Tutorial_45_PC	Confirm the location by {CLICKING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
+Message_Tutorial_45_Xbox	Confirm the location by {SELECTING} a {BUILD ZONE}.	{选择}{建造区域}来确认地点。
+Message_Tutorial_46	Great work! Here's some {FOOD} and {WATER} to start your {VAULT}. Look at the {METERS} to keep track of your {RESOURCES} needs.	干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。您可以通过{资源刻度条}来查看{资源}的需求量。
+Message_Tutorial_46_PS4	Great work! Here's some {FOOD} and {WATER} to start your {VAULT}. Press {L3} to display your Vault {METER} details and remember to keep track of your {RESOURCES} needs.	干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。您可以按下{L3}来查看避难所{资源刻度条}的细节，查看您的{资源}需求量。
+Message_Tutorial_46_Switch	Great work! Here's some {FOOD} and {WATER} to start your {VAULT}. {PRESS} the {LEFT STICK} to display your Vault {METER} details and remember to keep track of your {RESOURCES} needs.	干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。{按下}{左摇杆}来查看避难所{资源刻度条}的细节，查看您的{资源}需求量。
+Message_Tutorial_46_Xbox	Great work! Here's some {FOOD} and {WATER} to start your {VAULT}. {CLICK} the {LEFT STICK} to display your Vault {METER} details and remember to keep track of your {RESOURCES} needs.	干得不错！这里有一些{食物}和{水}来帮助您开始经营{避难所}。{点击}{左摇杆}来展示避难所{资源刻度条}的细节，并记住随时关注{资源}的需求量。
+Message_Tutorial_47	{JUNK} is used to {CRAFT WEAPONS} and {OUTFITS} in the {WORKSHOP} rooms.	{杂物} 被用来在{工坊}里{打造武器}和{装备}。
+Message_Tutorial_48	A {PREGNANT DWELLER} is ready to give birth! {TAP} the {ICON} above her head to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。
+Message_Tutorial_48_PC	A {PREGNANT DWELLER} is ready to give birth! {CLICK} the {ICON} above her head to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。
+Message_Tutorial_48_Xbox	A {PREGNANT DWELLER} is ready to give birth! {SELECT} her to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{选择}她来欢迎避难所的{新成员}。
+Message_Tutorial_49	Your {INVENTORY} is {FULL}. Excess {ITEMS} will be stored but {UNAVAILABLE} until there's space for them.	您的{库存已满}。多出的{物品}将会保留，但无法使用，直到有足够的空间。
+Message_Tutorial_50	{ITEMS} within a {DASHED RECTANGLE} exceed your {INVENTORY} and are {UNAVAILABLE} until there's space for them.	{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前无法{使用}。
+Message_Tutorial_51	{SCRAPPING} an {ITEM} turns it into {JUNK}, but it's {RISKY}. You might get lots of {JUNK}, just a little, or none at all.	{分解}一个{物品}来将其变成{杂物}，但此事有{风险}。您可能会得到很多{杂物}、一点点杂物，或者什么都得不到。
+Message_Tutorial_52	Congratulations – you just built the {OVERSEER'S OFFICE}! You can now send teams of {DWELLERS} out of the Vault on {QUESTS}.	恭喜！您刚建成了{监督者办公室}！您现在可以派出{居民}小队去避难所外执行{任务}了。
+Message_Tutorial_53	To access your {QUEST LIST}, {SELECT} the {PIP-BOY}.	想要打开{任务列表}，请{点击}{哔哔小子}。
+Message_Tutorial_53_Xbox	To access your {QUEST LIST}, press [B] to open the {PIP-BOY}.	想要打开{任务列表}。按下来打开{哔哔小子}。
+Message_Tutorial_54	Now {SELECT} the {MAP ICON}.	现在{选择}{地图图标}。
+Message_Tutorial_55	Available {QUESTS} will be listed here. {SELECT} the first {QUEST} for more information.	这里会列出可执行的{任务}。{选择}第一个{任务}来查看更多信息。
+Message_Tutorial_56	{TAP} here to assign {DWELLERS} to the {QUEST} team.	{点击}这里然后分配{居民}到{任务}小队。
+Message_Tutorial_56_PC	{CLICK} here to assign {DWELLERS} to the {QUEST} team.	{点击}这里然后分配{居民}到{任务}小队。
+Message_Tutorial_56_Xbox	Press [A] to assign {DWELLERS} to the {QUEST} team.	按下来分配{居民}到{任务}小队。
+Message_Tutorial_57	First {SELECT} a {DWELLER} slot.	先{选择}一个{居民}队列位置。
+Message_Tutorial_58	Now {SELECT} the Dweller you want to send on the {QUEST}.	现在{选择}一个您想派遣去执行{任务}的居民。
+Message_Tutorial_59	{SELECT} the inventory slots to prepare the {DWELLERS} for the {QUEST}.	{选择}存储槽来为将要去执行{任务}的{居民}做好准备。
+Message_Tutorial_60	Now {SELECT} a {WEAPON}.	现在{选择}一个{武器}。
+Message_Tutorial_61	When you are finished assigning and equipping {DWELLERS}, {TAP} the {START QUEST} button to send them out on their adventure.	当您完成派遣和武装{居民}时，{点击}{开始任务}按钮就可以让他们出去探险了。
+Message_Tutorial_61_PC	When you are finished assigning and equipping {DWELLERS}, {CLICK} the {START QUEST} button to send them out on their adventure.	当您完成派遣和武装{居民}时，{点击}{开始任务}按钮就可以让他们出去探险了。
+Message_Tutorial_61_Xbox	When you are finished assigning and equipping {DWELLERS}, select {START QUEST} to send them out on their adventure.	当您完成派遣和武装{居民}时，选择{开始任务}按钮就可以让他们出去探险了。
+Message_Tutorial_62	{TAP} the {WASTELAND} to open the {WASTELAND QUEST LOG}.	{点击}{废土}来打开{废土任务日志}。
+Message_Tutorial_62_PC	{CLICK} the {WASTELAND} to open the {WASTELAND QUEST LOG}.	{点击}{废土}来打开{废土任务日志}。
+Message_Tutorial_62_Xbox	Press [DL] to open the {WASTELAND QUEST LOG}.	按下来打开{废土任务日志}。
+Message_Tutorial_63	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {TAP} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now.	用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。
+Message_Tutorial_63_PC	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {CLICK} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now.	用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。
+Message_Tutorial_63_Xbox	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. Select {REACH NOW} to use the {NUKA-COLA QUANTUM} Vault-Tec has provided.	用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}来极速到达现场。
+Message_Tutorial_64	You can also use {NUKA-COLA QUANTUM} to skip {OBJECTIVES} in the {VAULT} and to speed up {CRAFTING}, {TRAINING} and Barbershop {CUSTOMIZATION}.	您还能够使用{量子核子可乐}来跳过避难所里的每日{目标}，加速{打造}、{训练}和美发店{个性化}的进程。
+Message_Tutorial_65	{QUESTS} allow you to explore new locations, meet new {DWELLERS} and collect {LOOT}. The {MAP ICON} in the upper right corner will display your {QUEST OBJECTIVES}.	{任务}能让您探索新的地点，认识新{居民}和收集{战利品}。右上角的{地图图标}会显示您的{任务目标}。
+Message_Tutorial_66	Your Dweller(s) will automatically leave the Vault to begin the Quest.	您的居民会自动离开避难所，开始执行任务。
+Message_Tutorial_67	If you don't want any new Dwellers, you can {STOP} the {RADIO STUDIO} from calling out. It will still broadcast in the Vault and boost {HAPPINESS}.	如果不需要任何新居民，您可以{关闭}{广播站}的对外召唤功能，但其仍能在避难所内部播放广播，提升居民{幸福度}。
+Message_Tutorial_68	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_68_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_68_PS4	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}然后按下来分配他们。
+Message_Tutorial_68_Switch	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}然后按下来分配他们。
+Message_Tutorial_68_Xbox	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}然后按下来分配他们。
+Message_Tutorial_ArrivalWidgetBuildOverseerRoom	Each {SEASONAL DWELLER} will also unlock a new {QUEST LINE}. Unlock and build an {OVERSEER's OFFICE} to recruit your new Dweller!	每个{赛季居民}都会解锁一条新的{任务线}。解锁并建造{监督者办公室}，来招募您的新居民！
+Message_Tutorial_ArrivalWidgetClaimDweller	{TAP} on the {CLAIM BUTTON} to recruit your new Dweller.	{点击}{领取按钮}来招募您的新居民。
+Message_Tutorial_ArrivalWidgetClaimDweller_PC	{CLICK} on the {CLAIM BUTTON} to recruit your new Dweller.	{点击}{领取按钮}来招募您的新居民。
+Message_Tutorial_ArrivalWidgetClaimDweller_Xbox	{SELECT} the {CLAIM BUTTON} to recruit your new Dweller.	{选择}{领取按钮}来招募您的新居民。
+Message_Tutorial_ArrivalWidgetHighlightDweller	Remember to {ASSIGN} your new Dweller to your Vault!	记得把您的新居民{分配}到避难所！
+Message_Tutorial_ArrivalWidgetIntroduction	{SEASONAL DWELLERS} will arrive every few days. The {TIME} until the next {DWELLER} is shown in the top left.	{赛季居民}每隔几天到达一次。左上角的{时间}显示距离下一位{居民}抵达的倒计时。
+Message_Tutorial_ArrivalWidgetOpenModal	{TAP} on the timer to see more details about the next {SEASONAL DWELLER}.	{点击}计时器，查看下一位{赛季居民}的更多细节。
+Message_Tutorial_ArrivalWidgetOpenModal_PC	{CLICK} on the timer to see more details about the next {SEASONAL DWELLER}.	{点击}计时器，查看下一位{赛季居民}的更多细节。
+Message_Tutorial_ArrivalWidgetOpenModal_Xbox	{SELECT} the timer to see more details about the next {SEASONAL DWELLER}.	{选择}计时器，查看下一位{赛季居民}的更多细节。
+Message_Tutorial_ArrivalWidgetReadyToClaim	Your new Dweller is here! {TAP} on their icon to recruit them.	您的新居民到了！{点击}他们的头像来招募。
+Message_Tutorial_ArrivalWidgetReadyToClaim_PC	Your new Dweller is here! {CLICK} on their icon to recruit them.	您的新居民到了！{点击}他们的头像来招募。
+Message_Tutorial_ArrivalWidgetReadyToClaim_Xbox	Your new Dweller is here! {SELECT} their icon to recruit them.	您的新居民到了！{选择}他们的头像来招募。
+Message_Tutorial_ArrivalWidgetRequirements	In addition to the timer, you may also need to complete other prerequisites to claim the {SEASONAL DWELLER}.	除了等待倒计时，您可能还需要完成其他前置条件才能领取{赛季居民}。
+Message_Tutorial_NoRoomDwellers	You just used the last available space for Dwellers in the Vault. Build more {LIVING QUARTERS} to accommodate more Dwellers.	您刚刚用掉了避难所里最后的可用空间。建造更多的{宿舍}来安置更多的居民。
+Message_Tutorial_ScorchedAttackFail	The Scorched beat all your dwellers. But you'll get another chance... and Vault-Tec's improved medical systems have revived everyone for free!	辐尸人打败了您所有的居民。但您还有机会……避难所科技的改良医疗系统已让所有人免费复活！
+Message_Tutorial_ScorchedEarlyAttack	You can start a {SCORCHED RAID} early if there is less than {12 HOURS} remaining. But make sure you're prepared!	如果剩余时间不足{12小时}，您可以提前开始{辐尸人突袭}。但请确保自己已做好准备！
+Message_Tutorial_ScorchedEnemies	{SCORCHED RAIDS} will have more enemies and increase in {DIFFICULTY} as the season progresses.	随着赛季推进，{辐尸人突袭}的敌人会更多，{难度}也会逐步提升。
+Message_Tutorial_ScorchedTimerIntroduction	{SCORCHED RAIDS} will occur every few days. The {TIME} until the next {RAID} is shown in the top left.	{辐尸人突袭}每隔几天发生一次。左上角的{时间}显示距离下一场{突袭}的倒计时。
+Message_Tutorial_ScorchedTimerOpen	{TAP} on the timer to see more details about the next {SCORCHED RAID}.	点击计时器，查看下一场{辐尸人突袭}的更多细节。
+Message_Tutorial_ScorchedTimerOpen_PC	{CLICK} on the timer to see more details about the next {SCORCHED RAID}.	点击计时器，查看下一场{辐尸人突袭}的更多细节。
+Message_Tutorial_ScorchedTimerOpen_Xbox	{SELECT} the timer to see more details about the next {SCORCHED RAID}.	{选择}计时器，查看下一场{辐尸人突袭}的更多细节。
+Message_Tutorial_SeasonBattlePass	Gaining {RANKS} in the {SEASON PASS} gives you {REWARDS} that can be claimed in each of your Vaults.	在{赛季通行证}中获取{等级}，即可获得可在每一座避难所领取的{奖励}。
+Message_Tutorial_SeasonChallenges	Complete {CHALLENGES} to earn progress on your {SEASON PASS}. New Challenges are unlocked each week.	完成{挑战}来推进您的{赛季通行证}进度。每周都会解锁新的挑战。
+Message_Tutorial_SeasonIntroduction	Welcome to {SEASONS}! You can now complete {CHALLENGES} rank up your {SEASON PASS} to earn rewards throughout the lifespan of this {EXPERIMENTAL VAULT}.	欢迎来到{赛季}！现在您可以通过完成{挑战}来提升您的{赛季通行证}等级，从而在整个{实验避难所}的生命周期内获得丰厚奖励。
+Message_Tutorial_SeasonLeaderboard	Complete actions in your {EXPERIMENT VAULT} to earn {POINTS} and claim {REWARDS}. Challenge your {FRIENDS} to see who is the best {OVERSEER}!	在您的{实验避难所}中完成行动来赢取{分数}并领取{奖励}。向您的{好友}发起挑战，看看谁才是最出色的{监督者}！
+Message_Tutorial_SeasonOpenBattlePass	Now, {SELECT} the {SEASON PASS} tab.	现在，{选择}{赛季通行证}标签页。
+Message_Tutorial_SeasonOpenLeaderboard	Now, {SELECT} the {LEADERBOARD} tab.	现在，{选择}{排行榜}标签页。
+Message_Tutorial_SeasonOpenLeaderboardInfoPanel	{TAP} the {INFO BUTTON} to learn how to increase your {VAULT SCORE}.	{点击}{信息按钮}，了解如何提升{避难所评分}。
+Message_Tutorial_SeasonOpenModal	First, {SELECT} the {SEASON BUTTON}.	首先，{选择}{赛季按钮}。
+Message_Tutorial_SeasonUnlockBattlePass	{UPGRADE} the {SEASON PASS} for even better {REWARDS}!	{升级}{赛季通行证}，以获得更好的{奖励}！
+Message_Tutorial_SeasonalQuestDetails	Complete {SEASONAL QUESTS} to earn additional {TOKENS} and recruit more {SEASONAL DWELLERS}.	完成{赛季任务}可获得额外{筹码}，并招募更多{赛季居民}。
+Message_Tutorial_SeasonalQuestIntroduction	Congratulations - you just unlocked a {SEASONAL QUEST LINE}!	恭喜——您刚刚解锁了一条全新的{赛季任务线}！
+Message_Tutorial_SeasonalQuestOpenPipBoy	Open your {QUEST LIST} to access the new {QUEST}.	打开{任务列表}来进入新的{任务}。
+Message_Tutorial_SpinToWinConclusion	Earn more {TOKENS} by logging in each day, watching video ads, and completing seasonal quests. The {PRIZES} change each day, so make sure to check back often for your next chance to win big!	每天登录、观看视频广告并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！
+Message_Tutorial_SpinToWinConclusion_PC	Earn more {TOKENS} by logging in each day, and completing seasonal quests. The {PRIZES} change each day, so make sure to check back often for your next chance to win big!	每天登录并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！
+Message_Tutorial_SpinToWinConclusion_Xbox	Earn more {TOKENS} by logging in each day, and completing seasonal quests. The {PRIZES} change each day, so make sure to check back often for your next chance to win big!	每天登录并完成赛季任务，即可赚取更多{筹码}。{奖励}每天都会变化，请经常回来看看，抓住赢取大奖的下次机会！
+Message_Tutorial_SpinToWinHowToPlay	Spend a {TOKEN} to spin the Spin-to-Win wheel and win whatever {PRIZE} it lands on.	花费一枚{筹码}转动幸运大转盘，无论指针停在哪里，都能赢得对应的{奖励}。
+Message_Tutorial_SpinToWinIntroduction	Throughout the season you will be able to test your luck on the {SPIN-TO-WIN WHEEL} and win {AMAZING PRIZES}!	在整个赛季中，您都可以在{幸运转盘}上考验您的运气，赢取{超赞奖励}！
+Message_Tutorial_SpinToWinOpenModal	{TAP} on the {WHEEL BUTTON} to open the {SPIN-TO-WIN WHEEL}.	{点击}{幸运转盘按钮}打开{幸运转盘}。
+Message_Tutorial_SpinToWinOpenModal_PC	{CLICK} on the {WHEEL BUTTON} to open the {SPIN-TO-WIN WHEEL}.	{点击}{幸运转盘按钮}打开{幸运转盘}。
+Message_Tutorial_SpinToWinOpenModal_Xbox	{SELECT} the {WHEEL BUTTON} to open the {SPIN-TO-WIN WHEEL}.	{选择}{幸运转盘按钮}打开{幸运转盘}。
+Message_Tutorial_SpinToWinSpin	{TAP} the button to SPIN! THAT! WHEEL!	{点击}按下按钮，转！那！个！盘！
+Message_Tutorial_SpinToWinSpin_PC	{CLICK} the button to SPIN! THAT! WHEEL!	{点击}按下按钮，转！那！个！盘！
+Message_Tutorial_SpinToWinSpin_Xbox	{SELECT} the button to SPIN! THAT! WHEEL!	{选择}按下按钮，转！那！个！盘！
+Message_Tutorial_UltraciteWeaponCraftingAssignDweller	{ASSIGN} any Dweller to the {ULTRACITE WEAPON FACTORY}.	{分配}任意一名居民到{辐射极琉矿武器工坊}。
+Message_Tutorial_UltraciteWeaponCraftingConclusion	{TAP} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{辐射极琉矿武器}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingConclusion_PC	{CLICK} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	{点击}列表中的一把{辐射极琉矿武器}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox	Use the {LEFT STICK} to {SELECT} an {ULTRACITE WEAPON} and {PRESS} [A] to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.	用{左摇杆}{选择}一把{辐射极琉矿武器}，然后{按下}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。
+Message_Tutorial_UltraciteWeaponCraftingCraftingMessage	{TAP} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}.	{点击}{制造按钮}来{打开}{制造菜单}。
+Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_PC	{CLICK} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}.	{点击}{制造按钮}来{打开}{制造菜单}。
+Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_Xbox	Press [DU] to {OPEN} the {CRAFTING MENU}.	按来{打开}{制造菜单}。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom	Let's start crafting! {DOUBLE TAP} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{辐射极琉矿武器工坊}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_PC	Let's start crafting! {DOUBLE CLICK} on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！{双击}{辐射极琉矿武器工坊}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox	Let's start crafting! {HOLD} [RT] on the {ULTRACITE WEAPON FACTORY} to take a closer look.	开始打造吧！在{辐射极琉矿武器工坊}上{长按}近距离查看。
+Message_Tutorial_UltraciteWeaponCraftingIntroduction	Time to fight back against those {SCORCHED}! Now that we have some {ULTRACITE}, let's use it to craft some powerful new {WEAPONS}.	是时候反击那些{辐尸人}了！既然我们已经有了{辐射极琉矿}，就用它来打造几件强力的新{武器}吧。
+Message_UltraciteToolTip	Cannot be destroyed. Build an Ultracite Mine here.	无法摧毁。在此建造辐射极琉矿矿场。
+Message_VaultCapacity_Full_BuildMenu	Limit Reached.	达到上限。
+Message_VaultMaxPets	You have already given Pets to {0} Dwellers, the maximum number of Pets allowed by Vault-Tec.	您已经给{0}位居民分配了宠物，达到了避难所科技允许的最大值。
+Message_Vault_Full	You have 200 Dwellers, the maximum number of Dwellers allowed by Vault-Tec.	您已拥有200位居民，已达到避难所科技允许的最大人口数。
+Message_WastelandSkipNukaQuantum	Instantly return to the Vault for {0} Nuka-Cola Quantum?	立即用{0}瓶量子核子可乐返回避难所吗？
+Message_Wasteland_Full	Wasteland slots are full	废土探索的居民已达到上限。
+Message_Wasteland_Waiting_Dwellers	That Dweller is not in the Vault	此居民不在避难所内。
+Message_XBoxAccountMismatchError	Please sign in to the Windows Store with the {0} Xbox LIVE account.	请用{0}Xbox LIVE账号登录进入Windows Store。
+Message_XBoxUpdateAvailable_NoVersion	A new version is available. The game will be closed to download and apply the update.	一个新的版本可用。游戏将关闭来下载安装更新。
+Message_XBoxUpdateAvailable_Version	Version {0} is now available. The game will be closed to download and apply the update.	{0}版本现在可用。游戏将关闭来下载安装更新。
+Message_XboxPleaseConnect	You must be online to play. Please connect to Xbox LIVE.	必须要联网才能玩，请连接至Xbox LIVE。
+Message_XboxSomethingWrong	Something went wrong. Please try again or restart the game.	出错。请重试，或重启游戏。
+MissingInternetConnection	This action requires an internet connection. Please connect to the internet and try again	这项动作需要网络连接。请连接至网络重试。
+Molerat_Name	Mole rat	鼹鼠
+Molerat_Name_Plural	Mole rats	鼹鼠
+MoveInsteadOfOverrideText	Backup to free slot	备份到空档
+MrHandyDialog_Armory_01	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
+MrHandyDialog_Armory_02	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
+MrHandyDialog_Athletics_01	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
+MrHandyDialog_Athletics_02	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
+MrHandyDialog_Bar_01	Anyone fancy a tipple?	有谁想来一杯吗？
+MrHandyDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……
+MrHandyDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？快餐薯泥？人类竟然真吃这些垃圾？
+MrHandyDialog_Cafeteria_02	Thank Heavens General Atomics International spared me from the threat of nausea. And obesity.	感谢通用原子国际让我免受恶心和肥胖的威胁。
+MrHandyDialog_Classroom_01	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
+MrHandyDialog_Classroom_02	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
+MrHandyDialog_Fitness_01	Ah, cardio. Fascinating concept.	啊，有氧运动。真是个有趣的概念。
+MrHandyDialog_Fitness_02	Ah, cardio. Fascinating concept.	啊，有氧运动。真是个有趣的概念。
+MrHandyDialog_GameRoom_01	Hmph. Just let these humans try and beat my high score in Red Menace...	哼，就让这些人类来挑战我在《红色威胁》中的高分吧……
+MrHandyDialog_GameRoom_02	Hmph. Just let these humans try and beat my high score in Red Menace...	哼，就让这些人类来挑战我在《红色威胁》中的高分吧……
+MrHandyDialog_Generic_01	If the humans are happy, I'm happy. I swear.	人类开心，我就开心。我发誓。
+MrHandyDialog_Generic_02	So many humans, so little time.	人类如此之多，我的时间却如此之少。
+MrHandyDialog_Generic_03	Entombed in cold, unyielding steel. It's robot Heaven.	长眠于冰冷坚硬的钢铁之中——这就是机器人的天堂。
+MrHandyDialog_Generic_04	My kingdom for an oil bath...	我渴望一场机油浴……
+MrHandyDialog_Generic_05	If I've told them once, I've told them a thousand times. NO. PEDICURES.	这话我跟他们说过不下一千遍了：不。做。修。脚。
+MrHandyDialog_Generic_06	Do this, do that. But do I get a “thank you”? Nooooo...	做这个，做那个。可我听过一句“谢谢”吗？没——有……
+MrHandyDialog_Generic_07	Yes, Overseer, I know you're watching. I'm working as fast as I bloody can...	是的，监督者，我知道你在看着。我已经在拼了命地赶工了……
+MrHandyDialog_Generic_08	I am a Mister Handy model robot. The pride of General Atomics International!	我是巧手先生型机器人，通用原子国际的骄傲！
+MrHandyDialog_Generic_09	Not a day goes by that I don't revel in the servitude of humankind. 	每天我都沉浸在为人类服务的喜悦中。
+MrHandyDialog_Generic_10	Live to serve, serve to live...	活着是为了服务，服务是为了活着……
+MrHandyDialog_Generic_11	Coming, coming! I'll be with you in two ticks!	来啦，来啦！我马上就来！
+MrHandyDialog_Generic_12	They don't call me Mister Handy for nothing.	“巧手先生”这名字可不是白叫的。
+MrHandyDialog_Generic_13	Hello, humans. Mister Handy here, ready to serve your every whim!	你好，人类。巧手先生在此，随时伺候各位的每个突发奇想！
+MrHandyDialog_Generic_14	What do you need? Dusting? Mopping? General tidying?	需要什么？除尘？拖地？还是一般的整理？
+MrHandyDialog_Generic_15	Now now, I don't do windows. Oh wait! You don't have any! Ha ha ha. Sorry, robot humor...	先说好，我不擦窗户。哦，等等！你们根本没有窗户！哈哈哈。抱歉，这是机器人的幽默……
+MrHandyDialog_Generic_16	Feeling lazy? You called the right robot! You want it, I'll fetch it.	懒得动？那你可找对机器人了！你想要什么，我去拿。
+MrHandyDialog_Generic_17	I'll do whatever I can to support you humans' fat, lazy lifestyle.	我会尽我所能支持你们人类肥胖懒惰的生活方式。
+MrHandyDialog_Generic_18	Sometimes these humans feel like characters in a video game. Incapable of doing anything on their own...	有时候，这些人类感觉就像视频游戏里的角色，无法独立完成任何事情……
+MrHandyDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
+MrHandyDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，快看，一层灰。毕竟，谁会不喜欢清理人类掉的毛发和皮屑呢。
+MrHandyDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	讲笑话时间！把根汁啤酒“开平方”，会得到什么？——啤酒！哦，我能把自己笑死……
+MrHandyDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？
+MrHandyDialog_Generic_23	They say there are 10 different kinds of people in the world. Those who understand binary... and those who don't.	他们说世界上有10种人。懂二进制的和不懂二进制的。
+MrHandyDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我可能会照顾一个生活小康的郊区家庭……
+MrHandyDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？放马过来吧，人类！
+MrHandyDialog_Generic_26	Have hover unit, will travel. Just let me know what you need, people.	自带悬浮单元，说走就走。各位有什么需要，尽管吩咐。
+MrHandyDialog_Generic_27	Personally, I think all this talk of an “Overseer” is so much rubbish. I've certainly never seen them.	个人认为，关于“监督者”的所有说法都是胡说八道。我从来没有见过他们。
+MrHandyDialog_Generic_28	I do hope there's no diaper changing today. The little humans are always so... wiggly.	真希望今天不用换尿布。那些小家伙总是……扭来扭去。
+MrHandyDialog_Generic_29	Cheerio, Vault Dwellers!	再见，避难所居民！
+MrHandyDialog_Generic_30	Is that... oh, it is. Blood on the floor. Wonderful.	这是什么……哦，还真是。地板上有血。太“棒”了。
+MrHandyDialog_Generic_31	There's not enough Abraxo on the planet to scrub this place clean.	把全世界的艾巴索清洁剂都拿来，也刷不干净这地方。
+MrHandyDialog_Generic_32	Ugh. This place leaks like a sieve. And me without my brolly.	呃，这地方漏得跟筛子似的。偏偏我又没带伞。
+MrHandyDialog_Generic_33	I wonder if we could convert one of these rooms into a proper study. Fireplace, bookshelves... gin.	我想知道我们能不能把其中一个房间改造成一个正经的书房。壁炉、书架……还有杜松子酒。
+MrHandyDialog_Generic_34	These humans can be so hard to understand. Everyone has SUCH an accent.	这些人类真是太难理解了。每个人都有那么重的口音。
+MrHandyDialog_Generic_35	Hard work is happy work? Like you humans would know.	努力工作令人快乐？你们人类真的懂吗？
+MrHandyDialog_Generic_36	Tsk tsk tsk. I'd need a firehose attachment to give this place a proper washing.	啧啧啧。我得加装一个高压水带配件，才洗得干净这地方。
+MrHandyDialog_Generic_37	Dinner tonight - Beef Wellington and a bottle of Bordeaux! Just kidding. It's Cram again.	今晚的晚餐——惠灵顿牛排配一瓶波尔多！开个玩笑。又是饱饱牌肉罐头。
+MrHandyDialog_Generic_38	Olfactory sensors picking up... vomit and chocolate. There must be children about.	嗅觉传感器检测到……呕吐物和巧克力。附近一定有个小孩子。
+MrHandyDialog_Generic_39	I do hope the humans are happy today. Grumpy Vault Dwellers are so difficult to care for.	希望这些人类今天开心。脾气暴躁的避难所居民可麻烦了。
+MrHandyDialog_Generic_40	This place could do with a few houseplants. Tulips, cacti... perhaps a life-sized Venus flytrap.	这个地方需要一些室内植物。郁金香、仙人掌……也许还有一个真人大小的捕蝇草。
+MrHandyDialog_Generic_41	As soon as I get one room under control, they build another! It's madness!	我刚收拾完一个房间，他们就又建了个新的！真是疯了！
+MrHandyDialog_Generic_42	And so the humans go about their work, like so many ants in a hill.	人类就像一群蚂蚁一样忙碌着。
+MrHandyDialog_Generic_43	I see a long, luxurious oil bath in my future...	我梦想着未来的豪华机油浴……
+MrHandyDialog_Generic_44	So many humans seek solace in love. Nobody cares about my soulmate.	这么多人类都在爱情里寻找慰藉，却没人在意我的灵魂伴侣。
+MrHandyDialog_Generic_45	The lighting in here is horrible. If I had eyes, they'd be ruined. Though I'd probably look dashing in horn rims...	这里的灯光太差了。如果我有眼睛，它们早就废了。不过戴上眼镜，我可能会很帅……
+MrHandyDialog_Generic_46	I wonder if the kitchen needs help. I make a mean flambe'.	厨房需要帮忙吗？我做火焰料理很拿手。

@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_ArmsRace_Conversation_1_NPCStart_2	Well, as promised, I've got a weapon for you.	就像保证的那样。我给你们准备了一个武器。
+QuestLoc_ArmsRace_Conversation_1_NPCStart_3	Or would you prefer Caps instead?	还是说你们更喜欢瓶盖？
+QuestLoc_ArmsRace_Conversation_1_Team_1	The weapon, please.	当然是武器，谢啦。
+QuestLoc_ArmsRace_Conversation_1_Team_2	The Caps will be fine.	有瓶盖就行。
+QuestLoc_ArmsRace_QuestLongDescription	The gunsmith's plea came in loud and clear over the radio. “Feral Ghouls! Help! I'll give one of my best pieces to whoever bails me out!” Better hurry if you're going to claim that prize!	枪匠的呼喊从广播里传来，声音大而清楚。“狂尸鬼！救命！谁要是能救我出去我会拿最好的武器报答他！”如果你想要这个奖励的话得赶快了。
+QuestLoc_ArmsRace_QuestName	Arms Race	武器竞赛
+QuestLoc_ArmsRace_QuestObjective_1	Eliminate the Feral Ghouls.	除掉狂尸鬼。
+QuestLoc_ArmsRace_QuestObjective_2	Claim your reward.	领取你的奖励。
+QuestLoc_ArmsRace_QuestShortDescription	Save the gunsmith from the Feral Ghouls.	从狂尸鬼手里拯救枪匠。
+QuestLoc_Astronomical_Conversation1_Answer_NPC01	She has seemed strange lately. If you're here to help, then go help.	她最近是有点不对劲。如果你真是来帮忙的，那就赶紧进去吧。
+QuestLoc_Astronomical_Conversation1_Answer_NPC02	Open fire!	开火！
+QuestLoc_Astronomical_Conversation1_Answer_PC01	We're here to help! Please, let us pass! Your leader is making a big mistake!	我们是来帮忙的！快让我们进去！你们的头儿干了件蠢事！
+QuestLoc_Astronomical_Conversation1_Answer_PC02	We're here to stop you and your crazy leader!	我们是来阻止你们和你们那个疯子领导的！
+QuestLoc_Astronomical_Conversation1_NPC01	You're no Brotherhood soldiers. What are you doing here?	你们不是兄弟会的人？来这儿干啥？
+QuestLoc_Astronomical_Conversation2_Answer_NPC01	Go, then. It should be clear past here. We'll hold this point. Oh! We found this. You might be able to use it for your vault.	去吧。那边应该没什么人了。我们会守在这里的。对了，我们找到了这个，你们避难所可能用得上。
+QuestLoc_Astronomical_Conversation2_Answer_PC01	We know about the weapon. We're here to help!	我们知道那件武器的事。我们是来帮忙的！
+QuestLoc_Astronomical_Conversation2_NPC01	Vault dwellers? You made it through alive!	避难所来的？你们竟然还活着！
+QuestLoc_Astronomical_Conversation3_Answer_NPC01	This is the only way back to something good. I won't let anyone stop that.	这是重回正轨的唯一办法。我不会让任何人阻止我。
+QuestLoc_Astronomical_Conversation3_Answer_PC01	Rebuild? You're about to cause irreparable damage.	重建？你这是要搞出大乱子啊！
+QuestLoc_Astronomical_Conversation3_Answer_PC02	Whatever, we're taking you down!	管你呢，我们要把你拿下！
+QuestLoc_Astronomical_Conversation3_NPC01	Stop! Don't come any closer! You're about to ruin everything!	停！别再过来了！你们会毁了一切的！
+QuestLoc_Astronomical_Conversation3_NPC02	The Brotherhood's archaic ideals and paranoia won't stop me.	兄弟会那套老掉牙的规矩和疑神疑鬼的毛病可拦不住我。
+QuestLoc_Astronomical_Conversation3_NPC03	They won't stop us from rebuilding.	他们无法阻止我们重建家园。
+QuestLoc_Astronomical_Conversation4_Answer_NPC01	She doesn't need to hear anything from you!	她不需要听你废话！
+QuestLoc_Astronomical_Conversation4_Answer_NPC02	You asked for it!	你找死！
+QuestLoc_Astronomical_Conversation4_Answer_PC01	We don't want anyone to get hurt! We just need to talk some sense into your leader!	我们不想任何人受到伤害！我们只想和你的头儿好好谈谈！
+QuestLoc_Astronomical_Conversation4_Answer_PC02	Bring it on then! I love a good scrap!	来呀！我很乐意陪你玩玩！
+QuestLoc_Astronomical_Conversation4_NPC01	Come any closer and we'll send you into orbit!	再靠近一步，我们就送你们上西天！
+QuestLoc_Astronomical_QuestLongDescription	The Brotherhood is attacking the Griffith Observatory to recover a deadly weapon from the NCR. We don't know what it is, but it could be disastrous in anybody's hands. Go, take care of it for everyone's sake.	兄弟会正在攻击格里菲斯天文台，企图从新加州共和国手中夺回一种致命武器。虽然不知道具体是什么武器，但无论落入任何一方手中，都可能产生灾难性后果。为了保护所有人的安全，快去把它处理掉。
+QuestLoc_Astronomical_QuestName	Astronomical Aggression	天文台危机
+QuestLoc_Astronomical_QuestObjective	Stop the NCR leader.	阻止NCR的首领。
+QuestLoc_Astronomical_QuestShortDescription	Stop the NCR leader from using the weapon.	阻止NCR的首领使用武器。
+QuestLoc_AtDeathsDoor_Conversation_1_NPCEnd_1	We swear! No more trouble. No more Manual. Thank you!	我们发誓！不再惹麻烦。不再动手册。谢谢你！
+QuestLoc_AtDeathsDoor_Conversation_1_NPCEnd_2	We understand. But we prefer to take our chances with you than with Death!	明白。但我们宁愿和你一起冒险，也不愿白白送死！
+QuestLoc_AtDeathsDoor_Conversation_1_NPCStart_1	Run for your lives!	快跑！
+QuestLoc_AtDeathsDoor_Conversation_1_NPCStart_2	Death is awake and killing everyone!	“死亡”醒过来了而且要杀掉所有人！
+QuestLoc_AtDeathsDoor_Conversation_1_NPCStart_3	No one could have seen this coming!	没人能预料到这个！
+QuestLoc_AtDeathsDoor_Conversation_1_Team_1	Go! Get out of here! But if you ever make trouble again...	走吧！滚出去！但如果你再惹麻烦……
+QuestLoc_AtDeathsDoor_Conversation_1_Team_2	After all you've done, we can't let you leave.	考虑到你所做的一切，我们不能让你离开。
+QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_1	Somehow, I don't think that Alpha Deathclaw was Death. Call it a hunch.	不知怎么的，我觉得领头死爪并不是“死亡”。这算是预感吧。
+QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_2	The real one must be in the next room.	真正的应该在隔壁。
+QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_3	This is it, everyone. Time to dance with Death.	这下对了，大伙。现在与“死亡”共舞一曲。
+QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_4	For the Overseer! For the Wasteland!	为了监督者！为了废土！
+QuestLoc_AtDeathsDoor_QuestLongDescription	Three down, one to go, and thanks to Three Dog, we know where Death's cave is. But will he be awake? Only one way to find out!	搞定了三个，还剩一个，感谢三狗让我们知道了“死亡”的洞穴在哪。但是它会醒过来吗？只有一个办法知道。
+QuestLoc_AtDeathsDoor_QuestName	At Death's Door	在“死亡”的门外
+QuestLoc_AtDeathsDoor_QuestObjective_1	Kill Death.	消灭“死亡”。
+QuestLoc_AtDeathsDoor_QuestShortDescription	Kill Death, the final Horseman.	消灭“死亡”，这个最后的骑士。
+QuestLoc_AtDeathsDoor_RaiderLine_1	Oh, the humanity! Death is *not* a morning person!	哦，我的妈呀！“死亡”不是一个早起的人！
+QuestLoc_AtDeathsDoor_RaiderLine_2	The Manual never said Death would try to kill us!	手册并没说“死亡”会想要杀掉我们！
+QuestLoc_AtDeathsDoor_RaiderLine_3	Flee! There's nothing for you down there but disembowelment!	快逃！下面除了会让你开膛破肚没有别的！
+QuestLoc_AtDeathsDoor_RaiderLine_4	It's Death! Let him reap what he's sown!	是“死亡”！让它得到报应！
+QuestLoc_AtDeathsDoor_RaiderLine_5	Death is a Mole rat?! For crying out loud...	“死亡”是只鼹鼠？这是搞什么鬼……
+QuestLoc_BacktotheOutfield_Conversation_1_NPCStart_1	We've come up empty again! Darn that caustic Coach!	我们又一无所获！这个该死的教练！
+QuestLoc_BacktotheOutfield_QuestLongDescription	We found a note from someone named Coach, who claims he has Rackie Jobinson's Jersey! Maybe he's hiding out in the ruins of Vault 428...	我们发现了一个叫教练的人留下的消息，他说自己有罗基·杰宾森的棒球衫！也许他藏在了428号避难所的废墟里……
+QuestLoc_BacktotheOutfield_QuestName	Back to the Outfield	返回外场
+QuestLoc_BacktotheOutfield_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_BacktotheOutfield_QuestShortDescription	Look for Coach in Vault 428.	在 428 号避难所寻找教练。
+QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_1	Whoa! Another note! It says...	哇！又有一条消息！上面说……
+QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_2	“I hear you've been searching for Rackie Jobinson's Jersey.	我听说你们正在寻找罗基·杰宾森的棒球衫。
+QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_3	My name's Henrietta, and I may be able to help.	“我的名字叫亨丽埃塔，也许我能帮忙。”
+QuestLoc_BeanballtotheFace_Conversation_1_NPCStart_4	Come find me at Vault 232.”	来232号避难所找我吧。”
+QuestLoc_BeanballtotheFace_QuestLongDescription	Assuming Coach doesn't have the Jersey, there's reason to believe Rackie Jobinson once stayed at the old Le Pierre Hotel. We'll check there!	假如教练没有棒球衫，我们有理由相信罗基·杰宾森曾待在旧的乐皮埃尔酒店。我们去那边看看吧！
+QuestLoc_BeanballtotheFace_QuestName	Beanball to the Face!	打在脸上的球！
+QuestLoc_BeanballtotheFace_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_BeanballtotheFace_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_BeatReporting_Conversation_1_NPCEnd_1	Excellent news, thanks! If you want to keep helping, just go on in and talk to my people.	好消息，谢谢！如果你们想继续帮忙的话，进去和我的人谈谈吧。
+QuestLoc_BeatReporting_Conversation_1_NPCStart_1	Hello, welcome to the Weekly Exposition!	你好，欢迎来到每周博览会！
+QuestLoc_BeatReporting_Conversation_1_NPCStart_2	I'll be with you in a moment. Let me just finish hanging this lampshade here...	我马上就来。先让我把这个灯罩挂在这儿……
+QuestLoc_BeatReporting_Conversation_1_NPCStart_3	There, that looks nice.	好了，看起来不错。
+QuestLoc_BeatReporting_Conversation_1_NPCStart_4	I'm the editor of the newspaper. How can I help you?	我是报纸的编辑。需要帮忙吗？
+QuestLoc_BeatReporting_Conversation_1_Team_1	One of your reporters discovered that Pestilence is a Glowing Radscorpion.	你的一个记者发现“瘟疫”是一只发光辐射蝎。
+QuestLoc_BeatReporting_Conversation_2_NPCEnd_1	He's been around long enough to be a legend to children and veterans alike.	他已经待了太长的时间，足以成为儿童眼里的传奇，就像那些退伍军人一样。
+QuestLoc_BeatReporting_Conversation_2_NPCEnd_2	Maybe the hunger comes with age? No known Glowing One is as old.	也许“饥饿”是上了年纪才有的？已知的发光种里，没有哪只有他这么老。
+QuestLoc_BeatReporting_Conversation_2_NPCEnd_3	Absolutely. The non-feral ones makes the decisions for the whole pack.	当然。由那些不狂化的尸鬼为整个群落做决定。
+QuestLoc_BeatReporting_Conversation_2_NPCEnd_4	Yes. He probably has no idea he's gathered such a following.	对。他可能不知道他已经聚集了这么多追随者。
+QuestLoc_BeatReporting_Conversation_2_NPCStart_1	Hi! I write about the Hungry. We have multiple undercover Ghouls in the field with them.	你好！我正在写关于“饥饿者”的。我们有多个卧底尸鬼在现场与他们一起。
+QuestLoc_BeatReporting_Conversation_2_NPCStart_2	Did you know Famine is an ancient Glowing One with an insatiable appetite?	你知道“饥荒”是一只古老的发光种吗？他有着无法被满足的胃口。
+QuestLoc_BeatReporting_Conversation_2_NPCStart_3	The Hungry Horde just follows him around, enthralled by his radioactive aura.	“饥饿部落”一直紧跟着他，它们被它的放射性光环迷住了。
+QuestLoc_BeatReporting_Conversation_2_NPCStart_4	It heals them, but somehow also makes them much hungrier than usual.	它可以治愈他们，但不知何故，也使得它们比以往更饥饿。
+QuestLoc_BeatReporting_Conversation_2_Team_1	What do you mean by “ancient”?	你说的“古代”是什么意思？
+QuestLoc_BeatReporting_Conversation_2_Team_2	Why is Famine so hungry?	饥荒为何如此饥饿？
+QuestLoc_BeatReporting_Conversation_2_Team_3	Is the Hungry Horde made entirely of Ghouls?	“饥饿部落”全部是由尸鬼组成的吗？
+QuestLoc_BeatReporting_Conversation_2_Team_4	Is Famine feral?	“饥荒”很凶残吗？
+QuestLoc_BeatReporting_Conversation_3_NPCEnd_1	He's trying to be the War people expect, but it seems he's not very good at it.	他想成为人们所期望的“战争”，但似乎他并不擅长。
+QuestLoc_BeatReporting_Conversation_3_NPCEnd_2	Killed six Deathclaws with his bare hands, for one, but it's a myth! The truth is long gone.	曾赤手空拳杀死了六只死爪，一只手，但这只是一个传说！早已无法搞清真相。
+QuestLoc_BeatReporting_Conversation_3_NPCEnd_3	Conquest. Everyone can join the Warshippers, at least, but those who don't are attacked.	征服。每个人都可以加入“战争崇拜者”，至少，那些不加入的就会被攻击。
+QuestLoc_BeatReporting_Conversation_3_NPCEnd_4	That's a good question, but no one knows. Same for the other Horsemen. It can't be coincidence...	这是个好问题，但没有人知道。其他“骑士”也是这样。这不可能是巧合……
+QuestLoc_BeatReporting_Conversation_3_NPCStart_1	Hello, I write the War and Warshipper stories with what the undercover reporters send me.	你好，我在写关于“战争”和“战争崇拜者”的故事，那个卧底记者寄给我的。
+QuestLoc_BeatReporting_Conversation_3_NPCStart_2	War himself is just a Raider Boss in over his head, I think.	我觉得，“战争”只是一个能力不足的掠夺者首领。
+QuestLoc_BeatReporting_Conversation_3_NPCStart_3	A night of heavy drinking birthed some tall tales of miraculous feats.	一夜痛饮催生了些关于神迹伟业的夸张传闻。
+QuestLoc_BeatReporting_Conversation_3_NPCStart_4	And now suddenly he finds himself with a cult following and the mantle of a Horseman.	现在，他突然发现自己有了一群邪教崇拜者和一个骑士披风。
+QuestLoc_BeatReporting_Conversation_3_Team_1	Why do you think he's in over his head?	你凭什么认为他能力不足？
+QuestLoc_BeatReporting_Conversation_3_Team_2	What feats do the rumors say he performed?	那些传闻说他有什么功绩？
+QuestLoc_BeatReporting_Conversation_3_Team_3	What does War want?	“战争”需要什么？
+QuestLoc_BeatReporting_Conversation_3_Team_4	Why did they start calling him War in the first place?	一开始为什么他们叫他“战争”？
+QuestLoc_BeatReporting_Conversation_4_NPCEnd_1	They'll mention Nuka-Cola. If you reply with “eagle,” they'll know you're a friend.	他们会提到核子可乐。如果你回答“鹰”，他们会知道你是朋友。
+QuestLoc_BeatReporting_Conversation_4_NPCStart_1	Yes? I'm the handler for all the undercover reporters.	是吗？我是所有卧底记者的监督者。
+QuestLoc_BeatReporting_Conversation_4_NPCStart_2	I keep them as safe as possible. Call them back in when things get too hot.	我尽可能保证他们的安全。当事情闹得太大的时候召回他们。
+QuestLoc_BeatReporting_Conversation_4_NPCStart_3	What do you want? I'm busy with this puzzle here, so make it quick.	你要干什么？我正忙着解这个谜，所以动作快点。
+QuestLoc_BeatReporting_Conversation_4_NPCStart_4	See? I've almost got a picture of cute kittens playing with yarn.	看到了吗？我差点就搞到一张可爱小猫玩毛线的照片了。
+QuestLoc_BeatReporting_Conversation_4_Team_1	We're Vault Dwellers trying to help. Is there any way to identify your reporters?	我们是试图帮助的避难所居民。有什么办法可以识别出你的记者吗？
+QuestLoc_BeatReporting_Conversation_5_NPCStart_1	Me? I'm just the intern! I listen to Galaxy News Radio for alerts and stories.	我？我只是实习生！我靠听银河新闻电台来了解紧急情况和故事。
+QuestLoc_BeatReporting_Conversation_5_NPCStart_2	Shh... Listen! Three Dog's coming on with breaking news.	嘘……听！三狗正在播报突发新闻。
+QuestLoc_BeatReporting_Conversation_5_NPCStart_3	Oh no! A settlement's caught between the Pests and the Hungry!	哦不！有个定居点正夹在“害虫”和“饥饿者”之间腹背受敌！
+QuestLoc_BeatReporting_Conversation_5_NPCStart_4	Someone needs to help them!	有人需要帮助他们！
+QuestLoc_BeatReporting_QuestLongDescription	A reporter for the Weekly Exposition newspaper, undercover as a Pest, told us about Pestilence and asked us to relay a message to his editor. He also said there are reporters hidden among the Hungry and the Warshippers, so let's go to the Exposition's offices and find out what they know!	《每周博览会报》的一名记者，正以“害虫”的身份做卧底，他把“瘟疫”的事告诉了我们，并请我们给编辑转达一条消息。他还说，有些记者藏在“饥饿者”和“战争崇拜者”中间，所以我们去博览会办公室，看看他们知道些什么！
+QuestLoc_BeatReporting_QuestName	Beat Reporting	打报告
+QuestLoc_BeatReporting_QuestObjective_1	Visit the offices of the Weekly Exposition.	参观每周博览会的办公室。
+QuestLoc_BeatReporting_QuestObjective_2	Talk to the editor.	与编辑交谈。
+QuestLoc_BeatReporting_QuestShortDescription	Visit the offices of the Weekly Exposition.	参观每周博览会的办公室。
+QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_1	He was the most qualified, obviously. What's that, Overseer? You want to go with them? I suppose I could run things while you're gone...	他显然最有资格。监督者你怎么了？你想和他们一起去？你不在我应该也行的……
+QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_2	Wait! I think our Overseer wants to go with you. He says it'll help diplomatic relations between our two Vaults.	等等！我想我们的监督者想和你一起去。他说这有利于两个避难所的外交关系。
+QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_3	No, I'm not! Tell them I'm not crazy, Overseer! What's that? Oh, you want to go with them? I guess that would be all right...	不，我不是！监督者，告诉他们我没有疯！那是什么？哦，你想和他们一起去？我想应该可以……
+QuestLoc_BewareofOverdog_Conversation_1_NPCStart_1	Vault 850 is saved!	850号避难所得救了！
+QuestLoc_BewareofOverdog_Conversation_1_NPCStart_2	Me? The Overseer? No, our Vault is run by this dog.	我？监督者？不不不，我们避难所的监督者是这只狗。
+QuestLoc_BewareofOverdog_Conversation_1_NPCStart_3	He's such a good boy! He sent the distress signal!	它真是个乖孩子！求救信号就是它发出来的！
+QuestLoc_BewareofOverdog_Conversation_1_Team_1	How'd a dog get to be Overseer?	狗怎么会是监督者呢？
+QuestLoc_BewareofOverdog_Conversation_1_Team_2	Well, we're glad to have helped...	我们很高兴能帮助……
+QuestLoc_BewareofOverdog_Conversation_1_Team_3	We're almost 100% certain that you're crazy.	我们可以百分百确定你疯了。
+QuestLoc_BewareofOverdog_QuestLongDescription	The Overseer from Vault 850 has sent us a distress signal! The catch is the Overseer is apparently a dog...	850号避难所的监督者给我们发来了求救信号！关键问题在于：这位监督者貌似是一只狗……
+QuestLoc_BewareofOverdog_QuestName	Beware of Over-dog!	请注意“管理狗”！
+QuestLoc_BewareofOverdog_QuestObjective_1	Find the Overseer of Vault 850.	寻找850号避难所监督者。
+QuestLoc_BewareofOverdog_QuestShortDescription	Go to Vault 850 and find the Overseer.	前往850号避难所，找到监督者。
+QuestLoc_BigTrouble_QuestLongDescription	Clever Alpha Deathclaw, hiding in that Red Rocket Fuel station to ambush unsuspecting travelers. There's only one way to deal with a threat like that.	聪明的领头死爪，藏在了红火箭加油站里伏击误入的旅行者。对付这种威胁只有一个办法。
+QuestLoc_BigTrouble_QuestName	Big Trouble	大麻烦
+QuestLoc_BigTrouble_QuestObjective_1	Eliminate the Alpha Deathclaw.	除掉领头死爪。
+QuestLoc_BigTrouble_QuestShortDescription	Eliminate the Alpha Deathclaw lurking in the Red Rocket Fuel Station.	除掉埋伏在红火箭加油站的领头死爪。
+QuestLoc_BigTrouble_RaiderLine_1	How did that thing fit through the door?	那个大家伙是怎么穿过那扇门的？
+QuestLoc_Blackout_Conversation_1_NPCEnd_1	At our Warehouse up the street. You kept claiming you were aliens from mothership Zeta.	在那条街上我们的仓库里。你一直说自己是来自泽塔航母的外星人。
+QuestLoc_Blackout_Conversation_1_NPCStart_1	YOU! You goons! You left me here surrounded by Radscorpions!	你！你们这些呆子！把我留在这儿和一群辐射蝎在一起！
+QuestLoc_Blackout_Conversation_1_NPCStart_2	We let you party with our crew because we thought you were cool...	我们让你们和我们一起嗨是因为我们以为你很酷……
+QuestLoc_Blackout_Conversation_1_NPCStart_3	But you ditched me! Not that I care...	但是你们抛弃了我！虽然说我并不在乎……
+QuestLoc_Blackout_Conversation_1_NPCStart_4	Playing fetch with Radscorpions is a fun way to pass the time!	和辐射蝎玩接球是很好打发时间的方式！
+QuestLoc_Blackout_Conversation_1_Team_1	We were partying with Raiders? We don't... remember... any of this. Where was this party?	我们要和掠夺者一起开派对？我可……不记得……有这么回事！派对是在哪儿办的？
+QuestLoc_Blackout_QuestLongDescription	It's New Year's day... and the Vault threw one heck of a party last night. But the Overseer's son, Jack, is missing and we need to find him! We know he was with us before the clock struck 12, but everything afterwards is a blur. And we're all wearing Radiation Suits. We must have been at the Corvega Auto Plant at some point...	新年第一天……昨夜避难所举行了隆重的派对活动。但是监督者的儿子杰克失踪了。我们必须找到他！现在只知道12点之前他还和我们在一起，但之后发生了什么完全是一片模糊，我们都穿着防辐射服，所以我们应该是去过可伟佳自动化工厂……
+QuestLoc_Blackout_QuestName	Blackout	断片
+QuestLoc_Blackout_QuestObjective_1	Search for Jack in the Corvega Auto Plant.	在可伟佳自动化工厂里寻找杰克。
+QuestLoc_Blackout_QuestShortDescription	The Overseer's son, Jack, is missing after a crazy New Year's party!	监督者的儿子，杰克，在一场疯狂的新年派对之后消失了！
+QuestLoc_BoogieWoogieBugleBoy_Conversation_1_NPCEnd_1	I... Ah... Umm... ATTACK!!!!	我……啊……呃……给我攻击！！！！
+QuestLoc_BoogieWoogieBugleBoy_Conversation_1_NPCStart_1	You people just don't take a hint, do you? Leave now or face the consequences...	你们这些人就是学不乖是吗？赶紧离开，不然后果自负！
+QuestLoc_BoogieWoogieBugleBoy_Conversation_1_NPCStart_2	The COMPLETE and TOTAL pillaging and annihilation of your Vault, of course!	我们会彻彻底底搜刮和剿灭你们的避难所！
+QuestLoc_BoogieWoogieBugleBoy_Conversation_1_NPCStart_3	As for The Editor... you'll never find him!	至于那名编辑……你们永远都不会找到他！
+QuestLoc_BoogieWoogieBugleBoy_Conversation_1_Team_1	No? Because it says right here on the masthead that the New Boston Bugle is published out of the Nuka-Cola Warehouse.	学不乖又怎样？这里说得清清楚楚新波士顿号角就是从核子可乐仓库里发行出来的。
+QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription	Turns out the New Boston Bugle is some kind of con - our only lead is the Bugle Boy who is holed up in a Super-Duper Mart. Time to track him down and extract some information!	到头来新波士顿号角报是某种骗局，而我们唯一的线索就是号角男孩。他现在被关在了大无敌超市里。去找到他然后询问点信息吧。
+QuestLoc_BoogieWoogieBugleBoy_QuestName	Boogie Woogie Bugle Boy	摇滚少年号角男孩
+QuestLoc_BoogieWoogieBugleBoy_QuestObjective_1	Find the Bugle Boy.	找到号角男孩。
+QuestLoc_BoogieWoogieBugleBoy_QuestShortDescription	Find the Bugle Boy.	找到号角男孩。
+QuestLoc_BottlecapBlues_Conversation_1_NPCEnd_1	Yeah, they took Bottle & Cappy over to Vault 177. Be careful.	是的，他们把瓶瓶和盖盖带到177号避难所。请小心。
+QuestLoc_BottlecapBlues_Conversation_1_NPCStart_1	Thanks! I thought those rats were going to eat me.	谢谢！我以为那些老鼠要吃了我。
+QuestLoc_BottlecapBlues_Conversation_1_NPCStart_2	Better than being stuck with those Raiders from Nuka-World.	至少比和那些核子世界来的掠夺者关在一起强。
+QuestLoc_BottlecapBlues_Conversation_1_NPCStart_3	I snuck away from them just before they left.	就在他们准备离开之前我悄悄溜走了。
+QuestLoc_BottlecapBlues_Conversation_1_Team_1	Did the Raiders have Bottle & Cappy with them?	掠夺者们和瓶瓶盖盖在一起吗？
+QuestLoc_BottlecapBlues_QuestLongDescription	Bottle & Cappy have been kidnapped from Nuka-World by Raiders! They were last spotted at an abandoned factory. Head out there and rescue them before it's too late!	瓶瓶和盖盖在核子世界被掠夺者们绑架了！最后一次被发现是在一座废弃的工厂里。赶紧去那里救他们，不然就太迟了！
+QuestLoc_BottlecapBlues_QuestName	Bottlecap Blues	忧郁的瓶盖
+QuestLoc_BottlecapBlues_QuestObjective_1	Find any trace of Bottle & Cappy at the abandoned factory.	在废弃工厂寻找任何有关瓶瓶和盖盖的线索。
+QuestLoc_BottlecapBlues_QuestShortDescription	Track down Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪。
+QuestLoc_BountyBash_Conversation_1_NPCStart_1	So, you're the one who's going to take down Bash, huh?	所以，你就是那个想拿下“暴击”的人？
+QuestLoc_BountyBash_Conversation_1_NPCStart_2	That Raider's not too bright, but he's plenty dangerous.	那个掠夺者不怎么机灵，但还是挺危险的。
+QuestLoc_BountyBash_Conversation_1_NPCStart_3	You shoot him, he's just going to get mad at ya.	你如果拿枪射他，他会发疯的。
+QuestLoc_BountyBash_Conversation_1_NPCStart_4	You're going to have to take him down hand-to-hand!	你可能必须要和他肉搏才能拿下他！
+QuestLoc_BountyBash_QuestLongDescription	The Raider Boss known as “Bash” has made one too many enemies. Claim the bounty on his head!	一位叫“暴击”的掠夺者首领树敌无数。取下他的人头去领赏金吧！
+QuestLoc_BountyBash_QuestName	Bounty: Bash	悬赏：“暴击”
+QuestLoc_BountyBash_QuestObjective_1	Kill Bash.	消灭掠夺者“暴击”。
+QuestLoc_BountyBash_QuestShortDescription	Take down the Raider Boss Bash and claim your reward!	拿下掠夺者首领“暴击”，领取奖赏！
+QuestLoc_BountyBash_RaiderLine_1	You! You crash Bash's bash! Bash gonna smash!	你！你击溃了“暴击”的暴击！他会撕碎你！
+QuestLoc_BountyButcher_Conversation_1_NPCStart_1	Wait. Are you here to take on “Butcher?” Seriously?	等等。你来这里是为了拿下“屠夫”？你是认真的？
+QuestLoc_BountyButcher_Conversation_1_NPCStart_2	Uh, good luck, I guess. If you come back, bounty's all yours.	呃，祝你好运吧。如果你能顺利回来，赏金都是你的。
+QuestLoc_BountyButcher_Conversation_1_NPCStart_3	If you don't... well, I'm sure you'll be fine.	如果你没回来的话……这个，我相信你会没事的。
+QuestLoc_BountyButcher_Conversation_1_NPCStart_4	Nice knowing you.	很高兴认识你。
+QuestLoc_BountyButcher_QuestLongDescription	There's a bounty on an Alpha Deathclaw known as “Butcher.” Don't worry. I'm sure it's just a nickname. But take her down and you'll earn yourself a hefty prize.	有一个悬赏公告，要求杀死领头死爪“屠夫”。不用担心。我相信这个肯定只是个昵称。但把它拿下，你会得到一笔丰厚的奖金。
+QuestLoc_BountyButcher_QuestName	Bounty: Butcher	悬赏：“屠夫”
+QuestLoc_BountyButcher_QuestObjective_1	Kill “Butcher.”	消灭死爪“屠夫”。
+QuestLoc_BountyButcher_QuestShortDescription	Eliminate the Alpha Deathclaw known as “Butcher” to collect your bounty!	除掉领头死爪“屠夫”，领取奖赏！
+QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_1	Hmm. You here about the bounty?	嗯。你来这是为了赏金的？
+QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_2	Well, 'Ol One-Eye's the meanest Radroach you ever met.	呃，“独眼龙”会是你们见过的最卑鄙的辐射蟑螂。
+QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_3	Old beast ate my favorite pair of socks!	讨厌的怪物把我最喜欢的袜子吃掉了！
+QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_4	You put him down, there's a reward in it for you.	你把它拿下，这儿有奖励给你。
+QuestLoc_BountyOlOneEye_QuestLongDescription	Someone's put a bounty on the head of a meddlesome Radroach known as 'Ol One-Eye. Swat that bug and claim your reward!	有人出钱悬赏一只辐射蟑螂的脑袋。这只横行霸道的蟑螂名叫“独眼龙”，去拍死这只害虫然后领取奖励吧！
+QuestLoc_BountyOlOneEye_QuestName	Bounty: 'Ol One-Eye	悬赏：“独眼龙”
+QuestLoc_BountyOlOneEye_QuestObjective_1	Kill 'Ol One-Eye.	消灭辐射蟑螂“独眼龙”。

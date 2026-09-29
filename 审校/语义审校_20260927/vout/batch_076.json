@@ -1,0 +1,17 @@
+{"batch":76,"items":[
+{"key":"QuestLoc_SetEmUpPestilence_RaiderLine_2","verdict":"confirm","severity":"S3","reason":"worthiness=配得上（同套 unworthy 均作“不配”），ZH 换成名词“价值”，教义指向丢失，读成无关吐槽。","final_fix":"配不配得上什么的，都是被吹出来的！"},
+{"key":"QuestLoc_SlidingintoHome_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"the old cereal processing plant 为定指，ZH 丢掉 old 又添“某个”；ES/DE 均为定指译法。","final_fix":"也许教练饿了，躲进了那家旧麦片加工厂。罗基·杰宾森的棒球衫，我们来了！"},
+{"key":"QuestLoc_SnakeWater_Conversation_1_NPCStart_1","verdict":"confirm","severity":"S3","reason":"Titan of Thirst 的 thirst 是干渴（ES Sed、DE Dursts），ZH“水中泰坦”又回到 water；deacon 也升格成“神”。","final_fix":"你找到了我，强大的水之术士！饮品执事！干渴泰坦！"},
+{"key":"QuestLoc_SnakeWater_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"pinned down 是查明下落，ZH“抓住了”与后半“阻止他再卖”矛盾；glorified tap water 的自来水整处丢失。","final_fix":"我们终于锁定了水之术士的下落。是时候去当面质问他，阻止他继续兜售他那吹上天的自来水了。也许我们还能顺便赚一笔……"},
+{"key":"QuestLoc_SomewhereintheBallpark_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"Rackie Jobinson's Jersey 被压成“第十个棒球衫可能存在的地点”，专名丢失；全表 18 处均作“罗基·杰宾森的棒球衫”。","final_fix":"我们出发去搜索第十个地点，寻找罗基·杰宾森的棒球衫。这次我们也许会走运……对吗？"},
+{"key":"QuestLoc_SpelunKingTrainingD_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S3","reason":"in abundance 是“多得用不完”（ES de sobra、RU в избытке），ZH“完美拥有”误读 abundance 且搭配不通。","final_fix":"而这些，你似乎多得用不完。"},
+{"key":"QuestLoc_SpelunKingTrainingE_Conversation_2_NPCStart_1","verdict":"reject","severity":"S3","reason":"“我们来，我们看，我们探索洞穴”是 veni vidi vici（我来，我见，我征服）的仿译，三顿结构对应 EN 三段排比，语义无误。","final_fix":""},
+{"key":"QuestLoc_SpelunKingTrainingE_QuestShortDescription","verdict":"confirm","severity":"S3","reason":"charming 是形容词，ZH 拿名词“魅力”直接作定语而缺“有”；同任务长描述与 B 条均作“有魅力又……的居民”。","final_fix":"有魅力又敏捷的居民真的有本事赢得大赛吗？"},
+{"key":"QuestLoc_SpringForwardFallBack_RaiderLine_1","verdict":"confirm","severity":"S3","reason":"E-Ster 全表十余处均译“复活节”（ES P-Ascua、DE O-Stern 同为谐音），此处音译“E-斯特”前后不一。","final_fix":"欢呼吧，复活节要来了！"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_1_NPCStart_4","verdict":"confirm","severity":"S3","reason":"上句经文背到一半（all glowing and...），That's all I have=我眼下只会这么多，ZH“所拥有的”把 have 读成拥有财物。","final_fix":"我眼下就会这么多。那么，有什么需要我们帮忙的吗？"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_2_Team_1","verdict":"confirm","severity":"S3","reason":"suits 指上一句的 Power Armor，ZH 泛化成“装备”并与固定译名 Outfit=装备 撞车；Remind me 是插入语，非祈使。","final_fix":"我们也没找到。话说回来，我们为什么要找这些动力装甲？"},
+{"key":"QuestLoc_SpringingtheTrap_Conversation_3_NPCStart_1","verdict":"confirm","severity":"S3","reason":"Oh good 是松口气的“太好了”，ZH“好吧”成勉强接受；you're 是复数（ES no sois、DE ihr seid），ZH 用“你不是”。","final_fix":"哦，太好了，你们不是“害虫”！我是每周博览会的卧底记者。"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_1B_NPCStart_2","verdict":"confirm","severity":"S3","reason":"We're called 是主动式，ZH“被称之为”把“被称为”“称之为”叠成双重被动；同任务 1C/1D 自称均作“我们是……”。","final_fix":"我们叫“尖叫猎鹰”，就是那种又大又吓人的鸟，明白吗？"},
+{"key":"QuestLoc_SpyonRaiders_Conversation_1D_NPCEnd_2","verdict":"reject","severity":"S3","reason":"“那是我们想听的”直译 That's what we like to hear，语义准确；“请继续”与 1B/1C/1E 同句译法一致，非误译。","final_fix":""},
+{"key":"QuestLoc_SpyonRaiders_Conversation_1D_NPCStart_2","verdict":"confirm_fix_better","severity":"S3","reason":"bullets 是子弹，同场 1D_Team_2 即译“子弹加火焰”，ZH“火焰飞弹”与飞弹=Missile 撞车；set them on fire 亦译偏。","final_fix":"我们是“燃烧子弹”。我们开枪打人，然后把他们点着。"}
+]}

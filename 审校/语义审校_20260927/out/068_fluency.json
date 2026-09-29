@@ -1,0 +1,71 @@
+{
+  "chunk": "068",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Speech_Happiness_Radiation1",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「松一口气！我真的很需要那个！」两处都是英文硬搬。一、Phew! 是玩家刚用完消辐宁/治疗针时的一声舒气，中文用「松一口气」这种动宾短语充当独立感叹句不成立，读起来像在下命令「松一口气」；同表的 Phew 都译成「呼！」（chunk_046 QuestLoc_OBrother_Answer04_NPC01）、「谢天谢地！」（chunk_043 QuestLoc_LittleRedRadiumHood_Conversation_1_NPCStart_1）。二、I really needed that 的 that 在英文里指刚用掉的那支药，中文照抄成「那个」后没有可见的指代对象，玩家不知道需要的是什么。",
+      "fix": "呼！我可太需要这个了！",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Eviction_19",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「最。糟糕的。一天。」是把 Worst. Day. EVER. 的逐词句号直接搬进中文。中文的「的」是黏着虚词，拆成「糟糕的。」＋「一天。」后整句不再成话，玩家只会读到一个断掉的名词短语，读不出原句那个一字一顿的崩溃感。中文表达同一语气靠的是补出强调尾（如「没有之一」），而不是把词切开。",
+      "fix": "这辈子最糟糕的一天。没有之一。",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Eviction_3",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「曾经很真实，曾经很美好，但不是真正的美好。」是 It's been real, it's been nice, but it hasn't been real nice 的逐词直译。这里的 real 是口语里的强调词（「真的很……」），不是形容词「真实」的，「曾经很真实」在中文里没有意义；末句「不是真正的美好」还把一句泄气的玩笑译成了自相矛盾的判断句，玩家看不懂这是被赶走时硬撑面子的俏皮话。",
+      "fix": "这段日子挺实在，也挺美好——就是没好到哪儿去。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Happiness_Happy2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「看来我这愁脸是要永远翻成笑脸了！」把 turned my frown upside down 逐词翻：中文没有「愁脸」这个词（说「苦瓜脸」「愁眉苦脸」），「愁脸…翻成笑脸」的「翻」也是照搬英文的 flip，读起来像在说翻面煎饼。原意只是「以后我再也不皱眉头了」。",
+      "fix": "看来我这苦瓜脸是要彻底变成笑脸了！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Eviction_15",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「你会后悔你赶走了我！后悔！」第一句里「后悔」后面直接塞进带主语的完整小句，中文更常说「后悔赶走我」，「你」字重复出现是英文 you'll rue the day you… 的语序残留；第二句「后悔！」是 Rue the day! 的逐词重复，单蹦一个动词在中文里不成句，玩家会觉得话没说完。",
+      "fix": "你会后悔赶走我的！你一定会后悔的！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Eviction_25",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「他们想踹我出去！」两处偏差：They're kicking me out 是正在发生的事，译成「想踹」变成只是意图，与这句「救命」的紧急求助语气不符；「踹」本义是用脚底踹（踹门、踹一脚），「踹某人出去」不是中文的固定搭配，赶人走用「把…赶出去／踢出去」。同句群的 Speech_Eviction_4 就把 kicking me out 译作「赶我走」。",
+      "fix": "监督者！监督者，救命！他们要把我赶出去！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Eviction_27",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "「你们算是帮了我一个忙。我在避难所里好像住得过于舒服了。」I was getting too soft 是角色嘴硬时的断言，译文加了「好像」把断言改成不确定的猜测，硬撑的口气塌掉了；「住得过于舒服」也只说居住条件，没译出 getting soft（变得娇气、待软了）这层。",
+      "fix": "你们算是帮了我一个忙。我在避难所里待得太安逸，人都变软了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic58_Response2",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "「嗯？哦，有，我想他在下面那儿。」末句按 I think he's down there 的顺序硬排，「想」直接带宾语小句是英文语序，中文说「觉得／应该」；「下面那儿」还多出一个方位词，down there 的 there 在「在下面」里已经包含，两个方位词叠用读着别扭。对照本题 Response1「是的，她往那边走了」的干净说法，这句明显拗口。",
+      "fix": "嗯？哦，见过。我想他应该在下面。",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1	Oh, what's this? GOLDAS's main server.	哦，这是什么？GOLDAS的主服务器。
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Answer0	Yeah, best to play it safe. Goodbye, GOLDAS.	嗯，稳妥起见最好还是关了。再见，GOLDAS。
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Answer1	No way this can go wrong, right?	这怎么可能出错，对吧？
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Answer2	It's worth a shot, right?	值得一试，对吧？
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Choice0	<Erase all data and shut it down>	<擦除所有数据并关闭它>
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Choice1	<Reprogram it to obsess over ordinary rocks>	<重新编程，让它痴迷普通石头>
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1_Choice2	<Reprogram it to make the Enclave peaceful>	<重新编程，让英克雷变得和平>
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line2	Time to get rid of this threat once and for all.	是时候一劳永逸地清除这个威胁了。
+QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line3	What should we do with it?	我们该怎么处理它？
+QuestLoc_ENC_QL4_HeartOfGOLDAS_QuestLineName	Heart of GOLDAS	GOLDAS之心
+QuestLoc_ESterEggHunt_Conversation_1_NPCEnd_1	I'm pretty sure I'm not supposed to know what you're talking about.	我很确定我不应该知道你在说什么。
+QuestLoc_ESterEggHunt_Conversation_1_NPCEnd_2	I get it. I mean... I *don't* get it. Yeah, that last one.	我明白了。我的意思是……我不明白。是的，最后一个。
+QuestLoc_ESterEggHunt_Conversation_1_NPCEnd_3	Twenty, to be precise. Er, I mean... Enjoy!	准确来说，二十。呃，我是说……享受！
+QuestLoc_ESterEggHunt_Conversation_1_NPCStart_1	Welcome to our first annual E-Ster Egg Hunt!	欢迎来到我们一年一度复活节彩蛋寻宝！
+QuestLoc_ESterEggHunt_Conversation_1_NPCStart_2	Eggs are a wonderful representation of Atom, full of potential!	鸡蛋是原子的奇妙表现，充满潜力！
+QuestLoc_ESterEggHunt_Conversation_1_NPCStart_3	Deathclaw eggs most of all, because of all the power they hold in their small shells.	死爪蛋最重要，因为那些小壳里所包含的巨大力量。
+QuestLoc_ESterEggHunt_Conversation_1_NPCStart_4	May Atom smile on your fortunes!	愿原子对你的命运微笑！
+QuestLoc_ESterEggHunt_Conversation_1_Team_1	Anything else we should look out for? Large, emits radiation...?	还有什么值得我们注意的吗？大的，能发出辐射的……？
+QuestLoc_ESterEggHunt_Conversation_1_Team_2	This Egg Hunt is *the bomb*! Get it? The Bomb?	这次寻蛋活动可太“炸”了！懂吗？是真·炸弹？
+QuestLoc_ESterEggHunt_Conversation_1_Team_3	We'll have megatons of fun!	我们将有百万吨的乐趣！
+QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_1	Oh yeah, that... Never mind that. Just find some eggs.	哦，是的，那个……请别介意。只是找一些蛋。
+QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_2	We'll find out soon after detonation... I mean, after we, uh, *atone* for our sins.	爆炸之后我们很快就会查明……我是说，在我们呃……为罪孽“赎罪”之后。
+QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_3	Why are you being so dramatic? Think of it more like “birthing a new sun.”	你为什么这么大反应？把它想象成“诞生一个新的太阳。”
+QuestLoc_ESterEggHunt_Conversation_2_NPCStart_1	Any luck finding those Deathclaw eggs?	找到那些死爪蛋吗？
+QuestLoc_ESterEggHunt_Conversation_2_NPCStart_2	It's tough, these critters are quite protective.	这是很难的，这些生物们都很会保护自己。
+QuestLoc_ESterEggHunt_Conversation_2_Team_1	I thought I did, but it turned out to be some kind of big bomb?	我想我找到了，但其实他们是某种大炸弹？
+QuestLoc_ESterEggHunt_Conversation_2_Team_2	Do you really think this will save daylight?	你真的认为这样可以“节省天光”吗？
+QuestLoc_ESterEggHunt_Conversation_2_Team_3	Are you guys planning on detonating a nuclear bomb?	你们这些家伙打算引爆核弹吗？
+QuestLoc_ESterEggHunt_Conversation_3_NPCStart_1	Look there, behind that pile of Deathclaw dung!	看，在一大堆死爪粪后面！
+QuestLoc_ESterEggHunt_Conversation_3_NPCStart_2	Right there, in the hidden section that can only been seen from this angle!	就在那里，从这个角度才能看到隐藏的部分！
+QuestLoc_ESterEggHunt_Conversation_3_NPCStart_3	It's the nuclear bomb! We've found it!	是核弹！我们找到了它！
+QuestLoc_ESterEggHunt_Conversation_3_NPCStart_4	Wow, it's really big and impressive, too...	哇，真是又大又气派……
+QuestLoc_ESterEggHunt_QuestLongDescription	We've been invited to the Children of Atom's annual Deathclaw Egg Hunt! This is a good opportunity to validate Brother Will's claims that the Church plans to detonate a large nuclear bomb on E-Ster Sunday...	我们被邀请参加原子之子一年一度的死爪蛋寻宝活动！这是验证威尔修士说法的好机会——教会打算在复活节当天引爆一枚大型核弹……
+QuestLoc_ESterEggHunt_QuestName	E-Ster Egg Hunt	复活节彩蛋寻宝
+QuestLoc_ESterEggHunt_QuestObjective_1	Learn more about the alleged nuclear bomb.	了解更多有关所谓的核弹。
+QuestLoc_ESterEggHunt_QuestObjective_2	Harvest some Deathclaw Eggs.	收获一些死爪蛋。
+QuestLoc_ESterEggHunt_QuestShortDescription	Find out more about the alleged nuclear bomb.	了解更多有关所谓的核弹。
+QuestLoc_ESterEggHunt_RaiderLine_1	I wonder if Deathclaw eggs are any good to eat...	不知道死爪蛋好不好吃……
+QuestLoc_ESterEggHunt_RaiderLine_2	Do you think there really is a nuclear bomb here?	你认为这里真的有核弹吗？
+QuestLoc_ESterisComing_Conversation_1_NPCEnd_1	It teaches us about E-Ster, and the coming of the Sixth Sun.	它告诉我们复活节，以及即将到来的第六个太阳。
+QuestLoc_ESterisComing_Conversation_1_NPCEnd_2	Er...no one important. Forget I even mentioned him.	呃……不是什么重要人物。当我没提过。
+QuestLoc_ESterisComing_Conversation_1_NPCEnd_3	We're humble servants of Atom, not adventurers...	我们是原子的卑微仆人，不是冒险家……
+QuestLoc_ESterisComing_Conversation_1_NPCStart_1	Ah, you must be the Vault Dwellers sent to help us out! Atom be praised!	啊，你一定是派来帮助我们的避难所的居民！赞美原子！
+QuestLoc_ESterisComing_Conversation_1_NPCStart_2	I'm Brother Thaddeus, and this is Sister Olivia.	我是萨德思兄弟（修士），这是奥利维亚修女。
+QuestLoc_ESterisComing_Conversation_1_NPCStart_3	The sacred circuit board must be somewhere around here.	神圣的电路板一定在这附近。
+QuestLoc_ESterisComing_Conversation_1_NPCStart_4	This is where Brother Will was last seen.	这就是威尔修士最后一次被见到的地方。
+QuestLoc_ESterisComing_Conversation_1_Team_1	Why is the circuit board so precious?	为什么电路板如此珍贵？
+QuestLoc_ESterisComing_Conversation_1_Team_2	Who's Brother Will?	谁是威尔修士？
+QuestLoc_ESterisComing_Conversation_1_Team_3	Aren't you going to help us find it?	你们不打算帮我们找到它吗？
+QuestLoc_ESterisComing_Conversation_2_NPCEnd_1	I'm really not supposed to talk about this... About three days.	我真的不该谈论这个……大约三天。
+QuestLoc_ESterisComing_Conversation_2_NPCEnd_2	I'm pretty sure I can't talk about it but... I fear he's lost his mind.	我敢肯定我不能谈论它，但……我担心他失去了理智。
+QuestLoc_ESterisComing_Conversation_2_NPCEnd_3	That it's coming? Also, it's the time when the Daylight is saved, praise Atom!	它来了？同时，也是“节省天光”的时候，赞美原子！
+QuestLoc_ESterisComing_Conversation_2_NPCStart_1	Please, don't shoot!	请不要开枪！
+QuestLoc_ESterisComing_Conversation_2_NPCStart_2	I think I got separated from the group.	我想我和队伍走散了。
+QuestLoc_ESterisComing_Conversation_2_NPCStart_3	I thought I'd seen our missing Brother Will and tried to follow him.	我想我看到了我们失踪的威尔修士并试图跟随他。
+QuestLoc_ESterisComing_Conversation_2_NPCStart_4	In the end it was just a huge Mole rat standing on its hind legs.	最后，它只是一只巨大的鼹鼠，站在它的后腿上。
+QuestLoc_ESterisComing_Conversation_2_Team_1	How long has Brother Will been missing?	威尔修士失踪多久了？
+QuestLoc_ESterisComing_Conversation_2_Team_2	What's wrong with Brother Will?	威尔修士怎么了？
+QuestLoc_ESterisComing_Conversation_2_Team_3	What can you tell us about E-Ster?	关于复活节你们知道些什么？
+QuestLoc_ESterisComing_QuestLongDescription	Confessor Alvarado has agreed to put a stop to radioactive spraying, and as a sign of goodwill we've agreed to help the Church recover a sacred circuit board rumored to contain data about the ancient rite of E-Ster.	忏悔者阿尔瓦拉多已同意停止喷洒辐射物质，作为善意的表示，我们已经同意帮助教会找回一块传说存有古老复活节仪式数据的圣电路板。
+QuestLoc_ESterisComing_QuestName	E-Ster is Coming	复活节来临
+QuestLoc_ESterisComing_QuestObjective_1	Recover the Sacred Circuit Board.	找回神圣电路板。
+QuestLoc_ESterisComing_QuestShortDescription	Help the Children of Atom recover an ancient artifact.	帮助原子之子找回一个古老的神器。
+QuestLoc_ESterisComing_RaiderLine_1	All this for some old legend...	这一切都是为了一些古老的传说……
+QuestLoc_ESterisComing_RaiderLine_2	Is it me, or did talking about their missing Brother make them uneasy?	是我的问题，还是说谈论他们失踪的兄弟让他们不安？
+QuestLoc_ESterisComing_RaiderLine_3	Brother Will, is that you?	威尔修士，是你吗？
+QuestLoc_EchoesofSteel_QuestlineName	Echoes of Steel	钢铁的回声
+QuestLoc_EvictionNotice_CombatInit1	Hey! We were napping!	嘿！我们正在打盹呢！
+QuestLoc_EvictionNotice_QuestLongDesc	The Dino Dee-Lite motel in Novac was once a bustling hub, now overrun with raiders who call themselves Khans. We're going to turn it back into a motel.	诺瓦克的恐龙迪莱特汽车旅馆曾经是一处繁华的据点，如今却被一群自称大汗帮的掠夺者所占据。我们要把它还原成一家旅馆。
+QuestLoc_EvictionNotice_QuestName	Eviction Notice	驱逐令
+QuestLoc_EvictionNotice_QuestObjective1	Ask the Khans to leave	要求大汗帮离开
+QuestLoc_EvictionNotice_QuestShortDesc	Get the Khans out of the Dino Dee-Lite motel in Novac.	把大汗帮赶出诺瓦克的恐龙迪莱特旅馆。
+QuestLoc_EvictionNotice_Question1	This is Khan territory! What do you want?	这是大汗帮领地！你想干什么？
+QuestLoc_EvictionNotice_Question1_Answer1	That sounds like a challenge! Let's fight!	这听起来像是挑衅！打吧！
+QuestLoc_EvictionNotice_Question1_Answer2	No, it's not. It's Khan territory. We stole it! If you want it back, fight us for it!	不，不是。这是大汗帮领地，我们抢来的！你要想夺回去，就跟我们打！
+QuestLoc_EvictionNotice_Question1_Answer3	Very well, you may pass. Sorry if you get attacked on the way.	好吧，你可以过去。如果路上挨打了，别怪我们。
+QuestLoc_EvictionNotice_Question1_Choice1	Could it maybe not be Khan territory?	也许可以不是大汗帮领地吗？
+QuestLoc_EvictionNotice_Question1_Choice2	Actually, this is a motel.	其实，这是一家旅馆。
+QuestLoc_EvictionNotice_Question1_Choice3	Let me talk to your boss, please!	请让我和你们的老大说话！
+QuestLoc_EvictionNotice_Question2	You now face the Crazy Khans! If they like you, they won't kill you. Do the Crazy Khans like you?	你现在面对的是疯狂大汗帮！如果他们喜欢你，就不会杀你。疯狂大汗帮喜欢你吗？
+QuestLoc_EvictionNotice_Question2_Answer1	Hahahaha! Sure we can. But we won't, because you're so nice.	哈哈哈！当然我们可以。但我们不会，因为你们太好了。
+QuestLoc_EvictionNotice_Question2_Answer2	How about this for welcoming?	来，感受一下什么叫热情款待？
+QuestLoc_EvictionNotice_Question2_Answer3	Don't make the Crazy Khans think! Philosophy is for the boss only!	别让疯狂大汗帮动脑子！哲学是老大的专属！
+QuestLoc_EvictionNotice_Question2_Choice1	We're really nice! Also you can't kill us.	我们超级好的！再说你们也杀不了我们。
+QuestLoc_EvictionNotice_Question2_Choice2	That's not a very welcoming attitude.	这态度也太不友善了吧。
+QuestLoc_EvictionNotice_Question2_Choice3	I wonder if the Crazy Khans like the Crazy Khans.	我想知道疯狂大汗帮喜不喜欢疯狂大汗帮自己。
+QuestLoc_EvictionNotice_Question3	Word of your coming reached me before you even stepped foot in my halls. What do you wish?	你来此之前，我已经知道你的消息了。你有何所求？
+QuestLoc_EvictionNotice_Question3_Answer1	Hmph. No, I am not in. If you want to take the territory, then take it by force as we did!	哼，不，我不愿意。如果你想夺走这片领地，就像我们一样，用武力来取！
+QuestLoc_EvictionNotice_Question3_Answer2	Novac has never been so strong and free. Here, I'll show you just how free you can be!	诺瓦克从来没有这么强大自由过。来，我让你亲身体验一下何谓自由！
+QuestLoc_EvictionNotice_Question3_Answer3	Give it a few days, and you will smell much worse than we do!	等几天，你会比我们更臭的！
+QuestLoc_EvictionNotice_Question3_Choice1	We want this to be a motel again. You in?	我们想把这里变回旅馆，你愿意吗？
+QuestLoc_EvictionNotice_Question3_Choice2	You're killing the vibe in Novac.	你们毁了诺瓦克的氛围。
+QuestLoc_EvictionNotice_Question3_Choice3	I hate to say this, but… you're all too smelly.	不得不说……你们身上有点味儿。
+QuestLoc_EvictionNotice_Soliloquy1	Hey look, this place is full of cool stuff. Check it out! A real swim suit!	嘿，这地方有不少好东西。看看！一件真正的泳衣！
+QuestLoc_EvictionNotice_Soliloquy1_2	Never know when you might find a swimming pool in the wasteland…	在废土上说不定哪天就能找到游泳池……
+QuestLoc_EvictionNotice_Soliloquy2	These Khans are so careless. Leaving all this nice stuff lying around!	这些大汗帮真粗心，把这么多好东西随便乱放！
+QuestLoc_ExpressCheckout_Conversation_1_NPCEnd_1	Found this in the rubble. You want it, it's yours.	在碎石堆里找到了这个。你要的话就给你。
+QuestLoc_ExpressCheckout_Conversation_1_NPCEnd_2	Look, I'm sorry. A Ghoul's gotta eat. You want this instead?	听着，我很抱歉。尸鬼也得吃东西。要不你拿这个？
+QuestLoc_ExpressCheckout_Conversation_1_NPCEnd_3	Nah, I just bumped into them. Say, you want this?	不用了，我只是恰好碰上了。你是说你想要这个？
+QuestLoc_ExpressCheckout_Conversation_1_NPCEnd_4	Doesn't everybody?! There may not be any left, but I did find this...	难道有人不想吗？！说不定再也没有了，不过我确实发现了这个……
+QuestLoc_ExpressCheckout_Conversation_1_NPCStart_1	Well, this is awkward. If you were looking for any Dandy Boy Apples, I uhh... I ate 'em all.	呃，这可有点尴尬。如果你是在找“花花公子苹果”的话……我……全吃了。
+QuestLoc_ExpressCheckout_Conversation_1_Team_1	Anything else left around here?	这里还有剩下的吗？
+QuestLoc_ExpressCheckout_Conversation_1_Team_2	But I had a craving!	但我真的很想吃！
+QuestLoc_ExpressCheckout_Conversation_1_Team_3	Were those Ferals friends of yours?	那些尸鬼是你的朋友吗？
+QuestLoc_ExpressCheckout_Conversation_1_Team_4	Ghouls like Dandy Boy Apples?	尸鬼喜欢“花花公子苹果”吗？
+QuestLoc_ExpressCheckout_QuestLongDescription	While exploring the Wasteland, one of your Dwellers stumbled upon a Super-Duper Mart. Surely there's something useful inside.	一位探索废土的居民途经了一个大无敌超市。里面应该会有些有用的东西。
+QuestLoc_ExpressCheckout_QuestName	Express Checkout	快捷收银台
+QuestLoc_ExpressCheckout_QuestObjective_1	Search the Super-Duper Mart.	搜索大无敌超市。
+QuestLoc_ExpressCheckout_QuestShortDescription	Clear out the Super-Duper Mart.	清空大无敌超市。
+QuestLoc_ExtremeOuterference_Conversation01_NPC01	#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!	#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!
+QuestLoc_ExtremeOuterference_Conversation01_PC01	What?	什么？
+QuestLoc_ExtremeOuterference_QuestLongDescription	Some strange signals are interfering with our radio transmissions out in the waste. Take a squad with you and triangulate the interference. Once you know where it's coming from, investigate the site and disable whatever is blocking our Radio.     	废土中有一些奇怪的信号干扰了我们的无线电传输。带上一队人马，定位干扰源。一旦知道干扰信号的来源，就去调查那个地方，处理掉干扰我们无线电的东西。
+QuestLoc_ExtremeOuterference_QuestName	Extreme Outerference	极端干扰
+QuestLoc_ExtremeOuterference_QuestObjective	Investigate the strange signals	调查奇怪的信号
+QuestLoc_ExtremeOuterference_QuestShortDescription	Investigate the strange signals	调查奇怪的信号
+QuestLoc_ExtremePrejudice_Conversation_1_NPCEnd_1	Makes sense.	有道理。
+QuestLoc_ExtremePrejudice_Conversation_1_NPCEnd_2	I saw that! It's an honor to meet you. And kill you.	我看到了！很荣幸认识你。然后杀了你。
+QuestLoc_ExtremePrejudice_Conversation_1_NPCEnd_3	Ha! I bet you would, too!	哈！我打赌你也会！
+QuestLoc_ExtremePrejudice_Conversation_1_NPCStart_1	Hey. You.	嘿，你。
+QuestLoc_ExtremePrejudice_Conversation_1_NPCStart_2	I haven't seen you before, yet you look vaguely familiar.	我以前没见过你，但你看起来有点眼熟。
+QuestLoc_ExtremePrejudice_Conversation_1_NPCStart_3	Are you some kind of spy?	你是间谍吗？
+QuestLoc_ExtremePrejudice_Conversation_1_Team_1	I have a very common face, it helps to infiltrate the enemy.	我有一张大众脸，它有助于渗透敌人。
+QuestLoc_ExtremePrejudice_Conversation_1_Team_2	Well, I did make the cover of Spy Quarterly.	嗯，我确实上过间谍季刊的封面。
+QuestLoc_ExtremePrejudice_Conversation_1_Team_3	I *wish* I was a spy, so I could just kill you all.	我真希望我是间谍，所以我可以杀了你们所有人。
+QuestLoc_ExtremePrejudice_Conversation_2_NPCEnd_1	Mike?	迈克？
+QuestLoc_ExtremePrejudice_Conversation_2_NPCEnd_2	Oh, right, he is. Heh. Good ol' Mike.	哦，对了，他是。嘿嘿。好人迈克。
+QuestLoc_ExtremePrejudice_Conversation_2_NPCEnd_3	Te voy a matar, cabron!	我会杀了你的！
+QuestLoc_ExtremePrejudice_Conversation_2_NPCStart_1	Have you seen Mike around, by any chance?	你们见到迈克了吗？
+QuestLoc_ExtremePrejudice_Conversation_2_NPCStart_2	You know who I'm talking about, right?	你知道我在说谁吧？
+QuestLoc_ExtremePrejudice_Conversation_2_Team_1	Of course I do! He's...uh...he's right over there, look!	我当然会！他……呃……他就在那边，看！
+QuestLoc_ExtremePrejudice_Conversation_2_Team_2	Don't kid... Mike's been dead for weeks.	别开玩笑了……迈克已经死了好几个星期了。
+QuestLoc_ExtremePrejudice_Conversation_2_Team_3	Lo siento, no hablo inglés.	不好意思，我听不懂。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCEnd_1	“All Dwellers must carry ID at all times.” We have to shoot you now.	“所有的居民都必须随身携带身份证。”我们必须得开枪了。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCEnd_2	You know, I'm not sure... Let me get back to you on that.	你知道，我不太确定……回头再答复你。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCEnd_3	Never heard of fist prints before, but I supp- Ooh, I get it.	以前从没听说过拳印，但我想——哦，我懂了。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_1	I'm sorry, but we need to check your ID.	对不起，我们需要检查您的身份证。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_2	Apparently someone has been trying to infiltrate this Vault.	显然有人一直试图渗透进这个避难所。
+QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_3	Infiltrate...with extreme prejudice.	用极端偏见……来渗透。
+QuestLoc_ExtremePrejudice_Conversation_3_Team_1	I left it in my other Vault Suit.	我把它留在我的另一个避难所套装里了。
+QuestLoc_ExtremePrejudice_Conversation_3_Team_2	What does that mean anyway, “extreme prejudice”?	“极端偏见”到底什么意思？
+QuestLoc_ExtremePrejudice_Conversation_3_Team_3	Does my fist count as ID?	我的拳头算身份证吗？
+QuestLoc_ExtremePrejudice_Conversation_4_NPCEnd_1	Pffft. Good luck!	切。祝你好运！
+QuestLoc_ExtremePrejudice_Conversation_4_NPCEnd_2	Is that some kind of threat?	这是一种威胁吗？
+QuestLoc_ExtremePrejudice_Conversation_4_NPCEnd_3	Steve, all-knowing? You're clearly *not* from here...	史蒂夫，无所不知？你显然不是来自于这里……
+QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_1	Hey, could you help settle an argument we're having?	嘿，你能帮我们解决争吵吗？
+QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_2	They say the Overseer will find a new Vault for us any moment now.	他们说，监督者会随时找到一个新的避难所给我们。
+QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_3	I think we'll be stuck in this crappy second-rate Vault forever.	我想我们会永远困在这蹩脚的二流避难所里。
+QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_4	What do you think, fellow Dweller that I can't quite place?	这位我一时认不出是谁的同胞，你怎么看？
+QuestLoc_ExtremePrejudice_Conversation_4_Team_1	I'm on my way to see the Overseer. I can ask him if you want.	我正要去见监督者。如果你愿意，我可以问问他。
+QuestLoc_ExtremePrejudice_Conversation_4_Team_2	You'll live out the rest of your days here, i.e. a couple of minutes.	你会在这里度过剩下的日子，也就是几分钟。
+QuestLoc_ExtremePrejudice_Conversation_4_Team_3	Your... I mean, *our* Overseer is all-knowing. Surely he's telling the truth.	你的……我的意思是，我们的监督者什么都知道。他肯定说的是实话。
+QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_1	This dump? Have you actually looked at it? It stinks!	这堆垃圾？你们真的仔细看过吗？太臭了！
+QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_2	It's awesome! Your Overseer is  the best! A true genius, and immune to flattery, too.	棒极了。你的监督者是最好的！一个真正的天才，也不吃拍马屁那套。
+QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_3	...says the hired assassin.	雇佣刺客说……
+QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_4	No, Secret Agent Person, I expect you to die.	不，特工人员，我希望你死。
+QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_1	Well, well, well...	这个嘛这个嘛……
+QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_2	I guess it was just a matter of time before you showed up.	我看你出现在这儿，不过是早晚的事。
+QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_3	Too bad you will fail, and your Vault will be ours!	可惜你会失败，你的避难所将是我们的！
+QuestLoc_ExtremePrejudice_Conversation_5_Team_1	You already have a Vault.	你已经有一个避难所了。
+QuestLoc_ExtremePrejudice_Conversation_5_Team_2	Why *our* Vault, out of all of them?	为什么所有的这些避难所，你们选择了我们的？
+QuestLoc_ExtremePrejudice_Conversation_5_Team_3	Can't we just all get along?	我们就不能和睦相处吗？
+QuestLoc_ExtremePrejudice_Conversation_5_Team_4	Well you got me. Do you expect me to talk?	你难倒我了。你指望我会招供吗？
+QuestLoc_ExtremePrejudice_QuestLongDescription	The information we got from Harkness is troubling: it reveals a rival Vault Overseer is behind all of the recent attacks against us. We need to send a single assassin to infiltrate the Vault and take out its leader... with extreme prejudice.	我们从哈克尼斯那里收到的信息令人担忧：一位同我们竞争的避难所监督者是最近所有攻击的幕后黑手。我们需要派一名刺客潜入他们的避难所，毫不留情地干掉他们的首领。
+QuestLoc_ExtremePrejudice_QuestName	Extreme Prejudice	极端偏见
+QuestLoc_ExtremePrejudice_QuestObjective_1	Eliminate the evil Overseer.	消灭邪恶的监督者。
+QuestLoc_ExtremePrejudice_QuestShortDescription	Take out a hostile Vault Overseer.	拿下一个敌对避难所的首领。
+QuestLoc_ExtremePrejudice_RaiderLine_1	Don't worry, this won't take long.	别担心，这不会花很长时间。
+QuestLoc_ExtremePrejudice_RaiderLine_2	*sigh* You had to pick the hard way...Extreme Prejudice!	*叹息*你偏要选择艰难的方式……极端偏见！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_1	Looks like we're both a little hard of hearing. But you've got bigger problems!	看来咱俩听力都不太好。不过你的麻烦可大得多！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_2	Funny, I was just about to say the same thing to you!	呵呵，我正想和你讲同样的话！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_3	Nope, but I'll go find out as soon as I'm finished with you!	没，但我要和你了结之后再说！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_4	Doesn't matter to you - you'll be dead in a minute!	对你来说无所谓——反正你马上就要死了！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCStart_1	I heard scratching sounds, but thought it was just animals.	我听到了抓挠的声音，但我以为只是动物发出的。
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCStart_2	Turns out it's just some dumb Vault Dwellers instead!	结果发现只是某些愚蠢的避难所居民！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCStart_3	You ain't getting whatever's in this place! I got here first!	你们在这里什么都得不到！我先到的！
+QuestLoc_FactoryFloorofFear_Conversation_1_NPCStart_4	I don't care what's in my way, whether it's bugs or chumps like you!	我根本不在乎谁挡我的路，不论是虫子还是你们这种傻瓜！
+QuestLoc_FactoryFloorofFear_Conversation_1_Team_1	Didn't you hear? Everyone is supposed to stay away from this place.	你们没听说吗？每个人都应该远离这个地方。
+QuestLoc_FactoryFloorofFear_Conversation_1_Team_2	You're gonna get yourself killed in here.	你会死在这里的。
+QuestLoc_FactoryFloorofFear_Conversation_1_Team_3	Any idea why this place is off limits?	你们知道为什么这里是禁区吗？
+QuestLoc_FactoryFloorofFear_Conversation_1_Team_4	You heard scratching sounds? Coming from where?	你听到了抓挠的声音？从哪里传来的？

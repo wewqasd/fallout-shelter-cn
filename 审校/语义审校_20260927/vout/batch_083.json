@@ -1,0 +1,110 @@
+{
+ "batch": 83,
+ "items": [
+  {
+   "key": "Speech_Conversation_NPC2_Topic25_Response1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "chess=国际象棋（ES ajedrez、DE Schach）；汉语「象棋」默认中国象棋，与 EN 的 chess 不是同一种棋。",
+   "final_fix": "跳棋？我们才十岁吗？我们还是下国际象棋吧。"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic58_Response2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「我想他在下面那儿」是汉语口语，非英文语序（DE: er ist da unten）；I think he's down there 与 ZH 对应无误。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Eviction_15",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「后悔！」独用不成句，Rue the day! 的重复落空；「后悔你赶走了我」的「你」是 you'll rue the day you… 的语序残留。",
+   "final_fix": "你会后悔赶走我的！你一定会后悔的！"
+  },
+  {
+   "key": "Speech_Eviction_25",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "They're kicking me out 是正在发生（RU Меня выгоняют）；ZH「想踹」成意图，「踹」是用脚踹，赶人应作赶/踢。",
+   "final_fix": "监督者！监督者，救命！他们要把我赶出去！"
+  },
+  {
+   "key": "Speech_Eviction_27",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "getting soft=变得软弱（ES ablandando、DE verweichlicht）；ZH「住得过于舒服」丢此义，又加「好像」把断言改猜测。",
+   "final_fix": "你们算是帮了我一个忙。我在避难所里待得太安逸，人都变软了。"
+  },
+  {
+   "key": "Speech_Fail_Rush1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "production failure=生产失败（ES fallo、RU сбой на производстве）；ZH「生产出」搭「事故」，搭配不通。",
+   "final_fix": "哦不！生产严重失败！"
+  },
+  {
+   "key": "Speech_Generic_Dweller6",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "句末 Huh. 只是语气词（ES Uh…、DE Hm.、RU Ха.），ZH「谁知道呢。」替说话人下了「无人知晓」的结论。",
+   "final_fix": "中国也建过避难所吗？嗯……"
+  },
+  {
+   "key": "Speech_Happiness_Happy2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "汉语无「愁脸」一词（应作苦瓜脸）；「翻成笑脸」是 turned my frown upside down 逐词照搬，汉语不这么说。",
+   "final_fix": "看来我这苦瓜脸是要彻底变成笑脸了！"
+  },
+  {
+   "key": "Speech_Kid32",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "have a sleepover=请朋友来自己家过夜（FR inviter mes amis、RU к себе），ZH「去朋友家」把主客方向弄反。",
+   "final_fix": "我今晚想在家里办个过夜派对！"
+  },
+  {
+   "key": "Speech_Kid8",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「我希望我们这里有电视」合汉语（同库 NPC1_13/14 同句式），我们+这里非英文语序，I wish we had TV 信息无失。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_LivingQuarter_Dialogue_NPC2_14",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN do see（RU ведь видишь）的强调未译，「该看出了那句话里的讽刺」又不合「该…了」框式，读来卡顿。",
+   "final_fix": "你……应该也看出那句话里的讽刺了吧。对不对？"
+  },
+  {
+   "key": "Speech_LivingQuarter_Dialogue_NPC2_7",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "a crazy person 本就不定指（ES una persona loca、RU с сумасшедшим），ZH「一个疯子」与 fix 相同。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_16",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "apple of my eye=最珍视的人；「小呀小苹果」是流行歌歌词衬字，属现代歌曲梗替换（同系列 PickupLines_12 优乐美已判错）。",
+   "final_fix": "你是我心尖上的人。"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_29",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同一 vertibird 另 3 处（Encounter_Random_Message85 等）均作「垂直起降机」，此处「飞鸟」成一物两名。",
+   "final_fix": "我们是在一架垂直起降机上吗？因为我的心好像起飞了。"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_56",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "in like with you 是把 in love 降格的文字游戏，「喜欢」你、谈不上「爱」正是该降格的显化；fix「喜欢上你」反成完整表白。",
+   "final_fix": ""
+  }
+ ]
+}

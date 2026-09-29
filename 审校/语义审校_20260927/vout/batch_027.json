@@ -1,0 +1,110 @@
+{
+ "batch": 27,
+ "items": [
+  {
+   "key": "QuestLoc_LittleRedRadiumHood_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "followed directions 是“照指示做”，译“跟着方向走”把指示误作方向；Meh 只是敷衍语气词，非明确否定。",
+   "final_fix": "呃，我只是照着指示做的。我可不是什么尸鬼专家。"
+  },
+  {
+   "key": "QuestLoc_LittleRedRadiumHood_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "上句问 Did she have large eyes…，She did 是确认“她确实有这些特征”，译“她做的”答非所问。",
+   "final_fix": "她确实有！仔细想想，说不定那其实是只死爪。"
+  },
+  {
+   "key": "QuestLoc_LittleRedRadiumHood_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "it took you guys a while 的主体是你们，译文“有一段时间了”把这主体丢掉，读者不知是谁慢。",
+   "final_fix": "好吧，你们可算来了，我都等饿了，所以把蛋糕全吃光了。"
+  },
+  {
+   "key": "QuestLoc_LittleRedRadiumHood_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "give me heartburn 的使役义丢失，“真是烧心”读来像在评食物；“辐射中毒”独立成句缺连接。",
+   "final_fix": "哦，那些吃了让我烧心，还会让我得辐射病。"
+  },
+  {
+   "key": "QuestLoc_LittleRedRadiumHood_QuestLongDescription",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "“名叫”句式可通，非杂糅；真问题是 Non-Feral 在全库作“不狂化”（non-feral ones），非“温顺”，old 亦未译。",
+   "final_fix": "我们派了一名居民把食物送给一只人称“奶奶”的年老不狂化尸鬼，但我们好久没听到她的消息了。我们必须派一支小队去调查！"
+  },
+  {
+   "key": "QuestLoc_LiveDeadDrop_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Or, you know, killed 承前省略“别”，中文“被杀”独句被动生硬；“放下消息，然后他会捡起来”亦偏直译。",
+   "final_fix": "我们需要给一位潜入掠夺者帮派的朋友送个信。你的任务是把消息放在附近的大无敌超市，让他自己去取。尽量别被发现——或者，你懂的，别把命丢了。"
+  },
+  {
+   "key": "QuestLoc_MaskHysteria_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "bloodshed 侧重流血，“以杀戮来了结”既搭配不当又把了结主体交给玩家；ES/RU 均作这一天以流血收场。",
+   "final_fix": "我怕的是今天要以一场不必要的流血收场。"
+  },
+  {
+   "key": "QuestLoc_MatterstoSettle_Conversation_3_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "It's all I can talk about 是“张口闭口只有这个”，译成“到了我忍耐的极限”变成受不了，与下文停止谈饥饿脱节。",
+   "final_fix": "这也饿，那也饿！我张口闭口就只有这个！"
+  },
+  {
+   "key": "QuestLoc_MatterstoSettle_Conversation_4_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "upfront about trying to kill you 是“毫不掩饰地想杀你”，译文丢了 trying to，“坦率”修饰“杀死”也不成立。",
+   "final_fix": "不会。“战争崇拜者”在去追随“战争”的路上，会毫不掩饰地想要你的命。"
+  },
+  {
+   "key": "QuestLoc_MondayNightBrawl_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "supposed to be 是嘲弄对方扮相（下文马戏团、行头不错均针对穿着），译“来干嘛的”改成问来意。",
+   "final_fix": "你们这身打扮到底是什么玩意儿？"
+  },
+  {
+   "key": "QuestLoc_MonsterUndertheBed_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "One of the Vault youngsters 与 their bed 均指一个孩子（单数 they），译文由一变多，permanently 漏译。",
+   "final_fix": "避难所里的一个孩子在外面玩耍时，一只可怕的怪兽偷走了他的泰迪熊。现在他死活不肯睡觉，说那只怪兽每晚都会回来，躲在他的床底下！我们必须把这头怪兽揪出来，永久地终结这孩子的恐惧。"
+  },
+  {
+   "key": "QuestLoc_MyMetalPony_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 是“那根本讲不通”（ES no tiene ni pies ni cabeza），“不像话”是道德指责，NPC 反应性质被换。",
+   "final_fix": "那根本就说不通！"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_2_Question1_Choice3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "“混进你们的”缺宾语中心语，“的”字结构不能单独作“混进”的宾语；my mind in your mix 指混进你们当中。",
+   "final_fix": "你不会想让我这样的头脑混进你们的集体。它……不太正常。"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Answer1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "“还不是多数人”已完整表反问，只是“为了压迫那一个人？”与前半并列生硬，EN 目的状语宜用破折号承接。",
+   "final_fix": "那就请继续赶路，好好想想：是谁在定义痛苦？还不是多数人——为的就是压迫那一个人。"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "全库 8 处作“糖衣炸弹麦片”，此处“一盒糖炸弹”专名不一致，还丢掉了“麦片”这层梗。",
+   "final_fix": "生命就像一盒糖衣炸弹麦片！你总知道会得到什么：那就是糟粕！"
+  }
+ ]
+}

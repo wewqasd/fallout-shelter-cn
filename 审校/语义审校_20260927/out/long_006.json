@@ -1,0 +1,111 @@
+{
+ "chunk": "long_006",
+ "lens": "long",
+ "reviewed": 60,
+ "findings": [
+  {
+   "key": "QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN “the Bugle Boy who is holed up in a Super-Duper Mart” 是「躲藏、盘踞在大无敌超市里」，ZH「他现在被关在了大无敌超市里」把主动藏身说成被囚禁，会让玩家以为他是被抓起来关在那里的。",
+   "fix": "到头来新波士顿号角报是某种骗局，而我们唯一的线索就是号角男孩。他现在正躲在大无敌超市里。去找到他，然后问出点信息吧。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_BountyYak_QuestLongDescription",
+   "severity": "S3",
+   "type": "多译",
+   "problem": "EN 只写 “her last snackcake”（最后一块零食蛋糕），没有任何品牌；ZH 写成「最后一块“俏男孩”蛋糕」，自行加出 EN 里不存在的品牌专名。",
+   "fix": "一只叫做“牦牛”的鼹鼠妈妈偷走了最后一块零食蛋糕！除掉它然后领取你的奖励。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_CanineRecovery_Conversation_1_NPCStart_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN “We didn't spend all that time tying them up and keeping them alive, just for them to run away!” 的否定范围落在「不是为了让他们跑掉」，并强调「花了那么多时间」；ZH「我们没有将他们绑住，还保证他们活着，结果他们居然逃跑了！」把否定挪到「绑住」上，等于说根本没绑过他们，与原文相反，且丢掉「花了那么长时间」。",
+   "fix": "我们花了那么长时间把他们绑起来、还让他们活着，可不是为了让他们跑掉的！真是没礼貌。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_CheesePlease_QuestLongDescription",
+   "severity": "S3",
+   "type": "多译",
+   "problem": "EN “you made it back in one piece” 说的是「你本人完好无损地回来了」；ZH「你完好无损地把它带回来了」多出原文没有的宾语「它」，变成玩家带回某样东西且那样东西完好无损。",
+   "fix": "厨师很高兴——也很惊讶——你居然完完整整地回来了！他现在需要加工过的奶酪，也就是灰金奶酪，这种神奇的食物能经受住时间和核战争的考验。有些可能留在老奶酪厂。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_CollateralMurder_Conversation_1_NPCEnd_1",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN 前两句 “Oh yeah. We've been watching him, waiting for the right time to strike.”（一直盯着他、等合适下手时机）在 ZH 里完全没有对应，只译了最后一句。",
+   "fix": "哦对。我们一直在盯着他，等着合适的下手时机。试试从这里往北约一公里处的旧大无敌超市吧。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_CollateralMurder_Conversation_1_NPCStart_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN “I'm all that's left.” 是「我是唯一活下来的人」；ZH「我就是所剩无几的人之一」把唯一改成「之一」，让玩家以为还有别的幸存者，事实说反了。",
+   "fix": "我是唯一活下来的人了。这大概就是和暴徒还有小报记者作对的下场。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_CoveringAlltheBases_QuestLongDescription",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN “Rackie Jobinson's Jersey” 中的专名被删，ZH 只剩「棒球衫」，任务目标物品的名称丢失（同批 QuestLoc_BreakingalltheRecords 里该名是保留的，前后不一致）。",
+   "fix": "还是没有教练或是罗基·杰宾森的棒球衫的影子。该去更远的地方了。不入虎穴，焉得虎子！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_CoveWatch_QuestLongDescription",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN “a TV pilot”（电视试播集）被译成「电视节目」，丢了 pilot；同时 “It's almost certainly a trap” 的 almost 被删除，ZH 说成「这肯定是个陷阱」，限定被加强；另 “dressed for the part” 被扩写成原文没有的「去试镜」。",
+   "fix": "避难所得到消息，说附近正在拍摄一部电视试播集。这几乎肯定是个陷阱，但以防万一，还是派你最具魅力的居民打扮得符合角色去一趟吧。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+   "severity": "S1",
+   "type": "漏译",
+   "problem": "EN 三句只留下约一句：ZH 丢了「在672号避难所」（672 号避难所这个地名整条消失）、「死亡」是「神秘的第四骑士」、「按约定他们的监督者联系了我们并安排了会面」，以及「她不愿透露自己避难所的位置，所以我们会在一座废弃建筑里与她碰面」——玩家看不到会面安排与碰面地点。",
+   "fix": "在672号避难所，我们遇到了来自144号避难所的居民，他们熟悉那位神秘的第四骑士“死亡”。按照约定，他们的监督者联系了我们并安排了会面，届时她会把她知道的一切都告诉我们！但她不想透露自己避难所的位置，所以我们将会在一座废弃的建筑里与她碰面……",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_DeathclawDeeLite_3_Question1_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN “for the sin of desiring a less violent lifestyle for my people” 中“罪”是他自己「为我的同族向往不那么暴力的生活」，for my people 修饰 desiring；ZH「为我同族的罪愆受罚」把罪愆安到同族头上，修饰语挂到了另一个分句。",
+   "fix": "我在这里自愿当囚犯，我的罪过不过是希望我的同族能过上不那么暴力的生活。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_DearthOfClaws_QuestLongDescription",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN “taking a circuitous rout to getting himself eaten” 是「绕远路把自己送进死爪嘴里（会被吃掉）」，ZH 只译成「自讨苦吃」，丢掉「会被吃掉」这一结果。",
+   "fix": "我们的几个采集者最近和一个旅行者聊天，他说他正在该地区寻找死爪聚集地，还计划在那里进行“社会实验”。他们担心他不过是在绕远路把自己送进死爪嘴里。去附近这个死爪经常出没的地方，看看能不能救救这个可怜的家伙。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_DenofThieves_QuestLongDescription",
+   "severity": "S3",
+   "type": "指代",
+   "problem": "EN “teach that reckless rogue a lesson” 是单数、指红瑞秋本人；ZH「给这些莽夫们一点颜色看看」变成复数的「莽夫们」，指代对象与数不符。",
+   "fix": "红瑞秋是一个凶残的掠夺者首领。她偷走了一些你们的物资。拿回本属于你的东西，然后给那个鲁莽的无赖一点颜色看看！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_DibsattheRedRocket_QuestLongDescription",
+   "severity": "S3",
+   "type": "病句",
+   "problem": "EN “an abandoned Red Rocket truck stop” 是「一座废弃的红色火箭卡车服务站」，ZH 用车辆量词「一辆」去修饰「卡车站」，量词错用、句子不通。",
+   "fix": "你的一个居民发现了一座废弃的红火箭卡车服务站！也许里面有一些有价值的垃圾……",
+   "confidence": "high"
+  }
+ ]
+}

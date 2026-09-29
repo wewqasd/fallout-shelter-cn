@@ -1,0 +1,17 @@
+{"batch":84,"items":[
+{"key":"Speech_LivingQuarter_PickupLines_57","verdict":"reject","severity":"S3","reason":"I could use 本就是委婉弱请求，ES 亦作 Me vendría bien；「我并不介意来一个不错的吻」语义对应，非半推半就，属风格偏好。","final_fix":""},
+{"key":"Speech_LivingQuarter_PickupLines_62","verdict":"confirm","severity":"S3","reason":"「我想」后接「依偎在一起」先被读成我想要，到「的时间到了」才需回读；it's snuggle time 应作「是依偎的时间了」，属英文定语硬搬。","final_fix":"你有手表吗？我觉得现在是依偎的时间了。"},
+{"key":"Speech_LivingQuarter_PickupLines_79","verdict":"reject","severity":"S3","reason":"「是…，还是…」后项接主谓小句在汉语常见，同系列 54/55 即同型；现译读得通，非结构杂糅，属风格偏好。","final_fix":""},
+{"key":"Speech_Quest_Alone_Dweller_19","verdict":"confirm","severity":"S2","reason":"「一人…一人…」是汉语对举格式，易读成一个人活、另一个人死，与 die alone 的孤独义相冲；depressing 项目他处作「沮丧」。","final_fix":"独自活着，独自死去。真让人沮丧。"},
+{"key":"Speech_Quest_Alone_Dweller_5","verdict":"confirm","severity":"S3","reason":"Doing this is one thing 是让步（做这事倒还好），译成「任务是要完成的」换了命题；Ugh 的厌恶被「真是的」弱化成嘟囔。","final_fix":"干这事是一回事。一个人干？呃。"},
+{"key":"Speech_Quest_Generic_Dweller_27","verdict":"confirm","severity":"S3","reason":"charming＝迷人/有魅力，「风雅」指文人雅士的雅致，与地上的死老鼠搭配失当，反讽失去落点（全项目仅此一处用此词）。","final_fix":"嚯，地上还有只死老鼠，真有情调。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_15_Response_2","verdict":"confirm","severity":"S2","reason":"Someone screaming 的主语「有人」丢失，「伴随着音乐的尖叫声」退化为与第一项「尖叫声」重复的声音现象，三项递进垮掉。","final_fix":"尖叫声？音乐？还是有人跟着音乐在尖叫？"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_21_Response_1","verdict":"confirm","severity":"S3","reason":"You are... 是承接「被人监视」的省略句，直搬成「你是啊」在汉语不成话；By me 的停顿反转宜作「没错……我正盯着你呢」。","final_fix":"没错……我正盯着你呢。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_22_Response_3","verdict":"confirm","severity":"S3","reason":"not... at all 的反讽否定被抹平，「别有用心」还带上算计义；loaded question 宜用「一点坑都没有」保住假装无辜的机锋。","final_fix":"哇。这问题可真是一点坑都没有啊。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_23_Response_3","verdict":"confirm","severity":"S3","reason":"被讨零食时的 Hello! 是「拜托/喂」的无奈感叹，非问候语；「居民在此」系 there 的硬译，宜口语化并沿用项目既有的「自动售货机」。","final_fix":"拜托！我可是避难所居民，不是自动售货机……"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_25_Response_3","verdict":"confirm","severity":"S3","reason":"「干扰」与「分心」同义叠加；EN 是与前两条并列的动名词短语，现译「不要被…所…而…」成了书面命令句，节奏脱节。","final_fix":"不被喋喋不休的同伴分心？"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_26_Response_1","verdict":"confirm_fix_better","severity":"S3","reason":"my allocated 2.5 minute shower 三层定语压在「澡」上，中文习惯时长后置；fix 尾句「就分配给我的那两分半钟」缺谓语，须补「用」。","final_fix":"大概是去洗个澡吧，就用分配给我的那两分半钟。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_26_Response_3","verdict":"confirm","severity":"S3","reason":"assign 在此是「（被）分配/分到一组」，「和你分配在一起」搭配不成立；句末「了」又把打算写成已发生，与同组回答语气不一。","final_fix":"请求再也别跟你分到一组。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_29_Response_1","verdict":"confirm","severity":"S3","reason":"Staying safe 译「住得安全」窄化成住所安全；「安居乐业」含「乐业（工作）」且与前项重叠，三项并列的并列感被打乱。","final_fix":"哦，你懂的。玩得开心，平平安安，快快乐乐。"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_30_Response_1","verdict":"confirm","severity":"S3","reason":"「独门」只与绝技/秘方类词搭配，「独门方式」是生造搭配；horrible 又窄化成「吓人」，its own way 宜作「它自己那种可怕的方式」。","final_fix":"挺迷人的，对吧？以它自己那种可怕的方式。"}
+]}

@@ -1,0 +1,110 @@
+{
+ "batch": 6,
+ "items": [
+  {
+   "key": "Weapon_Description_FatMan_Hardened",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN yield 是核弹「当量」（DE Hochleistungsgranaten），ZH 当成金融词译「收益率」，读成理财产品。",
+   "final_fix": "更高当量的炮弹带来更大的爆炸……以及更多的阵亡者。"
+  },
+  {
+   "key": "Weapon_Description_HuntingRifle",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN game 在狩猎语境指「猎物」（ES cazar、FR gibier、DE Beute），ZH 译成「游戏」，把打猎写成参与放倒人的游戏。",
+   "final_fix": "非常适合猎杀猎物——不管是人还是野兽。"
+  },
+  {
+   "key": "Weapon_Description_Magnum_Enhanced",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 一句两步：换上更好的瞄准镜就 blasting baddies like a champ，ZH 只剩前半条件分句，结果与夸耀全丢，句子没说完。",
+   "final_fix": "只要换上更好的瞄准镜，你就能像冠军一样横扫那些坏蛋。"
+  },
+  {
+   "key": "Weapon_Description_PlasmaRifle_Amplified",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN this thing 指这把枪（DE dieses Ding），ZH 改成悬空的「这件事」，does 也弱化成「影响」。",
+   "final_fix": "这把枪打在人身上会造成什么后果，完全无法想象。"
+  },
+  {
+   "key": "Weapon_Description_Shotgun_Rusty",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 前半 sat in the barn a little too long 整句无对应（DE/RU 均有），ZH 从「但」起句，前件缺失、句子不成立。",
+   "final_fix": "它在谷仓里搁得太久了，但杀起人来依然不输任何好枪。"
+  },
+  {
+   "key": "AlienDrone_campaign_ClaimedText",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN inventory 本项目定名「库存」（EquipmentFilter_Inventory），ZH「仓库」在全表只指实体建筑。",
+   "final_fix": "您可以在库存中找到新的宠物。感谢您游玩辐射避难所。"
+  },
+  {
+   "key": "Android_PushNotification_Summary",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Something happened 是笼统的「出了状况」，ZH「有事情发生」为逐词搬来的存在句，推送横幅不地道；含义未错，降为 S3。",
+   "final_fix": "您的避难所出事了！"
+  },
+  {
+   "key": "Crafting_FreeJunk_Main1",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "EN ONLY GET THROUGH CRAFTING 是绝对限定（各语种一致），ZH 自加「探险时」降为有条件；参考 fix 两个「打造」拗口。",
+   "final_fix": "这里有一些配方和杂物，能打造出无法通过其他途径获得的武器和装备。"
+  },
+  {
+   "key": "Crafting_FreeJunk_Main2",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "EN CANNOT BE FOUND, ONLY CRAFTED 无「探险时」限定，ZH 自加该限定又缺「在」；参考 fix 仍写「在探险中」。",
+   "final_fix": "还有许多物品无法找到，只能靠打造获得。选择要打造的物品时，它们会带有打造图标标识。"
+  },
+  {
+   "key": "EULA_LEGAL_LINK",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 是 zenimax mobile-eula，ZH 换成盛趣 fo.sdo.com/policy/ 且丢 https://，同表其它法务链接均保留官方地址。",
+   "final_fix": "https://www.zenimax.com/en/legal/mobile-eula"
+  },
+  {
+   "key": "Encounet_Progression_Creature23",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN Not like it can actually shoot fire 是轻蔑断言（DE 佐证），ZH「好像不是真能…的样子」变猜测，句尾又撞敌方模板。",
+   "final_fix": "一只火兵蚁？它又不会真的喷火。该我出手了！"
+  },
+  {
+   "key": "Encounet_Progression_Creature43",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN against this Deathclaw 需「在这只死爪面前/面对」，ZH 只用「这只死爪面前」，句首状语缺介词、成分残缺。",
+   "final_fix": "在这只死爪面前，我怎么可能活下来？！"
+  },
+  {
+   "key": "Encounter_Defeat_Creature23",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN trained to kill anything in its path 描述习性，ZH「挡它路的通通杀掉」缺主语与「会」，读成命令式口号。",
+   "final_fix": "这只英克雷死爪受过训练，会把挡它路的一切都杀掉！我得跑！"
+  },
+  {
+   "key": "Encounter_Victory_Creature3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 第二分句主语是 it（苍蝇，ES ha explotado），ZH「炸成了一堆碎块」承前省略主语「我」，读成玩家自己炸碎；补「它」即消歧。",
+   "final_fix": "我杀死了巨大苍蝇，它炸成了一堆碎块。好恶心。"
+  },
+  {
+   "key": "Help_Page01_MainText",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "EN you can work on 是玩家完成，ZH「给您完成」主体变成系统，免费与 in its place（替代）丢失；fix 的 \\n 是字面字符。",
+   "final_fix": "总会有三个目标可供您完成。\n\n您可以每天免费放弃一个目标，并会获得一个新目标作为替代。\n\n每天还能使用量子核子可乐跳过额外的目标。\n\n目标越难，奖励越大。"
+  }
+ ]
+}

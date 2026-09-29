@@ -1,0 +1,110 @@
+{
+ "batch": 81,
+ "items": [
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 两处均为单数第一人称（I've discovered／I should follow），ZH 首句“我们已经发现”与末句“我该”人称混用",
+   "final_fix": "我发现了一张通往242号避难所的地图，那里的“居民”全都不是人类，而是各种生物。我该循着地图去揭开这座避难所的秘密。"
+  },
+  {
+   "key": "QuestLoc_WhosonFirst_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN “gave us”受益者是我们，ZH 丢掉宾语并换成“帮助你”，受赠对象变成玩家个人；本表 help us 均作“帮助我们”",
+   "final_fix": "亨丽埃塔是教练的前女友。她不知道他在哪里，但给了我们一件很赞的武器来帮我们拿下他。继续寻找吧！"
+  },
+  {
+   "key": "QuestLoc_WondersofScience_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "searching for 译成“研究”，Fountain of Youth 的“青春之泉”被抽成“永葆青春的方法”，modern-day 还错挂“现代社会”",
+   "final_fix": "著名科学家欧拓凡霍夫伯格就在附近，正在寻找现代的“青春之泉”。找到他，看看他有什么发现！"
+  },
+  {
+   "key": "QuestLoc_WondersofScience_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "is on a Quest for 只是“追寻”，ZH 多出原文没有的“背负……重任”，把轻快语气拔高成公事报告",
+   "final_fix": "霍夫伯格博士正在追寻知识与冒险！"
+  },
+  {
+   "key": "QuestLoc_WondersofTechnology_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "is on a Quest for 只是“追寻”，ZH 多出原文没有的“背负……重任”，把轻快语气拔高成公事报告",
+   "final_fix": "霍夫伯格博士正在追寻知识与冒险！"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Really? 对应“真的吗？”，ZH“真的吗啊”把语气词“吗”“啊”叠用，属衍字",
+   "final_fix": "勒索？真的吗？你确定你不是掠夺者？"
+  },
+  {
+   "key": "QuestLoc_WorkingOvertime_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "I mean 是自我修正、强调，本表一律译“我是说”；“我想说”在本表对应的是 I say（chunk_024）",
+   "final_fix": "我是说……看看我……我连鼻子都没有！"
+  },
+  {
+   "key": "RichPresence_Xbox_02",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Defending against 是抵御、抵挡；“反抗”只带压迫、统治类对象，与“攻击”搭配不当",
+   "final_fix": "抵御尸鬼的攻击"
+  },
+  {
+   "key": "RichPresence_Xbox_07",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Squashing an incident 是平息事态，“阻止……事件”搭配不成立，还与 Xbox_06 Repelling 的“阻止”重样",
+   "final_fix": "平息辐射蟑螂事件"
+  },
+  {
+   "key": "RichPresence_Xbox_09",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 为 Vault {1}，本表编号一律作“N号避难所”（242号、700号），ZH“在{1}避难所里”缺“号”",
+   "final_fix": "在{1}号避难所里管理{0}位居民"
+  },
+  {
+   "key": "RoomLevel_Mega",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 及 ES/FR/DE/RU 均保留 MEGA 这一顶级档名，ZH 只作“大”，与同组 ADVANCED=“高级”不成等级词",
+   "final_fix": "巨型"
+  },
+  {
+   "key": "RoomType_Utility_Description",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同组均为“X说明”且与类别名一致（RoomType_Utility=公用设施）；“功效”是药效义，并非 Utility",
+   "final_fix": "公用设施说明……"
+  },
+  {
+   "key": "RoomUnlocked",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 是完成态通知，ZH“解锁房间”为动词短语，还与按钮 UnlockRoom／Title_UnlockRoom 的译文完全同形",
+   "final_fix": "房间已解锁"
+  },
+  {
+   "key": "Room_BarberShop_Desc",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN “to customize them”的 them 指居民，ZH 丢掉宾语作“满足个性化需求”，未说明是给居民定制外观",
+   "final_fix": "将居民分配在这里为他们定制外观"
+  },
+  {
+   "key": "Room_Casino_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "ARCADE 指室内街机厅（FR SALLE D'ARCADE／DE SPIELMEILE），“游乐场”在本表用于 playground",
+   "final_fix": "游戏厅"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "chunk": "065",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Shop_PetBanner_Text5",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "「提升打造速度和花费。」把 Improved crafting speed and cost 里的 improved 不加区分地译成「提升」，等于告诉玩家这个宠物加成会让打造花费变高——方向正好反了。官方其它语种都点明是「更快且更便宜」（德语 Schnellere und günstigere Herstellung、西语 Mejorar la velocidad y el coste de fabricación 的并列卖点），同屏其它宠物卖点（「更快地从废土回来。」「更快地完成目标。」）也都是直陈好处，这里必须写明花费下降。",
+   "fix": "提升打造速度，降低打造花费。",
+   "confidence": "high"
+  },
+  {
+   "key": "Shop_SeasonPass_NewVegasB_Premium_Description",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "两处：「隐形休闲装」把 Incognito Leisurewear 的 incognito（低调、不暴露身份）误读成「隐形（看不见）」，含义跑偏；这件装备在装备表里的正式名是「低调休闲装」（Outfit_Name_Incognito），玩家买完在背包里看到的名字跟商店描述对不上。另外「维克托（Mr. Handy同等角色）」整段保留了英文 Mr. Handy（全库统一作「巧手先生」，见 Mr_Handy_Name、Shop_StarterPack_Line1），「同等角色」也不是中文说法。",
+   "fix": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（相当于巧手先生）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、低调休闲装、铅击者、2个宠物笼子，以及5000瓶盖。",
+   "confidence": "high"
+  },
+  {
+   "key": "Seasons_MessageSeasonEndsInStub",
+   "severity": "S2",
+   "type": "病句",
+   "problem": "「赛季将于」是个断句：「将于」后面必须接「……后结束／……时开始」这类补语，而这条前缀键是给后面拼接动态时长用的（对照西语 La temporada termina en、德语 Saison endet in，都是等时长的介词框架）。按用法拼出来会读成「赛季将于1天」，语义不成句；同批完整句 Seasons_Message_SeasonEndsIn 作「赛季将于1天后结束」，可见这里是照「将于…后」的语序硬截出来的。",
+   "fix": "距离赛季结束还有",
+   "confidence": "medium"
+  },
+  {
+   "key": "Shop_StarterPack_Line2",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "「了不起的价值」是 Amazing Value 的逐字直译，中文商店促销栏位不这么说话：它既不指价格，也不指划算程度（西语作 A un precio increíble），读起来像在夸「价值」这个概念本身。此处是要在新手包上打「很划算」的卖点。",
+   "fix": "超值之选",
+   "confidence": "medium"
+  },
+  {
+   "key": "SeasonPass_UpsellModal_Premium",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "「可立即为你的避难所注入强力提升」搭配不成立：「注入」要接具体名词（注入活力／动力／能量），接「提升」这种动名词是机翻腔，原意只是 instant boosts（让避难所立刻获得强力加成）。",
+   "fix": "将你的赛季提升至新高度！\\n购买高级通行证可立即为你的避难所带来强力加成，还能获得其他地方找不到的独家奖励！",
+   "confidence": "medium"
+  }
+ ]
+}

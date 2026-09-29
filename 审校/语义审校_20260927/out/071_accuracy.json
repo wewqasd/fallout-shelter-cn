@@ -1,0 +1,55 @@
+{
+  "chunk": "071",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_32_Response_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "上文是「Getting a little tired of questing...」（跑任务有点累了），EN 的 Not me! 反驳的是「累」这个状态，意思是「我可没累」。ZH 写成「我不觉得！」，句子没有宾语，回复对象从「状态」变成了「看法」（我不这么认为），表态的对象答错。库内同一句式的 Speech_Quest_Generic_Dweller_Conversation_20_Response_1（Not me.）已定译为「我可没有。」，其它语种也都是「不是我」（IT「A me, no.」、ES「¡Pues yo no!」、RU「А мне нет!」）。",
+      "fix": "我可没有！这个太赞了！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_29_Response_1",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 是三个并列短句：Having fun（玩得开心）/ Staying safe（平平安安、别出事）/ Being happy（过得快乐）。ZH「住得安全」把 Staying safe 窄化成「住的地方安全」；「安居乐业」本身含「安定生活＋愉快工作」，既与前一项意思重叠，又凭空多出 EN 没有的「业（工作）」这层信息，三个短句读下来语义打架（IT 版此处为 Si divertono. Sono al sicuro. Godono della loro immensa felicità.，三项各不相干）。",
+      "fix": "哦，你懂的。玩得开心，平平安安，快快乐乐。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_MainPath_Dweller_11",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "EN 是 This feels like the right way（感觉这条路是对的），ZH 逐词搬成「这个感觉是对的路……」，主语被写成了「感觉」，「感觉是对的路」主谓不搭，玩家得先猜出真正的说明对象是「路」才读得通。同一批 WrongPath 的同句式 Speech_Quest_WrongPath_Dweller_11 写的是「感觉这条路是错的……」，可见中文语序该怎么放。",
+      "fix": "感觉这条路是对的……",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Quest_MainPath_Dweller_12",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "与 Speech_Quest_MainPath_Dweller_11 同一处逐词照搬：EN 是 This feels like the right direction（感觉这个方向是对的），ZH「这个感觉是对的方向……」让「感觉」当了主语去搭配「方向」，主谓不成立；对照同批 Speech_Quest_WrongPath_Dweller_12「感觉方向是错的……」，此处语序应改回中文说法。",
+      "fix": "感觉这个方向是对的……",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Quest_Loot_Dweller_40",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "EN 的 dang it 是「真是的／可恶」这类轻轻懊恼、给自己壮胆的语气，ZH 换成「就是这么回事」，把情绪抹平，还给这句「这是我挣来的」的抢战利品宣言补了一句 EN 没有的论断。库内其它 dang it 都保留了感叹语气（Dang it. Now I'm hungry. 译作「该死。被你一说我都饿了。」）。",
+      "fix": "这可是我挣来的，真是的。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_30_Response_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN 的 In it's own horrible way 是「以它自己那种糟糕（可怕）的方式」（德 Z 版：Auf seine ganz eigene schreckliche Art）。ZH 把 its own 译成「独门」，而「独门」在中文只跟「绝技／秘方／功夫」这类词搭配，「独门方式」是生造搭配，读起来像废土有什么独门秘技；horrible 也被窄化成「吓人」。",
+      "fix": "挺迷人的，对吧？以它自己那种可怕的方式。",
+      "confidence": "medium"
+    }
+  ]
+}

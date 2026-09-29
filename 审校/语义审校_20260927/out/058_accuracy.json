@@ -1,0 +1,119 @@
+{
+ "chunk": "058",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_TheRiteofSpraying_Conversation_2_NPCStart_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「would have gone feral」指被辐射喷洒后尸鬼化、失去理智（本目录其它条目统一处理为「狂化／野化／发狂」，如 chunk_003「还没狂化」、chunk_033「已经野化了」），ZH「就要变得残暴了」只剩「性格凶残」，丢掉了「变成狂尸鬼」这一设定含义。",
+   "fix": "再过几个小时，我这位朋友就要狂化了。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheRiteofSpraying_RaiderLine_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「Good thing we brought extra RadAway...」是庆幸语气「幸好／还好我们多带了消辐宁」，ZH 译成「好消息，我们带来了额外的消辐宁」变成在宣布一条好消息，语义走偏；同目录其它 Good thing 均作「幸好／还好／好在」（chunk_060、chunk_071、chunk_068）。",
+   "fix": "幸好我们多带了消辐宁……",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheScenicRoute_Conversation_1_NPCEnd_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「Oh. Thanks, I guess.」是不太情愿的道谢「谢了，大概吧／算是谢谢吧」，ZH「哦，我想说……谢谢」把 I guess（大概、勉强）错解成 I mean（我想说），犹豫勉强的语气整个丢失。",
+   "fix": "这里……安全？哦。谢了，大概吧。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheScorpionKing_Conversation_1_NPCEnd_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「I haven't got any more, thanks to you!」意为「多亏了你们，我已经没有更多（钱）了」——是被榨干，不是一无所有。ZH「就是因为你们，我还什么都没有！」写成「我什么也没有」，与紧接着的「拿了这个赶紧滚吧」（他还在掏钱打发人）自相矛盾。",
+   "fix": "多亏了你们，我已经没有更多了！拿了这个赶紧滚吧！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_1_Team_1",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "EN「23 skidoo!」是旧时俚语，意为「赶紧走人／开溜」，与前面的「Just passing through」是一句完整台词。ZH「只是路过，23号，史酷多！」把俚语当成人名＋编号，玩家读到的是一句完全不通的话。",
+   "fix": "只是路过，我们这就走！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_2_NPCEnd_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "本对话上一句玩家说「We've got guns.」，EN「Well whaddya know, so do we.」意为「真巧，我们也有（枪）」，so do we 承接的是 have。ZH 译成「我们也知道」，把 have 当成 know，答非所问，NPC 的回应与玩家的挑衅完全脱节。",
+   "fix": "真巧，我们也有。向狄斯科耳狄亚致敬！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheShadowWolf_Conversation_1_NPCStart_3",
+   "severity": "S3",
+   "type": "指代",
+   "problem": "EN「training his “pretties.”」中的 his 指代前面出现的鼹鼠人（男性），ZH 写成「训练它的“小可爱”们」，用「它」指人（或被读成指那座工厂），随后「把它们当自己的孩子」的「它们」才指鼹鼠，人与动物两个指代在同一句里被搞混。",
+   "fix": "他住在那个工厂里，训练他的“小可爱”们。那个疯子把它们当自己的孩子。不要期待他脑子会正常。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_1_Team_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「I'll see your fury and raise you by a wrath.」是扑克下注说法「你押上愤怒，我跟注再加一注天谴」，这正是对 NPC 上一句「unleash our fury」的回敬。ZH「我会看到你的愤怒，看愤怒如何吞噬你」丢了赌牌梗，还凭空添加了 EN 没有的「吞噬」。",
+   "fix": "你的愤怒我跟了，再加注一份天谴。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_NPCStart_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「go through us」是「先过我们这一关／先打倒我们」（下文玩家台词 Team_2 把同一短语译作「打败」，说明本意），ZH「你必须先经过我们」读起来像「从我们旁边走过去」，威胁的含义被削弱；且前句用「你们」、后句突然改成「你」。",
+   "fix": "想杀他，你们得先过我们这一关。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_NPCStart_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「Do your worst, Dwellers!」是挑衅、放狠话「放马过来／尽管使出你们的本事」，不是让对方「做最坏的打算」。ZH 把挑衅译成了忠告对方要有心理准备，说话人的态度和句子的功能都变了。",
+   "fix": "放马过来吧，居民们！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_Team_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「We don't want to kill him, but to return him to the Children of Atom.」是「不是要杀他，而是要把他送回原子之子那里」，but to 表示更正/目的，ZH 用「却要」表达转折与惋惜，逻辑关系被译反；「归还给」也把修士当成了物品。",
+   "fix": "什么？我们不想杀他，而是要把他送回原子之子那里。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_QuestLongDescription",
+   "severity": "S1",
+   "type": "漏译",
+   "problem": "EN 有两句，ZH 只译了第一句。整句「We'll send a team to rescue him, then inform Confessor Alvarado if and when we've brought him back to safety.」被删掉，玩家看不到「派队伍营救」这一核心目标，也看不到「安全带回后再通知阿尔瓦拉多」的后续交代（对照同任务 Objective「Rescue Brother Will from the Raiders.」）。",
+   "fix": "我们认为失踪的教会见习信徒威尔修士可能被附近一帮掠夺者绑架了。我们会派一支队伍去救他，等我们把他安全带回来之后再通知神父阿尔瓦拉多。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSpiritofTaking_Conversation_1_NPCStart_2",
+   "severity": "S3",
+   "type": "其他",
+   "problem": "Pet Carrier 在本项目已定译为「宠物笼子」（chunk_015 道具名、chunk_063 任务奖励、chunk_018「找回宠物笼子」、chunk_073「打开宠物笼子」），此处对白却写成「宠物盒子」，与玩家在界面/道具里看到的名称不一致。",
+   "fix": "不幸的是，一些掠夺者跳了出来，拿走了我的宠物笼子。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「thinks it isn't a disease」说的是红果枯萎「不是病害」（同任务长描述用的是「红果枯萎」），ZH 译成「不是单纯的虫灾」，把病害换成了虫灾，玩家会以为闹的是虫子。后半句「They have an alternate theory...」是「他们另有说法」，ZH 改成断言「一定有其他的原因……」，把「一部分人的观点」写成了客观事实。",
+   "fix": "那边研究所里有一群人认为这不是病害。他们另有说法……",
+   "confidence": "high"
+  }
+ ]
+}

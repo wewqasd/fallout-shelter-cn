@@ -1,0 +1,17 @@
+{"batch":70,"items":[
+{"key":"QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line2","verdict":"confirm","severity":"S3","reason":"or is it? 是反问「还是说并非如此」；ZH「真的是吗」缺中心语（真的是死胡同吗），问句落空。","final_fix":"我们走到了死胡同……等等，真的走不通吗？这台终端机是干什么的？"},
+{"key":"QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line2","verdict":"confirm","severity":"S3","reason":"goo 本表另三处作「粘液／浆液」（灰色粘液、一团粘液、发光的浆液）；「浆糊」在中文指糨糊，指人被化成的糊状物偏滑稽。","final_fix":"怀亚特……可怜的怀亚特……他们把他化成了一滩黏液。"},
+{"key":"QuestLoc_INS_QL3_Betrayal_3_Room0_Question_Line3","verdict":"confirm","severity":"S3","reason":"I guess we'll find out 是随口推测；「走着瞧」在中文带放狠话的挑衅义，「大概」也修饰不了这套语。","final_fix":"也许还有他们其他的囚犯？到时候就知道了。"},
+{"key":"QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Choice1","verdict":"confirm","severity":"S2","reason":"think they're human 只是「以为自己（是）人类」；成语「自以为是」义为自认高明，给这句中性台词额外添了鄙夷。","final_fix":"合成人的程序设定就是让它们以为自己也是人类。"},
+{"key":"QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer2","verdict":"confirm","severity":"S3","reason":"stab you in the back 的定式是「背后捅你一刀／捅刀子」，「捅你刀」缺量词、「捅你＋刀」搭配不全。","final_fix":"也许吧，说实话。至少合成人在背后捅你一刀时还会彬彬有礼。"},
+{"key":"QuestLoc_INS_QL4_Armistice_1_CombatInit4","verdict":"confirm","severity":"S3","reason":"同一 Mole rat broodmother，本表 17 处作「鼹鼠妈妈」（另「鼹鼠巢母」1 处），此处「鼹鼠育母」使一物多名。","final_fix":"果然，跑出来的是一只鼹鼠妈妈！我们真是够倒霉的。"},
+{"key":"QuestLoc_INS_QL4_Armistice_1_QuestObjective2","verdict":"confirm","severity":"S2","reason":"ES Asiste、FR Assistez、DE Nimm teil 均作「参加」；「照料」的宾语通常是人或动植物，与「项目」搭配不成立。","final_fix":"参与一项科学项目"},
+{"key":"QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer2","verdict":"confirm","severity":"S3","reason":"Any chance you do? 是随口一问，do 回指 believe in my work；现译「相信我吗」把宾语换成「我」又过于书面。","final_fix":"我才不是呢。没人相信我的研究。你会信吗？不会？真扫兴。"},
+{"key":"QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Choice0","verdict":"reject","severity":"S3","reason":"「在你们破坏他们的阵列后」置于主谓之间是常规状语位置，「以牙还牙」准确对应 returned the favor，语义完整，属风格分歧。","final_fix":""},
+{"key":"QuestLoc_ItsnotEasyBeingGreen_Conversation_1_NPCEnd_3","verdict":"confirm","severity":"S2","reason":"them 承接 Team_3「这些点心看起来很……绿色」指物品，ZH 却用指人的「他们」，字面成了给一群人染色；Oh yeah 也宜作「是啊」。","final_fix":"哦，是啊，为了庆祝圣帕特里克节，我们给它们染了色。"},
+{"key":"QuestLoc_ItsnotEasyBeingGreen_Conversation_1_NPCStart_1","verdict":"confirm","severity":"S3","reason":"community 本表另 3 处作「社区／社群」（ES comunidad、DE Gemeinschaft）；「社会」把几十人的聚落说得过大。","final_fix":"帮帮我们，居民们！我们的社区正在尸鬼化！"},
+{"key":"QuestLoc_JustDeserts_Conversation_5_NPCEnd_2","verdict":"confirm","severity":"S2","reason":"Not much can get through 逐字搬成「不太有东西能穿透」，中文没有「不太有＋名词＋能……」这样的否定主语句式。","final_fix":"不错的选择！没多少东西能穿透辐射蝎的甲壳！"},
+{"key":"QuestLoc_JustDeserts_QuestObjective_1","verdict":"confirm","severity":"S3","reason":"Horsemen 在同任务 QuestLongDescription、Conversation_2 均作「末日骑士」；「骑士」在本作另指兄弟会军衔，易混。","final_fix":"查明末日骑士的起源。"},
+{"key":"QuestLoc_KidnappingatVault778_Conversation_1_NPCStart_3","verdict":"reject","severity":"S3","reason":"「让他跑掉了」是汉语惯用说法（＝他跑掉了），与 he slipped away 不矛盾；「在我要折磨他之前」语义清楚，无信息错。","final_fix":""},
+{"key":"QuestLoc_KidnappingatVault778_QuestLongDescription","verdict":"confirm","severity":"S2","reason":"Some Raiders 为复数（ES saqueadores、RU Рейдеры），「某个掠夺者」变成单数一人；「他们」宜明点为定居者。","final_fix":"有几个掠夺者绑架了一些定居者，把他们扣在778号避难所当人质。也许这些定居者知道普雷斯顿·加维去了哪里。"}
+]}

@@ -1,0 +1,110 @@
+{
+ "batch": 26,
+ "items": [
+  {
+   "key": "QuestLoc_JackAintBack_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "woulda fetched us a fine price＝我方卖他可得高价，ZH「我们的出价」把卖方写成买方。",
+   "final_fix": "你听说过杰克吧？他本来能让我们卖个好价钱！"
+  },
+  {
+   "key": "QuestLoc_JackAintBack_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "before they disappear west（趁他们向西消失之前）整段丢失，ZH 只剩「赶紧抓住他们」，方向与时限线索都没了。",
+   "final_fix": "监督者的儿子和一个掠夺者结婚了，但她把他卖给了奴隶贩子！我们必须在他们消失在西部之前抓住他们！"
+  },
+  {
+   "key": "QuestLoc_JunkRun_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "that's just what you need 被拆成「需要找到你所需要的那种」，「需要」重复且中心词缺失，句子读不通。",
+   "final_fix": "废土上到处都是杂物，但有时候那正是你需要的东西……"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_5_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "rags 是破布（ES trapos／DE Lumpen），ZH 作「碎屑」非布料，且与本表 FamineVestment「用饥荒的破布做衬里」不一致。",
+   "final_fix": "不错的选择！内衬是用“饥荒”的破布做的！"
+  },
+  {
+   "key": "QuestLoc_JustDeserts_Conversation_5_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Death's Jacket 在本表定名「死亡」夹克（Outfit_Name_Horseman_DeathJacket），ZH「死神」夹克与所得奖励名对不上。",
+   "final_fix": "“死亡”夹克（观察/耐力/敏捷/运气+4）"
+  },
+  {
+   "key": "QuestLoc_KHAAANNNNN_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "traded into marriage 是换亲非「拐卖」；sold into slavery（ES/DE/RU 均卖作奴隶）译成「卖给人贩子」，多出买主。",
+   "final_fix": "我们的孩子先被人拿去换亲，被迫结婚，又被卖去当奴隶，再被送进肉加工厂，现在落到几个掠夺者手里当人质……接下来还会怎样？"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "WAR WILL STAND SUPREME 的主语是战争，ZH 让「你」与战争并列，与同句「副官」冲突。",
+   "final_fix": "有你们做我的副官，战争必将至高无上。"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "on your hands 是「得由你应付的麻烦」（DE an der BACKE／FR SUR LE DOS），ZH 直译「在你手上」，威胁义悬空且不成句。",
+   "final_fix": "加入我！除非你想让……我……成为你的麻烦。"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Leave the Wasteland in peace＝你离开废土（FR Laissez… en paix），ZH 把废土当宾语，与后句不接。",
+   "final_fix": "绝不！要么滚出废土，大家相安无事……要么就留在这儿碎成几块！"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "of epidemic proportions 只指规模惊人，ZH 误当流行病，把「狠揍你」写成「被病毒打倒」。",
+   "final_fix": "“瘟疫”，准备好挨一顿史无前例的暴打吧！"
+  },
+  {
+   "key": "QuestLoc_LastInningOrnot_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "scrubs 是骂人「菜鸟/废物」（ES novatos／DE Luschen），ZH「小矮人们」变成体型描述，Sorry 在此也只是轻蔑。",
+   "final_fix": "不好意思，菜鸟们，可我们那位超级无敌坏的大老板不在这儿。"
+  },
+  {
+   "key": "QuestLoc_LittleMissWasteland_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I can't even 是「我都无语了」，ZH「我不能……」句子未完；just 是「就」，ZH「只是」成了仅仅。",
+   "final_fix": "唉，我真是无语了……你就直接穿过那扇门吧。"
+  },
+  {
+   "key": "QuestLoc_LittleMissWasteland_Conversation_5_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "they *will* try to eat you 的星号强调加 will 表确定，ZH「可能会吃掉你」降为或然并丢掉强调，警告力度不符。",
+   "final_fix": "小心点，目标可是活的，它们真的会试图吃掉你。"
+  },
+  {
+   "key": "QuestLoc_LittleMissWasteland_Conversation_6_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "The fact…might help＝这一事实或许有帮助（DE könnte helfen），ZH 缺「这一点」成病句，「说明点问题」换了意思。",
+   "final_fix": "你是射击比赛里唯一的幸存者，这一点或许能帮上忙。"
+  },
+  {
+   "key": "QuestLoc_LittleMissWasteland_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "男女均可报名这层信息还在，但「共同面向」搭配不成立读着别扭，knock 'em dead 作「艳压群芳」把男女同台收窄成女性。",
+   "final_fix": "好消息！我们受邀参加“废土小姐”选美比赛——虽然名字叫“小姐”，但男女都能报名。穿上你最漂亮的泳装，去把他们统统震住吧！"
+  }
+ ]
+}

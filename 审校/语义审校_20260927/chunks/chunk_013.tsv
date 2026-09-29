@@ -1,0 +1,181 @@
+key	EN	ZH
+Objective_StopInvasion_Plural	Stop {0} Vault invasions	阻止{0}次避难所入侵
+Objective_SurviveDeathclawNoCasualties	Survive {0} Deathclaw attack with no casualties	在没有人员伤亡的情况下撑过了{0}次死爪攻击
+Objective_SurviveDeathclawNoCasualties_Plural	Survive {0} Deathclaw attacks with no casualties	在没有人员伤亡的情况下撑过了{0}次死爪攻击
+Objective_SurviveDeathclawNoStimpack	Survive {0} Deathclaw attack without using stimpacks	在不使用治疗针的情况下撑过了{0}次死爪攻击
+Objective_SurviveDeathclawNoStimpack_Plural	Survive {0} Deathclaw attacks without using stimpacks	在不使用治疗针的情况下撑过了{0}次死爪攻击
+Objective_SurviveGhoulNoCasualties	Survive {0} Feral Ghoul attack with no casualties	在没有人员伤亡的情况下撑过了{0}次狂尸鬼攻击
+Objective_SurviveGhoulNoCasualties_Plural	Survive {0} Feral Ghoul attacks with no casualties	在没有人员伤亡的情况下撑过了{0}次狂尸鬼攻击
+Objective_SurviveHoursNoCasualties	Survive {0} hour in the Vault with no casualties	在没有人员伤亡的情况下在避难所里生存了{0}小时
+Objective_SurviveHoursNoCasualties_Plural	Survive {0} hours in the Vault with no casualties	在没有人员伤亡的情况下在避难所里生存了{0}小时
+Objective_SurviveMoleratNoCasualties	Survive {0} Mole rat attack with no casualties	在没有人员伤亡的情况下撑过了{0}次鼹鼠的攻击
+Objective_SurviveMoleratNoCasualties_Plural	Survive {0} Mole rat attacks with no casualties	在没有人员伤亡的情况下撑过了{0}次鼹鼠的攻击
+Objective_SurviveMoleratNoStimpack	Survive {0} Mole rat attack without using stimpacks	在不使用治疗针的情况下撑过了{0}次鼹鼠的攻击
+Objective_SurviveMoleratNoStimpack_Plural	Survive {0} Mole rat attacks without using stimpacks	在不使用治疗针的情况下撑过了{0}次鼹鼠的攻击
+Objective_SurviveRadscorpionNoCasualties	Survive {0} Radscorpion attack with no casualties	在没有人员伤亡的情况下撑过了{0}次辐射蝎攻击
+Objective_SurviveRadscorpionNoCasualties_Plural	Survive {0} Radscorpion attacks with no casualties	在没有人员伤亡的情况下撑过了{0}次辐射蝎攻击
+Objective_Upgrade	Upgrade 1 room	升级一个房间
+Objective_Upgrade_Plural	Upgrade {0} rooms	升级{0}个房间
+Objective_UseRadaway	Use 1 RadAway	使用1次消辐宁
+Objective_UseRadaway_Plural	Use {0} RadAway	使用{0}个消辐宁
+Objective_UseStimpack	Use 1 Stimpak	使用1次治疗针
+Objective_UseStimpack_Plural	Use {0} Stimpaks	使用{0}次治疗针
+Objective_VaultHappiness	Have a {1} happy Vault for 1 hour	保持避难所{1}开心了1小时。
+Objective_VaultHappiness_Plural	Have a {1} happy Vault for {0} hours	保持避难所{1}开心了{0}小时。
+Objective_Wasteland	Send 1 Dweller to the Wasteland	将一位居民派到废土
+Objective_WastelandCollectCaps	Collect {0} Caps in the Wasteland	在废土上收集{0}瓶盖
+Objective_WastelandExploreLocation	Explore {0} location in the Wasteland	在废土上探索{0}个位置
+Objective_WastelandExploreLocation_Plural	Explore {0} locations in the Wasteland	在废土上探索{0}个位置
+Objective_WastelandLevelUp	Level up in the Wasteland	在废土上升级
+Objective_WastelandLevelUp_Plural	Level up {0} times in the Wasteland	在废土上升级{0}次
+Objective_WastelandMakeFriend	Make a friend in the Wasteland	在废土上交一个朋友
+Objective_WastelandMakeFriend_Plural	Make {0} friends in the Wasteland	在废土上交{0}个朋友
+Objective_WastelandWithPet	Send 1 Dweller to the Wasteland with a Pet	将一名有宠物的居民派到废土
+Objective_WastelandWithPet_Plural	Send {0} Dwellers to the Wasteland with a Pet	将{0}名有宠物的居民派到废土
+Objective_Wasteland_Plural	Send {0} Dwellers to the Wasteland	将{0}名居民派到废土
+Objective_Water	Collect {0} Water	收集{0}水
+Objective_Water_Plural	Collect {0} Water	收集{0}水
+Objective_Weapons	Equip 1 Dweller with a Weapon	给1位居民配备武器
+Objective_Weapons_Plural	Equip {0} Dwellers with a Weapon	给{0}位居民配备武器
+Objective_WinBattleOnQuests	Win {0} battle on Quests	在任务中赢得了{0}场战斗
+Objective_WinBattleOnQuests_Plural	Win {0} battles on Quests	在任务中赢得了{0}场战斗
+Open_NintendoShop_Switch	OPEN NINTENDO ESHOP	打开任天堂在线商店
+Open_Shop_Switch	OPEN SHOP	打开商店
+Open_eShop_Switch	OPEN ESHOP	打开在线商店
+Option_Screenshots	SCREENSHOTS	截屏
+Options_EnableController	ENABLE CONTROLLER	启用控制器
+Outfit_Description_AbrahamSpecial	For singing that famous battle hymn, the National Anthem.	为了演唱那首著名的抗争之歌，国歌！
+Outfit_Description_ActionWeddingDress	This dress shines when you need a fast gun and a quick exit!	这件婚纱闪闪发光，适合快速拔枪、快速逃离的场合！
+Outfit_Description_AlienSpaceSuit	Advanced life support and sensors. Smells sort of minty.	先进的生命支持系统和传感器，还有一点薄荷味。
+Outfit_Description_AlistairSpecial	A favorite of Wasteland elitists and real estate developers.	废土精英和房地产开发商的最爱。
+Outfit_Description_AllNighware	Best used when sleeping or... entertaining.	最好在睡觉或者……娱乐时使用。
+Outfit_Description_AllNighware_Lucky	Go to bed grinning and wake up smiling. Every. Single. Time.	笑着睡着，笑着醒来。每！一！次！
+Outfit_Description_AllNighware_Naughty	When the lights go out, your special skills shine.	当灯灭了，你的特殊技能会发光。
+Outfit_Description_ArgyleSweater	Because the Vault's Caps reserve doesn't count itself.	因为避难所的瓶盖储备不会自我计算。
+Outfit_Description_BOSCasual	Some light work wear for a squire on the go.	轻便工作服，扈从必备。
+Outfit_Description_BOSUniform	The official garb of the Brotherhood of Steel.	钢铁兄弟会的正式服装。
+Outfit_Description_BOSUniform_Advanced	Get away with pulling rank when you're dressed like a BoS officer.	穿上它，就算摆军官架子也没人敢管你。
+Outfit_Description_BOSUniform_Expert	Reserved for the best of the best... of the BoS.	为钢铁兄弟会中的精英们保留的。
+Outfit_Description_BaseballUniform	Uniform of America's spectator sport. No matter which version you prefer.	最受欢迎的体育运动的制服。不论你喜欢哪个版本。
+Outfit_Description_BattleArmor	The protection of choice for Wasteland mercenaries.	废土雇佣兵的选择。
+Outfit_Description_BattleArmor_Heavy	Favored by runaway Synths... and the Synths who hunt them.	逃跑的合成人和那些追捕他们的合成人……的最爱。
+Outfit_Description_BattleArmor_Sturdy	Offers the look and protection of a mercenary captain.	能让你拥有雇佣兵队长的外形与防护。
+Outfit_Description_Bishop	If there is a higher power out there, they just might listen to you.	如果有更高的力量存在，他们可能会听你的。
+Outfit_Description_BittercupSpecial	Perfect for any child at heart forced to endure the Wastes.	对于所有童心未泯、却不得不忍受废土的人来说再完美不过。
+Outfit_Description_BowlingShirt	Now all you need is a Rocket '69 and a pompadour.	你现在只需要《69号火箭》和大背头了。
+Outfit_Description_BurnedConditionResistence	+50% resistence against the Burned Condition	+50%抵抗燃烧条件
+Outfit_Description_BusinessDress	They'll never see you coming and never know you were there.	他们永远都不会知道你什么时候来的，也不会知道你一直在那里。
+Outfit_Description_BusinessSuit	The clothes make the man, and that man has something to sell you.	人靠衣装，而这位衣冠楚楚的先生有东西要卖给你。
+Outfit_Description_ButchSpecial	Why? Because you're a Tunnel Snake. And you RULE!	为什么？因为你是隧道蛇，你统治一切！
+Outfit_Description_CaitsCorset	Stylish and surprisingly warm. Ideal for close-quarters combat and late-night parties.	时尚而出人意料地保暖，非常适合近战和夜间活动。
+Outfit_Description_CheckeredShirt	It may be spring, but keep that shirt tucked in. This isn't a zoo.	也许现在还是春天，但请你将衣服扎进去，这里可不是动物园。
+Outfit_Description_ColonelSpecial	Once worn by a hard-nosed colonel. Now you give the orders.	曾由一位强硬的上校穿着。现在轮到你发号施令了。
+Outfit_Description_CombatArmor	The preferred battlefield armor of pre-war grunts.	战前步兵的首选战场装甲。
+Outfit_Description_CombatArmor_Heavy	They used to send in an army. Now they only need you.	他们过去曾派军队过去。现在他们只需要你就行了。
+Outfit_Description_CombatArmor_Sturdy	Worn by the toughest ground pounders in the toughest battles.	在最艰难的战斗里被最强悍的步兵穿过。
+Outfit_Description_ComedianSpecial	Is this outfit some kind of joke? Nope, but you are, if you wear it.	这套衣服是在开玩笑吗？不过，如果你穿上它的话，你就是个玩笑。
+Outfit_Description_CourserUniform	Designed to strike fear into the hearts of Synths who have left the Institute.	专为令脱离学院的合成人闻风丧胆而设计。
+Outfit_Description_CromwellSpecial	By the power of Atom, you look fabulous!	原子的力量让你看起来棒极了！
+Outfit_Description_DetectiveOutfit	Gumshoe gear for any self-respecting Wasteland detective. Human or not.	为任何有自尊的废土侦探准备的侦探行头——不管你是不是人类。
+Outfit_Description_DooWopOutfit	The outfit of choice when heading to the Diner for a shake.	当你想去餐厅要一杯奶昔时，这件衣服是你的首选。
+Outfit_Description_EmpressSpecial	Friends, Romans, countrymen... lend me your snazzy new outfit.	朋友，罗马人，同胞们……请借给我你们时髦的新衣服。
+Outfit_Description_EnclaveOfficerUniform	A uniform worth climbing the Enclave military ladder for.	一套值得你在英克雷军阶上一路攀爬以求获得的军官制服。
+Outfit_Description_EnclavePowerArmor	Optimized by the Enclave to be as deadly and badass as possible.	经过英克雷优化，极具杀伤力且霸气十足。
+Outfit_Description_EnclaveSecurityOutfit	The lowest expression of the best defensive technology.	最先进防御技术的最低级体现。
+Outfit_Description_EngineerSpecial	Protects against sledgehammers, and not just on the job site.	保护你免受巨锤危害。不仅限于工作场所。
+Outfit_Description_EulogyJonesSpecial	For those times when you need to exude charismatic evil.	当你需要散发出邪恶魅力时，请穿上它。
+Outfit_Description_FarHarborSpecial	It's almost as Old as Longfellow himself.	几乎和老费朗罗本人的年纪一般大了。
+Outfit_Description_FlightSuit	The preferred outfit of flying aces everywhere.	飞行王牌们偏爱的装备。
+Outfit_Description_FlightSuit_Advanced	Negative, Vault Dweller. The pattern is full.	不行，避难所居民。进场航线已经满了。
+Outfit_Description_FlightSuit_Expert	You can be my wingman any time!	你可以随时做我的僚机！
+Outfit_Description_GamblerSuit	A gambler's outfit of choice. Feeling lucky?	一个赌徒的选择。感觉自己手气不错吗？
+Outfit_Description_GamblerSuit_Fancy	The look of a gambler, the skills of a hustler. That's a good bet.	赌徒的样子，骗子的技巧。不错的赌局。
+Outfit_Description_GamblerSuit_Lucky	Perfect for cheating your way through a poker tournament.	对于在扑克锦标赛上一路出老千来说是个完美选择。
+Outfit_Description_GreaserSpecial	Don't be a square, daddy-o.	别做个老古董啦，帅哥。
+Outfit_Description_HandymanJumpsuit	Great for fixing a leaking valve, or refueling a Chryslus Corvega.	对于修理漏水的阀门，或者给可伟佳加油来说再好不过了。
+Outfit_Description_HandymanJumpsuit_Advanced	Fix a crashed Vertibird? You can build one from scratch.	修好一架坠毁的垂直起降机？你都能从头造一台了。
+Outfit_Description_HandymanJumpsuit_Expert	Perfect for surviving the Wasteland. Or writing a book about it.	适合在废土上生存。或者适合写一本如何在废土上生存的书。
+Outfit_Description_HanksPowerArmor	When you're important enough, you don't need to wear a helmet.	当你足够重要，就不需要戴头盔了。
+Outfit_Description_HazmatSuit	The best protection against hazardous materials.	保护你远离危险品的伤害。
+Outfit_Description_HazmatSuit_Heavy	Life may be unforgiving, but you've become unstoppable.	生活也许是无情的，但已经没有什么能够阻挡你了。
+Outfit_Description_HazmatSuit_Sturdy	If the Wastes can spit it out, you can take it.	只要是废土吐得出来的，你就接得住。
+Outfit_Description_Horseman_DeathJacket	You literally defied Death. Wear his hide with pride.	你真正藐视了“死亡”。请骄傲地穿上他的毛皮。
+Outfit_Description_Horseman_FamineVestment	Lined with Famine's rags. For some reason, it always feels loose.	用饥荒的破布做衬里。不知为啥，总是感觉松松垮垮的。
+Outfit_Description_Horseman_PestilencePlating	Made from Pestilence's exoskeleton and still a bit radioactive.	由“瘟疫”的甲壳制成，仍然有一点放射性。
+Outfit_Description_Horseman_WarArmor	War covered the inside with motivational stickers.	“战争”在里面贴满了励志贴纸。
+Outfit_Description_HunterGear_Bounty	No target too elusive... no fee too big.	只要报酬给得好，没有目标抓不了。
+Outfit_Description_HunterGear_Mutant	Ideal for tracking and wasting muties.	适合追踪并放倒变种人。
+Outfit_Description_HunterGear_Treasure	That booty can't stay hidden forever...	赃物不可能永远不被发现……
+Outfit_Description_Incognito	The best in human comfort-casual. For humans!	舒适休闲风格的最佳选择，专为人类设计！
+Outfit_Description_InstituteJumper	Because even Synths like to relax at home.	因为即使是合成人也喜欢在家放松。
+Outfit_Description_InstituteJumper_Advanced	For SERIOUS Synth chill time.	为合成人正经的休闲时光而设计。
+Outfit_Description_InstituteJumper_Expert	Look like a Synth - skip the identity crisis.	让你看起来像个合成人——省掉身份认同危机。
+Outfit_Description_JacketTshirt	With no motorcycle, you'll surely be mistaken for a hoodlum.	要是没有摩托车的话，你肯定会被当成小流氓。
+Outfit_Description_JailhouseRocker	Replica of Elvis' Jailhouse Rock outfit from before the Fall. Worn by the New Vegas gang, The Kings.	末日前猫王《监狱摇滚》演出服的复制品，曾由新维加斯帮派“猫王帮”穿着。
+Outfit_Description_JobinsonsJersey	The baseball legend may be dead, but his legend lives on! You are... number 42!	这位棒球界的传奇也许已经死了，但他的传说将永远流传！穿上它，你就是……42号！
+Outfit_Description_KelloggsOutfit	When you want to look the fittest of the survivors.	当你想看起来像幸存者中最硬核的那个时。
+Outfit_Description_King	Wear the crown, rule the Wasteland! Or at least pretend to.	戴上王冠，统治废土！或者至少假装是这样。
+Outfit_Description_KnightSpecial	In the Wasteland, some forms of protection never go out of style.	在废土上，有些保护形式永远不会过时的。
+Outfit_Description_LabCoat	Favored by scientists and doctors.	受到科学家和医生的青睐。
+Outfit_Description_LabCoat_Advanced	Split the atom or invent warp travel - all before lunch.	分裂原子，或者发明曲速航行——全都能赶在午饭前搞定。
+Outfit_Description_LabCoat_Expert	Now you can unlock the secrets of life itself!	现在你可以开始解开生命的秘密！
+Outfit_Description_LegatesArmor	Scary armor for one of the scariest figures in one of the scariest armies in the Wasteland.	令人胆寒的护甲，属于废土上最凶悍的军队里最凶悍的人物之一。
+Outfit_Description_LibrarianSpecial	Prove to everyone that in the future, print's not dead.	向所有人证明：在未来，纸质印刷并没有消亡。
+Outfit_Description_LifeguardOutfit	Saving lives, breaking hearts.	拯救生命，打击心灵。
+Outfit_Description_LoungeShirt	No one will know you've never actually bowled before.	没有人会知道你从未打过保龄球。
+Outfit_Description_LucasSpecial	From Modoc to Megaton, when you wear this, you are the law.	从摩多克城到兆吨镇，当你戴上这个，你就是法律。
+Outfit_Description_LucysVaultSuit	Lucy's personalized Vault 33 suit, complete with survival enhancing rucksack!	露西的专属33号避难所制服，配有增强生存能力的背包！
+Outfit_Description_LucysYellowDress	Wearing it really brings you back to pre-war naivety. You can almost hear the bombs falling...	穿上它，将你带回战前那段朴实无华的岁月。几乎能听见炸弹落下的声音……
+Outfit_Description_MaJuneJacket	Don't look for whoever is in this get up to clutch their pearls. Chances are they're already holding a rifle.	别指望穿着这身行头的人会大惊小怪，十有八九他们手里已经端着步枪了。
+Outfit_Description_MaximusJacket	The red hue conceals blood, and the rank chevrons conceal crippling self-doubt.	红色能掩盖血迹，军衔臂章则能掩盖严重的自我怀疑。
+Outfit_Description_MayorSpecial	Settlements need rulers, and you're elected.	定居点需要统治者，你被选中了。
+Outfit_Description_MechanicJumpsuit	The Wasteland is littered with old wrecks. Time to get to work.	废土上堆满了各种残骸。是时候开始工作了。
+Outfit_Description_MetalArmor	When leather just won't do. Can stop one bullet, or a hundred.	当皮革没有用的时候。可以阻止一颗子弹，或一百颗。
+Outfit_Description_MetalArmor_Heavy	You... are... an iron person! Cue cool song, commence killing.	你……是……钢铁人！一边唱酷炫的歌，一边展开杀戮。
+Outfit_Description_MetalArmor_Sturdy	A little more welding, a lot more steel, and... voila!	多一点焊接，多一点钢铁，然后……瞧！
+Outfit_Description_MilitaryJumpsuit	Standard issue for soldiers before the Great War.	战前士兵的标准装备。
+Outfit_Description_MilitaryJumpsuit_Commander	The battlefield is under your control. Orders?	战场在你的掌控之下。有何命令？
+Outfit_Description_MilitaryJumpsuit_Officer	Great for giving orders, or wading into the fight yourself.	对于发布命令，或自己战斗来说都很棒。
+Outfit_Description_MojaveWastelandSurvivor	May have been a vault suit, once upon a time.	或许很久很久以前，它曾是一件避难所制服。
+Outfit_Description_MoldaversArmor	Simple combat armor with an added regal flare.	简单而华丽的战斗装甲。
+Outfit_Description_MoviefanSpecial	Perfect for hanging out at an old, abandoned drive-in.	最适合在废弃的老式汽车影院里消磨时光。
+Outfit_Description_MrHousesSuit	Linen: the only suit to wear in the Mojave Desert, unless you want pit stains.	亚麻布：莫哈维沙漠中唯一合适的正装，除非你不在乎汗渍。
+Outfit_Description_NCRPowerArmor	NCR power armor, salvaged and modified so anyone can use it.	经过改造翻新的新加州共和国动力装甲，任何人都可以驾驭。
+Outfit_Description_NCR_Ranger	Tough, functional uniform of the NCR's valiant defenders.	新加州共和国英勇卫士的坚固、实用的制服。
+Outfit_Description_NinjaSuit	You are silence. You are shadow. You are... ninja!	你是沉默。你是影子。你是……忍者！
+Outfit_Description_OrionsExplorerGear	There is nothing like bandoliers and heavy leather to inspire politeness toward an old man.	没有什么比弹药带和厚皮衣更能让人对一个老头心生敬意了。
+Outfit_Description_OverseerClaffJumpsuit	Said to predate the very first Vault, this outfit was once worn by a pioneer Overseer.	据说早在第一座避难所建立之前就已存在，曾由一位先驱监督者穿戴。
+Outfit_Description_PaladinDansesPowerArmor	The most advanced protection created for a human, lab-grown or otherwise.	为人类（无论是否实验室培育）打造的最先进防护装备。
+Outfit_Description_PaladinDansesPowerArmorWithHelmet	The most advanced protection created for a human, lab-grown or otherwise.	为人类（无论是否实验室培育）打造的最先进防护装备。
+Outfit_Description_PaladinJacket	Lead the repossession of ancient and powerful technologies in style.	以优雅姿态率队收复古代强大技术的遗产。
+Outfit_Description_PiperSpecial	Report the news? You ARE the news.	报道新闻吗？你就是新闻。
+Outfit_Description_PolkaDotDress	Greet the Wasteland with a smile in this playful number.	穿着这个有趣的玩意儿，带着微笑和废土打招呼。
+Outfit_Description_PowerArmor	Before Power Armor even really existed, this baby was born.	在动力装甲真正存在之前，这个宝贝诞生了。
+Outfit_Description_PowerArmor_51a	An enhanced prototype that saw limited use pre-war.	一个增强的原型，战前使用得不多。
+Outfit_Description_PowerArmor_51d	One of the most advanced armors created before the Great War.	战前制造的最先进的装甲之一。
+Outfit_Description_PowerArmor_51f	Armor worthy of a Brotherhood of Steel Star Paladin. And you.	一个值得钢铁兄弟会星骑士穿戴的装甲。你值得拥有。
+Outfit_Description_PowerArmor_MkI	The guys who protected the President wore this. It's THAT good.	总统的保镖们穿过这个。就是这么厉害。
+Outfit_Description_PowerArmor_MkIV	Advanced post-war Power Armor, for a post-apocalyptic world.	高级战后动力装甲，适合这末日后的世界。
+Outfit_Description_PowerArmor_MkVI	The most advanced protection created by human hands. Enjoy.	人类双手创造的最先进的护甲。请尽情感受。
+Outfit_Description_PowerArmor_T45d	Deployed pre-war against Chinese tanks. That's right - tanks.	战前被派去对抗中国坦克。你没听错——就是坦克。
+Outfit_Description_PowerArmor_T45f	Lovingly maintained. Favored by neo knights and paladins.	保存得很好。骑士们很喜欢这种。
+Outfit_Description_PowerArmor_T60a	The pinnacle of powered pre-war protection.	战前装甲的巅峰。
+Outfit_Description_PowerArmor_T60d	Renowned protection, favored by the Brotherhood of Steel.	有名的护甲。钢铁兄弟会很喜欢。
+Outfit_Description_PowerArmor_T60f	Specially enhanced and vastly superior to most other armors.	特别加强过。比很多其他装甲都先进。
+Outfit_Description_PrestonSpecial	For those with honor, willing to help out at a minute's notice.	献给有荣誉感的人——他们随时都愿意出手相助。
+Outfit_Description_PrewarCowboy	A mite flashy for the actual range, but looks great on camera.	在真正的荒野上有点太花哨了，但在镜头前看起来很棒。
+Outfit_Description_PrinceSpecial	Snack cakes aren't the only fancy lads in town.	俏男孩夹心蛋糕可不是镇上唯一的俏男孩。
+Outfit_Description_ProfessorSpecial	Sometimes, just sometimes, brain really is better than brawn.	有时候，只是有时候，脑子真的比肌肉强。
+Outfit_Description_RadiationSuit	Designed to protect its wearer from radiation.	被设计用来保护穿戴者免受辐射伤害。
+Outfit_Description_RadiationSuit_Advanced	Ever want to give a Glowing One a hug? Now's your chance.	是不是想过要给发光种一个拥抱呀？现在你的机会来了。
+Outfit_Description_RadiationSuit_Expert	Ever feel like swimming in a pool of radioactive waste?	曾想过在一个满是辐射废料的池子里游泳吗？
+Outfit_Description_RaiderArmor	The standard gear of Wasteland ruffians.	废土暴徒的标准服装。
+Outfit_Description_RaiderArmor_Heavy	For the psycho in charge of all the other psychos.	给那个管着其他疯子的疯子准备的。
+Outfit_Description_RaiderArmor_Sturdy	Only the Wastes' toughest Raiders get to wear these duds.	只有废土上最强悍的掠夺者才能穿这些装备。
+Outfit_Description_RegsDirtyBlackSuit	Look, it's been a long time since the dry cleaners shut down.	你看，干洗店早就关门大吉很多年了。
+Outfit_Description_RiotGear	Functional and flattering, for all your Wasteland needs.	好用又好看。这就是在废土探索的全部需求。
+Outfit_Description_RiotGear_Heavy	The best mercs make the most Caps... and wear the best clothes.	最好的佣兵赚最多的瓶盖……还穿着最好的衣服。
+Outfit_Description_RiotGear_Sturdy	Handle anything the Wastes throw at you... in style.	把废墟带给你的任何东西都处理得……有型。
+Outfit_Description_RobCoFactoryUniform	Sturdy protection you can wear with company pride!	坚固的防护服，穿上它，为公司感到骄傲！
+Outfit_Description_RobCoRdSuit	Just wearing it inspires you to build an army of automatons.	只需穿上它，就能激发你建造机器人军团的灵感。
+Outfit_Description_RobotArmor	No need to hide behind a protectron when you can wear one.	不需要躲在保护者机器人后面，你可以直接穿上它。

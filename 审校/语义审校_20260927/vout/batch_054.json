@@ -1,0 +1,110 @@
+{
+ "batch": 54,
+ "items": [
+  {
+   "key": "Message_Tutorial_04",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN are where you can build 译作「可以选择来建造…的位置」多出「选择」；by {TAPPING} 的手段义被拆成两个祈使，读来生硬。",
+   "final_fix": "{建造区域}就是可以建造{房间}的位置。{点击}{建造区域}来确认位置。"
+  },
+  {
+   "key": "Message_Tutorial_04_PC",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同 04：EN are where you can build 对应「可以选择来建造…的位置」，多出「选择」；by {CLICKING} 的手段义被拆开。",
+   "final_fix": "{建造区域}就是可以建造{房间}的位置。{点击}{建造区域}来确认位置。"
+  },
+  {
+   "key": "Message_Tutorial_09",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN To assign 译成「要派遣」，而本作「派遣」专指派往废土；同句末尾及 09_Xbox、Tutorial_10 均作「分配」。",
+   "final_fix": "要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。"
+  },
+  {
+   "key": "Message_Tutorial_09_PC",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同 09：EN assign 译成「派遣」，与同句「分配到…{发电室}里」及 09_Xbox 的「分配」冲突，派遣专指派往废土。",
+   "final_fix": "要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。"
+  },
+  {
+   "key": "Message_Tutorial_19",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN {ADD FRIENDS} 对应「{增加朋友}」，与本作「{好友}／添加好友」不符；两个「并」又把三条动作串成一句。",
+   "final_fix": "{添加好友}，{访问}他们的{避难所}并{收集瓶盖}。"
+  },
+  {
+   "key": "Message_Tutorial_44_Xbox",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN Press [A] again to {CONFIRM} 与 ZH「再次按下[A]来{确认}」逐词对应，「按下+按键+来+动作」是中文按键提示常规句式。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_Tutorial_48",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN is ready to give birth 与「已经准备好生产了」一致：「生产」本有分娩义，主语「怀孕的居民」已排除歧义，属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_Tutorial_63_Xbox",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Xbox 版 EN 止于 has provided，无 reach this {QUEST} now；ZH 多译「来极速到达现场」，与按钮名重复。",
+   "final_fix": "用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}。"
+  },
+  {
+   "key": "Message_Tutorial_68_PS4",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN them 指单数 {DWELLER}，ZH「分配他们」用复数代词，且「{发电室}然后」缺顿逗；fix 的「他」又限成男性。",
+   "final_fix": "用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。"
+  },
+  {
+   "key": "Message_Tutorial_68_Switch",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN assign them 中 them 为单数居民，ZH「分配他们」指代复数，句中也缺停顿；fix 的「他」把它限成男性。",
+   "final_fix": "用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。"
+  },
+  {
+   "key": "Message_Tutorial_68_Xbox",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN to assign them 的 them 指单个居民，ZH「分配他们」为复数指代；fix 的「他」将中性 them 变男性。",
+   "final_fix": "用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin_PC",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只有 {CLICK} the button 一个动作，ZH「{点击}按下按钮」把两个动词叠在同一宾语上，属冗余病句。",
+   "final_fix": "{点击}按钮，转！那！个！盘！"
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin_Xbox",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN {SELECT} the button 是单一动作，ZH「{选择}按下按钮」并列两个动词，手柄上并无「按下按钮」这一步。",
+   "final_fix": "{选择}按钮，转！那！个！盘！"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN {PRESS} [A] to craft it 与 ZH「{按下}[A]来打造」一一对应，「按下+按键+来+动词」在中文通顺，非病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "MoveInsteadOfOverrideText",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN free slot（ES ranura libre）指空着的存档位，「空档」中文即「空着的位置」，变速箱义写作「空挡」。",
+   "final_fix": ""
+  }
+ ]
+}

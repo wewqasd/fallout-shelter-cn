@@ -1,0 +1,17 @@
+{"batch":47,"items":[
+{"key":"Wasteland_ItemCycleRarePet_02","verdict":"confirm","severity":"S3","reason":"watch my back=替我看着背后，译作「帮衬我一点」（接济/捧场义）失准；宠物用「一个」量词也不妥。","final_fix":"一只{0}突然出现，把我从坑边救了回来！最好带上它，能帮我看着点背后。"},
+{"key":"Weapon_Description_032Pistol_WildBillsSidearm","verdict":"confirm","severity":"S2","reason":"draw 指决斗中「拔枪」（ES desenfunda／DE Zieh），译「出招」成武术用语；「你说”死“」也缺谓语。","final_fix":"当有人说“拔枪”时，你就说“受死”。"},
+{"key":"Weapon_Description_AlienBlaster_Focused","verdict":"confirm","severity":"S2","reason":"Earthling=地球人（ES terrícolas／DE Erdlinge），ZH「地球毁灭」把消灭对象从人换成星球；语序亦硬搬。","final_fix":"经过专门强化，只为尽可能多地消灭地球人。"},
+{"key":"Weapon_Description_AlienBlaster_Tuned","verdict":"confirm","severity":"S2","reason":"belonged to=曾属于，该动词被漏译，ZH 读成「（这把枪）是一个外星人军官」，主语残缺。","final_fix":"这东西大概曾属于某个外星军官，他做过一些……改动。"},
+{"key":"Weapon_Description_AssaultRifle_Hardened","verdict":"confirm","severity":"S3","reason":"for a merc who wants one gun 的「一把枪」丢成「对枪的需要」，属死译；句末「永远。」孤句。","final_fix":"对于想在任何情况下、永远只用一把枪的雇佣兵来说，再合适不过。"},
+{"key":"Weapon_Description_BBGun_Hardened","verdict":"confirm","severity":"S2","reason":"hurt like heck=疼得要命（ES dolerá de narices），ZH「狠狠伤害」缺宾语，中文不成句。","final_fix":"它可能杀不死敌人，但绝对能疼得人哇哇叫。"},
+{"key":"Weapon_Description_BBGun_Rusty","verdict":"confirm","severity":"S2","reason":"you just might=说不定（ES quizá），译「才能」变成必然；fence=篱笆，非「栏杆」。","final_fix":"打上二十枪，说不定就能把篱笆上的锡罐打下来。"},
+{"key":"Weapon_Description_BaseballBat","verdict":"confirm","severity":"S2","reason":"the two of you=你们俩（脑袋与球棒），译「你」丢指代；hit it off=相处得来，非「喜欢它」。","final_fix":"敌人的脑袋，来见见球棒吧。我相信你们俩一定能打得火热。"},
+{"key":"Weapon_Description_CombatShotgun_Rusty","verdict":"confirm","severity":"S2","reason":"misfired shell=哑弹/瞎火（DE Fehlzündung），译「走火」指意外击发，意思正相反；后半亦不成句。","final_fix":"就算有一发哑弹，也还有五发能顶上。"},
+{"key":"Weapon_Description_Cryolator","verdict":"confirm","severity":"S2","reason":"chill out=一起放松/凉快（ES pasar el rato），译「冷静下来」（calm down）走偏，cool 与 chill 的双关全失。","final_fix":"废土上最酷的武器之一，人人都想跟你一起凉快凉快。"},
+{"key":"Weapon_Description_GatlingLaser_Focused","verdict":"confirm_fix_better","severity":"S2","reason":"means=意味着，ZH「意味」缺「着」成病句；beam 宜作「光束」而非「光线」；原 fix「每束光束」量词叠义。","final_fix":"每道光束威力更强，每一枪也就更疼！"},
+{"key":"Weapon_Description_GatlingLaser_Vengeance","verdict":"confirm","severity":"S2","reason":"are you in for a treat=你可有好戏看了（反讽预告），ZH 把 treat 当 reward 译成「这是奖励」。","final_fix":"想要复仇吗？满腔怒火无处发泄？哦，那你可有好戏看了。"},
+{"key":"Weapon_Description_GaussRifle_Accelerated","verdict":"confirm","severity":"S2","reason":"You have no idea=你根本想象不到，译「不知道」主语缺失成说话人不知；projectile=弹丸，非「炮弹」。","final_fix":"等等，弹丸还能……更快？你根本想象不到。"},
+{"key":"Weapon_Description_GaussRifle_Hardened","verdict":"confirm","severity":"S2","reason":"in the field=上战场/实战（IT campo di battaglia），ZH「实地演练」把实战说成训练。","final_fix":"走出研发实验室、投入实战，这东西更加致命。"},
+{"key":"Weapon_Description_HuntingRifle_Hardened","verdict":"confirm","severity":"S3","reason":"those days are gone=那些日子一去不复返，译「就是过去时了」把英语语法术语 past tense 直搬进中文。","final_fix":"曾经，你是被猎杀的那一方。有了这把枪，那种日子一去不复返了。"}
+]}

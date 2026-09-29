@@ -1,0 +1,110 @@
+{
+ "batch": 45,
+ "items": [
+  {
+   "key": "SnipSnipDialog_Wasteland_29",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I'm better than this 是自夸「我比这高一等」，ZH「不是干这个的料」反成自认无能，傲慢说反了。",
+   "final_fix": "像个乡巴佬一样在废土上捡破烂？我可比这强多了。"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_43",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "lover not a fighter 是习语；ZH「擅长爱人」硬译且搭配不自然，「爱人」易被读成配偶，宜作谈情说爱。",
+   "final_fix": "啊！死爪！快跑！我只会谈情说爱，不会打打杀杀！"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_68",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "I wonder where... 的 where 被丢，「好奇」直接带人宾语不合搭配，读来像半截话，恍然的 Oh 接不上。",
+   "final_fix": "小孩的木制积木，来自战前。不知道那孩子后来怎么样了……哦。"
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic54",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "谜底是三字「避难所」(Response3)，中文无字母线索；ES/DE/RU 亦各自改写字母数，「三个字」是字数的对等本地化。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic55",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "谜底是四字「填字游戏」(Response3)，与「四个字」吻合；中文谜面不存在 c 开头 d 结尾，fix 反使谜题无解。",
+   "final_fix": ""
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic1_Response3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "solitaire 是单人纸牌，上句正是「来玩牌吧」；ZH「我还是一个人吧」丢掉纸牌，答非所问。",
+   "final_fix": "不，谢了。我还是自己玩单人纸牌吧。"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic42_Response2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "lover not a fighter 习语；「更适合当爱人」中「爱人」在中文多指配偶，搭配别扭，易读成更适合结婚。",
+   "final_fix": "是……是啊……你看，我更愿意谈情说爱，不想打打杀杀。"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic54_Response2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "题面「三个字」、谜底也是三字，ZH 三条猜测却全是四字成语，Bigot/Theft/Yeast 形式对意思错的包袱垮掉。",
+   "final_fix": "这还不简单。“大白菜”。不对，等等——“电灯泡”！“老油条”？"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic55_Response1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Cornfield 是形式合而与谜底无关的瞎猜；ZH「字谜成瘾」几乎说出谜底「填字游戏」，笑点提前漏光。",
+   "final_fix": "无间地狱？"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic8_Response3",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Nitwit 指蠢（RU Тупица），「土包子」偏没见识；但「蠢货」两字，与本题「三个字」及另两条三字猜测不合。",
+   "final_fix": "试试“糊涂虫”。"
+  },
+  {
+   "key": "Speech_Eviction_19",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Worst. Day. EVER. 断句照搬成中文碎片：「最。」不能独立成句、「糟糕的。」悬空，只剩残句。",
+   "final_fix": "这辈子最糟糕的一天。没有之一。"
+  },
+  {
+   "key": "Speech_Eviction_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "第二个 real 是口语强调词，ZH 照字面作「真正的美好」，句子自相矛盾；It's been real 亦非「很真实」。",
+   "final_fix": "这段日子挺实在，也挺美好——就是没好到哪儿去。"
+  },
+  {
+   "key": "Speech_Happiness_Radiation1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Phew 同库多译「呼！」，「松一口气！」独用读作祈使句；that 指刚用的药剂，ZH「那个」无所指。",
+   "final_fix": "呼！我可太需要这个了！"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_12",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "loveliest person I know 被换成奶茶品牌梗「你是我的优乐美」，夸赞信息与废土设定双双落空。",
+   "final_fix": "你是我见过最可爱的人。"
+  },
+  {
+   "key": "Speech_LivingQuarter_PickupLines_61",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "felt 双关：Would you like it to be?＝想让我摸摸看吗；ZH「想让它变成毛毡吗」与上句相冲，调情归零。",
+   "final_fix": "你这身连身衣是毛毡的吗？——还是说，你想让我摸摸看？"
+  }
+ ]
+}

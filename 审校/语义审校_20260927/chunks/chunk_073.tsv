@@ -1,0 +1,181 @@
+key	EN	ZH
+Stats_PetBreeds_PitBullTerrier	Pit Bull Terriers	斗牛犬
+Stats_PetBreeds_Poodle	Poodles	贵宾犬
+Stats_PetBreeds_Rottweiler	Rottweilers	罗特韦尔犬
+Stats_PetBreeds_ScarletMacaw	Pirate Parrots	海盗鹦鹉
+Stats_PetBreeds_ScottishFold	Scottish Folds	苏格兰折耳猫
+Stats_PetBreeds_Siamese	Siamese	暹罗猫
+Stats_PetBreeds_Somali	Somalis	索马里猫
+Stats_PetBreeds_Sphynx	Sphynxes	加拿大无毛猫
+Stats_PetBreeds_StBernard	St. Bernards	圣伯纳犬
+Stats_PetBreeds_Toyger	Toygers	虎皮猫
+Stats_PetBreeds_TurkishVan	Turkish Vans	土耳其梵猫
+Stats_PetCarriers_Opened	Pet Carriers Opened	打开宠物笼子
+Stats_Pets_Collected	Pets Collected	收集宠物
+Stats_Pets_Sold	Pets Sold	出售宠物
+Stats_Power_Collected	Power Collected	收集电力
+Stats_Power_Consumption	Power Consumption/Minute	电力消耗/分钟
+Stats_Power_Production	Power Production/Minute	电力生产/分钟
+Stats_Pregnant_Dwellers	Pregnant Dwellers	怀孕的居民
+Stats_Radaways_Taken	RadAway Taken	使用消辐宁
+Stats_Radroach_Attacks_Stopped	Radroach Infestations Stopped	终止辐射蟑螂灾害
+Stats_Radscorpion_Attacks_Stopped	Radscorpion Infestations Stopped	终止辐射蝎灾害
+Stats_Raider_Attacks_Stopped	Raider Attacks Stopped	终止掠夺者攻击
+Stats_Rare_Decorations	Rare Decorations	稀有级装饰品
+Stats_Rare_Outfits	Rare Outfits	稀有级装备
+Stats_Rare_Pets	Rare Pets	稀有级宠物
+Stats_Rare_Weapons	Rare Weapons	稀有级武器
+Stats_Special_Trained	SPECIAL Stats Trained	SPECIAL属性训练
+Stats_Stimpaks_Taken	Stimpaks Taken	使用治疗针
+Stats_Successful_Rushes	Successful Rushes	极速模式成功
+Stats_Time_Played	Time Played (All-Time)	玩游戏时间（所有时间）
+Stats_Title_All_Time	CUMULATIVE	累积
+Stats_Title_Current	CURRENT	当前
+Stats_Total_Lifetime_Dwellers	Dwellers	居民
+Stats_Wasteland_Creatures_Killed	Wasteland Creatures Killed	废土生物被杀
+Stats_Wasteland_Total_Time	Wasteland Exploration Time	废土探险时间
+Stats_Water_Collected	Water Collected	收集水
+Stats_Water_Consumption	Water Consumption/Minute	水消耗/分钟
+Stats_Water_Production	Water Production/Minute	水生产/分钟
+Stats_Weapon_Recipes	Weapon Recipes	武器配方
+Stats_Weapons_Collected	Weapons Collected	收集的武器
+Stats_Weapons_Crafted	Weapons Crafted	打造的武器
+Stats_Weapons_Scrapped	Weapons Scrapped	拆解的武器
+Stats_Weapons_Sold	Weapons Sold	出售的武器
+Stats_Xbox_01	Total Rooms Built	总共建造的房间
+Stats_Xbox_02	Total Caps Collected	总共收集的瓶盖
+Stats_Xbox_03	Total Dwellers in Vault	避难所里全部的居民
+Status_AlmostHere	ALMOST HERE	即将到达
+Status_Danger	DANGER!	危险！
+Status_Done	DONE!	完成！
+Status_NoPower	NO POWER	没有电力
+Status_Wasteland_Dead	DEAD	死亡
+Status_Wasteland_Returned	WAITING	等待中
+Status_Wasteland_Returned_Ellipses	WAITING...	等待中……
+Steam_Overlay	To access the Store, please enable the Steam Overlay in the Fallout Shelter Steam properties.	想进入商店，请在辐射避难所的 Steam 属性中启用 Steam 覆盖。
+SuperRoom2_Upgrade_Info	Increases Endurance training speed	提高耐力训练速度
+SurpriseQuest_Button_ReturnToWasteland	RETURN TO WASTELAND	返回废土
+TapToContinue	TAP TO CONTINUE	点击继续
+TapToContinue_PC	CLICK TO CONTINUE	点击继续
+TapToContinue_Xbox	PRESS [A] TO CONTINUE	按下继续
+TermsOfService_ButtonText	TERMS OF SERVICE	服务条款
+TermsOfService_Legal_Link	https://documents.bethesda.net/en/terms-of-service	https://documents.bethesda.net/en/terms-of-service
+TermsOfService_Title	TERMS OF SERVICE	服务条款
+Theme_Name_Anniversary_Diner	Party Diner	派对餐厅
+Theme_Name_Anniversary_LivingQuarters	Party Living Quarters	派对宿舍
+Theme_Name_BoS_Diner	BoS Diner	钢铁兄弟会餐厅
+Theme_Name_BoS_LivingQuarters	BoS Living Quarters	钢铁兄弟会宿舍
+Theme_Name_Christmas_Diner	Christmas Diner	圣诞节餐厅
+Theme_Name_Christmas_LivingQuarters	Christmas Living Quarters	圣诞节宿舍
+Theme_Name_EnclaveCafeteria	Enclave Cafeteria	英克雷食堂
+Theme_Name_EnclaveLivingQuarters	Enclave Living Quarters	英克雷生活区
+Theme_Name_Halloween_Diner	Halloween Diner	万圣节餐厅
+Theme_Name_Halloween_LivingQuarters	Halloween Living Quarters	万圣节宿舍
+Theme_Name_Institute_Diner	Institute Diner	学院餐厅
+Theme_Name_Institute_LivingQuarters	Institute Living Quarters	学院宿舍
+Theme_Name_Lucky38Penthouse_LivingQuarters	Lucky 38 Penthouse	幸运38号顶层公寓
+Theme_Name_Minutemen_Diner	Minutemen Diner	义勇军餐厅
+Theme_Name_Minutemen_LivingQuarters	Minutemen Living Quarters	义勇军宿舍
+Theme_Name_Railroad_Diner	Railroad Diner	铁路餐厅
+Theme_Name_Railroad_LivingQuarters	Railroad Living Quarters	铁路宿舍
+Theme_Name_Standard_Diner	Standard Diner	标准餐厅
+Theme_Name_Standard_LivingQuarters	Standard Living Quarters	标准宿舍
+Theme_Name_Standard_NukaColaPlant	Standard Nuka-Cola Plant	标准核子可乐工厂
+Theme_Name_Standard_WeaponFactory	Standard Weapon Plant	标准武器车间
+Theme_Name_SunsetSarsaparilla	Sunset Sarsaparilla	日落沙士
+Theme_Name_Thanksgiving_Diner	Thanksgiving Diner	感恩节餐厅
+Theme_Name_Thanksgiving_LivingQuarters	Thanksgiving Living Quarters	感恩节宿舍
+Theme_Name_UltraciteWeaponFactory	Ultracite Weapon Plant	辐射极琉矿武器车间
+Theme_Name_Vault33_Diner	Vault 33 Diner	33号避难所餐厅
+Theme_Name_Vault33_LivingQuarters	Vault 33 Living Quarters	33号避难所宿舍
+Theme_ShortName_AnniversaryParty	Party	派对
+Theme_ShortName_BoS	Brotherhood of Steel	钢铁兄弟会
+Theme_ShortName_Christmas	Christmas	圣诞节
+Theme_ShortName_Enclave	Enclave	英克雷
+Theme_ShortName_Exterior	Exterior Theme	外观主题
+Theme_ShortName_Halloween	Halloween	万圣节
+Theme_ShortName_Institute	Institute	学院
+Theme_ShortName_LivingQuarters	Living Quarters Theme	宿舍主题
+Theme_ShortName_Lucky38Penthouse	Lucky 38 Penthouse	幸运38号顶层公寓
+Theme_ShortName_Minutemen	Minutemen	义勇军
+Theme_ShortName_NukaColaPlant	Nuka-Cola Plant Theme	核子可乐工厂主题
+Theme_ShortName_Railroad	Railroad	铁路
+Theme_ShortName_Standard	Standard	标准
+Theme_ShortName_Thanksgiving	Thanksgiving	感恩节
+Theme_ShortName_Vault33	Vault 33	33号避难所
+Theme_ShortName_Workshop	Workshop Theme	工坊主题
+Time_Day	d	d
+Time_Days	DAYS	天
+Time_Hour	h	h
+Time_Hours	HOURS	小时
+Time_HoursShort	HRS	小时
+Time_Minute	m	m
+Time_Minutes	MIN	分钟
+Time_Second	s	s
+Time_Seconds	SEC	秒
+Tip_01	I don't feel very well today... Why are all my nails falling off?	我今天感觉不好……为什么我的指甲都在脱落？
+Tips	TIPS	提示
+Title_Activate	ACTIVATE	激活
+Title_Alignment	ALIGNMENT	校准
+Title_Arrival	ARRIVAL {0}/{1}	抵达 {0}/{1}
+Title_Assign	ASSIGN	分配
+Title_AssignDweller	ASSIGN DWELLER	分配居民
+Title_Assignment	ASSIGNMENT	分配
+Title_Availables	AVAILABLES	可用项
+Title_Back	BACK	返回
+Title_Build	BUILD	建造
+Title_Building	BUILDING	建造中
+Title_ClaimReward	Claim your reward!	领取您的奖励！
+Title_Close	CLOSE	关闭
+Title_Collection	COLLECTION	收藏
+Title_CollectionSmall	Collection	收藏
+Title_Controls	CONTROLS	控制
+Title_Crate_Vault	CREATE VAULT	创建避难所
+Title_Credits	CREDITS	制作人员
+Title_DailyReport	DAILY REPORT	日常报告
+Title_DailyReportSmall	Daily Report	每日报告
+Title_Date	DATE	日期
+Title_DeleteVault	DELETE VAULT	删除避难所
+Title_Destroy	DESTROY	摧毁
+Title_DestroyRock	DESTROY ROCK	摧毁岩石
+Title_Diff	DIFF	差异
+Title_Done	DONE	完成
+Title_DragHere	DRAG HERE	拖到这里
+Title_Dweller	DWELLER	居民
+Title_DwellerApplication	DWELLER APPLICATION	居民申请
+Title_Dwellers	DWELLERS	居民
+Title_Dwellers_Quantity	DWELLERS {0}/{1}	居民{0}/{1}
+Title_Effect	EFFECT	效果
+Title_Effects	EFFECTS:	效果：
+Title_Expedition	EXPEDITION	远征
+Title_Explore	EXPLORE	探险
+Title_Failed	FAILED	失败
+Title_FinishingQuest	COMPLETE	完成
+Title_Flee	FLEE	逃跑
+Title_Flee_Escape	ESCAPE	逃脱
+Title_Flee_Failed	FAILED	失败
+Title_Flee_Success	SUCCESS	成功
+Title_Full_Upgraded	ROOM FULLY UPGRADED	房间已升至最高级
+Title_Happiness	HAPPINESS	幸福度
+Title_Happiness_Bonus	HAPPINESS BONUS	幸福度奖励
+Title_Help	Help	帮助
+Title_Here	HERE	这里
+Title_Hold	HOLD	按住
+Title_HowToPlaySmall	How To Play	如何玩
+Title_Icloud	CLOUD	云
+Title_IcloudSave	CLOUD SAVE	云保存
+Title_Incident	INCIDENT:	事件：
+Title_LastSave	LAST SAVE	最后存档
+Title_Leaderboard_Toggle_Android	Enable leaderboard data sharing with Google Play	开启与 Google Play 共享排行榜数据
+Title_Leaderboard_Toggle_IOS	Enable leaderboard data sharing with Game Center	开启与 Game Center 共享排行榜数据
+Title_Leaderboards	LEADERBOARDS	排行榜
+Title_Level	LEVEL	等级
+Title_Level_Letter	L	等级
+Title_Level_Short	LVL	等级
+Title_Load_Vault	LOAD VAULT	加载避难所
+Title_Loading	Loading...	加载中……
+Title_Locations	LOCATIONS	位置
+Title_LunchboxesSmall	Lunchboxes	午餐盒
+Title_MainMenu	MAIN MENU	主菜单
+Title_MaximumLevel_Short	MAX	最大
+Title_Monitoring	MONITORING	监控中

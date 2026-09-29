@@ -1,0 +1,39 @@
+{
+  "chunk": "064",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Screenshot_Twitter_Message",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "话题标签被翻译并吞掉了正文。EN 是 #FalloutShelter + 空格 + Check out my Vault!，#FalloutShelter 是分享到 Twitter 后用于聚合的官方话题标签，属于要保持原样的专名，ZH 译成 #辐射避难所；而且中文标签后面没有留空格，Twitter 的话题标签以空白符为界，玩家发出后整条「#辐射避难所查看一下我的避难所！」会被解析成一个超长话题标签，正文完全看不见。其他语种（ES/FR/DE）此处都保留 #FalloutShelter 原文。",
+      "fix": "#FalloutShelter 快来看看我的避难所！",
+      "confidence": "high"
+    },
+    {
+      "key": "RushMode_Button_Success",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "按钮标签动宾颠倒。EN 是祈使式的 CLAIM REWARDS，本表其他领取类按钮一律是「动词+宾语」：CLAIM=领取、CLAIM MORE=领取更多、CLAIM NOW=立即领取、CLAIM ALL=全部领取，只有这一个倒装成「奖励领取」，看起来像标题而不是可点击的操作；ES（RECIBIR RECOMPENSAS）、DE（BELOHNUNG ABHOLEN）也都是动词在前。",
+      "fix": "领取奖励",
+      "confidence": "high"
+    },
+    {
+      "key": "RushMode_Button_Failed",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "极速失败弹窗上的按钮只写了一个没有宾语的动词「进行」。PROCEED 在这里是「知道了，继续」的意思，本表 CONTINUE 统一译作「继续」（Button_Continue、Quest_Button_ContinueQuest、TapToContinue=点击继续），ES/FR/DE 此处也都用「继续/continue」（CONTINUAR、CONTINUER、WEITER）。单独立在按钮上的「进行」在中文里不成话。",
+      "fix": "继续",
+      "confidence": "medium"
+    },
+    {
+      "key": "SeasonModal_BattlePass_LockedReward_Premium",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "主宾关系颠倒、句子不完整。EN 的意思是「（这条奖励）用赛季通行证解锁」，被解锁的是奖励；ZH「解锁赛季通行证以获取」把被解锁的对象换成了通行证本身，而「以获取」后面又缺宾语，整句成了半句话（谁获取？获取什么？）。ES「Desbloquear con el pase de temporada」、DE「Mit Season Pass freischalten」都保持「用通行证解锁（奖励）」的关系。",
+      "fix": "使用赛季通行证解锁",
+      "confidence": "medium"
+    }
+  ]
+}

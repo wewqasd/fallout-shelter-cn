@@ -1,0 +1,39 @@
+{
+  "chunk": "long_014",
+  "lens": "long",
+  "reviewed": 42,
+  "findings": [
+    {
+      "key": "Speech_Conversation_NPC1_Topic54",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 的填字提示是「Five-letter word, ends with \"t.\"」，ZH 改成自创的「三个字」，且「以 t 结尾」这一整段字母线索完全没有对应，玩家拿到的谜面信息与 EN 不符。",
+      "fix": "帮我解个填字游戏。五个字母的词，以“t”结尾——“常常很糟，总是难受”。",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Conversation_NPC1_Topic55",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN「Nine letters. Starts with \"c\" and ends with \"d.\"」两条字母线索（九字母、c 开头 d 结尾）在 ZH 里全部丢失，只换成自创的「四个字」，「Means」的解释句则保留。",
+      "fix": "帮我解个填字游戏。九个字母，以“c”开头、以“d”结尾，意思是“一场永远逃不掉的恐怖”。",
+      "confidence": "high"
+    },
+    {
+      "key": "SnipSnipDialog_Wasteland_27",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 反讽句「They turned against themselves just fine...」意为「他们自己反目成仇，倒是干得漂亮」，ZH「他们自己的内斗都控制不住了」把「很擅长自相残杀」说成了「控制不住内斗」，语义方向发生偏差，反讽点丢失。",
+      "fix": "想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic21_Response2",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 列举的是「Street car races?」（有轨电车比赛），ZH 译成「街头赛车」，把 streetcar（有轨电车）当成 street racing（街头飙车），是另一个东西。",
+      "fix": "好吧，也许吧。但这得看外面有什么。嘉年华？有轨电车比赛？棉花糖？我是说，得值得我出去才行。",
+      "confidence": "medium"
+    }
+  ]
+}

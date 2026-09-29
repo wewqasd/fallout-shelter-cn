@@ -1,0 +1,110 @@
+{
+ "batch": 51,
+ "items": [
+  {
+   "key": "Encounter_Defeat_Creature3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "sting 译作「蛰刺」，但「蛰」读 zhé、义为蛰伏；虫类刺人应作「螫」。同批 Creature10 的 stinger 已作「螫针」，用字自相矛盾。",
+   "final_fix": "我没提防这只巨大苍蝇的螫针！快跑吧！"
+  },
+  {
+   "key": "Encounter_Defeat_Creature9",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "relentless 义为穷追不舍、不依不饶，ZH「冷酷无情」是形容品性的词，按在工蚁上偏；后半 trying to fight 亦未译到位。",
+   "final_fix": "巨型工蚁死缠不放！跟它硬拼根本没用！"
+  },
+  {
+   "key": "Encounter_Defeat_NPC9",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "worse off 译作「状况更糟」与 EN 完全对应、无信息丢失；本批 Encounter 系列「状况」是通用说法，此条属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Encounter_Defeat_Repeatable_JunkLocation5",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 中 spot 的动作发出者是「我」，ZH「没察觉的刀片陷阱」缺主语，字面成了陷阱自己没察觉，修饰语成分残缺。",
+   "final_fix": "一个我没察觉到的刀片陷阱，差点把我的脑袋削下来。还是回头吧。"
+  },
+  {
+   "key": "Encounter_Message_Creature27",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "ZH 只译出 gigantic（硕大），丢掉 Super Mutant；ES/FR/IT/DE/RU 五语都保留 supermutante 这一族类限定。",
+   "final_fix": "一只硕大的超级变种人巨兽。"
+  },
+  {
+   "key": "Encounter_Message_Creature3",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN dangerously close 的 dangerously 修饰 close（距离），ZH「危险地……叫着」把危险挂在叫声上；巨大苍蝇一词不改。",
+   "final_fix": "一只巨大苍蝇，嗡嗡叫着逼近，近得危险。"
+  },
+  {
+   "key": "Encounter_Message_Repeatable_JunkLocation12",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "cross without being spotted 是「穿过去而不被发现」，ZH 以「想不……就……」拼成条件句，杂糅成「为了不被发现才穿过去」。",
+   "final_fix": "一片开阔的田野，想不被发现地穿过去根本不可能。"
+  },
+  {
+   "key": "Encounter_Progression_JustStartedTier1_18",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "ready for anything 是「能应付一切」，ZH「准备好了一切」变成把东西备齐；DE auf alles vorbereitet 即应对一切。",
+   "final_fix": "不管碰上什么，我都准备好了。"
+  },
+  {
+   "key": "Encounter_Progression_Repeatable_JunkLocation10",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "family of Yao Guai 译「妖怪熊一家人」，与 ES familia、DE Familie 一致，中文以「一家人」称兽群可以接受。",
+   "final_fix": ""
+  },
+  {
+   "key": "Encounter_Progression_Repeatable_JunkLocation2",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "EN 的 it 指上文 Raider Hideout（藏身处本身），ZH「上头」指代不清且与「砸到我头上」重复；但加「只要」把必然说成可能。",
+   "final_fix": "探索藏身处，但走错一步，整座建筑就会塌下来砸在我头上。"
+  },
+  {
+   "key": "Encounter_Progression_Repeatable_JunkLocation8",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN left behind 表「遗留、剩下」，ZH「还有没有」叠「任何」中文不成立；might 语气亦未保留。",
+   "final_fix": "找找公馆里是否还剩下什么有价值的东西。"
+  },
+  {
+   "key": "Encounter_Random_Message107",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "are wearing out 是正在磨损，ZH「已经磨穿」写成了已穿底；RU скоро прохудятся 亦为未然，非既成结果。",
+   "final_fix": "我的鞋底快磨破了。"
+  },
+  {
+   "key": "Encounter_Random_Message112",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN completely fallen into the street，ZH「塌进了街道」的「进」要求内部空间，街道构不成容器，动补搭配不当。",
+   "final_fix": "那几栋楼已经完全塌到街上了。"
+  },
+  {
+   "key": "Encounter_Random_Message165",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只说 affords maximum protection，ZH「防护性能拉满」的「性能」是产品词、「拉满」是网络流行语，与本条纪实口吻不搭。",
+   "final_fix": "探险家日志。新条目：动力装甲依然存在，但很少见。能提供最高级别的防护。"
+  },
+  {
+   "key": "Encounter_Random_Message17",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 谓语是 follow this road（顺着走），ZH「我选这条路」变成在岔路口挑选；go left 一类的才是「选左边」。",
+   "final_fix": "我顺着这条路走，看它会通向哪里。"
+  }
+ ]
+}

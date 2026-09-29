@@ -1,0 +1,71 @@
+{
+ "chunk": "062",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_WorkingOvertime_Conversation_1_NPCEnd_4",
+   "severity": "S1",
+   "type": "误译",
+   "problem": "You and me both! 是表示附和的习语，回答的是玩家那句“避难所科技在内部保安系统上偷工减料”（ES「¡Pues ya somos dos!」、FR「Je me disais la même chose !」、IT「Lo penso anch'io!」、DE「Geht mir genauso!」、RU「Да, я тоже что-то такое подозреваю!」全都是“我也这么想”）。译文“我俩都是！”是逐字直译，没有宾语，作为一句独立回话读不通，玩家看不出这里是在赞同玩家。",
+   "fix": "我也这么觉得！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WaterintoBrine_QuestLongDescription",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "the real deal 被当成“真正的商人”。原文要分辨的是“他到底货真价实，还是个卖假药的骗子”（ES si dice la verdad o si es un charlatán、FR s'il s'agit d'un mage ou d'un charlatan、DE ob er echt oder nur ein Quacksalber ist、RU не жулик ли он），译文“看看他是不是真正的商人还是卖大力丸的骗子”把“真假”变成了“算不算商人”，前半句的对比被架空。",
+   "fix": "“神奇”水真的有效，还是完全是个骗局？我们得找到这个水之术士，看看他到底真有本事，还是个卖假药的骗子。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_Conversation_2_Team_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "Neither one of you is cut out for Raiding anymore 是“你们俩都已经不是干掠夺者的料了”（ES Ninguno de vosotros está para el saqueo ya、IT Nessuno di voi due è tagliato per fare il predone、DE Ihr seid beide nicht mehr dafür gemacht），译文“你们两个都很久不做掠夺者了”把“不适合”偷换成“很久没做”，凭空多出时间信息，也丢掉了“所以干脆别干了、去私奔吧”的劝说前提。",
+   "fix": "你们俩谁都不适合再干掠夺者这行了。为什么不干脆放弃，一起私奔呢？",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_RaiderLine_1",
+   "severity": "S2",
+   "type": "指代",
+   "problem": "原文是单数、且明确是女性 Boss 的一场婚礼（ES A la jefa … le arruine la boda、FR La chef … son mariage、DE Dem Boss … ihre Hochzeit、RU Боссу … ее свадьбу），指的就是新娘莎莉。译文“老大们可不喜欢有人破坏他们的婚礼！”改成复数的“老大们”“他们的婚礼”，玩家会以为这里有几位老大在合办婚礼，和任务里只有莎莉这一场婚礼对不上。",
+   "fix": "老大可不会喜欢有人来搅了她的婚礼！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WondersofNature_Conversation_1_NPCStart_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "Horrors which no man should see 是“不该被凡人看到的恐怖”，情态是“不应该”（ES ningún hombre debería ver、FR qu'aucun homme ne devrait voir、IT nessun umano dovrebbe vederle、DE die kein Mensch sehen sollte、RU Которых не должен видеть никто）。译文“无人见识过的恐怖”变成“没人见过”，把“不应被看到”替换成“从未被人看到”，语义被改。",
+   "fix": "我见识过一些东西……不该被任何人看到的恐怖。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WhatsonSecond_QuestName",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "“什么是第二。”是把 What's on Second 逐词硬拼出来的，中文既读不通也猜不出原意。这条属于“谁在一垒／什么在二垒／不知道在三垒”的棒球梗链，同链的 I Don't Know's on Third 译作““不知道”在三垒！”、Man on Second 译作“二垒有人”，各语言也都落在二垒上（RU Кто на второй базе、IT Chi c'è in seconda base?），只有本条丢了全部含义。",
+   "fix": "“什么”在二垒？",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_WastelandTheMusical_Conversation_7_Team_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "But to this I can't commit 拒绝的是父母的邀请（上一句是“来吧，孩子，握住我们的手，随我们把恐惧遍布大地”），意思是“这件事我没法答应／不能跟着干”（ES a esto no me puedo comprometer、DE darauf lasse ich mich nicht ein、RU Решиться на такое - нет）。译文“但我不能与他们相认”把拒绝的对象换成了“认这门亲”，说话人拒绝的内容被替换。",
+   "fix": "♪ 我的父母，我不敢相信！♪ 但我不能答应这件事 ♪ 也许我只去拜访一下？♪",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_WelcometoParadise_QuestLongDescription",
+   "severity": "S3",
+   "type": "指代",
+   "problem": "原文通篇是单数第一人称（ES He descubierto、FR J'ai découvert、DE Ich habe eine Karte … gefunden、RU Мне удалось найти）：I've discovered … I should follow。译文开头写成“我们已经发现了”，同一段结尾又回到“我该跟着地图”，一段里“我们／我”混用，叙述者前后不一致（同批 QuestLoc_WithFriendsLikeThese_QuestLongDescription 的 I've found 也译成了“我们找到了”）。",
+   "fix": "我发现了一张通往242号避难所的地图，那里的“居民”全都不是人类，而是各种生物。我该循着地图去揭开这座避难所的秘密。",
+   "confidence": "medium"
+  }
+ ]
+}

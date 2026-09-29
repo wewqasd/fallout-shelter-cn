@@ -1,0 +1,151 @@
+{
+  "chunk": "016",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Pet_Description_laperm_b",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "EN 是猫的口吻「Loves keeping humans as pets」，主语是这只猫；ZH「爱让人类成了宠物。」把 loves 直译成一个孤零零的动词「爱」，读者第一眼会把「爱」当名词，整句变成「爱（这种情感）使人类变成了宠物」，主语错位、动作丢失，玩家读完不知道是谁干了什么。",
+      "fix": "就爱把人类当宠物养。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_laperm_l3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「the attitude to match」是指与华丽外表相配的那股高傲派头，ZH 译成「想和其他人一决高下的态度」，把「与之相配」理解成了「与别人较劲」，含义跑偏；另外「一件……态度」量词搭配不成立，「和想和其他人一决高下」两个「和」连用读起来也打结。",
+      "fix": "一身华丽的外套，配上同样高傲的派头。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_ocicat_l",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 的「more spots than sense」是「斑点比脑子还多」的谐谑说法，意思是这猫有点呆；ZH 改成「它的斑点比你想象的多」，把「不如脑子多」的关键笑点换成了「超出你想象」，后半句「但你还是会一样喜欢它」因此失去转折依据。",
+      "fix": "它的斑点多过它的脑子，但你还是一样会喜欢它。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_pallascat_b",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「under all that fur」说的是猫身上那身毛，ZH 用「皮草」——中文里皮草指毛皮做的衣服，玩家读到的是「一大堆皮草大衣下面有一只猫」，画面滑稽且失真。",
+      "fix": "有传言说，那一大堆毛底下藏着一只猫。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_persian_l",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「The last to leave your heart」直译成「最后一只离开你心的猫」，中文里「离开你心」缺少方位成分、也不是可搭配的动宾结构，读起来卡壳（应为「离开你心里／走出你内心」）。",
+      "fix": "第一只进入太空的猫，也是最后一只离开你心里的猫。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_poodle_b",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「this fancy pants」是俚语，指讲究打扮、花里胡哨的家伙，ZH 照字面译成「这个花裤子」，玩家会以为在说一条裤子，指代混乱；「misjudge」译「误解」也不妥（此处是别小看）。另外形容一只狗「坚强」搭配不对。",
+      "fix": "别被这身花哨行头骗了——它聪明、乖巧又强壮。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_rottweiler_b",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「Big and bad」是「个头大、不好惹」的固定说法，ZH 译成「又大又讨厌」既丢了「凶」的意思，又添了原文没有的「有时」——「有时又大」在逻辑上说不通（体型不会时大时小，devoted 也不是「善于奉献」）。",
+      "fix": "它个头大又不好惹，却忠心又听话，会是你一辈子的朋友。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_siamese_b",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN 是猫在否认傲慢：「Not stuck up... just better than you」，转折在 just；ZH「不是傲慢……就是比你强」落进了中文「不是……就是……」的固定句式，读成「要么傲慢，要么比你强」，把猫的否认变成了二选一的判断，意思正好拧了。",
+      "fix": "不算傲慢……只是比你优秀罢了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_stbernard_b",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「expect him to come running」是笃定语气（它多半／一定会飞奔而来），ZH 译成「希望它能跑来找你」，把确信降格成祈愿，圣伯纳犬阿尔卑斯救援的梗也随之变弱。",
+      "fix": "要在阿尔卑斯山上迷了路，就等着它飞奔来找你吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_TurkishVan",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "宠物名末尾多出一个全角问号，写成「土耳其梵猫？」，像是译名未定时的批注忘了删，玩家在宠物列表里看到的是一个带疑问号的猫名。",
+      "fix": "土耳其梵猫",
+      "confidence": "high"
+    },
+    {
+      "key": "Piper_campaign_Text",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "「一位新来自辐射4的特殊拜访者」语序错乱：「新」被硬塞进「来自辐射4的」这个定语中间，「新来自」在中文里不成词，玩家需要停顿重读才能解码，属于典型的英文语序硬搬。",
+      "fix": "一位来自《辐射4》的特殊新访客想要加入您的避难所",
+      "confidence": "high"
+    },
+    {
+      "key": "QUEST_1_FOLLOWUP_3",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「no need to do anything rash」是劝对方别冲动、别乱来（说话人正被威胁，准备交出东西），ZH 译成「没必要这么着急」——「着急」是焦急、赶时间，与「rash」的鲁莽义不是一回事，语境里读着莫名其妙。",
+      "fix": "好吧，好吧，没必要这么冲动。来，给你。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestList_ActiveQuest",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "这是任务列表里的状态标签，与同组的 ARRIVED!（到达！）、RETURNED!（回来了！）并列，表示该任务已经派出小队、正在进行；ZH 译成「可执行！」变成「可以去做」的资格描述，把已经开打的任务说成还没开始，玩家会误判任务状态。",
+      "fix": "进行中！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCStart_2",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「a whirlwind of claws, snack cake crumbles and murder」是「由爪子、蛋糕碎和杀戮组成的旋风」，ZH 直接堆成「那是一阵旋风爪，蛋糕碎和谋杀！」——名词与名词之间没有连接成分，「旋风爪」不成词，整句读不通，语气上的惊惧也全丢了。",
+      "fix": "那简直就是一阵由爪子、蛋糕碎和杀戮组成的旋风！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_AGatheringofGhouls_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「this Ghoulish gathering」的 gathering 是「聚集、越聚越多的一群」，ZH 译成「团伙」——中文里团伙专指犯罪组织，尸鬼成群会读成有组织的帮派；后半句「还没有扩张太快」也是搭配不当（扩张用于地盘规模，且「没有……太快」结构别扭）。",
+      "fix": "可怕的发光种在离避难所太近的地方安了家，还把尸鬼像飞蛾扑火一样吸引过来。趁这群尸鬼还没聚得更多，赶紧灭掉这座耀眼的“灯塔”！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ALaborofLove_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "「Suit yourself」是不耐烦的「随你便」，说话人是钢铁兄弟会士兵，下一句就要动手；ZH 用「请随意」，这是招待客人的口吻，与敌对的语境相冲，玩家读到的态度和角色处境对不上。",
+      "fix": "随你们便吧，居民们！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ALaborofLove_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「Hold it right there!」是喝令对方站住别动，本目录其它条目也统一译为「站住」（如「站住，避难所居民。」）；ZH 写成「等等，慢点儿！」，把「停下」改成了「放慢速度」，命令内容变了，像是让对方走慢一些。",
+      "fix": "站住，不许动！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ALaborofLove_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「premises」指场地、所在之处（此处即他们所在的洞穴），ZH 译成「地基」——地基是建筑的地面基础，既不能「清空」也不是兄弟会要占的东西，玩家会以为要拆房子；应是让对方立刻离开此地。",
+      "fix": "马上离开这里——不然的话！",
+      "confidence": "high"
+    }
+  ]
+}

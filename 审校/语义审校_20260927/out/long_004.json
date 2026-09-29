@@ -1,0 +1,47 @@
+{
+  "chunk": "long_004",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "Message_Tutorial_50",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "EN 仅说「are {UNAVAILABLE} until there's space for them」，完全没有交代「空间从哪来」；ZH 自行补出「当建造更多储藏室或升级储藏室获得足够空间时」，其中「储藏室／升级储藏室」是 EN 中不存在的机制信息，属于译员自创事实，若与游戏实际机制不符会误导玩家。",
+      "fix": "{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前将一直{无法使用}。",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_Tutorial_50",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「{ITEMS} within a {DASHED RECTANGLE} exceed your {INVENTORY}」意为「这些物品超出了你的库存（容量）」；ZH 译作「不在您的{库存}范围内」，变成「这些物品不属于你的库存／不在库存中」，与 EN 的「超出容量」含义不符。同时 EN 高亮的是 {UNAVAILABLE}（无法使用），ZH 的高亮却落在「{使用}」上，重点词方向相反。",
+      "fix": "{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前将一直{无法使用}。",
+      "confidence": "high"
+    },
+    {
+      "key": "MrHandyDialog_Wasteland_27",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「They turned against themselves just fine...」是反讽：人类自己就自相残杀得相当在行（所以根本不用怕机器人）；ZH 译成「他们自己的内斗都控制不住了……」，把「干得挺利索」说成「内斗失控」，改变了语义，也丢掉了 just fine 的讽刺语气。",
+      "fix": "想想看，人类还担心机器人会反叛他们呢。他们自己反目成仇，倒是干得挺漂亮的……",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_Tutorial_64",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 为「to skip {OBJECTIVES} in the {VAULT}」，并未限定目标类型；ZH 加上「每日」二字（跳过避难所里的每日{目标}），把可跳过的范围缩小为每日目标，属 EN 中不存在的信息。",
+      "fix": "您还能够使用{量子核子可乐}来跳过避难所里的{目标}，加速{打造}、{训练}和美发店{个性化}的进程。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_Tutorial_63_Xbox",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 第二句止于「...the {NUKA-COLA QUANTUM} Vault-Tec has provided.」，没有「到达现场」这一层内容；ZH 末尾自行补出「来极速到达现场」，是 EN 中不存在的冗余信息（且与本段首句「您可以立即到达{任务}地点」重复）。",
+      "fix": "用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}。",
+      "confidence": "medium"
+    }
+  ]
+}

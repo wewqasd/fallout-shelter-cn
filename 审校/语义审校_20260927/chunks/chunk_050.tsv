@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_RunThreeDogRun_Conversation_3_Team_1	Come to our Vault! Our radio workers will be happy to give up their easy jobs for a radio legend.	到我们的避难所来！我们的电台工作人员将很乐意用他们的轻松工作来交换一个电台界传说。
+QuestLoc_RunThreeDogRun_QuestLongDescription	All this time, Three Dog has been saving lives, helping Settlers evade the Horsemen's followers, but it's put him on Vault 144's hit list! His last broadcast has him on the run from Death cultists. We need to get to him before they do, and one of his pursuers might know the location of Death's cave!	在这段时间里，三狗一直在救人，帮助定居者躲避骑士的追随者，但也导致他被列入144号避难所的暗杀名单！他的最后一次广播让他被“死亡”的信徒追杀。我们必须在这些信徒之前找到他，其中一个追杀者可能知道“死亡”之穴的位置！
+QuestLoc_RunThreeDogRun_QuestName	Run, Three Dog, Run!	跑，三狗，快跑！
+QuestLoc_RunThreeDogRun_QuestObjective_1	Save Three Dog.	拯救三狗。
+QuestLoc_RunThreeDogRun_QuestObjective_2	Talk to the Weekly Exposition reporter.	与每周博览会记者交谈。
+QuestLoc_RunThreeDogRun_QuestObjective_3	Kill the Vault 144 Death cultists.	消灭144号避难所的“死亡”信徒。
+QuestLoc_RunThreeDogRun_QuestShortDescription	Save Three Dog from the Death cultists chasing him.	从追杀他的“死亡”信徒手中拯救三狗。
+QuestLoc_RunThreeDogRun_RaiderLine_1	We are Death's wake-up call!	我们是“死亡”的警钟！
+QuestLoc_RunThreeDogRun_RaiderLine_2	By the power of Article 23, Subsection e!	以第23条e款之权力！
+QuestLoc_RunThreeDogRun_RaiderLine_3	May Death wake up on the right side of the bed!	愿“死亡”在床的右边醒来！
+QuestLoc_RunThreeDogRun_RaiderLine_4	You'll never escape the claws of Death!	你永远无法逃脱“死亡”的魔爪！
+QuestLoc_RunnersinScoringPosition_Conversation_1_NPCStart_1	Warmer still... but not on fire yet!	已经有点热了，不过还不到开火的时候！
+QuestLoc_RunnersinScoringPosition_QuestLongDescription	Coach left a taunting message spray painted on the wall of the Lakeville Library! We're closing in! Time to search the ruins of Vault 789.	教练在莱克维尔图书馆的墙上喷了一条嘲讽的留言！我们快追上了！该去789号避难所的废墟搜一搜了。
+QuestLoc_RunnersinScoringPosition_QuestName	Runners in Scoring Position!	得分位置的跑步者！
+QuestLoc_RunnersinScoringPosition_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_RunnersinScoringPosition_QuestShortDescription	Chase after Coach in Vault 789.	在789号避难所追赶教练。
+QuestLoc_S2_QL2_Area51_QuestLineName	The day Area 51 stood still	51区停转之日
+QuestLoc_S2_QL2_Q1_Doc_CombatInit2	We've been waiting to see a doctor for days. You'll do nicely to pass the time!	我们已经等着看医生等了好几天了。正好拿你们打发时间！
+QuestLoc_S2_QL2_Q1_Doc_CombatInit3	I TOLD YOU I WON'T LET YOU TAKE MY ARMS!!!!!!	我告诉过你我不会让你拿走我的手臂！！！！！
+QuestLoc_S2_QL2_Q1_Doc_QuestLongDesc	Rumor has it Area 51 is packed with tech that could benefit our vault. It's bound to be heavily guarded: we better stock up on medical supplies.	据说51区里满是对我们避难所有价值的技术。那里肯定戒备森严：最好先备齐医疗物资。
+QuestLoc_S2_QL2_Q1_Doc_QuestName	Doctor, Doctor, Gimme the Goods	医生，医生，把好货给我
+QuestLoc_S2_QL2_Q1_Doc_QuestObjective1	“Convince” a doctor to hand over medical supplies.	“说服”一位医生交出医疗物资。
+QuestLoc_S2_QL2_Q1_Doc_QuestShortDesc	We need medical supplies before our raid on Area 51.	突袭51区前，我们需要医疗物资。
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1	Welcome to triage. 	欢迎来到分诊台。
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Answer1	Ah, then you're in luck: shoppers skip the line.	啊，那你们走运了：购物者可以插队。
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Answer2	Sure, honey! Make your way to the big rooms with padded walls and the staff will help you out.	当然，亲！去那边铺着软垫的大房间，工作人员会帮你的。
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Answer3	No one's died of old age waiting... yet.	还没人排队等到老死……目前没有。
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Choice1	Actually, we're here to shop!	其实，我们是来购物的！
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Choice2	This is a robbery!	这是抢劫！
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line1_Choice3	How long's the wait?	要等多久？
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line2	Might I interest you in ghoulification? Maybe a little bit of trepanation?	可以为您提供尸鬼化服务吗？也许来个小小的颅骨穿孔？
+QuestLoc_S2_QL2_Q1_Doc_Question1_Line3	Of course, we are always ready to oblige with an amputation.	当然，我们随时准备为您提供截肢服务。
+QuestLoc_S2_QL2_Q1_Doc_Question4	Here for an eye exam?	来做眼睛检查吗？
+QuestLoc_S2_QL2_Q1_Doc_Question4_Answer1	Oh! I am not a doctor. I fix eyebots. Thought it was obvious.	哦！我不是医生。我是修眼球机器人的。我还以为这很明显呢。
+QuestLoc_S2_QL2_Q1_Doc_Question4_Answer2	I fix robots. No bot, no service: move along.	我修机器人。没机器人就没服务：请走开。
+QuestLoc_S2_QL2_Q1_Doc_Question4_Choice1	If it comes with free stimpacks, sure!	如果顺带送治疗针我就来！
+QuestLoc_S2_QL2_Q1_Doc_Question4_Choice2	Oh! Ha, eyebots! I get it! Funny!	哦！哈哈，眼球机器人！我懂了！真有你的！
+QuestLoc_S2_QL2_Q1_Doc_Question5	You want medical supplies, I hear?	听说你要医疗物资？
+QuestLoc_S2_QL2_Q1_Doc_Question5_Answer1	Stealing from the sick? You are gonna feel so guilty about this… 	从病人那里偷东西？你会为此深感愧疚的……
+QuestLoc_S2_QL2_Q1_Doc_Question5_Answer2	We can spare a couple, but keep it quiet. If we gave them out every time...	我们可以匀出几根，但保密。要是每次都给……
+QuestLoc_S2_QL2_Q1_Doc_Question5_Choice1	Hand them over, or we'll send you to your morgue!	交出来，否则就把你们送进你们的太平间！
+QuestLoc_S2_QL2_Q1_Doc_Question5_Choice2	Please, good lady, we are in dire needs of stimpacks.	好心的夫人，求求您了，我们急需治疗针。
+QuestLoc_S2_QL2_Q2_Field_QuestLongDesc	Thanks to our contacts, we're confident we can convince the Brotherhood of Steel to sign off on gear we'll use to raid their own facilities. Ah! The irony!	有了联系人的帮助，我们有信心说服钢铁兄弟会签署一份申领表，让我们用他们自己的装备来进行突袭。啊！真是讽刺！
+QuestLoc_S2_QL2_Q2_Field_QuestName	Rad Field Trip	辐射野外实习
+QuestLoc_S2_QL2_Q2_Field_QuestObjective1	Get the requisition signed by the paladin.	让圣骑士在申领表上签字。
+QuestLoc_S2_QL2_Q2_Field_QuestShortDesc	Find the paladin on assignment and get them to sign a requisition form.	找到执行任务的圣骑士并让他签署申领表。
+QuestLoc_S2_QL2_Q2_Field_Question1_Answer1	You look like recruits, not the elites we sent for. Guess we can use you as a decoy.	你们看起来像新兵，不是我们要的精英。我想应该可以把你们当诱饵。
+QuestLoc_S2_QL2_Q2_Field_Question1_Answer2	So you're not here to help us? The bureaucrats will be the death of us.	所以你们不是来帮忙的？这些官僚迟早会害死我们。
+QuestLoc_S2_QL2_Q2_Field_Question1_Answer3	You're no reinforcement. Brothers, to arms!	你们不是增援。弟兄们，拿起武器！
+QuestLoc_S2_QL2_Q2_Field_Question1_Choice1	Err… yeah sure… we are the reinforcements.	呃……是的，我们就是增援……
+QuestLoc_S2_QL2_Q2_Field_Question1_Choice2	We're looking for the paladin in charge. We got paperwork.	我们在找你们负责的圣骑士，有份文件要签。
+QuestLoc_S2_QL2_Q2_Field_Question1_Choice3	You're half-dead already. We could mercy-kill you if you want.	你们已经半死了。如果你们想要，我们可以给你们一个痛快。
+QuestLoc_S2_QL2_Q2_Field_Question1_Line1	Son of a Molerat! The brass sure took their sweet time sending reinforcements.	鼹鼠崽子！上头的增援拖到现在才来，可真够磨蹭的。
+QuestLoc_S2_QL2_Q2_Field_Question1_Line2	But hey, at least you're here now.	不过，至少你们来了。
+QuestLoc_S2_QL2_Q2_Field_Question2	If you are here, you must've carved your way through the Radscorpions. Impressive!	你们能到这里，肯定一路杀穿了辐射蝎。厉害！
+QuestLoc_S2_QL2_Q2_Field_Question2_Answer1	Wait, what? You came all this way for a requisition form? I guess we owe you. Give it here.	等等，什么？你们大老远跑来就为了一张申领表？好吧，算我们欠你们。拿来。
+QuestLoc_S2_QL2_Q2_Field_Question2_Answer2	Ooooh, a sweepstake! I love those. Quick, let me sign the waiver! 	哦哦哦，抽奖活动！我最爱这个了。快，让我签免责声明！
+QuestLoc_S2_QL2_Q2_Field_Question2_Answer3	You're the uptight type, huh? Let me sign and get outta here.	你们是那种死板的人，是吧？行，我签，签完你们就走。
+QuestLoc_S2_QL2_Q2_Field_Question2_Choice1	Yep, you're free! Just sign the dotted line here… and initials here… and here…	没错，你自由了！只需在虚线上签名……这里签姓名首字母……还有这里……
+QuestLoc_S2_QL2_Q2_Field_Question2_Choice2	We're here to offer you the chance to win a million caps. You may already be a winner.	我们来为您提供赢取百万瓶盖的机会。您可能已经是赢家。
+QuestLoc_S2_QL2_Q2_Field_Question2_Choice3	Sir, we have an official equipment request for you to approve as per the chain of command.	长官，我们有一份官方设备申请，需要您依照指挥链批准。
+QuestLoc_S2_QL2_Q3_Req_QuestLongDesc	With requisition forms in hand, we're headed to the Brotherhood depot for top-tier gear. How hard can it be?	申领表在手，我们去兄弟会仓库领取一流装备。能有多难？
+QuestLoc_S2_QL2_Q3_Req_QuestName	Who's the BoS	谁是“老大”（BoS）
+QuestLoc_S2_QL2_Q3_Req_QuestObjective1	Acquire BoS gear	获取钢铁兄弟会装备。
+QuestLoc_S2_QL2_Q3_Req_QuestShortDesc	Acquire requisitioned Brotherhood of Steel gear	领取已申领的钢铁兄弟会装备
+QuestLoc_S2_QL2_Q3_Req_Question1	May we inquire about the reason for your visit? 	请问您此行的目的？
+QuestLoc_S2_QL2_Q3_Req_Question1_Answer1	Go meet the quartermaster B38. Up a floor, second left, then down, retrace your steps, up again... maybe.	去找军需官B38。上一层，左转第二个，然后下去，原路返回，再上去……也许。
+QuestLoc_S2_QL2_Q3_Req_Question1_Answer2	Hmm... It isn't on my list of valid reasons. I'll have to deny access using strong language and stronger weapons.	嗯……这不在我有效理由清单上。我得用强硬言辞和更强硬的武器拒绝入内。
+QuestLoc_S2_QL2_Q3_Req_Question1_Choice1	We're here to deliver this requisition form and pick up some gear.	我们来交申领表，然后领取装备。
+QuestLoc_S2_QL2_Q3_Req_Question1_Choice2	It's on a need-to-know basis.	这是机密。
+QuestLoc_S2_QL2_Q3_Req_Question2	You have a form for me?	你是来交表的吗？
+QuestLoc_S2_QL2_Q3_Req_Question2_Answer1	Oh! This is gear-related. I handle plushies. But hey, you look like you need a hug. Here's a teddy bear.	哦！这归装备口管，我管毛绒玩具。不过你看着挺需要个拥抱的——给，泰迪熊一只。
+QuestLoc_S2_QL2_Q3_Req_Question2_Choice1	Here you go.	给你。
+QuestLoc_S2_QL2_Q3_Req_Question3	You have a form for me?	你是来交表的吗？
+QuestLoc_S2_QL2_Q3_Req_Question3_Answer1	Are you daft? This is the food storage. Your form is no good here. Shoo! No soup for you!	你傻了吗？这里是食物储藏室。你的表在这没用。走开！不给汤！
+QuestLoc_S2_QL2_Q3_Req_Question3_Choice1	Here you go.	给你。
+QuestLoc_S2_QL2_Q3_Req_Question4	Have you seen my experimental Battle RadRoaches™?	你们见过我的实验性战斗辐射蟑螂™吗？
+QuestLoc_S2_QL2_Q3_Req_Question4_Answer1	Oh no! My poor babies! So missunderstood. Go. Go. Leave me to my grief, you monster!	天哪！我可怜的宝贝们！总是被误解。走！走！让我一个人哀悼吧，你这个怪物！
+QuestLoc_S2_QL2_Q3_Req_Question4_Answer2	Oh my! I'm just a humble researcher acting out of love. Please, please keep this quiet, yeah?	我的天！我只是个凭一腔热爱办事的小小研究员。拜托拜托，帮我保密，好吗？
+QuestLoc_S2_QL2_Q3_Req_Question4_Choice1	We may have squashed one or two on the way in.	我们进来的路上可能踩死了一两只。
+QuestLoc_S2_QL2_Q3_Req_Question4_Choice2	Bit careless of you letting them loose. Should we tell the commander?	让它们到处跑真粗心。要不要告诉指挥官？
+QuestLoc_S2_QL2_Q3_Req_Question5	Hey, visitors! Sit down and talk with me. Have you ever asked yourself: is being a scribe a good position?	嘿，访客！坐下聊聊。你有没有问过自己：当抄写员到底是不是个好差事？
+QuestLoc_S2_QL2_Q3_Req_Question5_Answer1	I understand how the constant pressure of time can lead the mind away from the satisfaction of indulging in... hey, where are you going?	我理解，时间的持续压迫会让人无法沉浸在……的满足之中……嘿，你们去哪儿？
+QuestLoc_S2_QL2_Q3_Req_Question5_Answer2	Being a scribe is first and foremost devoting oneself to the pursuit of knowledge! Scribes are the living memory... Oh, hey, you feel asleep there.	做抄写员首先是要全身心追求知识！抄写员是活着的记忆……哦，嘿，你在那里睡着了。
+QuestLoc_S2_QL2_Q3_Req_Question5_Choice1	Oh ho, I smell a ramble coming. Sorry lad, we're short on time.	哦呵，感觉要开讲了。不好意思小伙，我们时间不多。
+QuestLoc_S2_QL2_Q3_Req_Question5_Choice2	Sure, hit me with it!	好，说吧！
+QuestLoc_S2_QL2_Q3_Req_Question6	You have a form for me?	你是来交表的吗？
+QuestLoc_S2_QL2_Q3_Req_Question6_Answer1	A requisition, eh? Sorry, pal, we don't do requisition. But we do offer combat training! Get ready!	申领表，是吗？抱歉，伙计，我们不做申领。但我们提供战斗训练！准备好！
+QuestLoc_S2_QL2_Q3_Req_Question6_Choice1	Here you go.	给你。
+QuestLoc_S2_QL2_Q3_Req_Question7_Answer1	There, take this. Now leave us!	好，拿去。现在走人！
+QuestLoc_S2_QL2_Q3_Req_Question7_Answer2	There, take this. And this weapon comes with it. Now leave us!	好，拿去。还随甲附赠一把武器。现在走人！
+QuestLoc_S2_QL2_Q3_Req_Question7_Answer3	Here you go. Now leave us!	给你了。现在走人！
+QuestLoc_S2_QL2_Q3_Req_Question7_Choice1	I'd like weapons, please!	我想要武器！
+QuestLoc_S2_QL2_Q3_Req_Question7_Choice2	Wouldn't mind some nice power armor, for sure.	一套好的动力装甲肯定不差。
+QuestLoc_S2_QL2_Q3_Req_Question7_Choice3	Put a weapon in my hands and an armor on my shoulders, and we shall be on our way.	给我手里塞把武器，肩上配副甲，我们立马走人。
+QuestLoc_S2_QL2_Q3_Req_Question7_Line1	What's all this ruckus about? People are working here. Is that a form?	搞什么动静？大家都在工作呢。那是表格吗？
+QuestLoc_S2_QL2_Q3_Req_Question7_Line2	Let's get you sorted so we can get back to work, quietly.	赶紧把你这事办妥，大家好安静地回去干活。
+QuestLoc_S2_QL2_Q4_Roswell_CombatInit2	<Unintelligible language>	<无法理解的语言>
+QuestLoc_S2_QL2_Q4_Roswell_CombatInit3	<Unintelligible language>	<无法理解的语言>
+QuestLoc_S2_QL2_Q4_Roswell_CombatInit4	<Unintelligible language>	<无法理解的语言>
+QuestLoc_S2_QL2_Q4_Roswell_QuestLongDesc	With gear and meds ready, we are set for our heist. Something feels wrong, though. We might not be facing the enemy we expected!	装备和医疗物资就位，一切准备就绪。不过感觉有什么不对。我们面对的敌人可能不是预期的那个！
+QuestLoc_S2_QL2_Q4_Roswell_QuestName	All ends well in Roswell!	罗斯威尔皆大欢喜！
+QuestLoc_S2_QL2_Q4_Roswell_QuestObjective1	Acquire an Alien bot	获取一台外星机器人。
+QuestLoc_S2_QL2_Q4_Roswell_QuestObjective2	Acquire an Alien gun	获取一把外星枪。
+QuestLoc_S2_QL2_Q4_Roswell_QuestShortDesc	We're ready for the Area 51 heist. That alien tech is almost within reach.	我们准备好对51区展开突袭了。那些外星科技近在咫尺。
+QuestLoc_S2_QL2_Q4_Roswell_Question1	The base is overrun by unbeatable hostiles. Run while you still can!	基地被无法击败的敌人占领了。趁还来得及，快跑！
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Answer1	Hope you like getting probed! Adieu!	希望你喜欢被“探针伺候”！永别啦！
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Answer2	They're not of this world. I think they're here to reclaim their tech.	它们不属于这个世界。我想它们是来收回自己科技的。
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Answer3	I don't think the "We come in peace" routine will work, but hey, your call!	我看“我们为和平而来”那套是行不通了，但嘿，你说了算！
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Choice1	Beating the unbeatable is our specialty. Step aside.	击败无法击败的，正是我们的专长。让开。
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Choice2	We'll handle the threat! What can you tell us about it?	我们来处理威胁！你能告诉我们更多信息吗？
+QuestLoc_S2_QL2_Q4_Roswell_Question1_Choice3	We are here on... uh... official business. We'll negotiate our way through!	我们是来……呃……出公差的。我们打算全靠谈判混过去！
+QuestLoc_S2_QL3_Q2_Handy_CombatInit1	Trespassers! Time to teach these ruffians a lesson!	入侵者！该给这帮恶棍点教训了！
+QuestLoc_S2_QL3_Q2_Handy_QuestLongDesc	Despite our success, more rogue Securitrons swarm the Mojave region. The RobCo factory might hold answers.	尽管我们取得了成功，更多流氓保安机器人在莫哈维地区肆虐。罗伯科工厂或许能找到答案。
+QuestLoc_S2_QL3_Q2_Handy_QuestName	A Handy Secret	巧手先生的秘密
+QuestLoc_S2_QL3_Q2_Handy_QuestObjective1	Uncover the cause of the Securitrons' attacks.	查明保安机器人袭击事件的原因。
+QuestLoc_S2_QL3_Q2_Handy_QuestShortDesc	Search the RobCo factory for answers.	去罗伯科工厂搜寻答案。
+QuestLoc_S2_QL3_Q2_Handy_Question2	… error... autoexecution.bat not found…	……错误……找不到autoexecution.bat……
+QuestLoc_S2_QL3_Q2_Handy_Question2_Choice1	Lucky us, this one's disabled. Let's hack it and find out what it hides.	算我们走运，这台已经停用了。破解它，看看它藏着什么。
+QuestLoc_S2_QL3_Q2_Handy_Question2_Choice2	Sounds almost friendly. Let's gut it.	听起来挺友好。把它拆了。
+QuestLoc_S2_QL3_Q2_Handy_Question3	Ah! Visitors! I am speaking to you through this Eyebot. Please find me.	啊！有访客！我正通过这台眼球机器人跟你们说话。请来找我。
+QuestLoc_S2_QL3_Q2_Handy_Question3_Choice1	We'll find you. We need answers.	我们来找你。我们需要答案。
+QuestLoc_S2_QL3_Q2_Handy_Question4	Citizen, beware of hostile robots nearby.	市民，请注意附近有敌对机器人。
+QuestLoc_S2_QL3_Q2_Handy_Question4_Choice1	Duh! You think we got here without smashing a few?	废话！你以为我们是怎么到这里的？当然少不了砸几台。
+QuestLoc_S2_QL3_Q2_Handy_Question5	Oh my! You found me! Thank you for stopping the Securitrons. They were making a mess.	哦天哪！你们找到我了！谢谢你们阻止了那些保安机器人。它们把这里搅得一团糟。
+QuestLoc_S2_QL3_Q2_Handy_Question5_Answer1	Of course I do. Someone carefully removed their combat inhibitor gaskets… But who… and why?	我当然知道。有人仔细拆掉了它们的战斗抑制器垫圈……可是是谁……又是为了什么？
+QuestLoc_S2_QL3_Q2_Handy_Question5_Choice1	You look knowledgeable. Do you know why they'd go berserk?	你看起来很在行。你知道它们为什么会失控吗？
+QuestLoc_S2_QL3_Q3_Insider_QuestLongDesc	We heard a distress call from "sane" Securitrons holed up in a vault. Maybe they can shed light on the combat inhibitor issue.	我们接到了一群躲在避难所里的“神志清醒”的保安机器人发出的求救信号。也许它们能解释战斗抑制器的问题。
+QuestLoc_S2_QL3_Q3_Insider_QuestName	The Fifth Wheel	第五个轮子
+QuestLoc_S2_QL3_Q3_Insider_QuestObjective1	Meet with the Securitrons behind the distress call.	与发出求救信号的保安机器人会面。
+QuestLoc_S2_QL3_Q3_Insider_QuestShortDesc	Find out who removed the combat inhibitors of Securitrons.	找出拆除保安机器人战斗抑制器的幕后黑手。
+QuestLoc_S2_QL3_Q3_Insider_Question1	Burglers, huh? Meet deadly force!	窃贼，是吧？尝尝致命武力！
+QuestLoc_S2_QL3_Q3_Insider_Question1_Choice1	These ones are clearly berserk too. We need to go deeper.	这些明显也失控了。我们需要再往里走。
+QuestLoc_S2_QL3_Q3_Insider_Question2	You're wondering who I am? I am a Securitron!	你想知道我是谁？我是一台保安机器人！
+QuestLoc_S2_QL3_Q3_Insider_Question2_Answer1	Secret, secret, keep my secret!	秘密，秘密，保守秘密！
+QuestLoc_S2_QL3_Q3_Insider_Question2_Answer2	Oh, you're a killjoy! I'll find a place where I can be my true self.	哦，你真是个扫兴鬼！我要找个能做真正自己的地方。
+QuestLoc_S2_QL3_Q3_Insider_Question2_Choice1	Is it hiding under your skin?	它藏在你皮肤里？
+QuestLoc_S2_QL3_Q3_Insider_Question2_Choice2	Mind if we take a look at your circuits?	介意我们看看你的电路吗？
+QuestLoc_S2_QL3_Q3_Insider_Question3_Choice1	So, no gasket means no inhibitor… and more berserk bots. Yikes!	所以，没有垫圈就没有抑制器……就有更多失控的机器人。糟透了！
+QuestLoc_S2_QL3_Q3_Insider_Question3_Line1	Securitron spare parts all around. Lots of combat inhibitor gaskets…	到处都是保安机器人零件。有很多战斗抑制器垫圈……
+QuestLoc_S2_QL3_Q3_Insider_Question3_Line2	The gaskets look stripped of their lining. They're useless now.	这些垫圈的内衬都被剥掉了，毫无用处了。
+QuestLoc_S2_QL3_Q3_Insider_Question4	Help, citizen. You heard our distress call. Our combat inhibitors are compromised. Failure imminent!	市民，求你帮忙。你听到了我们的求救信号。我们的战斗抑制器已被破坏，随时会失效！
+QuestLoc_S2_QL3_Q3_Insider_Question4_Answer1	Warehouse… Near the Sarsaparilla bottling plant. Please… <error>… Criminals! Halt!	仓库……在沙士装瓶工厂附近。求……<故障>……罪犯！站住！
+QuestLoc_S2_QL3_Q3_Insider_Question4_Answer2	Go the Sarsaparilla bottling plant's warehouse. Ok. Now shutting down…	去沙士装瓶工厂的仓库。好的。现在关机……
+QuestLoc_S2_QL3_Q3_Insider_Question4_Choice1	Quick, tell me who did this to you!	快，告诉我是谁干的！
+QuestLoc_S2_QL3_Q3_Insider_Question4_Choice2	We'll shut you down and fix you. But we need to find who's behind this.	我们会关掉你然后修好你。但我们需要找到幕后黑手。
+QuestLoc_S2_QL3_Q4_Warehouse_CombatInit2	Death to non-robots!	非机器人该死！
+QuestLoc_S2_QL3_Q4_Warehouse_QuestLongDesc	The rogue Securitrons trace back to a warehouse near the Sarsaprilla bottling plant. Find whoever's responsible.	流氓保安机器人的源头追查到了沙士装瓶工厂附近的一座仓库。找出是谁干的。
+QuestLoc_S2_QL3_Q4_Warehouse_QuestName	All Parts of the Job	工作的方方面面
+QuestLoc_S2_QL3_Q4_Warehouse_QuestObjective1	Solve the mystery of the murderous Securitrons.	解开保安机器人杀人之谜。
+QuestLoc_S2_QL3_Q4_Warehouse_QuestShortDesc	Seach the warehouse where it all started.	搜查那座仓库——一切开始的地方。
+QuestLoc_S2_QL3_Q4_Warehouse_Question1	Hey, you! Can you help? Stupid robots blocking our way to our shift.	嘿，你！能帮我们吗？那些蠢机器人挡在我们上班路上。
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Answer1	Yeah, Securitrons. Do something.	对，保安机器人。去解决它们。
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Answer2	You're a funny one, are you? Go get smashed by the robots or something.	你挺幽默的，是吧？要不滚去让机器人把你砸了？
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Answer3	We're factory workers. Not sure you thought that through. But hey, pants-free work sounds good!	我们可是工厂工人——你这主意怕是没过脑子。不过嘿，不穿裤子上班听着不错！
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Choice1	Let me guess, Securitrons?	让我猜，是保安机器人？
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Choice2	Your boss sent me. You're fired!	你老板叫我来的。你被开除了！
+QuestLoc_S2_QL3_Q4_Warehouse_Question1_Choice3	There's a new working-from-home policy in effect!	新的居家办公政策正式生效！
+QuestLoc_S2_QL3_Q4_Warehouse_Question3	Maintenance Mode. Waiting for input… 	维护模式。等待输入……
+QuestLoc_S2_QL3_Q4_Warehouse_Question3_Choice1	These Securitrons are different. This confirms it. This place services Securitrons.	这些保安机器人和别的不一样——这就对上了，这地方就是修保安机器人的。
+QuestLoc_S2_QL3_Q4_Warehouse_Question4	You the buyers? We've got plenty of gold harvested from gaskets.	你是买家？我们有大量从垫圈中提炼的黄金。
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Answer1	How'd you know the gaskets come from Securitrons? Oh… shouldn't have said that.	你怎么知道垫圈是从保安机器人来的？哦……我说漏嘴了。
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Answer2	Securitrons don't need 'em. Why the third degree? You're no buyers!	保安机器人用不着它们。为什么这么多问题？你不是买家！
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Answer3	You're the worst kind of gold diggers!	你们是最坏的那种淘金者！
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Choice1	Tampering with bots causes killing sprees. You know that, right?	篡改机器人会导致杀人事件。你知道这个吗？
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Choice2	Where'd the gaskets come from? Spill it!	垫圈从哪里来的？说！
+QuestLoc_S2_QL3_Q4_Warehouse_Question4_Choice3	Actually, we're taking over your operation!	其实，我们是来接手你们的生意的！
+QuestLoc_S2_QL3_Q4_Warehouse_Question5	Hey! We're doing delicate work here. Where are the guards?	嘿！我们正干着精细活呢。警卫呢？都死哪儿去了？
+QuestLoc_S2_QL3_Q4_Warehouse_Question5_Answer1	What? We thought removing the gasket did nothing… What have we done? It's over.	什么？我们以为拆掉垫圈没什么影响……我们做了什么？完了。
+QuestLoc_S2_QL3_Q4_Warehouse_Question5_Answer2	Could this be a delayed reaction? Securitrons leave the warehouse just fine… We meant no harm.	这会有延迟反应吗？保安机器人离开仓库的时候还好好的……我们没有恶意。
+QuestLoc_S2_QL3_Q4_Warehouse_Question5_Choice1	The jig is up. We are here to stop you from turning Securitrons into murder machines.	游戏结束了。我们来阻止你们把保安机器人变成杀人机器。
+QuestLoc_S2_QL3_Q4_Warehouse_Question5_Choice2	You just ignored the “COMBAT INHIBITOR” part? You are killing people.	你刚才无视了“战斗抑制器”这部分？你这是在杀人。
+QuestLoc_S2_QL3_Q4_Warehouse_Question5_Choice3	Your tinkering with combat inhibitors turned the robots into killers. Here! Let me show you how that feels!	你们乱改战斗抑制器，把机器人变成了杀手。来！让你们也尝尝那滋味！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_CombatInit2	What do we have here? Living beings? Prepare to be dead ones!	哟，来的是什么？活物？那就准备好变成死物吧！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_CombatInit3	Scoundrels. Scoundrels everywhere.	无赖。到处都是无赖。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_QuestLongDesc	Reports confirm Securitrons have gone haywire, threatening our vault and NoVac.	报告确认保安机器人发狂了，威胁着我们的避难所和诺瓦克。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_QuestName	Insecuritrons	失守的保安机器人
+QuestLoc_S2_QL3_SecuritronsUncapped_1_QuestObjective1	Find the Securitron leader	找到保安机器人的头目。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_QuestShortDesc	Investigate the cause of the Securitrons' malfunction.	调查保安机器人失控的原因。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1	Oh man! Securitrons hit the building. It's a warzone in here!	哦天哪！保安机器人打进大楼了。这里面已经打成一片了！

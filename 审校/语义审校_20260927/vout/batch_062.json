@@ -1,0 +1,17 @@
+{"batch":62,"items":[
+{"key":"QuestLoc_DeathandDenial_Conversation_3_NPCStart_2","verdict":"confirm","severity":"S3","reason":"EN trophy wife（ES mujer florero、DE Trophäe）是刻画罗德的限定语，ZH 只作\"我的妻子\"，人物标签丢失。","final_fix":"我是罗德·墨菲，有钱但粗俗的实业家，这位是我的花瓶老婆普莉希拉。"},
+{"key":"QuestLoc_DeathclawDeeLite_2_QuestShortDesc","verdict":"confirm","severity":"S3","reason":"EN about a Deathclaw pesticide 被搬成\"交谈关于……的问题\"；\"交谈\"不能带\"关于\"宾语，应作\"谈谈……的事\"。","final_fix":"去和一位医生谈谈死爪驱虫剂的事。"},
+{"key":"QuestLoc_DibsattheRedRocket_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S3","reason":"EN requisitioning 应为\"征用\"，ZH 作\"回收\"偏回收利用；\"在这个位置发现的\"长定语直搬，机翻腔。","final_fix":"钢铁兄弟会正在征用此地发现的所有科技物品。"},
+{"key":"QuestLoc_DibsattheRedRocket_Conversation_1_Team_1","verdict":"confirm","severity":"S3","reason":"EN I think I'll just stay 的 just 未译，\"留下来带走我想要的\"两动词无停顿，\"我想要的\"缺中心语。","final_fix":"不，我打算留下来，拿走我想要的东西。"},
+{"key":"QuestLoc_DibsattheRedRocket_Conversation_1_Team_3","verdict":"confirm","severity":"S3","reason":"EN share anything here 讨的是战利品，ZH\"在这里分享什么吗\"抽象化且语序直搬，口语应说\"分点东西\"。","final_fix":"拜托，你们就不能分我点东西吗？"},
+{"key":"QuestLoc_DivideandConquer_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S3","reason":"EN you 在 ES tenéis、DE ihr、RU вы 均为复数，ZH\"你必须……你们的\"混用；同场 NPCStart_1/3 用\"你们\"。","final_fix":"想继续往前走，就得先证明一下你们的数学水平。"},
+{"key":"QuestLoc_DogsofWar_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"EN the other Horsemen（ES los otros、RU Другие）的 other 未译，切断与\"饥荒\"\"瘟疫\"的同组关系。","final_fix":"“饥荒”和“瘟疫”就在那里，无论他们是谁，追随者都大有人在。“战争”和“死亡”则是另外两位臭名昭著的“末日骑士”。他们也在废土肆虐吗？如果有人知道，那一定是银河新闻电台的三狗。我们去跟他谈谈。"},
+{"key":"QuestLoc_DuoofDestructionAlphaDeathclaws_QuestLongDescription","verdict":"confirm_fix_better","severity":"S3","reason":"EN big guns 译成\"大家伙（枪）\"，译注进了正文；\"当做他们的家\"用\"他们\"指死爪，应作\"自己的家\"。","final_fix":"两只领头死爪决定把旧的格罗顿仓库当成自己的家。太吓人了！是时候拿出大杀器了！"},
+{"key":"QuestLoc_DuoofDestructionGlowingRadscorpions_Conversation_1_NPCStart_1","verdict":"confirm","severity":"S3","reason":"EN 同句 you 指同一对象，ZH 前\"你\"后\"你们\"；FR vous、RU вы 为复数，句内人称应统一。","final_fix":"谢天谢地你们在这里！我们可不是这些硬壳怪物的对手！能帮我们消灭它们吗？求求你们了！"},
+{"key":"QuestLoc_ENC_QL1_LoveOfGold_2_Room1_Question_Line2","verdict":"confirm","severity":"S3","reason":"EN intrusive training regimen：项目内\"敬请\"只接\"敬请收听\"类邀约，不接\"享受\"；\"侵入式\"形容课程应用\"灌输式\"。","final_fix":"好好享受我们独家的灌输式训练课程吧，内容全部取自最棒的战前训练视频。"},
+{"key":"QuestLoc_ENC_QL1_LoveOfGold_2_Room4_Question_Line1_Answer0","verdict":"confirm","severity":"S3","reason":"EN Scallywags!（FR Vermines、DE Strolche）是斥责入侵者的骂语，ZH\"小坏蛋\"带亲昵/逗弄色彩，敌意被冲淡。","final_fix":"小毛贼！不！离我们珍贵的数据库远点！"},
+{"key":"QuestLoc_ENC_QL1_LoveOfGold_4_QuestLongDesc","verdict":"confirm","severity":"S3","reason":"EN active base 形容设施应为\"还在运转\"，\"活跃\"用于人或气氛；\"那可怕计划\"缺量词且 whatever 未译。","final_fix":"我们发现了一座还在运转的英克雷基地！咱们主动打上门去，别等他们把那个可怕的计划完成。"},
+{"key":"QuestLoc_ENC_QL1_LoveOfGold_4_Room1_Question_Line1_Answer0","verdict":"confirm","severity":"S3","reason":"EN has no meetings 是接待机器人的官腔\"没有会面安排\"，ZH\"没有档期\"属演艺圈排期用语，语域错位。","final_fix":"上校[已删改]目前没有会面安排。请到死后再来找他。"},
+{"key":"QuestLoc_ENC_QL1_LoveOfGold_4_Room2_Question_Line1_Answer1","verdict":"reject","severity":"S3","reason":"EN Stop making me confused 对译\"别让我困惑了\"：让＋我＋困惑 与\"你让我困惑\"同构，中文成立，属风格偏好。","final_fix":""},
+{"key":"QuestLoc_ENC_QL2_Defective_3_Room3_Question_Line1_Choice3","verdict":"confirm","severity":"S3","reason":"EN the one you're having 的 the one 指\"这场辩论\"，ZH\"正在进行的这样\"缺中心语，是半截话。","final_fix":"关键在于健康的辩论，不动用暴力——就像你们现在这样。"}
+]}

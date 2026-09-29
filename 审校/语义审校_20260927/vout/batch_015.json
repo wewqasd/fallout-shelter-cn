@@ -1,0 +1,110 @@
+{
+  "batch": 15,
+  "items": [
+    {
+      "key": "QuestLoc_CabinFever_Conversation_1_NPCStart_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "Good thing＝幸好，非句首「好事情」；are up＝已开启，非「起作用了」，与下句 working 撞义。",
+      "final_fix": "幸好我们的实验隐形场开着。"
+    },
+    {
+      "key": "QuestLoc_CantStopTheSignal_Conversation_1_NPCStart_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "an army of Radroaches 中心语是 army（ES ejército），ZH 颠倒为「一个军队的辐射蟑螂」，量词语序皆错。",
+      "final_fix": "我本来能有一整支辐射蟑螂大军听我差遣。"
+    },
+    {
+      "key": "QuestLoc_CheesePlease_QuestLongDescription",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "made it back 的 it 不是宾语，各语言同（ES regresarais、FR de retour），ZH 多出「把它」这个宾语。",
+      "final_fix": "厨师又高兴又惊讶——你居然完好无损地回来了！他现在要的是加工奶酪，也就是“灰金”，这种神奇食物能经受住时间和核战争的考验。老奶酪厂里可能还剩下一些。"
+    },
+    {
+      "key": "QuestLoc_CleanUpOnAisleFive_RaiderLine_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "clean up on aisle five 是超市广播「通道要打扫」（ES Limpieza、DE Aufräumteam），ZH「清空」是腾空。",
+      "final_fix": "是时候大干一场了。5号通道需要清理！"
+    },
+    {
+      "key": "QuestLoc_CollateralMurder_Conversation_1_NPCStart_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "all that's left＝就剩我一个（ES el último、FR il ne reste que moi），ZH 改成「之一」。",
+      "final_fix": "我是唯一活下来的人了。这大概就是和暴徒还有小报记者作对的下场。"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_1_NPCEnd_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "unsophisticated＝口味不讲究（IT di bocca buona、RU не изысканный），ZH「单纯的味蕾」褒贬反了。",
+      "final_fix": "我们的口味可没那么讲究！"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_2_NPCEnd_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "*before* 从句无主句承接成悬空状语，you know 硬搬成「你知道」，it 又被扩成「一切」。",
+      "final_fix": "是啊，我早就明白了——在你过度解释之前就明白了。"
+    },
+    {
+      "key": "QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCEnd_1",
+      "verdict": "confirm_fix_better",
+      "severity": "S1",
+      "reason": "unworthy 指说话人自己（ES nuestra indignidad），ZH 按到玩家头上、因果反；fix「传不进来」丢了 be heard。",
+      "final_fix": "我们喊“我们不配”的动静太大，你们的谎言根本没人听得见！"
+    },
+    {
+      "key": "QuestLoc_CrossingPaths_Conversation_1_NPCEnd_3",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "You could have fooled me＝我看不出来（ES Nadie lo diría），非「你本来可以骗过我」。",
+      "final_fix": "真看不出来。不过，至少让我为你们的辛苦做点补偿吧。"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_2_NPCStart_1",
+      "verdict": "confirm",
+      "severity": "S3",
+      "reason": "you're here 是当面招呼「你来了」，ZH「你在这里」只陈述位置，was beginning to worry 也压平了。",
+      "final_fix": "你终于来了，我都开始担心了。"
+    },
+    {
+      "key": "QuestLoc_DaysGoneBye_Conversation_1_NPCEnd_1",
+      "verdict": "confirm_fix_better",
+      "severity": "S2",
+      "reason": "from the old costume factory 是鬼服来源，ZH 挂到「吓跑」上读成从厂里赶人；fix 的「鬼怪服装」也非项目术语（鬼服）。",
+      "final_fix": "嗯，也许你们可以从附近的旧服装厂弄些鬼服，穿上把他们吓跑！"
+    },
+    {
+      "key": "QuestLoc_DearthOfClaws_QuestLongDescription",
+      "verdict": "confirm_fix_better",
+      "severity": "S2",
+      "reason": "getting himself eaten＝会被吃掉（ES se lo coman、DE gefressen wird），ZH「自讨苦吃」丢了死爪吃人这层。",
+      "final_fix": "我们的几个采集者最近和一个旅行者聊天，他说他正在该地区寻找死爪聚集地，还计划在那里进行“社会实验”。他们担心他不过是在绕远路把自己送进死爪嘴里。去附近这个死爪经常出没的地方，去看看能不能救救这个可怜的家伙，别让他自寻死路。"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_2_NPCStart_1",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN 首句 I say, we were beginning to worry!（ES/DE/RU 皆译出）在 ZH 整句消失，只剩自我介绍。",
+      "final_fix": "我说，我们还开始为您担心了呢！我是雷金纳德，首席管家。"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_2_Team_2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "Not so fast 是打断语「且慢／别急」（ES No tan deprisa），ZH「没有那么快」无指代对象。",
+      "final_fix": "别急。谋杀案发生的那天晚上，你在哪里？"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_3_NPCEnd_2",
+      "verdict": "confirm",
+      "severity": "S1",
+      "reason": "承前省略的主语是说话人自己（DE war ich、FR j'essayais、RU я пытался），ZH 补出「他」推给第三方。",
+      "final_fix": "很巧的是，我当时正在琢磨怎么巧妙地谋杀皮博迪先生。"
+    }
+  ]
+}

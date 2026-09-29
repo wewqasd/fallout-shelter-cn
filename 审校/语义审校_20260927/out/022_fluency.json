@@ -1,0 +1,143 @@
+{
+  "chunk": "022",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_DeathRevealed_Conversation_2_NPCStart_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "Keep fighting the Good Fight 是固定习语，指“继续为正义而战、继续坚持发声”，直译成“继续打好仗”变成了“把仗打好”，成了对战斗力的表扬，反而丢掉了“正义之战”这层意思；三狗是电台主播，这句是对他坚持广播的致敬。",
+      "fix": "继续为正义而战，三狗。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathRevealed_Conversation_3_NPCStart_2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "when the quota is met 被逐字搬成“当配额满足时”，中文里“满足”不能这样不及物地搭在“配额”后面（应为配额凑够/完成）；同类文本在 chunk_049 译作“名额快满了”，此处读起来最别扭。",
+      "fix": "当配额凑够时，“死亡”就会苏醒。手册里都写着呢。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathRevealed_Conversation_3_NPCStart_3",
+      "severity": "S1",
+      "type": "指代",
+      "problem": "英文 to help meet that quota 里凑的是“死亡”需要的配额（上一条 NPCStart_2 刚说配额满足时“死亡”就会苏醒），中文却写成“帮助你达到这个配额”，把配额安到玩家头上，等于告诉玩家自己欠着一个要凑的配额，信息是错的。",
+      "fix": "所以我们今天让你们流血不是出于恶意，而是为了凑够那个配额。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathRevealed_QuestLongDescription",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "整段任务描述被砍掉大半：开头的 In Vault 672（时间地点）、the mysterious fourth Horseman（神秘的第四骑士这一关键设定）、As promised, their Overseer contacted us and set up a meeting（会面的来龙去脉）以及结尾 she doesn't want to reveal the location of her Vault, so we'll be joining her in an abandoned building（会面地点在废弃建筑）全都不见，只剩一句“她会把她知道的一切告诉我们！”，而“她”没有前指对象，玩家不知道“她”是谁。",
+      "fix": "在672号避难所，我们遇到了来自144号避难所、熟悉“死亡”的居民——那位神秘的第四骑士。如约，他们的监督者联系了我们，安排了这次会面，她会把知道的一切都告诉我们！但她不愿透露自己避难所的位置，所以我们会在一栋废弃建筑里与她会合……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_2_Team_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "The game is afoot 是福尔摩斯式的习语，意思是“有戏了/猎物出洞了”，译成“游戏正在进行中”让玩家不知道指哪场游戏；Let's proceed! 又硬加成“让我们继续”，是英语语序。",
+      "fix": "好戏开场了！我们继续吧！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_2_Team_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Not so fast. 是“别急/慢着”，逐字译成“没有那么快”后读起来像在评价速度，侦探这句抢白当场变成一句没头没脑的话。",
+      "fix": "别急。谋杀案发生的那天晚上，你在哪儿？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_3_NPCEnd_2",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "英文这半句承前省略的主语就是说话人自己（回答“皮博迪被杀那晚你在干什么”），中文补出的“他”把供述推给第三方，且与同组 NPCEnd_1 的“我们”口径不一致，玩家会以为在说另一个人在策划谋杀。",
+      "fix": "很巧的是，我当时正在琢磨怎么巧妙地谋杀皮博迪先生。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_4_NPCEnd_1",
+      "severity": "S1",
+      "type": "指代",
+      "problem": "上文 NPCStart_4 说“他（皮博迪）毁了她全家”，玩家问的也是“他怎么毁了她家”，所以英文 Got her son addicted… then sucked him dry 省略的主语是皮博迪；中文写成“她让儿子迷上了剪刀石头布……让他一败涂地”，把加害者换成了沃辛顿夫人本人，凶手动机线上的关键人物关系被搞反。",
+      "fix": "是皮博迪让夫人的儿子迷上了剪刀石头布，然后每次出石头，把钱全赢光了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_4_NPCEnd_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "英文主语是侍女阿加莎：（我当时在）抢救沃辛顿夫人，因为她想咬一口蓝莓烤饼；中文“沃辛顿夫人试图咬一口蓝莓烤饼后苏醒过来”把主语让给了夫人、resuscitating 变成“苏醒过来”，这句本来是侍女的不在场证明，现在既不回答“你在做什么”，也看不出谁在救谁。",
+      "fix": "当时我正在抢救沃辛顿夫人，她想咬一口蓝莓烤饼。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_6_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "violent rampage 是“发狂行凶、大开杀戒”，译成“暴跳如雷”只剩发脾气，把行凶写成了生气，与人物的精神病设定不符，也和同一角色其它台词里同源的 rampage 译文（NPCStart_3 作“暴力的、血腥的暴行”）自相矛盾。",
+      "fix": "只有在我发狂行凶的时候，所以……大概每隔一周？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_6_NPCEnd_4",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "“我将记住这一点，下一次我将进行暴力的、血腥的暴行”是逐字机翻：两个“我将”叠用，“进行……暴行”是英语动宾硬搬，而且“暴力的”修饰“暴行”本身语义重复；这句黑色幽默的随口一答被写成了书面报告腔。",
+      "fix": "我会记住的，等我下次发狂杀人的时候。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathandDenial_Conversation_7_NPCEnd_3",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "Here, 是递东西时的“来/拿着”，直译成“这里”变成了地点状语，玩家会读成“在这里”，不知道东西在哪儿；“would have wanted you to have this”译成“想让你拿到这个”也偏硬。",
+      "fix": "我想一切都说通了。来，皮博迪先生会希望你收下这个。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathclawDeeLite_2_QuestShortDesc",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "“和一位医生交谈关于死爪驱虫剂的问题”是 talk to sb about sth 的语序直搬，中文“交谈”后面直接挂“关于……的问题”不成立，应为“跟医生谈谈……的事”。",
+      "fix": "去和一位医生谈谈死爪驱虫剂的事。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathclawDeeLite_2_Question2_2",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "“有什么……我能帮你？”照英文 What can I do for you 的语序排，疑问词在句首、结尾却落在“帮你”，成了读不顺的病句；另外前句用“你”指整队人，与上文“你不是掠夺者”同一处的单复数也不统一。",
+      "fix": "哦，你们不是掠夺者。嗯……有什么我能帮上忙的吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DeathclawDeeLite_2_Question2_Answer2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Oh, dear. 是表示担忧的感叹词（哎呀/天哪），不是称呼对象，译成“哦，亲爱的”会被读成医生管玩家叫“亲爱的”，紧接“听起来很严重”非常滑稽，语义也跑偏了。",
+      "fix": "哎呀。听起来很严重。你需要杀掉头头，然后用这种毒药喷在它们的蛋上。祝你好运！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathclawDeeLite_3_Question1_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "英文 for the sin of desiring a less violent lifestyle for my people 说的是他自己的“罪”就是希望族人少一些暴力；中文“为我同族的罪愆受罚”把罪过安到了同族头上，且“因为向往和平生活……为我同族的罪愆受罚”三个分句顺次罗列，因果关系读起来是断的。",
+      "fix": "我自愿留在这里当囚犯，我的罪过是希望我的族人过得不那么暴力。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DeathclawDeeLite_3_Question1_Choice3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "英文是 (We're) dealing with pests, and you're one of them!，中文保留了悬空的“对付害虫的”，读成“……的那个人，你就是其中之一”，主语残缺使这句从“我们在对付害虫”变成了对玩家身份的判断，意思读歪。",
+      "fix": "我们是在对付害虫，而你就是其中之一！",
+      "confidence": "high"
+    }
+  ]
+}

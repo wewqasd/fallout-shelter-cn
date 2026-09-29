@@ -1,0 +1,110 @@
+{
+ "batch": 79,
+ "items": [
+  {
+   "key": "QuestLoc_TheSpiritofTaking_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Pet Carrier 在 chunk_015/063/073 均定译为「宠物笼子」，此处「宠物盒子」让玩家对不上道具名。",
+   "final_fix": "不幸的是，一些掠夺者跳了出来，拿走了我的宠物笼子。"
+  },
+  {
+   "key": "QuestLoc_TheSpiritofTaking_Conversation_2_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "before I change my mind；「趁我改变主意之前」是汉语常见时间短语（趁天黑之前），语义无误，非杂糅病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_TheSpiritofTaking_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Well, well 是玩味招呼语而非笑声，「哈，哈，哈」把语气变成傻笑；wandered in 也未译出。",
+   "final_fix": "哟，哟，看看是谁溜达进来了。"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "salvage 是回收/打捞，非「救援」；同任务 QuestLongDescription 与 ShortDescription 均作「回收队」，此处自相矛盾。",
+   "final_fix": "寻找回收队。"
+  },
+  {
+   "key": "QuestLoc_TheToweringIlForno_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Certain death 是必死无疑，「确定的死亡」为逐字直译的病句；Outfits 按项目约定可作「装备」。",
+   "final_fix": "装备？必死无疑？无价的破烂？"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "never ceases=总是、uncanny=不可思议均漏译；celebrate it 的 it（死里逃生）在「来庆祝」后落空。",
+   "final_fix": "大厨对你那不可思议的死里逃生本领总是惊叹不已，他想用一份辐射蝎蛋卷来庆祝一下。923号避难所最近被这些家伙侵占了，不妨就从那里开始吧。"
+  },
+  {
+   "key": "QuestLoc_ThrowMeSomePepper_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "apartment complex 是公寓楼/小区，「复式公寓」给原文加上 duplex（跃层）这层不存在的信息。",
+   "final_fix": "一些掠夺者占领了一幢旧的公寓大楼。也许这些混蛋们知道教练这个混蛋在哪儿。问问也无妨！"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "You had it cumin 谐 You had it coming=你活该/自找，ZH「你得了」把这层意思整个丢掉，只剩香料名。",
+   "final_fix": "你这是自找的，小茴香。"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "No cayenne do 谐 No can do=办不到，ZH「不要吃辣椒」把拒绝改成饮食告诫，句意完全变了。",
+   "final_fix": "这可办不到，老兄！"
+  },
+  {
+   "key": "QuestLoc_ToySoldiers_Conversation_1_NPCEnd_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Too bad 是挖苦（可惜），「抱歉」成道歉且缺停顿；fix 把定名「海神能源办公室」改作「办公楼」，与全库 6 处不一致。",
+   "final_fix": "幸存者逃往了海神能源办公室。可惜你不会这么走运了！"
+  },
+  {
+   "key": "QuestLoc_TruthAmongtheAshes_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "epic=史诗般的/了不起的，译「华丽」换掉了词义，日记的随口转述因此变得莫名其妙。",
+   "final_fix": "她满不在乎。说什么要去干一番史诗般的冒险。那就随她吧。"
+  },
+  {
+   "key": "QuestLoc_UndercoverOperations_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "might be infected 指狂尸鬼自己被感染，「会传染」把方向反了，也与下句「叫医护」接不上。",
+   "final_fix": "你以为狂尸鬼是染上病了？我们会叫医护过来。现在去吧！"
+  },
+  {
+   "key": "QuestLoc_UndercoverOperations_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "cut the head off 是打掉首脑，「斩断这次袭击」搭配不成立且丢掉「头」，与下句「找领头的」脱节。",
+   "final_fix": "但我们得靠你们下去，把这次袭击的头目收拾掉。"
+  },
+  {
+   "key": "QuestLoc_UninvitedGuests_Conversation_1_NPCEnd_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "can always 表「总还有/退一步」，「一直都可以把居民放在菜单里」仍保住这句调侃威胁，仅语感差异。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_Vault199_QuestLongDescription",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Bigsby 是狗（Vault199 对话 a dog named Bigsby），全库用「它」，fix 的「他/抓住」不妥；「帮你问问」多出添加。",
+   "final_fix": "掠夺者有提到比格斯比可能逃到了199号避难所。我应该去四处打听一下。但愿居民们收留了它。"
+  }
+ ]
+}

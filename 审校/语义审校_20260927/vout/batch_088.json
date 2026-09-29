@@ -1,0 +1,96 @@
+{
+ "batch": 88,
+ "items": [
+  {
+   "key": "Weapon_Description_PlasmaPistol_Focused",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "just＝刚刚（IT appena、DE gerade），非「只是」；Slaver＝那个奴隶贩子，本库8处均作奴隶贩子，此处泛化成「敌人」",
+   "final_fix": "没错，你刚把那个奴隶贩子变成了一滩绿水。干得漂亮！"
+  },
+  {
+   "key": "Weapon_Name_FireHydrantBat",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 为 Fire Hydrant Bat，ZH 只剩「消防栓」丢掉 Bat；同表 Baseball Bat 作「棒球棍」保留类别词",
+   "final_fix": "消防栓球棒"
+  },
+  {
+   "key": "Weapon_Name_GatlingLaser_Tuned",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Tuned＝调校/调谐（ES tuneada、RU Настроенный），非「调试」＝debug；同表同修饰语已作「调谐激光手枪」",
+   "final_fix": "调谐型加特林激光枪"
+  },
+  {
+   "key": "Weapon_Name_InstituteRifle_Long",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Long＝加长/长管（DE Langgewehr、RU Длинный карабин），「长款」是服装版型用语，修饰枪械搭配不当",
+   "final_fix": "加长型学院步枪"
+  },
+  {
+   "key": "Weapon_Name_LaserRifle_Tuned",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Tuned Laser Rifle 的 Tuned＝调校/调谐，「调试」＝debug，会被读成未定型测试型号；与「调谐激光手枪」自相矛盾",
+   "final_fix": "调谐型激光步枪"
+  },
+  {
+   "key": "Weapon_Name_LaserRifle_WazerWifle",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 仅 Wazer Wifle，ZH 多出 EN 没有的「经典」；同表另19个唯一武器名皆「外号+类型」无形容词，易误读为特别版",
+   "final_fix": "“瓦仄外辐”激光步枪"
+  },
+  {
+   "key": "Weapon_Name_PipeRifle_Long",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Long＝加长/长管（ES larga、IT lungo），「长款」是服装箱包版型说法，与枪械搭配不当",
+   "final_fix": "加长型管道步枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaPistol_Tuned",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Tuned Plasma Pistol 的 Tuned＝调校/调谐（DE Getunte、RU Настроенный），译「调试」＝debug/试运行，非原意",
+   "final_fix": "调谐型等离子手枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaRifle_Tuned",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Tuned Plasma Rifle 的 Tuned＝调校/调谐而非「调试」；同表 LaserPistol_Tuned「调谐激光手枪」为同一修饰语，应统一",
+   "final_fix": "调谐型等离子步枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaThrower",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "PlasmaThrower 与 PlasmaCaster 现译完全同名「等离子发射器」，玩家无法区分；同表 Flamer＝火焰喷射器，thrower 宜作喷射器",
+   "final_fix": "等离子喷射器"
+  },
+  {
+   "key": "Weapon_Name_PlasmaThrower_Agitated",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Agitated＝被激发/搅动（ES con agitador、DE Agitierter），非「激活」；并须随 PlasmaThrower 统一为「喷射器」",
+   "final_fix": "激发型等离子喷射器"
+  },
+  {
+   "key": "Windows_Service_Error",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "persists＝持续存在，「问题继续」中文不搭配（FR persiste、DE weiterhin besteht）；其余「出现了错误/错误代码{0}」无误",
+   "final_fix": "出现了错误，如果问题仍然存在，请联系客服。\n\n错误代码{0}"
+  },
+  {
+   "key": "localSaveConfirmMessage",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「确定想要」搭配生硬、缺疑问句骨架；平行条目 CloudSaveConfirmMessage 同句已作「您确定要保留云存档吗？」",
+   "final_fix": "您确定要保留本地存档吗？"
+  }
+ ]
+}

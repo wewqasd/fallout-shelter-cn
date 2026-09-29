@@ -1,0 +1,110 @@
+{
+ "batch": 58,
+ "items": [
+  {
+   "key": "PrivacyPolicy_OptOut",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Targeted Ads 应作「定向广告」（同文件 targeted marketing 作「定向营销」）；初审 fix 漏掉 [212F21] 标色。",
+   "final_fix": "[212F21]退出定向广告"
+  },
+  {
+   "key": "QUEST_1_ANWSER_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "scum 是骂人话（ES sucios、DE Abschaum），「团伙」丢掉辱骂义；本语料 raider scum 均译「掠夺者人渣」。",
+   "final_fix": "我们为什么要相信掠夺者人渣？"
+  },
+  {
+   "key": "QUEST_1_FOLLOWUP_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "rash 是鲁莽冲动（ES impulsivo、DE überstürzen），「着急」是焦躁义，与正要交东西息事的情境不符。",
+   "final_fix": "好吧，好吧，没必要这么冲动。来，给你。"
+  },
+  {
+   "key": "QuestLoc_AGatheringofGhouls_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "gathering 指越聚越多的一群，「团伙」带犯罪组织义；grows any larger 指数量变多，「扩张太快」误作地盘扩张。",
+   "final_fix": "可怕的发光种在离避难所太近的地方安了家，还把尸鬼像飞蛾扑火一样吸引过来。趁这群尸鬼还没聚得更多，赶紧灭掉这座耀眼的“灯塔”！"
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_Conversation_1_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「请随意」单独用即「随你的便」，与 Suit yourself 的撒手义一致；本语料另有「请自便」，仅礼貌度差异。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_Conversation_2_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "barrel 是枪管，量词应为「根」；枪管不「装」东西，「这把枪管里装的啥」两处搭配错。",
+   "final_fix": "当然，不过也许你该先往这根枪管里看一眼？"
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "big enough for the both of us 是「有你没我」的套话，该用「容不下」；「装不下」是装载容量义，字面读成洞穴装不下两个人。",
+   "final_fix": "这个洞穴容不下我们俩！"
+  },
+  {
+   "key": "QuestLoc_AMaptotheStars_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "did everything we could 地道说法是「已经尽力了」，「做了一切我们能做的」是逐字硬译。",
+   "final_fix": "我们已经尽力了，可他们还是找到了我们，还带来了一大帮人。"
+  },
+  {
+   "key": "QuestLoc_APaleImitation_Conversation_3_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "work out 是「成事/行得通」（ES funcionaría），非「起作用」；「在这里所谓的避难所」地点状语插进定语中间拗口。",
+   "final_fix": "嘿，一位真正的避难所居民！呃，我本以为在这地方搞的这套“避难所”能成事。"
+  },
+  {
+   "key": "QuestLoc_ASettlerNeedsYourHelp_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Find 是祈使句，同源 QuestObjective_1 已作「找到」；「找到了」是完成态，任务卡上前后自相矛盾。",
+   "final_fix": "在肯德尔医院找到普雷斯顿·加维。"
+  },
+  {
+   "key": "QuestLoc_ASpecialBrand_Conversation_2_NPCStart_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Your boy 是口语称呼（本语料另处作「你们要找的人」），「你们的孩子」变亲属称谓；「你们家那小子」仍带家人义。",
+   "final_fix": "你们那个杰克今早醒来的时候，看上去可不怎么高兴。"
+  },
+  {
+   "key": "QuestLoc_AThirstforAdventure_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "awesome guy 指人很棒，「大牛」是当下互联网夸技术高手的词，既偏移词义又与废土语感不符。",
+   "final_fix": "阿蒂，阿蒂·摩尔。探险家、拾荒者，一个各方面都挺了不起的家伙。"
+  },
+  {
+   "key": "QuestLoc_AWinningSeason_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "note 是字条（ES nota、DE Notiz，后续台词正是字条内容），「记号」指标记，物件译错；本语料 note 均作「字条/便条」。",
+   "final_fix": "地上又有一张字条！让我猜猜：是教练写的……"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "through with you 是「收拾你」，译「等这次结束了」丢了威胁对象；「重新建立一个新的」语义自相矛盾。",
+   "final_fix": "等我收拾完你们，我就去拉一帮新人，建一个更好的小队！"
+  },
+  {
+   "key": "QuestLoc_AgainstTheOdds_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "you're dead 是威胁（ES vas a morir、RU тебе не жить），「你已经死了」成既成事实；本语料同句多作「你死定了」。",
+   "final_fix": "也许是“华丽55”吧……不管怎么样，你死定了！"
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+key	EN	ZH
+NukaQuantum_Shop_Description_Case	Contains 32 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了32瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_Description_Cooler	Contains 70 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了70瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_Description_Crate	Contains 400 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了400瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_Description_Fridge	Contains 150 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了150瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_Description_SixPack	Contains 6 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了6瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_Description_Truck	Contains 1000 Nuka-Cola Quantum which can be used to speed things up in the Vault and the Wasteland.	包含了1000瓶量子核子可乐，可以加速避难所和废土上的事件进程。
+NukaQuantum_Shop_RedeemTitle1	Six Pack of Nuka-Cola Quantum	六瓶装量子核子可乐
+NukaQuantum_Shop_RedeemTitle2	Case of Nuka-Cola Quantum	一小箱量子核子可乐
+NukaQuantum_Shop_RedeemTitle3	Cooler of Nuka-Cola Quantum	一冰柜量子核子可乐
+NukaQuantum_Shop_RedeemTitle4	Refrigerator of Nuka-Cola Quantum	一冰箱量子核子可乐
+NukaQuantum_Shop_RedeemTitle5	Crate of Nuka-Cola Quantum	一货箱量子核子可乐
+NukaQuantum_Shop_RedeemTitle6	Truck of Nuka-Cola Quantum	一卡车量子核子可乐
+NukaQuantum_Shop_Title_Case	Case	一小箱
+NukaQuantum_Shop_Title_Cooler	Cooler	一冰柜
+NukaQuantum_Shop_Title_Crate	Crate	一货箱
+NukaQuantum_Shop_Title_Fridge	Fridge	一冰箱
+NukaQuantum_Shop_Title_SixPack	Six Pack	六瓶装
+NukaQuantum_Shop_Title_Truck	Truck	一卡车
+Nuka_Caps	CAPS	瓶盖
+Objective_AssignDwellersToUltraciteMine	Assign a Dweller with at least {0} {1} to an Ultracite Mine	将至少拥有{0}点{1}属性的居民分配至辐射极琉矿矿场
+Objective_AssignDwellersToUltraciteMine_Plural	Assign {0} Dwellers with at least {1} {2} to an Ultracite Mine	将{0}名至少拥有{1}点{2}属性的居民分配至辐射极琉矿矿场
+Objective_BaldDwellersInVault	Have 1 Bald Dweller in the Vault	在避难所里有1位光头的居民
+Objective_BaldDwellersInVault_Plural	Have {0} Bald Dwellers in the Vault	在避难所里有{0}位光头的居民
+Objective_BarberShop	Customize 1 Dweller	个性化1位居民
+Objective_BarberShop_Plural	Customize {0} Dwellers	个性化{0}位居民
+Objective_BuildOverseerOffice	Build an Overseer's Office	建造一间监督者办公室
+Objective_BuildRoom	Build 1 room	建造1间房间
+Objective_BuildRoom_Plural	Build {0} rooms	建造{0}间房间
+Objective_BuildUltraciteMine	Build 1 Ultracite Mine	建造1座辐射极琉矿矿场
+Objective_BuildUltraciteMine_Plural	Build {0} Ultracite Mines	建造{0}座辐射极琉矿矿场
+Objective_CollectCaps	Collect 200 CAPS in the Vault	在避难所里收集200个瓶盖
+Objective_CollectCapsOnQuests	Collect {0} CAP on Quests	在任务中收集{0}个瓶盖
+Objective_CollectCapsOnQuests_Plural	Collect {0} CAPS on Quests	在任务中收集{0}个瓶盖
+Objective_CollectCaps_Plural	Collect {0} CAPS in the Vault	在避难所里收集{0}个瓶盖
+Objective_CollectFoodWithinTime	Collect {0} Food in under 1 minute	在一分钟内收集{0}食物
+Objective_CollectFromContainerOnQuests	Collect from {0} container on Quests	在任务中打开了{0}个储物箱
+Objective_CollectFromContainerOnQuests_Plural	Collect from {0} containers on Quests	在任务中打开了{0}个储物箱
+Objective_CollectJunk	Collect 1 piece of Junk	收集1件杂物
+Objective_CollectJunk_Plural	Collect {0} pieces of Junk	收集{0}件杂物
+Objective_CollectOutfit	Collect 1 Outfit	收集1件装备
+Objective_CollectOutfit_Plural	Collect {0} Outfits	收集{0}件装备
+Objective_CollectOutfitsOnQuests	Collect an Outfit on a Quest	在任务中收集1件装备
+Objective_CollectOutfitsOnQuests_Plural	Collect {0} Outfits on Quests	在任务中收集{0}件装备
+Objective_CollectPet	Collect {0} Pets	收集{0}个宠物
+Objective_CollectPowerWithinTime	Collect {0} Power in under 1 minute	在一分钟内收集{0}电力
+Objective_CollectQuestsWithPet	Complete a Quest with a pet equipped	携带宠物完成1个任务
+Objective_CollectQuestsWithPet_Plural	Complete {0} Quests with a pet equipped	携带宠物完成{0}个任务
+Objective_CollectRareOufits	Collect {0} Rare Outfit	收集{0}件稀有装备
+Objective_CollectRareOufits_Plural	Collect {0} Rare Outfits	收集{0}件稀有装备
+Objective_CollectRareWeapons	Collect {0} Rare Weapon	收集{0}件稀有武器
+Objective_CollectRareWeapons_Plural	Collect {0} Rare Weapons	收集{0}件稀有武器
+Objective_CollectResourcesWithinTime	Collect {0} Power/Food/Water in under 1 minute	在一分钟内收集{0}电力/食物/水
+Objective_CollectUltracite	Collect 1 piece of Ultracite	收集1块辐射极琉矿
+Objective_CollectUltraciteWithinTime	Collect {0} Ultracite in under 1 minute	在1分钟内收集{0}块辐射极琉矿
+Objective_CollectUltracite_Plural	Collect {0} pieces of Ultracite	收集{0}块辐射极琉矿
+Objective_CollectWaterWithinTime	Collect {0} Water in under 1 minute	在一分钟内收集{0}水
+Objective_CollectWeapons	Collect 1 Weapon	收集一件武器
+Objective_CollectWeaponsOnQuests	Collect a Weapon on a Quest	在任务中收集1件武器
+Objective_CollectWeaponsOnQuests_Plural	Collect {0} Weapons on Quests	在任务中收集{0}件武器
+Objective_CollectWeapons_Plural	Collect {0} Weapons	收集{0}件武器
+Objective_CompleteDiscoveredQuest	Complete {0} Quest discovered in the Wasteland	完成{0}次废土上发现的任务
+Objective_CompleteDiscoveredQuest_Plural	Complete {0} Quests discovered in the Wasteland	完成{0}次废土上发现的任务
+Objective_CompleteOverseerOfficeQuest	Complete {0} Quest from the Overseer's Office	完成{0}次监督者办公室的任务
+Objective_CompleteOverseerOfficeQuest_Plural	Complete {0} Quests from the Overseer's Office	完成{0}次监督者办公室的任务
+Objective_CompleteQuestline	Complete Questline: {2}	完成任务线：{2}
+Objective_CompleteQuestsWithoutStimpacks	Complete a Quest without using Stimpacks	在不使用治疗针的情况下完成1个任务
+Objective_CompleteQuestsWithoutStimpacks_Plural	Complete {0} Quests without using Stimpacks	在不使用治疗针的情况下完成{0}个任务
+Objective_Couple	Have a Male and a Female Dweller couple dancing in the Living Quarters	有一对男女居民，在宿舍里跳舞
+Objective_Couple_Plural	Have {0} Male and Female couples dance in the Living Quarters	有{0}对男女性居民在宿舍里跳舞
+Objective_CraftCommonUltraciteWeapon	Craft 1 Common Ultracite Weapon	打造1件普通辐射极琉矿武器
+Objective_CraftCommonUltraciteWeapon_Plural	Craft {0} Common Ultracite Weapons	打造{0}件普通辐射极琉矿武器
+Objective_CraftLegendaryOutfits	Craft 1 Legendary Outfit	打造1件传奇装备
+Objective_CraftLegendaryOutfits_Plural	Craft {0} Legendary Outfits	打造{0}件传奇装备
+Objective_CraftLegendaryUltraciteWeapon	Craft 1 Legendary Ultracite Weapon	打造1件传奇辐射极琉矿武器
+Objective_CraftLegendaryUltraciteWeapon_Plural	Craft {0} Legendary Ultracite Weapons	打造{0}件传奇辐射极琉矿武器
+Objective_CraftLegendaryWeapons	Craft 1 Legendary Weapon	打造1件传奇武器
+Objective_CraftLegendaryWeapons_Plural	Craft {0} Legendary Weapons	打造{0}件传奇武器
+Objective_CraftOutfits	Craft 1 Outfit	打造1件装备
+Objective_CraftOutfits_Plural	Craft {0} Outfits	打造{0}件装备
+Objective_CraftRareOutfits	Craft 1 Rare Outfit	打造1件稀有装备
+Objective_CraftRareOutfits_Plural	Craft {0} Rare Outfits	打造{0}稀有装备
+Objective_CraftRareUltraciteWeapon	Craft 1 Rare Ultracite Weapon	打造1件稀有辐射极琉矿武器
+Objective_CraftRareUltraciteWeapon_Plural	Craft {0} Rare Ultracite Weapons	打造{0}件稀有辐射极琉矿武器
+Objective_CraftRareWeapons	Craft 1 Rare Weapon	打造1件稀有武器
+Objective_CraftRareWeapons_Plural	Craft {0} Rare Weapons	打造{0}件稀有武器
+Objective_CraftStimpack	Craft 1 Stimpak	打造1个治疗针
+Objective_CraftStimpack_Plural	Craft {0} Stimpaks	打造{0}个治疗针
+Objective_CraftWeapons	Craft 1 Weapon	打造1件武器
+Objective_CraftWeapons_Plural	Craft {0} Weapons	打造{0}件武器
+Objective_DailyRewards	Collect 1 Daily Reward	收集1次每日奖励
+Objective_DailyRewards_Plural	Collect {0} Daily Rewards	收集{0}次每日奖励
+Objective_DwellerHappy	Raise the happiness of 1 Dweller to 100%	将1个居民的幸福度提升到100%
+Objective_DwellerHappy_Plural	Raise the happiness of {0} Dwellers to 100%	将{0}个居民的幸福度提升到100%
+Objective_EquipRandomWeapon	Equip 1 Dweller with a {1}	给1个居民配备了一件{1}
+Objective_EquipRandomWeapon_Plural	Equip {0} Dwellers with a {1}	给{0}个居民配备了一件{1}
+Objective_EquipUltraciteWeapon	Equip 1 Dweller with an Ultracite Weapon	为1名居民装备辐射极琉矿武器
+Objective_EquipUltraciteWeapon_Plural	Equip {0} Dwellers with Ultracite Weapons	为{0}名居民装备辐射极琉矿武器
+Objective_ExploreWastelandDays	Have a Dweller exploring the Wasteland for 1 day	让一个居民在废土上探险一天
+Objective_ExploreWastelandDays_Plural	Have a Dweller exploring the Wasteland for {0} days	让一个居民在废土探险{0}天
+Objective_ExploreWastelandHours	Have a Dweller exploring the Wasteland for 1 hour	让一个居民在废土上探险一小时
+Objective_ExploreWastelandHoursWithoutRadaway	Survive {0} hour in the Wasteland without using radaway	不使用消辐宁在废土生存{0}小时
+Objective_ExploreWastelandHoursWithoutRadaway_Plural	Survive {0} hours in the Wasteland without using radaway	不使用消辐宁在废土生存{0}小时
+Objective_ExploreWastelandHours_Plural	Have a Dweller exploring the Wasteland for {0} hours	让一个居民在废土探险{0}小时
+Objective_ExtinguishFire	Successfully extinguish 1 Vault fire	成功扑灭1次避难所火灾
+Objective_ExtinguishFire_Plural	Successfully extinguish {0} Vault fires	成功扑灭{0}次避难所火灾
+Objective_Food	Collect {0} Food	收集{0}食物
+Objective_Food_Plural	Collect {0} Food	收集{0}食物
+Objective_HaveBabies	Deliver 1 baby Dweller	成功接生一个避难所婴儿
+Objective_HaveBabies_Plural	Deliver {0} baby Dwellers	成功接生{0}个避难所婴儿
+Objective_KillCreature	Kill 1 creature in the Wasteland	在废土上消灭1个生物
+Objective_KillCreature_Plural	Kill {0} creatures in the Wasteland	在废土上消灭{0}个生物
+Objective_KillEnemiesInVault	Kill an enemy in your Vault	在您的避难所中消灭一名敌人
+Objective_KillEnemiesInVault_Plural	Kill {0} enemies in your Vault	在您的避难所中消灭{0}名敌人
+Objective_KillEnemiesOnQuests	Kill an enemy on a Quest	在任务中消灭1名敌人
+Objective_KillEnemiesOnQuests_Plural	Kill {0} enemies on Quests	在任务中消灭{0}名敌人
+Objective_KillEnemyAtVaultDoor	Kill 1 {1} at the Vault door	在避难所门厅消灭1个{1}
+Objective_KillEnemyAtVaultDoor_Plural	Kill {0} {1} at the Vault door	在避难所门厅消灭{0}个{1}
+Objective_KillEnemyWithUltraciteWeapons	Kill 1 enemy using Ultracite weapons	使用辐射极琉矿武器消灭1名敌人
+Objective_KillEnemyWithUltraciteWeapons_Plural	Kill {0} enemies using Ultracite weapons	使用辐射极琉矿武器消灭{0}名敌人
+Objective_KillRadroaches	Kill a Radroach	消灭1只辐射蟑螂
+Objective_KillRadroaches_Plural	Kill {0} Radroaches	消灭{0}只辐射蟑螂
+Objective_KillRadscorpions	Kill a Radscorpion	消灭1只辐射蝎
+Objective_KillRadscorpions_Plural	Kill {0} Radscorpions	消灭{0}只辐射蝎
+Objective_KillScorched	Kill 1 Scorched	消灭1名辐尸人
+Objective_KillScorched_Plural	Kill {0} Scorched	消灭{0}名辐尸人
+Objective_LevelUp	Level up 1 Dweller	让1名居民升级
+Objective_LevelUpDwellers	Level up 1 Dweller	让1名居民升级
+Objective_LevelUpDwellers_Plural	Level up Dwellers {0} times	让居民共升级{0}次
+Objective_LevelUp_Plural	Level up {0} Dwellers	升级{0}位居民
+Objective_Merge	Merge 2 rooms together	同时合并两个房间
+Objective_Merge_Plural	Merge {0} pairs of rooms together	同时合并{0}对房间
+Objective_MysteriousStranger	Find the Mysterious Stranger	找到神秘陌生人
+Objective_MysteriousStranger_Plural	Find the Mysterious Stranger {0} times	找到{0}次神秘陌生人
+Objective_Nuka	Collect {0} CAPS in the Vault	在避难所里收集{0}个瓶盖
+Objective_OpenLunchbox	Open 1 Lunchbox	打开1个午餐盒
+Objective_OpenLunchbox_Plural	Open {0} Lunchboxes	打开{0}个午餐盒
+Objective_Outfits	Equip 1 Dweller with an Outfit	给一个居民穿上装备
+Objective_Outfits_Plural	Equip {0} Dwellers with an Outfit	给{0}个居民穿上装备
+Objective_PerformCriticalHit	Perform {0} critical hit	释放{0}次暴击
+Objective_PerformCriticalHit_Plural	Perform {0} critical hits	释放{0}次暴击
+Objective_PerformPerfectCriticalHit	Perform {0} perfect critical hit	释放{0}次完美暴击
+Objective_PerformPerfectCriticalHit_Plural	Perform {0} perfect critical hits	释放{0}次完美暴击
+Objective_Power	Collect {0} Power	收集{0}电力
+Objective_Power_Plural	Collect {0} Power	收集{0}电力
+Objective_Pregnant	Have 1 Female Dweller pregnant	有1名女居民怀孕
+Objective_Pregnant_Plural	Have {0} Female Dwellers pregnant	有{0}名女性居民怀孕
+Objective_RaiseSpecialLevel	Raise any SPECIAL stat of 1 Dweller	提高一位居民的任意SPECIAL属性
+Objective_RaiseSpecialLevel_Plural	Raise any SPECIAL stat of {0} Dwellers	提高{0}位居民的任意SPECIAL属性。
+Objective_RaiseSpecificSpecialLevel	Raise the {1} of 1 Dweller	提高1位居民的{1}。
+Objective_RaiseSpecificSpecialLevel_Plural	Raise the {1} of {0} Dwellers	提高{0}位居民的{1}。
+Objective_RandomEnemyKilledUnarmed	Kill 1 {1} without a weapon	不用武器消灭1个{1}
+Objective_RandomEnemyKilledUnarmed_Plural	Kill {0} {1} without a weapon	不用武器消灭{0}个{1}
+Objective_RightRoom	Assign 1 Dweller in the right room	正确分配一个居民
+Objective_RightRoom_Plural	Assign {0} Dwellers in the right room	正确分配{0}个居民
+Objective_RoomRush	Successfully Rush 1 room	在一个房间里成功启动极速模式
+Objective_RoomRush_Plural	Successfully Rush {0} rooms	在{0}个房间里成功启动极速模式
+Objective_Rush	Perform 1 successful Rush	执行1次成功的极速模式
+Objective_Rush_Plural	Perform {0} successful Rushes	执行{0}次成功的极速模式
+Objective_ScrapItem	Scrap 1 Weapon or Outfit	拆解一件武器或装备
+Objective_ScrapItem_Plural	Scrap {0} Weapons or Outfits	拆解{0}件武器或装备
+Objective_SellItem	Sell 1 Weapon or Outfit	卖掉1件武器或装备
+Objective_SellItem_Plural	Sell {0} Weapons or Outfits	卖{0}件武器或装备
+Objective_SellJunk	Sell 1 piece of Junk	卖掉1件杂物
+Objective_SellJunk_Plural	Sell {0} pieces of Junk	卖掉{0}件杂物
+Objective_SpinToWin	Claim a reward from the Lucky Spin wheel	从幸运转盘领取1个奖励
+Objective_SpinToWinEnclave	Claim a reward from the Capitalist Spin wheel	从资本主义转盘领取一份奖励
+Objective_SpinToWinEnclave_Plural	Claim {0} rewards from the Capitalist Spin wheel	从资本主义转盘领取{0}份奖励
+Objective_SpinToWinInstitute	Claim a reward from the Science Spin wheel	从科学转盘领取一份奖励
+Objective_SpinToWinInstitute_Plural	Claim {0} rewards from the Science Spin wheel	从科学转盘领取{0}份奖励
+Objective_SpinToWin_Plural	Claim {0} rewards from the Lucky Spin wheel	从幸运转盘领取{0}个奖励
+Objective_StimRadaway	Use {0} RadAway	使用{0}个消辐宁
+Objective_Stimpack	Collect 1 Stimpak	收集1个治疗针
+Objective_Stimpack_Plural	Collect {0} Stimpaks	收集{0}个治疗针
+Objective_StopIncident	Stop 1 Incident	终止1次事件
+Objective_StopIncidentWithoutPropagate	Stop 1 {1} infestation before they spread	在一次{1}灾害扩散之前终止事件
+Objective_StopIncidentWithoutPropagate_Plural	Stop {0} {1} infestations before they spread	在{0}次{1}灾害扩散之前终止事件
+Objective_StopIncident_Plural	Stop {0} incidents	终止{0}次事件
+Objective_StopInvasion	Stop 1 Vault invasion	阻止一次避难所入侵
+Objective_StopInvasionInExVault	Stop 1 invasion in the Experiment Vault	阻止实验避难所中的1次入侵
+Objective_StopInvasionInExVault_Plural	Stop {0} invasions in the Experiment Vault	阻止实验避难所中的{0}次入侵

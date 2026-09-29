@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_WorkingOvertime_Conversation_2_NPCStart_2	I mean... look at me... I don't have a nose!	我想说……看看我……我连鼻子都没有！
+QuestLoc_WorkingOvertime_Conversation_2_NPCStart_3	Please...	求求你们……
+QuestLoc_WorkingOvertime_Conversation_2_NPCStart_4	Kill me!	杀了我吧！
+QuestLoc_WorkingOvertime_QuestLongDescription	Rubarb and his Raiders were spotted recently in Vault 700. Better go check it out!	目击者称鲁巴布和他的掠夺者们最近出现在700号避难所。最好去那里看看！
+QuestLoc_WorkingOvertime_QuestName	Working Overtime	加班加点
+QuestLoc_WorkingOvertime_QuestObjective_1	Investigate Vault 700.	调查700号避难所。
+QuestLoc_WorkingOvertime_QuestShortDescription	Investigate Vault 700 and see what Rubarb's Raiders are up to.	调查700号避难所去看看鲁巴布的掠夺者们想干什么。
+QuestLoc_WorstCoachEver_Conversation_1_NPCStart_1	There's something spray painted on the wall!	有人在墙上用喷漆写了点东西！
+QuestLoc_WorstCoachEver_Conversation_1_NPCStart_2	“Getting Warmer”	“越来越暖和了”
+QuestLoc_WorstCoachEver_Conversation_1_NPCStart_3	It must be Coach! Mocking us!	一定是教练！他在嘲笑我们！
+QuestLoc_WorstCoachEver_QuestLongDescription	No luck in the pencil factory, but we're not discouraged. Rackie Jobinson's Jersey will be ours! We'll search the old Hubris Comics store.	铅笔厂里也没有。但我们并不气馁。棒球衫一定是我们的！我们去“虎不理漫画”漫画店看看吧。
+QuestLoc_WorstCoachEver_QuestName	Worst. Coach. Ever.	最。烂。教练。
+QuestLoc_WorstCoachEver_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_WorstCoachEver_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_ZinesFromtheCommonwealth_QuestlineName	Zines From the Commonwealth	来自联邦的杂志
+QuestObjective_ClearOut	Kill all Enemies in the Secret Room	杀死秘密房间的全部敌人
+QuestObjective_PickUpAllItems	Loot the Secret Room	搜刮秘密房间
+QuestRequirement_Dweller	Dweller	居民
+QuestRequirement_Dweller_Plural	Dwellers	居民
+QuestRequirement_Level	Level	等级
+QuestResult_Completed	QUEST COMPLETE	任务完成
+QuestResult_Failed	QUEST FAILED	任务失败
+QuestReward_LunchBox	Lunchbox	午餐盒
+QuestReward_MrHandyBox	Mr. Handy Box	巧手先生盒子
+QuestReward_PetCarrier	Pet Carrier	宠物笼子
+QuestSurprise_Discovered_AbandonedHouse	{0} has discovered an Abandoned Cabin.	{0}发现了一处废弃的小屋。
+QuestSurprise_Discovered_MarketPlace	{0} has discovered a Super Duper Mart.	{0}发现了一个大无敌超市。
+QuestSurprise_Discovered_RedRocket	{0} has discovered a Red Rocket Truck Stop.	{0}发现了一个红火箭服务站。
+QuestSurprise_Discovered_Vault	{0} has discovered a Vault.	{0}发现了一个避难所。
+QuestSurprise_Enter_Female	Do you want her to go in?	你想要她进去吗？
+QuestSurprise_Enter_Male	Do you want him to go in?	你想要他进去吗？
+QuestSurprise_Title	QUEST	任务
+QuestTitle_FindValentine[PL]	Find Valentine	寻找瓦伦坦
+QuestTitle_FireSupport[PL]	Fire Support [PL]	火力支援 [PL]
+QuestTitle_InSheepClothing[PL]	In Sheep Clothing [PL]	穿着绵羊的衣服 [PL]
+QuestTitle_MemoryInterrupted[PL]	Memory Interrupted [PL]	记忆中断 [PL]
+QuestTitle_MercerSafehouse[PL]	Mercer Safehouse [PL]	莫瑟的藏身处 [PL]
+QuestTitle_SpoilsofWar[PL]	Spoils of War [PL]	战利品 [PL]
+Quest_Button_CompleteQuest	COMPLETE QUEST	完成任务
+Quest_Button_ContinueQuest	CONTINUE	继续
+Quest_Button_GiveUpQuest	GIVE UP	放弃
+Quest_Button_ReturnToVaultQuest	RETURN TO VAULT	回到避难所
+Quest_Dialog_1_1	What do we have here? Vault Dwellers?	我们有什么呢？避难所居民？
+Quest_Dialog_1_2	You must be looking for the Boss.	你一定在找首领。
+Quest_Dialog_1_3	We've got no love for him.	我们对他毫无情分可讲。
+Quest_Dialog_1_4	Leave us be and we'll tell you where he is.	不要惹我们，我们就告诉你他在哪里。
+Quest_OptionalObjective	(Optional)	（可选择）
+RadiationCycle1	Got {0} points of radiation damage.	受到了{0}点辐射伤害。
+Radio_Range_Vault	VAULT	避难所
+Radio_Range_Wasteland	WASTELAND	废土
+Radio_Upgrade_Info	Increases chances to call a Dweller from the Wasteland	增加了从废土召唤居民的概率
+Radio_VaultFull	Vault Full	避难所满员
+Radroach_Name	Radroach	辐射蟑螂
+Radroach_Name_Plural	Radroaches	辐射蟑螂
+Radscorpion_Name	Radscorpion	辐射蝎
+Radscorpion_Name_Plural	Radscorpions	辐射蝎
+Raider_Name	Raider	掠夺者
+Raider_Name_Plural	Raiders	掠夺者
+Rarity_All_Title	ALL	所有
+Rarity_Common_Initial	C	C
+Rarity_Common_Title	COMMON	普通
+Rarity_Legendary_Title	LEGENDARY	传奇
+Rarity_Rare_Initial	R	R
+Rarity_Rare_Title	RARE	稀有
+Rarity_Uncommon_Initial	U	U
+Rarity_Uncommon_Title	UNCOMMON	少见
+Rarity_VeryRare_Initial	V	V
+Rarity_VeryRare_Title	VERY RARE	非常稀有
+RateUS_BTN_LATER	REMIND ME LATER	稍后提醒我
+RateUS_BTN_NO	NO THANKS	不，谢谢
+RateUS_BTN_Rate	RATE US	请给我们评分！
+RateUS_text1	Vault-tec	避难所科技
+RateUS_text2	Needs you!	我们需要你！
+Rating_CurrentRating	CURRENT RATING	当前评分
+Rating_NextEvaluation	NEXT EVALUATION	下一次评级
+RecipeLoot_Duplicate	DUPLICATE!	重复的！
+RecipeLoot_FragmentFound	A Dweller found a Recipe Fragment!	一位居民找到了一个配方碎片！
+RecipeLoot_Free	Here's a Recipe for you!	这儿有一个配方给您！
+RecipeLoot_LegendaryOutfit	Legendary Outfit Recipe	传奇装备配方
+RecipeLoot_LegendaryWeapon	Legendary Weapon Recipe	传奇武器配方
+RecipeLoot_Raiders	An invader had a Recipe on them!	掠夺者身上发现了一个配方！
+RecipeLoot_RareOutfit	Rare Outfit Recipe	稀有装备配方
+RecipeLoot_RareWeapon	Rare Weapon Recipe	稀有武器配方
+RecipeLoot_ThemeFragment	Theme Recipe Fragment	主题配方碎片
+RecipeLoot_ThemeFull	Theme Recipe	主题配方
+RecipeLoot_Wasteland	A Dweller found a Recipe in the Wasteland!	一个居民在废土上发现了一个配方！
+Repair_MrHandy	REPAIR	修理
+Resource_Energy	{0} Power	{0}电力
+Resource_Food	{0} Food	{0}食物
+Resource_Nuka	{0} CAPS	{0}瓶盖
+Resource_Radaway	{0} RadAway	{0}消辐宁
+Resource_Stimpack	{0} Stimpak	{0}治疗针
+Resource_Water	{0} Water	{0}水
+Resources_Not_Collected	THE DWELLER'S ITEMS MUST BE COLLECTED FIRST	必须先收集居民的物品
+RichPresence_Xbox_01	Exploring the Wasteland	探索废土
+RichPresence_Xbox_02	Defending against a Ghoul attack	反抗尸鬼的攻击
+RichPresence_Xbox_03	Managing a Mole rat	正在对付一只鼹鼠
+RichPresence_Xbox_04	Fighting a Vault Fire	扑灭避难所火灾
+RichPresence_Xbox_05	Reducing Radscorpion presence	减少辐射蝎的出现
+RichPresence_Xbox_06	Repelling Raiders	阻止掠夺者
+RichPresence_Xbox_07	Squashing a Radroach incident	阻止辐射蟑螂事件
+RichPresence_Xbox_08	Trying to survive a Deathclaw incident	试着从死爪事件中活下来
+RichPresence_Xbox_09	Overseeing {0} Dwellers in Vault {1}	在{1}避难所里管理{0}位居民
+RichPresence_Xbox_10	Overseeing Dwellers in the Vault	在避难所里管理居民
+RoomLevel_Advanced	ADVANCED	高级
+RoomLevel_Mega	MEGA	大
+RoomStatus_Full	FULL	满
+RoomStatus_Upgrading	UPGRADING	升级中……
+RoomType_Consumable	CONSUMABLE	消耗品
+RoomType_Consumable_Description	Consumable Description...	消耗品说明……
+RoomType_Facility	FACILITY	设施
+RoomType_Facility_Description	Facility Description...	设施说明……
+RoomType_Production	PRODUCTION	生产
+RoomType_Production_Description	Production Description...	生产说明……
+RoomType_Training	TRAINING	训练
+RoomType_Training_Description	Training Description...	训练说明……
+RoomType_Utility	UTILITY	公用设施
+RoomType_Utility_Description	Utility Description...	功效说明……
+RoomUnlocked	ROOM UNLOCKED	解锁房间
+RoomUpgrade_Current_Title	CURRENT	当前
+RoomUpgrade_Dwellers	Dwellers	居民
+RoomUpgrade_Message_Themes	Merge 3 fully upgraded rooms to use Themes!	合并三个满级房间来使用主题！
+RoomUpgrade_Production	Production	生产
+RoomUpgrade_Storage	Storage	储存
+RoomUpgrade_Upgrade_Title	UPGRADED	升级
+Room_AdminOffice	ADMIN OFFICE	行政办公室
+Room_Armory	ARMORY	军械库
+Room_Armory_2	WEAPONS STATION	武器站
+Room_Armory_3	WEAPONS CENTER	武器中心
+Room_Armory_Build	Build an ARMORY?	建造一个军械库？
+Room_Armory_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR PERCEPTION	将居民分配在这里训练观察力
+Room_Bar	LOUNGE	会客室
+Room_Bar_2	BAR	酒吧
+Room_Bar_3	CLUB	俱乐部
+Room_Bar_Build	Build a LOUNGE?	建造一个会客室？
+Room_Bar_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR CHARISMA	将居民分配在这里训练魅力
+Room_BarberShop	BARBERSHOP	美发店
+Room_BarberShop_2	SALON	沙龙
+Room_BarberShop_Build	Build a BARBERSHOP?	建造一个美发店？
+Room_BarberShop_Desc	ASSIGN DWELLERS HERE TO CUSTOMIZE THEM	将居民分配在这里来满足个性化需求
+Room_Cafeteria	DINER	餐厅
+Room_Cafeteria_2	RESTAURANT	餐馆
+Room_Cafeteria_3	CAFETERIA	自助餐厅
+Room_Cafeteria_Build	Build a DINER?	建造一个餐厅？
+Room_Cafeteria_Desc	ASSIGN DWELLERS HERE TO PRODUCE FOOD	将居民分配在这里生产食物
+Room_Casino	GAME ROOM	棋牌室
+Room_Casino_2	ARCADE	游乐场
+Room_Casino_3	GAMING CENTER	游戏中心
+Room_Casino_Build	Build a GAME ROOM?	建造一个棋牌室？
+Room_Casino_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR LUCK	将居民分配在这里训练运气
+Room_ClassRoom	CLASSROOM	教室
+Room_ClassRoom_2	SCHOOL	学校
+Room_ClassRoom_3	ACADEMY	学院
+Room_ClassRoom_Build	Build a CLASSROOM?	建造一间教室？
+Room_ClassRoom_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR INTELLIGENCE	将居民分配在这里训练智力
+Room_DecorationFactory	DECORATION WORKSHOP	装饰工坊
+Room_DecorationFactory_2	DECORATION FACTORY	装饰车间
+Room_DecorationFactory_3	DECORATION PLANT	装饰工厂
+Room_DecorationFactory_Build	Build an DECORATION FACTORY?	建造一个装饰车间？
+Room_DecorationFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT DECORATIONS	将居民分配在这里打造装饰品
+Room_DecorationFactory_Upgrade_Level2	Craft Rare Decorations	打造稀有装饰品
+Room_DecorationFactory_Upgrade_Level3	Craft Legendary Decorations	打造传奇装饰品
+Room_DesignFactory	THEME WORKSHOP	主题工坊
+Room_DesignFactory_2	THEME FACTORY	主题车间
+Room_DesignFactory_3	THEME PLANT	主题工厂
+Room_DesignFactory_Build	Build a THEME WORKSHOP?	建造一个主题工坊吗？
+Room_DesignFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT THEMES	将居民分配到这里来打造主题。
+Room_DesignFactory_Upgrade_Level2	Decreases crafting time	减少打造时间
+Room_DesignFactory_Upgrade_Level3	Decreases crafting time	减少打造时间
+Room_Dojo	ATHLETICS ROOM	体操房
+Room_Dojo_2	ATHLETICS STUDIO	体育工作室
+Room_Dojo_3	ATHLETICS CENTER	体育中心
+Room_Dojo_Build	Build an ATHLETICS ROOM?	建造一间体操房？
+Room_Dojo_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR AGILITY	将居民分配在这里训练敏捷
+Room_Elevator	ELEVATOR	电梯
+Room_Elevator_Build	Build an ELEVATOR?	建造电梯？
+Room_Elevator_Desc	USED TO ACCESS LOWER FLOORS OF YOUR VAULT	用来进入到避难所里更低的楼层
+Room_Energy2	NUCLEAR REACTOR	核电站
+Room_Energy2_2	ADVANCED REACTOR	高级核电站
+Room_Energy2_3	SUPER REACTOR	超级核电站

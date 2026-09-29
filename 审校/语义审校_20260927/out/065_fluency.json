@@ -1,0 +1,47 @@
+{
+  "chunk": "065",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Shop_PetBanner_Text5",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「提升打造速度和花费。」把 Improved crafting speed and cost 里的 improved 一律译成「提升」，等于告诉玩家这个宠物加成会让打造花费变高——方向正好反了。同一加成在别处都写作降价（Bonus_CheaperCrafting「-{0}%打造花费」、Bonus_FasterAndCheaperCrafting「-{0}%打造的时间和花费」）。同列其它宠物条目（「更快地从废土回来。」「更快地完成目标。」）都是直陈好处的说法，这里也应明说花费下降。",
+      "fix": "提升打造速度，降低打造花费。",
+      "confidence": "high"
+    },
+    {
+      "key": "Seasons_MessageSeasonEndsInStub",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「赛季将于」后半截没了：「将于」后面必须跟「……后结束／……时开始」这类补语，译文只留了个介词框架，单独显示就是残句；若按同名前缀键的用法与后面的天数拼接（天数由通用时长串给出，如「1天」），会读成「赛季将于1天」，语义不成句。对照同批 Seasons_Message_SeasonEndsIn「赛季将于1天后结束」、SeasonPass_ChallengeUnlocksIn「挑战将于{0}后解锁」，可确认这里是照「将于…后」的语序硬截出来的。",
+      "fix": "距离赛季结束还有",
+      "confidence": "medium"
+    },
+    {
+      "key": "Shop_SeasonPass_NewVegasB_Premium_Description",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "两处：「隐形休闲装」把 Incognito Leisurewear 的 incognito（低调、不暴露身份）当成「隐形（看不见）」，含义跑偏；同一件装备在装备表里的正式名是「低调休闲装」（Outfit_Name_Incognito），玩家领到手后在背包里看到的名字对不上。另「维克托（Mr. Handy同等角色）」里 Mr. Handy 整个没译（全库统一作「巧手先生」，如 Mr_Handy_Name、Shop_StarterPack_Line1），「同等角色」也不是中文说法。",
+      "fix": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（相当于巧手先生）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、低调休闲装、铅击者、2个宠物笼子，以及5000瓶盖。",
+      "confidence": "high"
+    },
+    {
+      "key": "Shop_StarterPack_Line2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「了不起的价值」是 Amazing Value 的逐字直译。中文商店促销栏位不这么说话，「了不起的价值」既不指价格也不指划算程度，读起来像在夸「价值」这个概念本身。此处是在新手包上打「很划算」的卖点，应换成中文电商惯用的说法。",
+      "fix": "超值之选",
+      "confidence": "medium"
+    },
+    {
+      "key": "SeasonPass_UpsellModal_Premium",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「可立即为你的避难所注入强力提升」把 instant boosts to your vault 硬搬成中文：「注入」要求后面接名词性事物（注入活力／动力／能量），接「提升」这种动名词搭配不成立，整句读起来是机翻腔。原意只是「让你的避难所立刻获得强力加成」。",
+      "fix": "将你的赛季提升至新高度！\\n购买高级通行证可立即为你的避难所带来强力加成，还能获得其他地方找不到的独家奖励！",
+      "confidence": "medium"
+    }
+  ]
+}

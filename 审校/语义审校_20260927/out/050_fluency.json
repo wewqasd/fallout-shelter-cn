@@ -1,0 +1,63 @@
+{
+  "chunk": "050",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "“这里面已经打成一片了”用错了成语：“打成一片”在汉语里是固定说法，意思是融洽相处、浑然一体（如“和群众打成一片”），照字面看又像“打成一片混乱”，与 EN 的 It's a warzone in here!（这里已经成了战场）方向相反，玩家会读成“这里的人相处得火热”，用词不当造成的歧义很明显。",
+      "fix": "哦天哪！保安机器人打进大楼了。这里面已经成战场了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunnersinScoringPosition_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "这句是“冷热找东西”游戏里的台词，Warmer still 指“离目标越来越近”，not on fire yet 指“还没到着火的火候”；译文把 on fire 译成“开火”：“已经有点热了，不过还不到开火的时候”，温度比喻被截断成枪械开火，玩家会理解成“还没到开枪开打的时候”，与追赶教练的场景完全对不上（同一条任务其它对话里的语境也证明确实是找线索）。",
+      "fix": "更热了……不过还没到着火的地步！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_3_Team_1",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "“我们的电台工作人员将很乐意用他们的轻松工作来交换一个电台界传说”是 give up their easy jobs for a radio legend 的逐字搬运：“交换”在中文里接的是物，说“交换一个……传说”搭配不成立，字面像拿工作去换一个活人；“电台界传说”单看也容易被读成节目名而不是“电台界的传奇人物”；前面的“将很乐意”同样是硬搬将来时，中文对白里不说。",
+      "fix": "到我们避难所来吧！为了电台界的传奇人物，我们的电台员工很乐意让出他们那份清闲的工作。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_S2_QL2_Q2_Field_Question1_Choice2",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "“我们在找你们负责的圣骑士”把 EN 的后置 in charge 挪成了前置定语“你们负责的”，中文第一反应会读成“由你们负责照管的那个圣骑士”，指代正好反了；原文 the paladin in charge 指的是“这里带队/说了算的圣骑士”。",
+      "fix": "我们在找这里带队的圣骑士。我们有份文件要签。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_RaiderLine_3",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "May Death wake up on the right side of the bed! 用的是英语习语 wake up on the right side of the bed（一觉醒来心情舒畅），直译成“愿‘死亡’在床的右边醒来！”对中文玩家就是一句莫名其妙的话，“愿‘死亡’心情好”这层祝福和信徒的腔调全部落空。",
+      "fix": "愿“死亡”一觉醒来心情大好！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_S2_QL2_Q3_Req_Question1_Answer1",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "“上一层，左转第二个，然后下去……”里“左转第二个”缺中心语，中文不能这样单说（要么“第二个路口左转”，要么“左转，第二个门”），玩家读到“左转第二个”要自己猜补什么；紧接的“然后下去”也没有“下楼/往下走”，整段指路读起来是断的，不像人话。",
+      "fix": "去找军需官B38。上一层，第二个路口左转，然后下楼，再原路折返，再上去……大概吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_S2_QL3_Q3_Insider_Question2_Answer2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "“我要找个能做真正自己的地方”缺结构助词，属成分残缺：中文的固定说法是“做自己”“做真正的自己”，“做真正自己”不成词，读到这里会卡一下；EN 是 a place where I can be my true self。",
+      "fix": "哦，你真扫兴！我要找个能让我做回真正自己的地方。",
+      "confidence": "medium"
+    }
+  ]
+}

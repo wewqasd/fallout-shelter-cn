@@ -1,0 +1,282 @@
+[
+ {
+  "key": "Dweller_EmptyTapSlot_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page15_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[RB]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page18_MainText_PS4",
+  "warn": "括号 token 差异: EN=['[B]', '[DL]', '[RB]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page18_MainText_Switch",
+  "warn": "括号 token 差异: EN=['[B]', '[DL]', '[RB]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page18_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[B]', '[DL]', '[RB]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page20_MainText",
+  "warn": "换行段数 5 != 6"
+ },
+ {
+  "key": "Help_Page20_MainText_3DTouch",
+  "warn": "换行段数 6 != 7"
+ },
+ {
+  "key": "Help_Page20_MainText_Xbox",
+  "warn": "换行段数 6 != 7"
+ },
+ {
+  "key": "Help_Page20_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page22_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[X]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page26_MainText_PS4",
+  "warn": "括号 token 差异: EN=['[A]', '[DU]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page26_MainText_Switch",
+  "warn": "括号 token 差异: EN=['[A]', '[DU]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page26_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[A]', '[DU]', '[Y]'] ZH=[]"
+ },
+ {
+  "key": "Help_Page28_MainText_Xbox",
+  "warn": "括号 token 差异: EN=['[DU]'] ZH=[]"
+ },
+ {
+  "key": "Message_RedeemPopup_Continue_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_10_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_10_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_11_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_11_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_12_Body_Xbox",
+  "warn": "括号 token 差异: EN=['[DR]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_12_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_12_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_13_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_13_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_14_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_14_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_15_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_15_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_16_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_16_Title",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_20_Hint",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_TutorialPopup_21_Body_Part2_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_24_Body_Part1_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_24_Body_Part2_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_27_Body_PS4",
+  "warn": "括号 token 差异: EN=['[A]', '[LT]', '[RT]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_27_Body_Switch",
+  "warn": "括号 token 差异: EN=['[A]', '[LT]', '[RT]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_27_Body_Xbox",
+  "warn": "括号 token 差异: EN=['[A]', '[LT]', '[RT]'] ZH=[]"
+ },
+ {
+  "key": "Message_TutorialPopup_27_Hint_Xbox",
+  "warn": "换行段数 1 != 0"
+ },
+ {
+  "key": "Message_Tutorial_02_Xbox",
+  "warn": "括号 token 差异: EN=['[Y]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_03_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_04_PS4",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_04_Switch",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_04_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_09_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_10_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_11_Xbox",
+  "warn": "括号 token 差异: EN=['[RT]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_12_Xbox",
+  "warn": "括号 token 差异: EN=['[DU]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_15_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_27_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_40_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_44_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_53_Xbox",
+  "warn": "括号 token 差异: EN=['[B]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_56_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_62_Xbox",
+  "warn": "括号 token 差异: EN=['[DL]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_68_PS4",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_68_Switch",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_68_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_UltraciteWeaponCraftingConclusion_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_UltraciteWeaponCraftingCraftingMessage_Xbox",
+  "warn": "括号 token 差异: EN=['[DU]'] ZH=[]"
+ },
+ {
+  "key": "Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox",
+  "warn": "括号 token 差异: EN=['[RT]'] ZH=[]"
+ },
+ {
+  "key": "MrHandy_ContentLine2",
+  "warn": "括号 token 差异: EN=['[Content line 2]'] ZH=[]"
+ },
+ {
+  "key": "QuestLoc_ENC_QL1_LoveOfGold_4_Room1_Question_Line1",
+  "warn": "括号 token 差异: EN=['[CLASSIFIED]'] ZH=[]"
+ },
+ {
+  "key": "QuestLoc_ENC_QL1_LoveOfGold_4_Room1_Question_Line1_Answer0",
+  "warn": "括号 token 差异: EN=['[REDACTED]'] ZH=[]"
+ },
+ {
+  "key": "Room_LivingQuarter_Desc",
+  "warn": "换行段数 2 != 1"
+ },
+ {
+  "key": "TapToContinue_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Tutorial_Tip_29_Xbox",
+  "warn": "括号 token 差异: EN=['[Y]'] ZH=[]"
+ },
+ {
+  "key": "Tutorial_Tip_37_Xbox",
+  "warn": "括号 token 差异: EN=['[LB]', '[RB]'] ZH=[]"
+ },
+ {
+  "key": "Tutorial_Tip_41_Xbox",
+  "warn": "括号 token 差异: EN=['[DL]'] ZH=[]"
+ },
+ {
+  "key": "Tutorial_Tip_65_Xbox",
+  "warn": "括号 token 差异: EN=['[A]'] ZH=[]"
+ },
+ {
+  "key": "Vaultboy_Message_ObjectiveCompleted",
+  "warn": "换行段数 2 != 1"
+ }
+]

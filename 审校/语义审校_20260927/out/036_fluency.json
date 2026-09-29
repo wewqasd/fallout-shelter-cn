@@ -1,0 +1,55 @@
+{
+  "chunk": "036",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_HouseWarming_3_Question0_Answer1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「正是为我们狂欢派对的完美人选」中介词结构残缺：「为」后面只有「我们狂欢派对」这个名词短语，没有相应的动词（服务、效力、操办之类）就接上了「的完美人选」，读起来像句子被挖掉一块。原文是 would make the perfect staff for our shindig，说的是「给我们这场派对干活的人手」。另外 staff 译成「人选」也让「招人干活」的意思变虚。",
+      "fix": "愿意为尸鬼承办餐饮的人，正是我们这场狂欢派对最合适的工作人员。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HouseWarming_4_Question6_02",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「我想为你们尽心尽责的照料与关注，给你们一些奖赏。」把 reward you for your diligent care and attention 的两个补足成分挤在一起：第一个「为」带了宾语「你们尽心尽责的照料与关注」，却没有任何谓语（本该是「为了酬谢……」），紧接着又是「给你们一些奖赏」，介词结构杂糅，句子读不通。豪斯先生这句是正式致谢口吻，不能靠意会糊过去。",
+      "fix": "为了感谢你们尽心尽责的照料与关注，我想给你们一些奖赏。你们想要什么？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HouseWarming_4_Question6_Choice2",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "「来身漂亮衣服，也许？」把英文 A nice outfit, perhaps? 的句末 perhaps 原样挂在中文句尾，中文的「也许」不能这样单独作后置疑问尾（说成「……，也许？」是英文语序硬搬），玩家选项读起来像生硬的机翻。中文要么把「也许」提到句首，要么用「怎么样」。",
+      "fix": "也许来身漂亮衣服？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「如果他可能在任何地方的话，他应该是和他们在一起。」是 If he's anywhere 的字面搬运：「如果……可能在任何地方」这种条件从句在中文里等于没有条件（他本来就可能在任何地方），前提与结论接不上，读的人要先在脑子里还原英文才懂。中文口语里该说的是「他要是还在这一带」。",
+      "fix": "他要是还在这一带，那肯定跟他们在一起。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「你们要找的人和一些其他的居民还有狂尸鬼一起被送过来的。」并列连词叠用（「和……还有……」）再加「一些其他的」，一句话里堆了三层，是英文 with a shipment of other Dwellers and some Feral Ghouls 的语序硬搬；中文说「跟一批居民和几个狂尸鬼一起」就干净了。",
+      "fix": "你们要找的人是跟一批居民和几个狂尸鬼一起被送过来的。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HumanBeanJuice_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「杰克已经受过一次大惊吓」把 has been through the ringer（被折腾得够呛、吃尽苦头）译成了「受了一次大惊吓」，既弱化了原文的磨难感，搭配也别扭——「大惊吓」不成词，中文说「受了很大的惊吓」或「被折腾得够呛」；再叠上「已经……一次」，整句读着发涩。",
+      "fix": "杰克已经被折腾得够呛——可现在他马上就要变成别人的晚餐了！奴隶贩子把他卖给了肉酱厂。我们应该去那里找他！",
+      "confidence": "medium"
+    }
+  ]
+}

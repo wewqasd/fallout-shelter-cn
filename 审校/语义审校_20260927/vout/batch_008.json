@@ -1,0 +1,110 @@
+{
+ "batch": 8,
+ "items": [
+  {
+   "key": "Message_Quest_DeadDweller_RemoveAll_Warning",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN your dead Dweller(s)：ZH「您死亡的居民」定语搭配错误、一句里重复「您」，确认框读作病句。",
+   "final_fix": "您将失去死去的居民。您确定要全部移除吗？"
+  },
+  {
+   "key": "Message_ThemeChange_Diner",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN The Theme of all your...Diners：ZH「主题餐厅」被读成有主题的餐厅，all 与复数丢失，「它」把批量改动写成单间。",
+   "final_fix": "所有已完全合并并升级的餐厅，其主题都将从{0}更改为{1}。确定吗？"
+  },
+  {
+   "key": "Message_ThemeChange_LivingQuarters",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN all your fully merged...Living Quarters：ZH「主题宿舍」误作有主题的宿舍，丢掉 all 与复数，「它」写成单间操作。",
+   "final_fix": "所有已完全合并并升级的宿舍，其主题都将从{0}更改为{1}。确定吗？"
+  },
+  {
+   "key": "Message_TooManyVictorInWasteland",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN the maximum amount of Victors 被逐字搬成「最大数量的维克托」；同源 TooManyMrHandyInWasteland 已用「数量已达上限」句式。",
+   "final_fix": "您派往废土的维克托数量已达上限。"
+  },
+  {
+   "key": "Message_TutorialPopup_01_Body",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN rooms will start shutting down 译成「开始停止工作」，「开始」与「停止」相抵；末句 line 作主语又丢 your Vault。",
+   "final_fix": "当任何一项资源不足时，屏幕顶端的资源条都会变红。\n\n电力不足时，房间将陆续停止运作。\n食物不足时，居民会开始损失生命值。\n水不足时，居民会受到辐射伤害。\n\n资源条上的所需资源线显示了避难所当前的资源需求。"
+  },
+  {
+   "key": "Message_TutorialPopup_15_Body",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN equip items and weapons and use RadAway and Stimpaks：ZH 把 use 并入「配备」，且「武器，装备和治疗针和消辐宁」并列混乱。",
+   "final_fix": "您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。"
+  },
+  {
+   "key": "Message_TutorialPopup_15_Body_PC",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "与 _Body 同文：EN use RadAway and Stimpaks 被并入「配备」，并列「武器，装备和治疗针和消辐宁」连用两个「和」。",
+   "final_fix": "您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。"
+  },
+  {
+   "key": "Message_TutorialPopup_15_Body_Xbox",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN by selecting a Dweller：ZH 仍作「点击居民」，主机动作错；且 use RadAway and Stimpaks 被并入「配备」。",
+   "final_fix": "选中居民即可打开居民信息面板，为居民配备武器和装备，或者使用消辐宁和治疗针。"
+  },
+  {
+   "key": "Message_Tutorial_53_Xbox",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 单句 To access..., press [B] to open...：ZH 用句号断出悬空的「想要打开{任务列表}。」；按键字形本紧跟「按下」。",
+   "final_fix": "想要打开{任务列表}，请按下来打开{哔哔小子}。"
+  },
+  {
+   "key": "Message_Tutorial_57",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN a {DWELLER} slot：ZH「队列位置」读成排队次序；全库仅此处用「队列」，同源 59 的 slots 译「存储槽」。",
+   "final_fix": "先{选择}一个{居民}栏位。"
+  },
+  {
+   "key": "Message_Tutorial_64",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN {OBJECTIVES} 在 DE 作 tägliche ZIELE、RU 作 задачу дня，Help_Page01 亦为「每天」；ZH「每日{目标}」未产生错误信息。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_Tutorial_SpinToWinSpin",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN {TAP} the button 只有一个动词，ZH「{点击}按下按钮」把「点击」「按下」叠在同一个按钮上。",
+   "final_fix": "{点击}按钮，转！那！个！盘！"
+  },
+  {
+   "key": "Message_Tutorial_UltraciteWeaponCraftingDoubleTapRoom_Xbox",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN {HOLD} [RT] on the {...}：ZH 作「在{工坊}上{长按}[按键]近距离查看」，按键紧跟「长按」并未悬于句尾，中文通顺。",
+   "final_fix": ""
+  },
+  {
+   "key": "Message_XboxSomethingWrong",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN try again or restart the game：ZH「并」把二选一写成同时做；ES/FR/DE/RU 皆用「或」(o/ou/oder/или)。",
+   "final_fix": "出错。请重试，或重启游戏。"
+  },
+  {
+   "key": "MrHandyDialog_Generic_22",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 为 prism/prison 双关，ZH 却把「（prism，谐音监狱 prison）」注解写进台词，全库 MrHandy 仅此一处加注。",
+   "final_fix": "听说有个灯泡学坏了？他们把它关进了棱镜监狱。懂吗？棱镜？"
+  }
+ ]
+}

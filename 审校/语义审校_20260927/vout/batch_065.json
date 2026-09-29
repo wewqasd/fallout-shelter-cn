@@ -1,0 +1,110 @@
+{
+ "batch": 65,
+ "items": [
+  {
+   "key": "QuestLoc_ExtremePrejudice_Conversation_5_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "out of all of them 是「这么多里偏偏」，ZH 把状语「所有的这些避难所」堆到主语前，语序错位，「所有的这些」也不成词序。",
+   "final_fix": "这么多避难所，你们为什么偏偏看上我们的？"
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_QuestLongDescription",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「同」作介词表「跟/和」合法（同敌人斗争），rival 译「同我们竞争的」语义无误，仅书面度差异，属可接受表达。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Vault Overseer 在本任务他处作「监督者」（消灭邪恶的监督者），ZH「首领」对应的是 leader；take out 是「干掉」不是「拿下」。",
+   "final_fix": "干掉一名敌对的避难所监督者。"
+  },
+  {
+   "key": "QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「和/跟你讲同样的话」即「对你说同样的话」，与 say to you 语义吻合，是常用口语搭配，讲与说仅语体差异，非病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_FactoryFloorofFear_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN what's in my way 指物（ES lo que、DE was），ZH「谁」只能指人，与紧接的「不论虫子」相抵，应为「挡路的是什么」。",
+   "final_fix": "我才不管挡路的是什么，不管是虫子还是你们这种蠢货！"
+  },
+  {
+   "key": "QuestLoc_FamilyMatters_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "tough love 指为你好而严厉，「强悍」是强大凶猛，词义走偏；姐妹条 NPCEnd_2 同词组已作「严厉的爱」，须统一。",
+   "final_fix": "她是我的外婆，不过小心，她会咬人。我外公也是，直到把假牙弄丢了才不咬了。他们其实都是好意！我管这叫“严厉的爱”。"
+  },
+  {
+   "key": "QuestLoc_FamilyMatters_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同一 Papa 在姐妹条 NPCEnd_1 作「外公」，本条作「老爸」；假牙与「他们俩」并列指老两口，称谓自相矛盾。",
+   "final_fix": "当然是了。不过要小心，她爱咬人。外公以前也这样，直到他丢了假牙。不过他们都是好意！我管这叫“严厉的爱”。"
+  },
+  {
+   "key": "QuestLoc_FollowingHisFirstSteps_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Famed（ES famoso、DE berühmte、RU знаменитый）是大名鼎鼎，ZH「小有名气」把声望压低一档，与这位民兵身份不符。",
+   "final_fix": "大名鼎鼎的义勇军民兵——普雷斯顿·加维，失踪了！在他最后出现的地方寻找有关他去向的线索。"
+  },
+  {
+   "key": "QuestLoc_FoodFight_Conversation_1D_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只有 like 一个含糊插入语，ZH「起码……至少」两个同义下限词叠用，读来重复，保留省略号即可。",
+   "final_fix": "你知道那东西……少说也放了两百年了吧？"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2A_NPCEnd_3",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "daddy-o 是五十年代俚语泛称男性（DE Kollege），「公子哥」＝富家子，身份反；同句 Here you go 项目通译「给你」，「这就来了」不当。",
+   "final_fix": "我听到了，伙计，我听到啦。给你。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2A_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "let some parts go 是「匀出/让出一些零件」，ZH「抛开」＝心理上放下、「东西」丢掉 parts（ES piezas），交付义走失。",
+   "final_fix": "我们倒是可以匀出一些零部件。好好享用吧。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2B_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 称呼语 smoothskins 整词未译，同段 NPCStart_1 已定「光滑皮肤」，尸鬼对人类的固定叫法在 ZH 里消失。",
+   "final_fix": "听起来不错啊，“光滑皮肤”们。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2D_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Served me well way back when 是前掠夺者随口自夸，ZH「很早的时候它和我一起征战沙场」搬书面套语，与前半句口语语域不符。",
+   "final_fix": "哈，这个怎么样？当年它可帮了我不少忙。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "off limits 是规则性「不许碰」，ZH「忌讳」偏禁忌义；Just for that 是「就冲这句」，「因为这个」宾语悬空，两处生硬。",
+   "final_fix": "嘿！不许拿家人说事。就冲这句……准备“掉脑袋”吧！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「说得对」须用补语「得」，ZH「你说的对」是错别字；同批 GauntletA/B 同一句 EN 均作「你说得对」，前后不一致。",
+   "final_fix": "你说得对！你一定很了解她！"
+  }
+ ]
+}

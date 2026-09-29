@@ -1,0 +1,63 @@
+{
+  "chunk": "012",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Objective_CollectFromContainerOnQuests",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 是 Collect from {0} container on Quests（在任务中从储物箱里收集物品），ZH 把动词换成「打开了{0}个储物箱」，判定动作丢了。本表「Open」另有专译：Objective_OpenLunchbox＝「打开1个午餐盒」，同一个搜刮动作在别处译作「搜刮」（SpinToWin_Info_ActionsList「Looting quest containers」＝「搜刮任务容器」），这里写成「打开」既和 Open 类目标撞词，也与全表用词不一致。",
+      "fix": "在任务中从{0}个储物箱里收集物品",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_CollectFromContainerOnQuests_Plural",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "同 Objective_CollectFromContainerOnQuests：EN 为 Collect from {0} containers on Quests（从 N 个储物箱里收集），ZH「在任务中打开了{0}个储物箱」只说了开箱，把「收集」这一目标条件译没了，且与 Objective_OpenLunchbox「打开…午餐盒」用词重复。",
+      "fix": "在任务中从{0}个储物箱里收集物品",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_EquipRandomWeapon",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "任务目标被写成已完成态：「给1个居民配备了一件{1}」，玩家读到的是“这件事已经做过了”，而 EN 是祈使式动作（Equip 1 Dweller with a {1}）；另外「一件」是硬编码量词，{1} 会被替换成具体武器名（10mm手枪、棒球棍之类），「一件10mm手枪」量词不成立。本表同类条目 Objective_EquipUltraciteWeapon 用的是「为1名居民装备辐射极琉矿武器」。",
+      "fix": "为1名居民装备{1}",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_EquipRandomWeapon_Plural",
+      "severity": "S2",
+      "type": "数字",
+      "problem": "EN 是 Equip {0} Dwellers with a {1}，每个居民各装备一件；ZH「给{0}个居民配备了一件{1}」把单数「一件」放在 {0} 名居民之后，字面读成“{0}个人共用一件装备”，数量关系与原文不符；同时「件」未必搭得上 {1} 位置上的武器名。",
+      "fix": "为{0}名居民各装备{1}",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_Merge",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 的 together 指把两个房间“并到一起”（合成为一个房间），ZH 译成「同时」，凭空加上“必须在同一时刻完成”的时间限定，与游戏里把一个房间拖到同型房间上、一次合并两个房间的实际操作也对不上。",
+      "fix": "将两个房间合并在一起",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_Merge_Plural",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "同 Objective_Merge：EN「Merge {0} pairs of rooms together」的 together 是“合并到一起”，ZH 写成「同时合并{0}对房间」，把它误作“同时”，凭空给玩家加上“要同时完成 N 对”的条件。",
+      "fix": "将{0}对房间合并在一起",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_Couple_Plural",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「有{0}对男女性居民在宿舍里跳舞」中的「男女性居民」是把 Male and Female 逐字拼出来的生造词，中文只能说「男女居民」；同批 Objective_Couple 用的就是「一对男女居民」，两条用词不一致。",
+      "fix": "有{0}对男女居民在宿舍里跳舞",
+      "confidence": "high"
+    }
+  ]
+}

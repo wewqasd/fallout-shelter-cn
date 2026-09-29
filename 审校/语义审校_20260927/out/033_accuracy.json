@@ -1,0 +1,55 @@
+{
+ "chunk": "033",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_Ghooooooooooooooooooul_QuestLongDescription",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN 结尾的祈使句 Go check it out!（去看看！）整句消失，ZH 到「听起来像是大爆炸之前的体育广播。」就结束。同目录其它任务长描述都保留了这句行动号召（如 chunk_033 自身 QuestLoc_GhoulInBlack 译作「过去看看吧。」、chunk_047 PierIntoFuture 译作「进去看看吧」），本行任务简报因此比英文少了一步指引。",
+   "fix": "从93号避难所传来了奇怪的无线电信号。听起来像是大爆炸之前的体育广播。去看看吧！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_QuestObjective1",
+   "severity": "S2",
+   "type": "指代",
+   "problem": "EN 是 Ask about the salesperson，即「打听那位销售员（的下落）」；ZH「向销售员询问情况。」把询问对象换成了销售员本人。这条任务目标是要玩家先找到人（同一任务的短描述就是「找到尸鬼商人来帮我们布置新旅馆」），译文却让玩家以为要直接找销售员对话，指令对象搞反。",
+   "fix": "打听销售员的下落。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_Question3",
+   "severity": "S2",
+   "type": "错别字",
+   "problem": "「我已经跑命跑了好几个小时了」——「跑命」不是汉语词，是 run for my life「逃命」的错写/生造词，句子读不通。",
+   "fix": "我只想买点家具！可我已经逃命逃了好几个小时了！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCStart_1",
+   "severity": "S2",
+   "type": "多译",
+   "problem": "Standard Dweller M.O. 就是「标准居民作风」，Dweller 是游戏通用术语，全项目一致译作「居民」（chunk_001/010/074 等数百处均为「居民」）。本行却把 Dweller 音译成一个人名「德维勒」，再加括号注「（居民）」，凭空给玩家造出一个叫「德维勒」的角色。同句 past the deadline 意为「误了期限／迟了」，译成「早就过时了」也偏离原意。",
+   "fix": "标准居民的老一套作风——一成不变，而且总是误了期限。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "taking care of those wackos 是「把那些疯子收拾掉／解决掉」的委婉说法，指的是刚袭击玩家、被玩家打退的144号避难所教徒。ZH 取了「照顾」的本义（照看、看护），读起来像玩家帮她照看了这些疯子，与剧情正好拧着。",
+   "fix": "多谢你们把那些疯子收拾了！监控里的一切我都看到了。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_2_Team_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "这句话是玩家在翻看德鲁西拉刚拿出来的《144号避难所监督者指导手册》，其中的 article 指手册的「条款」：本任务上文 Article 14 就译作「手册第14条」，同一剧情线 chunk_046 的 Article 52, Subsection a 译作「第52条第A项」，chunk_047 也交代「death」是手册里被错误地首字母大写才催生了这个教派。ZH 译成「文章」会让玩家以为在读报纸刊物，而不是手册条款。",
+   "fix": "手册里每一条关于居民死亡的条款里……“死亡”都是大写的。",
+   "confidence": "medium"
+  }
+ ]
+}

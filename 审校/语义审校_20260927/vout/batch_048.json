@@ -1,0 +1,110 @@
+{
+ "batch": 48,
+ "items": [
+  {
+   "key": "Weapon_Description_JunkJet",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "how deadly…can be 应作「能有多致命」，「如何的致命」杂糅；high-speed junk 是高速飞射的杂物，ZH 读成「喷射」这个动作。",
+   "final_fix": "你绝对想不到高速飞射的破烂能有多致命。"
+  },
+  {
+   "key": "Weapon_Description_JunkJet_Electrified",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 无「你一定不知道」这层意思，属自加；never so shocking 是「从没这么震撼」，ZH「如此令人震惊」丢掉 never 的比较义。",
+   "final_fix": "被破烂电死，从来没这么震撼过。"
+  },
+  {
+   "key": "Weapon_Description_JunkJet_RecoilCompensated",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "the bad guys 是复数敌人，ZH「这个坏家伙」成单数并易读成手上这把枪；blast 是轰、猛射，不是「喷射」。",
+   "final_fix": "轰翻那些坏蛋时，站得稳稳的。"
+  },
+  {
+   "key": "Weapon_Description_JunkJet_Tactical",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "portable power 是便携火力（ES potencia、DE Power），ZH「便携式电源」变成电器电源，与 precision 并列不通。",
+   "final_fix": "便携火力与精度的最新水准。"
+  },
+  {
+   "key": "Weapon_Description_KelloggsPistol",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「历经数十年的创伤…，让这把枪…」是「经过…让…」式缺主语，历经的主体（枪或人）悬空，rendered 的施受关系读不清。",
+   "final_fix": "数十年的创伤与复仇执念，让这把枪变得致命无比。"
+  },
+  {
+   "key": "Weapon_Description_Magnum_ArmorPiercing",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "at 300 yards 是射击距离（ES a más de 300 metros），ZH「爆到300码那么远」读成被打飞的距离；Have fun≠试试看。",
+   "final_fix": "想在 300 码外一枪崩掉穿金属装甲的雇佣兵吗？好好享受吧。"
+  },
+  {
+   "key": "Weapon_Description_Magnum_Blackhawk",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "from half a Wasteland away 指隔着半个废土开枪（ES a medio yermo），ZH 说成脑袋被射到那么远。",
+   "final_fix": "隔着半个废土的距离，一枪打爆变种人巨兽的脑袋。"
+  },
+  {
+   "key": "Weapon_Description_Minigun_ArmorPiercing",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "body 是被打的身体（ES cuerpo、FR son contenu），非「尸体」；「从…做出」加插入语「和尸体上」结构杂糅。",
+   "final_fix": "能把废土上任何装甲——以及装甲下的人——都打成瑞士奶酪。"
+  },
+  {
+   "key": "Weapon_Description_Minigun_Hardened",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "rounds 指子弹的「发」（ES balas、DE Kugeln），「射击许多轮」量词错；「它肯定是有趣的」是 sure is fun 的生硬判断句。",
+   "final_fix": "其实用不着打这么多发，可这枪就是这么好玩。"
+  },
+  {
+   "key": "Weapon_Description_Minigun_LeadBelcher",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "And 是并列（ES y、RU И），译「然后」变成先后；「不停止地」非「不停地」，断句节奏也读不顺。",
+   "final_fix": "它就是。停不下来。不停地射。不停地杀。"
+  },
+  {
+   "key": "Weapon_Description_MissileLauncher_Hardened",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "delivers 是威力兑现、给力（ES cumple、DE teilt aus），ZH「能帮你」走偏；faster firing 是射速，不是「更快的速度」。",
+   "final_fix": "爆炸威力更强，射速更快。这玩意儿真给力。"
+  },
+  {
+   "key": "Weapon_Description_MissileLauncher_Rusty",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "beat up 是磕碰破旧（ES cascado、DE verbeult），「松动」说成零件松脱；still works 是还能用，不是「有效」。",
+   "final_fix": "磕碰得有点破旧，但照样能用。这才是最重要的。"
+  },
+  {
+   "key": "Weapon_Description_PipePistol_Heavy",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN「the bigger…the harder…」与 ZH「越…越…」同构，fall 仍指挨打的一方；中文主语可缺省，未构成反义。",
+   "final_fix": ""
+  },
+  {
+   "key": "Weapon_Description_PipePistol_Scoped",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN「It can now!」的 now（装上瞄准镜后才准）未译出，前后反差丢失；「它可以！」作应答也生硬。",
+   "final_fix": "这么粗糙的手枪真能打准吗？现在能了！"
+  },
+  {
+   "key": "Weapon_Description_PipeRifle_BigSister",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 是祈使句 Boss your enemies around，中文祈使本就无主语；「直到…之前」只是口语冗余，原意未改。",
+   "final_fix": ""
+  }
+ ]
+}

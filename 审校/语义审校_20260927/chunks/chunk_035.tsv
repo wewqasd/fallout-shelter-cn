@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_Headhunting_Question2_Answer2	Oh, uh, sure. So does that mean I'm off the hook for bedtime stories?	哦，嗯，好吧。这是说我可以不用再讲睡前故事了？
+QuestLoc_Headhunting_Question2_Answer3	Yes, please! I'd do anything if it means I'm done telling these weirdos bedtime stories.	求之不得！只要不用再跟这些怪人讲睡前故事，什么都行。
+QuestLoc_Headhunting_Question2_Choice1	I'm from the vault, I'm here to rescue you.	我来自避难所，来救你的。
+QuestLoc_Headhunting_Question2_Choice2	We need a motel manager.	我们需要一名旅馆经理。
+QuestLoc_Headhunting_Question2_Choice3	How about a career change?	考虑换个职业怎么样？
+QuestLoc_Headhunting_Soliloquy1	Well, this is where our trail went. A man known as “Mr. Manager” should be here.	嗯，我们的线索就到这里了。一个叫“经理先生”的人应该在这儿。
+QuestLoc_Headhunting_Soliloquy1_2	They say he can organize anything. Except for his escape from these raiders.	据说他什么都能安排妥当。就是无法安排自己从这帮掠夺者手里逃脱。
+QuestLoc_Headhunting_Soliloquy1_3	Let's break him outta here!	让我们把他救出来！
+QuestLoc_Headshots_Conversation_1_NPCEnd_1	Everyone's in the Wasteland, looking for fame - who has time for stomping bugs? We have to beat Vault 404!	所有人都在废土上，想要成名。谁有时间管这些虫子？我们必须打败404号避难所！
+QuestLoc_Headshots_Conversation_1_NPCStart_1	So you're the new kid on the block eh? Interested in getting your exploits in the Bugle?	所以你就是街区新来的小子嗬？怎么，想让号角报报道你的光辉事迹？
+QuestLoc_Headshots_Conversation_1_NPCStart_2	Heh, we don't mind some friendly competition.	喂，我们并不介意来场公平竞争。
+QuestLoc_Headshots_Conversation_1_Team_1	If you're so great, then why is your Vault infested with vermin?	如果你们真的这么厉害，那为什么你们的避难所频发虫灾呢？
+QuestLoc_Headshots_QuestLongDescription	We've discovered that someone is printing new editions of the Boston Bugle and making stars out of schlubs - we're destined for fame and fortune!	我们发现有人在印刷新一期的波士顿号角报，想把蠢货们变成明星。我们才是注定为名利而生！
+QuestLoc_Headshots_QuestName	Headshots	新闻头条
+QuestLoc_Headshots_QuestObjective_1	Learn more about the New Boston Bugle.	了解更多有关新波士顿号角报的消息。
+QuestLoc_Headshots_QuestShortDescription	Find out more about the New Boston Bugle.	找到更多有关新波士顿号角报的消息。
+QuestLoc_HeatoftheKnight_Conversation_1_NPCEnd_1	Thank you, Knight! If you hurry, you can find them at the Nuka-Cola Plant.	谢谢你，骑士！如果你们抓紧，就能在核子可乐工厂找到他们。
+QuestLoc_HeatoftheKnight_Conversation_1_NPCStart_1	I appreciate the help, but you're too late.	我很感激你们的帮助，但是你们来得太迟了。
+QuestLoc_HeatoftheKnight_Conversation_1_NPCStart_2	Some Raiders kidnapped our squad leader and I'm too wounded to continue.	一些掠夺者绑架了我们的小队首领，但我伤得太重，恐怕无法继续了。
+QuestLoc_HeatoftheKnight_Conversation_1_Team_1	Rest yourself. I'll save your squad leader.	你们休息吧。我去救你们的小队首领。
+QuestLoc_HeatoftheKnight_QuestLongDescription	We need to convince the Brotherhood of Steel that the Vault is worthy enough to be an outpost! Time to support the squad of soldiers at the RobCo Corporate Offices.	需要让钢铁兄弟会相信我们的避难所值得成为一个哨所！是时候去支援罗伯科办公大楼里的那支士兵小队了。
+QuestLoc_HeatoftheKnight_QuestName	Heat of the Knight	火热的骑士
+QuestLoc_HeatoftheKnight_QuestObjective_1	Support the soldiers at the RobCo Corporate Offices.	支持罗伯科企业办公室的士兵们。
+QuestLoc_HeatoftheKnight_QuestShortDescription	Support the Brotherhood at the RobCo Corporate Offices.	去罗伯科办公大楼支援兄弟会。
+QuestLoc_HeresthePitch_Conversation_1_NPCStart_1	Not here. But it won't be long now.	不是这里。但应该不远了。
+QuestLoc_HeresthePitch_QuestLongDescription	Coach wasn't in Vault 789, but the place did have a familiar, sour smell... We're following the stench to Sandra's Stationary Store!	教练不在789号避难所，但这地方有种熟悉的酸腐味……顺着这股味道去桑德拉文具店吧。
+QuestLoc_HeresthePitch_QuestName	Here's the Pitch...	就是这里了……
+QuestLoc_HeresthePitch_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HeresthePitch_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_1	Time to send you back down to the minors!	是时候把你们打回小联盟了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_2	Oh, you're gonna strike out sooooo hard!	哦，你们一定会被狠狠三振出局的！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_3	Now this is a real bench clearer!	看来必须要打一架了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCEnd_4	Hmmm. Okay, sure. Why not. But be careful. Coach is no joke!	嗯。好吧，当然。为什么不呢？但是记得要小心，教练可不是开玩笑的。
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_1	Wow! I heard about you! Searching the Wasteland fooorreevveer...	哇，我听说过你们！永远都在废土上寻找……
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_2	Well, you're in the right place! Rackie Jobinson's Jersey is here!	你们来对地方了！罗基·杰宾森的棒球衫就在这里！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_3	But you ain't never gonna get it!	但是你们是不可能拿到的！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_NPCStart_4	When our Coach sees you, it'll be the final inning!	等教练发现的时候，就是你们的末日了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_1	Do you have any idea what we've been through? That Outfit's Ours!	你以为我们是吃素的吗？把那件衣服交出来！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_2	Coach shmoach! We're not leaving without that Outfit!	教练就是个蠢货！我们不拿到衣服是不会走的！
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_3	Pfft. Please. We could do this in our sleep at this point.	切，省省吧。我们睡着了都能打赢。
+QuestLoc_HerestoYouRackieJobinson_Conversation_1_Team_4	We've been in, like, a million fights. I don't suppose you'd just walk away?	我们打过，呃，无数场架了。你们总不至于就这么转身开溜吧？
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_1	We'll see about that!	我们等着瞧！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_2	That's it! Let's end this!	够了！我们来了结这一切！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_3	Henrietta?! I should have known that lousy lass was involved!	亨丽埃塔？！我早该猜到这和那个糟心的女人有关！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCEnd_4	Bottom of the Ninth. 2 Outs. Tie game. We swing for the fences!	棒球比赛关键场，两人已出局，现在是平局。是时候背水一战了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_1	We meet at last, you Dweller doofuses!	我们终于见面了，你们这些愚蠢的居民！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_2	You like my notes? Ha ha ha ha ha.	你们可喜欢我留的消息？哈哈哈哈哈哈哈。
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_3	Look, I don't know why you want Rackie Jobinson's Jersey so bad...	听着，我不知道你们为什么这么想要罗基·杰宾森的棒球衫……
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_4	But it's mine! And I ain't never giving it up!	但是它是我的！我是绝不会放弃它的！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_1	Hey Coach? You're fired!	喂，教练？你被炒鱿鱼了！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_2	Try not to bleed too much on my Jersey!	尽量别把血溅到我的棒球衫上！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_3	Henrietta says hello!	亨丽埃塔要我们代她向你问声好！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_4	So what's the play, Coach?	所以我们要怎么玩儿，教练？
+QuestLoc_HerestoYouRackieJobinson_QuestLongDescription	This is it, the end of the game! It's a bench-clearing brawl with Coach in the Dugout. Time to retire this washout, and claim Rackie Jobinson's Jersey for our own!	就是这里，大结局了！在球员休息区跟教练来一场全线群架。是该让这个失败者退役，把罗基·杰宾森的棒球衫拿回来了！
+QuestLoc_HerestoYouRackieJobinson_QuestName	Here's to You, Rackie Jobinson	为了你，罗基·杰宾森。
+QuestLoc_HerestoYouRackieJobinson_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HerestoYouRackieJobinson_QuestShortDescription	Bottom of the 9th! Head to the Dugout and get that Jersey!	第九局下半！去球员休息区把那件棒球衫拿到手！
+QuestLoc_HighSteaks_Conversation_1_NPCEnd_1	So... a regular chef, then. Here, take this for your trouble.	所以说……你就是个普通厨师喽。来，这个就当你辛苦一趟的谢礼。
+QuestLoc_HighSteaks_Conversation_1_NPCEnd_2	Why? It's so stringy it's barely edible. And the taste... yuck!	为什么？这肉又柴又嚼不动，几乎没法吃。而且这味道……呕！
+QuestLoc_HighSteaks_Conversation_1_NPCEnd_3	As it turns out, I'm pretty good at playing dead.	我发现，我还是挺擅长装死的。
+QuestLoc_HighSteaks_Conversation_1_NPCStart_1	Oh, my! You guys shouldn't be here.	我的天！你们不应该在这里的！
+QuestLoc_HighSteaks_Conversation_1_NPCStart_2	This cave is literally crawling with Deathclaws!	这个洞穴里全都是死爪！
+QuestLoc_HighSteaks_Conversation_1_Team_1	We were sent here by our borderline-homicidal chef.	我们是被一个随时想宰人的大厨派来的。
+QuestLoc_HighSteaks_Conversation_1_Team_2	We've come for some Deathclaw meat.	我们来是想要一些死爪肉。
+QuestLoc_HighSteaks_Conversation_1_Team_3	How come the Deathclaws haven't killed you yet?	为什么死爪还没有杀死你们？
+QuestLoc_HighSteaks_QuestLongDescription	Okay, so that Radscorpion omelet was kind of gross. To make up for it, the chef proposes to make his trademark Deathclaw Wellington. All he needs is fresh Deathclaw meat, straight from their den (sunlight is said to alter the taste).	好吧，辐射蝎蛋卷还是有点恶心的。为了弥补，大厨提议把威灵顿死爪作为他的招牌菜，他只需要深藏巢穴里新鲜的死爪肉就行（据说光照会破坏味道）。
+QuestLoc_HighSteaks_QuestName	High Steaks	高风险
+QuestLoc_HighSteaks_QuestObjective_1	Kill the Alpha Deathclaw and harvest its meat.	消灭领头死爪，取得它的肉。
+QuestLoc_HighSteaks_QuestShortDescription	Bring Deathclaw meat back to the chef.	把死爪肉带给大厨。
+QuestLoc_HighSteaks_RaiderLine_1	Meat is murder... The good kind.	肉就意味着杀害……当然是好的那种杀害。
+QuestLoc_HighSteaks_RaiderLine_2	Come on, this meat can't be beat!	来啊，这肉可是天下无敌的！
+QuestLoc_HighSteaks_RaiderLine_3	Coming here might have been a mis-steak.	来这里可能是个错误。
+QuestLoc_HittingtheBooks_Conversation_1_NPCEnd_1	No, but ask Herb Vest at the old candy factory. And here, take my costume.	不，不过去问问旧糖果厂的赫伯韦斯特吧。来，把我的戏服拿去。
+QuestLoc_HittingtheBooks_Conversation_1_NPCStart_1	Happy Halloween! I'm Howard Phillips, the caretaker of this old library.	万圣节快乐！我是霍华德菲利普斯，旧图书馆的管理员。
+QuestLoc_HittingtheBooks_Conversation_1_NPCStart_2	Thank you for taking care of our pest problem.	谢谢你帮忙解决了我们的害虫问题。
+QuestLoc_HittingtheBooks_Conversation_1_NPCStart_3	How can I help you in return?	我该怎么做来报答你呢？
+QuestLoc_HittingtheBooks_Conversation_1_Team_1	Do you know anything about Vault 31?	你知道有关31号避难所的消息吗？
+QuestLoc_HittingtheBooks_QuestLongDescription	As Halloween approaches, the story of Vault 31 and its strange past is being told once again. But is the Vault really haunted, or is something else to blame? It's up to you to solve... The Mystery of Vault 31!	随着万圣节临近，有关31号避难所的故事和它奇怪的过去再一次流传了起来。但是到底是避难所真的闹鬼，还是有其他的什么原因？31避难所之谜正等待你去解决！
+QuestLoc_HittingtheBooks_QuestName	Halloween (Non)Fiction	万圣节小说
+QuestLoc_HittingtheBooks_QuestObjective_1	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
+QuestLoc_HittingtheBooks_QuestShortDescription	Learn more about Vault 31 at the ruined library.	在图书馆废墟打探更多关于31号避难所的消息。
+QuestLoc_HomeFieldAdvantage_Conversation_1_NPCStart_1	So close... but yet so far.	感觉很近……又感觉很远。
+QuestLoc_HomeFieldAdvantage_QuestLongDescription	Could Coach be hiding out in the old pencil factory? Probably not. But we're going to look there anyway.	教练会藏在旧铅笔厂吗？大概不会。但无论如何还是查看一下。
+QuestLoc_HomeFieldAdvantage_QuestName	Home-Field Advantage	主场优势
+QuestLoc_HomeFieldAdvantage_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HomeFieldAdvantage_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HomerunDerby_Conversation_1_NPCStart_1	If Coach was here with the Jersey, he's long gone now.	如果教练在这里拿着棒球衫，现在应该早就走远了吧。
+QuestLoc_HomerunDerby_QuestLongDescription	Call it a gut feeling, but Coach may be taking a breather in the ruins of Holy Heart Hospital. If he's there, so is Rackie Jobinson's Jersey!	就算是直觉吧，我看教练可能在圣心脏医院的废墟里歇脚。只要他在那儿，罗基·杰宾森的棒球衫也一定在！
+QuestLoc_HomerunDerby_QuestName	Homerun Derby	职业棒球大联盟全垒打大赛
+QuestLoc_HomerunDerby_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HomerunDerby_QuestShortDescription	Comb through Holy Heart Hospital.	搜索圣心脏医院。
+QuestLoc_Homerun_Conversation_1_NPCStart_1	I smell something foul! Coach must have been here recently!	我闻到了腐臭的味道！教练应该不久前就在这儿！
+QuestLoc_Homerun_QuestLongDescription	Still no Coach, and no Rackie Jobinson's Jersey. But he's close! I can sense it. Or maybe it's just his lingering B.O. In any event, it's time to search the Precious Paws Pet Store!	还是没有教练或是棒球衫的影子。但他应该就在附近了！我能感觉到。还是说只是他的狐臭！无论如何，我们去搜搜宝贝爪爪宠物商店吧！
+QuestLoc_Homerun_QuestName	Homerun!	全垒打！
+QuestLoc_Homerun_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_Homerun_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_1	Awesome, we're off the hook! Here you go.	太好了！我们脱险了！干得漂亮！
+QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_2	Awesome, we're off the hook! Here you go.	太好了！我们脱险了！干得漂亮！
+QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_3	Fine by us! Here you go.	我们没问题！干得漂亮。
+QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_4	I guess that's fair. A good reputation isn't going to keep itself!	我想你们还算讲道理。一个好的名声可不会自己从天上掉下来！
+QuestLoc_HoneymoonHorror_Conversation_1_NPCStart_1	We're the rescue party, but we're not going any deeper with all the Radscorpions around!	我们是救援小队，但是周围有这么多辐射蝎，我们无法走得更深了！
+QuestLoc_HoneymoonHorror_Conversation_1_NPCStart_2	After all, the food at the wedding was awful! Why risk our lives for them?	不管怎么说，婚礼上的食物太难吃了！为什么要冒着自己的生命危险来做这些？
+QuestLoc_HoneymoonHorror_Conversation_1_NPCStart_3	So we sent the cat ahead to find them and bring them back.	所以我们把猫先派去找他们，然后带他们回来。
+QuestLoc_HoneymoonHorror_Conversation_1_NPCStart_4	Now... why are you here again?	现在……为什么又在这里了？
+QuestLoc_HoneymoonHorror_Conversation_1_Team_1	To do your job. So hand over those Stimpaks.	做好你自己的事。把那些治疗针交过来吧。
+QuestLoc_HoneymoonHorror_Conversation_1_Team_2	To do your job. Now give us your RadAway. You won't be needing them.	做好你自己的事。把你们的消辐宁给我们。你们反正也用不上了。
+QuestLoc_HoneymoonHorror_Conversation_1_Team_3	To do your job. And we'll be taking one of your Laser Rifles to help us out.	做好你自己的事。把你们的一把激光步枪给我们吧。
+QuestLoc_HoneymoonHorror_Conversation_1_Team_4	To do your job. But we'll keep quiet about your cowardice if you've got enough Caps.	做好你自己的事。只要有足够的瓶盖，我们绝对不会告诉别人你们是胆小鬼的。
+QuestLoc_HoneymoonHorror_Conversation_2_NPCEnd_1	Fine. But you're stuck with the ugly dress they gave me. A dusty Librarian Outfit? Really?	好吧。不过你们只能收下他们给我的那件丑衣服了。一件灰扑扑的图书管理员服？认真的？
+QuestLoc_HoneymoonHorror_Conversation_2_NPCEnd_2	Darling, I'll never forget you as I toil away in complete safety. Stay strong!	亲爱的，当我在一个完全安全的环境下辛苦工作的时候，我永远都不会忘记你的。你 一定要坚强！
+QuestLoc_HoneymoonHorror_Conversation_2_NPCEnd_3	My husband would never aband... Oh, you want to go? Fine then. Go.	我丈夫永远不会抛……哦，你想走了？那好，你走吧。
+QuestLoc_HoneymoonHorror_Conversation_2_NPCEnd_4	Thanks! But can you also take this Formal Wear back for us? It's a rental.	谢谢！但你们能帮我们把这件正装也带回去吗？这是我们租来的。
+QuestLoc_HoneymoonHorror_Conversation_2_NPCStart_1	We're saved! Thank you so much!	我们得救了！非常感谢！
+QuestLoc_HoneymoonHorror_Conversation_2_NPCStart_2	A nice cat kept us safe when those creatures attacked! But otherwise it just slept...	那些怪物攻击我们的时候，是一只可爱的小猫保护我们！但其他时候，它都在睡觉……
+QuestLoc_HoneymoonHorror_Conversation_2_NPCStart_3	But please don't take us back to the settlement. It's horrible there!	但请不要带我们回去，那里太可怕了！
+QuestLoc_HoneymoonHorror_Conversation_2_NPCStart_4	The wedding gifts we got were so cheap! We can't imagine going back.	我们收到的结婚礼物太廉价了！根本不能想象回去之后会是什么鬼样子。
+QuestLoc_HoneymoonHorror_Conversation_2_Team_1	Would you please just shut up and go home already? You've caused enough trouble.	你们能闭嘴然后赶紧回去吗？你们已经惹了这么大的麻烦了。
+QuestLoc_HoneymoonHorror_Conversation_2_Team_2	Actually, there's room in my Vault for one more person. Patricia, you can come.	其实，我们的避难所还有一个人的空间，帕特里夏，你可以跟我们回去。
+QuestLoc_HoneymoonHorror_Conversation_2_Team_3	You know... there's room in my Vault for one more person. Grant, you're invited.	你知道……我们避难所还有一个人的空间，格兰特，我们邀请你们加入我们。
+QuestLoc_HoneymoonHorror_Conversation_2_Team_4	Sure, I'll just tell your settlement the Radscorpions got you.	没问题，我会告诉你们定居点：你被辐射蝎抓走了。
+QuestLoc_HoneymoonHorror_QuestLongDescription	Some newlyweds from a nearby settlement went to a secluded cave to “celebrate” in private. They haven't returned, and neither has the original rescue party! Maybe those rumors of Radscorpions are true after all. Better gear up!	来自附近定居点的某对新婚夫妇去了一个偏僻的山洞“度蜜月”。他们至今未归，第一批救援队也一去不回！也许关于辐射蝎的传闻是真的。最好带上家伙！
+QuestLoc_HoneymoonHorror_QuestName	Honeymoon Horror	蜜月惊魂
+QuestLoc_HoneymoonHorror_QuestObjective_1	Rescue the newlyweds.	拯救新婚夫妇。
+QuestLoc_HoneymoonHorror_QuestObjective_2	Kill the Glowing Radscorpion.	消灭发光辐射蝎。
+QuestLoc_HoneymoonHorror_QuestObjective_3	Discover the fate of the original rescue party.	调查最初的拯救小队发生了什么。
+QuestLoc_HoneymoonHorror_QuestShortDescription	Rescue the newlyweds from the Radscorpions.	从辐射蝎手中拯救新婚夫妇。
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCEnd_1	Wow, that's a great offer, thanks! I'll do it!	哇，那真是不错的条件，谢谢！我会做的！
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCEnd_2	Yeah, maybe. Anyway, thanks for the help!	是啊，也许吧。不管怎么样，感谢帮助！
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCStart_1	Wait, don't shoot! This is just a costume!	等等，先别开枪！这只是件戏服！
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCStart_2	We were making an amateur horror film when these roaches showed up.	我们只是想在这些蟑螂出现的时候拍摄一部业余的恐怖电影。
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCStart_3	My crew just ran away and left me here. Disappointing.	我们团队的其他成员跑掉了，把我留在这。真失望。
+QuestLoc_HopontheRoachCoach_Conversation_1_NPCStart_4	At least we'll have some cool footage!	至少我们能拿到一些超酷的镜头画面！
+QuestLoc_HopontheRoachCoach_Conversation_1_Team_1	You could always join our Vault. We value loyalty.	你可以加入我们的避难所啊。我们很看重忠诚。
+QuestLoc_HopontheRoachCoach_Conversation_1_Team_2	Well, maybe next time you'll make better choices.	好吧，也许下次你们会做出更好的选择。
+QuestLoc_HopontheRoachCoach_QuestLongDescription	Abandoned Super-Duper Marts sometimes contain useful stuff. They also often serve as lairs for dangerous creatures. Be careful!	废弃的大无敌超市有时候保存着有用的东西。它们通常也是危险生物的老巢。要当心！
+QuestLoc_HopontheRoachCoach_QuestName	Hop on the Roach Coach	跳上蟑螂车
+QuestLoc_HopontheRoachCoach_QuestObjective_1	Look for loot in the Super-Duper Mart.	在大无敌超市寻找战利品。
+QuestLoc_HopontheRoachCoach_QuestShortDescription	Check out the Super-Duper Mart for loot.	在大无敌超市寻找战利品。
+QuestLoc_HopontheRoachCoach_RaiderLine_1	I guess whatever food was left is long gone now...	我想剩下的食物早就不见了……
+QuestLoc_HorrorMovieNight_QuestLongDescription	One of your Dwellers is feeling... “inspired” by a horror movie he watched.	你的一位居民受到了某部恐怖电影的“启发”。
+QuestLoc_HorrorMovieNight_QuestName	Horror Movie Night!	恐怖电影之夜！
+QuestLoc_HorrorMovieNight_QuestObjective_1	Kill the Raider Boss.	消灭掠夺者首领。
+QuestLoc_HorrorMovieNight_QuestShortDescription	Send out a lone Vault Dweller wearing a Ghost Costume to wreak havoc!	派一位穿着鬼服的避难所居民，去制造大混乱吧！
+QuestLoc_HorrorMovieNight_RaiderLine_1	Think you're scary, pal? Get them!	笑话，你以为自己很吓人？给我拿下他！
+QuestLoc_HorrorMovieNight_RaiderLine_2	It's unstoppable!	怎么办，我们拦不住他！
+QuestLoc_HorrorMovieNight_RaiderLine_3	Nooooo! Get away! Aaaah!	不要啊！！快走开！！！啊啊啊啊啊！！
+QuestLoc_HorrorMovieNight_RaiderLine_4	Let's see who's scariest! Boo!	让我们来瞧瞧谁是最吓人的！哈！！
+QuestLoc_HorsemenofthePostApocalypsePart1_QuestlineName	Horsemen of the Post-Apocalypse Part 1	后末日时代的骑士 第一部
+QuestLoc_HorsemenofthePostApocalypsePart2_QuestlineName	Horsemen of the Post-Apocalypse Part 2	后末日时代的骑士 第二部
+QuestLoc_HorsemenofthePostApocalypsePart3_QuestlineName	Horsemen of the Post-Apocalypse Part 3	后末日时代的骑士 第三部
+QuestLoc_HostageNegotiations_Conversation_1_NPCStart_1	Are you kidding me?	你在搞笑吗？
+QuestLoc_HostageNegotiations_Conversation_1_NPCStart_2	I don't even have to go looking for chumps to grab.	我都不需要出去找，笨蛋就自己来了。
+QuestLoc_HostageNegotiations_Conversation_1_NPCStart_3	Now they just come straight to me!	现在他们直接就朝我来了！
+QuestLoc_HostageNegotiations_Conversation_1_NPCStart_4	Get 'em, boys!	抓住他们，小的们！
+QuestLoc_HostageNegotiations_Conversation_2_NPCStart_1	Oh, thank you!	哦，谢谢你！
+QuestLoc_HostageNegotiations_Conversation_2_NPCStart_2	I've been stuck in here for so long.	我被困在这里好久了。
+QuestLoc_HostageNegotiations_Conversation_2_NPCStart_3	I don't know what they would have done to me!	如果不是你们，还真不知道他们会对我做什么！
+QuestLoc_HostageNegotiations_Conversation_2_NPCStart_4	Here, this is all I can offer you.	拿着，这是所有我能够给你们的。
+QuestLoc_HostageNegotiations_Conversation_3_NPCStart_1	I'm saved!	我得救了！
+QuestLoc_HostageNegotiations_Conversation_3_NPCStart_2	I never thought I'd make it out of here alive!	我从没想过我能活着出来！
+QuestLoc_HostageNegotiations_Conversation_3_NPCStart_3	I don't have much, but it's all yours!	我有的东西不多，但全都给你！
+QuestLoc_HostageNegotiations_QuestLongDescription	Raiders have been snatching up folks all over the Wasteland. Put an end to their scheme, and save their victims.	掠夺者们在废土上到处欺负善良的人们。拯救那些受害者，终结这一切吧！
+QuestLoc_HostageNegotiations_QuestName	Hostage Negotiations	拯救人质谈判
+QuestLoc_HostageNegotiations_QuestObjective_1	Stop the Raiders.	阻止掠夺者。
+QuestLoc_HostageNegotiations_QuestObjective_2	Rescue the hostage.	拯救人质。
+QuestLoc_HostageNegotiations_QuestObjective_3	Rescue the hostage.	拯救人质。
+QuestLoc_HostageNegotiations_QuestShortDescription	Defeat the kidnappers and save their victims.	打败绑匪，拯救受害者。
+QuestLoc_HotTubSlimeMachine_Conversation_1_NPCStart_1	What the..? More adventurers looking for the pool?	什么鬼……？继续寻找水池？
+QuestLoc_HotTubSlimeMachine_Conversation_1_NPCStart_2	We drained that thing years ago so we could have drinking water!	我们几年前就抽干了它，为了得到饮用水呀！
+QuestLoc_HotTubSlimeMachine_Conversation_1_NPCStart_3	Sorry you came all this way. Here, maybe this will make up for it.	抱歉让你们跑那么远来这里。这个拿着，当做是一点补偿。
+QuestLoc_HotTubSlimeMachine_QuestLongDescription	Rumors have been circulating about a Vault with a pool, sauna, and even a hot tub! Search Vault 189 to find this oasis of relaxation, but beware of the ghoul infestation!	有传闻说某个避难所里有一个水池，可以蒸桑拿，甚至泡热水澡！去189号避难所寻找这个让人放松休息的绿洲吧。但小心尸鬼！
+QuestLoc_HotTubSlimeMachine_QuestName	Hot Tub Slime Machine	热水器
+QuestLoc_HotTubSlimeMachine_QuestObjective_1	Find the pool room.	寻找有水池的房间。
+QuestLoc_HotTubSlimeMachine_QuestObjective_2	Kill the Glowing One.	消灭发光种。
+QuestLoc_HotTubSlimeMachine_QuestShortDescription	Find the pool room in Vault 189.	寻找189号避难所的水池房间。
+QuestLoc_HouseWarming_1_CombatInit1	Hey! You broke my concentration! I would have won!	嘿！你打断了我的专注！我本来要赢的！
+QuestLoc_HouseWarming_1_CombatInit2	I lost big! I need your stuff so I can win big next time!	我输惨了！我要你的东西，好让我下次赢个大的！
+QuestLoc_HouseWarming_1_CombatInit3	Organs! SELL FOR CASH!	器官！卖钱！
+QuestLoc_HouseWarming_1_QuestLongDesc	We're throwing a party for Mr. House, and we want all the most interesting people there. The only invite left to deliver is to Maximus! Find him on the Strip!	我们要为豪斯先生办一场派对，想把所有最有趣的人都请来。最后一张请柬要送给马克西姆斯！去新维加斯大道上找他！
+QuestLoc_HouseWarming_1_QuestName	Party to the Max	派对到马克

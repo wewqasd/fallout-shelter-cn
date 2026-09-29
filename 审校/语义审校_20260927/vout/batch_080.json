@@ -1,0 +1,110 @@
+{
+ "batch": 80,
+ "items": [
+  {
+   "key": "QuestLoc_Vault789_QuestLongDescription",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「给X的广告」同「给X的礼物」，义即「为X做的广告」，与 EN for Vault 789 一致，不构成误读。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewB_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "briefcase=公文包（ES maletín、DE Aktentasche），ZH「行李箱」指行李厢，物件指称错。",
+   "final_fix": "是的！现在拿着这个公文包。这次见面从未发生过……"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewB_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「给我们你们避难所的情报」两个「你们」相连拗口；or else! 的威胁宜译实为「不然有你们好看」。",
+   "final_fix": "把你们避难所的情报交出来，不然有你们好看！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewB_Conversation_2_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "choice intel=上等／精选情报（ES información de primera），ZH 误读成序数「第一条」，反讽尽失。",
+   "final_fix": "给你一条绝佳情报：避难所在地下。"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewC_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 用 thee／thou 古语塑造骑士（We dub thee），ZH「才是王道」是现代惯用语，语域冲突。",
+   "final_fix": "此地以骑士准则为尊。"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewC_Conversation_3_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "our land=我国土（ES nuestra tierra、DE Landes），ZH「城堡里」凭空添 castle 并丢掉 our。",
+   "final_fix": "我们国土上的财富都是你们的。"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_1_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「出场外」已译出 out 的逐出义，ring 在同场景多处亦作泛称（请入场），属可接受意译。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_VaultopolisAwaits_QuestName",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "utopia 在同任务已译「桃花源」（For we are... utopia），任务名与之呼应，且任务名允许意译。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_NPCStart_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "have started=已开打，ZH「都快……开始了」反成未发生；serials 应作连载小说以合「第二卷第七期」。",
+   "final_fix": "那些呆子因为这些愚蠢的连载小说，已经开始互相开枪了！"
+  },
+  {
+   "key": "QuestLoc_WastelandTheMusical_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「停止」不能带兼语「掠夺者威胁整个地区」，须用阻止／制止；the area 亦非「整个地区」。",
+   "final_fix": "阻止一帮唱歌的掠夺者在这一带制造恐慌。"
+  },
+  {
+   "key": "QuestLoc_WaterintoBrine_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "hassling=反复找麻烦（FR nous harcèle），「给脸色看」是摆冷脸，词义走偏；Tell you what 宜作这样吧。",
+   "final_fix": "这样吧，有些掠夺者一直在找我们麻烦。干掉他们的头目，我们就告诉你。成交？"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Honeycakes 是伴侣昵称（ES Cielito、DE Schatz），ZH 译成点心「蜂蜜蛋糕」，称呼变成问蛋糕。",
+   "final_fix": "你说得对！小甜心？我们一起逃走吧！"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "If only they'd communicate＝他们要是肯沟通就好了，ZH「根本不知道该怎么交流」把不肯说成不会。",
+   "final_fix": "臭名昭著的掠夺者“刀锋萨莉”要和声名狼藉的“铁锤马克斯”结婚了。但两人都还在犹豫，因为他们都不想再过掠夺者的日子了。他们要是肯沟通就好了！赶紧闯进去替他们解决问题吧。"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Need to know 缺主语似说明书，句尾顿号「、」截断；bride／groom 也无「熟人」义。",
+   "final_fix": "你是新娘那边的，还是新郎那边的？我得知道该把你们埋在哪个坑里。"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "wedding＝婚礼（ES boda、DE Hochzeit），ZH「婚姻」指夫妻关系状态，用词错且语序拗。",
+   "final_fix": "耶！血肉横飞！这才叫婚礼嘛！"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "batch": 67,
+ "items": [
+  {
+   "key": "QuestLoc_GasNGo_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "pump 指加油泵/油枪（ES bomba、IT pompa、RU насос 均同），ZH「管道」是 pipe，指代物错，加油站顾客玩梗落空。",
+   "final_fix": "能给我来点二号加油泵的无铅汽油吗？"
+  },
+  {
+   "key": "QuestLoc_GasNGo_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "your 在「一位居民」中被抹掉；「一位掠夺者」对敌人误用敬语量词「位」（EN a Raider），应作「一名」。",
+   "final_fix": "你的一名居民在废弃的红火箭服务站遇到了一名掠夺者。趁他还没动身前往你的避难所，赶紧阻止他！"
+  },
+  {
+   "key": "QuestLoc_GetinLine_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "关卡在大无敌超市里，check out 指收银台结账（DE 明写 an der Kasse），「退房」是酒店义项，双关落空。",
+   "final_fix": "你马上就要“结账”了——永远地！"
+  },
+  {
+   "key": "QuestLoc_GhoulInBlack_Conversation02_NPC02",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "while I dug myself out 译成「给我机会把我自己挖出来」，两个「我」叠用且丢同时性；a mite cramped=有点挤，非「憋死」。",
+   "final_fix": "谢谢你帮我拖住他们，我这才把自己挖了出来。里面挤得够呛。"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_Question2_Answer1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只说 they get stuck in my skin，「会很痛」是凭空添加（ES、RU 亦无痛感）；if I do that 的条件也被丢掉。",
+   "final_fix": "太好了！我也喜欢在瓶盖里打滚。唔，其实也不是，这么干的话瓶盖会卡进我的皮肤里。"
+  },
+  {
+   "key": "QuestLoc_GhoulSupplies_Question3_Answer1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "barter 是以物易物（ES trueque、DE eintauschen、RU обменять），译「谈判」改变了枪的用途，玩家会误解他原打算。",
+   "final_fix": "谢天谢地。拿着这把我本来准备拿去换东西的枪！"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Triplicate backups 应为「一式三份的备份」，同对话 Team_1 正是此译；「三备份」不成词，「得到这些」是英文语序。",
+   "final_fix": "什么？备份还一式三份？等杀了你，我们照样拿得到。"
+  },
+  {
+   "key": "QuestLoc_GivemeLibertyandorDeath_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "The quota must be met 硬搬成「配额必须被满足」；中文不说「配额被满足」（ES 作 alcanzar），口号宜作「凑够配额」。",
+   "final_fix": "必须凑够配额！"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_Question1_Answer2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「这条裙」漏「子」，中文「裙」不能单独作名词（EN dress）；when I was younger 现译仅以「以前」笼统带过。",
+   "final_fix": "哼，随便，把我以前穿的这条裙子拿去吧。"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_1_Question3_Choice1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Give a big smile 是拍照时「笑一个」，现译「大大地笑」不成话；初审 fix 的「咧嘴大笑」是放声大笑，与相机场景不符。",
+   "final_fix": "<露出大大的笑容>"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_3_Question2_Choice1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "you can live 意即饶你一命（DE: am Leben lassen），「你就可以活着」生硬；「奴隶商」应作「奴隶贩子」。",
+   "final_fix": "告诉我们奴隶贩子在哪儿，就饶你一命。"
+  },
+  {
+   "key": "QuestLoc_GoingToTown_3_Question3_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "get to them 即前句那处废弃避难所，译「到达那里」指代无误（RU 亦作 туда）；「要…，才能…」是常规句式，非病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_GoingToTown_3_Question5_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "「那些奴隶贩子制造我卖给你的假血清的实验室」三层定语无停顿；初审 fix 的「造出」丢了 are making 的进行义，焦点也移开。",
+   "final_fix": "这就是那间实验室——那些奴隶贩子在里面制造我卖给你们的那种假血清。"
+  },
+  {
+   "key": "QuestLoc_GuardianoftheWastes:Deathclaws_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 的 a nearby nest 在「那一窝」中丢了 nearby；「危险的，被辐射过的」并列定语用逗号不成词；同 EN 另 4 条任务需同步改。",
+   "final_fix": "我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！"
+  },
+  {
+   "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "nothing happened to me 逐字搬成「没有什么发生在我身上」，中文不这样说（DE: nichts passiert）。",
+   "final_fix": "我喝了，味道又香又纯，可我身上什么反应也没有。"
+  }
+ ]
+}

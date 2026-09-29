@@ -1,0 +1,55 @@
+{
+ "chunk": "031",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_3",
+   "severity": "S1",
+   "type": "乱译",
+   "problem": "EN「Close but no cigar.」被逐字硬译成「很接近但是不是。」，后半句不成句，「但是不是」读不通（疑似机翻崩坏）。要表达的是「差一点就答对了（可惜还差一口气）」，且下一句的「Now we're going to make you...」是主持人主动宣称「我们要让你掉脑袋」，ZH 改成「现在准备好……」把主语丢了。",
+   "fix": "差一点就答对了。现在我们要让你……“掉脑袋”了！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_3_NPCEnd_4",
+   "severity": "S2",
+   "type": "病句",
+   "problem": "「但你必须一定很渴望失败！」把表必然的「必须」和「一定」叠用，中文不通（EN「you must have a thirst for failure」里的 must 表推测，对应的是「一定／想必」）。这是已发布文本里肉眼可见的病句。",
+   "fix": "不对，但你一定很渴望失败！准备好……“掉脑袋”吧！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_2",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN 的包袱是主持人先说半句处决台词「Off with your...」（砍掉你的……），随即自我打断「no...」，再改成节目口号「Lose Your Head!」。ZH「那真是个愚蠢的名字。好吧，准备……“掉脑袋”吧！」把「Off with your... no...」整段丢掉了，又凭空补了原文没有的「好吧」，笑话的双关与节奏全失。",
+   "fix": "那真是个愚蠢的名字。砍掉你的……不对……“掉脑袋”吧！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_3_NPCEnd_1",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN「Heads will roll when you... Lose Your Head!」用的是习语 heads will roll（人头落地），ZH 译成「“掉脑袋”之后……“脑袋会自动滚开”的」：既自创了原文没有的「自动」，又把「你掉脑袋的同一刻人头落地」的双关改成先后顺序（脑袋都掉了，头再「自动滚开」逻辑上讲不通），句末挂个「的」也很生硬。",
+   "fix": "哦！是汤姆，不是泰德。你的人头就要落地了，准备……“掉脑袋”吧！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletG_Conversation_3_NPCStart_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "题干 EN「Super Mutants were created using...」问的是「超级变种人是用什么造出来的」，ZH「超级变种人的构成是……」把「制造方式」说成了「组成成分」——强制进化病毒是制造手段，并不是变种人的组成部分，题干含义被改（下一项干扰答案「一杯水」也是按「拿什么做出来」设计的）。",
+   "fix": "超级变种人是用什么造出来的……",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletF_Conversation_1_Team_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "Reilly's Rangers 是《辐射3》里那支雇佣兵组织，ranger 指游骑兵，不是骑兵（cavalry），「莱莉的骑兵」会让玩家以为是一支骑马部队；本批其他条目对本项目既有译法也是 Ranger→游骑兵（Outfit_Name_NCR_Ranger=新加州共和国游骑兵制服）。",
+   "fix": "莱莉的游骑兵。",
+   "confidence": "medium"
+  }
+ ]
+}

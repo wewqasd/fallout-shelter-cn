@@ -1,0 +1,110 @@
+{
+  "batch": 10,
+  "items": [
+    {
+      "key": "Outfit_Description_InstituteJumper_Expert",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN skip the identity crisis＝省掉身份认同危机（各语言同），ZH「身份被怀疑」变成遭他人猜疑，方向错了。",
+      "final_fix": "让你看起来像个合成人——省掉身份认同危机。"
+    },
+    {
+      "key": "Outfit_Description_JailhouseRocker",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "源文件 data/translations.json 该行就是字面反斜杠 \\“猫王帮\\”，全表仅此一处（其余 160 处 \\ 都是 \\n）。",
+      "final_fix": "末日前猫王《监狱摇滚》演出服的复制品，曾由新维加斯帮派“猫王帮”穿着。"
+    },
+    {
+      "key": "Outfit_Description_LabCoat_Advanced",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN warp travel＝曲速航行（DE Warp-Reisen、IT curva lo spaziotempo），ZH「弯曲旅行」照字面拆词，不成术语。",
+      "final_fix": "分裂原子，或者发明曲速航行——全都能赶在午饭前搞定。"
+    },
+    {
+      "key": "Outfit_Description_LibrarianSpecial",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN print 指纸媒印刷（DE Druckerzeugnisse），ZH「打印」指打印机输出；in the future 被挪去修饰「人类」。",
+      "final_fix": "向所有人证明：在未来，纸质印刷并没有消亡。"
+    },
+    {
+      "key": "Outfit_Description_MaJuneJacket",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN clutch their pearls＝大惊小怪（DE Händeringen），ZH「感到害怕」换成恐惧；they 泛指被写成「她」。",
+      "final_fix": "别指望穿着这身行头的人会大惊小怪，十有八九他们手里已经端着步枪了。"
+    },
+    {
+      "key": "Outfit_Description_MoviefanSpecial",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN drive-in＝露天汽车影院（ES autocine、DE Autokino），ZH 多出「通道」，把影院写成车道，场景丢失。",
+      "final_fix": "最适合在废弃的老式汽车影院里消磨时光。"
+    },
+    {
+      "key": "Outfit_Description_PowerArmor_T45d",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN against Chinese tanks＝对抗中国坦克（ES/DE/RU 均为中国），ZH「外国坦克」丢掉专名；句末「的」成残句。",
+      "final_fix": "战前被派去对抗中国坦克。你没听错——就是坦克。"
+    },
+    {
+      "key": "Outfit_Description_RaiderArmor_Heavy",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN For the psycho in charge of…＝给那个统领其他疯子的疯子准备的，ZH 缺「给」字，状语与中心语杂糅成残句。",
+      "final_fix": "给那个管着其他疯子的疯子准备的。"
+    },
+    {
+      "key": "Outfit_Description_RiotGear_Sturdy",
+      "verdict": "confirm",
+      "severity": "S3",
+      "reason": "EN the Wastes 全表作「废土」（415 处），此处「废墟」对应 ruins；「处理得……有型」动补搭配不通。",
+      "final_fix": "废土扔过来什么，你都能帅气地接住。"
+    },
+    {
+      "key": "Outfit_Description_ScientistScrubs_Commander",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN people jump 指听命弹起（FR s'exécutent），ZH 加「激动」；句末 High.＝跳得老高，ZH「很高。」缺主语。",
+      "final_fix": "你一下令，人们就会跳起来。跳得老高。"
+    },
+    {
+      "key": "Outfit_Description_ScientistScrubs_Officer",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN For those times＝那些场合/时刻（ES ocasiones），ZH「为了在某些日子」介词结构后缺中心语，不成句。",
+      "final_fix": "适合那些你必须拿出威严气场的场合。"
+    },
+    {
+      "key": "Outfit_Description_SpecialThemeHalloween2",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN an American circa 2078 是名词短语＝2078年前后美国人的模样（ES/DE/RU 同），ZH「日常」写成日常生活。",
+      "final_fix": "骷髅——2077年最流行的万圣节服装，也是2078年前后美国人的标准形象。"
+    },
+    {
+      "key": "Outfit_Description_SynthArmor_Heavy",
+      "verdict": "confirm",
+      "severity": "S3",
+      "reason": "EN Worn by Synths trained for heavy combat＝由受训合成人穿着，ZH 长定语后接「被…穿过」，易先读成穿透。",
+      "final_fix": "受过高强度战斗训练的合成人才穿它。"
+    },
+    {
+      "key": "Outfit_Description_WandererArmor",
+      "verdict": "confirm_fix_better",
+      "severity": "S3",
+      "reason": "EN the Wasteland's greatest hero 为单数，ZH「英雄们」变复数（ES/FR/DE/RU 皆单数）；「装甲界的传奇」尚可。",
+      "final_fix": "传说中的那副装甲，废土上最伟大的英雄曾穿着它……"
+    },
+    {
+      "key": "Outfit_Description_WandererArmor_Heavy",
+      "verdict": "confirm",
+      "severity": "S2",
+      "reason": "EN badass＝狠角色（ES duro de pelar、DE krasse Typen），ZH「坏蛋」变贬义，并与前句 villain「反派」重复。",
+      "final_fix": "猎手还是猎物，英雄还是恶棍——只要你是狠角色，就穿上它。"
+    }
+  ]
+}

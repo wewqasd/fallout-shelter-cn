@@ -1,0 +1,110 @@
+{
+ "batch": 43,
+ "items": [
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_3_Team_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 只有 our rusty weapons，无 these；「我们生锈武器」对应无误，「不是…的对手」即 is no match for。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_3_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for all 在 ZH 无对应，各语言均补 para todos / für uns alle；「足够大了」缺宾语，劝说落脚点丢失。",
+   "final_fix": "我们只追求宇宙的和谐。这个星系足够大，容得下所有人。"
+  },
+  {
+   "key": "QuestLoc_WastelandDoctoring_Conversation_1_NPCEnd_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "「值得得到」冗余；afford to give 是「能拿得出」，「拥有」过译成所有物；this settlement 又变成「我们」。",
+   "final_fix": "你救了这座定居点。拿着，你值得拥有我们能拿得出的一切！"
+  },
+  {
+   "key": "QuestLoc_WastelandDoctoring_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Vault Dwellers 的 Vault 未译（FR résidents d'abris、RU жители Убежища）；单说「居民」易混同定居者。",
+   "final_fix": "你们这些避难所居民真是太棒了！谢谢！"
+  },
+  {
+   "key": "QuestLoc_WastelandGetaway_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "secluded cabin 的 small 已由「小屋」承担；「小而隐蔽的小屋」八字内两次用「小」，属用字冗赘。",
+   "final_fix": "你在废土探险时发现了一间隐蔽的小屋。也许你该看看里面有什么。"
+  },
+  {
+   "key": "QuestLoc_WastelandGetaway_QuestName",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Getaway 是名词「度假/避世」（ES Escapada、RU Укрытие），「开启废土探险」改成动作，无对应词。",
+   "final_fix": "废土度假屋"
+  },
+  {
+   "key": "QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S1",
+   "reason": "Don't you dare 是否定祈使，「你敢跟着一起唱」丢掉否定、意思反了（RU петь не разрешаем）；原 fix 换行写错。",
+   "final_fix": "♪ 嘟哇哇，那是我们的歌 ♪\n♪ 想跟着唱？你敢试试！♪"
+  },
+  {
+   "key": "QuestLoc_WastelandTheMusical_Conversation_7_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "to this I can't commit 拒绝的是上句父母的邀请（DE darauf lasse ich mich nicht ein），「相认」当成认亲。",
+   "final_fix": "♪ 我的父母，我不敢相信！♪ 但我不能答应这件事 ♪ 也许我只去拜访一下？♪"
+  },
+  {
+   "key": "QuestLoc_WaterintoBrine_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "the real deal 指「货真价实、有真本事」（DE ob er echt ist），「真正的商人」把真假读成职业身份。",
+   "final_fix": "“神奇”水到底是真管用，还是彻头彻尾的骗局？我们得找到这位水之术士，看看他是真有本事，还是个卖假药的骗子。"
+  },
+  {
+   "key": "QuestLoc_WeaponsRun_QuestName",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Run 在此是取货行动（描述 a supply of Weapons、Recover the main stash），「赛跑」让玩家读成竞速。",
+   "final_fix": "武器搜寻"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_Conversation_2_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "is cut out for 是「适合、是那块料」（IT tagliato per），「很久不做」偷换成时间信息。",
+   "final_fix": "你们俩谁都不适合再干掠夺者这行了。为什么不干脆放弃，一起私奔呢？"
+  },
+  {
+   "key": "QuestLoc_WeddingCrashers_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Boss 是单数、her wedding 指新娘莎莉（ES A la jefa、DE ihre Hochzeit），「老大们…他们的」变复数去性别。",
+   "final_fix": "老大可不会喜欢有人来搅了她的婚礼！"
+  },
+  {
+   "key": "QuestLoc_WereBatting1000_QuestName",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Batting 1000 是打击率满点＝百发百中（DE Jeder Schlag ein Treffer），「一千次」把比率译成次数。",
+   "final_fix": "我们百发百中！"
+  },
+  {
+   "key": "QuestLoc_WhatsonSecond_QuestName",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "What's on Second 是与「“不知道”在三垒！」同链的棒球梗；「什么是第二」逐词硬拼，不成句、读不通。",
+   "final_fix": "“什么”在二垒？"
+  },
+  {
+   "key": "QuestLoc_WithFriendsLikeThese_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "little friends 指他养的鼹鼠，「小朋友」在中文专指小孩；How could you 是悲愤质问（ES ¿Cómo has podido?）。",
+   "final_fix": "你杀了我毛茸茸的小伙伴！你怎么能这样？！"
+  }
+ ]
+}

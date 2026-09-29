@@ -1,0 +1,110 @@
+{
+ "batch": 3,
+ "items": [
+  {
+   "key": "QuestLoc_Ghooooooooooooooooooul_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 末句 Go check it out! 未译，ZH 止于「体育广播」；该句无事实信息，任务目标另列「探索93号避难所」，故降 S2。",
+   "final_fix": "从93号避难所传来了奇怪的无线电信号。听起来像是大爆炸之前的体育广播。去查一查吧！"
+  },
+  {
+   "key": "QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "It has? 承接 The party's been over for days，指「已经结束了」；ZH「它有吗？」把 it 做实义代词，指代落空。",
+   "final_fix": "已经结束了？好吧，我想该面对现实了。"
+  },
+  {
+   "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 首句 Is the Wizard's Wonder Water…so wondrous? 整句未译，ZH 只剩「我们没弄到足够的量…」，提问对象消失。",
+   "final_fix": "水之术士的“神奇水”真有那么神奇吗？我们没弄到足够的量来做科学测试。"
+  },
+  {
+   "key": "QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Try not to bleed too much on my Jersey! 是叫对手别溅血到我的棒球衫，ZH 把流血方换成说话者自己，主客颠倒。",
+   "final_fix": "尽量别把血溅到我的棒球衫上！"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 第二句 And here, take my costume. 整句未译，ZH 只译到「赫伯韦斯特吧」，戏服来源交代丢失。",
+   "final_fix": "不，不过去问问旧糖果厂的赫伯韦斯特吧。来，把我的戏服拿去。"
+  },
+  {
+   "key": "QuestLoc_JackAintBack_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 第二句 We had to get rid of him - he was out of control! 整句未译，杰克被处理的原因丢失。",
+   "final_fix": "把苦艾酒和超强捷特混在一起可不是好主意。我们只好把他处理掉——他已经完全失控了！"
+  },
+  {
+   "key": "QuestLoc_KnockEmDown_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "ARE YOU TO THANK… 是「战争」自问是否该谢玩家，ZH 把道谢主客对调，MY ARMOR 的「我的」也丢失。",
+   "final_fix": "我该谢谢你们给了我夺回装甲的机会吗？"
+  },
+  {
+   "key": "QuestLoc_MVPoftheYear_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 第二句 but he won't survive me! 未译；The Sultan of Slime 泛化成「坏家伙」，narcissistic 丢失。",
+   "final_fix": "教练在领头死爪爪下活了下来，但他活不过我！“黏液苏丹”又留下一张自恋的纸条，所以我们知道他还在外面。继续搜索！"
+  },
+  {
+   "key": "QuestLoc_MondayNightBrawl_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Put on your best threads 整句未译，ZH「摆出点老板样子」把 in style 与 who's boss 混读，换装提示丢失。",
+   "final_fix": "附近的掠夺者团伙正在挑衅你！是时候告诉他们谁才是真正的老大了……而且要有型！穿上你最体面的行头，去把他们揍趴下！"
+  },
+  {
+   "key": "QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "for safe keeping 是「代为保管」，ZH「上个保险」把保管误作买保险，还给汽水加「们」。",
+   "final_fix": "拿着，这瓶量子核子可乐还是交给你保管比较好。"
+  },
+  {
+   "key": "QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "同句 for safe keeping 又误作「安保险」（非中文词），you should have it 整句丢失，句子没头没尾。",
+   "final_fix": "哦，也对，那还是交给你保管比较好。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Is that okay with you? 是征求同意「你觉得可以吗」，ZH「你还好吗？」问的是安危，与上下文脱节。",
+   "final_fix": "你觉得可以吗？"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 第三句 No problem, we'll leave 'em alone. 整句未译，玩家看不到对方答应放过 Settlers。",
+   "final_fix": "我可不听你……的命令。抱歉，我入戏太深了。没问题，我们不去动他们。"
+  },
+  {
+   "key": "QuestLoc_PlayingPolitics_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 是 the location of Vault 525，ZH「位于525号避难所」丢掉「位置」，与「入口藏在红火箭总部」矛盾。",
+   "final_fix": "……上面写着525号避难所的位置！他们真的有“伊甸园制造器”！"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "You can say that again! 是附和「一点没错」，ZH「你们可以再说一次！」变成让玩家重复的指令。",
+   "final_fix": "是的，他们说自己是“害虫”。这话一点没错！"
+  }
+ ]
+}

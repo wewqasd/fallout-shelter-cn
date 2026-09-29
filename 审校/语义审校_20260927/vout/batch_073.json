@@ -1,0 +1,110 @@
+{
+ "batch": 73,
+ "items": [
+  {
+   "key": "QuestLoc_NoTimeforPaws_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "salvage team 是回收物资的队伍，应为「回收队」非「救援队」；taken shelter 是躲进避难，现译「去了」丢失躲避义。",
+   "final_fix": "我救下了那支回收队。但比格斯比没有和他们在一起。有人说他们可能躲进了314号避难所。"
+  },
+  {
+   "key": "QuestLoc_NukaColaQuantumRun_QuestLongDescription",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「我想」＋小句是正常中文（如“我想我们可以走了”），非语义打架；「稀少」修饰物品可接受，属搭配偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_OBrother_Initial3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "smell 是气味（ES olor/DE Geruch/RU запах），现译换成「穿上／拿着」；plasma vapor 等离子蒸汽被误作「等离子枪」。",
+   "final_fix": "没什么比动力装甲和等离子蒸汽的那股味道更带劲了！"
+  },
+  {
+   "key": "QuestLoc_OBrother_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "pretty large 在 ZH 无对应（ES bastante grande、IT piuttosto grande 均保留），基地规模信息丢失。",
+   "final_fix": "附近有个钢铁兄弟会相当大的基地，虽然他们是带有宗教色彩的军事组织，但总体来说还算不错。或许我们可以去打个招呼。"
+  },
+  {
+   "key": "QuestLoc_OneGhoulCustomer_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "that Nuka-Cola Quantum 是单数一瓶（同任务作「我的量子核子可乐」），「那些」成复数；hang on to=保管，非「拿着」。",
+   "final_fix": "也许我该替你保管那瓶量子核子可乐，这样你就安全了。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_4_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Dozens 指人（DE unserer Leute、RU верных），「几十个」后缺中心语成病句；to meet the quota 硬搬「以满足配额」。",
+   "final_fix": "还有几十个人仍在废土上游荡，好凑够配额。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_QuestLongDescription",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "各分句主谓完整、内容齐备（and that 由「他们只崇拜」承接）；逗号连缀是中文常见意合写法，属行文偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_OutfitRun_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "a supply of Outfits 是「一批装备」（ES un suministro、DE Vorrat），现译说成「供应装备的地方」；量词应为「条」。",
+   "final_fix": "你得到一条线索，废土上藏着一批装备。"
+  },
+  {
+   "key": "QuestLoc_OverwhelmingForce_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「清缴」指清理上缴（税款），clear out 剿灭义应作「清剿／清除」；同项目其它 clear out 一律译「清除」。",
+   "final_fix": "派遣一队穿着动力装甲的居民去清除掠夺者营地。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Only that=Nur dass／Solo que，是「只是」而非条件「只有那样」；现译读成条件句且缺「才」，意思走偏。",
+   "final_fix": "只是……抱歉……只是我会杀了他，然后成为至高无上的统治者。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "PROPOSE AN ALLIANCE 是「提议结盟」；「建议」后接名词「联盟」搭配不成立，也弱化了正式提议的语气。",
+   "final_fix": "我提议结盟，直到其他骑士被击败。"
+  },
+  {
+   "key": "QuestLoc_PartyCrasher_Conversation_1_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "同对话上一句 ZH 已作「我把邀请忘在了邮箱里」，NPC「邮箱？」回指无误；「你再慢慢和我讲」已含 tell me what that is。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_PartyCrasher_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "old 与 in the Wasteland 在 ZH 无对应（ES vieja/en el yermo 保留）；同任务短描述作「在废土发现了一间旧的小木屋」。",
+   "final_fix": "你的一位居民在废土上发现了一间老旧的小屋。听起来像是有人在开派对。"
+  },
+  {
+   "key": "QuestLoc_PierIntoFuture_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "ill-founded fracas 是「莫名其妙的混战」（DE sinnlosen Konflikt），现译换成「好像发生了什么可怕的事」，事件性质丢失。",
+   "final_fix": "哇哦！这是什么？这个曾经热闹的海滨因为一场莫名其妙的混战变成了废墟！进去翻找一下吧，谁知道会发现什么！？"
+  },
+  {
+   "key": "QuestLoc_PitStop_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "looks uninhabited 是「看起来无人居住」（ES parece deshabitada），非「尚未被占领」；explorer 全项目作「探险者」。",
+   "final_fix": "机会来敲门！你的一位废土探险者发现了一个看起来无人居住的红火箭服务站。里面可能有些有用的东西。"
+  }
+ ]
+}

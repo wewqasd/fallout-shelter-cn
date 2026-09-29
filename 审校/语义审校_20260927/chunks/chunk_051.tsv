@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Answer1	You're heading in there? You are crazy, man! 	你们要冲进去？你们疯了吧，伙计！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Answer2	Aaaaaaaaaah!	啊啊啊！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Answer3	Whatever, man! I'm gone!	随便啦，伙计！我走了！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Choice1	Outside's clear. Move out while you can.	外面已经清理干净了。趁机撤！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Choice2	We're not safe either!	我们也不安全！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Choice3	Rejoice! The heroes are here!	欢欣鼓舞！英雄驾到！
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4	Those robots are very rude. You here to escort me outside, sweetie?	那些机器人真没礼貌。你是来护送我出去的吗，亲爱的？
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4_Answer1	Thank you, dear. Now do I have everything? My purse. My cat. Oven is turned off. Time to go.	谢谢你，亲爱的。都带齐了吗？手提包。我的猫。炉子也关好了。好了，走了。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4_Answer2	Oh! But of course, honey! Here you go, 1 cap.	哦！当然可以，亲爱的！给你，1个瓶盖。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4_Choice1	We can't accompany you, but the path's open.	我们不能陪同，但路已经打通了。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question4_Choice2	We shut them down for you. Tip's appreciated.	我们帮你把它们关掉了。小费我们就不客气地收下啦。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question5	Citizen, this is an active combat zone. Surrender your life.	市民，此处是交战区。请交出你的生命。
+QuestLoc_S2_QL3_SecuritronsUncapped_1_Question5_Choice1	This must be the leader. Let's send it to the scrapyard.	这肯定是领头的。把它送进废铁场。
+QuestLoc_S2_QL3_SecuritronsUncapped_QuestLineName	Securitrons Uncapped	脱缰的保安机器人
+QuestLoc_SOS_Conversation_1_NPCEnd_1	You're a real hero! I don't have any Caps, but maybe you can make use of this.	你是个真正的英雄！我没有任何瓶盖，但也许你能用得上这个。
+QuestLoc_SOS_Conversation_1_NPCEnd_2	I don't believe it! No one makes a hot dog out of Bigsby. I can't pay you, but maybe you can make some use of this.	我不相信！怎么可能有人用比格斯比做热狗。我没法付钱给你，但你也许能用得上这个。
+QuestLoc_SOS_Conversation_1_NPCStart_1	Thank goodness! I thought my buns were toast.	谢天谢地！我还以为我必死无疑了。
+QuestLoc_SOS_Conversation_1_NPCStart_2	Some of those Raiders left for a warehouse and took my dog, Bigsby, with them.	那些掠夺者离开后去了仓库，并带走了我的狗，比格斯比。
+QuestLoc_SOS_Conversation_1_NPCStart_3	I think they're going to eat him!	我觉得他们会吃了它的！
+QuestLoc_SOS_Conversation_1_NPCStart_4	You've got to save him and give him a good home!	你们一定要救救它，给它一个温暖的家！
+QuestLoc_SOS_Conversation_1_Team_1	Dognapping is a crime. I'll get him back!	绑架狗可是犯罪啊，我们会把它找回来的！
+QuestLoc_SOS_Conversation_1_Team_2	If anything's toast, it's your dog.	如果有什么被烤了的话，那也是你的狗。
+QuestLoc_SOS_QuestLongDescription	You've picked up a distress call from an abandoned building. Assemble a rescue team and find the source!	你收到了来自一幢废弃建筑的求救信号。召集救援小队去找到信号源吧！
+QuestLoc_SOS_QuestName	SOS!	救命啊！
+QuestLoc_SOS_QuestObjective_1	Find the source.	找到信号源。
+QuestLoc_SOS_QuestShortDescription	Find the source of the distress call.	找到求救信号的信号源。
+QuestLoc_Sabotage_Conversation_1_NPCEnd_1	I... I just *literally* said you're too late. What's the matter with you?	我……我只是说你太迟了。你怎么了？
+QuestLoc_Sabotage_Conversation_1_NPCEnd_2	Well, in your case it'll be a lot quicker!	好吧，如果是你的话，它会更快！
+QuestLoc_Sabotage_Conversation_1_NPCEnd_3	Oh, sure, if you're going to cheat and use *weapons*...	哦，当然，如果你要欺骗和使用武器的话……
+QuestLoc_Sabotage_Conversation_1_NPCStart_1	Well, well, well... Look what the Radroaches dragged in.	好吧，好吧……看看辐射蟑螂拖来了什么。
+QuestLoc_Sabotage_Conversation_1_NPCStart_2	You're too late - we've spiked your water with radioactive waste!	你太晚了，我们把放射性废物加入了你的水！
+QuestLoc_Sabotage_Conversation_1_NPCStart_3	We used very low doses to avoid detection.	我们使用非常低的剂量，以避免检测。
+QuestLoc_Sabotage_Conversation_1_NPCStart_4	You'll all be dead in a matter of decades! Mwahaha!	你会在几十年内都会死的！哈哈哈！
+QuestLoc_Sabotage_Conversation_1_Team_1	You won't get away with this!	你休想逃脱！
+QuestLoc_Sabotage_Conversation_1_Team_2	That's... actually an improvement, given our life expectancy.	那是……其实是改善，给我们增加了寿命。
+QuestLoc_Sabotage_Conversation_1_Team_3	You'll be dead in a matter of seconds.	你会在几秒钟内死去。
+QuestLoc_Sabotage_Conversation_2_NPCEnd_1	Well, let's not get hasty... We do have Mondays off.	好吧，我们不要草率行事……我们星期一休息。
+QuestLoc_Sabotage_Conversation_2_NPCEnd_2	I know, right? It's as if... Wait, what?	我知道，对吧？这就像……等等，什么？
+QuestLoc_Sabotage_Conversation_2_NPCEnd_3	Well, he did give us these. They're only a month past their expiry date.	他确实给了我们这些东西，只是过期了一个月。
+QuestLoc_Sabotage_Conversation_2_NPCStart_1	Hey, how come *you* get to wear a Radiation Suit?	嘿，你怎么会穿上防辐射服？
+QuestLoc_Sabotage_Conversation_2_NPCStart_2	It's bad enough the boss has us poisoning people with radioactive materials.	老大让我们用放射性物质毒害人已经够糟糕的了。
+QuestLoc_Sabotage_Conversation_2_NPCStart_3	Least he could do is give us adequate protection.	至少他还能给我们足够的保护。
+QuestLoc_Sabotage_Conversation_2_Team_1	Maybe we should just leave this Raider clan.	也许我们该离开这个掠夺者部落了。
+QuestLoc_Sabotage_Conversation_2_Team_2	He's not even protecting you from undercover saboteurs.	他甚至不能保护你免遭秘密破坏者的伤害。
+QuestLoc_Sabotage_Conversation_2_Team_3	The boss doesn't care about your health.	老板不关心你的健康。
+QuestLoc_Sabotage_QuestLongDescription	We found some worrying info in the documents retrieved from the Raider base. It appears they made camp in a nearby uranium mine to poison our water supply. We need to send someone to stop this... discreetly, of course.	我们在掠夺者基地的文件中发现了一些令人担忧的信息。他们似乎在附近的一个铀矿井里毒害我们的水源。我们需要派人……当然是谨慎地阻止他们。
+QuestLoc_Sabotage_QuestName	Sabotage!	破坏！
+QuestLoc_Sabotage_QuestObjective_1	Stop Raiders from poisoning the water.	阻止下毒的掠夺者。
+QuestLoc_Sabotage_QuestShortDescription	Counter a plot to poison the Vault's water supply.	对抗毒害避难所供水的阴谋。
+QuestLoc_SantasHelpers_Conversation_1_NPCEnd_1	All right! “We wish you a Merry Christmas... We wish you a Merry Christmas...”	好吧！“叮叮当……叮叮当……铃儿响叮当……”
+QuestLoc_SantasHelpers_Conversation_1_NPCEnd_2	Boo! Get out of here!	嘘！滚出去！
+QuestLoc_SantasHelpers_Conversation_1_NPCStart_1	Wait. You're not Santa!	等等，你不是圣诞老人！
+QuestLoc_SantasHelpers_Conversation_1_NPCStart_2	This is the worst Christmas ever!	这真是最糟糕的圣诞节！
+QuestLoc_SantasHelpers_Conversation_1_Team_1	We're Santa's Helpers! Now come on, sing some carols with us!	我们是圣诞的帮手！现在快点，跟我们一起唱点圣诞颂歌！
+QuestLoc_SantasHelpers_Conversation_1_Team_2	You know what? We're telling Santa you belong on the naughty list.	你知道吗？我们会告诉圣诞老人你要上“坏孩子”名单。
+QuestLoc_SantasHelpers_Conversation_2_NPCEnd_1	We believe in Santa! Here. Give him this if you see him!	我们相信圣诞老人！来拿着，如果你们看到他就把这个给他！
+QuestLoc_SantasHelpers_Conversation_2_NPCEnd_2	Santa's Helpers are mean! Get out of our Vault!	圣诞老人的帮手也太坏了吧！快滚出我们的避难所！
+QuestLoc_SantasHelpers_Conversation_2_NPCStart_1	Hello, Santa's Helpers! We've been a very good Vault this year!	你们好！圣诞的帮手们！我们避难所今年表现得很好哦！
+QuestLoc_SantasHelpers_Conversation_2_NPCStart_2	Tell Santa we'd really like some new Vault Suits!	告诉圣诞老人我们真的需要一些新的避难所套装！
+QuestLoc_SantasHelpers_Conversation_2_NPCStart_3	Oooh, and some Water Chips!	哦，还要一些水质芯片！
+QuestLoc_SantasHelpers_Conversation_2_Team_1	Santa's coming, but you gotta believe in him, or he won't show!	圣诞老人来了，但是你们要相信他，不然他不会出现的！
+QuestLoc_SantasHelpers_Conversation_2_Team_2	Nope. Naughty list for you.	才不要。恐怕你要上“坏孩子”名单。
+QuestLoc_SantasHelpers_Conversation_3_NPCEnd_1	Very well. Here.	很好，来，给你们。
+QuestLoc_SantasHelpers_Conversation_3_NPCEnd_2	Here you are!	拿去吧！
+QuestLoc_SantasHelpers_Conversation_3_NPCEnd_3	Money makes the world go round, right?	有钱能使鬼推磨，不是么？
+QuestLoc_SantasHelpers_Conversation_3_NPCEnd_4	Such generosity! Good luck out there, Santa's Helpers!	这么慷慨！希望你们一路顺利，圣诞的帮手们！
+QuestLoc_SantasHelpers_Conversation_3_NPCStart_1	I'm Overseer Nicholas. A warm Vault welcome to you!	我是监督者尼古拉斯！温暖的避难所欢迎你们！
+QuestLoc_SantasHelpers_Conversation_3_NPCStart_2	Santa himself would be proud of the good cheer you're spreading!	圣诞老人一定为你们传播圣诞气氛而感到自豪！
+QuestLoc_SantasHelpers_Conversation_3_NPCStart_3	You deserve something special for yourselves. How can we repay you?	你们值得得到点好东西。我们该怎么回报你们呢？
+QuestLoc_SantasHelpers_Conversation_3_Team_1	We want the best weapon your Vault's got.	我们想要避难所里最好的武器。
+QuestLoc_SantasHelpers_Conversation_3_Team_2	All this holiday cheer means we could use some new outfits.	所有的节日气氛都意味着我们可以有一些新衣服。
+QuestLoc_SantasHelpers_Conversation_3_Team_3	Caps. Cold, hard bottlecaps.	瓶盖。冰冷而又坚硬的瓶盖。
+QuestLoc_SantasHelpers_Conversation_3_Team_4	Giving is its own reward. We don't need anything!	给予本身就是最好的奖励了，我们什么都不需要！
+QuestLoc_SantasHelpers_QuestLongDescription	Santa's gone missing, and we can only bring him back by spreading some Christmas cheer!	圣诞老人消失了，我们只能通过四处传播节日气氛来找回他！
+QuestLoc_SantasHelpers_QuestName	Santa's Helpers	圣诞老人的小帮手
+QuestLoc_SantasHelpers_QuestObjective_1	Speak to Overseer Nicholas.	和监督者尼古拉斯交谈。
+QuestLoc_SantasHelpers_QuestObjective_2	Talk to the Dwellers.	和居民们交谈。
+QuestLoc_SantasHelpers_QuestObjective_3	Talk to the Dwellers.	和居民们交谈。
+QuestLoc_SantasHelpers_QuestShortDescription	Spread Christmas cheer!	传播圣诞的节日气氛！
+QuestLoc_SavingDaylight_Conversation_1_NPCEnd_1	You're wrong! And don't count on us to reveal how Daylight Savings will let us live!	错了。不要指望我们告诉你“节省天光”将如何让我们生活！
+QuestLoc_SavingDaylight_Conversation_1_NPCEnd_2	If the Confessor were here instead of upstairs with the detonator, he'd tell you you're wrong!	如果忏悔者在这里而不是在楼上和炸药在一起，他会告诉你，你错了！
+QuestLoc_SavingDaylight_Conversation_1_NPCStart_1	It's the Vault Dwellers!	这是避难所居民！
+QuestLoc_SavingDaylight_Conversation_1_NPCStart_2	They must have learned of our plans in spite of our legendary secrecy.	他们一定知道我们的计划，尽管这是我们的顶级秘密。
+QuestLoc_SavingDaylight_Conversation_1_NPCStart_3	Kill them before they find Confessor Alvarado, who's just a bit farther away!	在他们找到忏悔者阿尔瓦拉多之前杀死他们，他只是有点远！
+QuestLoc_SavingDaylight_Conversation_1_NPCStart_4	Don't let them get their hands on the Bomb!	别让他们碰上炸弹！
+QuestLoc_SavingDaylight_Conversation_1_Team_1	Don't you guys realize the blast will kill you too?	你们不知道爆炸会杀了你们吗？
+QuestLoc_SavingDaylight_Conversation_1_Team_2	Yeah, about that secrecy thing... you guys aren't very good at it!	是的，关于那秘密的事……你们不是很擅长！
+QuestLoc_SavingDaylight_Conversation_2_NPCEnd_1	May Atom have mercy on your soul!	愿原子能宽恕你的灵魂！
+QuestLoc_SavingDaylight_Conversation_2_NPCEnd_2	No need to, we'll all be spared - but you won't!	没有必要，我们都会得到宽恕-但你不会！
+QuestLoc_SavingDaylight_Conversation_2_NPCEnd_3	That's... a very good question. Let me get back to you on that.	那是……一个很好的问题。让我回头再答复你。
+QuestLoc_SavingDaylight_Conversation_2_NPCStart_1	Rejoice! E-Ster is upon us!	好开心！复活节降临在我们身上！
+QuestLoc_SavingDaylight_Conversation_2_NPCStart_2	The dying sun will be replaced by a brand new one!	即将死去的太阳将被一个崭新的太阳取代！
+QuestLoc_SavingDaylight_Conversation_2_NPCStart_3	You will be washed away with all other sinners.	你将和其他罪人一起被冲走。
+QuestLoc_SavingDaylight_Conversation_2_Team_1	A good wash wouldn't do you any harm yourself...	好好洗脸会死吗……
+QuestLoc_SavingDaylight_Conversation_2_Team_2	You would sacrifice yourself for Atom?	你会为了原子而牺牲自己吗？
+QuestLoc_SavingDaylight_Conversation_2_Team_3	If we're now on the Fifth Sun, what happend to the other ones?	如果我们现在在第五个太阳上，其他的太阳都发生了什么？
+QuestLoc_SavingDaylight_Conversation_3_NPCEnd_1	Silence! Your words have no power over me!	沉默！你的话语对我没有力量！
+QuestLoc_SavingDaylight_Conversation_3_NPCEnd_2	♪ La la la la ♪  I can't hear you!	♪ 啦啦啦啦 ♪ 我听不到你！
+QuestLoc_SavingDaylight_Conversation_3_NPCEnd_3	Nice try! Now let me concentrate as I input the detonation code...	厉害了！现在让我集中精力输入引爆代码……
+QuestLoc_SavingDaylight_Conversation_3_NPCStart_1	Ah, Dwellers! We meet again. How do you like my new look?	啊，居民们！我们又见面了。你们觉得我的新发型怎么样？
+QuestLoc_SavingDaylight_Conversation_3_NPCStart_2	The old Alvarado is part of the past now. This is a new me, for a new age.	曾经的阿尔瓦拉多已经属于过去了。这是一个新的我，一个新的时代。
+QuestLoc_SavingDaylight_Conversation_3_NPCStart_3	Blessed Daylight Saving Time will safely carry us one hour into the future, after the blast.	神圣的夏令时将在爆炸之后，把我们安全地送去一小时之后的未来。
+QuestLoc_SavingDaylight_Conversation_3_NPCStart_4	You will perish in flames while we are transported into a new era!	当我们被带入一个新时代的时候，你们将在火焰中死去！
+QuestLoc_SavingDaylight_Conversation_3_Team_1	I don't think that's how Daylight Saving is supposed to work...	我不认为夏令时是这样运作的……
+QuestLoc_SavingDaylight_Conversation_3_Team_2	You fool, you won't be transported into the future, you'll die as well!	你这个傻瓜，你不会被传送到未来，你也会死的！
+QuestLoc_SavingDaylight_Conversation_3_Team_3	Why not wait until tomorrow, see if the sun is still there?	为什么不等到明天，看看太阳是否还在那里？
+QuestLoc_SavingDaylight_QuestLongDescription	We need to stop Confessor Alvarado and the Church of the Children of Atom before they detonate their 20-megaton nuclear device, lest the entire area be vaporized!	我们需要赶在忏悔者阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！
+QuestLoc_SavingDaylight_QuestName	Saving Daylight	节省天光
+QuestLoc_SavingDaylight_QuestObjective_1	Stop Confessor Alvarado's Plans.	停止忏悔者阿尔瓦拉多的计划。
+QuestLoc_SavingDaylight_QuestShortDescription	Stop the Children of Atom from blowing up the area!	阻止原子之子炸毁整个地区！
+QuestLoc_ScareTactics_Conversation_1_NPCEnd_1	We will, we promise! Here, take this... it's everything we have.	我们会的，我保证！来，拿着……这是我们全部的东西。
+QuestLoc_ScareTactics_Conversation_1_NPCEnd_2	Wait, what? It's not a ghost... get 'em!	等等，什么？根本就不是鬼……给我拿下他们！
+QuestLoc_ScareTactics_Conversation_1_NPCEnd_3	Huh? Hey! It's just a costume... get 'em!	哈？嘿！只是一套服装……给我拿下他们！
+QuestLoc_ScareTactics_Conversation_1_NPCEnd_4	Hallow-what? Hey! This ghost is a fake... get 'em!	万圣什么？嘿！这是一个假的鬼……给我拿下他们！
+QuestLoc_ScareTactics_Conversation_1_NPCStart_1	What?! This place is really haunted?	什么玩意？！这个地方难道真的闹鬼？
+QuestLoc_ScareTactics_Conversation_1_NPCStart_2	We cooked up that story so we could rob this Vault blind.	我们编造了这个故事，这样就可以随便抢劫了。
+QuestLoc_ScareTactics_Conversation_1_NPCStart_3	We're sorry. Just don't hurt us!	我们很抱歉。请不要伤害我们！
+QuestLoc_ScareTactics_Conversation_1_Team_1	Boooo! Leave this place and never come baaaaaack!	呜呜呜呜呜！离开这里，永远都别回来哎哎哎哎！
+QuestLoc_ScareTactics_Conversation_1_Team_2	Trick or treat!	不给糖就捣蛋！
+QuestLoc_ScareTactics_Conversation_1_Team_3	I can't believe this actually worked.	真不敢相信他们居然信了。
+QuestLoc_ScareTactics_Conversation_1_Team_4	Happy Halloween!	万圣节快乐！
+QuestLoc_ScareTactics_QuestLongDescription	With the Ghost Costumes in hand, it's time to head out to Vault 31 and confront the Raiders there once and for all!	有了这些鬼服，就可以去31号避难所和掠夺者们决一死战了！
+QuestLoc_ScareTactics_QuestName	Scare Tactics	恐吓战术
+QuestLoc_ScareTactics_QuestObjective_1	Confront the Raiders at Vault 31.	在31号避难所和掠夺者对峙。
+QuestLoc_ScareTactics_QuestShortDescription	Confront the Raiders at Vault 31.	在31号避难所和掠夺者对峙。
+QuestLoc_ScienceCooperative_Conversation_1A_NPCEnd_1	No. I won't. Now why don't you move along and let me science?	不，我不会的。现在你们为什么不继续前进，让我一个人搞科学呢？
+QuestLoc_ScienceCooperative_Conversation_1A_NPCEnd_2	In fact, we do! It's so nice to meet another scientist! Take a look at this piece I've been working on!	其实我们也是！能见到另一个科学家真是太棒了！快看看这个我最近研究的东西！
+QuestLoc_ScienceCooperative_Conversation_1A_NPCEnd_3	That's the Wasteland for you! Feel free to look around.	废土就是这样！请随便参观。
+QuestLoc_ScienceCooperative_Conversation_1A_NPCStart_1	Are you the researchers from the Vault? Excellent!	你是来自避难所的研究员吗？太赞了！
+QuestLoc_ScienceCooperative_Conversation_1A_NPCStart_2	We're the Wasteland Laser Association. Membership limited.	我们这里是废土激光协会。成员数有限。
+QuestLoc_ScienceCooperative_Conversation_1A_NPCStart_3	A laser in every hand is our motto!	人手一把激光枪是我们的座右铭。
+QuestLoc_ScienceCooperative_Conversation_1A_Team_1	Make us some Laser Rifles, nerd.	呆子，给我们弄点激光步枪呗。
+QuestLoc_ScienceCooperative_Conversation_1A_Team_2	Astounding! Do you use a helium-neon mixture for the laser gain medium?	惊人！你们会用氦氖混合物作为激光的增益介质吗？
+QuestLoc_ScienceCooperative_Conversation_1A_Team_3	This is a terrible place to do laser research.	这个地方真不适合搞激光枪研究。
+QuestLoc_ScienceCooperative_Conversation_1B_NPCEnd_1	Vandalism for science! Never mind. You just don't get it. Excuse me.	为了科学而蓄意破坏的！算了，说了你们也不明白。恕我失陪。
+QuestLoc_ScienceCooperative_Conversation_1B_NPCEnd_2	I know! Check out this little project I've been working on. Here!	对呀！快来看看我最近在做的小项目。看这里！
+QuestLoc_ScienceCooperative_Conversation_1B_NPCEnd_3	It's not ideal, but that's the price of progress! Sorry. I should get back to it.	还不算完美，但这就是进步的代价！抱歉。我应该回去工作了。
+QuestLoc_ScienceCooperative_Conversation_1B_NPCStart_1	Hi there! Welcome to our Physics Club!	你们好！欢迎来到物理俱乐部！
+QuestLoc_ScienceCooperative_Conversation_1B_NPCStart_2	We hit things, and see what happens! It's science!	我们会对东西射击，然后看看会发生什么！这就是科学！
+QuestLoc_ScienceCooperative_Conversation_1B_Team_1	That just sounds like vandalism.	听起来像是破坏公物。
+QuestLoc_ScienceCooperative_Conversation_1B_Team_2	A Physics Club? How positively Newtonian!	一个物理俱乐部？果然是积极向上的牛顿精神！
+QuestLoc_ScienceCooperative_Conversation_1B_Team_3	This place isn't exactly safe for doing science experiments.	这个地方对于做科学实验来说并不安全。
+QuestLoc_ScienceCooperative_Conversation_1C_NPCEnd_1	Such a barbaric attitude! We clearly have nothing more to discuss.	多么粗暴的态度！我们显然没什么多余的好谈了。
+QuestLoc_ScienceCooperative_Conversation_1C_NPCEnd_2	It is! I've been making a few new compounds. Check them out!	是的！我最近研制出几款新的化合物。一起来看看吧！
+QuestLoc_ScienceCooperative_Conversation_1C_NPCEnd_3	Nonsense! Science is not a coward's game! Now, if you'll excuse me...	胡说！科学可不是什么懦夫的游戏！现在，恕我失陪……
+QuestLoc_ScienceCooperative_Conversation_1C_NPCStart_1	Hurray, it's the Dwellers!	哦耶，是居民们！
+QuestLoc_ScienceCooperative_Conversation_1C_NPCStart_2	We're the Coalition of Cool Chemists. We think we're pretty neat.	我们是由一帮很酷的化学家组成的联盟。我们很牛！
+QuestLoc_ScienceCooperative_Conversation_1C_Team_1	Chemistry is useless for anything but explosives.	除了爆炸，化学一点用都没有。
+QuestLoc_ScienceCooperative_Conversation_1C_Team_2	A coalition of chemists? That's dynamite!	化学家联盟？你们太了不起了！
+QuestLoc_ScienceCooperative_Conversation_1C_Team_3	You should leave. It's not safe.	你们应该走了，这里不安全。
+QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_1	How dare you! These people are dead, but not forgotten! Now leave me alone!	你怎么敢这么说？！这些人是死了，但没有被遗忘！离我们远点！
+QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_2	Finally people who understand! Here, for a fellow sawbones!	终于有人懂了！来，拿着，给外科医生用的！
+QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_3	Science waits for nothing, I'm afraid. I must continue. If you'll excuse me.	科学不等人，我恐怕得继续了。恕我失陪……
+QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_1	Ah, yes! Help has arrived from the local Vault.	啊，太好了，当地避难所的人来帮我们了！
+QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_2	We're the Wasteland Coroner's Association. We help catalogue all the dead people out here.	我们是废土验尸官协会的。我们会将所有死亡的人进行登记。
+QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_3	So far it's just a process of saying: “Yep. He's dead.”	目前的流程好像就只有说一声：“没错，他死了。”
+QuestLoc_ScienceCooperative_Conversation_1D_Team_1	So what you're saying is, you're useless.	所以你们的意思是，你们毫无用处。
+QuestLoc_ScienceCooperative_Conversation_1D_Team_2	You're studying the dead? That's captivatingly cadaverous!	你们研究死人？特别迷恋尸体那种苍白的颜色？
+QuestLoc_ScienceCooperative_Conversation_1D_Team_3	The Wasteland is dangerous. There's no time to study dead people.	废土是很危险的，可没时间研究死人。
+QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_1	Now what kind of an attitude is that? Why don't you get away from my plants?	那是什么态度？你为什么不离我的植物远点？
+QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_2	Hurray! Glad you appreciate my work. Here. Take a little something.	真开心有人感激我做的一切。来拿着，给你们的。
+QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_3	It's not just gardening, it's science! Never mind. Just leave me to my work.	这不是只是园艺，是科学！算了。让我好好工作吧。
+QuestLoc_ScienceCooperative_Conversation_1E_NPCStart_1	It's the Vault Dwellers! Thank you so much for coming.	是避难所的居民们！非常高兴你们能前来。
+QuestLoc_ScienceCooperative_Conversation_1E_NPCStart_2	This is the Bubbly Botanist Bureau. We combine flowers with smiles!	这里是泡泡多园艺总局。我们把鲜花和微笑结合起来！
+QuestLoc_ScienceCooperative_Conversation_1E_Team_1	Flowers and smiles are useless. Only cruelty rules the Wasteland!	鲜花和微笑无用。残酷才能统治废土！
+QuestLoc_ScienceCooperative_Conversation_1E_Team_2	We hope you're growing some delightful daffodils and righteous roses!	我们希望你们能种出那些讨人喜欢的水仙花和真正的玫瑰！
+QuestLoc_ScienceCooperative_Conversation_1E_Team_3	No offense, but this is a dangerous place to be gardening.	恕我冒犯，但在这地方搞园艺有点危险啊。
+QuestLoc_ScienceCooperative_Conversation_2A_NPCEnd_1	Oh no, that won't do at all! Thanks for your opinion, though. Forgive me, I need to ponder.	哦不行的，完全行不通！不过还是谢谢你的建议。抱歉我需要时间考虑。
+QuestLoc_ScienceCooperative_Conversation_2A_NPCEnd_2	Of course! It all makes sense now! Here, for your vital assistance!	当然！现在说得通了！来拿着，可以在关键时候帮助你！
+QuestLoc_ScienceCooperative_Conversation_2A_NPCEnd_3	An organic beam emitter? I think that technology might be far too advanced. Oh well...	一个有机光电发射器？我还以为这个技术过于先进了。既然这样……
+QuestLoc_ScienceCooperative_Conversation_2A_NPCStart_1	Ah, good, the Dwellers! I need your Vault-Tec expertise!	啊，好的，居民们！我需要你们拿出避难所科技的专业水准！
+QuestLoc_ScienceCooperative_Conversation_2A_NPCStart_2	Tell me, what kind of beam emitter is best for use in a laser-based surgery apparatus?	告诉我，哪种光电发射器最适合在激光手术装置中使用？
+QuestLoc_ScienceCooperative_Conversation_2A_Team_1	We prefer ones that set people on fire.	我们更喜欢那种能让敌人着火的东西。
+QuestLoc_ScienceCooperative_Conversation_2A_Team_2	Use a proton emitter. It's positively positronic!	质子发射器。感觉应该是这个！
+QuestLoc_ScienceCooperative_Conversation_2A_Team_3	We honestly don't know. Go with your heart.	老实讲我们不知道。跟着感觉走吧。
+QuestLoc_ScienceCooperative_Conversation_2B_NPCEnd_1	Hmph. Fine. I'll just continue studying this on my own. Now leave.	嗯。好吧。我会继续自学这个的。现在你们走吧。
+QuestLoc_ScienceCooperative_Conversation_2B_NPCEnd_2	Wait. It doesn't? Of course! I think... Here. Take this for your trouble!	等等。不是吗？哦我懂了！我觉得……来，拿着，就当是答谢你们帮忙。
+QuestLoc_ScienceCooperative_Conversation_2B_NPCEnd_3	Hmph. Fine. I'll just continue studying this on my own. Now leave.	嗯。好吧。我会继续自学这个的。现在你们走吧。
+QuestLoc_ScienceCooperative_Conversation_2B_NPCStart_1	Ah, good, the Dwellers are here. I need your help with a serious scientific question.	啊，好的，居民们来了。我需要你们帮我解答一个严肃的科学问题。
+QuestLoc_ScienceCooperative_Conversation_2B_NPCStart_2	I've been studying this old book I found about the elements.	我一直在自学这本旧书，有关元素的。

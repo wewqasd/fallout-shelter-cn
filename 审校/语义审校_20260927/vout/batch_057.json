@@ -1,0 +1,110 @@
+{
+ "batch": 57,
+ "items": [
+  {
+   "key": "Outfit_Description_Suspenders",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 两种风格 country chic／fringe hip，ZH 换成自创的「城市重金属」，chic 丢失、fringe 移位，城市与重金属凭空多出。",
+   "final_fix": "是想走乡村时尚风，还是边缘潮人范儿？让他们猜去吧。"
+  },
+  {
+   "key": "Outfit_Name_BOSUniform",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN BoS＝Brotherhood of Steel 制服，ZH「钢铁兄弟制服」漏「会」，与库内「钢铁兄弟会的正式服装」「兄弟会便服」不一致。",
+   "final_fix": "钢铁兄弟会制服"
+  },
+  {
+   "key": "Outfit_Name_PowerArmor_T60f",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 型号 T-60f 首字母大写，ZH 作小写 t-60f；同族 8 项动力装甲名称均误用小写，本条型号书写与原文不符。",
+   "final_fix": "T-60f动力装甲"
+  },
+  {
+   "key": "Outfit_Name_SantaSuit_Original",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Original Santa Suit 的限定词 Original 无对应，ZH 与 SpecialThemeXmas 的「圣诞老人服」同名，两件装备撞名。",
+   "final_fix": "原版圣诞老人服"
+  },
+  {
+   "key": "Pet_Description_abyssinian_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "epitome 是典范、极致，ZH「缩影」指缩小版；sleek 的毛色光亮只剩「光滑」，同位语「一个猫形态的缩影」是机翻腔。",
+   "final_fix": "线条流畅、身形苗条，是猫科体态的典范。"
+  },
+  {
+   "key": "Pet_Description_akita_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Other dogs 限定为其他狗，ZH「对于狗」丢了 other，且「对于……，没那么喜欢」介词结构后无主语，读不成句。",
+   "final_fix": "喜欢小孩。对同类可就没那么热情了。"
+  },
+  {
+   "key": "Pet_Description_bombay_b",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "myth 是传言说法，ZH 作「魔咒」；blown out of proportion 是被夸大，ZH 换成「没有那么大的概率」，断言被偷换。",
+   "final_fix": "招厄运那说法也太夸张了吧。"
+  },
+  {
+   "key": "Pet_Description_boxer_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "句末 Yeah. 是收束调侃的应声，ZH「简直太棒了」变成热情评价；Playful 是爱玩，非网络语「很会玩」。",
+   "final_fix": "爱玩，对孩子也友善，还能一把拧下掠夺者的胳膊。没错，就是这样。"
+  },
+  {
+   "key": "Pet_Description_cattledog_b",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "herd 是把牲畜赶拢的放牧，ZH「圈养」为关起来饲养，动作方向相反，还改成被动「被它圈养」，She 也丢了。",
+   "final_fix": "儿童。双头牛。死爪。它全都能放牧。"
+  },
+  {
+   "key": "Pet_Description_cx404_l",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "snoofs and borks 是两个狗的拟声动作（嗅嗅与汪汪叫），ZH 只留「嗅探活动」，borks 半句丢失，笑点丢一半。",
+   "final_fix": "一个训练有素的前英克雷特工，专精嗅嗅和汪汪叫。"
+  },
+  {
+   "key": "Pet_Description_dalmatian_l2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN he 指狗，库内宠物一律作「它」（相邻 dalmatian_l 亦然），本条「他就是你的护身符」是全库唯一例外。",
+   "final_fix": "要是避难所着了火——迟早的事——它就是你的护身符。"
+  },
+  {
+   "key": "Pet_Description_havanabrown_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Get used to saying 是祈使「以后会习惯说」，ZH「已经习惯和它说」写成既成状态，时态语气错位，引号前也应作冒号。",
+   "final_fix": "你会习惯常常问它：“你是怎么爬上去的？”"
+  },
+  {
+   "key": "Pet_Description_pallascat_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "under all that fur 指猫身上的毛，ZH「皮草」在中文专指毛皮服装，被读成「一堆皮草大衣下面有一只猫」。",
+   "final_fix": "有传言说，那一大堆毛底下藏着一只猫。"
+  },
+  {
+   "key": "Pet_Description_siamese_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 以 just 表转折「只是比你强」，ZH「不是……就是……」成固定二选一句式，猫的否认或被读成「要么傲慢要么更强」。",
+   "final_fix": "不算傲慢……只是比你优秀罢了。"
+  },
+  {
+   "key": "Pet_Description_stbernard_b",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "expect him to come running 是笃定「就等着它飞奔而来」，ZH「希望它能跑来找你」降格为祈愿，救援自信语气弱化。",
+   "final_fix": "要在阿尔卑斯山上迷了路，就等着它飞奔来找你吧。"
+  }
+ ]
+}

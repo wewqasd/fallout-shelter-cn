@@ -1,0 +1,151 @@
+{
+ "chunk": "077",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Weapon_Description_Minigun_ArmorPiercing",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "body 指被打中的人（活靶）的身体，译文写成「尸体」，把打击对象说成了死人；「从废土任何装甲——和尸体上——做出瑞士奶酪」还把原句方向译反了：原文是 make A out of B（把装甲和身体打成满是窟窿的瑞士奶酪），中文读成「从装甲和尸体里做出奶酪」，且整句没有主语。",
+   "fix": "能把废土上任何装甲——以及装甲下的人——都打成瑞士奶酪。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_Minigun_Hardened",
+   "severity": "S2",
+   "type": "数字",
+   "problem": "rounds 是子弹的「发」，译成「射击许多轮」会被读成「打了很多轮/很多回合」，数量单位错误，与这把枪「弹雨」的卖点无关；后半句「它肯定是有趣的」也是判断句直译。",
+   "fix": "打这么多发子弹也许没必要，但确实过瘾。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_Minigun_Rusty",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "加特林的 barrel 是「枪管」（多根枪管转管射击），「弹筒」不是枪械部件的通用说法（本库其它条目枪管一律写「枪管」）；另外 doesn't spin up quite as fast 是「转起来没那么快」，译文「旋转得不快」把比较级丢了。",
+   "fix": "枪管转起来没那么快，但一旦转起来……哎哟。",
+   "confidence": "medium"
+  },
+  {
+   "key": "Weapon_Description_MissileLauncher_Hardened",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "This thing delivers 是「这玩意儿说到做到/绝不掉链子」，译文「这家伙能帮你」把「威力兑现」变成了「它会帮你」，意思走偏；前半句 More explosive power, with faster firing 说的是爆炸威力和射速，译成「用更快的速度，产生更大的爆发力」也把射速说成了含糊的「更快的速度」。",
+   "fix": "爆炸威力更强，射速更快。这玩意儿真给力。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_MissileLauncher_MissLauncher",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "va-va-voom 是俚语「劲爆、带劲」，译文写成「哇哇叫」（哭喊声），等于说敌人被打得哇哇大哭，词义错误；「让现场充满了」也是原文没有的添加。",
+   "fix": "她装满了炸药，还格外带劲。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_MissileLauncher_Rusty",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "A little beat up 是「磕碰得破旧、有战损」，「有一点松动」把外观旧说成了结构松脱，玩家会以为发射器零件松了、有炸膛风险；it still works 是「还能用」，不是「有效」。",
+   "fix": "磕碰得有点破旧，但照样能用。这才是最重要的。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_PipeRifle_Long",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "they don't see it coming 是「趁对方没察觉（打他个措手不及）」，译文「当他们看不到它发生的时候」逐词硬译，「它」指代不明（开火？中弹？），「总是很有趣」主语也缺失，整句读不通，是机翻崩坏句。",
+   "fix": "趁对方没察觉的时候开火，总是更有意思。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_PlasmaPistol_Focused",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "Slaver 是具体敌人名，本库其余 8 处对话/任务条目一律译「奴隶贩子」，这里被泛化成「敌人」，专名信息丢失（that Slaver＝那个奴隶贩子）。",
+   "fix": "没错，你刚把那个奴隶贩子变成了一滩绿水。干得漂亮！",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_PlasmaRifle_Amplified",
+   "severity": "S1",
+   "type": "指代",
+   "problem": "原句主语是 this thing（这把枪），「What this thing does to the human body」；译文换成没头没尾的「这件事」，前文并无可以指代的「事」，玩家读不出是在说这把枪的威力；does 也被弱化成「影响」。",
+   "fix": "这把枪打在人身上会造成什么后果，完全无法想象。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_Railgun_Hardened",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "pierce and pin 是「穿透并钉住」，译文只留「能穿透」，把 pin（钉在墙上，钢钉武器的招牌效果）整词丢掉；「穿着动力装甲的四肢」搭配也不通——四肢不会穿装甲，原意是「连动力装甲里的四肢」也能穿透并钉住。",
+   "fix": "改装后连动力装甲里的四肢都能穿透并钉住。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_Railgun_Rusty",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "The odd spike 的 odd 表频率，是「偶尔会有一根尖钉」；译文当成「奇怪的」，还加定指「这个」，读成「某根奇怪的尖钉」，词义与指代双双出错。",
+   "fix": "偶尔有一枚尖钉钉不住四肢，但照样能要命。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_SawedOffShotgun_DoubleBarrelled",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "Half the shotgun 指整把枪锯短一半，译文写成「枪管减半」；而「枪管」与「枪筒」在中文里是同一部件，两句合起来自相矛盾（枪管既减半又加倍）。all the death 是「死亡一样不少」，译文「必死无疑」把主语偷换成了人。",
+   "fix": "枪身锯短一半，枪管加倍，死亡一点不少。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_SawedOffShotgun_Rusty",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "It's seen a lot of action 是「它身经百战、见过不少阵仗」，译文把 action 直译成「行动」，「见识过了很多行动……但还准备多看一些」不是中文说法，也没传达出「打过很多仗、还愿意再打」的意思。",
+   "fix": "它身经百战……不过还能再打几场。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_Shotgun_Rusty",
+   "severity": "S1",
+   "type": "漏译",
+   "problem": "英文前半句 It sat in the barn a little too long（在谷仓里搁得太久）整句消失，译文直接从「但」开头，没有前件，句子读不通；同源旧版译文该句为「它放在谷仓里的时间长了一点」，本批被整段漏掉。",
+   "fix": "它在谷仓里搁得太久了，但杀起人来依然不输任何好枪。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_SniperRifle_Rusty",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "枪上的零件叫「扳机」，「触发器」是电子/数据库里的触发元件，术语用错；本库其它枪械描述（如「每一次扣动扳机，就是一个死亡之吻」）都用「扳机」。",
+   "fix": "扳机有点松，但它依然能在300码外放倒一只泥沼蟹。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Description_SniperRifle_VictoryRifle",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "第二句 This is why.（「靠的就是这把枪」）整句丢失，夸枪的落点没了，只剩「据说狙击手单凭一人就能赢得战争」，读起来变成单纯夸狙击手，方向与武器描述相反；同源旧版译文里有「这就是为什么」。",
+   "fix": "据说狙击手一个人就能赢下一场战争。靠的就是这把枪。",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Name_032Pistol_WildBillsSidearm",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "Wild Bill 是人名绰号（狂野比尔），「野生」只能修饰动植物，用在人名上属机翻；本库同类处理为「狂野万达」（Wild Wanda），此处应统一成「狂野比尔」。",
+   "fix": "狂野比尔手枪",
+   "confidence": "high"
+  },
+  {
+   "key": "Weapon_Name_FireHydrantBat",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 是 Fire Hydrant Bat（用消防栓做成的球棒，其描述「装作弱小的巨兽」正指巨兽抡消防栓），译文只剩「消防栓」，漏掉 Bat 这个类别词，玩家在武器列表里看不出它是近战棒类武器，也与本库「棒球棍」「球棒」的命名不一致。",
+   "fix": "消防栓球棒",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+"batch": 23,
+"items": [
+{
+"key": "QuestLoc_HoneymoonHorror_Conversation_1_NPCEnd_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "Here you go 是递物语，项目通译「给你」；译作「干得漂亮」把递东西变成称赞，动作消失。",
+"final_fix": "我们没意见！给你。"
+},
+{
+"key": "QuestLoc_HoneymoonHorror_Conversation_1_Team_1",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "To do your job 是回答来意的目的状语（ES Para hacer vuestro trabajo），ZH 祈使句「做好你自己的事」成了训斥。",
+"final_fix": "来替你们完成任务。那些治疗针就交给我们吧。"
+},
+{
+"key": "QuestLoc_HoneymoonHorror_Conversation_2_Team_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "you're invited 为单数（ES estás invitado、DE du），ZH「邀请你们加入我们」用复数，与「还有一个人的空间」矛盾。",
+"final_fix": "你知道……我们避难所还能再住一个人。格兰特，我邀请你来。"
+},
+{
+"key": "QuestLoc_HopontheRoachCoach_Conversation_1_NPCStart_2",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "were making…when 是进行中被打断，ZH「只是想……的时候拍摄」改成意图且多出「只是」，因果错位。",
+"final_fix": "这些蟑螂冒出来的时候，我们正在拍一部业余恐怖片。"
+},
+{
+"key": "QuestLoc_HostageNegotiations_Conversation_2_NPCStart_4",
+"verdict": "confirm",
+"severity": "S3",
+"reason": "this is all I can offer you 直译成「这是所有我能够给你们的」，「所有＋的字短语」缺中心语，不地道但可解。",
+"final_fix": "拿着，我能给你们的就这些了。"
+},
+{
+"key": "QuestLoc_HostageNegotiations_QuestLongDescription",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "snatching up 即掳人绑票（ES raptando、DE entführt），ZH「欺负善良的人们」降格罪名又添「善良的」，scheme 弱化。",
+"final_fix": "掠夺者一直在废土上四处掳人。终结他们的勾当，救出那些受害者。"
+},
+{
+"key": "QuestLoc_HotTubSlimeMachine_Conversation_1_NPCStart_1",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "More adventurers 整个漏译（ES Más aventureros），只剩无主残句「继续寻找水池？」，looking for 也误作「继续寻找」。",
+"final_fix": "什么鬼……？又来一批找水池的冒险者？"
+},
+{
+"key": "QuestLoc_HouseWarming_3_Question0_Answer1",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "ZH「为你们狂欢派对的完美人选」中「为」后缺谓语，介词结构残缺；staff 指雇的人手，「人选」使招人之意变虚。",
+"final_fix": "愿意为尸鬼承办餐饮的人，正是我们这场狂欢派对最合适的工作人员。"
+},
+{
+"key": "QuestLoc_HouseWarming_3_Question1_Choice3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "make a killing 是习语「大赚一笔」，ZH「大出风头」把报酬换成抢风头，选项语义偏离，与 killing 包袱脱节。",
+"final_fix": "你在豪斯先生的派对上能大赚一笔。"
+},
+{
+"key": "QuestLoc_HouseWarming_4_Question6_02",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "reward you for 的 for 应表原因，ZH「我想为你们尽心尽责的照料与关注，给你们一些奖赏」结构杂糅、前半无谓语。",
+"final_fix": "为了感谢你们尽心尽责的照料与关注，我想给你们一些奖赏。你们想要什么？"
+},
+{
+"key": "QuestLoc_HouseWarming_4_Question6_Choice2",
+"verdict": "confirm",
+"severity": "S3",
+"reason": "EN 句末 perhaps 是英语后置疑问尾，中文「也许」不作后置疑问标记（DE 作 Vielleicht…），语序硬搬但不影响理解。",
+"final_fix": "也许来身漂亮衣服？"
+},
+{
+"key": "QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_4",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "If he's anywhere 是让步条件（FR s'il est encore en vie），ZH「如果他可能在任何地方的话」条件虚设，等于无条件。",
+"final_fix": "他要是还在这一带，那肯定跟他们在一起。"
+},
+{
+"key": "QuestLoc_HumansLikeUs_Conversation_2_NPCStart_1",
+"verdict": "confirm",
+"severity": "S3",
+"reason": "guttural 指喉音音质（ES gutural），非发声部位；「高音喉咙尖叫」以「喉咙」代「喉音」，硬摞不成搭配。",
+"final_fix": "[高亢的喉音尖叫]"
+},
+{
+"key": "QuestLoc_HumansLikeUs_Conversation_5_NPCEnd_3",
+"verdict": "confirm",
+"severity": "S3",
+"reason": "engage protocol 应作「启动协议」（同项目 Activate Security Protocols 作「激活安全协议」），「进行协议」动宾不成立。",
+"final_fix": "警报！警报！启动灭绝协议！"
+},
+{
+"key": "QuestLoc_HumansLikeUs_Conversation_5_NPCStart_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "superior beings 指高等存在（ES seres superiores），ZH「上级」指人的上司，指代错且与下句「高等存在」矛盾。",
+"final_fix": "重要的是，你不要觉得自己正被高等存在审视。"
+}
+]
+}

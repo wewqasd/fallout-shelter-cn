@@ -1,0 +1,181 @@
+key	EN	ZH
+Weapon_Name_Flamer_Enhanced	Enhanced Flamer	增强型火焰喷射器
+Weapon_Name_Flamer_Hardened	Hardened Flamer	硬化型火焰喷射器
+Weapon_Name_Flamer_Pressurized	Pressurized Flamer	增压型火焰喷射器
+Weapon_Name_Flamer_Rusty	Rusty Flamer	生锈的火焰喷射器
+Weapon_Name_GatlingLaser	Gatling Laser	加特林激光枪
+Weapon_Name_GatlingLaser_Amplified	Amplified Gatling Laser	放大型加特林激光枪
+Weapon_Name_GatlingLaser_Focused	Focused Gatling Laser	聚焦型加特林激光枪
+Weapon_Name_GatlingLaser_Rusty	Rusty Gatling Laser	生锈的加特林激光枪
+Weapon_Name_GatlingLaser_Tuned	Tuned Gatling Laser	调试型加特林激光枪
+Weapon_Name_GatlingLaser_Vengeance	Vengeance	“复仇”激光枪
+Weapon_Name_GaussPistol_Enhanced	Enhanced Gauss Pistol 	强化的高斯手枪
+Weapon_Name_GaussPistol_Focused	Focused Gauss Pistol 	聚能的高斯手枪
+Weapon_Name_GaussPistol_Hardened	Hardened Gauss Pistol 	加固的高斯手枪
+Weapon_Name_GaussPistol_Rusty	Rusty Gauss Pistol 	生锈的高斯手枪
+Weapon_Name_GaussRifle	Gauss Rifle	高斯步枪
+Weapon_Name_GaussRifle_Accelerated	Accelerated Gauss Rifle	加速型高斯步枪
+Weapon_Name_GaussRifle_Enhanced	Enhanced Gauss Rifle	增强型高斯步枪
+Weapon_Name_GaussRifle_Hardened	Hardened Gauss Rifle	硬化型高斯步枪
+Weapon_Name_GaussRifle_Magnetron4000	Magnetron 4000	磁控管4000步枪
+Weapon_Name_GaussRifle_Rusty	Rusty Gauss Rifle	生锈的高斯步枪
+Weapon_Name_GhoulRevolver	Ghoul Revolver	尸鬼左轮
+Weapon_Name_GrognaksAxe	Grognak's Axe	古古那的斧子
+Weapon_Name_HardenedT60Pistol	Hardened T60 Pistol	加固的T60手枪
+Weapon_Name_HardenedTranqPistol	Hardened Tranq Gun	加固的麻醉枪
+Weapon_Name_HarknessAssaultRifle	Harkness's Assault Rifle	哈克尼斯突击步枪
+Weapon_Name_HuntingRifle	Hunting Rifle	猎枪
+Weapon_Name_HuntingRifle_ArmorPiercing	Armor Piercing Hunting Rifle	穿甲型猎枪
+Weapon_Name_HuntingRifle_Enhanced	Enhanced Hunting Rifle	增强型猎枪
+Weapon_Name_HuntingRifle_Hardened	Hardened Hunting Rifle	硬化型猎枪
+Weapon_Name_HuntingRifle_OlPainless	Ol' Painless	“无痛杀手”猎枪
+Weapon_Name_HuntingRifle_Rusty	Rusty Hunting Rifle	生锈的猎枪
+Weapon_Name_InstitutePistol	Institute Pistol	学院手枪
+Weapon_Name_InstitutePistol_Apotheosis	Apotheosis	“巅峰”手枪
+Weapon_Name_InstitutePistol_Improved	Improved Institute Pistol	改进型学院手枪
+Weapon_Name_InstitutePistol_Incendiary	Incendiary Institute Pistol	燃烧型学院手枪
+Weapon_Name_InstitutePistol_Scattered	Scattered Institute Pistol	分散型学院手枪
+Weapon_Name_InstitutePistol_Scoped	Scoped Institute Pistol	狙击型学院手枪
+Weapon_Name_InstituteRifle	Institute Rifle	学院步枪
+Weapon_Name_InstituteRifle_Excited	Excited Institute Rifle	激发型学院步枪
+Weapon_Name_InstituteRifle_Long	Long Institute Rifle	长款学院步枪
+Weapon_Name_InstituteRifle_NightVision	Night-Vision Institute Rifle	夜视型学院步枪
+Weapon_Name_InstituteRifle_Targeting	Targeting Institute Rifle	定向型学院步枪
+Weapon_Name_InstituteRifle_VirgilsRifle	Virgil's Rifle	维吉尔步枪
+Weapon_Name_JerichoAssaultRifle	Jericho's Assault Rifle	耶利哥突击步枪
+Weapon_Name_JonesMagnum	Jones' Scoped .44	琼斯.44狙击枪
+Weapon_Name_JunkJet	Junk Jet	垃圾喷射炮
+Weapon_Name_JunkJet_Electrified	Electrified Junk Jet	电气型垃圾喷射炮
+Weapon_Name_JunkJet_Flaming	Flaming Junk Jet	火焰型垃圾喷射炮
+Weapon_Name_JunkJet_RecoilCompensated	Recoil Compensated Junk Jet	反冲辅助型垃圾喷射炮
+Weapon_Name_JunkJet_Tactical	Tactical Junk Jet	战术型垃圾喷射炮
+Weapon_Name_JunkJet_TechniciansRevenge	Technician's Revenge	“技师的复仇”垃圾喷射炮
+Weapon_Name_KelloggsPistol	Kellogg's Pistol	克罗格的手枪
+Weapon_Name_KitchenKnife	Kitchen Knife	菜刀
+Weapon_Name_LaserMusket	Laser Musket	激光火枪
+Weapon_Name_LaserPistol	Laser Pistol	激光手枪
+Weapon_Name_LaserPistol_Amplified	Amplified Laser Pistol	放大型激光手枪
+Weapon_Name_LaserPistol_Focused	Focused Laser Pistol	聚焦型激光手枪
+Weapon_Name_LaserPistol_Rusty	Rusty Laser Pistol	生锈的激光手枪
+Weapon_Name_LaserPistol_SmugglersEnd	Smuggler's End	“走私犯终结者”激光手枪
+Weapon_Name_LaserPistol_Tuned	Tuned Laser Pistol	调谐激光手枪
+Weapon_Name_LaserRifle	Laser Rifle	激光步枪
+Weapon_Name_LaserRifle_Amplified	Amplified Laser Rifle	放大型激光步枪
+Weapon_Name_LaserRifle_Focused	Focused Laser Rifle	聚焦型激光步枪
+Weapon_Name_LaserRifle_Rusty	Rusty Laser Rifle	生锈的激光步枪
+Weapon_Name_LaserRifle_Tuned	Tuned Laser Rifle	调试型激光步枪
+Weapon_Name_LaserRifle_WazerWifle	Wazer Wifle	“瓦仄外辐”经典激光步枪
+Weapon_Name_LeverActionRifle	Lever-Action Rifle	杠杆步枪
+Weapon_Name_LeverActionRifle_ArmorPiercing	Armor Piercing Lever-Action Rifle	穿甲型杠杆步枪
+Weapon_Name_LeverActionRifle_Enhanced	Enhanced Lever-Action Rifle	增强型杠杆步枪
+Weapon_Name_LeverActionRifle_Hardened	Hardened Lever-Action Rifle	硬化型杠杆步枪
+Weapon_Name_LeverActionRifle_Henrietta	Henrietta	亨丽埃塔
+Weapon_Name_LeverActionRifle_LincolnsRepeater	Lincoln's Repeater	林肯连发型杠杆步枪
+Weapon_Name_LeverActionRifle_Rusty	Rusty Lever-Action Rifle	生锈的杠杆步枪
+Weapon_Name_LincolnRifle	Lincoln's Rifle	林肯步枪
+Weapon_Name_LyonsLaserRifle	Lyon's Laser Rifle	里昂激光步枪
+Weapon_Name_Magnum	Scoped .44	.44狙击枪
+Weapon_Name_Magnum_ArmorPiercing	Armor Piercing Scoped .44	穿甲型.44狙击枪
+Weapon_Name_Magnum_Blackhawk	Blackhawk	“黑鹰”狙击枪
+Weapon_Name_Magnum_Enhanced	Enhanced Scoped .44	增强型.44狙击枪
+Weapon_Name_Magnum_Hardened	Hardened Scoped .44	硬化型.44狙击枪
+Weapon_Name_Magnum_Rusty	Rusty Scoped .44	生锈的.44狙击枪
+Weapon_Name_MaresLeg	Mare's Leg	马腿
+Weapon_Name_Minigun	Minigun	旋转机枪
+Weapon_Name_Minigun_ArmorPiercing	Armor Piercing Minigun	穿甲型旋转机枪
+Weapon_Name_Minigun_Enhanced	Enhanced Minigun	增强型旋转机枪
+Weapon_Name_Minigun_Hardened	Hardened Minigun	硬化型旋转机枪
+Weapon_Name_Minigun_LeadBelcher	Lead Belcher	“吐铅者”旋转机枪
+Weapon_Name_Minigun_Rusty	Rusty Minigun	生锈的旋转机枪
+Weapon_Name_MissileLauncher	Missile Launcher	飞弹发射器
+Weapon_Name_MissileLauncher_Enhanced	Enhanced Missile Launcher	增强型飞弹发射器
+Weapon_Name_MissileLauncher_Guided	Guided Missile Launcher	引导型飞弹发射器
+Weapon_Name_MissileLauncher_Hardened	Hardened Missile Launcher	硬化型飞弹发射器
+Weapon_Name_MissileLauncher_MissLauncher	Miss Launcher	“发射者女士”飞弹发射器
+Weapon_Name_MissileLauncher_Rusty	Rusty Missile Launcher	生锈的飞弹发射器
+Weapon_Name_MountainMomma	Mountain Momma	大山妈妈
+Weapon_Name_MrBurkePistol	Mr. Burkes' Pistol	伯克先生手枪
+Weapon_Name_Pickaxe	Pickaxe	镐
+Weapon_Name_PipePistol	Pipe Pistol	管道手枪
+Weapon_Name_PipePistol_Auto	Auto Pipe Pistol	自动管道手枪
+Weapon_Name_PipePistol_HairTrigger	Hair Trigger Pipe Pistol	微力扳机管道手枪
+Weapon_Name_PipePistol_Heavy	Heavy Pipe Pistol	重型管道手枪
+Weapon_Name_PipePistol_LittleBrother	Little Brother	“小弟”管道手枪
+Weapon_Name_PipePistol_Scoped	Scoped Pipe Pistol	狙击管道手枪
+Weapon_Name_PipeRifle	Pipe Rifle	管道步枪
+Weapon_Name_PipeRifle_Bayoneted	Bayoneted Pipe Rifle	刺刀型管道步枪
+Weapon_Name_PipeRifle_BigSister	Big Sister	“大姐”管道步枪
+Weapon_Name_PipeRifle_Calibrated	Calibrated Pipe Rifle	校准型管道步枪
+Weapon_Name_PipeRifle_Long	Long Pipe Rifle	长款管道步枪
+Weapon_Name_PipeRifle_NightVision	Night-Vision Pipe Rifle	夜视管道步枪
+Weapon_Name_Pistol	10mm Pistol	10mm手枪
+Weapon_Name_Pistol_ArmorPiercing	Armor Piercing 10mm Pistol	穿甲型10mm手枪
+Weapon_Name_Pistol_Enhanced	Enhanced 10mm Pistol	增强型10mm手枪
+Weapon_Name_Pistol_Hardened	Hardened 10mm Pistol	硬化型10mm手枪
+Weapon_Name_Pistol_LoneWanderer	Lone Wanderer	“独行者”手枪
+Weapon_Name_Pistol_Rusty	Rusty 10mm Pistol	生锈的10mm手枪
+Weapon_Name_PlasmaCaster	Plasma Caster	等离子发射器
+Weapon_Name_PlasmaCaster_Enhanced	Enhanced Plasma Caster	强化的等离子发射器
+Weapon_Name_PlasmaCaster_Hardened	Hardened Plasma Caster	加固的等离子发射器
+Weapon_Name_PlasmaCaster_Rusty	Rusty Plasma Caster	生锈的等离子发射器
+Weapon_Name_PlasmaPistol	Plasma Pistol	等离子手枪
+Weapon_Name_PlasmaPistol_Amplified	Amplified Plasma Pistol	放大型等离子手枪
+Weapon_Name_PlasmaPistol_Focused	Focused Plasma Pistol	聚焦型等离子手枪
+Weapon_Name_PlasmaPistol_MPLXNovasurge	MPLX Novasurge	MPLX 新星涌动
+Weapon_Name_PlasmaPistol_Rusty	Rusty Plasma Pistol	生锈的等离子手枪
+Weapon_Name_PlasmaPistol_Tuned	Tuned Plasma Pistol	调试型等离子手枪
+Weapon_Name_PlasmaRifle	Plasma Rifle	等离子步枪
+Weapon_Name_PlasmaRifle_Amplified	Amplified Plasma Rifle	放大型等离子步枪
+Weapon_Name_PlasmaRifle_Focused	Focused Plasma Rifle	聚焦型等离子步枪
+Weapon_Name_PlasmaRifle_MeanGreenMonster	Mean Green Monster	“凶狠绿怪”等离子步枪
+Weapon_Name_PlasmaRifle_Rusty	Rusty Plasma Rifle	生锈的等离子步枪
+Weapon_Name_PlasmaRifle_Tuned	Tuned Plasma Rifle	调试型等离子步枪
+Weapon_Name_PlasmaThrower	Plasma Thrower	等离子发射器
+Weapon_Name_PlasmaThrower_Agitated	Agitated Plasma Thrower	激活型等离子发射器
+Weapon_Name_PlasmaThrower_Boosted	Boosted Plasma Thrower	增压型等离子发射器
+Weapon_Name_PlasmaThrower_DragonsMaw	Dragon's Maw	“龙胃”等离子发射器
+Weapon_Name_PlasmaThrower_Overcharged	Overcharged Plasma Thrower	过载型等离子发射器
+Weapon_Name_PlasmaThrower_Tactical	Tactical Plasma Thrower	战术型等离子发射器
+Weapon_Name_PoolCue	Pool Cue	台球杆
+Weapon_Name_PowerFist	Power Fist	动力拳套
+Weapon_Name_PowerFistEd	Ed's Custom Power Fist	埃德的自制动力拳套
+Weapon_Name_PowerFist_Enhanced	Enhanced Power Fist	强化的动力拳套
+Weapon_Name_PowerFist_Hardened	Hardened Power Fist	加固的动力拳套
+Weapon_Name_PowerFist_Rusty	Rusty Power Fist	生锈的动力拳套
+Weapon_Name_PulseRifle	Pulse Rifle	脉冲步枪
+Weapon_Name_PulseRifle_Enhanced	Enhanced Pulse Rifle	强化的脉冲步枪
+Weapon_Name_PulseRifle_Hardened	Hardened Pulse Rifle	加固的脉冲步枪
+Weapon_Name_PulseRifle_Rusty	Rusty Pulse Rifle	生锈的脉冲步枪
+Weapon_Name_RadiumRifle	Radium Rifle	镭步枪
+Weapon_Name_RaiderSword	Relentless Raider Sword	掠夺者的无情剑
+Weapon_Name_Railgun	Railway Rifle	射钉步枪
+Weapon_Name_Railgun_Accelerated	Accelerated Railway Rifle	加速型射钉步枪
+Weapon_Name_Railgun_Enhanced	Enhanced Railway Rifle	增强型射钉步枪
+Weapon_Name_Railgun_Hardened	Hardened Railway Rifle	硬化型射钉步枪
+Weapon_Name_Railgun_Railmaster	Railmaster	“轨道大师”射钉步枪
+Weapon_Name_Railgun_Rusty	Rusty Railway Rifle	生锈的射钉步枪
+Weapon_Name_Rifle	Rifle	步枪
+Weapon_Name_Rifle_Legendary	Legendary Rifle	传奇级步枪
+Weapon_Name_Rifle_Rare	Rare Rifle	稀有级步枪
+Weapon_Name_Ripper	Ripper	齿锯
+Weapon_Name_Ripper_Enhanced	Enhanced Ripper	强化的齿锯
+Weapon_Name_Ripper_Hardened	Hardened Ripper	加固的齿锯
+Weapon_Name_Ripper_Rusty	Rusty Ripper	生锈的齿锯
+Weapon_Name_RustyT60Pistol	Rusty T60 Pistol	生锈的T60手枪
+Weapon_Name_RustyTranqPistol	Rusty Tranq Gun	生锈的麻醉枪
+Weapon_Name_SawedOffShotgun	Sawed-Off Shotgun	短管霰弹枪
+Weapon_Name_SawedOffShotgun_DoubleBarrelled	Double-Barrel Sawed-Off Shotgun	双筒短管霰弹枪
+Weapon_Name_SawedOffShotgun_Enhanced	Enhanced Sawed-Off Shotgun	增强型短管霰弹枪
+Weapon_Name_SawedOffShotgun_Hardened	Hardened Sawed-Off Shotgun	硬化型短管霰弹枪
+Weapon_Name_SawedOffShotgun_Kneecapper	Kneecapper	“碎膝者”短管霰弹枪
+Weapon_Name_SawedOffShotgun_Rusty	Rusty Sawed-Off Shotgun	生锈的短管霰弹枪
+Weapon_Name_ScribePistol	Scribe Rothchild's Pistol	罗瑟查尔德学士手枪
+Weapon_Name_SheriffAssaultRifle	Sheriff's Assault Rifle	警长突击步枪
+Weapon_Name_Shotgun	Shotgun	霰弹枪
+Weapon_Name_Shotgun_DoubleBarrelled	Double-Barrel Shotgun	双筒霰弹枪
+Weapon_Name_Shotgun_Enhanced	Enhanced Shotgun	增强型霰弹枪
+Weapon_Name_Shotgun_FarmersDaughter	Farmer's Daughter	“农夫女儿”霰弹枪
+Weapon_Name_Shotgun_Hardened	Hardened Shotgun	硬化型霰弹枪
+Weapon_Name_Shotgun_Rusty	Rusty Shotgun	生锈的霰弹枪
+Weapon_Name_SingleShotgun	Shotgun	霰弹枪
+Weapon_Name_SniperRifle	Sniper Rifle	狙击步枪

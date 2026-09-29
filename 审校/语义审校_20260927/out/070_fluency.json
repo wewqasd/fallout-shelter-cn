@@ -1,0 +1,7 @@
+{"chunk":"070","lens":"fluency","reviewed":180,"findings":[
+{"key":"Speech_Quest_Generic_Dweller_Conversation_23_Response_3","severity":"S3","type":"语气","problem":"Hello! 在这里是被人讨零食时的无奈感叹语，等于「拜托/喂」，译成问候语「你好！」语气完全跑偏；后半句「避难所居民在此——」又是书面报告腔（此在/在此），整句读起来像开场问候加通报，与后半句「不是自动贩卖机」的吐槽口气脱节。对白应口语化。","fix":"拜托！我可是避难所居民，不是自动售货机……","confidence":"high"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_21_Response_1","severity":"S3","type":"生硬","problem":"EN 是「You are... By me.」，先确认「你确实在被监视」再抖出「被我」。中文「你是啊，被我监视着。」把 be 动词直搬成「是」，半截话「你是啊」在中文里不成句，读者要先猜「你是（被监视）啊」才能接上后半句，英文语序硬搬。","fix":"没错……我正盯着你呢。","confidence":"high"},
+{"key":"Speech_Quest_Generic_Dweller_Conversation_15_Response_2","severity":"S3","type":"生硬","problem":"第三段 EN 是有人在做动作「Someone screaming along to music（有人跟着音乐一起尖叫）」，中文改成名词短语「伴随着音乐的尖叫声」，把「人」丢掉，变成「尖叫声被音乐陪伴」，逻辑颠倒且失去层层加码的荒诞感。","fix":"尖叫声？音乐？有人跟着音乐在尖叫？","confidence":"medium"},
+{"key":"Speech_Quest_Alone_Dweller_19","severity":"S3","type":"生硬","problem":"本系列全部台词围绕“独自一人”，但「一人生，一人死」套用了「一人……一人……」的对比句式，最自然的读法是“一个人活、另一个人死”，与 Live alone, die alone 的「孤独」义相冲；后半句 How depressing 译成「抑郁」也偏医学化（抑郁症），口语里说“郁闷/沮丧”更贴。","fix":"独自活着，独自死去。真让人沮丧。","confidence":"medium"},
+{"key":"Speech_Quest_Generic_Dweller_27","severity":"S3","type":"其他","problem":"How charming 是看到死老鼠时的反讽，「风雅」专指文人雅士的文艺格调（附庸风雅、风雅之事），用来形容一地死老鼠属于搭配错误，笑点变成读不懂的怪词；全项目仅此一处用「风雅」，是译者的临时选词而非既定术语。","fix":"嚯，地上还有只死老鼠，真有情调。","confidence":"medium"}
+]}

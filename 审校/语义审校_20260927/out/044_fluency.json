@@ -1,0 +1,55 @@
+{
+  "chunk": "044",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_MyMetalPony_QuestLongDescription",
+      "severity": "S3",
+      "type": "错别字",
+      "problem": "“你说得算”应为“你说了算”。汉语固定说法是“（谁）说了算”，“说得算”不成词，属明显误写；同批 QuestLoc_NVB_QL2_Leftovers_2_Question2_Choice2 里的“你说得有理”才是“得”的正确用法。",
+      "fix": "你想用它来制造零件，还是在闲暇时间骑一骑？你说了算，谁让你是监督者。派你的居民们去弄一匹回来。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_NVB_QL2_Leftovers_2_Question1_Choice3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "“混进你们的”后面缺宾语中心语，句子没说完（“你们的”是定语性成分，不能单独充当“混进”的宾语），玩家读到这里要自行补词；EN 是 my mind in your mix，指“混进你们的集体”。",
+      "fix": "你不会想让我这样的头脑混进你们的集体。它……不太正常。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NVB_QL2_Leftovers_2_Question3_Choice1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "“我算了”不是汉语里应答 I'll pass 的说法（应为“算了”“我不参与”之类），字面还容易被读成“我计算过了”；“不牵扯辐射皮肉”同样是 hard calque，irradiated flesh 说“被辐射过的肉体”才自然。",
+      "fix": "算了，我不参与。我的感情生活可不涉及被辐射过的肉体。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "“致力于和平与追求思想”把名词短语“和平”和动词短语“追求思想”硬并到同一个“致力于”下，结构参差（杂糅），读起来前半个并列成立、后半个落空；EN 是 dedicated to peace and the pursuit of ideas。",
+      "fix": "入侵者。我们致力于和平，也一心追求思想。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Choice1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "“承认了大量谋杀”搭配不当：“大量”不直接修饰作为事件名词的“谋杀”，汉语说“承认犯下多起谋杀”“承认搞了大规模屠杀”；此处是 mass murders 的逐字硬搬，读着别扭。",
+      "fix": "你……你刚才是不是承认自己犯下了大规模谋杀？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Answer1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "“还不是多数人，为了压迫那一个人？”后半只剩“为了压迫那一个人”悬空，没有谓语与前面的设问衔接，属成分残缺／结构杂糅，读起来断气；EN 是一个反问句 who defines pain but the many, to oppress the one?",
+      "fix": "那就请继续赶路，好好想想：是谁在定义痛苦？还不是多数人——为的就是压迫那一个人。",
+      "confidence": "medium"
+    }
+  ]
+}

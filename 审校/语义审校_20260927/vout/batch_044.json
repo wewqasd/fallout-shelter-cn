@@ -1,0 +1,17 @@
+{"batch":44,"items":[
+{"key":"QuestLoc_WondersofNature_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S2","reason":"should see 是「不应该看到」（ES debería/DE sollte），「无人见识过」变成「没人见过」，情态被偷换。","final_fix":"我见识过一些东西……不该被任何人看到的恐怖。"},
+{"key":"QuestLoc_WondersofNature_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"in over his head=力不从心、陷得太深；「确保他的安全」只剩人身安全，「别逞强」这层没了。","final_fix":"著名科学家欧拓凡霍夫伯格就在附近，正在研究辐射蝎的交配习惯。可别让他陷得太深。"},
+{"key":"QuestLoc_WorstCoachEver_Conversation_1_NPCStart_2","verdict":"confirm","severity":"S2","reason":"getting warmer 是猜谜里「越来越近」（ES Caliente/FR On se rapproche），「越来越暖和」读成气温。","final_fix":"“越来越近了”"},
+{"key":"QuestLoc_WorstCoachEver_QuestLongDescription","verdict":"confirm","severity":"S3","reason":"Rackie Jobinson's Jersey 专名被删，同 chunk 目标行作「罗基·杰宾森的棒球衫」，此处只剩棒球衫。","final_fix":"铅笔厂里没有收获，但我们并不气馁。罗基·杰宾森的棒球衫一定是我们的！我们去老“虎不理漫画”店找找看。"},
+{"key":"Quest_Dialog_1_1","verdict":"confirm","severity":"S2","reason":"What do we have here? 是挑衅套话（DE Wen haben wir hier? 指人）；「我们有什么」译成自问，不成对白。","final_fix":"瞧瞧这是谁？避难所居民？"},
+{"key":"Quest_Dialog_1_3","verdict":"confirm","severity":"S3","reason":"have no love for him=对他没好感；「毫无情分可讲」偏书面，「情分」落在情面交情，不像掠夺者口语。","final_fix":"我们跟他可没什么交情。"},
+{"key":"Room_Overseer_Upgrade_Level2","verdict":"confirm","severity":"S3","reason":"at a time=同时（ES al mismo tiempo/DE gleichzeitig）；「送去一次」语序硬搬，「送去」用于人不当。","final_fix":"可同时派遣居民执行两个任务"},
+{"key":"Room_Overseer_Upgrade_Level3","verdict":"confirm","severity":"S3","reason":"at a time=同时（ES al mismo tiempo/DE gleichzeitig）；「送去一次」语序硬搬，「送去」用于人不当。","final_fix":"可同时派遣居民执行三个任务"},
+{"key":"RushMode_Button_Failed","verdict":"confirm","severity":"S3","reason":"PROCEED=继续（ES CONTINUAR/DE WEITER）；「进行」是及物动词却无宾语，不可能单作按钮。","final_fix":"继续"},
+{"key":"Screenshot_Twitter_Message","verdict":"confirm","severity":"S2","reason":"#FalloutShelter 是聚合标签，ES/FR/DE 均保留原文；译掉又缺空格会吞掉正文。","final_fix":"#FalloutShelter 快来看看我的避难所！"},
+{"key":"SeasonModal_BattlePass_LockedReward_Premium","verdict":"confirm","severity":"S2","reason":"Unlock with Season Pass 是用通行证解锁奖励；「解锁赛季通行证以获取」主宾颠倒且缺宾语。","final_fix":"使用赛季通行证解锁"},
+{"key":"Seasons_MessageSeasonEndsInStub","verdict":"confirm","severity":"S2","reason":"stub 要与时长拼接（ES termina en/DE endet in）；「赛季将于」+「1天」不成句，缺收尾框架。","final_fix":"距离赛季结束还有"},
+{"key":"Shop_PetBanner_Text5","verdict":"confirm","severity":"S2","reason":"improved…cost 指花费下降（DE günstigere/ES mejorar el coste）；「提升…花费」把方向译反。","final_fix":"提升打造速度，降低打造花费。"},
+{"key":"Shop_SeasonPass_NewVegasB_Premium_Description","verdict":"confirm_fix_better","severity":"S2","reason":"incognito 是不暴露身份非隐形（库内 Outfit_Name_Incognito 作低调休闲装）；Mr. Handy 未译；铅击者与库内吐铅者不一致。","final_fix":"将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（相当于巧手先生）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、低调休闲装、“吐铅者”旋转机枪、2个宠物笼子，以及5000瓶盖。"},
+{"key":"SnipSnipDialog_Wasteland_27","verdict":"confirm","severity":"S2","reason":"just fine 是反讽「干得漂亮」（IT Bravi/FR n'ont pas eu besoin de nous）；「控制不住」凭空加了失控。","final_fix":"想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……"}
+]}

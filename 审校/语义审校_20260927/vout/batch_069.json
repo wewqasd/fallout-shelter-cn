@@ -1,0 +1,110 @@
+{
+ "batch": 69,
+ "items": [
+  {
+   "key": "QuestLoc_HumansLikeUs_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 回声的是上句 complimentary（现译「免费的体检」）的「免费」，ZH 却作「赠送什么？」，与上句关键词对不上，笑话接不住。",
+   "final_fix": "对不起，免费什么？"
+  },
+  {
+   "key": "QuestLoc_HumansLikeUs_Conversation_4_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "for some reason 是状语，ES/FR/RU 均前置到句首；ZH 原样吊在「他们喜欢杀我们」之后，像话没说完。",
+   "final_fix": "不知道为什么，他们就是喜欢杀我们，哈哈。"
+  },
+  {
+   "key": "QuestLoc_HumansLikeUs_Conversation_5_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "find everything here normal 是「觉得这里一切正常」，ZH 换成「你在这里一切正常」；ha ha 全作「哈哈」，「呵呵」为全表孤例。",
+   "final_fix": "我希望你觉得这里的一切都很正常，一点也不觉得诡异，哈哈。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_1_Room0_Question_Line3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "as much help as a paper umbrella 意为帮不上忙；ZH「我这点作用……靠不住」让「作用」与「靠不住」硬配，把没用偏成不可靠。",
+   "final_fix": "我帮的忙，就跟飓风里的一把纸伞差不多。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_1_Room2_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是 noises that sounded like dying Ghouls，ZH 压成嵌套定语「像是尸鬼濒死的声音」，「尸鬼濒死」缺中心语。",
+   "final_fix": "我们有救了，对吧？我听到好多动静，听着像是尸鬼临死前发出的声音。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_2_Room1_Question_Line4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "the rest of my folks 即「我其余的乡亲」，ZH「我其他乡亲们」缺「的」且「我」与「们」冲突，念着别扭。",
+   "final_fix": "这样吧。只要你能说服我们其余的乡亲加入，我们就入伙。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_4_Room0_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "crawling with Synths 是「到处都是」（DE wimmelt、RU полно）；ZH「爬满了合成人」把用于虫豸的「爬满」扣在人形合成人上。",
+   "final_fix": "绝对是这地方。这里到处都是合成人。"
+  },
+  {
+   "key": "QuestLoc_INS_QL1_MajorPlayers_4_Room6_Question_Line3",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 同样只用无先行词的 them，FR/DE/RU 也仍是代词；ZH 靠「我们义勇军／他们」对照即可解出里面的敌人，fix 的「敌人」属增译。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_1_Room6_Question_Line1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "run 此处是领导／掌管（ES lidero、DE leite、RU руковожу）；ZH「经营」专指做生意，配无引号「铁路」易读成开铁路公司。",
+   "final_fix": "谢谢你们。你们救了我。我是怀亚特，铁路的负责人。"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_1_Room6_Question_Line1_Answer2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN they're human 在为合成人辩白，ZH「它们是人类」用非人代词「它们」与谓语相矛盾；全表同类强调句用的是「他们」。",
+   "final_fix": "这件事就交给你了。我今天已经失去了太多朋友。但请记住：他们是人类，即便是在实验室里造出来的。"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_1_Room6_Question_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "double agents 是身份名词双面间谍（ES agentes dobles、DE Doppelagenten），ZH「两面三刀」只剩阴险品性，丢了身份。",
+   "final_fix": "如果我查出它们是双面间谍，我该怎么办？"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_1_Room7_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN the guy in the other room 中「另一个房间」是名词短语，须加「里的」才能带「那家伙」，现句缺定语标记像漏字。",
+   "final_fix": "是另一个房间里的那个家伙。我看见他用了学院的通讯设备。"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_1_Room8_Question_Line1_Choice1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只有一个 right?，ZH「……吧，对吧？」把「吧」与「对吧」两个揣测语气词叠用，重复啰嗦；「可能的间谍」也生硬。",
+   "final_fix": "不是针对你。总不能放走一个可能是间谍的人吧？"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_3_Room5_Question_Line1_Choice0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是 the holes the Mole rats came from（鼹鼠钻进来的洞），ZH「从鼹鼠进来的」缺动词「钻」，又接「钻进来的」，须回读。",
+   "final_fix": "破坏者！准是从鼹鼠钻进来的那些洞里钻过来的……"
+  },
+  {
+   "key": "QuestLoc_INS_QL2_Railroaded_4_Room4_Question_Line1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Poetic 是有诗意（ES poético、DE poetisch、RU поэтичное），ZH「多讽刺」把命运般的对称换成了反讽。",
+   "final_fix": "啊！是你！多有诗意，对吧？你和怀亚特，同一天被抹去。"
+  }
+ ]
+}

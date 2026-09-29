@@ -1,0 +1,110 @@
+{
+ "batch": 82,
+ "items": [
+  {
+   "key": "Room_Elevator_Desc",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN ACCESS＝进入；ZH「用来进入到…里…更低的楼层」叠了「到」「里」两层冗余，同表 Tutorial_Tip_20 作「进入避难所的下层」。",
+   "final_fix": "用于进入避难所更低的楼层"
+  },
+  {
+   "key": "Room_Gym_2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN GYM 的词典义就是体育馆；FITNESS ROOM 才是健身房/健身工作室/健身中心，改「健身馆」反与之撞车，举重房→体育馆→力量训练中心已可辨。",
+   "final_fix": ""
+  },
+  {
+   "key": "RushMode_Button_Success",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN CLAIM REWARDS 是动宾祈使；ZH「奖励领取」把动词后置成标题，与本表 CLAIM=领取、CLAIM ALL=全部领取 的按钮语序相反。",
+   "final_fix": "领取奖励"
+  },
+  {
+   "key": "SeasonPass_UpsellModal_Premium",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN instant boosts 是名词性加成（本表 boost 通译「加成」），ZH「注入…强力提升」动宾搭配不成立，换成「带来加成」即通。",
+   "final_fix": "将你的赛季提升至新高度！\n购买高级通行证可立即为你的避难所带来强力加成，还能获得其他地方找不到的独家奖励！"
+  },
+  {
+   "key": "Shop_StarterPack_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Amazing Value 是促销价格卖点（DE「Großartiger Preis」），ZH「了不起的价值」逐字直译，不指划算。",
+   "final_fix": "超值之选"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_42",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN what I find＝碰上什么算什么（DE was ich finde），ZH「需要的东西」多了「所需」这一目的义。",
+   "final_fix": "找到什么算什么，然后就回去。英雄主义什么的可不适合像我这样的巧手先生！"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_58",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN blasted woods 是烧毁的树林（DE verbrannten Wald），ZH「森林」丢失此义；小径论「条」不论「个」。",
+   "final_fix": "一条穿过焦枯树林的阴森小径？这诱惑真是难以抵挡。"
+  },
+  {
+   "key": "SnipSnipDialog_Wasteland_94",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN to death（DE zu Tode prügeln、RU до смерти）是打死，ZH「互相殴打」丢掉致死义，黑色反讽落空。",
+   "final_fix": "看啊，两个人类正在用轮胎扳手把对方往死里打。人类真是太棒了。"
+  },
+  {
+   "key": "Social_Button_SendHelpRequest",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN REQUESTS＝请求（ES solicitudes、RU просьбы）；ZH「要求」中文义为条件、命令式索取，同面板却已作「礼物请求」。",
+   "final_fix": "发送请求"
+  },
+  {
+   "key": "Social_Filter_HelpRequests",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN REQUESTS 与按钮 SEND REQUESTS 同源；「要求」在本表已归 requirements 用，此筛选项应与「礼物请求」一致。",
+   "final_fix": "请求"
+  },
+  {
+   "key": "Social_NoHelpRequests",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 与 Social_NoGifts 同句式；后者作「您还没有收到过任何礼物。」用「您」，本条 ZH 用「你」，同面板人称不统一。",
+   "final_fix": "您还没有收到过任何礼物请求。"
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic16",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Knock knock 是敲门拟声；NPC2_Topic16_Response2 已作「别再讲“咚咚咚”的笑话」，ZH「叩叩」接不上。",
+   "final_fix": "咚咚咚。"
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic25",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN or something 未译，ZH「跳棋还是？」的「还是」后无成分，被问号截成病句；Want to play…? 是邀请，非「想要玩点什么」。",
+   "final_fix": "待会想不想玩点什么？跳棋之类的？"
+  },
+  {
+   "key": "Speech_Conversation_NPC1_Topic36",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 与 Topic16 同为 Knock knock.；ZH 两处均作「叩叩」，须与 NPC2 的「别再讲“咚咚咚”的笑话」统一为「咚咚咚」。",
+   "final_fix": "咚咚咚。"
+  },
+  {
+   "key": "Speech_Conversation_NPC2_Topic21_Response2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "Street car 有歧义，但 ES carreras urbanas、DE Straßenrennen 均指街头赛车，与 ZH「街头赛车」一致。",
+   "final_fix": ""
+  }
+ ]
+}

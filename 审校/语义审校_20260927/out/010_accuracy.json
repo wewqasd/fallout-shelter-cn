@@ -1,0 +1,71 @@
+{
+  "chunk": "010",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Message_XboxSomethingWrong",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 是 Please try again or restart the game.（二选一），ZH 写成「出错。请再次尝试并重启游戏。」，用「并」把两个可选动作改成了必须同时执行的两件事，连接词含义搞反，玩家会被要求既重试又重启。",
+      "fix": "出错。请重试，或重启游戏。",
+      "confidence": "high"
+    },
+    {
+      "key": "Message_Tutorial_SpinToWinSpin",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "EN「{TAP} the button to SPIN! THAT! WHEEL!」只有一个动作和一个宾语，ZH 写成「{点击}按下按钮，转！那！个！盘！」，「点击」与「按下」两个动词叠加在同一个「按钮」上，是冗余病句，教程文字读起来别扭。",
+      "fix": "{点击}按钮，转！那！个！盘！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_Tutorial_SpinToWinSpin_PC",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "与 Message_Tutorial_SpinToWinSpin 同一处：EN「{CLICK} the button」只有一个动作，ZH「{点击}按下按钮」动词重复冗余，应只保留一个。",
+      "fix": "{点击}按钮，转！那！个！盘！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_Tutorial_SpinToWinSpin_Xbox",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "与 Message_Tutorial_SpinToWinSpin 同一处：EN「{SELECT} the button to SPIN! THAT! WHEEL!」，ZH「{选择}按下按钮，转！那！个！盘！」把「选择」和「按下」两个动作叠在一起，手柄上也不存在「按下按钮」这一独立步骤。",
+      "fix": "{选择}按钮，转！那！个！盘！",
+      "confidence": "medium"
+    },
+    {
+      "key": "MrHandyDialog_Generic_04",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN「My kingdom for an oil bath...」化用「My kingdom for a horse」（愿以整个王国相换）的夸张包袱，笑点全在「王国」这个价码上；ZH 只剩「我渴望一场机油浴……」，把「以王国交换」整层意思删掉，机器人的英式自嘲变成了普通陈述。",
+      "fix": "愿用我的整个王国换一场机油浴……",
+      "confidence": "high"
+    },
+    {
+      "key": "MrHandyDialog_Generic_19",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN 是两句：「I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.」，ZH「对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。」把开头独立成句的「I have to admit.」整句漏掉，巧手先生那种「不得不承认」的不情愿语气没了。",
+      "fix": "不得不承认，对于地底下这么个巨大的金属坑来说，这个避难所相当舒适。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_Tutorial_64",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 只说跳过 {VAULT} 里的 {OBJECTIVES}，没有「每日」这一限定；ZH 写成「跳过避难所里的每日{目标}」，凭空加上时间限定，会让玩家以为只有每日刷新的目标才能用可乐跳过（游戏里限制的是每天可跳过的次数，见 Help_Page01_MainText「每天还能使用量子核子可乐跳过额外的目标」）。",
+      "fix": "您还能够使用{量子核子可乐}来跳过避难所里的{目标}，加速{打造}、{训练}和美发店{个性化}的进程。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Message_Tutorial_63_Xbox",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN 主机版只有「Select {REACH NOW} to use the {NUKA-COLA QUANTUM} Vault-Tec has provided.」（无「立即到达」小句），ZH 多补了「来极速到达现场」，既与按钮名「{现在到达}」重复，又造成「来选择……来使用……来极速到达」三个「来」连用；同批 Message_Tutorial_63 / _PC 无此问题。",
+      "fix": "用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}。",
+      "confidence": "medium"
+    }
+  ]
+}

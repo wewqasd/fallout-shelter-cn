@@ -1,0 +1,71 @@
+{
+  "chunk": "015",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Pet_Description_collie_b",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 是牧羊犬的经典桥段：有人困在井里，狗去搬救兵。ZH 写成「困在了井里？它会让你得到帮助！」——把狗的动作偷换成「让你得到帮助」，主语和宾语错位，玩家读到的画面成了「它把帮助递给你」；「让你得到帮助」本身就是英文 get help 的逐字直译，中文很别扭。",
+      "fix": "困在了井里？它会去搬救兵！",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_doberman_b",
+      "severity": "S2",
+      "type": "语气",
+      "problem": "两个毛病：其一，「Loyal and loving?」是对狗的评价性追问，与上一句「有攻击性？」是同一句式，ZH 改写成「给你忠诚和爱？」，句子结构和前一句对不上，读起来像在问它给不给你东西；其二，「You'd better believe it」是习语（＝当然、千真万确），直译「你最好相信这点」在中文里是威胁口吻，跟宠物介绍的俏皮语气完全跑偏。",
+      "fix": "有攻击性？当然。又忠诚又亲人？那还用说。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_blacklab_l",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「Used to living underground」是 be used to doing（习惯了在地下生活），ZH 译成「曾生活在地下」，把习惯状态写成过去经历，等于说这只狗现在不住地下了，和避难所宠物的设定自相矛盾；前半句「由孩子们养大的，」是残句，后面接「所有人都很爱它」也接不顺。",
+      "fix": "由孩子们养大，人人都疼它。早就习惯了在地下生活。",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_bloodhound_l",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「He can!」是这条笑话的落点，意思是「它能闻到」，ZH 把 can 逐字译成「它可以！」。中文的「可以」表许可、允许，单独成句会被读成「（这）可以／没问题」，punchline 直接落空，玩家要愣一下才反应过来。",
+      "fix": "闻到了吗？没有？它闻得到！",
+      "confidence": "high"
+    },
+    {
+      "key": "Pet_Description_akita_b",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「Other dogs, not so much.」是英文特有的省略句，ZH 照搬成「喜欢小孩。对于狗，没那么喜欢。」：后半句没有主语，「对于狗」又丢掉了 other（其他狗），读起来像在评论狗这个物种而不是「对同类不感冒」；「对于……，没那么喜欢」这种介词结构后缺主语的写法在中文里不成句。",
+      "fix": "喜欢小孩。对同类可就没那么热情了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_dalmatian_l2",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "同一只斑点狗，相邻两条描述的第三人称不统一：上一条 Pet_Description_dalmatian_l 用「它」（它也许不能扑灭火灾……它能提供精神支持），本条突然变成「他」。全库宠物描述里「它」有 42 处，「他」只有这一处，属于漏改。",
+      "fix": "要是避难所着了火——迟早的事——它就是你的护身符。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_boxer_b",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "EN 结尾的「Yeah.」是收住那串夸张描述（还能拧下掠夺者的胳膊）的冷幽默节拍，意思是「就是这样」。ZH 译成「简直太棒了。」，变成译者自己发出的热情感叹，冷面调侃变成了一惊一乍；前半句 Playful 译作「很会玩」也偏网络口语，不像在说狗的性格。",
+      "fix": "爱玩，对孩子也友善，还能一把拧下掠夺者的胳膊。没错，就是这样。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Pet_Description_abyssinian_b",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN 是一个名词短语，ZH 写成「光滑又苗条，一个猫形态的缩影。」：一是「光滑」形容猫的体态不搭（sleek 指毛色油亮、线条流畅）；二是「一个猫形态的缩影」是 epitome of the feline form 的逐字搬运，「缩影」在中文指缩小版／概括性事物，拿它当同位语结尾读起来是机翻腔，也不像在夸猫。",
+      "fix": "线条流畅、身形苗条，是猫科体态的典范。",
+      "confidence": "medium"
+    }
+  ]
+}

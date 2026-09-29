@@ -1,0 +1,110 @@
+{
+ "batch": 86,
+ "items": [
+  {
+   "key": "Title_DailyReport",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "daily 是「每日」，ZH「日常报告」解作「日常、例行」，与同窗口 Title_DailyReportSmall「每日报告」及库内 3 处不一致。",
+   "final_fix": "每日报告"
+  },
+  {
+   "key": "Title_IcloudSave",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "SAVE 指存档文件，ZH「云保存」译成动作；库内 CloudSaveConfirmMessage 等 6 处均作「云存档」。",
+   "final_fix": "云存档"
+  },
+  {
+   "key": "Tutorial_Tip_27",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 的 it 指「分配到广播室」这件事，ZH「它」紧跟「居民」，读起来像居民在提升幸福度，指代错位。",
+   "final_fix": "把居民分配到广播室，可以提高避难所全体居民的幸福度。"
+  },
+  {
+   "key": "Tutorial_Tip_37_Xbox",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "column names 是「列表的列名」，ZH 仅作「名字」易误为居民姓名；「选择名字整理居民列表」动词粘连。",
+   "final_fix": "您可以通过和选择列表的列名，为居民列表排序。"
+  },
+  {
+   "key": "Tutorial_Tip_68",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "have special attacks 即「拥有特殊攻击」，「产生攻击」搭配不成立；are more powerful 是现状，ZH 误加将来义「会很强大」。",
+   "final_fix": "任务里的某些敌人更强大，还拥有特殊攻击，试着优先解决他们！"
+  },
+  {
+   "key": "Tutorial_Tip_82",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for a few CAPS 是「只花几个瓶盖」，ZH「只要有充足的瓶盖」把代价极小译成瓶盖要够多，数量含义说反。",
+   "final_fix": "失败的任务随时都能重试……只要花几个瓶盖。"
+  },
+  {
+   "key": "VictorDialog_Generic_20",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "so to speak 是「姑且这么说」，接住上文自称 I'm your man 的自嘲；ZH「打个比方说」变成举例说明，自嘲落空。",
+   "final_fix": "要刷厕所？要消灭入侵者？包在我身上！呃，姑且这么说吧。"
+  },
+  {
+   "key": "VictorDialog_Generic_24",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "If you are… 省略的是 are listening；ZH「如果有……」的「有」无法承接上句的「在听」，成了半句话。",
+   "final_fix": "不知道监督者有没有在听。如果你在听……我挺喜欢你的，搭档。"
+  },
+  {
+   "key": "VictorDialog_ScienceLab_01",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "got a good head for 是「擅长」；ZH「对……不太有头脑」搭配不成立（有头脑不与「对」连用），应作「不太灵光」。",
+   "final_fix": "和你说句悄悄话，我对那些科学的东西不太灵光。"
+  },
+  {
+   "key": "VictorDialog_Wasteland_19",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN play 是「玩耍」；ZH「尽情欢玩」的「欢玩」不成词，欢与玩不能这样组合，全库仅此一处。",
+   "final_fix": "喔，给我一个辐射蟑螂乱窜的家，那里鼹鼠和卡扎多尽情嬉戏……"
+  },
+  {
+   "key": "VictorDialog_Wasteland_36",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "fork 同时是「岔路」与「叉子」，中文「岔路口」无此关联，ZH「把叉子拿走」成了没来由的一句，原意「挑一条路」读不出。",
+   "final_fix": "你知道老话怎么说的——碰上岔路口，挑一条往前走就是了！"
+  },
+  {
+   "key": "VictorDialog_WaterPlant_01",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "threatened 译「受到威胁」词义准确，全句信息完整；「自身安全」只是偏书面，IT/RU 同样直译，属语气风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Wasteland_DwellerRevived2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Back in action 是居民苏醒后的第一人称「我又能行动了」；ZH「重新开始探险」无主语，成了系统宣告，语境也不符。",
+   "final_fix": "又能继续探险了！"
+  },
+  {
+   "key": "Wasteland_Full",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "allowed in the Wasteland 是「允许进入废土」；ZH「允许在废土探险居民数量的上限」定语套叠又缺「的」，读起来费劲。",
+   "final_fix": "您已达到废土中居民数量的上限！"
+  },
+  {
+   "key": "Wasteland_ItemCycleNormal_01",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "locker 是「储物柜」；ZH「锁柜」为 lock+柜硬凑，并非中文词，库内 QuestLoc_NVB_QL3 两处 locker 均作「储物柜」。",
+   "final_fix": "我找到一个储物柜，里面有{0}。"
+  }
+ ]
+}

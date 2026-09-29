@@ -1,0 +1,55 @@
+{
+  "chunk": "006",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Help_Page01_MainText",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「总会有三个目标同时给您完成。」把 There are always three Objectives you can work on 的 you can work on 译成了「给您完成」，动作主体整个反过来：中文读作「系统同时替您把这三个目标完成」，玩家会以为目标会自动完成；「同时」也悬在句中没有着落。译文更自然的说法是「始终有三个目标可供您完成」。另外原文的 for free（每天可免费放弃一个目标）在译文里丢失，导致「放弃」与下一句要花量子核子可乐的「跳过」失去对照。",
+      "fix": "始终有三个目标可供您完成。\\n\\n您可以每天免费放弃一个目标，同时会出现一个新目标。\\n\\n每天还能使用量子核子可乐跳过额外的目标。\\n\\n目标越难，奖励越大。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Victory_Creature3",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "「我杀死了巨大苍蝇，炸成了一堆碎块。」后一分句没有主语，中文默认承接前句主语「我」，于是读成「我炸成了一堆碎块」——原本「好恶心」的战后描写变成了滑稽效果（EN 是 and it exploded into a thousand pieces，主语是苍蝇）。补出「它」即可消除歧义。",
+      "fix": "我杀死了巨大苍蝇，它炸成了一堆碎块。好恶心。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Victory_Creature13",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「我赶在看门狗向任何人报信之前」把 before it could alert anyone 里的 anyone 直译成「任何人」，但中文的「任何人」不出现在这种肯定式小句里（一般见于「不让任何人知道」「在任何人发现之前」这类否定或假设结构），读着是英文语序硬搬；说「向别人报信」才自然。",
+      "fix": "我赶在看门狗向别人报信之前，把它杀了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Help_Page02_MainText",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "末段两处翻译腔：「每间房都和居民SPECIAL属性中的一个有关」把 one of the SPECIAL stats 的中心语「一个」吊在长定语末尾，中文应说「对应一项SPECIAL属性」；「居民的相关属性越好，对房间的产出影响也越大」后半句缺主语（原文的 they 指居民），承前读成了「属性对房间产出影响越大」，而且 effects 译成「产出」容易被理解成产量。",
+      "fix": "每个居民都有SPECIAL属性。\\n\\nS（力量）\\nP（观察力）\\nE（耐力）\\nC（魅力）\\nI（智力）\\nA（敏捷）\\nL（运气） \\n\\n避难所的每间房都对应一项SPECIAL属性。居民在该房间对应的属性越高，对房间效果的影响就越大。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Help_Page01_BottomText",
+      "severity": "S3",
+      "type": "错别字",
+      "problem": "「巧手先生盒」漏了「子」：同表物品名作「巧手先生盒子」（QuestReward_MrHandyBox、QuestLoc_RobotRetrieval_QuestObjective_1 等 6 处），玩家照这条提示在界面和奖励列表里找不到叫「巧手先生盒」的东西。同句「完成某些目标能赢得午餐盒」的「赢得」接具体物品偏生硬，同类提示（Message_TutorialPopup_04_Hint）用的都是「会有…的奖励」。",
+      "fix": "提示：完成某些目标可获得午餐盒、宠物笼子或巧手先生盒子！",
+      "confidence": "medium"
+    },
+    {
+      "key": "Help_Page1_MainText_PC",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "同一个 Settings 在同一段文本里出现了两种写法：开头「电脑版设定能够通过点击…进入」，紧接着「默认设置中」「设置菜单」（两处），连热键条目也写「Esc - 设置/取消」。玩家按「设定」这个名字在界面上找不到对应的入口，同一 UI 名称应在全段统一为「设置」。",
+      "fix": "电脑版设置能够通过点击哔哔小子中的齿轮图标进入。\\n\\n默认设置中，辐射避难所有如下几个热键：\\n\\nEsc - 设置/取消\\nF1 - 商店\\nF2 - 库存\\nF3 - 生存指南\\nF4 - 目标\\nF5 - 废土\\nF6 - 帮助\\nB - 建造/升级\\nSpace - 任务列表\\nLeft Shift - 剪贴板\\nLeft Control - 房间操作\\nTab - 居民列表\\n\\n按方向键、WASD键或点击并拖动鼠标来移动镜头。\\n\\n使用鼠标滚轮或Q和E键缩放画面。\\n\\n您可以在设置菜单中调整镜头缩放和滚动速度。\\n\\n当辐射避难所最小化到任务栏或长时间无人操作时，它会继续运行几分钟，然后进入休眠模式。\\n\\n辐射避难所会自动定期保存游戏，但如果想更加保险，可以点击设置菜单中的保存按钮。",
+      "confidence": "medium"
+    }
+  ]
+}

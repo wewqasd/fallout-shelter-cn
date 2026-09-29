@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_GoingToTown_2_Question1_Choice3	Did you say, “slavers”?	你刚才是说，“奴隶贩子”？
+QuestLoc_GoingToTown_2_Question2	Surrender! You stepped into our trap.	投降吧！你们踏进了我们的陷阱。
+QuestLoc_GoingToTown_2_Question2_2	After taking that "miracle cure", you followed the smarmy salesman here...	服下那瓶“神药”之后，你们一路跟着那个油嘴滑舌的推销员来到了这里……
+QuestLoc_GoingToTown_2_Question2_3	But now you're weak from the serum, so we can sell you into slavery! Mwahahaha!	可如今血清让你们浑身乏力，我们正好能把你们卖去当奴隶！哇哈哈！
+QuestLoc_GoingToTown_2_Question2_4	My guilty conscience will quiet down once I get paid... right?	只要拿到钱，我那点良心就会安静下来……对吧？
+QuestLoc_GoingToTown_2_Question2_Answer1	You don't want to be a slave? But you already are! How awful!	你不想当奴隶？但你已经是了！太糟糕了！
+QuestLoc_GoingToTown_2_Question2_Answer2	Stop changing the subject! Are you even listening?!	别转移话题！你有在听我说话吗？！
+QuestLoc_GoingToTown_2_Question2_Answer3	Don't be insensitive!	别这么无情！
+QuestLoc_GoingToTown_2_Question2_Choice1	Nope, nope, nope. Nope!	不行，不行，不行。不行！
+QuestLoc_GoingToTown_2_Question2_Choice2	Did you make the “miracle serum”? I have a complaint.	那瓶“奇迹血清”是你们做的？我有投诉要提。
+QuestLoc_GoingToTown_2_Question2_Choice3	Who cares? You'll be dead soon anyway.	谁在乎呢？反正你们马上要死了。
+QuestLoc_GoingToTown_2_Question3	Oh, hello! You… got past the slavers. I mean, the guards. That's great! Good for you!	哦，你好！你……通过了那些奴隶商。我是说，警卫。太好了！为你骄傲！
+QuestLoc_GoingToTown_2_Question3_2	Look, they made me do it! Just let me go and I'll be good!	听着，是他们逼我的！放过我，我以后会老实的！
+QuestLoc_GoingToTown_2_Question3_Answer1	I don't know where they are, we made the serum in a slapshod lab in Westside. Bye!	我不知道他们在哪里，我们是在西区一个拼凑的实验室里做血清的。再见！
+QuestLoc_GoingToTown_2_Question3_Choice1	You can go if you tell me where they are.	你说出他们在哪里，我就放你走。
+QuestLoc_GoingToTown_2_Question4	Um, you're like, official looking. Are you the manager?	嗯……你看起来挺有管事的架势。你是这里的经理吗？
+QuestLoc_GoingToTown_2_Question4_2	This place is in such bad taste. The clothes are disgusting.	这地方品味真差。那些衣服恶心死了。
+QuestLoc_GoingToTown_2_Question4_3	And one of your employees tried to sell me into slavery! Well, I told him off. Jerk.	而且你们有个员工还想把我卖去当奴隶！不过我已经骂了他一顿。混账。
+QuestLoc_GoingToTown_2_Question4_Answer1	I'll... well, I... I'm not coming back!	我……好吧，我……我不会再来了！
+QuestLoc_GoingToTown_2_Question4_Answer2	Thank you. Here, take this. It's the best thing I found in this dump.	谢谢你。给，拿着这个。这是我在这个破地方找到的最好东西。
+QuestLoc_GoingToTown_2_Question4_Answer3	Ugh, fine. Then I'm out of here! After I look in one more room. I love shopping.	呃，好吧。那我走啦！不过临走前我再逛一间房。我爱逛街。
+QuestLoc_GoingToTown_2_Question4_Choice1	So what if I am the manager?	就算我是经理又怎样？
+QuestLoc_GoingToTown_2_Question4_Choice2	No, but I'll tell them what you said.	不是。但我会把你刚才说的话告诉他们的。
+QuestLoc_GoingToTown_2_Question4_Choice3	I'm just an employee. Are you going to pay for that?	我只是个员工。你打算为那东西付钱吗？
+QuestLoc_GoingToTown_3_CombatInit1	Protect the serum!	保护血清！
+QuestLoc_GoingToTown_3_CombatInit2	This was supposed to be a quiet shift!	本来是个安静的班次的！
+QuestLoc_GoingToTown_3_QuestLongDesc	The Snake Oil Salesman sent us to a rickety building in the so-called Westside of New Vegas. They won't be making any more “Miracle Serum” when we're done with them.	那个卖蛇油的把我们派到新维加斯所谓“西区”的一栋摇摇欲坠的楼里。等我们收拾完他们，他们就再也造不出“奇迹血清”了。
+QuestLoc_GoingToTown_3_QuestName	Crime Lab	犯罪实验室
+QuestLoc_GoingToTown_3_QuestObjective1	Destroy the lab	摧毁那个实验室。
+QuestLoc_GoingToTown_3_QuestObjective2	Find out where the slavers are	查明奴隶贩子的位置。
+QuestLoc_GoingToTown_3_QuestShortDesc	Stop the production of “Miracle Serum” in Westside.	阻止西区“奇迹血清”的生产。
+QuestLoc_GoingToTown_3_Question1	Hey, who are you?	嘿，你是谁？
+QuestLoc_GoingToTown_3_Question1_Answer1	Oh. Huh. Okay… Go ahead then.	哦。好吧……进去吧。
+QuestLoc_GoingToTown_3_Question1_Answer2	No way! I'll lose my job!	不行！我会丢工作的！
+QuestLoc_GoingToTown_3_Question1_Answer3	No way! That place is off limits!	不行！那里是禁区！
+QuestLoc_GoingToTown_3_Question1_Choice1	We're here from headquarters to inspect the lab.	我们是从总部来检查实验室的。
+QuestLoc_GoingToTown_3_Question1_Choice2	We're here to destroy the serum lab.	我们是来销毁血清实验室的。
+QuestLoc_GoingToTown_3_Question1_Choice3	Just passing through. Hoping to take a walk… upstairs…	就是路过。想去楼上……散散步……
+QuestLoc_GoingToTown_3_Question2	Huh? What's going on here? You're not the usual guards!	嗯？这里发生什么了？你们不是平时的警卫！
+QuestLoc_GoingToTown_3_Question2_Answer1	I don't know where they are! Seriously, I'm just an apprentice! Please don't shoot!	我不知道他们在哪里！我真的只是个学徒！请不要开枪！
+QuestLoc_GoingToTown_3_Question2_Choice1	Tell us where the slavers are and you can live.	告诉我们奴隶商在哪里，你就可以活着。
+QuestLoc_GoingToTown_3_Question3	You're here to destroy our operation. I can see that… I won't stop you. In fact, I'll tell you where they are.	你们是来破坏我们生意的。我看得出来……我不会阻止你们。事实上，我告诉你们他们在哪里。
+QuestLoc_GoingToTown_3_Question3_2	They're at an abandoned vault in a valley West of here. But you'll have to kill me to get to them!	他们在西面一条山谷里的废弃避难所里。但你们要杀我，才能到达那里！
+QuestLoc_GoingToTown_3_Question3_Answer2	You can't kill my boss. And then he'll kill me. So I'd rather just die now!	你杀不了我老板的。然后他会杀了我。所以不如让我现在就死！
+QuestLoc_GoingToTown_3_Question3_Choice1	As you wish!	如你所愿！
+QuestLoc_GoingToTown_3_Question3_Choice2	We just want to kill your boss.	我们只是想杀你老板。
+QuestLoc_GoingToTown_3_Question4	Looks like this is where they've been making the serum.	这就是他们生产血清的地方。
+QuestLoc_GoingToTown_3_Question4_Answer1	No more poison!	不再有毒药了！
+QuestLoc_GoingToTown_3_Question4_Answer2	A little poison for the road?	路上要一点毒药？
+QuestLoc_GoingToTown_3_Question4_Choice1	<Destroy it>	<销毁>
+QuestLoc_GoingToTown_3_Question4_Choice2	<Take some serum, then destroy it>	<取一点血清，然后销毁>
+QuestLoc_GoingToTown_3_Question5	Hey, am I true to my word, or what? Didn't I say I'd help you out?	嘿，我说话算不算数？我说过会帮你们的忙吧？
+QuestLoc_GoingToTown_3_Question5_2	This is the lab where those slavers are making that fake Serum I sold you.	这就是那些奴隶贩子制造我卖给你的假血清的实验室。
+QuestLoc_GoingToTown_3_Question5_3	I'm in real danger for helping you, though. Could you put me up in your vault? Pretty please?	帮了你们之后我现在处境极度危险。能不能让我在你们的避难所里借住借住？求求你们啦！
+QuestLoc_GoingToTown_3_Question5_Answer1	Oh! Vault folk really are the kindest around.	哦！避难所居民真是世上最善良的人。
+QuestLoc_GoingToTown_3_Question5_Answer2	Oh, of course! I'll even bring them an antidote!	哦，当然！我还会给他们带解药！
+QuestLoc_GoingToTown_3_Question5_Answer3	No, but isn't choice just an illusion anyway?	不行，但所谓选择不就只是一种幻觉吗？
+QuestLoc_GoingToTown_3_Question5_Choice1	Yeah, yeah, you can stay with us.	好吧好吧，你可以跟我们住。
+QuestLoc_GoingToTown_3_Question5_Choice2	You better apologize when you get there.	你最好一到那就向他们道歉。
+QuestLoc_GoingToTown_3_Question5_Choice3	Do I have a choice?	我有得选吗？
+QuestLoc_GoingToTown_4_QuestLongDesc	We've discovered the base of the raiders who have been enslaving hapless folks in Freeside, in a vault near New Vegas. But where are the slaves going?	我们在新维加斯附近的一座避难所里，发现了在自由城奴役倒霉路人的掠夺者据点。但这批奴隶究竟被运往何方了？
+QuestLoc_GoingToTown_4_QuestName	Casting the Die	孤注一掷
+QuestLoc_GoingToTown_4_QuestObjective1	Confront the slavers' leader	与奴隶贩子头目对峙
+QuestLoc_GoingToTown_4_QuestObjective2	Rescue slaves (1/2)	拯救奴隶（1/2）
+QuestLoc_GoingToTown_4_QuestObjective3	Rescue slaves (2/2)	拯救奴隶（2/2）
+QuestLoc_GoingToTown_4_QuestShortDesc	Confront the slavers at their base near New Vegas.	前往新维加斯附近奴隶贩子的基地，与他们对峙。
+QuestLoc_GoingToTown_4_Question1	Hm, never seen you before. What's the password?	嗯，从没见过你。口令是什么？
+QuestLoc_GoingToTown_4_Question1_Answer1	That's it! Go on in.	对了！进去吧。
+QuestLoc_GoingToTown_4_Question1_Answer2	Nope! That's not it! Intruders!	不对！不是这个！有入侵者！
+QuestLoc_GoingToTown_4_Question1_Choice1	Die, slaver scum!	去死吧，奴隶贩子人渣！
+QuestLoc_GoingToTown_4_Question1_Choice2	Um, rainbows and lollipops?	呃，彩虹和棒棒糖？
+QuestLoc_GoingToTown_4_Question2	All that shooting, was that you? Are you here to save me?	外面那阵枪声，是你们开的？你们是来救我的吗？
+QuestLoc_GoingToTown_4_Question2_Answer1	Oh, heck yeah!	太棒啦，那敢情好！
+QuestLoc_GoingToTown_4_Question2_Choice1	Yeah! Come live in our vault!	对！来我们避难所住吧！
+QuestLoc_GoingToTown_4_Question3	Huh? What's going on?	啊？怎么了？
+QuestLoc_GoingToTown_4_Question3_Answer1	I guess so. I'm good anywhere, really.	我想是吧。我去哪儿都行，真的。
+QuestLoc_GoingToTown_4_Question3_Choice1	You're free. Why not come live in our vault?	你自由了。不如来我们避难所住？
+QuestLoc_GoingToTown_4_Question4	What are you doing here?! Don't you know who we are? We're working with the dang Legion!	你们在这儿干什么？！你们不知道我们是谁吗？我们可是在为该死的军团干活！
+QuestLoc_GoingToTown_4_Question4_Answer1	Leave them alive! They'll be good slaves when they recover.	留他们一命！等他们恢复了，会是不错的奴隶。
+QuestLoc_GoingToTown_4_Question4_Answer2	What?! Do you live in a vault or something?!	什么？！你们难道是住在避难所之类的吗？！
+QuestLoc_GoingToTown_4_Question4_Answer3	They sure as hell scare me!	他们可把我吓得不轻！
+QuestLoc_GoingToTown_4_Question4_Choice1	You're slavers. That's enough for me!	你们是奴隶贩子。这就够我动手了！
+QuestLoc_GoingToTown_4_Question4_Choice2	Legion? Never heard of them.	军团？从没听说过。
+QuestLoc_GoingToTown_4_Question4_Choice3	The Legion doesn't scare us.	军团吓不到我们。
+QuestLoc_GoingToTown_4_Question5	You smell like vault dwellers. But some of those losers you killed were pretty strong.	你身上一股避难所居民的味儿。不过你干掉的那几个窝囊废倒是挺强的。
+QuestLoc_GoingToTown_4_Question5_02	Don't think you're safe just because you won this round.	别以为赢了这一局你们就安全了。
+QuestLoc_GoingToTown_4_Question5_03	Caesar's wrath will destroy you and everything you love!	凯撒的怒火会摧毁你们和你们所爱的一切！
+QuestLoc_GoingToTown_4_Question5_Answer1	Indeed… but not now. Later.	确实……但不是现在。以后再说。
+QuestLoc_GoingToTown_4_Question5_Answer2	Not a chance. I'm too important to die!	门都没有。我太重要了，不能死！
+QuestLoc_GoingToTown_4_Question5_Answer3	You must be joking. Inferior beings are meant to serve the strong. You'll see… some day…	你准是在开玩笑。劣等生物生来就该侍奉强者。你们会明白的……总有一天……
+QuestLoc_GoingToTown_4_Question5_Choice1	We'll see about that.	那咱们走着瞧。
+QuestLoc_GoingToTown_4_Question5_Choice2	Our wrath will destroy you now!	我们的怒火现在就摧毁你们！
+QuestLoc_GoingToTown_4_Question5_Choice3	Can you just stop with the slave stuff?	你能别老惦记那些奴隶的事了吗？
+QuestLoc_GoingToTown_QuestLineName	Going to Town	进城去
+QuestLoc_GroomforDoubt_Conversation_1_NPCEnd_1	Not quite the response I was looking for.	这可不太是我想要的回应。
+QuestLoc_GroomforDoubt_Conversation_1_NPCEnd_2	Nice. But we're still going to kill you.	好的。但我们还是要杀了你。
+QuestLoc_GroomforDoubt_Conversation_1_NPCEnd_3	Okay, right after we're done with you.	好吧，在我们结束你之后。
+QuestLoc_GroomforDoubt_Conversation_1_NPCStart_1	Hey there, good lookin'...	嘿，美女……
+QuestLoc_GroomforDoubt_Conversation_1_Team_1	Hey?	嘿？
+QuestLoc_GroomforDoubt_Conversation_1_Team_2	Hey yourself, beautiful.	嘿，美人儿。
+QuestLoc_GroomforDoubt_Conversation_1_Team_3	Repent your sinful ways!	忏悔你们的罪恶！
+QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_1	Groom? Oh, you mean slave-boy? Yeah, he's ours now.	新郎？哦，你是说奴隶男孩？是的，他现在是我们的了。
+QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_2	Aww, that's so cute I almost feel like letting you live. Almost.	啊，这么可爱，我几乎想让你活着了。几乎。
+QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_3	Come on ladies, let's show these losers what we're made of!	来吧，女士们，让我们向这些失败者展示下我们是什么做的！
+QuestLoc_GroomforDoubt_Conversation_2_NPCStart_1	Welcome Dwellers.	欢迎居民。
+QuestLoc_GroomforDoubt_Conversation_2_NPCStart_2	If you're looking for adventure, you've come to the right place.	如果你正在寻找冒险，你来到了正确的地方。
+QuestLoc_GroomforDoubt_Conversation_2_NPCStart_3	We have a special clearance sale on Christmas-related stuff.	我们在圣诞相关商品上清仓大甩卖。
+QuestLoc_GroomforDoubt_Conversation_2_Team_1	We came for the groom you kidnapped.	我们是为被你们绑架的新郎而来的。
+QuestLoc_GroomforDoubt_Conversation_2_Team_2	True love conquers all.	真爱征服一切。
+QuestLoc_GroomforDoubt_Conversation_2_Team_3	Die!	去死吧！
+QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_1	It has? All right, time to face the music, I guess.	已经结束了？好吧，我想该面对现实了。
+QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_2	I thought that was the whole point...	我想那就是全部的关键……
+QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_3	Oh, right. I almost forgot about that.	哦，对。我差点忘了。
+QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_4	You guys think I should grow a mustache?	你们认为我应该留胡子吗？
+QuestLoc_GroomforDoubt_Conversation_3_NPCStart_1	Hey guys, there you are!	嘿，伙计们，你们在那里！
+QuestLoc_GroomforDoubt_Conversation_3_NPCStart_2	I was wondering where you'd gone to.	我想知道你去了哪里。
+QuestLoc_GroomforDoubt_Conversation_3_NPCStart_3	Isn't this bachelor party the best?	这个单身派对难道不是最好的吗？
+QuestLoc_GroomforDoubt_Conversation_3_Team_1	The party's been over for days...	聚会已经结束了好几天了……
+QuestLoc_GroomforDoubt_Conversation_3_Team_2	You were kidnapped!	你被绑架了！
+QuestLoc_GroomforDoubt_Conversation_3_Team_3	It sure is... But we gotta go get you married now.	它肯定是……不过我们现在得送你去结婚了。
+QuestLoc_GroomforDoubt_Conversation_3_Team_4	Come on, let's get you home.	来吧，我们带你回家。
+QuestLoc_GroomforDoubt_QuestLongDescription	That was quite the bachelor party last night! Too bad the groom's missing today. Last we saw, he was being carried away by the hired entertainment. We have to bring him back, and quick. Let's avoid a repeat of New Year's Eve...	昨晚的单身派对真不错！可惜今天新郎失踪了。最后一次看到他，已经被雇来娱乐的人拖走了。我们必须尽快把他带回来。让我们避免重蹈新年夜的覆辙……
+QuestLoc_GroomforDoubt_QuestName	Groom for Doubt	新郎的疑惑
+QuestLoc_GroomforDoubt_QuestObjective_1	Rescue the groom.	拯救新郎。
+QuestLoc_GroomforDoubt_QuestObjective_2	Kill the Raider Boss.	消灭掠夺者首领。
+QuestLoc_GroomforDoubt_QuestShortDescription	Rescue a missing groom from Raiders.	从掠夺者手中拯救失踪的新郎。
+QuestLoc_GroomforDoubt_RaiderLine_1	Take groom, meet doom.	带走新郎，迎接厄运。
+QuestLoc_GroomforDoubt_RaiderLine_2	A rose by any other name would smell as sweet...if roses still existed.	玫瑰换个名字照样芬芳……如果这世上还有玫瑰的话。
+QuestLoc_GuardianoftheWastes:Deathclaws_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:Deathclaws_QuestName	Guardian of the Wastes: Deathclaws!	废土守卫者：死爪！
+QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1	Kill the Alpha Deathclaw.	杀死领头死爪。
+QuestLoc_GuardianoftheWastes:Deathclaws_QuestShortDescription	Exterminate the Deathclaws.	剿灭死爪。
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestName	Guardian of the Wastes: Feral Ghouls!	废土守卫者：狂尸鬼！
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	杀死发光种。
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestShortDescription	Show the Feral Ghouls no mercy.	对狂尸鬼绝不心慈手软。
+QuestLoc_GuardianoftheWastes:MoleRats_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:MoleRats_QuestName	Guardian of the Wastes: Mole Rats!	废土守卫者：鼹鼠！
+QuestLoc_GuardianoftheWastes:MoleRats_QuestObjective_1	Kill the Mole rat brood mother.	杀死鼹鼠妈妈。
+QuestLoc_GuardianoftheWastes:MoleRats_QuestShortDescription	Get rid of those pesky Mole rats.	除掉这些可恶的鼹鼠。
+QuestLoc_GuardianoftheWastes:Radroaches_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:Radroaches_QuestName	Guardian of the Wastes: Radroaches!	废土守卫者：辐射蟑螂！
+QuestLoc_GuardianoftheWastes:Radroaches_QuestObjective_1	Kill the Glowing Radroach.	杀死发光辐射蟑螂。
+QuestLoc_GuardianoftheWastes:Radroaches_QuestShortDescription	Clear out the nest of Radroaches.	清理辐射蟑螂窝。
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestName	Guardian of the Wastes: Radscorpions!	废土守卫者：辐射蝎！
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1	Kill the Glowing Radscorpion.	杀死发光辐射蝎。
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestShortDescription	Eradicate the Radscorpions.	根除辐射蝎。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCEnd_1	Our brahmin drank it all. Who can say no to golden dung? Try the abandoned Vault-Tec offices.	我们的双头牛一饮而尽。谁能对金色的粪便说不？去废弃的避难所科技办公室试试看吧。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1	Is the Wizard's Wonder Water really so wondrous? We didn't get enough to test it scientifically.	水之术士的“神奇水”真有那么神奇吗？我们没弄到足够的量来做科学测试。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_2	I drank it, it tasted delicious and pure but nothing happened to me.	我喝了，它尝起来美味而纯净，但没有什么发生在我身上。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_3	Our brahmin got into it, and two days later he pooped out a gold bar!	我们的双头牛喝了，两天之后他拉出了金条！
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_4	Our schoolmarm Mrs. Fieldstone had some, and saw a giant Nuka-Cola bottle chasing after her.	我们的女教师菲尔德斯通喝了一些，然后看到一只巨大的核子可乐瓶追着她跑。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_Team_1	You wouldn't happen to have any left, would you?  We'd pay handsomely...	你不会刚好还有剩的吧？我们会付给你丰厚的报酬……
+QuestLoc_HalfFullHalfEmpty_QuestLongDescription	Apparently there's more to this story than meets the taste buds. This refreshing miracle beverage isn't so miraculous or refreshing after all, and the folks at the RobCo plant just may know the truth...	显然这个故事并不只是满足味蕾。这令人耳目一新的神奇饮料也许并不是那么神奇或清新。而罗伯科工厂里的人或许知道真相……
+QuestLoc_HalfFullHalfEmpty_QuestName	Half Full, Half Empty	半满，半空
+QuestLoc_HalfFullHalfEmpty_QuestObjective_1	Meet the people at the old RobCo plant.	和罗伯科老工厂里的人们见个面。
+QuestLoc_HalfFullHalfEmpty_QuestShortDescription	Find more info about the magical water at the old RobCo plant.	在旧罗伯科工厂找到更多关于神奇水的信息。
+QuestLoc_HaveGunWillTravel_Conversation_1_NPCEnd_1	I think they headed to the Wilson Atomatoys Factory. Good luck!	我觉得他们好像去威尔逊原子玩具厂了。祝好运！
+QuestLoc_HaveGunWillTravel_Conversation_1_NPCStart_1	You looking for those Brotherhood soldiers?	你们在找那些兄弟会的士兵吗？
+QuestLoc_HaveGunWillTravel_Conversation_1_Team_1	Yeah! Do you know where they went?	是的！你知道他们去哪里了吗？
+QuestLoc_HaveGunWillTravel_QuestLongDescription	You found the holotape records of Maxson's Roughnecks, a Brotherhood of Steel team searching the Wasteland for technology. Track them down to discover their fate - starting at Vault 450!	你发现了“麦克森硬汉小队”的全息磁带记录，这是钢铁兄弟会派去废土搜寻科技的小队。去追踪他们、查明他们的结局吧——就从450号避难所开始！
+QuestLoc_HaveGunWillTravel_QuestName	Have Gun, Will Travel	拿起枪，我们走！
+QuestLoc_HaveGunWillTravel_QuestObjective_1	Explore Vault 450.	探索450号避难所。
+QuestLoc_HaveGunWillTravel_QuestShortDescription	Discover the fate of Maxson's Roughnecks.	揭开“麦克森硬汉小队”的命运。
+QuestLoc_Headhunting_CombatInit1	For Mr. Manager!	为了经理大人！
+QuestLoc_Headhunting_CombatInit2	For storytime!	为了睡前故事！
+QuestLoc_Headhunting_QuestLongDesc	Apparently there's someone with some administrative skill who was kidnapped by raiders. Let's get him out of there, and maybe in return he'll help us run our motel!	显然有个有管理才能的人被掠夺者绑架了。让我们把他从那里救出来，也许作为回报他会帮我们经营旅馆！
+QuestLoc_Headhunting_QuestName	Headhunting	猎头行动
+QuestLoc_Headhunting_QuestObjective1	Rescue Mr. Manager	拯救经理先生。
+QuestLoc_Headhunting_QuestShortDesc	Rescue a manager from a group of raiders.	从一群掠夺者手中拯救一名经理。
+QuestLoc_Headhunting_Question1	Aren't you a little far from home, Vaultie?	避难所来的小家伙，离家挺远吧？
+QuestLoc_Headhunting_Question1_Answer1	You must mean Mr. Manager. He's staying with us! He tells us stories! And now you die!	你说的一定是经理大人。他现在和我们在一起！他给我们讲故事！而你们，去死吧！
+QuestLoc_Headhunting_Question1_Answer2	We'll die before we give up Mr. Manager! He tells us stories! 	我们宁死也不放经理大人！他给我们讲故事！
+QuestLoc_Headhunting_Question1_Answer3	Manage? So you're here for Mr. Manager. You will never take him away! He tells us stories!	管理？所以你是来找经理大人的。你休想带走他！他给我们讲故事！
+QuestLoc_Headhunting_Question1_Choice1	We're looking for a manager.	我们在找一名经理。
+QuestLoc_Headhunting_Question1_Choice2	You have a hostage, we have a ransom.	你们手里有人质，我们有赎金。
+QuestLoc_Headhunting_Question1_Choice3	Would you like to manage a hotel?	想不想去经营一家旅馆？
+QuestLoc_Headhunting_Question2	Hey, you're not from the group. What are you doing here?	嘿，你不是这伙人的。你来干什么？
+QuestLoc_Headhunting_Question2_Answer1	Aren't you a little short for a vault dweller? Whatever, I'm done with bedtime stories.	和一个避难所居民比起来你也太矮了吧？算了，我受够睡前故事了。

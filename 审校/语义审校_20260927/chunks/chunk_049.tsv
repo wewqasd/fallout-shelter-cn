@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_ReleasetheRaiders_Conversation_1_Team_1	You're undercover for the Weekly Exposition, aren't you?	你是每周博览会的卧底，对吧？
+QuestLoc_ReleasetheRaiders_Conversation_1_Team_2	That's wonderful!	那太棒了！
+QuestLoc_ReleasetheRaiders_Conversation_1_Team_3	Eagle. The code word is  “eagle.”	鹰。暗号是“鹰”。
+QuestLoc_ReleasetheRaiders_Conversation_1_Team_4	The Pests are after War's Power Armor?	“害虫”是为了“战争”的动力装甲而来的？
+QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_1	Listen up! It's Three Dog on the air.	听好了！这里是三狗正在直播。
+QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_2	He's warning everyone about Vault 144...	他警告大家关于144号避难所的事……
+QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_3	Settlers will be wary of any Dwellers now, including us!	定居者们现在对任何避难所的人都很警惕，包括我们！
+QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_4	But it should slow them down while we look for Death's cave.	但当我们寻找“死亡”的洞穴时，应该可以拖住他们。
+QuestLoc_ReleasetheRaiders_Conversation_3_NPCEnd_1	DEATH? I AM BECOME DEATH! AND THE WASTELAND WILL BURN!	“死亡”？我会变成“死亡”！废土将燃烧！
+QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_1	THOSE PESTS STOLE MY POWER ARMOR!	那些“害虫”偷走了我的动力装甲！
+QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_2	I'm sorry, I'm just lost without it. I... I... must... become War. The one they believe in.	对不起，没有了它我完全失去了方向。我……我……必须……成为“战争”。他们所信仰的人。
+QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_3	I... am... War. I am War. I am War. I AM WAR. I AM WAR!	我……是……战争。我是战争。我是战争。我是战争。我是战争！
+QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_4	PESTILENCE IS DEAD! EVEN IF I HAVE TO TEAR THE WASTELAND APART!	“瘟疫”必死！即使撕烂废土也在所不惜！
+QuestLoc_ReleasetheRaiders_Conversation_3_Team_1	But what about our truce? What about Death?	但是我们的休战呢？死亡呢？
+QuestLoc_ReleasetheRaiders_Conversation_4_NPCEnd_1	Yes! TO BE CONCLUDED!	对！要结束！
+QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_1	Can the Wasteland be saved from War's fury?	废土能免于“战争”的愤怒吗？
+QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_2	Will the Horsemen be stopped once and for all?	骑士们会被一劳永逸地阻止吗？
+QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_3	And how many have already figured out who Death is?	有多少人已经知道“死亡”是谁？
+QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_4	All will be revealed when the story continues in Part 3!	故事在第3部分时，一切都将被揭示！
+QuestLoc_ReleasetheRaiders_Conversation_4_Team_1	Another cliffhanger? Seriously?	另一个悬念吗？你们是认真的？
+QuestLoc_ReleasetheRaiders_QuestLongDescription	Death wasn't in Vault 144. He's in a cave somewhere, and Vault 144 Dwellers are still out there trying to wake him up. It's time to meet back up with War to give him a status report! And while we're at it, we can keep the Warshippers out of trouble by asking them to find the cave...	死亡不在144号避难所。他在某处的一个山洞里，144号避难所居民仍在试图叫醒他。是时候回头和“战争”碰头，交上状态报告了！既然顺路，我们也让“战争崇拜者”们去找那个洞穴，免得他们惹麻烦……
+QuestLoc_ReleasetheRaiders_QuestName	Release the Raiders!	释放掠夺者！
+QuestLoc_ReleasetheRaiders_QuestObjective_1	Search the building for Warshippers and Pests.	搜索“战争崇拜者”和“害虫”的建筑。
+QuestLoc_ReleasetheRaiders_QuestObjective_2	Listen to Three Dog's broadcast.	听三狗的广播。
+QuestLoc_ReleasetheRaiders_QuestObjective_3	Talk to War.	和“战争”交谈。
+QuestLoc_ReleasetheRaiders_QuestShortDescription	Get the Warshippers to look for Death's cave.	让“战争崇拜者”寻找“死亡”的洞穴。
+QuestLoc_ReleasetheRaiders_RaiderLine_1	Blessed be the irradiated!	愿辐射保佑我们！
+QuestLoc_ReleasetheRaiders_RaiderLine_2	We are Pestilence's claws, figuratively!	我们是“瘟疫”的爪牙，这是个比喻！
+QuestLoc_ReleasetheRaiders_RaiderLine_3	Make war, not love!	制造战争，而不是爱！
+QuestLoc_ReleasetheRaiders_RaiderLine_4	War be upon you!	战争就在你身上！
+QuestLoc_RescueOperation_Conversation_1_NPCStart_1	Thank goodness! You got my distress call!	谢天谢地！你收到了我的求救信号！
+QuestLoc_RescueOperation_QuestLongDescription	You've received a distress call from a settlement! They're willing to leave and join your Vault if you save them.	你收到了来自定居点的求救信号！只要你去救他们，他们就愿意离开家园、加入你的避难所。
+QuestLoc_RescueOperation_QuestName	Rescue Operation	拯救行动
+QuestLoc_RescueOperation_QuestObjective_1	Rescue a settler.	拯救一名定居者。
+QuestLoc_RescueOperation_QuestObjective_2	Rescue another settler.	拯救另一名定居者。
+QuestLoc_RescueOperation_QuestObjective_3	Rescue another settler.	拯救另一名定居者。
+QuestLoc_RescueOperation_QuestShortDescription	Rescue any settlers that you can.	拯救任何你能救的定居者。
+QuestLoc_RescueSanta_Conversation_1_NPCEnd_1	Well, all right, but don't shoot your eye out! Ho ho ho!	好吧，但别射中你自己的眼睛！嚯嚯嚯！
+QuestLoc_RescueSanta_Conversation_1_NPCEnd_2	Always happy to share my fashion sense! Ho ho ho!	总是很乐意分享我的时尚品味！嚯嚯嚯！
+QuestLoc_RescueSanta_Conversation_1_NPCEnd_3	Well, I have this Giddyup Buttercup. Merry Christmas!	嗯，我这儿正好有一匹奶油小马。圣诞快乐！
+QuestLoc_RescueSanta_Conversation_1_NPCEnd_4	Ho ho ho! Looks like my Nice list just got a few entries longer!	嚯嚯嚯！看上去我的“好孩子”名单又多了几个名字了！
+QuestLoc_RescueSanta_Conversation_1_NPCStart_1	Ho ho ho! Thank you, Vault Dwellers.	嚯嚯嚯！谢谢你们，避难所的居民。
+QuestLoc_RescueSanta_Conversation_1_NPCStart_2	You've saved me and Christmas!	你们不仅救了我，还救了圣诞节！
+QuestLoc_RescueSanta_Conversation_1_NPCStart_3	I couldn't ask for better helpers this year.	我再不可能找到比你们更好的帮手了。
+QuestLoc_RescueSanta_Conversation_1_NPCStart_4	Now, what can Santa give you this Holiday? Ho ho ho!	现在。今年圣诞节你们想要圣诞老人给你们什么礼物？嚯嚯嚯！
+QuestLoc_RescueSanta_Conversation_1_Team_1	We've been very good this year, Santa. How about some firepower?	圣诞老人，我们今年真的很乖哦。给我们一些武器怎么样？
+QuestLoc_RescueSanta_Conversation_1_Team_2	Santa, we dig your style. How about some new threads?	圣诞老人，我们很喜欢你的造型，给我们一些装备怎么样？
+QuestLoc_RescueSanta_Conversation_1_Team_3	We want a pony.	我们想要一个小马。
+QuestLoc_RescueSanta_Conversation_1_Team_4	We don't need anything, Santa. We just like doing good!	圣诞老人，我们什么都不需要，我们只是喜欢成为好孩子！
+QuestLoc_RescueSanta_QuestLongDescription	While we were spreading Christmas cheer, someone managed to track down Santa Claus. He's in trouble. Let's go!	当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。他遇到了麻烦。我们走！
+QuestLoc_RescueSanta_QuestName	Rescue Santa!	拯救圣诞老人！
+QuestLoc_RescueSanta_QuestObjective_1	Rescue Santa!	拯救圣诞老人！
+QuestLoc_RescueSanta_QuestShortDescription	Find and save Santa Claus.	找到并拯救圣诞老人。
+QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1	Oh my goodness! It was a slaughter! A charnel nightmare!	哦我的天！那简直是一场屠杀！尸横遍野的噩梦！
+QuestLoc_ReturntoVault333_Conversation_1_NPCStart_2	While you were fighting Frank the Tank, his sister came here and attacked!	当你们在和“坦克弗兰克”打架时，他的妹妹来了这里攻击我们！
+QuestLoc_ReturntoVault333_Conversation_1_NPCStart_3	Overseer Patel is dead! And we're next unless you stop her! Please...	监督者帕特尔死了！如果你不阻止她的话，我们就是下一个！求求你……
+QuestLoc_ReturntoVault333_Conversation_1_NPCStart_4	Kill Regina Rage!	杀死瑞吉娜·雷格！
+QuestLoc_ReturntoVault333_QuestLongDescription	Frank the Tank is dead. Now maybe the Settlers of Vault 333 will point us toward Paula Plumbkin.	“坦克弗兰克”已经死了。现在333号的定居者应该能带我们去宝拉·普朗布金那里。
+QuestLoc_ReturntoVault333_QuestName	Return to Vault 333	返回333号避难所
+QuestLoc_ReturntoVault333_QuestObjective_1	Get answers in Vault 333.	在333号避难所里找到答案。
+QuestLoc_ReturntoVault333_QuestShortDescription	Return to Vault 333 and get some answers.	返回333号避难所，找到答案。
+QuestLoc_ReturntoVault333_RaiderLine_1	Is it true you killed my brother? Well you ain't takin' me down!	是真的吗？你们杀了我哥哥？我不会再被你们打败的！
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCEnd_1	Right! Good start.	正确！开场不错啊。
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCEnd_2	Wrong! That's going to hurt your grade.	错！这可会影响你的成绩。
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCEnd_3	If you want to pass this course, you do.	如果你想通过这门课，就需要它。
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCStart_1	Where is the rest of the class?	班级里的其他人去哪里了？
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCStart_2	I guess they heard about the pop quiz.	我猜他们听说了这场突击测验。
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCStart_3	Remember, your grade depends on this.	记住，这个决定了你的成绩。
+QuestLoc_RevengeoftheGeeks_Conversation_1_NPCStart_4	First question: What is 17-9?	第一题：17-9等于多少？
+QuestLoc_RevengeoftheGeeks_Conversation_1_Team_1	8	8
+QuestLoc_RevengeoftheGeeks_Conversation_1_Team_2	9	9
+QuestLoc_RevengeoftheGeeks_Conversation_1_Team_3	Who needs math anyway?	数学好能有什么用啊？
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCEnd_1	Wrong! Do you even know what a prime number is?	错！你知道质数是什么意思么？
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCEnd_2	Hmmph. I guess you got that one right.	嗯……我想你这次答对了。
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCEnd_3	That's it. Detention for a week!	够了。罚你放学留堂一周！
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCStart_1	Still here? I guess this quiz is too easy for you.	还在这？我猜这种小测验对你来说太简单了吧。
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCStart_2	Let's try something harder.	让我们试试难一点的。
+QuestLoc_RevengeoftheGeeks_Conversation_2_NPCStart_3	Which of these is not a prime number?	下面这些数里面哪一个不是质数？
+QuestLoc_RevengeoftheGeeks_Conversation_2_Team_1	23	23
+QuestLoc_RevengeoftheGeeks_Conversation_2_Team_2	27	27
+QuestLoc_RevengeoftheGeeks_Conversation_2_Team_3	The only prime I want is a prime rib.	我想要的优质东西只有优质牛排。
+QuestLoc_RevengeoftheGeeks_Conversation_3_NPCEnd_1	Hah! You failed this pop quiz.	哈！你没能通过这次突击测验。
+QuestLoc_RevengeoftheGeeks_Conversation_3_NPCEnd_2	You're smarter than you look.	你比看起来要聪明呀。
+QuestLoc_RevengeoftheGeeks_Conversation_3_NPCEnd_3	Then I guess you flunk this course.	我只能说你这门课不及格。
+QuestLoc_RevengeoftheGeeks_Conversation_3_NPCStart_1	So, a real smart guy, eh? I bet I can stump you.	所以，你是个聪明人对吧？我敢打赌我能难倒你。
+QuestLoc_RevengeoftheGeeks_Conversation_3_NPCStart_2	What is the square root of 289?	289的平方根是多少？
+QuestLoc_RevengeoftheGeeks_Conversation_3_Team_1	19	19
+QuestLoc_RevengeoftheGeeks_Conversation_3_Team_2	17	17
+QuestLoc_RevengeoftheGeeks_Conversation_3_Team_3	Who cares?	管它多少呢。
+QuestLoc_RevengeoftheGeeks_QuestLongDescription	Who says accountants are wimps? Answer the questions or face the consequences.	是谁说会计都是懦夫的？请回答问题不然就得面对后果。
+QuestLoc_RevengeoftheGeeks_QuestName	Revenge of the Geeks	书呆子的复仇
+QuestLoc_RevengeoftheGeeks_QuestObjective_1	Answer all the questions.	请回答全部问题。
+QuestLoc_RevengeoftheGeeks_QuestShortDescription	Test your math skills.	测试一下你的数学水平。
+QuestLoc_RoboRampage_Conversation01_NPC01	Humans! You cleverly present yourselves for extermination! This will be quick and painful.	人类！你们聪明地自投罗网了！迎接快速且痛苦的死亡吧。
+QuestLoc_RoboRampage_Conversation01_NPC02	We do not recognize humans as civilized, but so be it.	我们不承认人类是文明的，但随你怎么说吧。
+QuestLoc_RoboRampage_Conversation01_NPC03	Should you wish to waste your last breath, what have you to say?	既然你这么想浪费你的最后一口气，你有什么要说的吗？
+QuestLoc_RoboRampage_Conversation01_NPC04	We would not accept aid from a simian. DIE HUMANS.	我们不会接受猿猴的援助。人类，去死吧。
+QuestLoc_RoboRampage_Conversation01_NPC05	Surprisingly reasonable. Leave this place and never return.	意外地合理。离开这个地方，再也不要回来。
+QuestLoc_RoboRampage_Conversation01_PC01	Maybe for you!	这话还给你！
+QuestLoc_RoboRampage_Conversation01_PC02	Wait! Can't we talk this out like civilized beings?	等一下！我们就不能像文明人一样谈谈吗？
+QuestLoc_RoboRampage_Conversation01_PC03	I think we can all get along! We can help each other!	我想我们可以和平相处！我们可以互相帮助！
+QuestLoc_RoboRampage_Conversation01_PC04	Hey how about we just go and leave you alone, then you leave us alone?	要不我们走？我们不打扰你们，你们也别打扰我们，怎么样？
+QuestLoc_RoboRampage_QuestLongDescription	A swarm of malfunctioning security robots has taken over some ruins downtown. If they dig in there, they could be a threat to us and other survivors. Get some guns, go in there, and clear them out. Don't underestimate them, they may be slow and simple minded but they are relentless, and heavily armed.	一群失控的安保机器人占领了市中心的一些废墟。如果他们在那里扎根，可能会对我们和其他幸存者构成威胁。带上武器进去，把它们清理干净。不要低估它们，它们虽然行动缓慢，头脑简单，但它们毫不留情，而且装备精良。
+QuestLoc_RoboRampage_QuestName	Robo Rampage!	机器人狂潮！
+QuestLoc_RoboRampage_QuestObjective	Destroy the Attacktron and its minions!	摧毁攻击机器人及其手下！
+QuestLoc_RoboRampage_QuestShortDescription	Wipe out the rampaging robots.	消灭失控的机器人。
+QuestLoc_RobotHood_Conversation_1_Answer01	You're nothing but a deranged Raider. It's time to put you down!	你不过是个疯狂的掠夺者。该把你干掉！
+QuestLoc_RobotHood_Conversation_1_Answer02	Whatever. Just give us all the stuff you stole and we'll let you live.	无所谓。把抢来的东西交出来，我们就放你一马。
+QuestLoc_RobotHood_Conversation_1_Answer03	Uh, you realize YOU are just as human as we are, right?	呃，你知道你也是人类吧？
+QuestLoc_RobotHood_Conversation_1_Answer04	Ok, but it might be more help if you opened up to trading with the traders, instead of robbing them blind.	好吧，但如果你能与商队贸易，而不是直接抢劫他们，可能效果会更好。
+QuestLoc_RobotHood_Conversation_1_Answer05	I think we can work something out.	我觉得我们可以想个办法。
+QuestLoc_RobotHood_Conversation_1_Answer06	Hey, we're all for that! We've got some robots back at the Vault and they're basically family!	没错！我们避难所也有一些机器人，他们基本上就是我们的家人！
+QuestLoc_RobotHood_Conversation_1_Answer07	Sure, Robots are great! Well, the peaceful ones. We just want you to stop attacking traders. We can all share with each other.	当然，机器人很棒！嗯，我是指那些和平的机器人。我们只是希望你不要再攻击商队了。我们可以互相分享。
+QuestLoc_RobotHood_Conversation_1_NPCEnd_1	You'll not take me alive!	我不会让你抓住我的！
+QuestLoc_RobotHood_Conversation_1_NPCEnd_2	Never! I shall never give in to the human oppressor!	绝不！我永远不会向人类压迫者屈服！
+QuestLoc_RobotHood_Conversation_1_NPCEnd_3	So? I'm using my privilege as a human to help out my merry manufactured friends.	所以呢？我用我作为人类的特权来帮助我快乐的机械朋友。
+QuestLoc_RobotHood_Conversation_1_NPCEnd_4	Hmm. I could do that. As long they agree to trade fairly with us.	嗯，这也可以，只要他们同意公平交易。
+QuestLoc_RobotHood_Conversation_1_NPCEnd_5	Ok! One step toward freedom for Robot kind!	好！这是朝机器人自由迈出的一步！
+QuestLoc_RobotHood_Conversation_1_NPCEnd_6	Really? You also believe in my righteous cause?	真的吗？你也相信我的正义事业？
+QuestLoc_RobotHood_Conversation_1_NPCEnd_7	Hmm. Yes! Robots have plenty to share! Tell the merchants they will have no further trouble from Robot Hood!	嗯，确实！机器人有很多东西可以分享！告诉商人，机器人罗宾汉不会再找他们的麻烦了！
+QuestLoc_RobotHood_Conversation_1_NPC_1	Humans! You have no doubt come to stop my Crusade!	人类！你们无疑是来阻止我的圣战的！
+QuestLoc_RobotHood_Conversation_1_NPC_2	Too long have you held dominion over robot kind!	人类统治机器人太久了！
+QuestLoc_RobotHood_Conversation_1_NPC_3	But I rob from the fleshed and give to the... uh... metal...	我从肉体凡胎手中抢来物资，送给……呃……机器人……
+QuestLoc_RobotHood_Conversation_1_NPC_4	And I shall not stop until all are equal!	不实现平等，我决不罢休！
+QuestLoc_RobotHood_InitialDialogue	For our Merry Band!	为了我们快乐的机器人团伙！
+QuestLoc_RobotHood_QuestLongDescription	We have recently made contact with some Traders who say they were waylayed on the road by a mysterious bandit. They claim the thief was shouting something about fighting human oppression, and made off with a significant portion of the Traders' goods. We need you to go out there and track this bandit down. See if they can be reasoned with, and deal with them otherwise. We need to keep the trade routes safe and clear!	我们最近与一些商人取得了联系，他们说在路上被一个神秘的强盗袭击了。他们声称这个强盗高喊着反抗人类压迫的口号，并抢走了商队的大部分货物。我们需要你去找到这个强盗，看看能不能和他讲道理，否则就解决他。我们需要保持贸易路线的安全和畅通！
+QuestLoc_RobotHood_QuestName	Robot Hood	机器人罗宾汉
+QuestLoc_RobotHood_QuestObjective	Confront The Bandit	与强盗对峙
+QuestLoc_RobotHood_QuestShortDescription	Track down a strange bandit and stop them from accosting traders.	追踪奇怪的强盗并阻止他袭扰商队。
+QuestLoc_RobotRetrieval_QuestLongDescription	We think Vault-Tec delivered a Mr. Handy Box to this building. Pip pip cheerio!	我们认为避难所科技给我们送来了一个巧手先生盒子。回头见啦！
+QuestLoc_RobotRetrieval_QuestName	Robot Retrieval	找回机器人
+QuestLoc_RobotRetrieval_QuestObjective_1	Find the Mr. Handy Box.	寻找巧手先生盒子。
+QuestLoc_RobotRetrieval_QuestShortDescription	Find the Mr. Handy Box.	寻找巧手先生盒子。
+QuestLoc_RockThemLikeAHurricane_QuestLongDescription	Let's see how you fare against a nest full of Radscorpions. Oh, and this time, you can only have two people in your squad.	让我们来看看你想怎么对付一窝辐射蝎。但这次，你的小队里只能有两个人。
+QuestLoc_RockThemLikeAHurricane_QuestName	Rock Them Like A Hurricane	风卷残云
+QuestLoc_RockThemLikeAHurricane_QuestObjective_1	Kill the Glowing Radscorpion.	消灭发光辐射蝎。
+QuestLoc_RockThemLikeAHurricane_QuestShortDescription	Kill the Glowing Radscorpion.	消灭发光辐射蝎。
+QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_1	Trust me. I've learned my lesson!	相信我。我已经得到教训了！
+QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_2	Don't worry. I've had enough of the outside world...	别担心。我已经受够了外面的世界……
+QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_3	My only business from now on is Vault business.	我现在唯一的工作就是避难所的工作。
+QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_4	Unpaid overtime? Sign me up!	无薪加班？帮我报名！
+QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_1	So, Vault-Tec finally caught up to me....	所以，避难所科技终于找上门来了……
+QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_2	I never meant to hurt anyone!	我从没想过伤害任何人！
+QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_3	I just saw everyone working so hard. It wasn't fair!	我只是看到每个人都如此努力地工作。这不公平！
+QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_4	But I know when I'm beat. I'll come back to your Vault and work my tush off!	但我知道如果我败了。我就去你们的避难所然后工作到吐血！
+QuestLoc_RubarbsReckoning_Conversation_1_Team_1	You're darn right you will!	你还真是说对了！
+QuestLoc_RubarbsReckoning_Conversation_1_Team_2	Okay. But you mess up, and it's banishment to the Wasteland!	好啊。如果你搞砸了，就发配你去废土流放！
+QuestLoc_RubarbsReckoning_Conversation_1_Team_3	You sure? No funny business?	你确定？没有搞鬼？
+QuestLoc_RubarbsReckoning_Conversation_1_Team_4	I hope you're ready for extra shifts. A LOT of extra shifts...	我希望你已经准备好了加班。很多很多的加班……
+QuestLoc_RubarbsReckoning_QuestLongDescription	Rubarb and his Raiders just took over Vault 711, and he's still there. Take down his lieutenants, then confront Rubarb himself!	鲁巴布和他的掠夺者们占领了711号避难所，他还在那儿。拿下他的手下，然后亲自和他对峙！
+QuestLoc_RubarbsReckoning_QuestName	Rubarb's Reckoning	鲁巴布的清算
+QuestLoc_RubarbsReckoning_QuestObjective_1	Confront Rubarb!	与鲁巴布对峙！
+QuestLoc_RubarbsReckoning_QuestObjective_2	Kill the Raider Lieutenant.	消灭掠夺者部下。
+QuestLoc_RubarbsReckoning_QuestObjective_3	Kill the Raider Lieutenant.	消灭掠夺者部下。
+QuestLoc_RubarbsReckoning_QuestShortDescription	Confront Rubarb and his Raiders in Vault 711.	在711号避难所和鲁巴布还有他的掠夺者对峙。
+QuestLoc_RubarbsReckoning_RaiderLine_1	For Rubarb! For the people!	为了鲁巴布，为了人民！
+QuestLoc_RubarbsReckoning_RaiderLine_2	You ain't never gonna stop Rubarb's Raiders!	你永远不可能阻挡鲁巴布掠夺者们的脚步！
+QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_1	It's a closely guarded secret, I'm afraid, and Dave isn't high enough up the chain of command.	恐怕那是个严密保守的秘密，戴夫在指挥链上的级别还不够高。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_2	They keep talking about “the claws of Death” or “Death's claws,” but I'm drawing a blank.	他们一直在那说“死亡之爪”或“死亡的爪子”什么的，但是我想不起来了。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3	Very. Three Dog might be the last kill they need.	非常接近了。三狗可能就是他们需要的最后一个目标。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_4	It's just “all there in the Manual.” You just can't make this stuff up.	差不多“所有东西都在手册里”。你胡编滥造不来。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_1	Nuka-Cola. Eagle. There you go. We all know who you are by now.	核子可乐。鹰。好了。现在我们都知道你是谁了。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_2	Do you know how hard it is to infiltrate these guys? They all know each other!	你知道要打入这些家伙内部有多难吗？他们互相都熟识！
+QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_3	But it turns out I look like one of them, and they haven't realized there are two “Daves.” 	但是结果发现我很像其中一人，他们都没发觉有两个“戴夫”。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_4	So what do you want to know?	你想知道什么？
+QuestLoc_RunThreeDogRun_Conversation_1_Team_1	Where is Death's cave?	“死亡”的洞穴在哪？
+QuestLoc_RunThreeDogRun_Conversation_1_Team_2	What, or who, is Death?	什么，或者说谁，是“死亡”？
+QuestLoc_RunThreeDogRun_Conversation_1_Team_3	How close are they to meeting their quota?	他们离完成配额还有多远？
+QuestLoc_RunThreeDogRun_Conversation_1_Team_4	How is killing people supposed to wake Death?	杀人如何能够唤醒“死亡”？
+QuestLoc_RunThreeDogRun_Conversation_2_NPCEnd_1	If I had my *very much correct* Manual, I'd beat you over the head with it!	如果我带了*无比正确*手册，我会用它打你的头！
+QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_1	The quota is almost met, so now is the season of Death!	名额快满了，所以现在是“死亡”的登场时刻！
+QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_2	It makes no difference if you save the meddlesome DJ.	如果你救了那个爱管闲事的DJ，那也没什么两样。
+QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_3	Very soon, the Wasteland will be ripped apart by Death's claws!	很快，废土就会被“死亡”的魔爪撕成碎片！
+QuestLoc_RunThreeDogRun_Conversation_2_NPCStart_4	Vault 144 will stand victorious! A respectful, safe distance behind Death.	144号避难所将会胜利！在“死亡”身后拉开一段恭敬，安全的距离。
+QuestLoc_RunThreeDogRun_Conversation_2_Team_1	You're all psychopaths! The Manual is wrong and killing *will not* wake up some mythical Horseman!	你们都是疯子！手册是错误的，杀戮*并不会*唤醒一些神秘的骑士！
+QuestLoc_RunThreeDogRun_Conversation_3_NPCEnd_1	Work for an Overseer? Eh, could be worse.	为监督者工作？嗯，可能更糟。
+QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_1	Now *that's* how you fight the Good Fight! I can't thank you heroes enough!	现在*这就是*你打好仗的窍门！我非常感谢你们这些英雄！
+QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_2	If it helps, I overheard them talking about the cave you're looking for.	这个可能有用，我无意中听到他们在谈论你要找的洞穴。
+QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_3	It's five miles south of here. Entrance is dark and foreboding. You can't miss it.	在这儿以南五英里。入口漆黑而且充满不祥之感。你不会找不到的。
+QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_4	Now with things still so hot out there, I need to find a safer place to broadcast from.	现在外面风声还这么紧，我得找个更安全的地方做广播。

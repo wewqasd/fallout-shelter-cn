@@ -1,0 +1,95 @@
+{
+  "chunk": "long_013",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "QuestLoc_UndercoverOperations_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN \"we'll need Military Fatigues to pass as one of the patrols and get into the base\" 中的 pass as（伪装成、冒充成巡逻队中的一员）被误读为 pass through，译作「来通过他们的巡逻并进入基地」，玩家会以为只是「穿过巡逻队」，而丢掉「假扮巡逻队员混进去」这一层意思。",
+      "fix": "一个地下军事基地遭到攻击，正在召集他们所有的废土巡逻队。难道又是“害虫”吗？我们需要阻止他们！不过我们得穿上军装伪装成巡逻队的一员，才能混进基地……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Vault199_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN \"our sister Vault\" 是我们的姐妹避难所，ZH 译作「他们的姐妹避难所」，指代错误；\"They're classier\"（他们更有格调/更上档次）译作「他们更经典」，classy 被误解为 classic。",
+      "fix": "这里没有狗。去试试我们的姐妹避难所吧：899号。他们更有格调。不过先收下这个，就当是我们的谢意。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Vault199_QuestLongDescription",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN \"I should go ask around\"（我该去四处打听）译作「我应该帮你问问」，多出 EN 没有的「帮你」；\"Hopefully, the Dwellers have him\"（但愿居民们已经把他扣住了）译成「但愿它在居民那里」，用「它」指人称物，且 have him（已抓住他）弱化为「在居民那里」。",
+      "fix": "掠夺者提到比格斯比可能逃到了199号避难所。我应该去四处打听一下。但愿居民们已经抓住了他。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_VaultopolisAwaits_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN \"an evil Raider wannabe\" 的 wannabe（想当掠夺者的家伙）未译出，只说成「邪恶的掠夺者」；句尾 \"otherwise known as Vaultopolis!\"（又叫“避难所之城”）整段漏译，别称 Vaultopolis 完全消失。",
+      "fix": "宝拉·普朗布金原来是个一心想当掠夺者的坏蛋，但至少她告诉了我们525号避难所的位置，也就是人们口中的“避难所之城”！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_WaterintoBrine_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN \"see if he's the real deal or a snake oil salesman\" 的 the real deal 指「货真价实、有真本事的人」，ZH 译作「他是不是真正的商人」，把「真材实料」误解成「真的商人」，与后面的「骗子」对举失效。",
+      "fix": "“神奇”水真的有效，还是完全是个骗局？我们得追踪这位水之术士，看看他是真有本事，还是个卖假药的骗子。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_WeddingCrashers_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN \"If only they'd communicate!\" 是感叹「他们要是肯沟通就好了」，ZH 译作「问题是他们根本不知道该怎么交流！」把「不肯/不去沟通」改成了 EN 并不存在的「不知道该怎么交流」。",
+      "fix": "臭名昭著的掠夺者“刀锋萨莉”要和声名狼藉的“铁锤马克斯”结婚了。但两人都还在犹豫，因为他们都不想再过掠夺者的日子了。他们要是肯沟通就好了！赶紧闯进去替他们解决问题吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_WhosonFirst_QuestLongDescription",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "EN \"gave us a sweet weapon to help take him down\" 的宾语 us 在 ZH 中丢失并被换成「你」（「给了（一个）很赞的武器来帮助你拿下他」），受赠主体由我们变成了玩家个人。",
+      "fix": "亨丽埃塔是教练的前女友。她不知道他在哪里，但给了我们一件很赞的武器来帮我们拿下他。继续寻找吧！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_WondersofNature_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN \"Make sure he's not in over his head\" 意为「别让他陷得太深／不自量力」，ZH 译作「请确保他的安全」，把「别逞强／别超出能力范围」错解为「保护人身安全」，原句的叮嘱含义丢失。",
+      "fix": "著名科学家欧拓凡霍夫伯格就在附近，正在研究辐射蝎的交配习惯。可别让他陷得太深。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_WondersofScience_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN \"searching for a modern-day Fountain of Youth\" 是「寻找现代版的青春之泉」，ZH 译作「正在研究现代社会永葆青春的方法」，把喻体「青春之泉」丢掉并改成「永葆青春的方法」，modern-day 也错挂到「现代社会」上。",
+      "fix": "著名科学家欧拓凡霍夫伯格就在附近，正在寻找现代的“青春之泉”。找到他，看看他有什么发现！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_WorstCoachEver_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN \"Rackie Jobinson's Jersey will be ours!\" 中的人名 Rackie Jobinson 未译出，ZH 只剩「棒球衫一定是我们的！」，本句内的专名信息丢失。",
+      "fix": "铅笔厂里没有收获，但我们并不气馁。罗基·杰宾森的棒球衫一定是我们的！我们去老“虎不理漫画”店找找看。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Shop_SeasonPass_NewVegasB_Premium_Description",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "括号内的 \"Mr. Handy\" 未汉化，直接留在中文里（「维克托（Mr. Handy同等角色）」），同一批文本他处已译为「巧手先生」，此处为未翻译的英文残留。",
+      "fix": "将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（相当于巧手先生）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、隐形休闲装、铅击者、2个宠物笼子，以及5000瓶盖。",
+      "confidence": "medium"
+    }
+  ]
+}

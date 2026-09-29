@@ -1,0 +1,110 @@
+{
+ "batch": 50,
+ "items": [
+  {
+   "key": "Weapon_Name_JunkJet_RecoilCompensated",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Recoil Compensated=后坐力被抵消（ES compensador、DE gedämpft），ZH「辅助」=协助，方向相反。",
+   "final_fix": "后坐力补偿型垃圾喷射炮"
+  },
+  {
+   "key": "Weapon_Name_PlasmaCaster",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Caster 与 Thrower 是两把独立武器（chunk_078 各有键与描述），ZH 却同名「等离子发射器」，无法分辨。",
+   "final_fix": "等离子投射器"
+  },
+  {
+   "key": "Weapon_Name_PlasmaThrower_DragonsMaw",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "maw=巨口/颚（ES Fauces、DE Maul、RU Пасть），非胃；chunk_065 同武器已译「龙之颚」，一物两名。",
+   "final_fix": "“龙之颚”等离子发射器"
+  },
+  {
+   "key": "Weapon_Name_SuperSledge",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "sledge=大锤（ES Supermartillo、RU Супермолот），非 sled 雪橇；chunk_032 已译「超级大锤」。",
+   "final_fix": "超级大锤"
+  },
+  {
+   "key": "Achievement_Xbox_Completed_11",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "两项数量同为 100，ZH 仅调换 Stimpak 与 RadAway 的并列顺序，信息一致、理解无碍，属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "Achievement_Xbox_Description_11",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "同属并列项顺序调换，两项数量相同、语义对称，中文并列次序无强制对应，无信息损失。",
+   "final_fix": ""
+  },
+  {
+   "key": "Achievement_Xbox_Name_04",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Urban=都市（ES Ranger urbano、RU Городской），ZH 生造「城野」并加出「荒野」义，中文无此词。",
+   "final_fix": "都市游侠"
+  },
+  {
+   "key": "Android_Ask_Notification_Message",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "would you like X to send you Y 被逐词搬成「想要+机构+给您+VP」，翻译腔；中文惯用「是否允许…」。",
+   "final_fix": "是否允许辐射避难所向您发送通知？"
+  },
+  {
+   "key": "Button_QuantumSkip",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "NOW 直译成「现在」缺命令语气，像陈述句；同功能 Message_Tutorial_63 已用「立即到达」，不一致。",
+   "final_fix": "立即到达"
+  },
+  {
+   "key": "CloudActionImport",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "IMPORT=导入（ES IMPORTAR、DE IMPORTIEREN），ZH「引入」在中文指引进功能（本表 introduce 用法），义不清。",
+   "final_fix": "导入"
+  },
+  {
+   "key": "CloudFailedVersionMismatch",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「来自于一个…版本」是 is from a version 的硬搬，「更新的」方向靠读者推断，改后方向明确。",
+   "final_fix": "您的云存档来自比当前更新的《辐射避难所》版本。请更新游戏后再试。"
+  },
+  {
+   "key": "Controls_Xbox_Quest_Target",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Enemy 在 ES al enemigo／DE Gegner／RU врага 均保留，ZH 漏成「目标」，与「任务目标」混淆。",
+   "final_fix": "瞄准敌人（按住）"
+  },
+  {
+   "key": "Encounet_Progression_Creature17",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "pincers=大颚/钳子（DE Scheren、RU жвалы），ZH「嘴」部位错，又加出 EN 没有的「准备要吃了我」。",
+   "final_fix": "巨型工蚁朝我这边来了，大颚已经张开！"
+  },
+  {
+   "key": "Encounet_Progression_Creature51",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "of its kind 指同类个体（RU один из сильных супермутантов），ZH「种类」把个体说成品种，指代偏差。",
+   "final_fix": "超级变种人霸王是同类中最强的之一！能活下来算我走运！"
+  },
+  {
+   "key": "Encounet_Progression_Location13",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「困在了房间里，房间里就有化学工作站」是自然口语句式，room with a Chemistry Station 信息完整承接，无遗漏。",
+   "final_fix": ""
+  }
+ ]
+}

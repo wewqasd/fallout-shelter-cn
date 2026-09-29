@@ -1,0 +1,143 @@
+{
+  "chunk": "long_010",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "QuestLoc_NoTimeforPaws_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN “I rescued the salvage team” 是“打捞/回收队”，ZH 写成“救援队”，换成了另一支队伍；同句 “may have taken shelter in Vault 314” 只译成“可能去了314号避难所”，“躲进/避难”的含义丢失。",
+      "fix": "我救出了打捞队，但比格斯比不在他们中间。有人说他们可能躲进了314号避难所。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_OBrother_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN “has a pretty large base set up nearby” 中的 “pretty large”（相当大的）在 ZH “附近有个钢铁兄弟会的基地” 里没有对应，基地规模信息丢失。",
+      "fix": "附近有个钢铁兄弟会相当大的基地，虽然他们是带有宗教色彩的军事组织，但总体来说还算不错。或许我们可以去打个招呼。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OfftheRails_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 任务目标是 “Find and rescue them before it's too late”，ZH 只写“请尽快找到他们”，丢掉“救出（rescue）”这一核心目标；同时 “captured by Raiders” 被扩写成“被掠夺者们发现并抓走了”，凭空多出“发现”。",
+      "fix": "一群自称“铁路”的人正试图把难民偷偷送过这一带，结果被掠夺者抓住。趁还来得及，找到他们并把他们救出来。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_OutoftheVaultIntotheShadows_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN “the innocent Dwellers of the Wasteland” 中的 “of the Wasteland”（废土的）在 ZH 里没有对应，只剩“无辜的居民”；且 “has raided”（长期劫掠）被弱化为“总是喜欢欺负”，还多出 EN 没有的“总是喜欢”。",
+      "fix": "已经太久了，邪恶的匪徒依莱·卡尔弗特一直在劫掠废土上无辜的居民。为了你的避难所的安全，召集你的士兵，让死亡降临到依莱和他那帮疯子头上吧！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ParleyTime_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN “but it's worth the risk to find out what he wants!” 中 “to find out what he wants”（去弄清他想要什么）在 ZH “但值得冒这个风险！” 里完全没有对应，冒险的目的丢失。",
+      "fix": "骑士“战争”邀请我们去讨论共同感兴趣的事情。他的信使告诉我们战争崇拜者会杀了我们，但为了弄清他想要什么，这个险值得冒！同时，我们应该留心每周博览会记者，在他们谈论核子可乐后使用暗号“鹰”。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_PartyCrasher_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN “an old cabin in the Wasteland” 的两个限定成分都没有对应：ZH 只写“发现了一间小屋”，丢掉 “old”（老旧）和 “in the Wasteland”（废土上）。",
+      "fix": "你的一位居民在废土上发现了一间老旧的小屋。听起来像是有人在开派对。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_PierIntoFuture_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN “in some kind of ill-founded fracas” 指“在一场莫名其妙的冲突/斗殴之中”，ZH 译成“好像发生了什么可怕的事”，丢掉“冲突/混战”这一事件性质，并把确定语气改成猜测。",
+      "fix": "哇哦！这是什么？这个曾经热闹的海滨因为一场莫名其妙的混战变成了废墟！进去翻找一下吧，谁知道会发现什么！？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_PitStop_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN “a Red Rocket fuel station that looks uninhabited” 是“看起来无人居住”，ZH 写成“尚未被占领”，含义变成“暂时没被敌人占据”；同句 “Wasteland explorers” 也被改成“废土勇士”。",
+      "fix": "机会来敲门！你的一位废土探险者发现了一个看起来无人居住的红火箭服务站。里面可能有些有用的东西。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_PittStop_QuestLongDescription",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "EN 结尾 “They're the last thing we need lurking around in our back yard.” 只说“最不希望他们还在我们后院附近游荡/潜伏”，ZH 写成“可不能再让这帮掠夺者在我们的地盘上欺行霸市”，凭空加入 EN 不存在的“欺行霸市”，并丢掉 “lurking around”。",
+      "fix": "几天前，一群全副武装的掠夺者袭击了一个商队，还带走了几名定居者，估计是打算把他们当作奴隶。虽然知道他们最后出现的地点和移动方向，但没人能找到他们的行踪。我们得派些可靠的人去追查并解救被绑架的定居者，并消灭这些奴隶贩子。我们最不希望的就是他们还在我们后院附近游荡。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RadiationLeak_QuestLongDescription",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN “A neighboring Vault” 只是“一座邻近的避难所”，ZH 加入“我们的”，写成“我们的邻近的避难所”，既有 EN 不存在的信息，连续两个“的”也读不通顺。",
+      "fix": "邻近的一座避难所发生了大规模的辐射泄漏，居民们都变成了狂尸鬼！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RadroachRoundup_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN “released all the Radroaches to cover their escape” 是放出蟑螂“掩护他们逃跑”，ZH 写成“来辅助他们逃跑”，“掩护”变成“辅助”，放出蟑螂的目的被改成协助逃生。",
+      "fix": "附近一座研究辐射蟑螂的科学实验室发来了求救信号。小偷偷走了他们的防辐射服，还放出了所有的辐射蟑螂来掩护自己逃跑。现在科学家们束手无策，正请求帮助！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "“Nothing, he left before we could catch him.” 译作“没怎么，在我们能抓到他之前就离开了。”——答语“没怎么”不对应 “Nothing”（没什么/什么都没说），后半句语序生硬；且 “some settlers” 变成“一些定居点的人”，丢了“定居者”这一称呼。",
+      "fix": "没什么，我们还没来得及抓住他，他就跑了。他说有些定居者被困在了鼹鼠洞里。废话少说，受死吧！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RaidingParty_QuestLongDescription",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 只说掠夺者趁老大不在“办了一场喧闹的聚会（rowdy shindig）”，ZH 加了“偷偷”，与“喧闹”相冲突；且 “to infiltrate them while they're partying” 中“趁他们开派对时”这一时机说明在 ZH 里没有对应。",
+      "fix": "一群掠夺者趁他们的老大不在，办了一场闹哄哄的聚会。现在正是趁他们在开派对时渗透进去的好机会。如果我们能让他们反叛自己的老大，整个帮派就会从内部瓦解掉！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RescueSanta_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 的独立句 “He's in trouble.”（他有麻烦了）在 ZH 里完全没有对应，句子直接从“有人找到了圣诞老人”跳到“我们走！”，圣老人身处险境这一信息丢失。",
+      "fix": "当我们四处传播圣诞节日气氛时，有人设法找到了圣诞老人。他有麻烦了。我们走！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RockThemLikeAHurricane_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN “Let's see how you fare against a nest full of Radscorpions.” 是“看看你对付一窝辐射蝎表现如何”，ZH 写成“让我们来看看你想怎么对付一窝辐射蝎”，把“你的表现”换成了“你的打算”。",
+      "fix": "让我们看看你对付一窝辐射蝎的本事吧。哦，还有，这次你的小队里只能有两个人。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RubarbsReckoning_QuestLongDescription",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "EN “then confront Rubarb himself!” 的 “himself” 强调“鲁巴布本人”，ZH “然后亲自和他对峙！” 把“亲自”安到玩家身上，修饰语错位；另外 “just took over”（刚刚占领）的 “just” 也未译出。",
+      "fix": "鲁巴布和他的掠夺者刚占领了711号避难所，他本人还在那儿。先拿下他的副手，然后去会会鲁巴布本人！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_S2_QL2_Q2_Field_QuestLongDesc",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN “sign off on gear we'll use to raid their own facilities” 中 “their own facilities”（他们自己的设施）在 ZH 里没有对应，只剩“用他们自己的装备来进行突袭”，突袭目标丢失；“their own” 原本修饰设施，被错位安到“装备”上；另外 EN 只说对装备“签字放行”，ZH 凭空多出“签署一份申领表”。",
+      "fix": "多亏了联系人的帮助，我们有信心说服钢铁兄弟会签字放行一批装备——而我们要用这批装备去突袭他们自己的设施。啊！真是讽刺！",
+      "confidence": "high"
+    }
+  ]
+}

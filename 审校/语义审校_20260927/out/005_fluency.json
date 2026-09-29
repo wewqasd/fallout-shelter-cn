@@ -1,0 +1,63 @@
+{
+  "chunk": "005",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Encounter_Random_Message72",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「我想我是。」是英文 I think I am 的逐字搬运：中文里「是」必须带宾语或换成「是的」，单说「我想我是」宾语残缺，玩家读到会卡一下（我是……什么？）。前后两句都是自然口语，只有这里露了翻译腔。",
+      "fix": "我是在跟自己说话吗？我想是的。糟了。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Random_Message91",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「需要控制我的呼吸。」把 Need to control my breathing 按英文语序搬了过来：无主语的「需要+动词」像说明书条目，物主代词「我的」在自语里也是多余的，整句不像人在给自己鼓劲。",
+      "fix": "得稳住呼吸。保持冷静。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Random_Message61",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「地上那干的东西……是血？」用「那干的东西」硬拼 dried... blood，中文不会把「干掉的血」说成「干的东西」，且「是血？」独立成句缺语气词，读起来像字对字翻译。",
+      "fix": "地上那个……是干掉的血吗？",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Random_Message53",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「专心想这个……」搭配不成立：「专心」用于「专心做某事」，后面接「想这个」生造；英文 Focus on that 在此是自语式的「就想着这件事」，中文照译后成了半截口号。",
+      "fix": "得把物资带回避难所。就想着这件事……",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Random_Message112",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「那几栋楼整个塌进了街道。」搭配不当：「进」要求进入某个内部空间，街道构不成容器，中文说楼房倒到街上用「塌到街上／倒进街面」；「整个」夹在中间还容易被读成「整栋楼」。",
+      "fix": "那几栋楼已经完全塌到街上了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Random_Message77",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "原文 An old coffee shop. 是陈述句，中文写成疑问句「一个旧咖啡馆？」把认出店铺变成了不确定的猜疑，语气走偏；咖啡馆的量词也应用「家」而不是「个」。",
+      "fix": "一家旧咖啡馆。现在要能喝上一杯咖啡就太棒了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Random_Message165",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "「防护性能拉满」用了游戏／网络流行语「拉满」，与整篇「探险家日志」干巴巴的纪实口吻不搭，同一批日志的其他条目都是平实叙述；「性能」也是产品宣传词，原文只是说能提供最强防护。",
+      "fix": "探险家日志。新条目：动力装甲依然存在，但很少见。能提供最高级别的防护。",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{"chunk":"063","lens":"fluency","reviewed":180,"findings":[
+{"key":"QuestLoc_WorkingOvertime_Conversation_2_NPCStart_2","severity":"S3","type":"生硬","problem":"“I mean”是说话人纠正、强调自己刚出口的话，中文对应“我是说”；译成“我想说”是逐字直译，读成“我想要说……看看我”，与发光种哀求玩家杀掉自己的语气不合。","fix":"我是说……看看我……我连鼻子都没有！","confidence":"medium"},
+{"key":"QuestLoc_ZinesFromtheCommonwealth_QuestlineName","severity":"S2","type":"误译","problem":"“Zines”是复数普通名词，指自印小志／独立杂志，不是人名；音译成“扎因斯”会让玩家以为这条任务线里有个叫扎因斯的角色（德、俄等语言版本都按“杂志／出版物”处理），名称传达的信息是错的。","fix":"来自联邦的杂志","confidence":"high"},
+{"key":"Quest_Dialog_1_1","severity":"S2","type":"生硬","problem":"“What do we have here?”是掠夺者上前挑衅的口语，相当于“瞧瞧这是谁”；直译“我们有什么呢？”在中文里不成话，也不像对白，和后面的“避难所居民？”变成两个互不相干的问句。","fix":"瞧瞧这是谁？避难所居民？","confidence":"high"},
+{"key":"Quest_Dialog_1_3","severity":"S2","type":"语气","problem":"“have no love for him”是“对他没好感／跟他没什么交情”，接下一句“出卖他换平安”才顺；“毫无情分可讲”是算账式的书面语，用在掠夺者随口卖队友的台词里，语气与人设明显不符。","fix":"我们跟他可没什么交情。","confidence":"medium"},
+{"key":"RichPresence_Xbox_02","severity":"S3","type":"生硬","problem":"Defending against 是“抵御、抵挡”，“反抗”只能带压迫、统治一类对象，与“攻击”搭配不当，整句读起来别扭。","fix":"抵御尸鬼的攻击","confidence":"medium"},
+{"key":"RichPresence_Xbox_07","severity":"S3","type":"生硬","problem":"Squashing an incident 是“平息事态”，“阻止……事件”搭配不成立（事件只能被平息、处理，不能被阻止）；且译文与上一条 RichPresence_Xbox_06 的 Repelling 同用“阻止”，两个不同动作被并成一句。","fix":"平息辐射蟑螂事件","confidence":"medium"},
+{"key":"RichPresence_Xbox_09","severity":"S3","type":"生硬","problem":"“{1}”是避难所编号，中文带编号时要加“号”（本表其它条目均为“700号避难所”）；写成“在{1}避难所里”，实际会显示成“在76避难所里管理…”，读着不像中文。","fix":"在{1}号避难所里管理{0}位居民","confidence":"medium"},
+{"key":"RoomType_Utility_Description","severity":"S3","type":"其他","problem":"UTILITY 在本表译为“公用设施”（RoomType_Utility），说明占位串却写成“功效说明”（功效＝效力），既与同组四条“消耗品说明／设施说明／生产说明／训练说明”的写法不一致，也对不上自己的分类名。","fix":"公用设施说明……","confidence":"high"},
+{"key":"Room_BarberShop_Desc","severity":"S3","type":"生硬","problem":"“to customize them”的宾语是居民，译文“满足个性化需求”把宾语丢了（谁的需求？），与同组房间说明“将居民分配在这里训练X”的句式也不一致，说不清这间房是给居民换发型、面容的。","fix":"将居民分配在这里为他们定制外观","confidence":"medium"},
+{"key":"Room_Elevator_Desc","severity":"S3","type":"生硬","problem":"“进入到”是“进入＋到”的结构杂糅，后面又接“避难所里更低的楼层”，方位词叠加，整句是典型的机翻腔。","fix":"用于进入避难所更低的楼层","confidence":"medium"}
+]}

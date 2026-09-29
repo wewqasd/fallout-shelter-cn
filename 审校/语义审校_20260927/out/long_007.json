@@ -1,0 +1,71 @@
+{
+  "chunk": "long_007",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "QuestLoc_DogsofWar_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN \"War and Death are the other infamous Horsemen of the Apocalypse.\" 中的限定词 \"the other\"（另外那两位）未译出，ZH 只写「是臭名昭著的『末日骑士』」，使上文已提到的「饥荒」「瘟疫」与这两位构成同一组末日骑士的并列关系被切断。",
+      "fix": "“饥荒”和“瘟疫”就在外面，无论他们是谁，追随者都大有人在。“战争”和“死亡”则是另外两位臭名昭著的“末日骑士”。他们也在废土上肆虐吗？如果有人知道，那一定是银河新闻电台的三狗。我们去跟他谈谈。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DrivingtheSnakesOut_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN \"We need to drive these Snakes out of the neighborhood, for good!\" 中 \"out of the neighborhood\"（赶出这一带）与 \"for good\"（永久、一劳永逸）两处限定全部丢失，ZH 只作「我们得把这些人赶走」，任务范围与「彻底」的强调都没了。",
+      "fix": "一伙被称为“蛇”的掠夺者一直在针对红头发的定居者，称他们为“生姜”，声称他们是低等人种。我们得把这伙“蛇”彻底赶出这一带，永绝后患！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DuoofDestructionGlowingOnex2_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN \"Toss those Ghouls out on their keisters!\" 中 \"Ghouls\"（尸鬼）这一敌人身份在 ZH 里只写成「他们」，未译出；同时 \"toss ... out\"（赶出去）被改成「解决掉」，驱赶语义变成了消灭。",
+      "fix": "两只发光种占领了一处旧的聚变核心工厂。把那些尸鬼统统赶出去！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_2_Room2_Question_Line1_Choice2",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 第一句 \"I take thee at thy word.\"（我信你所言）在 ZH 中整句没有对应，译文只剩后两句，选项文本的应答语气与信息来源丢失。",
+      "fix": "我信你这句话。只要你肯叫我一声爱人，我便重新受洗；从此我永远不再是罗密欧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_FamilyMatters_Conversation_1_NPCEnd_2",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN \"Papa used to be until he lost his dentures. But they both mean well!\" 中 \"Papa\" 与上一句 \"she\"（外婆）并列成两位长辈，且平行条目 QuestLoc_FamilyMatters_Conversation_1_NPCEnd_1 的同一处 \"Papa\" 译作「外公」；此处译成「老爸」改变了人物关系，并与姐妹条目自相矛盾。",
+      "fix": "当然是了。但小心，她爱咬人。外公以前也这样，直到他丢了假牙。不过他们都是好意，我管这叫“严厉的爱”。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_FollowingHisFirstSteps_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN \"Left here and headed to that factory across the river to take out Road Rash and his gang of Raiders!\" 是陈述失踪者的去向（河对岸的那座工厂），ZH「离开这里然后去工厂，穿过小河，拿下……吧！」把位置修饰语拆成了对玩家的行动指令，主语与语气发生错位，读起来像任务指引。",
+      "fix": "没错！就是那个。他离开这里，去了河对岸的那座工厂，要拿下“道路丘疹”和他那帮掠夺者！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_FollowingHisFirstSteps_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN \"Famed Minuteman, Preston Garvey\" 中 \"Famed\" 意为大名鼎鼎、声名远扬，ZH 译作「小有名气」把知名度反向削弱。",
+      "fix": "大名鼎鼎的义勇军民兵——普雷斯顿·加维，失踪了！在他最后出现的地方寻找有关他去向的线索。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_GameofVaults_QuestLongDescription",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "EN \"A fierce and loathsome beast has been terrorizing the villagers throughout the land.\" 只说野兽一直在全境恐吓村民，并没有说它占据村庄；ZH「一个凶猛恶心的怪兽占领了村庄，到处恐吓村民」里的「占领了村庄」是 EN 中不存在的自创事实，同时 \"throughout the land\"（全境）的范围限定被压缩成「到处」。",
+      "fix": "号外，号外啦！一头凶猛可憎的野兽一直在全境恐吓村民。一路追踪到它的巢穴，干掉它！",
+      "confidence": "high"
+    }
+  ]
+}

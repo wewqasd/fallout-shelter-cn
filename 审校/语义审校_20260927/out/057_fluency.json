@@ -1,0 +1,17 @@
+{"chunk":"057","lens":"fluency","reviewed":180,"findings":[
+{"key":"QuestLoc_TheFinalHunt_Conversation_1_NPCStart_1","severity":"S2","type":"误译","problem":"You guys are good 说的是狩猎的本事，译成“你们是好人”变成了道德评价，跟紧接的“但我才是废土第一……”逻辑接不上；“我尊重这点”也不是中文说法。","fix":"你们确实有两下子，这点我认。","confidence":"high"},
+{"key":"QuestLoc_TheFinalHunt_Conversation_1_NPCStart_2","severity":"S2","type":"误译","problem":"hunter 是猎手（同一人物在别处译作“猎人大维斯”），这里译成“杀手”变成了职业凶手，含义跑偏；“废土第一名的杀手”搭配也别扭，句末“不是你们！”是英文语序硬搬。","fix":"但我才是废土头号猎手，轮不到你们！","confidence":"high"},
+{"key":"QuestLoc_TheFinalHunt_QuestLongDescription","severity":"S2","type":"误译","problem":"calling you out 是“向你叫板／下战书”，译成“大维斯在呼唤你”读起来像深情呼唤；同句 big game hunter 又译成“杀手”。","fix":"大维斯向你叫板了！是时候把他拉下马，成为废土头号猎手了！","confidence":"high"},
+{"key":"QuestLoc_TheFinalPush_Conversation_1_NPCEnd_1","severity":"S2","type":"生硬","problem":"这句是回应对方的“是我们的荣幸”，Likewise 即“彼此彼此／我也很荣幸”，译成“战士你们也一样。”后“也一样”没有着落，还把称呼当主语硬塞进句子，读不通。","fix":"彼此彼此，战士。拿着吧，你们比我们更适合带上这个。","confidence":"high"},
+{"key":"QuestLoc_TheHauntingofVault110_Conversation_1_NPCStart_2","severity":"S2","type":"病句","problem":"ghost 是称呼（“鬼啊，求你别伤害我”），译成“亲爱的鬼”对着一只鬼喊“亲爱的”很滑稽，哀求的 please 也没了；原文结巴在 Please 上，译文把结巴错挪到动词，写成“不要伤害伤害我”这种词语重复病句。","fix":"求……求你了，鬼先生，别伤害我！你、你到底想要什么？","confidence":"high"},
+{"key":"QuestLoc_TheHauntingofVault110_RaiderLine_1","severity":"S2","type":"误译","problem":"Look out! 是示警“当心／小心”，译成“快看！”变成招呼同伴围观，含义反了；“一只鬼”也不如“有鬼”自然。","fix":"有鬼！当心！","confidence":"high"},
+{"key":"QuestLoc_TheInfiltrationGame_Conversation_2_NPCEnd_3","severity":"S2","type":"病句","problem":"I can't even... 是话说到一半的无语省略，硬译成“我甚至不能……”不成句，成分残缺；Here 译成“这里”也不对，bring the change back 是“把找零带回来”，译成“一定要找零钱给我”方向说反了。","fix":"呃，我真是……算了。拿着，记得把找零带回来！","confidence":"high"},
+{"key":"QuestLoc_TheMysteriousDisappearingSpuds_Conversation_1_NPCStart_1","severity":"S2","type":"误译","problem":"We can't keep a crop alive 是说“怎么也种不活一季收成”，译成“我们救不活了！”主语变成了农民自己，读起来像人在等死，意思跑偏。","fix":"呀！你一定得帮帮我们！我们的红果一株接一株地死！怎么也种不活一茬庄稼！","confidence":"high"},
+{"key":"QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_2","severity":"S2","type":"误译","problem":"You have no idea 是反派的呛声（你根本想不到／你完全不了解），译成“不知道。”成了没头没尾的残句，玩家会读成“我不知道”，台词的意思和气势全丢。","fix":"你根本想象不到。","confidence":"high"},
+{"key":"QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_4","severity":"S3","type":"生硬","problem":"Everyone's a critic 是句英文俏皮话（人人都爱挑刺／谁都要来当评委），直译成“每个人都是一个批评家。”是典型机翻腔，中文不这么说。","fix":"人人都爱挑刺。","confidence":"high"},
+{"key":"QuestLoc_ThePathofPaulaPlumbkin_Conversation_1_Team_1","severity":"S2","type":"误译","problem":"同一个人名在同一句里出现两种译法：Plumbkin 先译成“布朗金”再译成“普朗布金”（全项目其余 32 处均为“普朗布金”），玩家会以为是两个人。","fix":"普朗布金！宝拉·普朗布金！她去哪里了？","confidence":"high"},
+{"key":"QuestLoc_TheRedRocketReveal_Conversation_1_NPCStart_2","severity":"S2","type":"误译","problem":"The Wasteland has toughened me up 是“废土把我磨炼得更硬朗了”，译成“废土给了我很好的锻炼！”读起来像她在废土上健身、做运动，效果滑稽；后面“我已经不是原来的我了！”还是原文没有的加戏。","fix":"是我 - 宝拉·普朗布金！废土把我磨炼得更硬朗了！","confidence":"high"},
+{"key":"QuestLoc_TheNightWatch_Conversation_1_NPCStart_3","severity":"S3","type":"语气","problem":"原文是农民口语，主语是不知是什么的东西（Somethin'，实为鼹鼠），译文“有人正从地下窃取红果”既坐实成“人”，又用了书面词“窃取”，与人设和语境都不搭。","fix":"有什么东西正从地底下偷红果！","confidence":"medium"},
+{"key":"QuestLoc_TheEndoftheRainbow_RaiderLine_2","severity":"S3","type":"语气","problem":"这是掠夺者随口一句天气抱怨，译成“我们正在经历可怕的天气……”是对白写成书面报告腔，“经历天气”也不是中文搭配。","fix":"这天气可真够呛……","confidence":"medium"},
+{"key":"QuestLoc_TheMysteryofVault666_Conversation_1_NPCStart_2","severity":"S3","type":"生硬","problem":"So! 是反派开场的感叹词，译成“所以！”在中文里前面并无前因可承，是典型机翻腔（同段“所以告诉我……”同一毛病），应作“那么！”。","fix":"那么！你发现了我的藏身之处！666号避难所！我是……","confidence":"medium"}
+]}

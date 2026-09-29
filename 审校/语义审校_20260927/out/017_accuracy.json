@@ -1,0 +1,71 @@
+{
+  "chunk": "017",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ALaborofLove_Conversation_2_Team_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "premises 指「场地、地盘」，ZH 译成「地基」（建筑的地基/基础）。这里是洞穴，玩家说的是让占着洞穴的兄弟会「腾地方」，「清空这个地基」在中文里讲不通。同一任务的另一处（chunk_016 的 Vacate the premises immediately - or else!）也误作「马上清空这个地基」。",
+      "fix": "恐怕你们得腾出这块地方了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ASettlerNeedsYourHelp_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 引语是义勇军的信条 Protect the people at a minute's notice（一分钟内出动、随时响应，Minutemen「一分钟人」之名就来自这里）。ZH 写成「团结起来，义务保护人民」：at a minute's notice 这个关键信息整段消失，同时凭空多出「团结起来」和「义务」两个 EN 没有的内容。",
+      "fix": "“一分钟内响应，保护人民。”这就是义勇军的初衷。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ASpecialBrand_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "上一句 NPC 刚说完 your pet（你们的宠物），玩家回 Our pet?，所以 The one you traded for your friend Jack 里的 the one 指的就是那只被当嫁妆换掉、拿来换回杰克的宠物。ZH 译成「你用来交换杰克的人」，把宠物写成了「人」，玩家会以为在说某个人；your friend Jack 的「朋友」也被丢掉。",
+      "fix": "就是你们当嫁妆、用来换回你们朋友杰克的那只吧？去找科兰特——你们要的东西在他手里。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ASpecialBrand_QuestName",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "任务名 A Special Brand 的 Brand 是「烙印」——本任务对话 The couple brands each other 对应的 ZH 正是「这对夫妇互相给对方烙上印记」，掠夺者用烙印代替结婚戒指。ZH 译成「品牌」（商标义），把任务名的核心意思换成了完全不相干的词。",
+      "fix": "一个特殊的烙印",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_AWinningSeason_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Dare to dream, right? 是「（指望死爪干掉教练）想想总可以吧」的调侃，说的是说话人的愿望。ZH 写成「它还真的做得出来！」，变成对死爪能力的断言（它做得出这种事），把一个自我调侃的假设句改成了事实判断。",
+      "fix": "据说一只凶猛的领头死爪占领了一幢旧的办公楼。也许它杀了教练！想想总可以吧？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ASettlerNeedsYourHelp_QuestShortDescription",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "同一条任务的目标（QuestObjective_1）是「在肯德尔医院找到普雷斯顿·加维」，EN 短描述也是祈使句 Find…。ZH 短描述写成完成态「在肯德尔医院找到了普雷斯顿·加维。」，任务卡上会出现「已经找到」与未完成的目标自相矛盾的说法；本批其它短描述（如「在红火箭加油站里寻找零件」）也都不用完成态。",
+      "fix": "在肯德尔医院找到普雷斯顿·加维。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ASpecialBrand_Conversation_2_NPCStart_2",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "Your boy Jack 是口语里的「你们那位杰克／你们家那小子」，ZH 译成「你们的孩子杰克」，变成了亲属称谓。本任务长描述写明 Jack 是监督者的儿子（He's the Overseer's son），玩家看到「你们的孩子」会误以为杰克是主角们的孩子。",
+      "fix": "你们家那小子杰克今早醒来的时候，看上去可不怎么高兴。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_AWinningSeason_Conversation_1_NPCStart_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 是「地上又有一张字条（note）」，紧接着的几句正是字条内容。ZH 把 note 译成「记号」（mark/sign），玩家会以为是墙上或地上画的标记。项目内其它同源文本都按字条/留言处理（chunk_041「地上写了什么？」、chunk_052「又是一张字条」、chunk_019「又有一条消息」），此处不一致。",
+      "fix": "地上又有一张字条！让我猜猜：是教练写的……",
+      "confidence": "high"
+    }
+  ]
+}

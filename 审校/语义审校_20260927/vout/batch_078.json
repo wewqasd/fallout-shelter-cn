@@ -1,0 +1,110 @@
+{
+ "batch": 78,
+ "items": [
+  {
+   "key": "QuestLoc_TheCatBurglar_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Here 是递物时的语气词（ES Tened、DE Hier, nehmt das），译成方位词「这里」；同段 NPCEnd_1/2 都作「来，」。",
+   "final_fix": "你是来装饰帽子的？给，这个拿去用吧。"
+  },
+  {
+   "key": "QuestLoc_TheCatBurglar_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Well 硬译成「这个」，又凭空多出「这只」，指代无着落、句子读不通；purrrfect 的猫呼噜双关（RU пр-р-росто）全丢。",
+   "final_fix": "好吧，这可真是完喵无缺……"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCEnd_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "of play 指玩游戏（IT giocare per tre minuti buoni），不是体育的「上场时间」；solid（整整）也漏译。",
+   "final_fix": "别担心，在那之前你应该还能玩上整整三分钟。"
+  },
+  {
+   "key": "QuestLoc_TheEndoftheRainbow_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Fierce weather we're havin' 是随口抱怨（RU Ну и погодка），「正在经历可怕的天气」写成书面报告腔。",
+   "final_fix": "这天气可真够呛……"
+  },
+  {
+   "key": "QuestLoc_TheGreatAmericanPastime_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "darjeeling 是具体茶名（RU 作 дарджилингом），ZH 泛化成「茶水」，讲究茶与棒球衫的反差被抹平。",
+   "final_fix": "好吧，教练并不在运动酒吧里。也许他是个禁酒主义者。他最好不要把大吉岭茶洒在那件棒球衫上。该继续寻找了……"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Everyone's a critic 是「谁都要挑刺」（ES le da por criticar），逐字译「一个批评家」是机翻腔。",
+   "final_fix": "人人都爱挑刺。"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "句首 So! 是感叹词「那么/这么说」（RU Итак!），译成因果连词「所以！」在中文里无前因可承。",
+   "final_fix": "那么！你发现了我的藏身之处！666号避难所！我是……"
+  },
+  {
+   "key": "QuestLoc_TheNightWatch_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Somethin' 是不明之物（ES Algo、DE Irgendwas），译成「有人」坐实为人；口语 stealin' 却译作书面「窃取」。",
+   "final_fix": "有什么东西正从地底下偷红果！"
+  },
+  {
+   "key": "QuestLoc_TheReluctantShill_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "point us to him 即「告诉我们他在哪儿」（FR nous indiquer où il se trouve）；「指给我们他在哪儿」搭配不通。",
+   "final_fix": "你能告诉我们他在哪儿吗？"
+  },
+  {
+   "key": "QuestLoc_TheScenicRoute_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Wasteland 与 in the distance 均漏译；「看上去像是，有人，或者有东西」照搬英文逗号，lurking 也弱化成「藏在里面」。",
+   "final_fix": "一位眼尖的废土探险者在远处发现了一处孤零零的小屋。看来里面藏着什么人，或者什么东西。"
+  },
+  {
+   "key": "QuestLoc_TheScorpionKing_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "set me back years 是「让我倒退好几年」（FR retour à la case départ），「回到解放前」把中国近现代史梗塞进废土对白。",
+   "final_fix": "现在你们害得我几年的心血全白费了！"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "far-reaching 修饰阴谋应作「影响深远/牵扯甚广」（ES de gran alcance），「深远的阴谋」搭配不成立。",
+   "final_fix": "揭露一个影响深远的阴谋。"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "You've been warned! 是主动威胁（DE Wir haben euch gewarnt!），被动式「你已经被警告」读着像系统提示。",
+   "final_fix": "我已经警告过你了！"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Just to be sure 的确认口气丢失，只留下 you realize＝「你知道」；figure of speech 说成「一个修辞」搭配不通。",
+   "final_fix": "先确认一下，你明白那只是个比喻，对吧？"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "before E-Ster arrives 是时间状语，中文须前置为「在复活节到来之前阻止……」；句尾逗号断句是英文语序。",
+   "final_fix": "你必须在复活节到来之前阻止神父阿尔瓦拉多的计划。"
+  }
+ ]
+}

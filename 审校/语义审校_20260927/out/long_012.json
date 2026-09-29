@@ -1,0 +1,119 @@
+{
+  "chunk": "long_012",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_1",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 后两句「Please. Take care of that beast before it kills again!」在 ZH 里完全没有对应，译文到「它还在避难所更深处。」就结束了。玩家看不到「去解决那头野兽」这一行动要求，before it kills again（趁它还没再杀人）这层紧迫限定也一并丢失。",
+      "fix": "哦，谢天谢地！上次有人见到它时，它还在避难所更深处。求你了，在它再次杀人之前解决掉那头野兽！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheSixthSun_QuestLongDescription",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 第二句「We'll send a team to rescue him, then inform Confessor Alvarado if and when we've brought him back to safety.」整句未译，ZH 只有「我们认为失踪的教会见习信徒威尔修士可能被附近一帮掠夺者绑架了。」；派队营救的安排、以及要通报的人物 Confessor Alvarado（神父阿尔瓦拉多，后文多处出现）全部丢失，玩家不知道救人之后该做什么。",
+      "fix": "我们认为失踪的教会见习信徒威尔修士可能被附近一帮掠夺者绑架了。我们会派一队人去救他，等我们把他平安带回来后，再通知神父阿尔瓦拉多。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheresnoCryinginBaseball_QuestLongDescription",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 后两句「Maybe Coach went there to resupply. Off we go.」在 ZH 中完全没有对应，只译了「有一家旧的“五金小镇”商店我们还没去看过。」；「教练可能去那里补给」这条线索推理和「出发」的行动指令都丢了，任务动机与下一步都没了着落。",
+      "fix": "有一家旧的“五金小镇”商店我们还没去看过。也许教练去那里补给物资了。我们出发吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "EN 末句「Please, help me out here!」只是「求求你，帮帮我」，ZH 译成「求求你们，快救我出去！」，凭空添加了原文没有的「救我出去」这一营救要求，玩家会以为需要把这名 NPC 带出建筑；同段「it's living somewhere in the building」的 somewhere（住在这栋楼的某处）也被改写成断言式的「一定是这栋楼里的生物」。",
+      "fix": "你！你是来这里帮忙的是吗？听着，不是我干的。不管是谁偷了他们的食物，它肯定就住在这栋楼里的某个地方。而且听起来很凶！求求你们，帮帮我！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheMissingMitt_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 末句「So go.」在 ZH 里完全没有对应（译文到「我只想拿回我的手套。」就结束），催促玩家去办事的收尾整句丢失；同句「Now, I ain't looking for an interrogation」是「我不是要审问谁／我不想搞什么审问」，ZH 译作「我不指望有什么审讯」，把说话人的态度写成了另一回事。",
+      "fix": "因为附近也没有其他人。听着，我不是要审问谁。我只想拿回我的手套。所以快去吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheFinalHunt_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「become the Wasteland's number one big game hunter」中的 big game hunter 是「大型猎物猎手／狩猎好手」，ZH 译成「废土第一名的杀手」，把狩猎比赛说成了杀人；同句「Big Wes is calling you out!」的 call out 是「向你叫板／下战书」，ZH「在呼唤你」也丢掉了挑战意味。",
+      "fix": "大维斯在向你叫板！是时候把他拉下马，成为废土第一的大型猎物猎手了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheTailContinues_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 首句「They're a couple of tough cookies.」整句未译，ZH 直接从「我打赌莎莉……」开始；「这两个家伙不好对付」的敌情提示丢失，玩家少了难度预警。",
+      "fix": "他们可是两个难缠的家伙。我打赌莎莉很可能会躲进314号避难所。那地方已废弃，千万小心！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「thinks it isn't a disease」说的是「认为这不是疾病」，ZH 译成「认为这可能不是单纯的虫灾」，把 disease（疾病）换成了「虫灾」，还多出原文没有的「可能」和「单纯」；后半「They have an alternate theory...」是「他们另有一套理论」，ZH 改成「一定有其他的原因……」，把「他们持有另一套理论」这一信息抹掉，只剩下叙述者的断言。「off yonder」（在那边）也未译出。",
+      "fix": "那边有个研究所里的一群人认为这不是疾病。他们另有一套理论……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheThinlyVeiledPlotThickens_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「he comes here to get updates on supplies and treasure to bring back to the Editor」是他来这里「获取／听取物资和宝物的最新消息（情报）」，ZH 译成「来到了这里搜刮物资和宝物并带回给编辑」，把「听取情报」改成了「搜刮物资」，人物来此的目的被说成了另一回事。",
+      "fix": "他拜访完罗伯科工厂的定居者之后，会来这里获取物资和宝物的最新消息，再带回给编辑。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheYolksonYou_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN「The chef never ceases to be amazed by your uncanny ability to escape death」中 never ceases（总是／屡屡）与 uncanny（不可思议的）两个限定都没有译出，只剩「表示惊讶」；同句「he wants to celebrate it with a Radscorpion egg omelet」的宾语 it（你死里逃生这件事）在 ZH 里落空，「他想用辐射蝎蛋卷来庆祝。」读起来缺成分。",
+      "fix": "大厨对你那不可思议的死里逃生本领总是惊叹不已，他想用一份辐射蝎蛋卷来庆祝一下。923号避难所最近被这些家伙侵占了，不妨就从那里开始吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheShadowWolf_Conversation_1_NPCStart_3",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "EN「He lives in that factory, training his “pretties.”」的主语是人（he／his），ZH 写成「训练它的“小可爱”们」，用「它」指人，紧接着下一句又用「它们」指那些「小可爱」，两处代词混用，读者分不清「它」指人还是指鼹鼠。",
+      "fix": "他住在那个工厂里，训练他的“小可爱”们。那个疯子把它们当自己的孩子。我看他脑子不太正常。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheScenicRoute_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN「A keen-eyed Wasteland explorer has spotted a lonely cabin in the distance」里 Wasteland（废土）与 in the distance（在远处）都没译出，只剩「一位眼尖的探险者发现了一处孤零零的小屋」（同类句 QuestLoc_TheScenicRoute_QuestLongDescription_LA 就作「一位眼尖的废土探险家在远处发现了……」）；后半「看上去像是，有人，或者有东西藏在里面。」在「像是」后直接断开，中文不成句，lurking（潜伏）也被换成「藏在里面」。",
+      "fix": "一位眼尖的废土探险者在远处发现了一处孤零零的小屋。看来里面潜伏着什么人或什么生物。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheGreatAmericanPastime_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN「He'd better not spill any darjeeling on that Jersey!」中的 darjeeling 是大吉岭茶这一具体茶名，ZH 泛化成「茶水」，具体名物丢失（这位可能不喝酒的教练端着一杯讲究的大吉岭，笑点正在于茶与棒球衫的反差）。",
+      "fix": "好吧，教练并不在运动酒吧里。也许他是个禁酒主义者。他最好不要把大吉岭茶洒在那件棒球衫上。该继续寻找了……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ThrowMeSomePepper_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN「an old apartment complex」是「一栋旧公寓楼／公寓小区」，ZH 译成「一幢旧的复式公寓」，复式（duplex／跃层户型）这层原文并不存在的信息被加了进去，建筑类型被改写。",
+      "fix": "一些掠夺者占领了一幢旧的公寓大楼。也许这些混蛋们知道教练这个混蛋在哪儿。问问也无妨！",
+      "confidence": "medium"
+    }
+  ]
+}

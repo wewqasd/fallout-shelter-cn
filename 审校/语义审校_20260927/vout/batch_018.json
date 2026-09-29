@@ -1,0 +1,110 @@
+{
+ "batch": 18,
+ "items": [
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 大写 Nemesis 的 mantle of 比喻，ZH 直译保留同一形象且可读；西/法译本同样保留 Némesis 专名，德/俄仅为改写意译。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "because of 后只有名词短语，「因为那些小壳里所包含的巨大力量」无谓语，成分残缺不成句。",
+   "final_fix": "死爪蛋最了不起，因为小小的壳里蕴藏着巨大的力量。"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Never mind that 是「别管那个」，ZH 译成道歉语「请别介意」；Just find some eggs 是祈使句，ZH 作陈述句「只是找一些蛋」。",
+   "final_fix": "哦，对了，那个……别管那个了，快去找些蛋吧。"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Any luck finding 的「有没有找到」义丢失；「找到那些死爪蛋吗」缺完成体「了」，中文疑问句不能这样收尾。",
+   "final_fix": "那些死爪蛋有收获吗？"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "It's tough 直译「这是很难的」生硬；protective 指护蛋护巢，ZH「很会保护自己」理解成自保，方向偏。",
+   "final_fix": "很难办，这些家伙护得很紧。"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "it turned out to be 指那颗蛋，ZH 却用「他们」指代物品，人称代词误用，易被读成一群人。",
+   "final_fix": "我以为我找到了，结果那其实是某种大炸弹？"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Learn more about 落成「了解更多有关」，后面缺中心语（…的信息），搭配残缺，但意思尚可解。",
+   "final_fix": "进一步了解那枚所谓的核弹。"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Find out more about 同样只译成「了解更多有关」，缺中心语，about 的宾语没落地。",
+   "final_fix": "弄清那枚所谓的核弹的底细。"
+  },
+  {
+   "key": "QuestLoc_ESterisComing_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Brother 是教会头衔（同任务作「威尔修士」），ZH 译「兄弟」且把译者注「（修士）」留在上线文本，Sister 又作「修女」。",
+   "final_fix": "我是萨德思修士，这位是奥利维亚修女。"
+  },
+  {
+   "key": "QuestLoc_ESterisComing_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Is it me 是「是我多心」，ZH「是我的问题」成了自责；missing Brother 特指失踪的威尔修士，ZH「兄弟」丢了头衔与特指。",
+   "final_fix": "是我多心，还是他们一提起失踪的那位修士就不自在？"
+  },
+  {
+   "key": "QuestLoc_EvictionNotice_Question3_Choice3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "too smelly 是「太臭」，ZH「身上有点味儿」把程度削成委婉语；各语种均保留「臭/难闻」的强度。",
+   "final_fix": "不得不说……你们一个个也太臭了。"
+  },
+  {
+   "key": "QuestLoc_ExpressCheckout_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Nah 是否认上句「那些尸鬼是你朋友吗」，ZH「不用了」成了拒绝馈赠；Say 是「话说」，ZH「你是说」把赠予变成反问。",
+   "final_fix": "没，我只是碰巧撞上他们了。话说，这个你要不要？"
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "he is 承接上文「迈克已死」，ZH「他是」缺谓语不成句；Good ol' Mike 是昵称「老迈克」，ZH「好人迈克」义偏。",
+   "final_fix": "哦，对，他确实死了。嘿嘿。老迈克啊。"
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "上句问 You know who I'm talking about，do 代替 know，ZH「我当然会」答成意愿，与下句「他就在那边」脱节。",
+   "final_fix": "我当然知道！他……呃……他就在那边，你看！"
+  },
+  {
+   "key": "QuestLoc_FactoryFloorofFear_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I'll go find out 的「去查明」丢了，ZH「了结之后再说」只剩延后再说；Nope 单译「没」也不成话。",
+   "final_fix": "不知道，等我收拾完你再去弄清楚！"
+  }
+ ]
+}

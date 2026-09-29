@@ -1,0 +1,39 @@
+{
+  "chunk": "067",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Speech_Conversation_NPC2_Topic1_Response3",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "上一句是“待会儿来玩牌吧？”，原文笑点在 solitaire（单人纸牌/接龙）：嘴上说“不，谢了”，转头去玩另一种纸牌。译文把游戏名整个丢掉，只剩“我还是一个人吧”，而“一个人”在中文里更常指单身，跟“玩牌”接不上，读者会以为在说感情状况。",
+      "fix": "不，谢了。我还是自己玩单人纸牌吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic25_Response1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "原文是 chess。中文里单说“象棋”默认指中国象棋，是规则完全不同的另一种棋；避难所是美国背景，人物不可能在下中国象棋，此处应为“国际象棋”。",
+      "fix": "跳棋？我们才十岁吗？我们还是下国际象棋吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic42_Response2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "lover not a fighter 是英语习语，意思是“宁可谈情，不爱动手”。直译成“比起当战士，我更适合当爱人”后，“爱人”在中文里主要指配偶/伴侣，“适合当爱人”这个搭配也很别扭，读起来像在说自己更适合结婚，既生硬又出戏。",
+      "fix": "是……是啊……你看，我更愿意谈情说爱，不想打打杀杀。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic54_Response2",
+      "severity": "S2",
+      "type": "数字",
+      "problem": "同批的谜面（Speech_Conversation_NPC1_Topic54）写的是“三个字”，NPC 最后给出的正确答案也是三字的“避难所”，但这里三个猜测“苦大仇深”“水深火热”“叫苦连天”全是四字成语，字数与谜面自相矛盾。原文 Bigot/Theft/Yeast 都是五个字母、以 t 结尾，格式与谜面吻合、只是词义猜错，笑话才成立；译文变成了“意思对、格式错”。",
+      "fix": "这还不简单。“偏执狂”？不对，等等——“盗窃案”！“酵母菌”？",
+      "confidence": "medium"
+    }
+  ]
+}

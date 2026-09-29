@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer1	Not a chance. You must have awful friends if you want me around.	门都没有。你要是想要我留下，那你朋友肯定很糟糕。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer2	They might be, honestly. At least Synths will be polite when they stab you in the back.	也许吧，说实话。至少合成人在背后捅你刀时还会彬彬有礼。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Choice0	Just shut up and go away.	闭嘴滚开。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Choice1	We're fated to be together. Come live with us!	我们注定在一起。来跟我们住吧！
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Choice2	Isn't the Brotherhood worse than Synths?	兄弟会难道不比合成人更坏吗？
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line2	Yes, I'm a prisoner. I think they thought I was really weird for hanging out with Radscorpions.	没错，我是囚犯。我想他们觉得我跟辐射蝎混在一起太怪了。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line3	You have an annoying look on your face, like you're here to rescue me.	你脸上带着一副烦人的表情，像要救我出去似的。
+QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line4	And you're rescuing other Synths. You're not even trying to hide it anymore.	而且你还在救别的合成人。你连装都不装了。
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1	Vault Dwellers. You're so passionate about “Synth rights”, and you don't even understand.	避难所居民。你们对“合成人权利”如此热衷，却根本不懂。
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Answer0	Too bad you won't live to tell your Overseer!	可惜你活不到回去向你监督者汇报的那天了！
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Answer1	They will eat you from the inside out!	它们会从里到外把你啃掉！
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Answer2	You're just proving my point. They are too dangerous! And so are you!	你正好证明了我说得对。它们太危险了！你们也是！
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Choice0	Are you saying there are Synths in our Vault?	你是说我们避难所里有合成人？
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Choice1	We'll deal with the Institute. After this.	我们会对付学院的。这事之后再说。
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line1_Choice2	Synths have human DNA, so that wouldn't even work.	合成人有人的DNA，所以那套根本行不通。
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line2	When's the last time you did a DNA test of everyone in your Vault?	你上次给避难所里所有人做DNA测试是什么时候？
+QuestLoc_INS_QL3_Betrayal_3_Room8_Question_Line3	If you did, you'd realize the Institute is far more clever than you are.	要是做了，你就会明白学院比你聪明得多。
+QuestLoc_INS_QL3_Betrayal_4_CombatInit2	There they are! Get them!	他们在那儿！抓住他们！
+QuestLoc_INS_QL3_Betrayal_4_CombatInit5	No one makes a fool of the Brotherhood!	没人能耍弄兄弟会！
+QuestLoc_INS_QL3_Betrayal_4_QuestLongDesc	The Brotherhood did us dirty. Now it's time for some real payback. We've lured Elder Maxson and his entourage into a trap, ready for you to spring.	兄弟会坑了我们。现在该好好回敬他们了。我们已经把麦克森长老和他的随从引入陷阱，就等你们来收网了。
+QuestLoc_INS_QL3_Betrayal_4_QuestName	Steelhead Fishing	钓钢鳟
+QuestLoc_INS_QL3_Betrayal_4_QuestObjective1	Find Arthur Maxson	找到亚瑟·麦克森
+QuestLoc_INS_QL3_Betrayal_4_QuestShortDesc	Deal with Elder Maxson, who fell into our trap.	对付落入我们陷阱的麦克森长老。
+QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line1	Hey, we did it!	嘿，我们做到了！
+QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line2	Feels like every time there's a trap, we're the ones walking into it.	感觉每次设陷阱，走进去的都是我们自己。
+QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line3	But now, the Brotherhood is in OUR trap.	但现在，是兄弟会进了我们的陷阱。
+QuestLoc_INS_QL3_Betrayal_4_Room0_Question_Line4	What a time to be alive. Let's show Maxson what we're made of.	这年头可真是好时节。让麦克森见识见识我们的本事。
+QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1	Vault Dwellers? Are you with the Synths that were supposed to be in the building?	避难所居民？你们跟那些本该在这栋楼里的合成人是一伙的？
+QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1_Answer0	Augh! We've been duped!	啊！我们被骗了！
+QuestLoc_INS_QL3_Betrayal_4_Room1_Question_Line1_Choice0	There are no Synths, fool. This is a trap!	哪有什么合成人，蠢货。这是个陷阱！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1	I can't believe we fell for this stupid trap!	真不敢相信我们竟上了这个蠢陷阱的当！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Answer0	That's just what they want you to think!	这正是他们想让你这么想的！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Answer1	You're not gonna kick mine!	你休想踢我的屁股！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Answer2	Keep your dirty science to yourself!	把你那肮脏的科学留给自己吧！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Choice0	Synths are just like us. Didn't ask to be here.	合成人跟我们一样。没谁是自己想来的。
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Choice1	I'm not here to understand. I'm here to kick butt.	我不是来理解的。我是来揍人的。
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Choice2	As a scientist, I'm offended by your ignorance.	作为一名科学家，我对你的无知感到愤慨。
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line2	And you… helping Synths, getting involved with those Railroad idiots…	而你们……帮助合成人，跟那些铁路白痴搅在一起……
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line3	You don't understand the Synths! They're like ticking time bombs!	你们不了解合成人！它们就像定时炸弹！
+QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line4	And they're all going to explode at once! All over the Commonwealth!	而且它们会同时引爆！遍布整个联邦！
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1	What's going on? Why is the Brotherhood of Steel attacking our town?	怎么回事？钢铁兄弟会为什么要袭击我们的镇子？
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Answer0	Well, it's not! Yeesh. I hope you're going to clean up after yourselves.	呃，这儿可没废弃！啧。希望你们能收拾好自己留下的烂摊子。
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Answer1	Real mercenary, aren't you? I suppose I should say thanks…	可真够雇佣兵的。我想我该说声谢谢……
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Answer2	S-Synths? Here? What would a Synth be doing here? Here, take this and forget you saw me.	合，合成人？在这儿？合成人来这儿干什么？给，拿着这个，就当没见过我。
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Choice0	That's our fault. Thought it was abandoned.	那是我们的错。以为这地方废弃了。
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Choice1	I don't know, but we're stopping them. Pay up.	我不知道，但我们在阻止他们。拿钱来。
+QuestLoc_INS_QL3_Betrayal_4_Room4_Question_Line1_Choice2	They're probably looking for Synths.	他们大概在找合成人。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1	So, the Institute really has got their claws in you.	看来学院真的把你们攥在手里了。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Answer0	For all you know, I could be a Synth. Then who are you serving?	说不定，我就可能是合成人。那你效忠的又是谁？
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Answer1	Your gut is hopeless. What about me? Do you think I'm a Synth?	你的直觉不可救药。那我呢？你觉得我是合成人吗？
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Answer2	Of course. They're so convincing, even I could be a Synth!	那当然。它们装得太像了，连我都可能是合成人！
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Choice0	You are so eager to make enemies. And here's the price.	你太急于树敌了。这就是代价。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Choice1	Hey, I'm just going with my gut.	嘿，我只是凭直觉行事。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line1_Choice2	Actually, Synths are pretty warm.	其实，合成人还挺温暖的。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line2	And from your faces, I can see you don't even know it yet.	而且从你们的脸上我能看出，你们还不知道这件事。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line3	Some of you have been replaced by cold, cruel machines. Maybe even you.	你们中的一些人已经被冰冷残忍的机器替换了。甚至可能是你。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line4	Before you know it, there will be no humans left in the Commonwealth.	用不了多久，联邦就不会再有真正的人类了。
+QuestLoc_INS_QL3_Betrayal_4_Room6_Question_Line5	And it will be because of you.	而那都是因为你们。
+QuestLoc_INS_QL3_Betrayal_QuestLineName	Betrayal of Steel	钢铁背叛
+QuestLoc_INS_QL4_Armistice_1_CombatInit4	Of course it's a Mole rat broodmother on the loose! Just our luck.	果然，跑出来的是一只鼹鼠育母！我们真是够倒霉的。
+QuestLoc_INS_QL4_Armistice_1_QuestLongDesc	The Institute has reached out with a ceasefire and seeks a parley. Can there be peace between us?	学院主动提出停火，想和谈。我们之间能有和平吗？
+QuestLoc_INS_QL4_Armistice_1_QuestName	Truce	停战
+QuestLoc_INS_QL4_Armistice_1_QuestObjective1	Meet with the Institute leaders	与学院领导层会面
+QuestLoc_INS_QL4_Armistice_1_QuestObjective2	Attend to a science project	照料一个科学项目
+QuestLoc_INS_QL4_Armistice_1_QuestObjective3	Find an escaped creature	找到一只逃跑的生物
+QuestLoc_INS_QL4_Armistice_1_QuestShortDesc	The Institute wants to parley. We want a truce.	学院想和谈。我们想要停战。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1	Welcome to the Institute.	欢迎来到学院。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Answer0	We are unarmed as a sign of faith. If we thought you cruel, we wouldn't have invited you.	我们徒手赴会，以示诚意。如果我们觉得你们残忍，就不会邀请你们了。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Answer1	Glad to hear it. Please enjoy your visit.	很高兴听你这么说。请尽情参观。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Answer2	As you should. Blood was spilled on both sides. Starting anew will take mending.	理应如此。双方都流过血。重新开始，得慢慢弥合。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Choice0	Hopefully you prove trustworthy, or we might start shooting.	希望你们值得信任，否则我们可要开火了。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Choice1	Our hearts long for peace as well. That is why we came in good faith.	我们内心也渴望和平。所以我们才怀着诚意前来。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line1_Choice2	You piqued our curiousity. Still, we reserve judgment... for now.	你们勾起了我们的好奇。不过，我们暂不表态……至少眼下是。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line2	Thank you for accepting the truce.	感谢你们接受停战。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line3	We chose this place, one of our earliest research sites, to showcase who we are.	我们选择了这里——我们最早的研究据点之一，来向你们展示我们的真实面貌。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line4	We hope this shared understanding leads to lasting peace.	我们希望这种相互理解能带来持久的和平。
+QuestLoc_INS_QL4_Armistice_1_Room0_Question_Line5	Feel free to wander and meet the staff. Our leader awaits deeper inside.	请随意走走，见见我们的工作人员。我们的首领在更深处等候。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1	Ah, the visitors! Always nice to see new faces.	啊，访客们！见到新面孔总是让人高兴。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Answer0	I had a feeling. I wrapped them in a proper welcome basket for you.	我就知道。已经把它们包进一份像样的欢迎礼篮了。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Answer1	Now you're speaking my language. Nothing beats a good pew-pew.	这下你终于说到点子上了。没有什么比得上一阵噼噼啪啪的枪声。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Answer2	Already printing the schematics.	已经开始打印图纸了。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Answer3	<Nervous laugh> People might start thinking you're a Synth...	<紧张地笑> 人们怕是要以为你是合成人了……
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Choice0	You already know what we want: more Fusion Cores.	你已经知道我们要什么：更多聚变核心。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Choice1	For peace to last, we need equal strength. Weapons.	要让和平持久，我们需要对等的武力。武器。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Choice2	You're a bunch of scientists, right? Maybe share some technology.	你们是一群科学家，对吧？分享点技术吧。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line1_Choice3	I like what you're wearing. Got extras lying around?	我喜欢你穿的衣服。还有多余的吗？
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line2	This room may not look like it, but it's a store.	这房间看着不像，但它是个商店。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line3	Your Overseer already arranged payment.	你们的监督者已经安排好付款了。
+QuestLoc_INS_QL4_Armistice_1_Room1_Question_Line4	So go ahead, take your pick.	所以，请自便，随便挑。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1	I'm so excited to meet Vault Dwellers. Allow me to show you my experiment!	能见到避难所居民，我太兴奋了！请允许我展示一下我的实验！
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer0	Oh! No fun at all. I wouldn't hurt you. Not permanently, at least.	哦！真没劲。我不会伤害你的。至少不会造成永久伤害。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer1	Here we go... ... ... Fascinating data. Months of analysis ahead. Here, for the trouble.	这就开始啦……这数据妙极了。接下来几个月有得分析了。给，这是你的辛苦费。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer2	I'm not. No one believes in my work. Any chance you do? No? Bummer.	我才不是呢。没人相信我的研究。你有哪怕一丝可能相信我吗？没有？真扫兴。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer3	But science waits for no man! Oh, alright. I can be patient. ... ... How about now?	但科学不等人！噢，好吧。我可以保持耐心。……那现在可以了吗？
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Choice0	Try it and die.	试试看你就死定了。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Choice1	Sure, go ahead!	好啊，请便！
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Choice2	You don't sound like your typical Institute scientist.	你听起来不像典型的学院科学家。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Choice3	Too soon, friend.. We can't trust you yet.	还太早，朋友……我们还没法信任你们。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line2	My neutrino bombardment mega-grid lacing is ready. Invisible. Harmless.	我的中微子轰击巨型网格编织层已经准备好了。看不见，也无害。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line3	Using it on you will show exactly by how much radiation has shortened your lifespan.	在你身上用一下，就能精确显示辐射让你的寿命缩短了多少。
+QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line4	Just hold still...	站好别动……
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1	Good timing. Your presence, I mean.	来得正好。我是说，你们能来真是太好了。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Answer0	Thank you. Our research could one day restore the whole wide world.	谢谢。我们的研究有朝一日或许能修复整个世界。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Answer1	I see. You're the nonchalant type. Let's hope no one gets eaten.	我明白了。你们是那种漫不经心的人。但愿没人被吃掉。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Answer2	I didn't expect a mess. My apologies. You still use Caps, right? Perhaps this helps?	我可没料到会出乱子。抱歉。你们还用瓶盖，对吧？也许这个能帮上忙？
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Choice0	In the spirit of our budding friendship, I'll help.	本着我们这份刚萌芽的友谊，我来帮忙。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Choice1	Hmph. If we feel like it.	哼。要是我们乐意的话。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line1_Choice2	We're not here to clean up your mess.	我们不是来收拾你的烂摊子的。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line2	Well... good might be overstating it.	嗯……说好可能过头了。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line3	I was meant to show our work restoring local fauna, but our test subject escaped.	我本想展示我们复原本地野生动物的工作，但试验体跑了。
+QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line4	It was pregnant, so if you could... retrieve the body at least? We were told not to carry weapons.	它怀了孕，所以如果你能……至少把尸体带回来？我们被告知不能带武器。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1	Visitors! Hi! I manage our communications arrays.	访客！嗨！我负责管理我们的通讯阵列。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Answer0	Possible. They proved more capable than I expected for non-Institute folks.	有可能。对于非学院的人来说，他们表现出的能力超出了我的预期。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Answer1	Ah! Very funny. So you truly don't know either...	啊！真有趣。所以你们其实也不知道……
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Answer2	No implication intended. Ironically, communication isn't my strength. We'll figure it out.	没有暗示你的意思。讽刺的是，沟通恰恰不是我的强项。我们会查清楚的。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Choice0	Maybe the Brotherhood returned the favor after you sabotaged their array.	也许是兄弟会在你们破坏他们的阵列后，以牙还牙。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Choice1	That's how dangerous we are. Tread carefully.	我们就是这么危险。你们最好小心点。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Choice2	I'm not sure I like your implication.	我不太喜欢你的暗示。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line2	I'll spare you the technobabble, but it's among the most advanced tech out there.	我就不跟你讲那些科技黑话了，总之这是世上最先进的科技之一。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line3	It's securely encrypted. So only us with our codes can use it.	它经过了严密加密，所以只有持有我们代码的人才能使用。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line4	It has its limit. Lately, we've lost contact with many field units.	它也有局限。最近，我们跟许多外勤单位失去了联系。
+QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line5	You wouldn't know anything about that, would you?	这件事，你们该不会知道些什么吧？
+QuestLoc_INS_QL4_Armistice_1_Room6_Question_Line1	I can't shake the feeling that this is all staged for us.	我总觉得这一切都是为我们布置的。
+QuestLoc_INS_QL4_Armistice_1_Room6_Question_Line2	Are we really going to trust their word?	我们真的打算相信他们的话吗？
+QuestLoc_INS_QL4_Armistice_1_Room6_Question_Line3	Then again... this may be our last chance at peace.	话又说回来……这也许是我们最后的和平机会。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1	Representative of the Overseer, it's a pleasure to meet you.	监督者的代表，见到你很高兴。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Answer0	Excellent. I hope we meet again to forge a more permanent accord.	太好了。希望我们能再见面，缔结一份更持久的协定。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Answer1	I hope this seed of trust grows to blossom into a profound friendship.	我希望这颗信任的种子能发芽，绽放出深厚的友谊。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Answer3	I'd be inclined to say the same, but in a more diplomatic way. So be it.	我也想说同样的话，只是措辞会更客套些。那就这样吧。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Choice0	We'll sign. Time will tell if it holds.	我们会签约。时间会证明它能否维系。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Choice1	The tour did not impress. But at least you didn't try to kill us.	这次参观没让我印象深刻。但至少你们没试图杀我们。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Choice2	I do not like you. I'm only signing because the Overseer orders it.	我不喜欢你们。我签约只是因为监督者下令。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line1_Choice3	This deal is void the minute you guys get in our way. Remember that.	一旦你们挡了我们的道，这份协议立刻作废。记住这一点。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line2	How was your tour? Not our most advanced site, but my favorite.	你们的参观怎么样？这里不是我们最先进的据点，但却是我的最爱。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line3	To business: I propose a treaty of de-escalation, if you agree.	说正事：我提议缔结一项缓和冲突的条约，如果你们同意的话。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line4	A foundation for a future without violence between us.	为我们之间无暴力的未来奠定基础。
+QuestLoc_INS_QL4_Armistice_1_Room7_Question_Line5	Along with it, we offer our best resources.	随条约一并奉上我们最好的资源。
+QuestLoc_INS_QL4_Armistice_2_CombatInit1	Ghouls? The rads made their way to the Institute in the end!	尸鬼？辐射终究还是渗进了学院！
+QuestLoc_INS_QL4_Armistice_2_QuestLongDesc	To test the Institute's claim of peace, we're sending a team to an abandoned lab to tap their comms network.	为了检验学院关于和平的说法，我们派一支队伍前往一座废弃实验室，窃听他们的通讯网络。
+QuestLoc_INS_QL4_Armistice_2_QuestName	Fake Out	虚晃一枪
+QuestLoc_INS_QL4_Armistice_2_QuestObjective1	Find the communication codes.	找到通讯代码。
+QuestLoc_INS_QL4_Armistice_2_QuestShortDesc	We can access the Institute's communications from an abandoned lab.	我们可以在废弃实验室里接入学院的通讯。
+QuestLoc_INS_QL4_Armistice_2_Room0_Question_Line1	As much as the Overseer wants peace with the Institute, we need guarantees.	无论监督者多想与学院讲和，我们都需要保障。
+QuestLoc_INS_QL4_Armistice_2_Room0_Question_Line2	Our allies said this place has the code to let us listen in on Synth-maker chatter.	我们的盟友说这地方有代码，能让我们窃听合成人制造者的通话。
+QuestLoc_INS_QL4_Armistice_2_Room0_Question_Line3	If they're trying to snow us, we'll know.	如果他们想糊弄我们，我们会知道的。
+QuestLoc_INS_QL4_Armistice_2_Room1_Question_Line1	<Scrambled Noises>	<受干扰的杂音>
+QuestLoc_INS_QL4_Armistice_2_Room1_Question_Line1_Choice0	What's wrong with those tin men? Left behind to rust, like the rest of this place? Looks like they still have some fight left.	那些铁皮人怎么了？被丢在这儿生锈，跟这地方的其他东西一样？看来它们还有几分战斗力。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1	Oh! This is awkward. Guess my secret getaway spot's blown.	哦！真尴尬。看来我的秘密藏身处暴露了。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Answer0	I thought you were the good guys!	我还以为你们是好人！
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Answer1	I suppose I should thank you, whoever you are.	我想我该谢谢你们，不管你们是谁。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Answer2	Well, I was thinking of defecting so that works.	嗯，我正考虑叛逃，所以这样也行。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Choice0	Are you the real Liam? No, you can't be. I… I have to end you.	你是真正的利亚姆吗？不，你不可能是。我……我必须终结你。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Choice1	Let's just forget we saw each other. Get out of here. No need for violence.	就当咱俩没见过。离开这里。不必动武。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line1_Choice2	Is the Institute messing with us? Two Liams? You're coming with us so we can keep an eye on you.	学院在耍我们？两个利亚姆？你得跟我们走，让我们盯着你。
+QuestLoc_INS_QL4_Armistice_2_Room4_Question_Line2	Why are you here? I'm really confused by what I'm seeing now.	你们怎么会在这儿？我现在看到的一切真让我摸不着头脑。
+QuestLoc_INS_QL4_Armistice_2_Room5_Question_Line1	Here's the communications terminal.	通讯终端在这儿。
+QuestLoc_INS_QL4_Armistice_2_Room5_Question_Line2	Let's mastermind the password…	我们来破解密码……
+QuestLoc_INS_QL4_Armistice_2_Room5_Question_Line3	Jackpot. With these codes, we can access the logs between coursers and leadership.	中奖了。有了这些代码，我们就能访问追猎者和领导层之间的日志。
+QuestLoc_INS_QL4_Armistice_2_Room5_Question_Line4	No history, but it's better than nothing. Now they can't ambush us anymore.	没有历史记录，但总比没有强。现在他们再也无法偷袭我们了。
+QuestLoc_INS_QL4_Armistice_2_Room5_Question_Line5	A straightfoward mission with just a touch of weirdness, just how I like it.	一场直截了当的任务，只是掺了那么一点点古怪，正合我口味。
+QuestLoc_INS_QL4_Armistice_3_QuestLongDesc	An Institute splinter group has intel for us. All they want in return is chemistry equipment.	一个学院分裂组织有情报给我们。他们只想要化学设备作为回报。
+QuestLoc_INS_QL4_Armistice_3_QuestName	Fratboys of Technology	技术兄弟会
+QuestLoc_INS_QL4_Armistice_3_QuestObjective1	Crash the party	闯入派对
+QuestLoc_INS_QL4_Armistice_3_QuestShortDesc	Institute defectors have intel for us.	学院叛逃者有情报给我们。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1	Hey, man, you came to our shindig! I mean, conference!	嘿，老兄，你来参加我们的聚会了！我是说，会议！
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Answer0	Nah. But we've got lots of these things, just in case...	没。但我们有很多这些东西，以防万一……
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Answer1	Hey, hey, we're adult, okay? You're not my mom.  Just get in, okay.	嘿，嘿，我们都是成年人了，好吗？你不是我妈。就进来吧，行。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Answer2	Nah, those are stiff and itchy. This is costume wear… celebration-style. Hey, you need one.	不，那些又硬又痒。这是戏服……庆祝款。嘿，你也得来一件。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Choice0	Booze or chems? You look like you're about to get sick.	酒还是药物？你看起来快要吐了。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Choice1	Teens! This splinter group is made of teens!	少年！这分裂组织是一群少年组成的！
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line1_Choice2	What's with the outfits? Not very Institute-like.	你们这身打扮怎么回事？不像学院的风格。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line2	Okay, listen, dudes. We might've celebrated a little too hard. 'Cause of you, yeah.	好了，听着，伙计们。我们可能庆祝得太嗨了。还都是因为你们，没错。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line3	Don't mind us.	别管我们。
+QuestLoc_INS_QL4_Armistice_3_Room0_Question_Line4	President What's-his-name is inside somewhere.	那个叫什么名字的会长就在里面的某个地方。
+QuestLoc_INS_QL4_Armistice_3_Room1_Question_Line1	I'm starting to think coming here was a bad idea.	我开始觉得来这儿是个坏主意了。
+QuestLoc_INS_QL4_Armistice_3_Room1_Question_Line2	Maybe they got kicked out of the Institute.	也许他们是被学院赶出来的。
+QuestLoc_INS_QL4_Armistice_3_Room1_Question_Line3	And for good reason, from what I see.	而且照我看，被赶出来也是活该。
+QuestLoc_INS_QL4_Armistice_3_Room1_Question_Line4	Still, let's stay hopeful. Maybe we just had to go through the rowdy bunch.	不过，还是抱点希望吧。也许只是得先闯过这帮吵闹家伙这一关。
+QuestLoc_INS_QL4_Armistice_3_Room2_Question_Line1	Welcome, Vault Dwellers.	欢迎，避难所居民。
+QuestLoc_INS_QL4_Armistice_3_Room2_Question_Line1_Answer0	Ah man, that's uncalled for. You never roleplay? You're boring.	哦，兄弟，这可不合适。你从不角色扮演吗？你真无聊。

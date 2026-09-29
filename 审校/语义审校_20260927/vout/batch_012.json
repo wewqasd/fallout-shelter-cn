@@ -1,0 +1,110 @@
+{
+ "batch": 12,
+ "items": [
+  {
+   "key": "Pet_Description_stbernard_l",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Cask 在 ES Barril / DE Fässchen / RU Бочонок 均指酒桶，ZH「罐」换了容器；圣伯纳酒桶梗丢失，但「不包括」义仍在。",
+   "final_fix": "不包括木桶装的核子可乐。"
+  },
+  {
+   "key": "Pet_TurkishVan",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 仅 Turkish Van 两个词、无任何标点，ZH 末尾多出一个全角「？」，宠物名会带着这个残留问号显示。",
+   "final_fix": "土耳其梵猫"
+  },
+  {
+   "key": "Piper_campaign_Text",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 是 a new special visitor，new 修饰 visitor；ZH「一位新来自辐射4的」把 new 塞进状语，「新来自」不成词。",
+   "final_fix": "一位来自《辐射4》的特殊新访客想要加入您的避难所"
+  },
+  {
+   "key": "PrivacyPolicy_InfoCollected",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 举例三项 in-game messages/stats/usage data，ZH 只译「统计数据和使用数据」，游戏内消息无对应。",
+   "final_fix": "[212F21]哪些信息可能被收集[365136]\n• 注册和个人资料信息（例如，联系方式和登录信息）\n• 来自Steam、Twitch和Facebook等第三方账户的信息（如好友和公众资料信息）\n• 支付信息（例如，购买历史）\n• 技术（如设备ID、IP地址和广告标签）\n• 人口统计（如国家和年龄）\n• 使用信息（例如，游戏内消息、统计数据和使用数据）"
+  },
+  {
+   "key": "QuestList_ActiveQuest",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "ACTIVE（ES ¡ACTIVA!/DE AKTIV!）与 ARRIVED!/RETURNED! 同组，指任务进行中；「可执行」对应 Available。",
+   "final_fix": "进行中！"
+  },
+  {
+   "key": "QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "a whirlwind of claws…是「爪子、蛋糕碎和杀戮组成的旋风」；ZH「旋风爪」把 of 结构堆成名词，读不通。",
+   "final_fix": "那简直就是一阵由爪子、蛋糕碎和杀戮组成的旋风！"
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Hold it right there 即 ES ¡Alto ahí! / RU Стоять!「站住」；ZH「慢点儿」把拦阻喝令译成让对方放慢。",
+   "final_fix": "站住，不许动！"
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "premises 指场地/所在之处（ES lugar、DE Gelände），ZH「地基」是建筑基础，洞穴里「清空地基」讲不通。",
+   "final_fix": "马上离开这里——不然的话！"
+  },
+  {
+   "key": "QuestLoc_ALaborofLove_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "vacate the premises 是让对方腾地方（FR partir d'ici、DE Gelände räumen）；ZH「清空地基」对象译错。",
+   "final_fix": "恐怕你们得腾出这块地方了。"
+  },
+  {
+   "key": "QuestLoc_ANiceGhoulLikeYou_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "One of your dwellers=你们的一名居民，ZH「一个你们的居民」语序错；come across 接地点译「遇见」也不搭。",
+   "final_fix": "你们的一名居民发现了一处几乎没被动过的红火箭加油站。也许里面有些值钱的东西！"
+  },
+  {
+   "key": "QuestLoc_APaleImitation_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "the wrong crowd 指不对路的一帮人（DE die falschen Leute）；ZH「目标群」变成市场客群，含义走偏。",
+   "final_fix": "不过，我想我可能招来的不是合适的那帮人。"
+  },
+  {
+   "key": "QuestLoc_APaleImitation_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "they ain't got no invitation=他们连邀请函都没有（DE nicht eingeladen）；ZH 主语与否定双翻。",
+   "final_fix": "嘿！有人找到了避难所，可他们连张邀请函都没有！"
+  },
+  {
+   "key": "QuestLoc_ASettlerNeedsYourHelp_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "at a minute's notice（DE innerhalb einer Minute）整项丢失；「团结起来」「义务」为 EN 中所无。",
+   "final_fix": "“一分钟内响应，保护人民。”这就是义勇军的初衷。"
+  },
+  {
+   "key": "QuestLoc_ASettlerNeedsYourHelp_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "get the drop on me 指被偷袭（ES me sorprendieron、DE überrumpelten）；ZH「抢先」误成抢物资。",
+   "final_fix": "我本来是来这儿找物资的，结果被这些尸鬼打了个措手不及。"
+  },
+  {
+   "key": "QuestLoc_ASpecialBrand_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "上一句为 your pet，the one 指那只宠物，ZH「人」换了指代；your friend Jack 的「朋友」也丢失。",
+   "final_fix": "就是你们为了朋友杰克换出去的那只？当嫁妆的那只？和科兰特聊聊吧，他手里有你们想要的东西。"
+  }
+ ]
+}

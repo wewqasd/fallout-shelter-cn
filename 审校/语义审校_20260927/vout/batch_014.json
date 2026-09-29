@@ -1,0 +1,110 @@
+{
+ "batch": 14,
+ "items": [
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "alike 并列两方（ES'niños y veteranos'、DE'gleichermaßen'），ZH'就像那些退伍军人一样'把老兵降成比喻。",
+   "final_fix": "他活了这么久，在小孩和老兵眼里都已经是个传奇人物。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "write about the Hungry 缺中心语'报道'；in the field with them 硬搬成'在现场与他们一起'，'一起'悬空。",
+   "final_fix": "你好！我在写关于“饥饿者”的报道。我们有好几个卧底尸鬼一直跟着他们在外面跑。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "feral=狂化（FR'goule sauvage'、DE'wilder Ghul'），ZH'很凶残吗'问凶暴程度，与下句'不狂化的尸鬼'对不上。",
+   "final_fix": "“饥荒”是狂化尸鬼吗？"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_3_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "reporters 复数（ES/FR/DE 均复数），ZH'那个卧底记者'变单数；'寄给我的'悬空且把素材说成故事。",
+   "final_fix": "你好，关于“战争”和“战争崇拜者”的报道，我都是根据卧底记者们寄来的材料写的。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_4_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "handler=上线/联络人，ZH'监督者'与本作 Overseer 译名（207 处）撞车；Yes? 也非'是吗'。",
+   "final_fix": "有事吗？我是所有卧底记者的联络人。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_4_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "上句 puzzle（FR'fini ce puzzle'）指拼图，almost got a picture='图快拼好'；ZH'搞到照片'换物。",
+   "final_fix": "看到了吗？我这幅拼图快拼好了，图案是几只可爱的小猫在玩毛线。"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "What's that 是没听清（DE'Was, Aufseher?'），ZH'你怎么了'改问身体；run things 在'我应该也行的'里丢失。",
+   "final_fix": "他显然是最合适的人选。什么？监督者？你想和他们一起去？你不在的时候，我想我还能把事情撑起来……"
+  },
+  {
+   "key": "QuestLoc_Blackout_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "We were partying 指已发生（ES'estábamos de juerga'），ZH'我们要…开派对'读成将来；we 复数变'我'。",
+   "final_fix": "我们跟掠夺者一起开过派对？我们可……不记得……有这回事！这派对是在哪儿办的？"
+  },
+  {
+   "key": "QuestLoc_BoogieWoogieBugleBoy_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "No? 为反问（ES'¿No?'、RU'Вот как?'），ZH'学不乖又怎样'另起一意；masthead'报头'略作'这里'。",
+   "final_fix": "不是吗？因为报头上写得清清楚楚，《新波士顿号角报》就是从核子可乐仓库发行出来的。"
+  },
+  {
+   "key": "QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "holed up=躲藏（FR'se cache'、RU'укрылся'），ZH'被关在了'成被囚；extract 的'撬出'义未译出。",
+   "final_fix": "到头来，新波士顿号角报是某种骗局，而我们唯一的线索就是号角男孩——他正躲在大无敌超市里。去找到他，从他嘴里撬点情报出来吧！"
+  },
+  {
+   "key": "QuestLoc_BountyBash_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Bash's bash 指场子（ES'fiesta de Golpe'），ZH'暴击的暴击'读不通；Bash gonna smash 是自称，ZH 换主语。",
+   "final_fix": "你！你搅了暴击的场子！暴击要把你砸扁！"
+  },
+  {
+   "key": "QuestLoc_BreakingalltheRecords_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I could have SWORN=我敢打包票（FR'J'aurais JURÉ'），ZH'我本来发誓'读成打算发誓；Guess not 义偏。",
+   "final_fix": "我敢发誓这次肯定找对地方了。看来不是。"
+  },
+  {
+   "key": "QuestLoc_Broadsides_QuestName",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Broadsides 在此指报纸/号外（ES'Octavillas'、RU'Пресса'），ZH'舷侧'取军舰义，与号角报无关。",
+   "final_fix": "号外"
+  },
+  {
+   "key": "QuestLoc_ByHookorbyCook_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "boeuf bourguignon 通译'勃艮第'，ZH'勃垦地'的'垦'是错字；spectacular 的夸奖义也偏。",
+   "final_fix": "那是勃艮第红酒炖牛肉，真是太惊艳了！"
+  },
+  {
+   "key": "QuestLoc_CabinFever_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Oh look 的'哦看'不成词（ES'Oh, mira'、DE'Oh, da'），需断开；仅不地道，不影响理解。",
+   "final_fix": "哦，快看，一个地表居民……"
+  }
+ ]
+}

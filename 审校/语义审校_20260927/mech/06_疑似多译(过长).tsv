@@ -1,0 +1,13 @@
+key	detail
+Bonus_ChildSpecialBoost	ratio=0.95 | EN(19):'+{0} Child SPECIALs' ZH(18):'+{0}小孩的属性（SPECIAL）'
+Bonus_SurvivalGuide_ChildSpecialBoost	ratio=1.00 | EN(14):'Child SPECIALs' ZH(14):'小孩的属性（SPECIAL）'
+CodeOfConduct_Legal_Link	ratio=1.00 | EN(49):'https://documents.bethesda.net/en/code-of-conduct' ZH(49):'https://documents.bethesda.net/en/code-of-conduct'
+PrivacyPolicy_Email_Link	ratio=1.00 | EN(34):'mailto:privacy@support.zenimax.com' ZH(34):'mailto:privacy@support.zenimax.com'
+PrivacyPolicy_Email_Text	ratio=1.00 | EN(42):'[365136][u]privacy@support.zenimax.com[/u]' ZH(42):'[365136][u]privacy@support.zenimax.com[/u]'
+PrivacyPolicy_Unity_Link	ratio=1.00 | EN(38):'https://unity.com/legal/privacy-policy' ZH(38):'https://unity.com/legal/privacy-policy'
+Privacy_Legal_Link	ratio=1.00 | EN(48):'https://documents.bethesda.net/en/privacy-policy' ZH(48):'https://documents.bethesda.net/en/privacy-policy'
+QuestLoc_ExtremeOuterference_Conversation01_NPC01	ratio=1.00 | EN(33):'#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!' ZH(33):'#@@)(&*%$^@)!&*@&$%!^!!&@($*&^!!!'
+QuestLoc_GameShowGauntletK_Conversation_3_Team_4	ratio=1.12 | EN(16):'The perfect BLT.' ZH(18):'一个完美的培根，生菜加番茄的三明治。'
+QuestLoc_HomerunDerby_QuestName	ratio=0.92 | EN(13):'Homerun Derby' ZH(12):'职业棒球大联盟全垒打大赛'
+TermsOfService_Legal_Link	ratio=1.00 | EN(50):'https://documents.bethesda.net/en/terms-of-service' ZH(50):'https://documents.bethesda.net/en/terms-of-service'
+Weapon_Name_MissileLauncher_MissLauncher	ratio=0.92 | EN(13):'Miss Launcher' ZH(12):'“发射者女士”飞弹发射器'

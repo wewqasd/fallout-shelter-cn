@@ -1,0 +1,110 @@
+{
+ "batch": 36,
+ "items": [
+  {
+   "key": "QuestLoc_TheBrothersGrime_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "play dirtier 是比较级，ZH 让「手段」与「首领」作比较对象，搭配失衡难解。",
+   "final_fix": "论手段之肮脏，很少有掠夺者比得上这两个号称“污秽兄弟”的掠夺者首领。给这对黑心的兄弟无赖一点颜色瞧瞧。"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "No need for that 被译成「我们不需要」，无宾语且主语错置；Woah 也不是「等等」；maybe 漏了。",
+   "final_fix": "哇！别这样，没必要动粗！不过，食物没找回来之前，我们是不会放那个掠夺者走的。你要是找到了，我们或许会放了他。"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_3_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "help me out here 是「帮我一把」，ZH 多出「救我出去」；somewhere 被写成断言「一定是」。",
+   "final_fix": "你！你是来这里帮忙的是吗？听着，不是我干的。不管是谁偷了他们的食物，它肯定就住在这栋楼里的某个地方。而且听起来很凶！求求你们，帮帮我！"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheMissingMitt_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "ain't looking for an interrogation 是「不是要审问谁」，ZH 译成「我指望有审讯」；So go 整句丢失。",
+   "final_fix": "因为附近也没有其他人。听着，我不是要审问谁。我只想拿回我的手套。所以快去吧。"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheMissingMitt_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "make it easy for ya 是「给你们行个方便」，ZH 换成「也许这些信息能帮助你们」，原文无此内容。",
+   "final_fix": "……曾祖父的手套？好吧，我给你们行个方便。"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheQuantumCreeper_Conversation_3_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "They're 指 claw marks（爪印），ZH 用指人的「他们」，代词与所指不符。",
+   "final_fix": "等等，这些是……爪印吗？它们正在……发光。应该就在附近。"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheQuantumCreeper_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「把……居民吃掉并偷走」动宾错配，把字句中途断裂；munching on 的持续义未译。",
+   "final_fix": "有人请求尼克去解开“量子爬行者”的谜题。这头怪兽一直在啃食当地避难所的居民，还偷走他们的量子核子可乐。去帮他们一下怎么样？"
+  },
+  {
+   "key": "QuestLoc_TheCatBurglar_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "take this for your troubles 是「这个给你，算辛苦费」，ZH 译成「拿这个解决你的烦恼」，报酬义丢失。",
+   "final_fix": "好吧，那就能解释为什么没有呼噜声了。来，这个给你，算是一点辛苦费。"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "frying the circuits 是烧坏电路（德 durchbrennen），ZH 照字面作「油炸电路板」，成了做菜。",
+   "final_fix": "辐射蟑螂老是烧坏主机的电路板……"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "fresh produce 是新鲜农产品，ZH「新鲜的产品」丢失词义且与团队健康脱节；producer 应为制作人。",
+   "final_fix": "我是制作人：我负责保证团队每天都能吃上新鲜的农产品，这样大家才能保持健康。"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "on a slab of rock 是「在石板上」的状语，ZH 切成残句「在一块岩石上。」悬空无谓语。",
+   "final_fix": "每当完成一个目标，我们就会在石板上刻下“干得漂亮！”。"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "under it 指前句的 slab（石板），ZH 漏译该状语；least productive 亦需改「业绩最差的」。",
+   "final_fix": "然后，我们会用那块石板把业绩最差的团队成员压死。"
+  },
+  {
+   "key": "QuestLoc_TheDeBuggers_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "句尾 man 是称呼语「老兄」，ZH 当名词译成「男人」，中文不成话。",
+   "final_fix": "游戏结束了，老兄！"
+  },
+  {
+   "key": "QuestLoc_TheDoorBuster_RaiderLine_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Sheesh 是不耐烦感叹，ZH「嘘！」成了禁声；ridiculous 抱怨人多，ZH「真是搞笑」褒贬反了。",
+   "final_fix": "又来人了？哎哟！这人多得越来越离谱了！"
+  },
+  {
+   "key": "QuestLoc_TheEndoftheRainbow_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "muscle 在此为俚语「打手、手下」（西 matón／德 Schläger），ZH 直译「肌肉」完全跑偏。",
+   "final_fix": "你不是尚恩的打手吗？"
+  }
+ ]
+}

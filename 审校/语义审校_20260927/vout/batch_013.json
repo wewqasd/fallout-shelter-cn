@@ -1,0 +1,110 @@
+{
+ "batch": 13,
+ "items": [
+  {
+   "key": "QuestLoc_ASpecialBrand_QuestName",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "brand 在本题指烙印（同任务 The couple brands each other 译「互相给对方烙上印记」），「品牌」误取商标义。",
+   "final_fix": "一个特殊的烙印"
+  },
+  {
+   "key": "QuestLoc_AWinningSeason_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Dare to dream=「想想总可以吧」的自嘲（DE Man darf ja noch träumen），ZH「它还真的做得出来」变成事实断言。",
+   "final_fix": "据说一只凶猛的领头死爪在一幢旧办公楼里安了家。也许它把教练干掉了！想想总可以吧？"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest04_Conversation_2_PC3_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "cleaned the place out=搬空搜刮（ES Desplumaron、DE ausgeräumt），非打扫卫生，与「留下的全是没用的」矛盾。",
+   "final_fix": "他们走的时候把这儿搬了个精光，留下的全是没用的东西。"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest05_Conversation_1_PC1_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 定语 gabbing about（ES del que hablaban、DE ständig geredet）整段未译，「那个东西」缺被议论的铺垫。",
+   "final_fix": "根据坠毁现场的日志，政府把他们一直念叨的“那个东西”交给了罗伯科公司。"
+  },
+  {
+   "key": "QuestLoc_AlienBotQuest06_Conversation_2_ED_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "'radio' 的自嘲（IT radiosa、RU радиоактивным 均保留）被抹平成「遭到辐射变异之前」，Ed 的语气丢失。",
+   "final_fix": "我是埃德，以前是这儿的工程师——在我这张脸变得跟收音机似的之前。"
+  },
+  {
+   "key": "QuestLoc_AlienBot_01_QuestLongDescription_03",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "beyond what was planned（IT oltre la soglia）未译；初审 fix 仍留「有可能可以」的累赘。",
+   "final_fix": "在寻找装饰品的过程中，我们在那座旧政府大楼里发现了让我们大吃一惊的东西。我们查阅了所有日志，发现其中提到了一处可能藏有更多秘密信息的政府设施。这或许能让我们找到一些科技，使避难所获得远超原计划的提升。我们需要尽快派队伍出发！"
+  },
+  {
+   "key": "QuestLoc_AlienBot_01_QuestLongDescription_06",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "a series of secret levels（DE mehrere geheime Ebenen）压成「地下」，多层与秘密信息丢失。",
+   "final_fix": "我们破解了罗伯科公司工厂高管的日志，发现了一处秘密的研发设施。它占据了当地商场一家零售店下方的一系列秘密楼层。罗伯科公司竟然在利用外星科技推进他们的机器人研究。他们试图打造一些大玩意儿。如果我们能搞清楚他们知道些什么，就能对避难所进行大幅改进！"
+  },
+  {
+   "key": "QuestLoc_AlienBot_Quest04_Conversation_3_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "meet your maker=去见造物主（FR créateur、DE Schöpfer），「准备爆炸吧」把威胁说成机器人自爆，含义错。",
+   "final_fix": "呃，随便啦，准备去见你的造物主吧，你这个会走路的烤面包机！"
+  },
+  {
+   "key": "QuestLoc_AllSalesFinal_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "infested 指被敌人占据（同项目 Raider-infested 译「被掠夺者霸占」），「被感染」误导为疫情污染。",
+   "final_fix": "从被敌人占据的大无敌超市中获取原料。"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "for courage=用来壮胆（ES te dará valor、RU для храбрости），「以示勇气」译成表态，道具用途丢失。",
+   "final_fix": "好主意！你应该去告诉他们。来，拿着这个壮壮胆。"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "mojo 是俚语魅力气场（ES sex appeal、DE Anziehungskraft），「符咒」把它译成实物护身符，指代错。",
+   "final_fix": "没人能嘲笑我的魅力！"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "call dibs=先占下这份（ES me pido el derecho、DE Vorrecht），「预订」搭配错，「预订要杀了你」不成句。",
+   "final_fix": "我可以。我也这么做了。杀你这一份，我先占了。"
+  },
+  {
+   "key": "QuestLoc_AquaNukaCola_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "四层「的」字定语套叠难读；walk in the park（FR jeu d'enfant）硬译「像在公园里散步一样容易」。",
+   "final_fix": "想打听水之术士的更多消息，唯一的办法就是先端掉这个掠夺者营地。这活儿应该小菜一碟！"
+  },
+  {
+   "key": "QuestLoc_Aquaschema_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "「是躲藏在…那边」的「是…的」结构残缺，且「一个」与「那边」硬拼；know for sure 未译足。",
+   "final_fix": "他的前助手就躲在那边的一家大无敌超市里。他准知道内情。"
+  },
+  {
+   "key": "QuestLoc_Aquaschema_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "answers 是要对方给的答案（ES queremos respuestas、DE Antworten fällig），ZH 反成轮到我们回答。",
+   "final_fix": "我们照避难所科技办公室那帮人的要求做了。现在该轮到他们给个说法了！"
+  }
+ ]
+}

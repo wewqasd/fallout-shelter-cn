@@ -1,0 +1,167 @@
+{
+  "chunk": "021",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_CollateralMurder_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "原文三句：Oh yeah. / We've been watching him, waiting for the right time to strike. / Try the old Super Duper-Mart about a click north of here. 译文只留了最后一句的地点信息，把「我们一直在盯着他，等着下手的好时机」整句漏掉了，定居者已长期跟踪目标这条线索没了。",
+      "fix": "哦，当然。我们一直在盯着他，等着下手的好时机。从这里往北约一公里，去那家旧的大无敌超市试试吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CollateralMurder_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "I'm all that's left 是「就剩我一个了」，译文写成「我就是所剩无几的人之一」，把唯一的幸存者说成幸存者之一，人数信息反了，后面「和暴徒还有小报记者作对的下场」才有分量。",
+      "fix": "就剩我一个了。这大概就是和暴徒还有小报记者作对的下场。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CleanUpOnAisleFive_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「一群掠夺者在掠夺当地的居民」里「掠夺者」和「掠夺」连用，同一句重复同一个词根，读着别扭；prey on the locals 说成「祸害／劫掠当地居民」才自然。",
+      "fix": "有一伙掠夺者一直在祸害当地居民，还占了大无敌超市当总部。快去拿下他们的首领！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CleaningHouse_Question2_Answer2",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "chems 在《辐射》里指药物、药剂（项目其它条目也一律译「药物」「药剂」），译成「化学品」变成工业化学品，含义走偏。",
+      "fix": "这正是我想听到的。我去拿药物！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "unsophisticated palates 是说他们口味不讲究、不挑食，译文「我们还是有单纯的味蕾的！」把贬义的 unsophisticated 换成了褒义的「单纯」，而且「还是……的」的让步语气在这里无所指，笑点读不出来。",
+      "fix": "我们的口味可没那么讲究！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_1_Team_2",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "Does that mean…? 是一句对白，译文「这是否意味着你已经把它从盒子里拿出来了？」是公文体，玩家嘴里说不出「这是否意味着」，整句成了书面报告腔。",
+      "fix": "这么说，你已经把它从盒子里拿出来了？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「在你过分解释一切之前」是悬空的介词结构：介词短语里只有「你过分解释一切」这一件事，却没有被它修饰的谓语，全句在「我知道-你知道，在……之前」处断成两截，读不通；原意是「我早就懂了——在你啰嗦解释之前就懂了」。",
+      "fix": "是啊，我早就懂了——在你啰里啰嗦解释之前就懂了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_Conversation_2_NPCStart_2",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "it's still in mint condition 是对白，译文「它仍然处于全新状态」是产品说明书口气，「仍然处于……状态」这种公文体夹在口语里很突兀。",
+      "fix": "别担心，它还是全新的。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_CollectorsEdition_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「他还在他的原来的盒子里」两个「他」连用，还给机器人用「他」（项目其它条目如 Help_Page23 对巧手先生一律用「它」），「原来的盒子」也应是「原装盒子」，整句是 still in his original box 的逐字硬搬。",
+      "fix": "我们听说当地的掠夺者在一个废弃的工业建筑里发现了一个崭新的巧手先生，还装在原装的盒子里。我们应该设法在这个宝贝被那些掠夺者毁掉之前把它拿到手。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ConferenceontheMound_Conversation_1_NPCStart_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "Major shocker 是句反讽吐槽（又一个大新闻），「真是震惊」在中文里不成句——「震惊」不能这样单独作「真是」的谓语；另外原文是 isn't here，译文写「不在那里」，方位也跟着跑了。",
+      "fix": "真是个大新闻——罗基·杰宾森的棒球衫不在这儿。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCEnd_1",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "原文 Your lies can't be heard over the sound of how unworthy we are 说的是「我们（教徒）嚷着『我们不配』的声音太大，你们的谎言根本传不进来」；译文「你们根本就不配让我们听到你们的谎言」把 unworthy 的主语从「我们」换成了「你们」，把整天自称不配的教派人设改成了骂玩家，语义也偏了。",
+      "fix": "我们高喊“我们不配”的声音太大，你们的谎言根本传不进来！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "unworthy 是这伙教徒的固定自称（同批其它条目均译「不配」，甚至自称「不配者」），这里译成「毫无价值」，既和前后文对不上，也把宗教式的自我贬低换成了价值判断。",
+      "fix": "当“瘟疫”成为最后一位骑士时，我们就再也不是不配的人了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_1_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "a handsome sum 指「一笔可观的报酬」，中文没有「一笔漂亮的钱」这种搭配（「漂亮」只能形容价钱、价格）；另外 security honcho 译「安保老板」也不像中文的说法。",
+      "fix": "那个安保头子是我们的人了。有人出了很漂亮的价钱，要买他的脑袋！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_1_Team_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「一个『漂亮的钱』」量词错：钱用「一笔」，不能用「个」；这句是靠上句的「漂亮的价钱」做双关，配上错量词后双关也不成立。",
+      "fix": "你知道“漂亮的价钱”并不能让你变漂亮，对吧？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_1_NPCEnd_2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "That's just offensive 是「这话就有点过分了」，译文「真是冒犯」缺宾语中心、不成句（冒犯谁？），是逐字硬搬。",
+      "fix": "好吧，这话就有点过分了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_2_NPCStart_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "Finally, you're here. I was beginning to worry. 被逐字搬成「终于，你在这里。我开始担心。」：中文不说「你在这里」（应为「你来了」），「我开始担心」也缺「都……了」的语气，整句是机翻腔。",
+      "fix": "你可算来了。我都开始担心了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_2_NPCStart_4",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "句首的 Here, 是递东西时的招呼语，译成「这里，」是英文语序硬搬，中文用「来」「给」；「这里，把这些文件带给……」读起来像在指方位。",
+      "fix": "来，把这些文件带给你们的监督者。他（她）会知道该怎么做。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_DartofHarkness_Conversation_2_NPCEnd_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "just a guy doing his job 逐字译成「只是一个家伙在做他的工作」：「一个家伙在做他的工作」是英文进行时加物主代词「他的」的中文硬搬，中文会说「只是个干好本职工作的普通人」。",
+      "fix": "我不是什么大人物，只是个干好本职工作的普通人。拿着，这是给你的。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DaysGoneBye_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "「穿上鬼服把他们从附近的旧服装厂吓跑」里「从附近的旧服装厂」贴到了「吓跑」后面，整句读成「把他们从服装厂赶走」；原意是用「附近旧服装厂里的鬼怪服装」去吓跑他们，而译文恰好把「服装要去那家厂里拿」这层信息弄丢了。",
+      "fix": "嗯，也许你们可以从附近的旧服装厂弄些鬼怪服装，穿上把他们吓跑！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_DaysGoneBye_Conversation_1_NPCStart_3",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "It's not really haunted 是「那地方其实并不闹鬼」这个事实陈述，译文「我没有真的觉得闹鬼」多了主语「我」、把事实说成个人感觉，而且「觉得闹鬼」缺宾语中心（觉得什么闹鬼？），读着别扭。",
+      "fix": "那地方其实并不闹鬼，我想他们编这个故事只是为了让人不敢靠近。",
+      "confidence": "medium"
+    }
+  ]
+}

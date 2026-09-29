@@ -1,0 +1,17 @@
+{"batch":87,"items":[
+{"key":"Weapon_Description_032Pistol_Enhanced","verdict":"confirm","severity":"S3","reason":"decent 在此为『还行、过得去』（ES decente、RU неплохое），ZH 取了『体面、有面子』一义，用于评枪的效能属搭配不当。","final_fix":"对付没有护甲的对手，这把枪还算像样。"},
+{"key":"Weapon_Description_AlienBlaster_Amplified","verdict":"confirm","severity":"S3","reason":"Zetan 是专名，ES/DE/IT/RU 均保留；ZH 泛化为『外星人』丢专名，同表 QuestLoc_Blackout 已用『泽塔』。","final_fix":"这种级别的威力通常是泽塔人巡洋舰才配得上的。"},
+{"key":"Weapon_Description_AssaultRifle_Rusty","verdict":"confirm","severity":"S3","reason":"枪械 jam 是『卡壳』，ZH『堵塞』用于管道；同表 50CalMachineGun_Rusty 已作『卡壳』，Still great 译『很强大的』亦偏。","final_fix":"偶尔会卡壳，但那又怎样？还是很棒。"},
+{"key":"Weapon_Description_BBGun_Enhanced","verdict":"confirm","severity":"S3","reason":"break the skin 即『擦破皮』（ES arañazo、FR égratigner），ZH『破坏你的皮肤』成毁容/护肤腔，与 BB 枪的调侃语气不合。","final_fix":"小心！这小宝贝说不定真能擦破皮。"},
+{"key":"Weapon_Description_EnclavePlasmaRifle","verdict":"confirm_fix_better","severity":"S2","reason":"a sleeker, blacker look 指枪身造型（DE 明示属枪），ZH 改成使用者的『显得更冷峻、更深沉』，指代错到人且丢了『更黑』。","final_fix":"专为那些喜欢让枪更流线、更漆黑，同时把对手化为一滩绿浆的人设计。"},
+{"key":"Weapon_Description_Flamer_Rusty","verdict":"confirm","severity":"S3","reason":"『喷射的火焰』与『正常型号』直接相比而缺『温度』这一比较项，属成分残缺；『一个死亡使者』的量词与搭配亦生硬。","final_fix":"喷出的火焰温度比标准型号低几度，但依然是死亡使者。"},
+{"key":"Weapon_Description_GatlingLaser","verdict":"confirm","severity":"S3","reason":"机枪量词应为『挺』（架/门），『一个旋转机枪』搭配不当；'Nuff said 是『不用多说』，ZH『足够了』语义偏移。","final_fix":"这是一挺旋转机枪，还带激光。不用多说了。"},
+{"key":"Weapon_Description_InstituteRifle_Excited","verdict":"confirm","severity":"S3","reason":"power core 是部件『动力核心』（ES núcleo de energía），ZH 拆成抽象短语『力量的核心』，部件指向丢失。","final_fix":"那具动力核心里正在开粒子派对。"},
+{"key":"Weapon_Description_LaserMusket","verdict":"confirm","severity":"S3","reason":"style 误作『模型』、power 误作『能力』；Revolutionary 指这把滑膛枪的独立战争造型（义勇军风格），非泛指『革命式』。","final_fix":"独立战争时代的造型遇上高科技火力。"},
+{"key":"Weapon_Description_LaserRifle_WazerWifle","verdict":"confirm","severity":"S3","reason":"EN 通篇 R→W 口齿不清（you'we、wight），ZH『很会使/说得没错』全被抹平，只剩人名留痕；RU 版保留了讹音。","final_fix":"比依说你很灰使武器。他说得没错。"},
+{"key":"Weapon_Description_LeverActionRifle_Enhanced","verdict":"confirm","severity":"S3","reason":"『在杠杆上上点油』两个『上』连读打结；fresh rounds 是『几发新子弹』，『新发子弹』易读成新发行；killin' time 语序硬搬。","final_fix":"给杠杆上点油，装几发新子弹。该大开杀戒了。"},
+{"key":"Weapon_Description_LeverActionRifle_Henrietta","verdict":"confirm","severity":"S3","reason":"Longfellow 通译『朗费罗』，ZH『费朗罗』把费/朗两音节颠倒，指称同一位游戏人物（同表 FarHarborSpecial 同错）。","final_fix":"看上去像是个古董，但别让老朗费罗听到你这么说。"},
+{"key":"Weapon_Description_Minigun_Rusty","verdict":"confirm","severity":"S3","reason":"barrel 是转管枪的『枪管』（ES cañón、RU ствол），『弹筒』指弹鼓；quite as fast 是比较级，ZH『不快』丢了『没那么』。","final_fix":"枪管转起来没那么快，但一旦转起来……哎哟。"},
+{"key":"Weapon_Description_MissileLauncher_MissLauncher","verdict":"confirm_fix_better","severity":"S2","reason":"va-va-voom 是『劲爆』，ZH 作哭喊『哇哇叫』词义错，又添『让现场充满了』；EN 的 She 拟人不应丢，boom 也非『弹药』。","final_fix":"她浑身都是轰鸣和劲爆的火力。"},
+{"key":"Weapon_Description_Pistol_Hardened","verdict":"reject","severity":"S3","reason":"EN 本身两个残句，ZH 照搬分句结构无信息差；精心设计已含 lovingly，一个雇佣兵的梦想即 a mercenary's dream，属风格偏好。","final_fix":""}
+]}

@@ -1,0 +1,110 @@
+{
+"batch": 40,
+"items": [
+{
+"key": "QuestLoc_ThirdandGoal_QuestName",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN Third and Goal 是橄榄球「三档进攻、直逼达阵」术语（ES Tercero y gol），ZH 硬译「第三和目标」不成词、读不出球类梗。",
+"final_fix": "三档达阵"
+},
+{
+"key": "QuestLoc_ThymeisMoney_Conversation_1_NPCStart_2",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN at Bay 与括注 (leaves) 合成 bay leaves（月桂叶）双关，ZH 括注「离开」把 leaves 当动词 leave，注释成错义。",
+"final_fix": "罗勒，迷迭香，把这些家伙挡在外面（月桂叶）。"
+},
+{
+"key": "QuestLoc_ThymeisMoney_Conversation_2_NPCStart_2",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN stash 指私藏的货（ES alijo、DE Stoff），ZH「盘点」误读成清点库存；「你来盘点过我们了吗」也不成句。",
+"final_fix": "你是冲着我们那点私货来的吧，缉毒员？"
+},
+{
+"key": "QuestLoc_ThymeisMoney_RaiderLine_2",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN 是 I meant to do that（我本来就是故意的）＋mint 薄荷的双关，ZH 生造词「勒意」不成词，也丢掉了「故意的」。",
+"final_fix": "我本来就是故意的。"
+},
+{
+"key": "QuestLoc_TimeforaGrandSlam_QuestLongDescription",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN as good a place to look as any 意为「跟别处一样值得一找」，ZH「最好还是和其他地方一样去看看吧」比较悬空、语义走偏。",
+"final_fix": "我们的下一站是克莱斯勒69号火箭工厂。反正去哪儿都是找，这地方也一样。"
+},
+{
+"key": "QuestLoc_UndercoverOperations_Conversation_1_NPCEnd_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN No matter, just go! 是「不管了，快去吧」，ZH「不管，只要走」把 just 读成「只要」，变成条件句，读不通。",
+"final_fix": "不，就是每个狂尸鬼都穿的那种破布。嗯，这是为什么呢？不管了，快去吧！"
+},
+{
+"key": "QuestLoc_UndercoverOperations_Conversation_1_NPCStart_4",
+"verdict": "reject",
+"severity": "S3",
+"reason": "EN leading the pack 译作「领头的大群」已表达「走在最前的一群」，中文可懂，「那个」是口语填充词；建议的「一大群带头的」反生歧义。",
+"final_fix": ""
+},
+{
+"key": "QuestLoc_UndercoverOperations_Conversation_2_NPCEnd_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN Rolls off the tongue 是「说起来顺口」的习语（ES Es fácil de decir），ZH「在唇齿间流转」写成肉在嘴里打转。",
+"final_fix": "新鲜的肉。新鲜的肉。说起来就是顺口。谢谢。现在让我们的饥饿吞噬你！"
+},
+{
+"key": "QuestLoc_UndercoverOperations_Conversation_2_NPCStart_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN 句首 And 被硬搬成孤立的「和」，all flesh fresh 的形容词 fresh 译成名词「所有肉的新鲜」，分句不成句、读不通。",
+"final_fix": "还有，所有肉都很新鲜……我意思是，新鲜的肉……都将被吞噬！"
+},
+{
+"key": "QuestLoc_UndercoverOperations_QuestLongDescription",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN pass as 是「冒充、假扮成」（ES hacernos pasar por），ZH「通过巡逻」读成 pass through，丢掉伪装潜入的关键信息。",
+"final_fix": "一个地下军事基地遭到攻击，正在召集他们所有的废土巡逻队。难道又是“害虫”吗？我们需要阻止他们！不过我们得穿上军装伪装成巡逻队的一员，才能混进基地……"
+},
+{
+"key": "QuestLoc_Vault199_Conversation_1_NPCEnd_1",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN our 指说话人一方（同句 our token of thanks），ZH 改作「他们的」人称错位；classier 应作更有档次。",
+"final_fix": "这里没有狗。去我们的姐妹避难所899号碰碰运气吧，那边更有档次。不过先拿着这个，算是我们的一点谢意。"
+},
+{
+"key": "QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCEnd_4",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN make something spooky 是用杂物做出吓人的东西（ES crear algo que dé miedo），ZH「拍恐怖片」添出电影动作。",
+"final_fix": "拿着，希望你用它做出点吓人的东西。"
+},
+{
+"key": "QuestLoc_VaultTecExperimentReviewA_Conversation_3_Team_4",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "ZH「有没有……吗」两种疑问句式杂糅；EN frightful 是「吓人的」，译成「厉害的」与该避难所的恐怖主题不符。",
+"final_fix": "这个避难所里有没有什么吓人的打造杂物？"
+},
+{
+"key": "QuestLoc_VaultTecExperimentReviewB_Conversation_1_NPCEnd_1",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN We'll never talk! 是「死也不会说」，ZH「我们从没说过话」变成否认，与下句 never took place 的梗重复。",
+"final_fix": "这可是超级机密！我们死也不会说的！"
+},
+{
+"key": "QuestLoc_VaultTecExperimentReviewB_Conversation_1_NPCEnd_3",
+"verdict": "confirm",
+"severity": "S2",
+"reason": "EN Code red 是红色警报、一级戒备（DE Alarmstufe Rot），ZH「代号红」读成代号；rogue agents 是叛变特工非「流氓特工」。",
+"final_fix": "有特工叛变！红色警报！"
+}
+]
+}

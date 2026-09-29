@@ -1,0 +1,87 @@
+{
+  "chunk": "long_011",
+  "lens": "long",
+  "reviewed": 60,
+  "findings": [
+    {
+      "key": "QuestLoc_SpringForwardFallBack_QuestLongDescription",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 首句整句无对应：「Our investigation has indicated that a local chapter of the Church of the Children of Atom was responsible for the recent toxic spraying attacks.」ZH 只剩第二句（去找领袖要求停止攻击），任务起因（原子之子教会的一个地方分会制造了近期毒气喷洒袭击）完全丢失，玩家不知道为什么要去对抗阿尔瓦拉多。",
+      "fix": "我们的调查表明，原子之子教会的一个地方分会应对近期的毒气喷洒袭击负责。我们必须去找他们的领袖忏悔者阿尔瓦拉多，叫他停止这些攻击，否则后果自负。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SpringingtheTrap_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「The Pests took the bait and are currently inside, searching for the suits」中的搜寻对象 the suits（动力装甲）被错换成洞穴，ZH 写成「目前正在里面搜寻洞穴」，等于把诱饵本身丢了；另外「It's time to head in there」的「进去」也未译出。",
+      "fix": "在三狗的建议下，我们放出消息，说有十几套动力装甲藏在某个洞穴里。“害虫”上钩了，现在正在里面搜寻那些动力装甲。是时候进去打探一下“瘟疫”和“害虫”的底细了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SignalFailure_Conversation_1_NPCStart_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN「We're going to need to get this thing up and running quick if we're going to get the repairs done in time」是「要想及时完成修理，就得赶紧让这台机器（巧手先生）运转起来」；ZH 把因果倒置成「如果我们能及时把它修好，应该能让它重新工作」，被修理的对象变成了巧手先生本身，逻辑循环，玩家无法得知巧手先生是用来干维修的；并自创了 EN 没有的「灵活」。",
+      "fix": "“今天收到了咱们的‘巧手’先生。要想按时完成修理，就得赶紧让这家伙运转起来。”",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ShamrocktheCasbah_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「This hardy, nutritious weed ... could prove an important staple for us」的 could prove（可能成为）被译成「现在证明可以是我们重要的主食」，把可能性说成已证实的事实；「if there are any left」原意也应是「如果还有剩的话」。",
+      "fix": "我们已经收到信息，317号避难所有战前的三叶草样品。这种耐寒又营养丰富的杂草据信已经灭绝，却可能成为我们重要的主食。如果还有剩的话，我们需要把这些样品带回来！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SetEmUpFamine_QuestLongDescription",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「the Hungry Horde's non-feral leaders」中的 non-feral（未狂化／非狂尸鬼化的）被译成「不那么野蛮的」，把「是否狂化」这一属性换成了「凶不凶」，指向错误；玩家会去找态度温和的头领而非未狂化的头领。",
+      "fix": "“害虫”将把“瘟疫”带到226号避难所，因此战争肯定会接踵而至。如果我们也能让“饥荒”在那儿出现，骑士和他们的信徒就可以自相残杀了！我们需要装扮成“害虫”，去和“饥饿”部落那些尚未狂化的头领们谈谈。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_1",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「I mean, look at this place.」被译成「想说拜托看看这地方」，句子不成句（「想说」悬空、后面「please」的「拜托」被挪到这里），中文读不通；后半「Now, please, go help my pal」的「please」也随之丢失。",
+      "fix": "什么？没有！我们什么都没拿。我是说，你看看这地方，有什么可偷的？行了，拜托，去帮帮我的伙伴，行吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_SlidingintoHome_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「the old cereal processing plant」的定指与 old（那家旧的）被换成不定指的「某个」（「躲在了某个麦片加工厂」），凭空引入「某个」这一 EN 没有的信息，同时丢掉「旧/废弃」这一限定。",
+      "fix": "也许教练饿了，躲进了那家旧麦片加工厂。罗基·杰宾森的棒球衫，我们来了！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SomewhereintheBallpark_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "「search the tenth location for Rackie Jobinson's Jersey」中的专名 Rackie Jobinson 被丢掉，ZH 只写「第十个棒球衫可能存在的地点」；同一批文案其他条（如 QuestLoc_SlidingintoHome）保留了「罗基·杰宾森」，此处为专名漏译。",
+      "fix": "我们出发去搜索第十个地点，寻找罗基·杰宾森的棒球衫。这次我们也许会走运……对吗？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_The20thInning_QuestLongDescription",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "「no sign of Coach, or Rackie Jobinson's Jersey」中的专名 Rackie Jobinson 未译出，ZH 只写「棒球衫的影子」，丢掉了棒球衫归属者这一信息。",
+      "fix": "一直没有教练或者罗基·杰宾森那件棒球衫的消息。他还在外面吗？他真的拿着那件棒球衫吗？只有一种办法能弄清楚！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_SetEmUpPestilence_QuestLongDescription",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「War is now out for blood」译作「“战争”现在外面猎取鲜血」，「现在外面」缺介词、句子不通顺，out for blood（嗜血／一心复仇）的意思也走样；「convince the Pests to bring Pestilence to War」译作「把“瘟疫”拉进战争」，把「把瘟疫带到『战争』（那位骑士）那里」读成了「拖进战争（冲突）之中」，指向偏移。",
+      "fix": "停战协议已被抛在脑后，“战争”如今嗜血成性，准备撕裂废土去寻找“瘟疫”！时间拖得越久，死去的无辜定居者就越多，所以让我们装扮成“战争崇拜者”，说服“害虫”把“瘟疫”引到“战争”那里去。群山之中那座被遗弃的226号避难所，将成为他们末日对决的绝佳竞技场！",
+      "confidence": "medium"
+    }
+  ]
+}

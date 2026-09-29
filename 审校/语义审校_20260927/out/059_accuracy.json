@@ -1,0 +1,151 @@
+{
+ "chunk": "059",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_TheTailContinues_Conversation_1_NPCEnd_1",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN 首句 They're a couple of tough cookies.（这俩可都是硬骨头）整句在 ZH 中消失，只从 “I'm betting Sally...” 开始译，玩家看不到这句评价。",
+   "fix": "他们俩可都是硬骨头。我打赌莎莉很可能会躲进314号避难所。那地方已废弃，千万小心！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_Conversation_1_Team_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "No, 是回答上一句 “did you see a girl and a dog?” 的否定（没看到），ZH 译成 “不是吧” 变成惊讶感叹，玩家读不出“没见过”这个信息。",
+   "fix": "没有。那你知道他们去哪儿了吗？",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheTailContinues_QuestObjective_1",
+   "severity": "S3",
+   "type": "其他",
+   "problem": "salvage team 在同一个任务里被译成 “回收队”（同任务 QuestLongDescription、QuestShortDescription 均作“回收队”），这里却作 “救援队”；salvage 也不是“救援”，同一支队伍出现两个名字。",
+   "fix": "寻找回收队。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_Conversation_1_NPCEnd_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "get updates on supplies and treasure 是“打听物资和宝物的消息（情报）”，ZH 译成 “搜刮物资和宝物并带回给编辑”，把情报收集改成了实物掠夺，凭空多出“抢东西”的情节。",
+   "fix": "他拜访完罗伯科工厂的定居者之后，会来这里打听物资和宝物的最新消息，再带回去给编辑。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheThinlyVeiledPlotThickens_Conversation_1_NPCEnd_2",
+   "severity": "S2",
+   "type": "指代",
+   "problem": "I'd talk to... 是给玩家的建议（“换我就去跟……谈谈”），ZH “我会和罗伯科工厂的定居者谈谈”变成 NPC 自己在打算去，主语与说话意图错位，玩家会以为 NPC 会自己去办。",
+   "fix": "要我说，你们该去跟罗伯科工厂的定居者谈谈。他们是最先被袭击的，应该更了解“号角男孩”和他的编辑。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheVaultTecVantage_Conversation_1_NPCStart_1",
+   "severity": "S3",
+   "type": "其他",
+   "problem": "Vaultopolis 在本任务其余 4 处以及 057/058/061 共 21 处都译作 “避难所大都会”，此处独用 “避难所大都市”，同一专名两种写法（全库仅此一处“大都市”）。",
+   "fix": "我们找到了避难所科技留下来的关于避难所大都会的信息！他们说……",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_1_NPCStart_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "What are you guys doing here?（你们来这儿干什么？）被译成 “你能在这里做什么啊？”：人称由复数变单数，且“在做什么”错成“能做什么”。",
+   "fix": "你们来这儿干什么？",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_1_NPCEnd_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "weren't up to the challenge 意为“应付不了这个挑战”，ZH “你不是能挑战自己的人”把“胜任挑战”误解成“自我挑战”，嘲讽的意思走偏。",
+   "fix": "他大概觉得你根本应付不了这个挑战。他说得对！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheYolksonYou_Conversation_2_NPCEnd_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "split our share of the eggs with you 是“把我们那份蛋分给你们”，ZH “和我们去分享这些蛋”把施受方向译反；No way, José! 只是押韵口语（不指某个人），ZH “做梦吧，约瑟！”让玩家以为在喊一个叫约瑟的角色。",
+   "fix": "还想把我们的那份蛋分给你们？想得美！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_TheresnoCryinginBaseball_QuestLongDescription",
+   "severity": "S1",
+   "type": "漏译",
+   "problem": "EN 三句，ZH 只剩第一句：“Maybe Coach went there to resupply. Off we go.”（也许教练去那儿补给过。出发吧。）整段消失，玩家失去去“五金小镇”的动机和行动指引。",
+   "fix": "有一家旧的“五金小镇”商店我们还没去看过。也许教练去那儿补给过。我们出发吧。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_2",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "playoff run 指“季后赛征程”，ZH “季后赛跑”不成词；go all the way 是“一路打到底/杀进决赛”的橄榄球说法，译成 “我会一直跑下去的”把它当成真跑步，整句读不通。",
+   "fix": "我的季后赛征程才刚开始，我会一路打到底！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_ThirdandGoal_QuestName",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "Third and Goal 是美式橄榄球术语（三档进攻、直逼达阵），与“总裁”的橄榄球梗直接相关；ZH “第三和目标”是逐字硬译，中文里不成立，玩家读不出任何含义（任务名可意译，但不能丢关键含义）。",
+   "fix": "三档达阵",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ThrowMeSomePepper_QuestLongDescription",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "apartment complex 是公寓楼/公寓小区，复式公寓指 duplex（复式户型），建筑类型译错；全库其它处 apartment complex/building 均作“公寓楼”。",
+   "fix": "一些掠夺者占领了一幢旧的公寓楼。也许这些混蛋们知道教练这个混蛋在哪儿。问问也无妨。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_1_NPCEnd_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "You had it cumin 是 You had it coming（你活该/自找的）的谐音梗，ZH “你得了”没有“活该”的意思，玩家读不出原意。",
+   "fix": "你这是自找的，小茴香。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_1_NPCStart_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "keep these guys at Bay (leaves) 的括号是 bay leaves（月桂叶）的双关注释，ZH 注成 “(离开)”，与 bay 毫不相干，双关注释变成错词。",
+   "fix": "罗勒，迷迭香，把这些家伙挡在外面（月桂叶）。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_2_NPCEnd_3",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "No cayenne do, daddy-o! 是 No can do（办不到）的谐音梗，是拒绝；ZH “不要吃辣椒，老爹！”把它变成一句饮食告诫，含义完全变了。",
+   "fix": "这可办不到，老兄！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_Conversation_2_NPCStart_1",
+   "severity": "S1",
+   "type": "乱译",
+   "problem": "fuzz 是“警察/条子”的俚语，ZH 按字面译成 “毛毛”（绒毛），整句“天哪，是毛毛！”玩家完全读不通；下一句 narc（缉毒警）也证明这里说的是警察。",
+   "fix": "我的天，是条子！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_ThymeisMoney_RaiderLine_2",
+   "severity": "S2",
+   "type": "乱译",
+   "problem": "I mint to do that 是 I meant to do that（我本来就是故意的）+ mint（薄荷）的双关，ZH “我很勒意那样做”里“勒意”是生造词（疑为“乐意”误写），意思也错成“乐意”。",
+   "fix": "我本来就是故意的。",
+   "confidence": "high"
+  }
+ ]
+}

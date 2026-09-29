@@ -1,0 +1,55 @@
+{
+ "chunk": "045",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_4_Question0_Answer1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN 的宾语是 the blind blanket（盲目的毯子），ZH 换成了原文里根本没有的“号角”，动词 heralds（宣告、预示）也被改写成“吹响”，整句凭空多出一件乐器；ES/FR/RU 都保留了“毯子/覆盖物”这一意象（ES manta ciega、FR couverture aveugle、RU слепое покрывало），只有本句把荒诞意象换掉，玩家看到的“异端吹响号角”与原文对不上。",
+   "fix": "异端宣告了盲目的毯子！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "ward 没有“守卫（guard，人）”这个义项，此处指“防护/庇护”：DE 作 Ein armseliger Schutz、RU 作 Это плохая защита，都按“保护（很差）”理解——疯子说的是药物给自己提供的防护不顶用、压不住脑子里的声音。译成“糟糕的守卫”会让玩家以为现场另有一个守卫 NPC，与前后“那些药物/我知道”完全接不上。",
+   "fix": "那些药物。算不上什么防护。我知道。我知道。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question4_Line1",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 是“没有玛·琼来给我做她那道著名的煎蛋卷”，前提是玛·琼这个人不在、吃不上她做的东西；ZH 改写成“却没人能做玛·琼那道拿手煎蛋卷”，把“人不在（做给我吃）”换成了“没人会做”，'给我做'也一并丢失（ES：Ma June no está para hacerme su famosa tortilla；FR：pas de Ma June pour me préparer sa fameuse omelette，都保留了“人不在/给我做”）。",
+   "fix": "到处是死爪，玛·琼也不在，没人给我做她那道拿手的煎蛋卷……",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Answer1",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "hunt 是“狩猎、打猎”，此处指玩家去猎杀死爪、找蛋找肉；ZH 译成“觅食”（动物出去找食），把玩家的行动性质写成了找吃的（ES la caza、FR la chasse、DE die Jagd、RU охота 均作“狩猎”），语气也被削弱。",
+   "fix": "真是懂吃的同道中人！这个能帮你狩猎。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Choice2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "In-laws 特指姻亲（此处就是上一句正在吵的“你妈”，即岳母/婆婆），ES Suegros、FR la belle-famille、DE Schwiegereltern、RU теща 都保留了这一具体对象；ZH 泛化成“亲戚”，把这个玩笑的具体笑点（姻亲/岳母矛盾）稀释成泛泛的亲戚纠纷。",
+   "fix": "姻亲之间那点破事，对吧？",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_NVB_QL3_Stripper_3_Question1_Answer3",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "Wonderglue 是游戏里的道具专名，本表道具名条目统一译作“神奇胶水”，EN/ES/FR/RU 也都保留了这个品牌名；此处改译成通用词“万能胶”，玩家在对话里看到的是普通胶水，和背包里的“神奇胶水”对不上号，专名丢失。",
+   "fix": "我自己用神奇胶水做发油。给。你试试看。",
+   "confidence": "medium"
+  }
+ ]
+}

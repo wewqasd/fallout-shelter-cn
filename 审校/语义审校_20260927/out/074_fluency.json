@@ -1,0 +1,111 @@
+{
+  "chunk": "074",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Tutorial_Tip_76",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 是 Some Quests require Secret Clues to unlock（任务需要秘密线索才能解锁），ZH 写成「一些任务需要解锁秘密线索」，把「需要线索来解锁」译反成「去解锁线索」，玩家会以为线索是任务里要解锁的东西；后半句还硬加连词「所以」，与前半句并无因果关系。",
+      "fix": "有些任务需要秘密线索才能解锁。把你能找到的每个容器都搜刮一遍！",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_50",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 说的是鼹鼠出现在「挨着泥土的房间」（rooms that are touching dirt），并可能蔓延到整个避难所；ZH 译成「鼹鼠袭击时房间会有泥土冒出，然后向其他房间蔓延」，出现条件被改成「泥土冒出」，蔓延的主体也从鼹鼠变成泥土，机制信息是错的。",
+      "fix": "鼹鼠会从紧挨泥土的房间中出现，并可能蔓延到整座避难所。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_44",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 是避难所科技的广告语「A nuclear winter is cold, keep warm with Vault-Tec!」（靠避难所科技取暖），ZH 译成「所以请让避难所保持温暖」，主体从「你取暖」变成「让避难所取暖」，还丢掉了 Vault-Tec 这个广告主语，「请让」的祈使语气也不像广告词。",
+      "fix": "核冬天很冷，让避难所科技为您保暖！",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_52",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「更致死」是照搬 deadlier 的生造搭配，中文「致死」不能受「更」修饰（一般只用于「致死率」「致死量」），此处应为「更致命」。",
+      "fix": "死爪比掠夺者更快，更强，更致命。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_70",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「那些配备了宠物的居民如果在任务中死亡了且不准备复活时」把「如果…」和「…时」两种句式杂糅，「了…且…」也不通；且 EN 的 not revived 是「没有被复活」，译成「不准备复活」变成了玩家的主观打算，含义偏移。",
+      "fix": "配备了宠物的居民如果在任务中死亡且没有复活，宠物会自动回到避难所。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_25_PS4",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "EN 是 Press R3 while a Dweller is selected（选中居民的状态下按 R3），ZH 写成「按下R3，选中居民来查看更多…」，逗号把条件状语拆成了先后两个动作，照提示先按 R3 再选居民是找不到该功能的。",
+      "fix": "选中居民后按下R3，即可查看该居民SPECIAL属性的更多细节。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_25_Switch",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "同 PS4 版本：EN 是选中居民时按右摇杆，ZH「按下右摇杆，选中居民来查看更多…」把条件写成了先后步骤，操作顺序被译反。",
+      "fix": "选中居民后按下右摇杆，即可查看该居民SPECIAL属性的更多细节。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_25_Xbox",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "同 PS4/Switch 版本：EN 是选中居民时点击右摇杆，ZH「点击右摇杆选择一个居民来查看更多…」让玩家先摇杆再选人，操作顺序被译反。",
+      "fix": "选中居民后点击右摇杆，即可查看该居民SPECIAL属性的更多细节。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_60",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 的 you might get 表示「有可能得到」，ZH 译成「你能得到它配方上的所有杂物」，读成了必定拿全，与前半句「感觉自己手气不错？」的概率语境自相矛盾。",
+      "fix": "感觉自己手气不错？拆解物品时，你有机会得到该物品配方里的所有杂物。",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_85",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 意为「在任务中集齐某主题配方的全部碎片，就能获得该主题配方」，ZH 只译出「可以在任务中找到所有主题配方的碎片」，把「集齐碎片换配方」这一关键结果漏掉，玩家不知道该拿碎片做什么；「所有主题配方的碎片」也容易被理解成全部主题的碎片。",
+      "fix": "在任务中集齐某套主题配方的全部碎片，就能获得这套主题配方。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Tutorial_Tip_68",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「并产生特殊攻击」搭配错误：攻击不会由敌人「产生」，EN 是 have special attacks，应为「拥有特殊攻击」；「会很强大」也偏弱，读起来像在描述将来的事。",
+      "fix": "任务里的某些敌人更强大，还拥有特殊攻击，试着优先解决他们！",
+      "confidence": "high"
+    },
+    {
+      "key": "Tutorial_Tip_27",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "「当一个居民被分配到广播室时，它会增加所有避难所居民的幸福度」是英文语序硬搬：被动式「被分配」加形式主语「它」，而「它」最近的名词是「居民」，读起来像居民在提升幸福度，指代不清。",
+      "fix": "把居民分配到广播室，可以提高避难所全体居民的幸福度。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Tutorial_Tip_37_Xbox",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「通过和来选择名字整理居民列表」结构杂糅：「选择名字」后直接接「整理居民列表」，既缺连接也缺「列」字；EN 是 selecting column names（选列表的列名），译成「名字」容易被当成居民的名字。",
+      "fix": "您可以通过和选择列表的列名，为居民列表排序。",
+      "confidence": "medium"
+    }
+  ]
+}

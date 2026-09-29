@@ -1,0 +1,71 @@
+{
+  "chunk": "034",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 有两句：前一句「Is the Wizard's Wonder Water really so wondrous?」是说话人对这瓶“奇妙水”的疑问（正是本任务的核心道具，任务名 Half Full, Half Empty 讲的就是它），ZH 只剩后一句「我们没弄到足够的量来做科学测试。」，提问对象整个消失，玩家看不出这段在聊什么。旁证：本项目旧译文作「奇妙水真的如此神奇吗？我们没有进行很好的科学测试。」，DE「Ist das Wunderwasser des Hexers wirklich so wundersam?」、RU「Неужели Волшебная Чудо-Вода и впрямь настолько чудесна?」、ES 都保留了前一句。",
+      "fix": "水之术士的神奇水真有那么神奇吗？我们没弄到足够的量来做科学测试。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_1",
+      "severity": "S1",
+      "type": "指代",
+      "problem": "这句应答的前一句 Team_1 是「The party's been over for days...」，所以 It has? 里的 it 指“派对已经结束”，整句意为「已经结束了？」。ZH 把 it 硬译成实义代词，写成「它有吗？」，指代对象完全落空，和新郎后面那句“该面对现实了”也接不上，读不通。旁证：DE「Wirklich?」、RU「Вот как?」、ES「¿De veras?」都作“真的吗”。",
+      "fix": "已经结束了？好吧，我想该面对现实了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_GroomforDoubt_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「there you are!」是见到对方时的招呼，意为“你们在这儿啊／可算来了”，ZH 译成「你们在那里！」，把 here 译成了 there，方向正好反了，成了“你们在那边”。旁证：DE「da seid ihr ja!」、RU「Вот вы где!」、FR「vous êtes enfin là!」都是“你们在这儿/总算来了”。",
+      "fix": "嘿，伙计们，你们可算来了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_GroomforDoubt_Conversation_3_Team_3",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "Team_3 承接上一句「Isn't this bachelor party the best?」，It sure is... 意为“确实是最棒的……”。ZH「它肯定是……」把 it 硬译成“它”，而且“肯定是”后面没有着落（肯定是……什么？），句子断在半截，玩家读不出这是在附和上一句。旁证：DE「Auf jeden Fall ...」、RU「Да, конечно...」都作“确实如此”。",
+      "fix": "确实是最棒的……不过我们现在得送你去结婚了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_GroomforDoubt_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「we're done with you」是“等我们把你收拾了（再解决你）”的威胁，RU 直接译作「сразу после того, как мы вас убьем」。ZH「在我们结束你之后」把 done with 生译成“结束你”，中文里“结束某个人”不成话，威胁的语气也没了。",
+      "fix": "行啊，等我们把你收拾了之后再说。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「nothing happened to me」译成「没有什么发生在我身上」是把英文结构逐字搬进中文（“没有什么”不能这样带“发生在我身上”），中文不这么说。旁证：DE「aber sonst ist nichts passiert」、ES「Pero no ocurrió nada」都是“别的什么也没发生”。",
+      "fix": "我喝了，味道又好又纯，但我身上什么也没发生。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_3",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「show ... what we're made of」是固定说法，意为“让他们见识见识我们的本事”，ZH 生译成「展示下我们是什么做的」，中文读起来像在展示材料；本项目 chunk_040 对同一说法译作「让麦克森见识见识我们的本事」，此处与项目内处理不一致。",
+      "fix": "来吧，女士们，让这些废物见识见识我们的本事！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_4",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「a giant Nuka-Cola bottle」译成「一只巨大的核子可乐瓶」，“只”不能用于瓶子（应为“一个”），量词误用很扎眼；另外 Mrs. Fieldstone 只译出「菲尔德斯通」，称谓被省略（DE 作 Mrs. Fieldstone、RU 作 миссис Филдстоун）。",
+      "fix": "我们的女教师菲尔德斯通太太喝了一些，然后看到一个巨大的核子可乐瓶追着她跑。",
+      "confidence": "medium"
+    }
+  ]
+}

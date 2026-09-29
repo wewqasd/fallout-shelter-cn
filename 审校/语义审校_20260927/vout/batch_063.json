@@ -1,0 +1,110 @@
+{
+ "batch": 63,
+ "items": [
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room6_Question_Line1_Choice1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN Relax 译「放松」在汉语里本就是可用的安抚口语（放松，别慌），非只指松肌肉；改「别紧张」属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room6_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN *heading* 与上句 lose your head 成双关（DE 作 Kopf、IT 作 testa 均保留），ZH「*直奔*」双关尽失。",
+   "final_fix": "嗯，是啊……我很快就要*掉头*去你们的避难所了。你们就等着吧。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_4_Room6_Question_Line1_Choice0",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN didn't lose your head 是否定式，ZH「没为此丢掉了脑袋」把「没」与完成体「了」叠加，语法不成立。",
+   "final_fix": "幸好你没为这事掉脑袋！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_1_Room5_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN No you can't 承接上句 I can see you just fine（RU 明译 не видите），ZH「你不行」丢宾语，读成贬评人。",
+   "final_fix": "不，你看不见。不过为了保险起见，还是让我把你的眼睛抠下来吧。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_1_Room6_Question_Line1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "double-cross 指反水，非「双重背叛」；EN 是仿 Animal Crossing 的双关，同房「收服」已按宝可梦改写。",
+   "final_fix": "<宠物VR间谍训练程序：动物森友骗>"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_1_Room6_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN critical 是达临界／超限（同房 Answer2 为 Overflow exception，RU 作「超出限额」），ZH「告急」表短缺，方向相反。",
+   "final_fix": "<参与者数量已达临界值。释放所有受试者。>哦太棒了！我们把它们都救出来了。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_3_Room1_Question_Line1_Answer1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 主语同为 I、another fate 也未点明归谁（RU 也作「若我有得选，一切会不同」），ZH 结构平行，末句已锁定指代。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_3_Room2_Question_Line1_Answer2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN locked room 译「锁死的房间」汉语可通（门锁死了＝锁上打不开），「这是来……的？」是口语反问，非病句。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_3_Room3_Question_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN a sucker for romance drama 是口语，ZH 硬造名词化「浪漫戏码的痴迷者」，且「戏码」今多指花招把戏。",
+   "final_fix": "我最吃爱情戏这一套了。我这就进去！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_3_Room7_Question_Line1_Choice2",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN Your twin；汉语「你＋亲属名词」本就省的（你哥、你亲兄弟、你同学），台词口语省略可接受。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Choice0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN You know 是话语标记「你知道」，ZH「你可知道」成了反问，又与句末「对吧」语气打架；「都…所有」重复。",
+   "final_fix": "这又是陷阱？你知道的，那些陷阱我们全识破了，对吧？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL3_Escalation_4_Room5_Question_Line1_Choice0",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN it 明确指前句核弹控制中心，ZH「它」不歧；汉语「被辐射了」表受辐射污染可通，改「这里…」属偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_CombatInit2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN shinier America；汉语「更＋形容词」作定语一般不能省的，「更闪亮美利坚」要回读才断得开。",
+   "final_fix": "黄金！它照亮了通往更闪亮的美利坚之路！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room2_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN locked out 是进不去（IT/DE/RU 均作「进不去」「进不来」），ZH「我被锁定了」首先读成被瞄准锁定。",
+   "final_fix": "该死，我进不去了。根本破不了！那些黄金啊……"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room3_Question_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN double what they're paying you 就是出双倍价；ZH「买断…酬劳」搭配不成立，买断的对象是合同、产权。",
+   "final_fix": "他们付你多少，我们出双倍。"
+  }
+ ]
+}

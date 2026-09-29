@@ -1,0 +1,63 @@
+{
+  "chunk": "004",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Encounter_Defeat_NPC9",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「迷路的农民的状况」两个「的」把长定语套在「状况」上，一句里连着三个名词性成分，读起来拗口；「状况」也偏书面，和探险日志的口语体不搭。",
+      "fix": "我找不到定居点。这下那个迷路的农民比之前更惨了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Defeat_Repeatable_JunkLocation5",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「一个没察觉的刀片陷阱」定语缺主语：「没察觉」没有动作发出者（原意是「我没察觉到」），照字面读会变成陷阱自己在「没察觉」，属于成分残缺的修饰语。",
+      "fix": "一个我没察觉到的刀片陷阱，差点把我的脑袋削下来。还是回头吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Message_Creature3",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "「危险地嗡嗡叫着靠近」是照搬英文副词位置的译法：英文里危险的是「贴得太近」这一距离，中文写成「危险地嗡嗡叫」把危险安到了叫声上，句末「靠近」也收得突兀。",
+      "fix": "一只巨大苍蝇，嗡嗡叫着逼近，近得危险。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Message_Repeatable_JunkLocation12",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「想不被发现就穿过去是不可能的」把「不被发现」和「就」拼成条件句，语义结构杂糅成「想不被发现，就……」。原意是「穿过去而不被发现」，「不被发现」应作状语修饰「穿过去」。",
+      "fix": "一片开阔的田野，想不被发现地穿过去根本不可能。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Progression_Repeatable_JunkLocation2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「上头就会整个塌下来砸到我头上」同一小句里「上头」和「砸到我头上」重复，且「上头」只指上方，指代不清（英文的 it 指藏身处本身），整句读起来拖沓。",
+      "fix": "探索藏身处，但只要走错一步，整座建筑就会塌下来砸在我头上。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Encounter_Progression_Repeatable_JunkLocation8",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「还有没有任何有价值的东西」把「还有没有……」和「任何……」两套说法硬拼在一起，中文不这么说，读起来卡壳。",
+      "fix": "找找公馆里是否还剩下什么有价值的东西。",
+      "confidence": "high"
+    },
+    {
+      "key": "Encounter_Progression_Repeatable_JunkLocation10",
+      "severity": "S3",
+      "type": "用词不当",
+      "problem": "「妖怪熊一家人」用称人的「X一家人」来说野兽，中文讲野兽的一家通常说「一窝」「一家子」，此处拟人化读起来像在说一户人家，效果滑稽。",
+      "fix": "被一窝妖怪熊逼到了山洞的角落。我会尽力安抚它们。",
+      "confidence": "medium"
+    }
+  ]
+}

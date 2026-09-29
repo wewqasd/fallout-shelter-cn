@@ -1,0 +1,181 @@
+key	EN	ZH
+Button_Reset	RESET	重置
+Button_Sell	SELL	卖出
+Button_Skip	SKIP	跳过
+Button_Sort	Sort	排序
+Button_Spin	SPIN	抽取
+Button_StartNow	START NOW	现在开始
+Button_StartQuest	START QUEST	开始任务
+Button_Status	STATUS	状态
+Button_Watch	WATCH	观看
+Button_Yes	YES	是
+CameraSensitivity	CAM SENS	镜头灵敏度
+Casino_Upgrade_Info	Increases Luck training speed	加速运气（L）的训练
+Claim	CLAIM	领取
+Claim_Exclamation	Claim!	领取！
+Classroom_Upgrade_Info	Increases Intelligence training speed	加速智力（I）的训练
+CloudActionImport	IMPORT	引入
+CloudActionKeep	KEEP	保留
+CloudActionNewVault	NEW VAULT	新的避难所
+CloudActivationFailed	An error occurred during cloud activation. Please check your cloud settings or try again later	云激活时发生错误。请检查您的云设置，或稍后再试。
+CloudConflictDescription	Which save do you want to keep?	您想保留哪个存档？
+CloudFailedVersionMismatch	Your cloud save is from a newer version of Fallout Shelter. Please update the game and try again.	您的云存档来自于一个更新的辐射避难所版本。请更新游戏后再尝试。
+CloudSaveConfirmMessage	Are you sure you want to keep the Cloud save?	您确定要保留云存档吗？
+CloudSaveNotEnabledWarning	Cloud save is not currently enabled. Do you wish to proceed?	云存档当前未启用。是否继续？
+CodeOfConduct_ButtonText	CODE OF CONDUCT	行为准则
+CodeOfConduct_Legal_Link	https://documents.bethesda.net/en/code-of-conduct	https://documents.bethesda.net/en/code-of-conduct
+Completed	COMPLETED	完成
+Controls_Button	CONTROLS	控制
+Controls_Switch_Vault_ResetCamera_Switch	Reset Camera (Press)	重置镜头（按）
+Controls_Switch_Vault_Resources_Switch	Resources (Press)	资源（按）
+Controls_Title	CONTROLS	控制
+Controls_Xbox_Footer_Collect	COLLECT	收集
+Controls_Xbox_Footer_Filter	FILTER	筛选
+Controls_Xbox_Footer_FilterSpecial	FILTER / CHANGE SPECIAL SORTING	筛选/改变SPECIAL排序
+Controls_Xbox_Footer_Rename	RENAME	重命名
+Controls_Xbox_Footer_ReverseOrder	REVERSE ORDER	反转顺序
+Controls_Xbox_Footer_Special	CHANGE SPECIAL SORTING	改变SPECIAL排序
+Controls_Xbox_Quest_Collect	Collect	收集
+Controls_Xbox_Quest_CriticalHit	Critical Hit (Hold)	暴击（按住）
+Controls_Xbox_Quest_MoveCamera	Move Camera	移动镜头
+Controls_Xbox_Quest_MoveCursor	Move Cursor	移动光标
+Controls_Xbox_Quest_MoveToRoom	Move to Room	移至房间
+Controls_Xbox_Quest_PipBoy	Pip-Boy	哔哔小子
+Controls_Xbox_Quest_QuestObjectives	Quest Objectives	任务目标
+Controls_Xbox_Quest_SelectDweller	Select Dweller	选择居民
+Controls_Xbox_Quest_Settings	Settings	设置
+Controls_Xbox_Quest_Target	Target Enemy (Hold)	瞄准目标（按住）
+Controls_Xbox_Quest_ZoomIn	Zoom In	放大
+Controls_Xbox_Quest_ZoomOut	Zoom Out	缩小
+Controls_Xbox_Vault_Build	Build	建造
+Controls_Xbox_Vault_Clipboard	Clipboard	剪贴板
+Controls_Xbox_Vault_DwellerList	Dweller List	居民列表
+Controls_Xbox_Vault_GrabDweller	Grab Dweller (Hold)	抓住居民（按住）
+Controls_Xbox_Vault_HappinessBonus	Happiness Bonus	幸福度奖励
+Controls_Xbox_Vault_MoveCamera	Move Camera	移动镜头
+Controls_Xbox_Vault_MoveCursor	Move Cursor	移动光标
+Controls_Xbox_Vault_NCQ	Nuka-Cola Quantum	量子核子可乐
+Controls_Xbox_Vault_PipBoy	Pip-Boy	哔哔小子
+Controls_Xbox_Vault_ResetCamera	Reset Camera (Click)	重置镜头（点击）
+Controls_Xbox_Vault_ResetCamera_Switch	Reset Camera (Press)	重置镜头（按）
+Controls_Xbox_Vault_Resources	Resources (Click)	资源（点击）
+Controls_Xbox_Vault_Resources_Switch	Resources (Press)	资源（按）
+Controls_Xbox_Vault_RoomAction	Room Action	房间行动
+Controls_Xbox_Vault_Screenshot	Screenshot	截屏
+Controls_Xbox_Vault_SelectDweller	Select Dweller	选择居民
+Controls_Xbox_Vault_Settings	Settings	设置
+Controls_Xbox_Vault_SurpriseQuest	Explore Wasteland Location	探索废土地点
+Controls_Xbox_Vault_Upgrade	Upgrade Room	升级房间
+Controls_Xbox_Vault_Wasteland	Wasteland	废土
+Controls_Xbox_Vault_ZoomIn	Zoom In	放大
+Controls_Xbox_Vault_ZoomOut	Zoom Out	缩小
+Crafting_Cancel_Confirmation	The Junk you used will be fully refunded, but only part of the CAPS you spent. Are you sure?	您所使用的杂物将全部返还，但花费的瓶盖只有部分返还。您确定这么做吗？
+Crafting_Cancel_Ultracite_Confirmation	The Ultracite you used will be fully refunded, but only part of the CAPS you spent. Are you sure?	你使用的辐射极琉矿将全额退还，但你花费的瓶盖只会退还一部分。确定吗？
+Crafting_Cost	COST	花费
+Crafting_Crafted	CRAFTED!	打造完成！
+Crafting_FragmentsCounter	{0}/{1} RECIPE FRAGMENTS FOUND	发现{0}/{1}的配方碎片
+Crafting_FreeJunk_Main1	HERE ARE SOME RECIPES AND JUNK TO MAKE A WEAPON AND AN OUTFIT YOU CAN ONLY GET THROUGH CRAFTING.	这里有一些配方和杂物，能打造出无法通过其他途径获得的武器和装备。
+Crafting_FreeJunk_Main2	MANY OTHER ITEMS CANNOT BE FOUND, ONLY CRAFTED. WHEN CHOOSING WHAT TO CRAFT, THESE ARE MARKED BY THE CRAFTING ICON.	还有许多物品无法找到，只能靠打造获得。选择要打造的物品时，它们会带有打造图标标识。
+Crafting_FreeJunk_Title	IT'S TIME TO START CRAFTING!	可以开始打造了！
+Crafting_InProgress	CRAFTING IN PROGRESS	打造进行中
+Crafting_Junk_Required	RECIPE REQUIRED	需要配方
+Crafting_Start_Confirmation	Craft {0}?	打造{0}？
+Crafting_Time	TIME	时间
+CurieDialog_Armory_01	I suppose this is where we learn to shoot each other better.	我猜这里就是我们学习如何更好地互相射击的地方。
+CurieDialog_Athletics_01	I had no idea humans were capable of these movements!	我没想到人类竟然能做出这些动作！
+CurieDialog_Bar_01	Pardon me, monsieur, I would like a drink.	请见谅，先生，我想来一杯酒。
+CurieDialog_Cafeteria_01	I will do my best to provide a balanced meal. Even with such… inferior ingredients.	我会尽我所能提供均衡的一餐。即便用的是这些……劣质食材。
+CurieDialog_Classroom_01	Settle down, class! It is lecture time!	安静，同学们！现在是讲课时间！
+CurieDialog_Classroom_02	What should we learn about first? Diagnostics? Biochemistry?	我们先学什么好呢？诊断学？生物化学？
+CurieDialog_Fitness_01	Keeping the body strong is one of the best ways to stay healthy!	强健体魄是保持健康的最佳途径之一！
+CurieDialog_GameRoom_01	Games of chance? What benefit does this bring to humanity?	碰运气的游戏？这对人类有什么益处呢？
+CurieDialog_GameRoom_02	May I try rolling the dice? Perhaps I will understand its purpose if I engage in the activity.	我可以试试掷骰子吗？也许亲自参与之后，我就能明白它的意义了。
+CurieDialog_Generic_01	You are such a fascinating specimen.	您真是个迷人的样本。
+CurieDialog_Generic_02	Ah, I am living in a Vault once more. That is life...	啊，我再一次住进避难所了。这就是生活……
+CurieDialog_Generic_03	Do not squander opportunities to effect positive change.	不要浪费促成积极改变的机会。
+CurieDialog_Generic_04	Can I help you?	需要帮忙吗？
+CurieDialog_Generic_05	What is it?	怎么了？
+CurieDialog_Generic_06	Do you need something?	您需要什么吗？
+CurieDialog_Generic_07	What shall we talk about?	我们聊点什么好呢？
+CurieDialog_Generic_08	Can I help you with something?	有什么我能帮您的吗？
+CurieDialog_Generic_09	Good evening! I am at your service.	晚上好！随时为您效劳。
+CurieDialog_Generic_10	I wish there were sunlight in the Vault.	真希望避难所里能有阳光。
+CurieDialog_Generic_11	Do you require medical assistance?	您需要医疗救助吗？
+CurieDialog_Generic_12	Would anyone like to go for a walk outside? Get some fresh air?	有人想出去散散步吗？呼吸点新鲜空气？
+CurieDialog_Generic_13	There is always much to do. But all I want to do is research.	总是有很多事要做。可我满脑子只想做研究。
+CurieDialog_Generic_14	I am a scientist, but now I do chores. Perhaps I can automate these…	我是一名科学家，可现在却在干杂活。也许我可以把这些活儿自动化……
+CurieDialog_Generic_15	If you have any problems with my service, speak to the Overseer.	如果您对我的服务有任何意见，请向监督者反映。
+CurieDialog_Generic_16	Good morning! Or, is it the evening?	早上好！哦，还是说现在是傍晚？
+CurieDialog_Generic_17	This Vault is so much more functional than my previous home.	这座避难所比我之前住的地方实用多了。
+CurieDialog_Generic_18	The Vault has some truly amazing technology.	这座避难所确实拥有一些真正令人惊叹的科技。
+CurieDialog_Generic_19	It is so confined here. I suppose will distract myself with work.	这里太局促了。我想我会用工作来转移注意力。
+CurieDialog_Generic_20	If only we could all live outside. But, it is not very nice out there either.	要是我们都能住在外面就好了。不过，外面也不太好过。
+CurieDialog_Generic_21	Are you well? Can I get you something?	您还好吗？需要我为您拿点什么吗？
+CurieDialog_Generic_22	Anyone would like to be a test subject for me? I promise no harm will come to you! I hope…	有人愿意当我的试验对象吗？我保证不会伤害到您！但愿如此……
+CurieDialog_Generic_23	Welcome to your Vault! It is very nice, as far as Vaults go.	欢迎来到您的避难所！就避难所而言，这儿相当不错了。
+CurieDialog_Generic_24	Why do we not use stairs in the Vault? It would be much more healthy for our Dwellers.	我们为什么不在避难所里使用楼梯呢？这对我们居民的健康会有好处。
+CurieDialog_Generic_25	If anyone needs a checkup, I am here for that!	如果有人需要体检，我随时都在！
+CurieDialog_Gym_01	Always work with a partner, to reduce the risk of injury!	锻炼时一定要找搭档，以降低受伤风险！
+CurieDialog_Gym_02	Remember to stretch before and after your workout.	记得在锻炼前后都要做拉伸。
+CurieDialog_Hydroponics_01	Oh! The color in this room is so spectacular! I wish to stay here forever.	哦！这个房间的色彩太绚烂了！我真想永远待在这里。
+CurieDialog_LivingQuarters_01	Please remember, proper sleep is the most important thing for mental health!	请记住，充足的睡眠对心理健康是最重要的！
+CurieDialog_LivingQuarters_02	I am told that dancing is very good exercise.	我听说跳舞是很棒的运动。
+CurieDialog_Medbay_01	My Stimpaks have gone through extensive quality control. Would you like one?	我的治疗针都经过了严格的质量把关。您想要一支吗？
+CurieDialog_Medbay_02	Do you need a Stimpak? I have made extra.	您需要治疗针吗？我多做了一些。
+CurieDialog_Nuka Cola_01	Some studies show drinking Nuka-Cola can be extremely habit forming. Bordering on addiction.	有些研究表明，饮用核子可乐极易让人形成依赖。几乎可以说是成瘾。
+CurieDialog_OutfitWorkshop_01	I love this room! Clothing is art and function. What better way is there to spend time?	我爱这个房间！服装既是艺术，也是实用品。还有什么更好的方式打发时间吗？
+CurieDialog_PowerGenerator_01	These machines are truly marvelous.	这些机器真是奇妙。
+CurieDialog_RadioStation_01	Please let me know if you would like an interview with me. I am a medical and scientific expert!	如果您想采访我，请告诉我。我可是医学和科学专家！
+CurieDialog_Reactor_01	The power in this room is astounding. I can feel it in my circuits!	这个房间里的能量惊人。我的电路里都能感受到它！
+CurieDialog_ScienceLab_01	Since the bombs fell, surely there have been scientific advances?	自从核弹落下以来，科学一定已经取得了不少进展吧？
+CurieDialog_ScienceLab_02	I have made some medicine for you. If you like.	我为您制作了一些药物。如果您愿意的话。
+CurieDialog_StorageRoom_01	Humans are so fixated on possessions that they dedicate entire rooms to hoarding them.	人类如此执着于财物，以至于会腾出整个房间来囤积它们。
+CurieDialog_Wasteland_1	It is such a pleasure to travel.	旅行真是件乐事。
+CurieDialog_Wasteland_2	I do enjoy traveling. It is very satisfying.	我确实喜欢旅行，这让我很满足。
+CurieDialog_Wasteland_3	The offensive capabilities of this Deathclaw are quite advanced.	这只死爪的攻击能力相当先进。
+CurieDialog_Wasteland_4	Does no one in this Wasteland have manners any more?	这片废土上难道再也没有人讲礼貌了吗？
+CurieDialog_Wasteland_5	You should know that I am regrettably quite skilled in the use of violence.	您该知道，很遗憾，我对暴力相当在行。
+CurieDialog_Wasteland_6	Oh, no good can come from this.	哦，这下可没好事了。
+CurieDialog_Wasteland_7	An injured human! I will administer first aid and trauma stabilizers…	一个受伤的人类！我会进行急救并使用创伤稳定剂……
+CurieDialog_Wasteland_8	I have so much data! I have much to do once I am home.	我积累了这么多数据！等回家后，我有好多事要做。
+CurieDialog_Wasteland_9	The people out here seem most eager for violence, no?	这里的人似乎对暴力趋之若鹜，不是吗？
+CurieDialog_Wasteland_10	So many people, and so much technology, lost.	这么多人、这么多科技，全都消逝了。
+CurieDialog_Wasteland_11	And again with the killing... *sigh*	又是杀戮……唉。
+CurieDialog_Wasteland_12	This is curious. Are not boats supposed to be in the water?	这可真奇怪。船难道不是应该待在水里吗？
+CurieDialog_Wasteland_13	Navigating the Wasteland is so complicated. Is there some sort of manual for it?	穿越废土可真复杂。有什么使用手册之类的吗？
+CurieDialog_Wasteland_14	Freedom at long last.	终于自由了。
+CurieDialog_Wasteland_15	Out here, I can study some of the indigenous species!	在这里，我可以研究一些当地的原生物种！
+CurieDialog_Wasteland_16	Look! In the sky! Is it what we call a UFO?	看！天上那是什么？那就是我们所说的不明飞行物吗？
+CurieDialog_Wasteland_17	I detect enemies. I'm afraid I must neutralize them.	我探测到敌人了。恐怕我得清除他们。
+CurieDialog_Wasteland_18	I found a box of… Power Noodles? Sounds very nutritious.	我发现一盒……能量面条？听起来很有营养。
+CurieDialog_Wasteland_19	Oh, a Mr. Handy! But, I think this robot is broken.	哦，一台巧手先生！不过，我想这个机器人是坏的。
+CurieDialog_Wasteland_20	A Mole rat. What a fascinating specimen!	一只鼹鼠。多么迷人的样本！
+CurieDialog_Wasteland_21	A Super Mutant! So that is what the Forced Evolutionary Virus is capable of. Amazing.	超级变种人！原来这就是强制进化病毒能做到的事。太了不起了。
+CurieDialog_Wasteland_22	What a fascinating place.	多么迷人的地方。
+CurieDialog_Wasteland_23	What a strange place for a quarry.	这里作为采石场可真奇怪。
+CurieDialog_Wasteland_24	Those Ghouls were so aggressive! Are they what people call “feral”?	那些尸鬼攻击性太强了！它们就是人们所说的“狂尸鬼”吗？
+CurieDialog_Wasteland_25	Where are all the people?	所有人都去哪了？
+CurieDialog_Wasteland_26	Oh, look, a park.	哦，看，一个公园。
+CurieDialog_Wasteland_27	Raiders! They do not look like they will negotiate. I will be forced to use violence again. Such a waste of life.	掠夺者！他们看起来根本不打算谈判。我又要被迫诉诸武力了。真是浪费生命。
+CurieDialog_Wasteland_28	Sample collected. I suspect it is partially digested meats and other biological matter.	已采集样本。我怀疑是半消化的肉类和其他生物物质。
+CurieDialog_Wasteland_29	I found a cadaver! I will stop a while to study it.	我发现一具尸体！我要停留一会儿好好研究它。
+CurieDialog_Wasteland_30	I believe that is a Yao Guai. The sight of them must give humans an enormous fear response.	我相信那是妖怪熊。光是看到它们，就一定能让人类产生巨大的恐惧反应。
+CurieDialog_Wasteland_31	My goodness, this is Power Armor! It is a technological marvel. Too bad this one is broken.	我的天，这是动力装甲！这可是技术杰作。可惜这一件已经坏了。
+CurieDialog_Wasteland_32	I see a Radstag. I wonder, with two heads, can it ever disagree with itself?	我看到了一只辐射鹿。我很好奇，长着两个脑袋，它会不会自己跟自己吵架？
+CurieDialog_Wasteland_33	I believe now is a good time to go North.	我想现在是去北边的好时机。
+CurieDialog_Wasteland_34	I believe now is a good time to go East	我想现在是去东边的好时机。
+CurieDialog_Wasteland_35	I believe now is a good time to go West	我想现在是去西边的好时机。
+CurieDialog_Wasteland_36	I believe now is a good time to go South	我想现在是去南边的好时机。
+CurieDialog_Wasteland_37	I have been going North for some time. I will continue.	我已经往北走了一阵子。我会继续走下去。
+CurieDialog_Wasteland_38	I have been going East for some time. I will continue.	我已经往东走了一阵子。我会继续走下去。
+CurieDialog_Wasteland_39	I have been going West for some time. I will continue.	我已经往西走了一阵子。我会继续走下去。
+CurieDialog_Wasteland_40	I have been going South for some time. I will continue.	我已经往南走了一阵子。我会继续走下去。
+CurieDialog_Wasteland_41	Some Radroaches are approaching. Sadly, I must squish them.	有几只辐射蟑螂正在靠近。很遗憾，我必须踩扁它们。
+CurieDialog_Wasteland_42	There is something vile approaching. I can hear skittering.	有某种恶心的东西正在靠近。我能听到窸窸窣窣的爬行声。
+CurieDialog_Wasteland_43	I just met a group of traders with an enormous Brahmin. It is a wonderful creature!	我刚遇到一群商人，带着一头巨大的双头牛。真是一只奇妙的生物！
+CurieDialog_Wasteland_44	Hey, keep your hands off of me! I am not scrap metal!	喂，别碰我！我不是废铁！
+CurieDialog_Wasteland_45	I have found a field of fragmentation mines. It is horrible, how many ways humans kill each other.	我发现了一片破片地雷场。人类互相残杀的方式之多，真是可怕。
+CurieDialog_Wasteland_46	A bottle of alcohol. I wonder why humans are so attracted to this poison.	一瓶酒。我好奇人类为什么对这种毒药如此着迷。
+CurieDialog_Wasteland_47	Look at all the cars! Will any of them ever drive again?	看看这些汽车！它们之中还有哪辆能再开动吗？
+CurieDialog_Wasteland_48	They call my intelligence artificial, but I believe I am smarter than most of the people out here.	他们说我的智能是人工的，但我认为我比这里大多数人都更聪明。
+CurieDialog_Wasteland_49	A farm! An actual, active farm! It fills me with such hope. Perhaps civilization may bloom once more.	一个农场！一个实实在在、运营中的农场！它让我满怀希望。也许文明能再次绽放。

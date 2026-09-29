@@ -1,0 +1,110 @@
+{
+ "batch": 59,
+ "items": [
+  {
+   "key": "QuestLoc_AllWorkandNoPlay_Conversation_2_NPCEnd_4",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Tell you what＝「这样吧」非「跟你们说」；同句你们/你跳换，「这个…这个…可能能」叠用；fix 改复数与 ES/DE/RU 单数 you 不符。",
+   "final_fix": "这样吧，拿着这个。它也许能保护你，但也可能没用。"
+  },
+  {
+   "key": "QuestLoc_AllWorkandNoPlay_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "NPC 问「放我们走行吗？」（Cool?），玩家答 Cool.＝「行/可以」；ZH「赞。」是点赞式感叹，不构成许可（ES De acuerdo）。",
+   "final_fix": "行。"
+  },
+  {
+   "key": "QuestLoc_AllWorkandNoPlay_Conversation_2_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 只是疑问句 where is Overseer Chang，ZH 硬加祈使「告诉我们」与问号拼成杂糅句；ES/FR/DE/RU 四语均无「告诉我们」。",
+   "final_fix": "好吧。不过监督者阿昌在哪儿？"
+  },
+  {
+   "key": "QuestLoc_AllsFairinLoveandNuclearWar_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 无「快来」，此召唤语气系增译（584 条目标仅此 2 条）；special someone 在 FR/DE/RU 均作意中人。",
+   "final_fix": "去见见那位特别的人。"
+  },
+  {
+   "key": "QuestLoc_ArghMatey_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Let's feed 'em to the fishes! 是海盗吆喝，ZH 照搬「让我们……吧！」成会议腔；ES/RU 同为喊杀式祈使。",
+   "final_fix": "把他们丢去喂鱼！"
+  },
+  {
+   "key": "QuestLoc_ArmsRace_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "as promised 意为「说到做到/如约」，「就像保证的那样」是照搬；「一个武器」量词误用，武器论件或把。",
+   "final_fix": "嗯，说到做到，我给你们准备了一件武器。"
+  },
+  {
+   "key": "QuestLoc_AtDeathsDoor_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "This is it 表「时候到了」，本工程他处即译「就是这一刻／就是现在」，ZH「这下对了」变成搞对了；Time to 被吞掉，后半句成半截。",
+   "final_fix": "就是现在，大伙。该和“死亡”共舞了。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN his 指 Famine，ZH 前用「他」后用「它」，紧接指部落的「它们」之后，这个「它」易被读成部落自己，指代串位。",
+   "final_fix": "“饥饿部落”只是跟在他后面四处游荡，被他身上的放射性光环迷得神魂颠倒。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 两个 them 同指尸鬼，ZH 先「他们」后「它们」人称跳换；than usual 是「比平时」，「比以往更饥饿」生硬且失准。",
+   "final_fix": "它能治好他们，但不知怎么回事，也会让他们比平时饿得多。"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_2_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Why is Famine so hungry 是口语问句，ZH「为何如此饥饿」成文言腔；同组选项均用「为什么」，且缺引号易读成饥荒灾情。",
+   "final_fix": "“饥荒”为什么这么饿？"
+  },
+  {
+   "key": "QuestLoc_BeatReporting_Conversation_3_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN at least 修饰「人人都能加入」，ZH 把「至少」悬在逗号后，易被读成修饰下句「不加入的就被攻击」，让步对象反了。",
+   "final_fix": "征服。至少人人都能加入“战争崇拜者”，只不过不加入的人就会挨打。"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "What's that? 是对狗／监督者的回应＝「你说什么？」，FR Pardon?／DE Wie? 皆然；ZH「那是什么」问实物，与下句脱节。",
+   "final_fix": "不，我不是！监督者，告诉他们我没有疯！你说什么？哦，你想和他们一起去？我想应该可以……"
+  },
+  {
+   "key": "QuestLoc_BewareofOverdog_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "almost 100% certain 的 almost 被漏译，ZH「可以百分百确定」抹掉自嘲分寸；FR/DE 均保留 almost。",
+   "final_fix": "我们几乎百分百确定你疯了。"
+  },
+  {
+   "key": "QuestLoc_Blackout_Conversation_1_NPCEnd_1",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "mothership 是母舰（DE Mutterschiff），ZH「航母」在工程内指 aircraft carrier；up the street 漏译。",
+   "final_fix": "在街那头我们的仓库里。你一直说自己是来自泽塔母舰的外星人。"
+  },
+  {
+   "key": "QuestLoc_Blackout_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Auto Plant 的 Auto 是汽车（ES planta de coches），ZH「自动化工厂」误读成 automatic，凭空添设定。",
+   "final_fix": "新年第一天……昨夜避难所举行了隆重的派对活动。但是监督者的儿子杰克失踪了。我们必须找到他！现在只知道12点之前他还和我们在一起，但之后发生了什么完全是一片模糊，我们都穿着防辐射服，所以我们应该是去过可伟佳汽车厂……"
+  }
+ ]
+}

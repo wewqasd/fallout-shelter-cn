@@ -1,0 +1,71 @@
+{
+  "chunk": "066",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "SnipSnipDialog_Wasteland_29",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 的 I'm better than this 是巧手先生的自负：这种粗活配不上我。各语言都作此解（西语 Estoy por encima de eso「我比这高一等」、法语 Je ne suis pas un éboueur「我不是捡垃圾的」、意大利语 So fare di meglio「我能做得更好」、德语 «das ist wirklich unter meinem Niveau»「这低于我的档次」、俄语 «я способен на большее»「我本可以做得更多」）。ZH 写成「我可不是干这个的料」——中文里这句是「没这个天分／不适合干这行」，把角色的傲慢换成了自认无能，人物语气正好说反。",
+      "fix": "像个乡巴佬一样在废土上捡破烂？我可比这强多了。",
+      "confidence": "high"
+    },
+    {
+      "key": "SnipSnipDialog_Wasteland_27",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "反讽落点在 just fine：人类自己人反自己人「干得漂亮」，根本轮不到机器人动手（法语 «Ils n'ont pas eu besoin de nous...»「他们根本不需要我们」、俄语 «сами себя прекрасно уничтожили. Без нашей помощи.»、意大利语 «Si sono distrutti tra loro. Bravi.»）。ZH「他们自己的内斗都控制不住了」把「做得很在行」换成「内斗失控、管不住」，讽刺的夸奖变成了批评人类控制力差，反讽点丢失。",
+      "fix": "人类居然还担心机器人会反叛他们。他们自己人跟自己人作对，倒是干得漂亮……",
+      "confidence": "high"
+    },
+    {
+      "key": "SnipSnipDialog_Wasteland_94",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "EN 明确是 beating each other to death（往死里打），西语 matándose、法语 s'entretuer、德语 «zu Tode prügeln»、俄语 «избивают друг друга до смерти» 都点明是致死斗殴。ZH「正在用轮胎扳手互相殴打」把 to death 整层丢掉，机器人平静围观一场致死厮杀的黑色幽默降级成普通打架，后半句 Go, humanity 的反讽也失去落点。",
+      "fix": "看啊，两个人类正在用轮胎扳手把对方往死里打。人类真是太棒了。",
+      "confidence": "high"
+    },
+    {
+      "key": "SnipSnipDialog_Wasteland_42",
+      "severity": "S3",
+      "type": "多译",
+      "problem": "EN 的 I'll find what I find 是「碰上什么算什么」的将就语气（西语 Encontraré lo que tenga que encontrar、法语 Je ramasse la première chose que je trouve、俄语 «Я найду, что смогу найти»）。ZH「我会找到需要的东西」凭空加了原文没有的「所需／需要」这一目的性信息，把巧手先生随缘搜刮、敷衍了事的态度改成有目标的行动。",
+      "fix": "找到什么算什么，然后就回去。英雄主义什么的可不适合像我这样的巧手先生！",
+      "confidence": "high"
+    },
+    {
+      "key": "Social_Button_SendHelpRequest",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 是向好友求赠杂物／礼物的请求，西语 ENVIAR SOLICITUDES、法语 ENVOYER DES DEMANDES、意大利语 INVIA RICHIESTE、德语 ANFRAGE SCHICKEN、俄语 «Отправить просьбы» 用的都是「请求／恳求」。ZH「发送要求」的「要求」在中文里是命令式索取或条件（本表 Help_Page26 把 quest requirements 就译作「要求」：奖励，要求和状态），按钮读起来像「发送要求／提条件」，与这个功能不符；同一处社交文本 Social_NoHelpRequests 用的却是「礼物请求」。",
+      "fix": "发送请求",
+      "confidence": "medium"
+    },
+    {
+      "key": "Social_Filter_HelpRequests",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "同一社交面板的筛选项来自 REQUESTS，西语 SOLICITUDES、法语 DEMANDES、意大利语 RICHIESTE、德语 ANFRAGEN、俄语 «Просьбы» 都是「请求」。ZH 写作「要求」，而本表「要求」已被用作 requirements（Help_Page26「奖励，要求和状态」），且同批 Social_NoHelpRequests 作「礼物请求」，同一功能两个说法；玩家会把「要求」读成条件／要求清单，而不是好友发来的求赠请求。",
+      "fix": "请求",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC1_Topic16",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "EN 是 knock-knock 笑话的固定开场，各语言都用本语言敲门拟声词（西语/法语/意大利语 Toc toc、德语 Klopf klopf、俄语 «Тук-тук»），中文这一开场约定俗成是「咚咚咚」。「叩叩」是书面色彩很重的动词叠用，不是中文讲这个笑话的开场；更直接的证据是同一组对话的回应 Speech_Conversation_NPC2_Topic16_Response2 写的是「别再讲“咚咚咚”的笑话」，各语言此处都用与开场相同的拟声词（toc toc / Klopf klopf / тук-тук），而中文引子与回应成了两个说法，玩家接不上。",
+      "fix": "咚咚咚。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC1_Topic36",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "与 Speech_Conversation_NPC1_Topic16 是同一句（EN、ZH 完全相同），同为 knock-knock 开场，中文习惯的敲门拟声词是「咚咚咚」，需与前者一并修改，否则同一句台词在游戏里仍是两种写法。",
+      "fix": "咚咚咚。",
+      "confidence": "medium"
+    }
+  ]
+}

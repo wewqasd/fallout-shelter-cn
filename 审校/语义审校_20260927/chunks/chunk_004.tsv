@@ -1,0 +1,181 @@
+key	EN	ZH
+Encounter_Defeat_NPC2	So much blood. I can't stop it. I'm afraid the Sheriff doesn't have much longer.	血流了一地。我止不住。恐怕警长撑不了多久了。
+Encounter_Defeat_NPC3	I guess I'm not as charming as I thought. The Ghoul refuses to talk to me.	我根本没自己想的那么有魅力。尸鬼拒绝和我说话。
+Encounter_Defeat_NPC4	I pushed my luck. The Merchant didn't like the deal I proposed.	是我得寸进尺了。商人并不喜欢我提的买卖。
+Encounter_Defeat_NPC5	The Talon Company Mercs drew their guns and told me to leave. I did.	鹰爪公司的雇佣兵拔出他们的枪，让我离开。我照做了。
+Encounter_Defeat_NPC6	I couldn't locate the Yao Guai. The Hunter thinks I'm completely incompetent.	我找不到妖怪熊。猎人认为我很无能。
+Encounter_Defeat_NPC7	The Drunken Drifter thought I took too big a gulp. He left angry, and took his bottle.	醉酒的流浪者嫌我一口灌得太猛，气冲冲地走了，酒瓶也拿走了。
+Encounter_Defeat_NPC8	The Brotherhood Patrol doesn't trust me. They ordered me to leave, or they'd open fire.	兄弟会巡逻队不信任我。他们命令我离开，否则他们会开枪。
+Encounter_Defeat_NPC9	I couldn't find the settlement. Now the Lost Farmer is even worse off than before.	我找不到定居点。现在迷路的农民的状况比以前更糟了。
+Encounter_Defeat_NPC10	Nope. I was wrong. Repairing the Mister Handy is way too technical for me.	不，我错了。修理巧手先生对我来说太难了。
+Encounter_Defeat_Repeatable_JunkLocation1	I can't do it. I'm just not strong enough.	我做不到，我的力气还不够大。
+Encounter_Defeat_Repeatable_JunkLocation2	Shouldn't have done that! I had to run out with the building collapsing behind me.	就不该那么干！大楼在我身后轰然坍塌，我只好夺路而逃。
+Encounter_Defeat_Repeatable_JunkLocation3	I can't get close enough. The Lake's radiation is making me sick.	我无法靠近。湖水的辐射使我感到恶心。
+Encounter_Defeat_Repeatable_JunkLocation4	The Room's security is too advanced. I can't get the door open.	这个房间的安保太高级了，我根本打不开那扇门。
+Encounter_Defeat_Repeatable_JunkLocation5	A blade trap I failed to spot nearly took my head off. I better turn back.	一个我没察觉到的刀片陷阱，差点把我的脑袋削下来。还是回头吧。
+Encounter_Defeat_Repeatable_JunkLocation6	It's no good, they won't open the door. I guess I better move on.	不太妙，他们不开门。我想我还是继续往前吧。
+Encounter_Defeat_Repeatable_JunkLocation7	Walked right into a string of tin cans. Time to run!	一脚踩进一串锡罐，绊线警报响了。赶紧跑！
+Encounter_Defeat_Repeatable_JunkLocation8	There's absolutely nothing left. I'm not surprised, but it's still disappointing.	什么都没剩下。我不觉得惊讶，就是有点失望。
+Encounter_Defeat_Repeatable_JunkLocation9	It's a lost cause. I can't make heads or tails of all these wires and capacitors.	没救了。这一堆电线和电容，我根本理不出个头绪。
+Encounter_Defeat_Repeatable_JunkLocation10	That just made them angrier. I got scratched up running past them to the exit.	这让他们更愤怒了。跑向出口的途中我被抓伤了。
+Encounter_Defeat_Repeatable_JunkLocation11	It's still going, but I'm exhausted. There's no way I'll catch it now.	它还在跑，可我已经筋疲力尽。这下说什么也追不上它了。
+Encounter_Defeat_Repeatable_JunkLocation12	I made it to the nearest tree line without incident.	我一路无事，跑到了最近的树林边缘。
+Encounter_Effect_Damage	Suffered {0} damage.	遭受{0}点伤害。
+Encounter_Effect_Experience	Earned {0} XP.	获得{0}点经验。
+Encounter_Effect_Gear	Found a {0}.	找到{0}。
+Encounter_Effect_Item	Also found {0}.	还找到了{0}。
+Encounter_Effect_Radiation	Suffered {0} points of radiation damage	受到{0}点辐射伤害
+Encounter_Intro_Creature1	Observed {0}	观察到{0}
+Encounter_Intro_Creature2	Detected {0}	侦察到{0}
+Encounter_Intro_Creature3	Identified {0}	辨认出{0}
+Encounter_Intro_Creature4	Spotted {0}	瞥见{0}
+Encounter_Intro_Creature5	Found {0}	发现{0}
+Encounter_Intro_Creature6	Saw {0}	看见{0}
+Encounter_Intro_Location1	Located {0}	发现了{0}
+Encounter_Intro_Location2	Found {0}	发现{0}
+Encounter_Intro_Location3	Came upon {0}	来到{0}
+Encounter_Intro_Location4	Reached {0}	到达{0}
+Encounter_Intro_Location5	Discovered {0}	发现{0}
+Encounter_Intro_Location6	Stumbled across {0}	误打误撞发现了{0}
+Encounter_Intro_NPC1	Detected {0}	侦察到{0}
+Encounter_Intro_NPC2	Met {0}	遇见{0}
+Encounter_Intro_NPC3	Located {0}	发现了{0}
+Encounter_Intro_NPC4	Found {0}	发现{0}
+Encounter_Intro_NPC5	Discovered {0}	发现{0}
+Encounter_Intro_NPC6	Encountered {0}	遇到{0}
+Encounter_Journal_Message26	Explorer's journal. New entry. Fancy Lads snack cakes provide excellent sustenance.	探险家日志。新条目：俏男孩夹心蛋糕提供了极好的营养。
+Encounter_Journal_Message27	Explorer's journal. New entry. Whoever chose the name “Deathclaw” wasn't kidding.	探险家日志。新条目：起了“死爪”这个名字的人可真不是在开玩笑。
+Encounter_Journal_Message28	Explorer's journal. New entry. Societal infrastructure is completely dismantled.	探险家日志。新条目：社会的基础设施早已彻底瓦解。
+Encounter_Journal_Message29	Explorer's journal. New entry. In the Wasteland, trust can get you killed. 	探险家日志。新条目：在废土上，轻信会害你送命。
+Encounter_Journal_Message30	Explorer's journal. New entry. Some pre-war robots remain, but programming often faulty.	探险家日志。新条目：一些战前机器人仍然存在，但程序经常出现故障。
+Encounter_Journal_Message31	Explorer's journal. New entry. Old religions mostly gone, replaced by cults.	探险家日志。新条目：旧日的宗教大多消亡，取而代之的是邪教。
+Encounter_Journal_Message32	Explorer's journal. New entry. Everyone is armed. Guns are commonplace.	探险家日志。新条目：人人身上都带着家伙。枪支随处可见。
+Encounter_Journal_Message33	Explorer's journal. New entry. Fashion is dead. You wear what keeps you alive.	探险家日志。新条目：时尚已死。你只穿那些能让你活命的装备。
+Encounter_Journal_Message34	Explorer's journal. New entry. TVs don't work, but radio broadcasts are common.	探险家日志。新条目：电视早就没法用了，倒是无线电广播很常见。
+Encounter_Journal_Message35	Explorer's journal. New entry. Old buildings have supplies, but they're often guarded.	探险家日志。新条目：曾经的建筑物有物资，但它们通常有人看着。
+Encounter_Journal_Message36	Explorer's journal. New entry. Everywhere I look, death. Suffering. And... hope.	探险家日志。新条目：放眼望去，死亡。苦难。还有……希望。
+Encounter_Journal_Message37	Explorer's journal. New entry. I've seen children, families. Life goes on.	探险家日志。新条目：我见过孩子，也见过一个个家庭。日子还在继续。
+Encounter_Journal_Message38	Explorer's journal. New entry. Marriage is not uncommon. You can't kill love.	探险家日志。新条目：结婚并不少见。爱情是杀不死的。
+Encounter_Journal_Message39	Explorer's journal. New entry. Radscorpion. Stinger plus claws equals death.	探险家日志。新条目：辐射蝎。尾刺加螯钳，等于死亡。
+Encounter_Journal_Message40	Explorer's journal. New entry. Lock picking is an essential skill for gaining access.	探险家日志。新条目：开锁是进入各处的必备技能。
+Encounter_Journal_Message41	Explorer's journal. New entry. Many functional computer terminals. Hacking a necessity. 	探险家日志。新条目：不少计算机终端还能正常运转。黑客技术必不可少。
+Encounter_Journal_Message42	Explorer's journal. New entry. Medical training is essential for survival.	探险家日志。新条目：医学训练是生存的关键。
+Encounter_Journal_Message43	Explorer's journal. New entry. The Brotherhood of Steel favors technology. Worships it.	探险家日志。新条目：钢铁兄弟会崇尚科技，甚至把它当神明崇拜。
+Encounter_Journal_Message44	Explorer's journal. New entry. Training with a variety of guns is a must. 	探险家日志。新条目：各式枪支都得练熟。
+Encounter_Journal_Message45	Explorer's journal. New entry. Music, painting, dance. Art and culture survive.	探险家日志。新条目：音乐、绘画、舞蹈。艺术与文化仍延续至今。
+Encounter_Message_Creature1	a Savage Dog, snarling angrily.	一只凶残的野狗，正愤怒地低吼。
+Encounter_Message_Creature2	a hideous little Mole rat.	一只丑陋的小鼹鼠。
+Encounter_Message_Creature3	a Bloatfly, buzzing dangerously close.	一只巨大苍蝇，危险地嗡嗡叫着靠近。
+Encounter_Message_Creature4	a disgusting Radroach.	一只令人讨厌的辐射蟑螂。
+Encounter_Message_Creature5	a terrifying Yao Guai!	一只可怕的妖怪熊！
+Encounter_Message_Creature6	a wandering Feral Ghoul.	一只四处游荡的狂尸鬼。
+Encounter_Message_Creature7	a Giant Ant.	一只巨型蚂蚁。
+Encounter_Message_Creature8	a Scavenger's Dog, sniffing for salvage.	一只拾荒者的狗，嗅着废品的味道。
+Encounter_Message_Creature9	a Giant Worker Ant.	一只巨型工蚁。
+Encounter_Message_Creature10	a Radscorpion.	一只辐射蝎。
+Encounter_Message_Creature11	a Giant Soldier Ant.	一只巨型兵蚁。
+Encounter_Message_Creature12	a Fire Ant Soldier.	一只火兵蚁。
+Encounter_Message_Creature13	a Guard Dog, watching the area.	一只看门狗，正警戒着四周。
+Encounter_Message_Creature14	a Fire Ant Warrior.	一只火蚁战士。
+Encounter_Message_Creature15	a barnacle-encrusted Mirelurk.	一只结满藤壶的泥沼蟹。
+Encounter_Message_Creature16	a psychotic Feral Ghoul Roamer.	一只癫狂的狂尸鬼漫游者。
+Encounter_Message_Creature17	a Giant Radscorpion.	一只巨型辐射蝎。
+Encounter_Message_Creature18	a Mirelurk Hunter.	一只泥沼蟹猎杀者。
+Encounter_Message_Creature19	a Vicious Dog, ripping apart a corpse.	一只恶犬，正在撕咬一具尸体。
+Encounter_Message_Creature20	a repulsive Centaur.	一只令人厌恶的多脚兽。
+Encounter_Message_Creature21	a dangerous Feral Ghoul Reaver.	一个危险的狂尸鬼掠夺者。
+Encounter_Message_Creature22	a deadly Deathclaw.	一只致命的死爪。
+Encounter_Message_Creature23	an Enclave Deathclaw.	一只英克雷死爪。
+Encounter_Message_Creature24	a Super Mutant.	一个超级变种人。
+Encounter_Message_Creature25	a Super Mutant Master.	一个超级变种人大师。
+Encounter_Message_Creature26	a Super Mutant Overlord.	一个超级变种人霸王。
+Encounter_Message_Creature27	a gigantic Super Mutant Behemoth.	一只硕大的超级变种人巨兽。
+Encounter_Message_Location1	an old, abandoned Broadcasting Tower.	一座古旧废弃的广播塔。
+Encounter_Message_Location2	a group of Raiders, looking for someone to terrorize.	一群掠夺者，正找人恐吓。
+Encounter_Message_Location3	an Abandoned Shack.	一个废弃的小屋。
+Encounter_Message_Location4	an old Refrigerator. Could be something inside.	一个旧冰箱。里面可能有东西。
+Encounter_Message_Location5	a locked Safe.	一个锁住的保险箱。
+Encounter_Message_Location6	a Super Duper Mart.	一个大无敌超市。
+Encounter_Message_Location7	a small group of escaped Slaves.	一小群逃跑的奴隶。
+Encounter_Message_Location8	a well-guarded Slave Camp.	一个守卫严密的奴隶营。
+Encounter_Message_Location9	a deserted Gas Station.	一个废弃的加油站。
+Encounter_Message_Location10	what appears to be an Abandoned Diner.	一处貌似废弃的小餐馆。
+Encounter_Message_Location11	what seems to be an old National Guard Depot.	一个看起来像是旧国民警卫队仓库的地方。
+Encounter_Message_Location12	Goodneighbor.	芳邻镇。
+Encounter_Message_Location13	the C.I.T. Ruins.	C.I.T.废墟。
+Encounter_Message_Location14	the Museum of Witchcraft.	巫术博物馆。
+Encounter_Message_Location15	the Weston Water Treatment Plant.	韦斯顿水处理厂。
+Encounter_Message_Location16	the Hubris Comics headquarters.	“虎不理漫画”公司总部。
+Encounter_Message_Location17	Gwinnett Brewery.	谷内啤酒厂。
+Encounter_Message_NPC1	a Fugitive Slave.	一名逃亡的奴隶。
+Encounter_Message_NPC2	a Wounded Sheriff.	一名受伤的警长。
+Encounter_Message_NPC3	a traveling Ghoul.	一个游走的尸鬼。
+Encounter_Message_NPC4	a wandering Merchant.	一名流浪的商人。
+Encounter_Message_NPC5	a group of Talon Company Mercs.	一伙鹰爪公司雇佣兵。
+Encounter_Message_NPC6	a Hunter.	一名猎人。
+Encounter_Message_NPC7	a Drunken Drifter.	一个喝醉酒的流浪汉。
+Encounter_Message_NPC8	a Brotherhood Patrol.	一支兄弟会巡逻队。
+Encounter_Message_NPC9	a Lost Farmer. He's tired and scared.	一位迷路的农民。他又累又怕。
+Encounter_Message_NPC10	a malfunctioning Mister Handy.	一个出故障的巧手先生。
+Encounter_Message_Repeatable_JunkLocation1	a boarded up Convenience Store.	一家用木板封死的便利店。
+Encounter_Message_Repeatable_JunkLocation2	an empty, nearly collapsed Raider Hideout.	一处空荡荡、几近坍塌的掠夺者藏身处。
+Encounter_Message_Repeatable_JunkLocation3	an Irradiated Lake.	一个被辐射污染的湖。
+Encounter_Message_Repeatable_JunkLocation4	a Sealed Room in a house basement.	地下室的一个封闭房间。
+Encounter_Message_Repeatable_JunkLocation5	a large Apartment Building.	一幢大型公寓楼。
+Encounter_Message_Repeatable_JunkLocation6	a well-defended Outpost of Survivors.	一处防御严密的幸存者前哨站。
+Encounter_Message_Repeatable_JunkLocation7	a bustling Children of Atom Camp blocking the road.	一处熙熙攘攘的原子之子营地，挡住了去路。
+Encounter_Message_Repeatable_JunkLocation8	an Old Mansion, long since sacked.	一座老公馆，早就被洗劫一空。
+Encounter_Message_Repeatable_JunkLocation9	a Robot Factory, with broken Protectrons scattered outside.	一个机器人工厂，损坏的保护者机器人散落在外。
+Encounter_Message_Repeatable_JunkLocation10	a Dark Cave in the middle of the woods.	树林中间的一个黑暗的山洞。
+Encounter_Message_Repeatable_JunkLocation11	a Caravan Merchant chasing after a panicked Brahmin.	一名大篷车商人正在追逐一头受惊的双头牛。
+Encounter_Message_Repeatable_JunkLocation12	a Wide Open Field, impossible to cross without being spotted.	一片开阔的田野，想不被发现地穿过去根本不可能。
+Encounter_Progression_JustStartedTier1_1	Here we go.	说走就走。
+Encounter_Progression_JustStartedTier1_2	Finally, some fresh air.	总算能呼吸上新鲜空气了。
+Encounter_Progression_JustStartedTier1_3	I won't stray too far. Just in case.	我不会走得太远，以防万一。
+Encounter_Progression_JustStartedTier1_4	This doesn't seem so bad.	似乎不那么糟糕。
+Encounter_Progression_JustStartedTier1_5	Once more unto the breach!	再一次冲锋陷阵！
+Encounter_Progression_JustStartedTier1_6	It's brighter than I expected.	比我想象的要亮。
+Encounter_Progression_JustStartedTier1_7	Wow, is it always this hot out here?	哇，外面一直都这么热吗？
+Encounter_Progression_JustStartedTier1_8	Away we go!	出发喽！
+Encounter_Progression_JustStartedTier1_9	I wonder what's left?	不知道外面还剩下些什么呢？
+Encounter_Progression_JustStartedTier1_10	All right, Wasteland. Here I come!	来吧，废土！我来了！
+Encounter_Progression_JustStartedTier1_11	Ah. So that's why they call it the Wasteland.	呃。难怪人家管这儿叫“废土”。
+Encounter_Progression_JustStartedTier1_12	Yep. Everything's destroyed.	是的。一切都毁了。
+Encounter_Progression_JustStartedTier1_13	Okay, this is kind of... depressing.	好吧，这有点儿……让人沮丧。
+Encounter_Progression_JustStartedTier1_14	I'll make the Vault proud. They'll see.	我会让避难所为我骄傲的。等着瞧。
+Encounter_Progression_JustStartedTier1_15	And I'm off!	这就出发！
+Encounter_Progression_JustStartedTier1_16	Thought I'd never get out of there.	还以为这辈子都出不去了呢。
+Encounter_Progression_JustStartedTier1_17	This is so exciting!	太让人兴奋了！
+Encounter_Progression_JustStartedTier1_18	I'm ready for anything.	我已经准备好了一切。
+Encounter_Progression_JustStartedTier1_19	Come on Wasteland show me what you've got!	来吧，废土！让我看看你到底有什么本事！
+Encounter_Progression_JustStartedTier1_20	Okay. I can do this.	好。我能行的。
+Encounter_Progression_JustStartedTier2_1	I wonder how far I can get on foot?	不知道光靠两条腿能走多远？
+Encounter_Progression_JustStartedTier2_2	Super Mutants are just a myth... right?	超级变种人只是个传说……对吧？
+Encounter_Progression_JustStartedTier2_3	This isn't so bad. Maybe we should all leave the Vault...	这还不算太坏。也许我们都应该离开避难所……
+Encounter_Progression_JustStartedTier2_4	Hope I can find my way back.	希望我能找到回家的路。
+Encounter_Progression_JustStartedTier2_5	I'll grab just as much as I can carry, then head back.	能拿多少拿多少，然后就回去。
+Encounter_Progression_JustStartedTier2_6	If I find just one box of Sugar Bombs, it'll be worth it.	如果只发现了一盒糖衣炸弹麦片，那也是值得的。
+Encounter_Progression_JustStartedTier2_7	I guess I'll head... that way.	我想我就往……那边走吧。
+Encounter_Progression_JustStartedTier2_8	Maybe I should have dropped some bread crumbs.	早知道就一路撒点面包屑了。
+Encounter_Progression_JustStartedTier2_9	This way looks promising.	这条路看上去还不错。
+Encounter_Progression_JustStartedTier2_10	My feet hurt already.	我的脚已经开始疼了。
+Encounter_Progression_JustStartedTier2_11	Starting to regret coming out here.	开始后悔来这里。
+Encounter_Progression_JustStartedTier2_12	Maybe I'm not cut out for exploring after all.	也许我压根就不是探险的料。
+Encounter_Progression_JustStartedTier2_13	I will not return a failure. I will not return a failure...	我不会失败而归的。我不会失败而归的……
+Encounter_Progression_JustStartedTier2_14	The Vault's counting on me. I've got to push on.	整个避难所都指望我呢。我得继续前进。
+Encounter_Progression_JustStartedTier2_15	That way looks promising.	那条路看上去还不错。
+Encounter_Progression_JustStartedTier2_16	I'm bound to run into somebody sooner or later.	我迟早会遇到什么人。
+Encounter_Progression_JustStartedTier2_17	I really don't want to get eaten out here...	我真的不想在这里被吃掉……
+Encounter_Progression_JustStartedTier2_18	If I die out here, they'll never know...	如果我死在这里，他们永远不会知道……
+Encounter_Progression_JustStartedTier2_19	This way looks as good as any.	这条路看着不比别的差。
+Encounter_Progression_JustStartedTier2_20	There's got to be something out here.	这外面总该有点什么吧。
+Encounter_Progression_Repeatable_JunkLocation1	Trying to pull off the boards blocking the front door.	正试图撬开挡在前门的木板。
+Encounter_Progression_Repeatable_JunkLocation2	Exploring the Hideout, but one wrong step will make it fall on my head.	探索藏身处，但只要走错一步，上头就会整个塌下来砸到我头上。
+Encounter_Progression_Repeatable_JunkLocation3	Something's floating near the shore. I'll try to get it.	岸边漂着个东西。我看看能不能把它捞上来。
+Encounter_Progression_Repeatable_JunkLocation4	Hacking a terminal to get the door open.	正在破解终端，好把门打开。
+Encounter_Progression_Repeatable_JunkLocation5	Looking around for supplies, but this place is full of booby traps.	四处寻找物资，但这地方布满了陷阱。
+Encounter_Progression_Repeatable_JunkLocation6	Trying to convince them to let me in so I can rest.	试图说服他们让我进去休息。
+Encounter_Progression_Repeatable_JunkLocation7	Going around will take too much time. I'll have to try sneaking through the Camp.	绕过去会花太多时间。我要试着偷偷穿过营地。
+Encounter_Progression_Repeatable_JunkLocation8	Searching the Mansion for anything of value that might have been left behind.	找找公馆里还有没有任何有价值的东西。
+Encounter_Progression_Repeatable_JunkLocation9	The door is sealed. If I can fix a Protectron's laser arm, I could blast it open.	门封得死死的。要是能修好保护者机器人的激光手臂，就能把门轰开。
+Encounter_Progression_Repeatable_JunkLocation10	I've been cornered in the Cave by a family of Yao Guai. I'll try to pacify them.	被妖怪熊一家人逼到了山洞的角落。我会尽力安抚它们。

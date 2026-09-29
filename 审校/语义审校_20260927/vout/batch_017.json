@@ -1,0 +1,110 @@
+{
+ "batch": 17,
+ "items": [
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "scatter plot 的标准译法是散点图，非“散点分析”；“关于你的大脑的”是悬空定语，意思大体可猜但句子断。",
+   "final_fix": "我打算画张散点图……就用你们的脑子来画！"
+  },
+  {
+   "key": "QuestLoc_DivideandConquer_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "an infinitely repeating decimal 指小数点后无限循环，现译“无限重复小数点”把循环对象错置，数学玩笑被写歪。",
+   "final_fix": "那是小数点后无限循环的0.9……"
+  },
+  {
+   "key": "QuestLoc_DogsofWar_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "句尾 Not. 是九十年代腔的“才怪”，现译“不。”不成句；shaking in my boots 也只直译成“我在颤抖”。",
+   "final_fix": "哦不！“害虫”来抢我们的装备了！我吓得腿都软了。才怪。"
+  },
+  {
+   "key": "QuestLoc_DoitfortheBatBoy_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "football 在此为美国高中橄榄球，项目 Speech_Kid40、The Gridiron Gang 等均作“橄榄球”；“足球服”不准确。",
+   "final_fix": "找到了！是……等等……不对。是一件扯烂的橄榄球服。"
+  },
+  {
+   "key": "QuestLoc_DrivingtheSnakesOut_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "literal 作表语需中心语（字面意思/照字面理解），现译停在“应该是字面”，句子残缺。",
+   "final_fix": "我觉得这话不该照字面理解……"
+  },
+  {
+   "key": "QuestLoc_DrivingtheSnakesOut_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "gingers 即红发人，现译“红法人”是错字，本段下文“红发爱好者”“红发人”可证。",
+   "final_fix": "你们知道吗，红发人是没有灵魂的？"
+  },
+  {
+   "key": "QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "carrot tops 指红发人（蔑称），现译“长者胡萝卜颜色头发的家伙们”凭空多出“长者”，短语无法解析。",
+   "final_fix": "我们必须阻止那些胡萝卜头！"
+  },
+  {
+   "key": "QuestLoc_DrivingtheSnakesOut_Conversation_3_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "get all Saint Paddy on you 是“像圣帕特里克那样收拾你们”，现译主语错成“所有的爱尔兰人”，还丢了赶蛇典故。",
+   "final_fix": "我说，是时候学圣帕特里克，把你们这些蛇赶出去了！"
+  },
+  {
+   "key": "QuestLoc_DrivingtheSnakesOut_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "out of the neighborhood 与 for good 均漏译，Snakes 也泛化成“这些人”，任务范围与“彻底”的强调全丢。",
+   "final_fix": "一伙被称为“蛇”的掠夺者一直在针对红头发的定居者，称他们为“生姜”，声称他们是低等人种。我们得把这伙“蛇”彻底赶出这一带，永绝后患！"
+  },
+  {
+   "key": "QuestLoc_DuoofDestructionGlowingOnex2_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Good luck in there 的 in there 未译，且全项目 Good luck 均作“祝你好运”；Gosh 单独成句宜作“天哪”。",
+   "final_fix": "天哪。隔着大半个废土都能看见那绿光。进去之后祝你好运。"
+  },
+  {
+   "key": "QuestLoc_DuoofDestructionGlowingOnex2_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "toss those Ghouls out 是“把尸鬼撵出去”，现译“解决掉他们”改了动作又隐去尸鬼，keisters 的调侃也没了。",
+   "final_fix": "两只发光种占领了一处旧的聚变核心工厂。把那帮尸鬼撵出去，让他们一个个摔个屁股蹲儿！"
+  },
+  {
+   "key": "QuestLoc_DuoofDestructionMoleRatBroodMothers_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "have been spotted 已含“被发现”，又叠“出现”成杂糅；“是时候有人拿下它们了”是英文句式的硬搬。",
+   "final_fix": "附近的狗粮工厂里出现了两只鼹鼠妈妈。该有人去收拾它们了。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_1_QuestLongDesc",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "coded plea 应作“加密的求救信息”，非“密码求援”；someone 为单数，译“他们”与“一个人”自相矛盾。",
+   "final_fix": "我们截获了一段加密的求救信息，来自一个想脱离英克雷的人。此人正藏身于一处易于渗透的民用哨站里。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_2_Room2_Question_Line1_Choice2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I take thee at thy word 整句漏译，ES/FR/DE/RU 均有对应句，玩家念出的莎剧台词少了一拍。",
+   "final_fix": "我信你这句话。只要你肯叫我一声爱人，我便重新受洗；从此我永远不再是罗密欧。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room4_Question_Line1_Choice0",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "mourning 与 morning 的谐音在中文里消失，选项与上句“哀悼之地”及 Answer0“搞笑艺人”的笑点链条全断。",
+   "final_fix": "哀悼？我还以为你在说早上呢——可这明明是下午！"
+  }
+ ]
+}

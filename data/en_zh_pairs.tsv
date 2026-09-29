@@ -53,7 +53,7 @@ Age_Verification_Under13_Popup	Because this account belongs to a user under 13, 
 AlienDrone_GiveAway_Popup_Main	HERE'S AN EXTRATERRESTRIAL FRIEND TO CELEBRATE FALLOUT'S 25th ANNIVERSARY WITH! BUT WHERE DID IT COME FROM?	这个外星朋友将与您一起庆祝《辐射》25周年！但它到底是从哪儿来的？
 AlienDrone_GiveAway_Popup_Title	ALIEN DRONE PET	外星无人机宠物
 AlienDrone_campaign_Btn	NOT NOW	暂时不用
-AlienDrone_campaign_ClaimedText	Your new pet can be found in your inventory. Thanks for playing Fallout Shelter.	您可以在仓库中找到新的宠物。感谢您游玩辐射避难所。
+AlienDrone_campaign_ClaimedText	Your new pet can be found in your inventory. Thanks for playing Fallout Shelter.	您可以在库存中找到新的宠物。感谢您游玩辐射避难所。
 AlienDrone_campaign_Text	Vault-Tec is thankful for all the Overseers and wants to thank you with this free Alien Drone Pet!	避难所科技感谢所有监督者，决定用这个免费的外星无人机宠物来表示谢意！
 AlienDrone_campaign_Title	Vault-Tec is thankful for all the Overseers and wants to thank you with this free Alien Drone Pet!	避难所科技感谢所有监督者，决定用这个免费的外星无人机宠物来表示谢意！
 Alien_Name	Alien	外星人
@@ -254,8 +254,8 @@ Crafting_Cancel_Ultracite_Confirmation	The Ultracite you used will be fully refu
 Crafting_Cost	COST	花费
 Crafting_Crafted	CRAFTED!	打造完成！
 Crafting_FragmentsCounter	{0}/{1} RECIPE FRAGMENTS FOUND	发现{0}/{1}的配方碎片
-Crafting_FreeJunk_Main1	HERE ARE SOME RECIPES AND JUNK TO MAKE A WEAPON AND AN OUTFIT YOU CAN ONLY GET THROUGH CRAFTING.	这里有一些配方和杂物，可以打造探险时无法得到的装备和武器。
-Crafting_FreeJunk_Main2	MANY OTHER ITEMS CANNOT BE FOUND, ONLY CRAFTED. WHEN CHOOSING WHAT TO CRAFT, THESE ARE MARKED BY THE CRAFTING ICON.	许多物品无法探险时找到，只能通过打造获取。当您选择时，这些物品会有打造图标标识。
+Crafting_FreeJunk_Main1	HERE ARE SOME RECIPES AND JUNK TO MAKE A WEAPON AND AN OUTFIT YOU CAN ONLY GET THROUGH CRAFTING.	这里有一些配方和杂物，能打造出无法通过其他途径获得的武器和装备。
+Crafting_FreeJunk_Main2	MANY OTHER ITEMS CANNOT BE FOUND, ONLY CRAFTED. WHEN CHOOSING WHAT TO CRAFT, THESE ARE MARKED BY THE CRAFTING ICON.	还有许多物品无法找到，只能靠打造获得。选择要打造的物品时，它们会带有打造图标标识。
 Crafting_FreeJunk_Title	IT'S TIME TO START CRAFTING!	可以开始打造了！
 Crafting_InProgress	CRAFTING IN PROGRESS	打造进行中
 Crafting_Junk_Required	RECIPE REQUIRED	需要配方
@@ -393,7 +393,7 @@ Dweller_ReturningWasteland	RETURNING	返回中
 Dweller_RunToWasteland	Exiting Vault	正在离开避难所
 Dweller_Shelter	HIDDEN	隐藏的
 EULA_ButtonText	EULA	最终用户许可协议
-EULA_LEGAL_LINK	https://www.zenimax.com/en/legal/mobile-eula	fo.sdo.com/policy/
+EULA_LEGAL_LINK	https://www.zenimax.com/en/legal/mobile-eula	https://www.zenimax.com/en/legal/mobile-eula
 Emergency_Aliens	ALIEN ATTACK	外星人袭击
 Emergency_Deathclaw	DEATHCLAW ATTACK	死爪袭击
 Emergency_EnclavePowerArmor	ENCLAVE POWER ARMOR ATTACK	英克雷动力装甲袭击
@@ -428,7 +428,7 @@ Encounet_Progression_Creature2	The Savage Dog is moving in, ready to attack.	野
 Encounet_Progression_Creature20	The Radscorpion is moving in, ready to attack.	辐射蝎逼近，准备攻击。
 Encounet_Progression_Creature21	The Giant Soldier Ant sees me as a threat! It's attacking!	巨型兵蚁认为我是个威胁，正在攻击我！
 Encounet_Progression_Creature22	The Giant Soldier Ant is moving in, ready to attack.	巨型兵蚁逼近，准备攻击。
-Encounet_Progression_Creature23	A Fire Ant Soldier? Not like it can actually shoot fire. Time to attack!	一只火兵蚁？好像不是真能喷火的样子。准备攻击！
+Encounet_Progression_Creature23	A Fire Ant Soldier? Not like it can actually shoot fire. Time to attack!	一只火兵蚁？它又不会真的喷火。该我出手了！
 Encounet_Progression_Creature24	The Fire Ant Soldier is moving in, ready to attack.	火兵蚁逼近，准备攻击。
 Encounet_Progression_Creature25	The Guard Dog won't let me pass. I'll have to kill it to get by!	这看门狗不会让我过去的。看来只有干掉它了。
 Encounet_Progression_Creature26	The Guard Dog is moving in, ready to attack.	看门狗逼近，准备攻击。
@@ -450,7 +450,7 @@ Encounet_Progression_Creature4	The Mole rat is moving in, ready to attack.	鼹�
 Encounet_Progression_Creature40	The Centaur is moving in, ready to attack.	多脚兽逼近，准备攻击。
 Encounet_Progression_Creature41	This Feral Ghoul Reaver will rip me apart if I'm not careful!	稍不留神，狂尸鬼掠夺者就会把我撕成两半！
 Encounet_Progression_Creature42	The Feral Ghoul Reaver is moving in, ready to attack.	狂尸鬼掠夺者逼近，准备攻击。
-Encounet_Progression_Creature43	How can I possibly survive against this Deathclaw?!	这只死爪面前，我怎么可能活下来？！
+Encounet_Progression_Creature43	How can I possibly survive against this Deathclaw?!	在这只死爪面前，我怎么可能活下来？！
 Encounet_Progression_Creature44	The Deathclaw is moving in, ready to attack.	死爪逼近，准备攻击。
 Encounet_Progression_Creature45	Enclave Deathclaws are trained to kill - this will be a fight to the death!	英克雷死爪就是被训练来杀戮的——这将是一场你死我活的死战！
 Encounet_Progression_Creature46	The Enclave Deathclaw is moving in, ready to attack.	英克雷死爪逼近，准备攻击。
@@ -509,7 +509,7 @@ Encounter_Defeat_Creature2	The Mole rat chewed through my boot! Time to go befor
 Encounter_Defeat_Creature20	The Centaur is as dangerous as it is ugly! I'd better run!	这多脚兽真是又丑又危险，我只有逃了！
 Encounter_Defeat_Creature21	The Feral Ghoul Reaver was just way too strong to beat! I barely escaped alive!	这只狂尸鬼掠夺者太强大了！我真是死里逃生！
 Encounter_Defeat_Creature22	Fighting a Deathclaw? I must have been out of my mind! I've got to run!	和死爪战斗？我一定是疯了！我得赶紧逃！
-Encounter_Defeat_Creature23	The Enclave Deathclaw is trained to kill anything in its path! I have to run!	这只英克雷死爪受过训练，挡它路的通通杀掉！我得跑！
+Encounter_Defeat_Creature23	The Enclave Deathclaw is trained to kill anything in its path! I have to run!	这只英克雷死爪受过训练，会把挡它路的一切都杀掉！我得跑！
 Encounter_Defeat_Creature24	No way I can defeat this Super Mutant! Time to make my escape!	我不可能打败这个超级变种人的！赶紧找路逃吧！
 Encounter_Defeat_Creature25	Turns out fighting a Super Mutant Master is a pretty stupid idea! Got to run!	跟超级变种人大师动手，我是有多蠢！快跑！
 Encounter_Defeat_Creature26	The Super Mutant Overlord is way too tough! I've got to try and escape!	超级变种人霸王真凶悍！我必须得逃！
@@ -555,7 +555,7 @@ Encounter_Defeat_Repeatable_JunkLocation12	I made it to the nearest tree line wi
 Encounter_Defeat_Repeatable_JunkLocation2	Shouldn't have done that! I had to run out with the building collapsing behind me.	就不该那么干！大楼在我身后轰然坍塌，我只好夺路而逃。
 Encounter_Defeat_Repeatable_JunkLocation3	I can't get close enough. The Lake's radiation is making me sick.	我无法靠近。湖水的辐射使我感到恶心。
 Encounter_Defeat_Repeatable_JunkLocation4	The Room's security is too advanced. I can't get the door open.	这个房间的安保太高级了，我根本打不开那扇门。
-Encounter_Defeat_Repeatable_JunkLocation5	A blade trap I failed to spot nearly took my head off. I better turn back.	一个没察觉的刀片陷阱，差点把我的脑袋削下来。还是回头吧。
+Encounter_Defeat_Repeatable_JunkLocation5	A blade trap I failed to spot nearly took my head off. I better turn back.	一个我没察觉到的刀片陷阱，差点把我的脑袋削下来。还是回头吧。
 Encounter_Defeat_Repeatable_JunkLocation6	It's no good, they won't open the door. I guess I better move on.	不太妙，他们不开门。我想我还是继续往前吧。
 Encounter_Defeat_Repeatable_JunkLocation7	Walked right into a string of tin cans. Time to run!	一脚踩进一串锡罐，绊线警报响了。赶紧跑！
 Encounter_Defeat_Repeatable_JunkLocation8	There's absolutely nothing left. I'm not surprised, but it's still disappointing.	什么都没剩下。我不觉得惊讶，就是有点失望。
@@ -622,7 +622,7 @@ Encounter_Message_Creature23	an Enclave Deathclaw.	一只英克雷死爪。
 Encounter_Message_Creature24	a Super Mutant.	一个超级变种人。
 Encounter_Message_Creature25	a Super Mutant Master.	一个超级变种人大师。
 Encounter_Message_Creature26	a Super Mutant Overlord.	一个超级变种人霸王。
-Encounter_Message_Creature27	a gigantic Super Mutant Behemoth.	一个硕大的巨兽。
+Encounter_Message_Creature27	a gigantic Super Mutant Behemoth.	一只硕大的超级变种人巨兽。
 Encounter_Message_Creature3	a Bloatfly, buzzing dangerously close.	一只巨大苍蝇，危险地嗡嗡叫着靠近。
 Encounter_Message_Creature4	a disgusting Radroach.	一只令人讨厌的辐射蟑螂。
 Encounter_Message_Creature5	a terrifying Yao Guai!	一只可怕的妖怪熊！
@@ -660,7 +660,7 @@ Encounter_Message_NPC9	a Lost Farmer. He's tired and scared.	一位迷路的农�
 Encounter_Message_Repeatable_JunkLocation1	a boarded up Convenience Store.	一家用木板封死的便利店。
 Encounter_Message_Repeatable_JunkLocation10	a Dark Cave in the middle of the woods.	树林中间的一个黑暗的山洞。
 Encounter_Message_Repeatable_JunkLocation11	a Caravan Merchant chasing after a panicked Brahmin.	一名大篷车商人正在追逐一头受惊的双头牛。
-Encounter_Message_Repeatable_JunkLocation12	a Wide Open Field, impossible to cross without being spotted.	一片开阔的田野，想不被发现就穿过去是不可能的。
+Encounter_Message_Repeatable_JunkLocation12	a Wide Open Field, impossible to cross without being spotted.	一片开阔的田野，想不被发现地穿过去根本不可能。
 Encounter_Message_Repeatable_JunkLocation2	an empty, nearly collapsed Raider Hideout.	一处空荡荡、几近坍塌的掠夺者藏身处。
 Encounter_Message_Repeatable_JunkLocation3	an Irradiated Lake.	一个被辐射污染的湖。
 Encounter_Message_Repeatable_JunkLocation4	a Sealed Room in a house basement.	地下室的一个封闭房间。
@@ -730,7 +730,7 @@ Encounter_Random_Message103	That hill looks like a good vantage point.	那座山
 Encounter_Random_Message104	Whoa! I tripped over some rubble.	嗷！被碎石绊了一下。
 Encounter_Random_Message105	My Pip-Boy sure is coming in handy out here.	我的哔哔小子在这外面可真是帮了大忙。
 Encounter_Random_Message106	Pew! I stink.	呸！我身上好臭。
-Encounter_Random_Message107	My soles are wearing out.	我的鞋底已经磨穿了。
+Encounter_Random_Message107	My soles are wearing out.	我的鞋底快磨破了。
 Encounter_Random_Message108	So much dust and grime everywhere.	到处都是灰尘和污垢。
 Encounter_Random_Message109	Oh good, this road slopes downwards. Easier on the legs.	太好了，这段是下坡，省腿力。
 Encounter_Random_Message11	Is someone following me?	有人跟踪我吗？
@@ -966,7 +966,7 @@ Encounter_Victory_Creature24	I killed the Super Mutant.	我杀死了超级变种
 Encounter_Victory_Creature25	I'm beaten and bloodied, but the Super Mutant Master is dead.	我被揍得鼻青脸肿，但超级变种人大师死了。
 Encounter_Victory_Creature26	We went toe-to-toe, but the Super Mutant Overlord is finally dead.	我们打得难分高下，但超级变种人霸主终于死了。
 Encounter_Victory_Creature27	I did it. I killed the Behemoth. I think I'm in shock...	我做到了。我杀死了巨兽。我大概还没缓过神来……
-Encounter_Victory_Creature3	I killed the Bloatfly and it exploded into a thousand pieces. Disgusting.	我杀死了巨大苍蝇，炸成了一堆碎块。好恶心。
+Encounter_Victory_Creature3	I killed the Bloatfly and it exploded into a thousand pieces. Disgusting.	我杀死了巨大苍蝇，它炸成了一堆碎块。好恶心。
 Encounter_Victory_Creature4	I squashed the Radroach, no problem.	我踩扁了一只辐射蟑螂，小意思。
 Encounter_Victory_Creature5	It was a tough fight, but I killed the Yao Guai.	这是一场艰苦的战斗，但我杀死了妖怪熊。
 Encounter_Victory_Creature6	I killed the Feral Ghoul. It was him or me.	我杀死了狂尸鬼。不是它死，就是我亡。
@@ -1070,9 +1070,9 @@ You can abandon one Objective each day for free and receive a new Objective in i
 
 Additional Objectives can be skipped per day with Nuka-Cola Quantum.
 
-Harder Objectives give better rewards."	"总会有三个目标同时给您完成。
+Harder Objectives give better rewards."	"总会有三个目标可供您完成。
 
-您可以每天放弃一个目标，同时会出现一个新目标。
+您可以每天免费放弃一个目标，并会获得一个新目标作为替代。
 
 每天还能使用量子核子可乐跳过额外的目标。
 
@@ -1276,7 +1276,7 @@ Help_Page08_MainText	"Build Living Quarters to welcome new Dwellers to your Vaul
 
 - 想要向下扩张时，请建造电梯。
 
-- 和两边都有联通的房间无法被拆除。
+- 与两侧都相连的房间无法拆除。
 
 - 同种房间建造得越多就越贵。"
 Help_Page08_Title	BUILD YOUR VAULT & ELEVATOR	建造您的避难所和电梯
@@ -1295,9 +1295,9 @@ Help_Page09_MainText	"Upgrade your Rooms to increase their performance.
 
 - 大多数房间都可以升级两次。升级的资源房间能够生产更多资源。
 
-- 最多能合并三个房间。但三个房间必须左右相邻。
+- 同类型的房间最多可以合并三个，只要将它们建在彼此相邻的位置即可。
 
-- 合并的房间能容纳更多的居民，更多的居民也会让房间效率变高。
+- 合并的房间能容纳更多居民，同时效率也会更高。
 
 - 有些房间，比如工坊，开始就是一个大房间，是不能合并的。
 
@@ -1569,7 +1569,7 @@ Every Lunchbox can give you COMMON, RARE, or LEGENDARY items. Each Lunchbox is g
 
 装备- 给您的居民穿上这些又能增强属性又有型的好装备。
 
-宠物- 一个忠诚的伴侣，同时让您的避难所充满生机！
+宠物- 找到一位忠诚的伴侣，它会帮助您的居民，还能让您的避难所充满生机！
 
 量子核子可乐- 用这种清爽的饮料快速搞定一切。
 
@@ -2032,9 +2032,9 @@ When you're done exploring, tap on the Map Icon to return the Quest team to the 
 
 在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。
 
-居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以点击然后按住，将其拖向敌人。
+居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您也可以点击并按住一位居民，然后把出现的准星拖到敌人身上。
 
-居民在战斗时会出现一个暴击蓄力器；一旦准备好，敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。
+居民在战斗时会出现一个暴击蓄力器；一旦准备好，您的蓄力居民正在攻击的敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。
 
 当箭头出现在十字线的中心时，请点击移动的箭头。离中心越近，暴击伤害的倍率就越高。
 
@@ -2069,9 +2069,9 @@ When you're done exploring, click on the Map Icon to return the Quest team to th
 
 在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。
 
-居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以点击然后按住，将其拖向敌人。
+居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您也可以点击并按住一位居民，然后把出现的准星拖到敌人身上。
 
-居民在战斗时会出现一个暴击蓄力器；一旦准备好，敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。
+居民在战斗时会出现一个暴击蓄力器；一旦准备好，您的蓄力居民正在攻击的敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。
 
 当箭头出现在十字线的中心时，请点击移动的箭头。离中心越近，暴击伤害的倍率就越高。
 
@@ -2118,7 +2118,7 @@ When you're done exploring, return the Quest team to the Vault from the Quest ob
 
 居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
 
-按可以查看主线和支线任务目标。
+按可以查看必须完成和可选完成的任务目标。
 
 当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
 Help_Page26_MainText_Switch	"Quests allow you to explore new locations, meet new Dwellers and collect loot.
@@ -2159,7 +2159,7 @@ When you're done exploring, return the Quest team to the Vault from the Quest ob
 
 居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
 
-按可以查看主线和支线任务目标。
+按可以查看必须完成和可选完成的任务目标。
 
 当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
 Help_Page26_MainText_Xbox	"Quests allow you to explore new locations, meet new Dwellers and collect loot.
@@ -2188,9 +2188,9 @@ When you're done exploring, return the Quest team to the Vault from the Quest ob
 
 按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。
 
-在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。
+在任务中，选择您希望居民前往的房间即可探索地点。
 
-居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您可以按住使目标出现，然后选择敌人。
+居民会自动战斗，但您可以命令选定的居民攻击一个特定目标：按住使目标出现，然后选择敌人。
 
 居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。
 
@@ -2349,18 +2349,18 @@ Inventory_Vault_Full	Not enough STORAGE SPACES available. Build more STORAGE ROO
 Item_None	None	无
 Junk_Desc_AlarmClock	Because Dwellers that sleep in are sent to the Wasteland.	因为爱睡懒觉的居民被派到了废土上。
 Junk_Desc_BaseballGlove	Catch a baseball, rock or grenade and throw it right back.	接住一个棒球，岩石或手榴弹，然后赶紧扔回去。
-Junk_Desc_BrahminHide	Great for making a full-grain leather jacket. Two heads means two hoods!	……两个头就意味着两个兜帽！
+Junk_Desc_BrahminHide	Great for making a full-grain leather jacket. Two heads means two hoods!	用来做全粒面皮夹克再好不过。有两个头，正好做两个兜帽！
 Junk_Desc_Camera	Investigate hidden truths or take Vault family portraits.	调查隐藏的真相或者拍摄避难所全家福。
 Junk_Desc_ChemistrySet	Lets everyone know you're serious about doing sciency things.	让所有人都知道你对科学是认真的。
 Junk_Desc_DeskFan	Great at keeping the Wasteland heat away. If it worked.	很擅长隔离废土的热气，如果它还能工作的话。
-Junk_Desc_DuctTape	Keep things in place with every handyman's secret weapon.	心灵手巧的人们的秘密武器。用它来让事情有条有理。
+Junk_Desc_DuctTape	Keep things in place with every handyman's secret weapon.	每个修理工的秘密武器——用它把东西牢牢固定住。
 Junk_Desc_GiddyupButtercup	Go ahead, no one's watching. Get on and take a ride.	去吧，没人看着。上车然后兜兜风。
 Junk_Desc_Globe	Look back at the world that was. Or just spin it when you're bored.	回头看看世界本来的样子，或者在无聊的时候旋转它。
 Junk_Desc_GoldWatch	For when a weapon or outfit needs just a touch of bling.	有的时候武器或装备需要看起来锃亮闪光。
 Junk_Desc_MagnifyingGlass	This ant immolator might not work as well on Radroaches.	这个除蚁器大概对辐射蟑螂不大管用。
 Junk_Desc_Microscope	Probably more useful in the Wasteland as a blunt weapon.	也许在废土探险时作为钝器使用还不错。
 Junk_Desc_MilitaryCircuitBoard	Top-of-the-line circuitry to make top-of-the-line equipment.	顶级电路成就顶级设备。
-Junk_Desc_MilitaryDuctTape	You could hold an aircraft carrier together with this stuff. Just ask the residents of Rivet City.	你能用这个东西包住一艘航空母舰，不信你可以问问铆钉城的居民。
+Junk_Desc_MilitaryDuctTape	You could hold an aircraft carrier together with this stuff. Just ask the residents of Rivet City.	用这东西能把一艘航空母舰拼在一起，不信你可以问问铆钉城的居民。
 Junk_Desc_PreWarMoney	Make it rain like it's 2077.	像2077年那样大把撒钱吧！
 Junk_Desc_Shovel	Versatile and reliable. No Dweller should be without one.	用途多还结实。人手必备。
 Junk_Desc_TeddyBear	Wasteland life is no picnic, so he's always ready for a warm hug.	废土的生活不是野餐，所以他随时准备给您一个温暖拥抱。
@@ -2435,7 +2435,7 @@ Login_InvalidUsernameOrPassword	INVALID USERNAME OR PASSWORD	无效的用户名�
 Login_Login	LOGIN	登录
 Login_Password	PASSWORD	密码
 Login_PasswordConfirm	CONFIRM PASSWORD	确认密码
-Login_PasswordDoesntMatch	PASSWORD DOESN'T MATCH	密码不正确
+Login_PasswordDoesntMatch	PASSWORD DOESN'T MATCH	两次输入的密码不一致
 Login_PleaseWait	PLEASE WAIT...	请等待……
 Login_SignUp	SIGN UP	注册
 Login_Username	USERNAME	用户名
@@ -2521,7 +2521,7 @@ MainMenu_NoVault_Survival	We strongly recommend you play with a normal mode Vaul
 MainMenu_SeasonVaultCreationMessage_Body	Vault-Tec engineered this EXPERIMENTAL VAULT to operate precisely for the season's duration and will retire it at the end of the experiment.	避难所科技精心设计此实验避难所，使其在赛季期间精确运行，并将在实验结束时退役。
 MainMenu_SeasonVaultCreationMessage_Title	SECRET BRIEFING	机密简报
 MainMenu_Survival_Mode	Survival Mode	生存模式
-MainMenu_Survival_Mode_Confirm	Vault-Tec Priority Alert! We have detected that you have opted into our most rigorous and hazardous social experiment yet – Survival Mode! In Survival Mode, your Vault will face deadlier threats, the need for resources will be greater, and you won't be able to revive dead Dwellers!	避难所科技特级警报！我们发现您正选择进入最严苛最危险的社会环境——生存模式！在生存模式中，您的居民将会面临着更残酷的威胁，对资源的需求也更高，以及您无法复活死亡的居民！
+MainMenu_Survival_Mode_Confirm	Vault-Tec Priority Alert! We have detected that you have opted into our most rigorous and hazardous social experiment yet – Survival Mode! In Survival Mode, your Vault will face deadlier threats, the need for resources will be greater, and you won't be able to revive dead Dwellers!	避难所科技特级警报！我们发现您正选择参加我们迄今为止最严苛、最危险的社会实验——生存模式！在生存模式中，您的避难所将面临更致命的威胁，对资源的需求也会更大，而且您将无法复活已死亡的居民！
 MainMenu_Survival_Mode_Confirm_Part02	What's more, once you proceed along this course, there's no going back! As there's no time to perform a complete psychological evaluation, Vault-Tec will have to assume you're in complete control of your faculties, and fully understand the ramifications of this choice. Good luck, Overseer!	还有，一旦您选择走上这条道路，您将无法回头！因为没时间去对您进行全面的心理评估，避难所科技只能假定您完全心智清醒，也明白此选择可能带来的后果。祝您好运，监督者！
 MainMenu_TapToStart	ENTER VAULT {0}	进入避难所{0}
 MainMenu_WelcomeTo	WELCOME TO	欢迎来到
@@ -2564,11 +2564,11 @@ Message_IncompatibleJoystick	Your controller might not be supported.  If you exp
 Message_Intro_01	Congratulations! Vault-Tec has selected you to be the Overseer of Vault [XXX].	祝贺您！ 避难所科技已将您选作第[XXX]号避难所的监督者。
 Message_Intro_02	The Vault keeps people safe from the dangers of the Wasteland.	避难所能保证人们的安全，远离废土的危险。
 Message_Intro_03	As Overseer, your job is to expand and maintain the Vault, while keeping your Dwellers safe and happy.	作为监督者，您的工作是扩张和维持避难所的运转，同时让您的居民平安快乐。
-Message_Intro_04	Each room has a SPECIAL attribute it uses. Assign Dwellers with the best SPECIAL to make them happy and produce extra Resources.	每个房间都有一个所需属性。将此属性最好的居民分配在此房间能让他们发挥优势，变得开心并产出更多的资源。
+Message_Intro_04	Each room has a SPECIAL attribute it uses. Assign Dwellers with the best SPECIAL to make them happy and produce extra Resources.	每个房间都会使用一项 SPECIAL 属性。把 SPECIAL 属性最好的居民分配进去，能让他们开心并产出额外的资源。
 Message_Intro_05	Vault-Tec will give you a daily rating based on your performance. Remember to keep your Dwellers happy, and do a great job!	避难所科技会根据您的表现进行每日评级。记住要让您的居民开心，并且好好工作！
 Message_InventoryFailure	There was a problem retrieving your item list, please try again later.	检索项目列表时出现问题，请稍后重试。
 Message_LivingQuarters_Full	The Vault is full of Dwellers. Build more Living Quarters.	避难所里满是居民。请建造更多的宿舍。
-Message_MaxLevel	Max Level Reached	达到最大值
+Message_MaxLevel	Max Level Reached	已达最高等级
 Message_NeedOverseerOffice	You must build the Overseer's Office before you can access the Quest List.	您必须先建造监督者办公室才能打开任务列表。
 Message_NoCraft_Incident	You can't Craft during an Incident.	不能在事件中打造物品。
 Message_NoCustomize_Incident	You can't Customize a Dweller during an Incident.	在事件发生时，不能对居民进行个性化。
@@ -2583,18 +2583,18 @@ Message_OneHundredMillionPopup_Body	"Together, we have achieved a major mileston
 
 Over 100 Million Overseers have created their own unique Fallout Shelter!
 Please enjoy this free gift, as Vault-Tec's way of saying... THANK YOU!
-And don't forget to come back tomorrow for another special reward!"	"经过大家的共同努力，我们达成一个重要的里程碑：
+And don't forget to come back tomorrow for another special reward!"	"经过大家的共同努力，我们取得了一个重要的里程碑：
 
-超过1亿的监督者已经建立了属于他们自己的避难所！
-请笑纳这个免费礼物，就像避难所科技常说的……谢谢！
+超过1亿名监督者已经创建了属于他们自己的避难所！
+请收下这份免费礼物，这是避难所科技在向您说……谢谢！
 别忘了明天再来领取另一份特别的奖励！"
 Message_OneHundredMillionPopup_Body2	"Together, we have achieved a major milestone:
 
 Over 100 Million Overseers have created their own unique Fallout Shelter!
-Please enjoy this free gift, as Vault-Tec's way of saying... THANK YOU!"	"经过大家的共同努力，我们达成一个重要的里程碑：
+Please enjoy this free gift, as Vault-Tec's way of saying... THANK YOU!"	"经过大家的共同努力，我们取得了一个重要的里程碑：
 
-超过1亿的监督者已经建立了属于他们自己的避难所！
-请笑纳这个免费礼物，就像避难所科技常说的……谢谢！"
+超过1亿名监督者已经创建了属于他们自己的避难所！
+请收下这份免费礼物，这是避难所科技在向您说……谢谢！"
 Message_OutOfAP	You don't have enough CAPS	没有足够的瓶盖
 Message_OutOfNukaCaps	You don't have enough CAPS	没有足够的瓶盖
 Message_OutOfNukaQuantum	You need {0} more Nuka-Cola Quantum. Shop for more?	您还需要{0}瓶量子核子可乐，是否购买更多？
@@ -2615,7 +2615,7 @@ Message_PurchaseFailure	Cannot purchase this item now, check your connection and
 Message_PurchasePCConnectionError	The store is unavailable while running in Offline Mode. Please restart the game via the Bethesda.net launcher to access the store.	商店在离线模式下无法使用。请通过Bethesda.net启动器来重启游戏，然后进入商店。
 Message_QuestSkipNukaQuantum	Skip this Quest for {0} Nuka-Cola Quantum?	想用{0}瓶量子核子可乐来跳过任务吗？
 Message_Quest_DeadDweller_Recall_Warning	You will lose your dead Dweller(s). Are you sure you want to Recall?	您将失去死亡的居民。确定要召回吗？
-Message_Quest_DeadDweller_RemoveAll_Warning	You will lose your dead Dweller(s). Are you sure you want to Remove All?	您将失去您死亡的居民。您确定要移除全部吗？
+Message_Quest_DeadDweller_RemoveAll_Warning	You will lose your dead Dweller(s). Are you sure you want to Remove All?	您将失去死去的居民。您确定要全部移除吗？
 Message_Quest_DwellerNoLongerAvailable	{0} cannot be assigned to a Quest right now.	{0}现在无法被派去执行任务。
 Message_Quest_GiveUp	Any loot found on the Quest will be lost. Are you sure you want your Dwellers to give up?	任何在任务中找到的战利品将会丢失，您确定想放弃吗？
 Message_Quest_MaxTeams	You've already sent out the maximum number of Quest teams. Upgrade the Overseer's Office to send more.	你派去执行任务的小队数量已达上限。请升级监督者的办公室以提升上限。
@@ -2645,8 +2645,8 @@ Message_ScorchedConfirmationPopup	This will start the Scorched raid early. Are y
 Message_Stimpack_FullHP	HP full, Stimpak use is not required	生命值全满，无需治疗针。
 Message_StorageFull_Crafting	You can't collect an item you've crafted while your Inventory is full.	当库存已满时无法收集打造好的物品。
 Message_StorageFull_Scrapping	You can't Scrap an item while your Inventory is full.	库存已满，您无法拆解物品。
-Message_ThemeChange_Diner	The Theme of all your fully merged and upgraded Diners will be changed from {0} to {1}. Are you sure?	您的主题餐厅已经最大化合并及升级了，您确定将它从{0}改成{1}吗？
-Message_ThemeChange_LivingQuarters	The Theme of all your fully merged and upgraded Living Quarters will be changed from {0} to {1}. Are you sure?	您的主题宿舍已经最大化合并及升级了，您确定将它从{0}改成{1}吗？
+Message_ThemeChange_Diner	The Theme of all your fully merged and upgraded Diners will be changed from {0} to {1}. Are you sure?	所有已完全合并并升级的餐厅，其主题都将从{0}更改为{1}。确定吗？
+Message_ThemeChange_LivingQuarters	The Theme of all your fully merged and upgraded Living Quarters will be changed from {0} to {1}. Are you sure?	所有已完全合并并升级的宿舍，其主题都将从{0}更改为{1}。确定吗？
 Message_ThemeChange_NukaColaPlant	The Theme of all your fully merged and upgraded Nuka-Cola Plants will be changed from {0} to {1}. Are you sure?	你所有已完全合并并升级的核子可乐工厂主题将从{0}更改为{1}。确认吗？
 Message_ThemeChange_WeaponFactory	The Theme of all your fully merged and upgraded Weapon Plants will be changed from {0} to {1}. Are you sure?	你所有已完全合并并升级的武器车间主题将从{0}更改为{1}。确认吗？
 Message_ThemeCraftingTimeSkipNukaQuantum	Instantly craft this Theme for {0} Nuka-Cola Quantum?	想要使用{0}瓶量子核子可乐极速打造这个主题吗？
@@ -2660,13 +2660,13 @@ When low on Power, rooms will start shutting down.
 When low on Food, Dwellers start to lose health.
 When low on Water, Dwellers become irradiated.
 
-The required resource line on the resource bar shows your Vault's current resource needs."	"如果您的资源不足，屏幕顶端的资源条会变红。
+The required resource line on the resource bar shows your Vault's current resource needs."	"当任何一项资源不足时，屏幕顶端的资源条都会变红。
 
-当电力不足时，房间将开始停止工作。
-当食物不足时，居民的生命值将开始降低。
-当水资源不足时，居民将开始受到辐射伤害。
+电力不足时，房间将陆续停止运作。
+食物不足时，居民会开始损失生命值。
+水不足时，居民会受到辐射伤害。
 
-所需资源的刻度线会在资源条上显示，表明了现在的资源需求。"
+资源条上的所需资源线显示了避难所当前的资源需求。"
 Message_TutorialPopup_01_Hint	Hint: The further above or below the required resource line your resources are, the greater the effect.	提示：现有资源和所需资源差距越大（超出或不足）对避难所的影响（包括好的和坏的）也越大。
 Message_TutorialPopup_01_Title	"Your Vault needs a steady supply of
 Power, Food and Water to run properly."	"您的避难所需要稳定的
@@ -2734,9 +2734,9 @@ Message_TutorialPopup_13_Title		召回探险者
 Message_TutorialPopup_14_Body	Build additional storage rooms or upgrade your existing storage rooms to get more space.	建造更多的储藏室或者升级现有的储藏室来获得更多的储藏空间。
 Message_TutorialPopup_14_Hint		房间着火或遭到入侵时，派遣健康的居民前往该房间进行灭火或抵御袭击！
 Message_TutorialPopup_14_Title		灾害处理
-Message_TutorialPopup_15_Body	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by tapping on a Dweller.	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。
-Message_TutorialPopup_15_Body_PC	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by clicking on a Dweller.	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。
-Message_TutorialPopup_15_Body_Xbox	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by selecting a Dweller.	您可以点击居民打开居民信息面板来给他们配备武器，装备和治疗针和消辐宁。
+Message_TutorialPopup_15_Body	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by tapping on a Dweller.	您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。
+Message_TutorialPopup_15_Body_PC	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by clicking on a Dweller.	您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。
+Message_TutorialPopup_15_Body_Xbox	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by selecting a Dweller.	选中居民即可打开居民信息面板，为居民配备武器和装备，或者使用消辐宁和治疗针。
 Message_TutorialPopup_15_Hint		在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！
 Message_TutorialPopup_15_Title		医疗补给
 Message_TutorialPopup_16_Body	Dwellers with a high Luck SPECIAL are more successful at rushing rooms and getting CAPS bonuses when production finishes.	运气值（L）高的居民所处的房间更容易在极速模式上成功并且在生产结束时获得更多的瓶盖奖励。
@@ -2984,7 +2984,7 @@ Message_Tutorial_48	A {PREGNANT DWELLER} is ready to give birth! {TAP} the {ICON
 Message_Tutorial_48_PC	A {PREGNANT DWELLER} is ready to give birth! {CLICK} the {ICON} above her head to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。
 Message_Tutorial_48_Xbox	A {PREGNANT DWELLER} is ready to give birth! {SELECT} her to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{选择}她来欢迎避难所的{新成员}。
 Message_Tutorial_49	Your {INVENTORY} is {FULL}. Excess {ITEMS} will be stored but {UNAVAILABLE} until there's space for them.	您的{库存已满}。多出的{物品}将会保留，但无法使用，直到有足够的空间。
-Message_Tutorial_50	{ITEMS} within a {DASHED RECTANGLE} exceed your {INVENTORY} and are {UNAVAILABLE} until there's space for them.	有{虚线矩形边框}的{物品}不在您的{库存}范围内，当建造更多储藏室或升级储藏室获得足够空间时，才能被{使用}。
+Message_Tutorial_50	{ITEMS} within a {DASHED RECTANGLE} exceed your {INVENTORY} and are {UNAVAILABLE} until there's space for them.	{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前无法{使用}。
 Message_Tutorial_51	{SCRAPPING} an {ITEM} turns it into {JUNK}, but it's {RISKY}. You might get lots of {JUNK}, just a little, or none at all.	{分解}一个{物品}来将其变成{杂物}，但此事有{风险}。您可能会得到很多{杂物}、一点点杂物，或者什么都得不到。
 Message_Tutorial_52	Congratulations – you just built the {OVERSEER'S OFFICE}! You can now send teams of {DWELLERS} out of the Vault on {QUESTS}.	恭喜！您刚建成了{监督者办公室}！您现在可以派出{居民}小队去避难所外执行{任务}了。
 Message_Tutorial_53	To access your {QUEST LIST}, {SELECT} the {PIP-BOY}.	想要打开{任务列表}，请{点击}{哔哔小子}。
@@ -3082,7 +3082,7 @@ Message_XBoxAccountMismatchError	Please sign in to the Windows Store with the {0
 Message_XBoxUpdateAvailable_NoVersion	A new version is available. The game will be closed to download and apply the update.	一个新的版本可用。游戏将关闭来下载安装更新。
 Message_XBoxUpdateAvailable_Version	Version {0} is now available. The game will be closed to download and apply the update.	{0}版本现在可用。游戏将关闭来下载安装更新。
 Message_XboxPleaseConnect	You must be online to play. Please connect to Xbox LIVE.	必须要联网才能玩，请连接至Xbox LIVE。
-Message_XboxSomethingWrong	Something went wrong. Please try again or restart the game.	出错。请再次尝试并重启游戏。
+Message_XboxSomethingWrong	Something went wrong. Please try again or restart the game.	出错。请重试，或重启游戏。
 MissingInternetConnection	This action requires an internet connection. Please connect to the internet and try again	这项动作需要网络连接。请连接至网络重试。
 Molerat_Name	Mole rat	鼹鼠
 Molerat_Name_Plural	Mole rats	鼹鼠
@@ -3189,9 +3189,9 @@ MrHandyDialog_Wasteland_23	For an emotionless metal automaton, I suddenly find m
 MrHandyDialog_Wasteland_24	Hello! Yes you, sir! I was wondering if... Oh. You're a corpse. Well then. Carry on.	你好！是的，就是你，先生！我想知道……哦，你是具尸体。好吧，没事了。
 MrHandyDialog_Wasteland_25	Sensors indicate... Yes. That's a Super Mutant. And yes, I am now headed in the opposite direction...	探测器显示……没错，那是个超级变种人。而且没错，我现在正朝反方向走……
 MrHandyDialog_Wasteland_26	You can say one thing about humans – they sure know how to destroy themselves.	人类有一件事做得很好——他们非常擅长自我毁灭。
-MrHandyDialog_Wasteland_27	And to think, humans worried that robots would turn against them. They turned against themselves just fine...	人类居然还担心机器人会反叛他们，他们自己的内斗都控制不住了……
+MrHandyDialog_Wasteland_27	And to think, humans worried that robots would turn against them. They turned against themselves just fine...	想想看，人类还担心机器人会反叛他们呢。他们自己反目成仇，倒是干得挺漂亮的……
 MrHandyDialog_Wasteland_28	If I go home empty handed I'll never hear the end of it...	要是我空手而归，估计会被人唠叨个没完没了……
-MrHandyDialog_Wasteland_29	Scavenging the Wasteland like some sort of peasant. I'm better than this.	像个乡巴佬一样在废土上捡破烂？我可不是干这个的料。
+MrHandyDialog_Wasteland_29	Scavenging the Wasteland like some sort of peasant. I'm better than this.	像个乡巴佬一样在废土上捡破烂？我可不该沦落到这个地步。
 MrHandyDialog_Wasteland_3	Of course. Send the domestic servant into a deadly post-apocalyptic Wasteland. What could possibly go wrong?	当然。派个家务佣人去致命的末世废土。还能出什么岔子呢？
 MrHandyDialog_Wasteland_30	If my makers at General Atomics International could see me now...	要是通用原子国际的制造者们看到我现在的样子……
 MrHandyDialog_Wasteland_31	Hellllloooo! Any other robots out heeeerrrreee?	喂~这里有其他机器人吗？
@@ -3234,7 +3234,7 @@ MrHandyDialog_Wasteland_64	Was that a... “pling”? Did someone actually take 
 MrHandyDialog_Wasteland_65	If I had feet, they would be SO sore right now.	如果我有脚，现在肯定会很疼。
 MrHandyDialog_Wasteland_66	Oh look, an old basketball court. Definitely not my game. I possess neither a shirt, nor skin.	哦，看哪，一个旧篮球场。这运动不适合我，我没有衬衫，也没有皮肤。
 MrHandyDialog_Wasteland_67	Ah, an old baseball diamond. A game much like cricket, only far inferior.	啊，一个旧棒球场。这游戏类似板球，但要差得多。
-MrHandyDialog_Wasteland_68	A child's wooden blocks. From before the war. I wonder where... Oh.	小孩的木制积木，来自战前。我好奇那个小孩……哦。
+MrHandyDialog_Wasteland_68	A child's wooden blocks. From before the war. I wonder where... Oh.	小孩的木制积木，来自战前。不知道那孩子后来怎么样了……哦。
 MrHandyDialog_Wasteland_69	Well bless my stars! A Giddyup Buttercup. Such an elegant steed.	天哪！一匹“奶油小马”，真是优雅的坐骑。
 MrHandyDialog_Wasteland_7	My internal compass indicates I'm now facing south. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝南。看来我该朝这个方向飘……
 MrHandyDialog_Wasteland_70	A locked door. And me without my bobby pin.	一扇锁着的门，但是我却没带开锁用的发夹。
@@ -3300,7 +3300,7 @@ NewVegasA_IntroPopup_Title	THE SEASON OF “VIVA NEW VEGAS” IS HERE	“新维�
 NewVegasA_SeasonEndPopup_Title	THE SEASON OF “VIVA NEW VEGAS” HAS ENDED	“新维加斯万岁”赛季已结束
 NewVegasA_Title	SHELTER SEASON: VIVA NEW VEGAS	避难所赛季：新维加斯万岁
 NewVegasA_Title_Short	VIVA NEW VEGAS	新维加斯万岁
-NewVegasB_Description	New Vegas requires your attention, Overseer. Construct a new Vault to safeguard and support Vault-Tec allies in the region. Enlist key personnel, neutralize all hostiles, and let New Vegas' beacons blaze across the wasteland! May Lady Luck smile upon you!	新维加斯需要你的关注，监督者。建造新避难所以保护并支持避难所科技在该地区的盟友。招募关键人员，消灭所有敌对势力，让新维加斯的灯塔在整片废土上熊熊燃烧！愿幸运女神对你微笑！
+NewVegasB_Description	New Vegas requires your attention, Overseer. Construct a new Vault to safeguard and support Vault-Tec allies in the region. Enlist key personnel, neutralize all hostiles, and let New Vegas' beacons blaze across the wasteland! May Lady Luck smile upon you!	新维加斯需要你的关注，监督者。建造一座新避难所，以保护并支持避难所科技在该地区的盟友。招募关键人员，消灭所有敌对势力，让新维加斯的灯塔照亮整片废土！愿幸运女神对你微笑！
 NewVegasB_IntroPopup_Body	Test your skill as Overseer in this season's new Experimental Vault! Experimental Vaults introduce a new twist and unique rewards. Seasons only last a short time - don't miss out!	在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
 NewVegasB_IntroPopup_Title	"THE SEASON OF ""HOUSE ALWAYS WINS"" IS HERE"	“豪斯常胜”赛季来袭！
 NewVegasB_SeasonEndPopup_Title	"THE SEASON OF ""HOUSE ALWAYS WINS"" HAS ENDED"	“豪斯常胜”赛季已结束
@@ -3313,7 +3313,7 @@ Not_Connected	You are not connected. Play as a Guest?	您没有网络连接。�
 Notification_Baby_Birth	A baby is about to be born in your Vault!	一个孩子即将在你的避难所诞生！
 Notification_Baby_Grow_Up	One of your babies has grown into a healthy Dweller!	一个孩子长大了，成为了一名健康的居民！
 Notification_Crafting_Outfit_End	One of your Outfit Workshops has made an Outfit!	装备工坊制成了一件装备！
-Notification_Crafting_Theme_End	Your {0} Theme is ready!	您的{0}已经完成！
+Notification_Crafting_Theme_End	Your {0} Theme is ready!	您的{0}主题已经完成！
 Notification_Crafting_Weapon_End	One of your Weapon Workshops has made a Weapon!	武器工坊制成了一件武器！
 Notification_DwellerWasteland_01	One of your Dwellers has been out in the Wasteland for a short while. Perhaps you should check on them.	您的一位居民在废土上探索了一会了，也许您应该看看他们怎么样了。
 Notification_DwellerWasteland_02	One of your Dwellers has been out in the Wasteland for a while, you should check on them.	您的一位居民在废土上探索一段时间了，您应该看看他们怎么样了。
@@ -3569,9 +3569,9 @@ Outfit_Description_BOSUniform_Expert	Reserved for the best of the best... of the
 Outfit_Description_BaseballUniform	Uniform of America's spectator sport. No matter which version you prefer.	最受欢迎的体育运动的制服。不论你喜欢哪个版本。
 Outfit_Description_BattleArmor	The protection of choice for Wasteland mercenaries.	废土雇佣兵的选择。
 Outfit_Description_BattleArmor_Heavy	Favored by runaway Synths... and the Synths who hunt them.	逃跑的合成人和那些追捕他们的合成人……的最爱。
-Outfit_Description_BattleArmor_Sturdy	Offers the look and protection of a mercenary captain.	能让你拥有一个雇佣兵队长的能力和……外形。
+Outfit_Description_BattleArmor_Sturdy	Offers the look and protection of a mercenary captain.	能让你拥有雇佣兵队长的外形与防护。
 Outfit_Description_Bishop	If there is a higher power out there, they just might listen to you.	如果有更高的力量存在，他们可能会听你的。
-Outfit_Description_BittercupSpecial	Perfect for any child at heart forced to endure the Wastes.	对于所有不得不忍受废墟的孩子来说是完美的存在。
+Outfit_Description_BittercupSpecial	Perfect for any child at heart forced to endure the Wastes.	对于所有童心未泯、却不得不忍受废土的人来说再完美不过。
 Outfit_Description_BowlingShirt	Now all you need is a Rocket '69 and a pompadour.	你现在只需要《69号火箭》和大背头了。
 Outfit_Description_BurnedConditionResistence	+50% resistence against the Burned Condition	+50%抵抗燃烧条件
 Outfit_Description_BusinessDress	They'll never see you coming and never know you were there.	他们永远都不会知道你什么时候来的，也不会知道你一直在那里。
@@ -3579,14 +3579,14 @@ Outfit_Description_BusinessSuit	The clothes make the man, and that man has somet
 Outfit_Description_ButchSpecial	Why? Because you're a Tunnel Snake. And you RULE!	为什么？因为你是隧道蛇，你统治一切！
 Outfit_Description_CaitsCorset	Stylish and surprisingly warm. Ideal for close-quarters combat and late-night parties.	时尚而出人意料地保暖，非常适合近战和夜间活动。
 Outfit_Description_CheckeredShirt	It may be spring, but keep that shirt tucked in. This isn't a zoo.	也许现在还是春天，但请你将衣服扎进去，这里可不是动物园。
-Outfit_Description_ColonelSpecial	Once worn by a hard-nosed colonel. Now you give the orders.	曾被一个勇猛的上校穿过。现在轮到你发布施令了。
+Outfit_Description_ColonelSpecial	Once worn by a hard-nosed colonel. Now you give the orders.	曾由一位强硬的上校穿着。现在轮到你发号施令了。
 Outfit_Description_CombatArmor	The preferred battlefield armor of pre-war grunts.	战前步兵的首选战场装甲。
 Outfit_Description_CombatArmor_Heavy	They used to send in an army. Now they only need you.	他们过去曾派军队过去。现在他们只需要你就行了。
 Outfit_Description_CombatArmor_Sturdy	Worn by the toughest ground pounders in the toughest battles.	在最艰难的战斗里被最强悍的步兵穿过。
 Outfit_Description_ComedianSpecial	Is this outfit some kind of joke? Nope, but you are, if you wear it.	这套衣服是在开玩笑吗？不过，如果你穿上它的话，你就是个玩笑。
 Outfit_Description_CourserUniform	Designed to strike fear into the hearts of Synths who have left the Institute.	专为令脱离学院的合成人闻风丧胆而设计。
 Outfit_Description_CromwellSpecial	By the power of Atom, you look fabulous!	原子的力量让你看起来棒极了！
-Outfit_Description_DetectiveOutfit	Gumshoe gear for any self-respecting Wasteland detective. Human or not.	为任何有自尊的废土侦探定制的侦探装备。
+Outfit_Description_DetectiveOutfit	Gumshoe gear for any self-respecting Wasteland detective. Human or not.	为任何有自尊的废土侦探准备的侦探行头——不管你是不是人类。
 Outfit_Description_DooWopOutfit	The outfit of choice when heading to the Diner for a shake.	当你想去餐厅要一杯奶昔时，这件衣服是你的首选。
 Outfit_Description_EmpressSpecial	Friends, Romans, countrymen... lend me your snazzy new outfit.	朋友，罗马人，同胞们……请借给我你们时髦的新衣服。
 Outfit_Description_EnclaveOfficerUniform	A uniform worth climbing the Enclave military ladder for.	一套值得你在英克雷军阶上一路攀爬以求获得的军官制服。
@@ -3596,7 +3596,7 @@ Outfit_Description_EngineerSpecial	Protects against sledgehammers, and not just 
 Outfit_Description_EulogyJonesSpecial	For those times when you need to exude charismatic evil.	当你需要散发出邪恶魅力时，请穿上它。
 Outfit_Description_FarHarborSpecial	It's almost as Old as Longfellow himself.	几乎和老费朗罗本人的年纪一般大了。
 Outfit_Description_FlightSuit	The preferred outfit of flying aces everywhere.	飞行王牌们偏爱的装备。
-Outfit_Description_FlightSuit_Advanced	Negative, Vault Dweller. The pattern is full.	糟糕，避难所的居民们。这个样式已经满员了。
+Outfit_Description_FlightSuit_Advanced	Negative, Vault Dweller. The pattern is full.	不行，避难所居民。进场航线已经满了。
 Outfit_Description_FlightSuit_Expert	You can be my wingman any time!	你可以随时做我的僚机！
 Outfit_Description_GamblerSuit	A gambler's outfit of choice. Feeling lucky?	一个赌徒的选择。感觉自己手气不错吗？
 Outfit_Description_GamblerSuit_Fancy	The look of a gambler, the skills of a hustler. That's a good bet.	赌徒的样子，骗子的技巧。不错的赌局。
@@ -3619,25 +3619,25 @@ Outfit_Description_HunterGear_Treasure	That booty can't stay hidden forever...	�
 Outfit_Description_Incognito	The best in human comfort-casual. For humans!	舒适休闲风格的最佳选择，专为人类设计！
 Outfit_Description_InstituteJumper	Because even Synths like to relax at home.	因为即使是合成人也喜欢在家放松。
 Outfit_Description_InstituteJumper_Advanced	For SERIOUS Synth chill time.	为合成人正经的休闲时光而设计。
-Outfit_Description_InstituteJumper_Expert	Look like a Synth - skip the identity crisis.	让你看起来像一个合成人——避免身份被怀疑。
+Outfit_Description_InstituteJumper_Expert	Look like a Synth - skip the identity crisis.	让你看起来像个合成人——省掉身份认同危机。
 Outfit_Description_JacketTshirt	With no motorcycle, you'll surely be mistaken for a hoodlum.	要是没有摩托车的话，你肯定会被当成小流氓。
-Outfit_Description_JailhouseRocker	Replica of Elvis' Jailhouse Rock outfit from before the Fall. Worn by the New Vegas gang, The Kings.	末日前猫王《监狱摇滚》演出服的复制品，曾由新维加斯帮派\“猫王帮\”穿着。
+Outfit_Description_JailhouseRocker	Replica of Elvis' Jailhouse Rock outfit from before the Fall. Worn by the New Vegas gang, The Kings.	末日前猫王《监狱摇滚》演出服的复制品，曾由新维加斯帮派“猫王帮”穿着。
 Outfit_Description_JobinsonsJersey	The baseball legend may be dead, but his legend lives on! You are... number 42!	这位棒球界的传奇也许已经死了，但他的传说将永远流传！穿上它，你就是……42号！
 Outfit_Description_KelloggsOutfit	When you want to look the fittest of the survivors.	当你想看起来像幸存者中最硬核的那个时。
 Outfit_Description_King	Wear the crown, rule the Wasteland! Or at least pretend to.	戴上王冠，统治废土！或者至少假装是这样。
 Outfit_Description_KnightSpecial	In the Wasteland, some forms of protection never go out of style.	在废土上，有些保护形式永远不会过时的。
 Outfit_Description_LabCoat	Favored by scientists and doctors.	受到科学家和医生的青睐。
-Outfit_Description_LabCoat_Advanced	Split the atom or invent warp travel - all before lunch.	分裂原子或发明弯曲旅行——就在午餐前。
+Outfit_Description_LabCoat_Advanced	Split the atom or invent warp travel - all before lunch.	分裂原子，或者发明曲速航行——全都能赶在午饭前搞定。
 Outfit_Description_LabCoat_Expert	Now you can unlock the secrets of life itself!	现在你可以开始解开生命的秘密！
-Outfit_Description_LegatesArmor	Scary armor for one of the scariest figures in one of the scariest armies in the Wasteland.	令人望而生畏的护甲，出自废土上最令人生畏的军队中最令人生畏的将领之手。
-Outfit_Description_LibrarianSpecial	Prove to everyone that in the future, print's not dead.	证明给未来的人类，打印并没有消亡。
+Outfit_Description_LegatesArmor	Scary armor for one of the scariest figures in one of the scariest armies in the Wasteland.	令人胆寒的护甲，属于废土上最凶悍的军队里最凶悍的人物之一。
+Outfit_Description_LibrarianSpecial	Prove to everyone that in the future, print's not dead.	向所有人证明：在未来，纸质印刷并没有消亡。
 Outfit_Description_LifeguardOutfit	Saving lives, breaking hearts.	拯救生命，打击心灵。
 Outfit_Description_LoungeShirt	No one will know you've never actually bowled before.	没有人会知道你从未打过保龄球。
 Outfit_Description_LucasSpecial	From Modoc to Megaton, when you wear this, you are the law.	从摩多克城到兆吨镇，当你戴上这个，你就是法律。
 Outfit_Description_LucysVaultSuit	Lucy's personalized Vault 33 suit, complete with survival enhancing rucksack!	露西的专属33号避难所制服，配有增强生存能力的背包！
 Outfit_Description_LucysYellowDress	Wearing it really brings you back to pre-war naivety. You can almost hear the bombs falling...	穿上它，将你带回战前那段朴实无华的岁月。几乎能听见炸弹落下的声音……
-Outfit_Description_MaJuneJacket	Don't look for whoever is in this get up to clutch their pearls. Chances are they're already holding a rifle.	别指望穿这身衣服的人会感到害怕，十有八九她手里已经拿着步枪了。
-Outfit_Description_MaximusJacket	The red hue conceals blood, and the rank chevrons conceal crippling self-doubt.	红色能掩盖血迹……
+Outfit_Description_MaJuneJacket	Don't look for whoever is in this get up to clutch their pearls. Chances are they're already holding a rifle.	别指望穿着这身行头的人会大惊小怪，十有八九他们手里已经端着步枪了。
+Outfit_Description_MaximusJacket	The red hue conceals blood, and the rank chevrons conceal crippling self-doubt.	红色能掩盖血迹，军衔臂章则能掩盖严重的自我怀疑。
 Outfit_Description_MayorSpecial	Settlements need rulers, and you're elected.	定居点需要统治者，你被选中了。
 Outfit_Description_MechanicJumpsuit	The Wasteland is littered with old wrecks. Time to get to work.	废土上堆满了各种残骸。是时候开始工作了。
 Outfit_Description_MetalArmor	When leather just won't do. Can stop one bullet, or a hundred.	当皮革没有用的时候。可以阻止一颗子弹，或一百颗。
@@ -3648,7 +3648,7 @@ Outfit_Description_MilitaryJumpsuit_Commander	The battlefield is under your cont
 Outfit_Description_MilitaryJumpsuit_Officer	Great for giving orders, or wading into the fight yourself.	对于发布命令，或自己战斗来说都很棒。
 Outfit_Description_MojaveWastelandSurvivor	May have been a vault suit, once upon a time.	或许很久很久以前，它曾是一件避难所制服。
 Outfit_Description_MoldaversArmor	Simple combat armor with an added regal flare.	简单而华丽的战斗装甲。
-Outfit_Description_MoviefanSpecial	Perfect for hanging out at an old, abandoned drive-in.	对于在废弃的“免下车”通道中闲逛的人来说很完美。
+Outfit_Description_MoviefanSpecial	Perfect for hanging out at an old, abandoned drive-in.	最适合在废弃的老式汽车影院里消磨时光。
 Outfit_Description_MrHousesSuit	Linen: the only suit to wear in the Mojave Desert, unless you want pit stains.	亚麻布：莫哈维沙漠中唯一合适的正装，除非你不在乎汗渍。
 Outfit_Description_NCRPowerArmor	NCR power armor, salvaged and modified so anyone can use it.	经过改造翻新的新加州共和国动力装甲，任何人都可以驾驭。
 Outfit_Description_NCR_Ranger	Tough, functional uniform of the NCR's valiant defenders.	新加州共和国英勇卫士的坚固、实用的制服。
@@ -3667,12 +3667,12 @@ Outfit_Description_PowerArmor_51f	Armor worthy of a Brotherhood of Steel Star Pa
 Outfit_Description_PowerArmor_MkI	The guys who protected the President wore this. It's THAT good.	总统的保镖们穿过这个。就是这么厉害。
 Outfit_Description_PowerArmor_MkIV	Advanced post-war Power Armor, for a post-apocalyptic world.	高级战后动力装甲，适合这末日后的世界。
 Outfit_Description_PowerArmor_MkVI	The most advanced protection created by human hands. Enjoy.	人类双手创造的最先进的护甲。请尽情感受。
-Outfit_Description_PowerArmor_T45d	Deployed pre-war against Chinese tanks. That's right - tanks.	战前被用来对抗外国坦克的。你没听错——就是坦克。
+Outfit_Description_PowerArmor_T45d	Deployed pre-war against Chinese tanks. That's right - tanks.	战前被派去对抗中国坦克。你没听错——就是坦克。
 Outfit_Description_PowerArmor_T45f	Lovingly maintained. Favored by neo knights and paladins.	保存得很好。骑士们很喜欢这种。
 Outfit_Description_PowerArmor_T60a	The pinnacle of powered pre-war protection.	战前装甲的巅峰。
 Outfit_Description_PowerArmor_T60d	Renowned protection, favored by the Brotherhood of Steel.	有名的护甲。钢铁兄弟会很喜欢。
 Outfit_Description_PowerArmor_T60f	Specially enhanced and vastly superior to most other armors.	特别加强过。比很多其他装甲都先进。
-Outfit_Description_PrestonSpecial	For those with honor, willing to help out at a minute's notice.	为那些有荣誉感的人们准备的，他们经常毫不犹豫出手相助。
+Outfit_Description_PrestonSpecial	For those with honor, willing to help out at a minute's notice.	献给有荣誉感的人——他们随时都愿意出手相助。
 Outfit_Description_PrewarCowboy	A mite flashy for the actual range, but looks great on camera.	在真正的荒野上有点太花哨了，但在镜头前看起来很棒。
 Outfit_Description_PrinceSpecial	Snack cakes aren't the only fancy lads in town.	俏男孩夹心蛋糕可不是镇上唯一的俏男孩。
 Outfit_Description_ProfessorSpecial	Sometimes, just sometimes, brain really is better than brawn.	有时候，只是有时候，脑子真的比肌肉强。
@@ -3680,7 +3680,7 @@ Outfit_Description_RadiationSuit	Designed to protect its wearer from radiation.	
 Outfit_Description_RadiationSuit_Advanced	Ever want to give a Glowing One a hug? Now's your chance.	是不是想过要给发光种一个拥抱呀？现在你的机会来了。
 Outfit_Description_RadiationSuit_Expert	Ever feel like swimming in a pool of radioactive waste?	曾想过在一个满是辐射废料的池子里游泳吗？
 Outfit_Description_RaiderArmor	The standard gear of Wasteland ruffians.	废土暴徒的标准服装。
-Outfit_Description_RaiderArmor_Heavy	For the psycho in charge of all the other psychos.	为了管理其他疯子的疯子准备的。
+Outfit_Description_RaiderArmor_Heavy	For the psycho in charge of all the other psychos.	给那个管着其他疯子的疯子准备的。
 Outfit_Description_RaiderArmor_Sturdy	Only the Wastes' toughest Raiders get to wear these duds.	只有废土上最强悍的掠夺者才能穿这些装备。
 Outfit_Description_RegsDirtyBlackSuit	Look, it's been a long time since the dry cleaners shut down.	你看，干洗店早就关门大吉很多年了。
 Outfit_Description_RiotGear	Functional and flattering, for all your Wasteland needs.	好用又好看。这就是在废土探索的全部需求。
@@ -3694,8 +3694,8 @@ Outfit_Description_RottedDuster	Strike a sinister silhouette in this rugged, but
 Outfit_Description_SantaSuit_Original	Make lists and check them twice. Santa: the original Overseer.	制作好心愿表，然后检查两次。圣诞老人——最早的“监督者”。
 Outfit_Description_ScarredPowerArmor_Original	A super-charged yao-guai could 'bearly' scratch the surface…	就算是超级强化妖怪都很难刮伤它的表面……
 Outfit_Description_ScientistScrubs	Wear this, and when you talk, someone may actually listen.	穿上这个，这样当你讲话的时候，真的有人会听。
-Outfit_Description_ScientistScrubs_Commander	When you give an order, people jump. High.	当你发布命令的时候，人们会激动得跳起来。很高。
-Outfit_Description_ScientistScrubs_Officer	For those times you absolutely need a commanding presence.	为了在某些日子，你需要显得颇具威严。
+Outfit_Description_ScientistScrubs_Commander	When you give an order, people jump. High.	你一下令，人们就会跳起来。跳得老高。
+Outfit_Description_ScientistScrubs_Officer	For those times you absolutely need a commanding presence.	适合那些你必须拿出威严气场的场合。
 Outfit_Description_ScifiSpecial	You may not live long or prosper, but you'll at least die dreaming.	你可能不会活得多福多寿，但至少你能在梦想中死去。
 Outfit_Description_Scorched	Scorched.	辐尸人。
 Outfit_Description_ScorchedHeavy	Scorched Heavy.	辐尸人重型。
@@ -3705,18 +3705,18 @@ Outfit_Description_ScribeRobe_Initiate	Typically worn by Brotherhood of Steel sc
 Outfit_Description_SequinDress	For when you want all eyes in the room to be on you.	当你想成为全场的焦点时，请穿上它。
 Outfit_Description_SlasherSpecial	Show your support for slasher films by dressing like a lunatic!	想支持杀人狂电影？请穿得像个疯子一样！
 Outfit_Description_SleazySuit	Wearing this makes you look, and even feel, somehow less trustworthy...	穿上它后，你似乎更加不值得信赖了……
-Outfit_Description_SleekSuit	A suit so slick it helped sell the future.	这套西装如此时尚，甚至能让你相信未来就在眼前。
-Outfit_Description_SodaFountainDress	The perfect mix of style, sophistication and... soda?	最完美的混搭，成熟和……苏打？
-Outfit_Description_SoldierSpecial	Good enough for America's troops, good enough for you.	军用产品，我想足够你使用的。
-Outfit_Description_SpecialThemeHalloween	Give the tricks, get the treats, and try not to go into sugar shock.	小心别吃糖吃到发晕。
-Outfit_Description_SpecialThemeHalloween2	Skeleton – The most popular Halloween costume of 2077 - an American circa 2078	骷髅——2077年最受欢迎的万圣节服装，也是2078年美国人的日常。
+Outfit_Description_SleekSuit	A suit so slick it helped sell the future.	这套西装光鲜至极，当年就是靠它把未来推销了出去。
+Outfit_Description_SodaFountainDress	The perfect mix of style, sophistication and... soda?	风格、格调，再掺上点……苏打？完美的混搭。
+Outfit_Description_SoldierSpecial	Good enough for America's troops, good enough for you.	配得上美国军队，也配得上你。
+Outfit_Description_SpecialThemeHalloween	Give the tricks, get the treats, and try not to go into sugar shock.	不给糖就捣蛋，收了糖果就享用，只是别吃到血糖飙升。
+Outfit_Description_SpecialThemeHalloween2	Skeleton – The most popular Halloween costume of 2077 - an American circa 2078	骷髅——2077年最流行的万圣节服装，也是2078年前后美国人的标准形象。
 Outfit_Description_SpecialThemeThanksGiving	Show your thanks for surviving the nuclear Armageddon. And turkey. Delicious, irradiated turkey...	你应该对能在核末日中存活下来而心存感激。对火鸡也是。那是美味的，被辐射过的火鸡……
-Outfit_Description_SpecialThemeXmas	Tis the season to prove Santa still visits your Vault - even if it doesn't have a chimney.	现在到了证明圣诞老人是否还来拜访你家的季节了——即使你家已经没有烟囱。
+Outfit_Description_SpecialThemeXmas	Tis the season to prove Santa still visits your Vault - even if it doesn't have a chimney.	又到了证明圣诞老人还会来你的避难所的季节了——即使这里没有烟囱。
 Outfit_Description_SpecialThemeXmas2	Overworked? Underappreciated? Funny uniform? Vault Dweller or Christmas Elf – the choice is yours.	过度工作？不被赏识？服装搞笑？避难所居民还是圣诞精灵——你来选择。
 Outfit_Description_SportsfanSpecial	Offers great protection from tackles... or Deathclaw hugs.	能给你提供很好的保护。躲过他人的阻截……或是死爪的拥抱。
-Outfit_Description_SurgeonSpecial	Great for patching up a wounded friend. Or yourself, for that matter.	能够给受伤的朋友很好地包扎伤口，或者给你自己。
+Outfit_Description_SurgeonSpecial	Great for patching up a wounded friend. Or yourself, for that matter.	给受伤的朋友包扎伤口正合适，给自己包扎也一样。
 Outfit_Description_SurvivorSpecial	Handle anything the Wasteland throws at you. Again and again.	能处理任何废土扔给你的东西。一次又一次。
-Outfit_Description_Suspenders	Country chic or fringe hip? Let them wonder.	乡村非主流还是城市重金属？让他们猜去吧。
+Outfit_Description_Suspenders	Country chic or fringe hip? Let them wonder.	是想走乡村时尚风，还是边缘潮人范儿？让他们猜去吧。
 Outfit_Description_SweaterVest	Can't decide between a sweater and a vest? Why not both?	不知道穿毛衣还是马甲？为什么不两个一起呢？
 Outfit_Description_Swimsuit	An itsy bitsy teeny weeny ye... Never mind.	一件很小很小的小小的……衣服。唉算了。
 Outfit_Description_SwingDress	Burn up the dance floor like a true jiving jitterbug.	像真正的吉特巴舞者一样燃爆舞池。
@@ -3734,7 +3734,7 @@ Outfit_Description_VaultSecurityOutfit	Sometimes it takes more than a memo to en
 Outfit_Description_Vest	Break some hearts with the smartest look in the Vault.	用避难所里最潇洒的穿着让心碎成一片。
 Outfit_Description_WaitressUniform	Comes with a side of lip, a sprinkling of sass, and a bottomless cup.	附赠几分俏皮、几分泼辣，还有一只永远续杯的杯子。
 Outfit_Description_WandererArmor	The armor of legend, worn by the Wasteland's greatest hero...	装甲界的传奇，被废土上最伟大的英雄们穿过……
-Outfit_Description_WandererArmor_Heavy	Hunter or hunted, hero or villain - if you're a badass, suit up.	捕猎或被捕，英雄或反派——如果你是坏蛋，请穿上它吧。
+Outfit_Description_WandererArmor_Heavy	Hunter or hunted, hero or villain - if you're a badass, suit up.	猎手还是猎物，英雄还是恶棍——只要你是狠角色，就穿上它。
 Outfit_Description_WandererArmor_Sturdy	The Wasteland classic, fortified for the rigors of heroism.	废土经典款，为英雄主义而强化。
 Outfit_Description_Wasteland_Doctor	Perfect for shrapnel removal or bandaging boo-boos.	对于清除弹片和包扎轻伤再合适不过了。
 Outfit_Description_Wasteland_Medic	Has plenty of pockets for bandages and painkillers.	有很多口袋可以用来装胶布和止痛药。
@@ -3742,9 +3742,9 @@ Outfit_Description_Wasteland_Surgeon	Amputation, appendectomy, gastric bypass - 
 Outfit_Description_WeddingDress	A classic look for that walk down the aisle.	走在红地毯上的经典造型。
 Outfit_Description_WilzigsTravelwear	Clean and well made. Will definitely draw attention in the Wasteland.	干净、做工精良。绝对会在废土上引人注目。
 Outfit_Description_WorkDress	Even Vault children need to learn reading, writing and arithmetic.	即使是避难所的小孩也要学习阅读，写作和算术。
-Outfit_Description_WrestlerSpecial	Protection and style, in and out of the squared circle.	安全性和造型感，总是很难两全。
+Outfit_Description_WrestlerSpecial	Protection and style, in and out of the squared circle.	无论擂台内外，防护与造型一样不缺。
 Outfit_Description_ZekesJacketAndJeans	The Atom Cats' uniform. Gotta look cool while tinkering with hundreds of pounds of power armor.	原子猫帮的制服，毕竟在摆弄数百磅的动力装甲时也得保持酷劲。
-Outfit_Description_jump	The ultimate Vault fashion statement.	避难所时尚终结者的宣言。
+Outfit_Description_jump	The ultimate Vault fashion statement.	避难所时尚的终极宣言。
 Outfit_Name_AbrahamSpecial	Abraham's Relaxedwear	亚伯拉罕休闲服
 Outfit_Name_ActionWeddingDress	Action Wedding Dress	末世新娘礼服
 Outfit_Name_AlienSpaceSuit	Alien Space Suit	外星宇航服
@@ -3776,7 +3776,7 @@ Outfit_Name_CombatArmor_Heavy	Heavy Combat Armor	重型战斗装甲
 Outfit_Name_CombatArmor_Sturdy	Sturdy Combat Armor	坚固战斗装甲
 Outfit_Name_ComedianSpecial	Comedian Outfit	喜剧演员服
 Outfit_Name_CourserUniform	Courser Uniform	追猎者制服
-Outfit_Name_CromwellSpecial	Confessor Cromwell's Rags	神棍克伦威尔的旧衣
+Outfit_Name_CromwellSpecial	Confessor Cromwell's Rags	忏悔者克伦威尔的旧衣
 Outfit_Name_DetectiveOutfit	Detective Outfit	侦探套装
 Outfit_Name_DooWopOutfit	Doo-Wop Singer	杜沃普摇滚乐歌手服
 Outfit_Name_DrLiSpecial	Doctor Li's Outfit	李医生外套
@@ -4010,23 +4010,23 @@ Pet_Description_Alien_b	Moving a few wires around has made you a friend for life
 Pet_Description_abyssinian_b	The epitome of the sleek, slim, feline form.	光滑又苗条，一个猫形态的缩影。
 Pet_Description_abyssinian_l	Intelligence, elegance... excellence.	智慧，优雅……卓越。
 Pet_Description_akita_b	Loves children. Other dogs, not so much.	喜欢小孩。对于狗，没那么喜欢。
-Pet_Description_akita_l	Likes to think he's in charge. You'll need to teach him otherwise.	乐意认为它是在负责一切。不然的话还得教它。
+Pet_Description_akita_l	Likes to think he's in charge. You'll need to teach him otherwise.	喜欢自认为是老大，你得让它明白谁才是主人。
 Pet_Description_akita_l2	Such dwelling. Very Vault. Wow.	这样的住处。很有避难所的风格。哇哦。
 Pet_Description_american_b	Cats? Extinct? Just try getting rid of these babies.	猫？灭绝了？你倒试试看能不能摆脱这群小家伙。
 Pet_Description_american_l	A shining example of American breeding.	美国育种的一个光辉典范。
 Pet_Description_australianshepherd_b	There isn't a ball he can't catch.	没有一个球是它接不到的。
 Pet_Description_australianshepherd_l	Gets restless without exercise. “Restless” meaning he'll eat your shoes.	会因为没有锻炼而觉得不安。不安意味着它会吃掉你的鞋子。
 Pet_Description_blacklab_b	Splashing on a beach or curled up at your feet... the quintessential pet pooch.	在沙滩上玩水或蜷在你的脚下……典型的宠物狗。
-Pet_Description_blacklab_l	Raised by children, loved by all. Used to living underground.	由孩子们养大的，所有人都很爱它。曾生活在地下。
+Pet_Description_blacklab_l	Raised by children, loved by all. Used to living underground.	由孩子们养大，人人都疼它。早就习惯了在地下生活。
 Pet_Description_bloodhound_b	The best tracker in the Commonwealth.	联邦里最好的追踪犬。
-Pet_Description_bloodhound_l	Smell that? No? He can!	闻到了吗？没有？它可以！
+Pet_Description_bloodhound_l	Smell that? No? He can!	闻到了吗？没有？它闻得到！
 Pet_Description_bloodhound_l2	Someone missing? He's on the case!	有人失踪了？它可以帮忙！
 Pet_Description_bloodhound_l3	The scourge of Mole rats and Radstags everywhere.	它是各地鼹鼠和辐射鹿的灾星。
 Pet_Description_blueyellowmacaw_b	Genetically engineered by Vault-Tec to fulfill your pirate fantasies.	避难所科技的基因工程，满足你的海盗幻想。
 Pet_Description_blueyellowmacaw_l	When it comes to birds made in a lab, he's the best of the nest!	在实验室研发的鸟儿当中，它可是数一数二的！
 Pet_Description_blueyellowmacaw_l2	This big house bird doesn't eat crackers – he IS Crackers.	这只大房子的鸟不吃饼干，它就叫“饼干”。
-Pet_Description_blueyellowmacaw_l3	When it comes to speech, he's up for the challenge.	一提到演讲时，它就准备好想要挑战了。
-Pet_Description_bombay_b	That bad luck myth is ssoooo blown out of proportion.	坏运气的魔咒才没有那么大的概率呢。
+Pet_Description_blueyellowmacaw_l3	When it comes to speech, he's up for the challenge.	要论学人说话，它可从不怯场。
+Pet_Description_bombay_b	That bad luck myth is ssoooo blown out of proportion.	招厄运那说法也太夸张了吧。
 Pet_Description_bombay_l	Who stole your sweet roll? One guess.	谁偷了你的甜面包？只能猜一次。
 Pet_Description_boxer_b	Playful, good with kids, capable of ripping a Raider's arm off. Yeah.	很会玩，对孩子们也友善，还能一把拧下掠夺者的胳膊。简直太棒了。
 Pet_Description_boxer_l	He can survive in the Wasteland, but is only truly alive by your side.	它可以在废土上生存，但只有在你的身边才算真正的活着。
@@ -4037,16 +4037,16 @@ Pet_Description_brittany_l	Quiet yet commanding, with a legendary ability to ins
 Pet_Description_burmilla_b	This pretty kitty cheers up even the gloomiest Vault Dweller.	这只漂亮的小猫咪甚至能让避难所最悲观的居民振作起来。
 Pet_Description_burmilla_l	Little miss purr-fect.	真是只秀美的小猫咪。
 Pet_Description_burmilla_l2	He scratches you because he loves you. Honest.	说真的，它挠你是因为它爱你。
-Pet_Description_cattledog_b	Children. Brahmin. Deathclaws. She can herd them all.	儿童。双头牛。死爪。都可以被它圈养。
+Pet_Description_cattledog_b	Children. Brahmin. Deathclaws. She can herd them all.	儿童。双头牛。死爪。它全都能放牧。
 Pet_Description_cattledog_l	Loves to pal around with Abe Lincoln. Or what's left of him.	它喜欢和亚伯拉罕·林肯做伴——或者说，林肯剩下的部分。
-Pet_Description_collie_b	Trapped in a well? She'll get help!	困在了井里？它会让你得到帮助！
+Pet_Description_collie_b	Trapped in a well? She'll get help!	困在了井里？它会去搬救兵！
 Pet_Description_collie_l	A coat so soft, you'll want to pet her forever.	一身如此柔软的皮毛，你会想一直抚摸它。
-Pet_Description_cx404_l	A highly trained ex-Enclave operative specializing in snoofs and borks.	一个训练有素的前英克雷特工，专门从事嗅探活动。
+Pet_Description_cx404_l	A highly trained ex-Enclave operative specializing in snoofs and borks.	一个训练有素的前英克雷特工，专精嗅嗅和汪汪叫。
 Pet_Description_cyberdog_l	Cybernetically enhanced to be man's bestest friend.	经过赛博强化，成为人类最忠实的朋友。
 Pet_Description_dalmatian_b	Rumors of huge litters are greatly exaggerated.	一胎生一大窝的传言被严重夸大了。
 Pet_Description_dalmatian_l	He may not be able to put out a fire, but he can offer moral support.	它也许不能扑灭火灾，但它能提供精神支持。
 Pet_Description_dalmatian_l2	If your Vault catches on fire - and it will - he's your charm.	要是避难所着了火——迟早的事——他就是你的护身符。
-Pet_Description_doberman_b	Aggressive? Sure. Loyal and loving? You'd better believe it.	有攻击性？当然。 给你忠诚和爱？你最好相信这点。
+Pet_Description_doberman_b	Aggressive? Sure. Loyal and loving? You'd better believe it.	有攻击性？当然。又忠诚又亲人？那还用说。
 Pet_Description_doberman_l	Daring and dangerous, but oh so adorable.	大胆且危险，但……真是太可爱了。
 Pet_Description_englishmastiff_b	Don't let his size fool you - he's a softie at heart.	不要被它的大个头给欺骗了——它内心是个小可爱。
 Pet_Description_englishmastiff_l	We're gonna need a bigger dog bed...	我们需要一个更大的狗床……
@@ -4056,17 +4056,17 @@ Pet_Description_germanpointer_l2	Has a nose for chocolate treats, but don't let 
 Pet_Description_germanshepherd_b	The word “classic” barely does him justice.	“经典”一词都不足以形容它。
 Pet_Description_germanshepherd_l	From the Den to Diamond City, the true legend of the Wastes.	从丹恩城到钻石城，真正的废土传说。
 Pet_Description_goldenret_b	Happy. Bouncy. Yellow.	快乐。蹦跶。金黄。
-Pet_Description_goldenret_l	Has been known to play fetch... with five balls at once.	已经知道……可以一次用五个球来玩接球游戏。
+Pet_Description_goldenret_l	Has been known to play fetch... with five balls at once.	据说它能一次接住五个球。
 Pet_Description_greyhound_b	Fastest canine in the Wastes.	废土世界最快的犬科动物。
 Pet_Description_greyhound_l	Don't bet against him in a race.	一场比赛里要是不赌它赢，你肯定要输钱。
 Pet_Description_havanabrown_b	Get used to saying “How did you get up there?”	已经习惯和它说，“你是怎么上到那里的？”
 Pet_Description_havanabrown_l	Curls up on your lap and casts a sleeping spell on you.	蜷缩在你的腿上，并向你施了催眠咒。
 Pet_Description_husky_b	She's equally adept at pulling a sled... and your heartstrings.	它擅长拉动雪橇……和你的心弦。
 Pet_Description_husky_l	He served our troops in Anchorage. Now he proudly serves the Vault.	它曾在安克雷奇为我们的军队服务。现在它自豪地为避难所服务。
-Pet_Description_laperm_b	Loves keeping humans as pets.	爱让人类成了宠物。
+Pet_Description_laperm_b	Loves keeping humans as pets.	就爱把人类当宠物养。
 Pet_Description_laperm_l	Thinks mice were created for his own personal amusement.	认为老鼠是为了供它玩耍而被创造的。
 Pet_Description_laperm_l2	Looks like he's fresh out of the dryer.	看起来像是刚从烘干机中出来。
-Pet_Description_laperm_l3	A fancy coat, and the attitude to match.	拥有一件华丽的外套，和想和其他人一决高下的态度。
+Pet_Description_laperm_l3	A fancy coat, and the attitude to match.	它一身华丽的皮毛，还有与之相配的傲气。
 Pet_Description_lykoi_b	Those ears can hear you serving cat food from a mile away.	那些耳朵能听到你在一英里外喂猫食。
 Pet_Description_lykoi_l	Strikes silently... at least where your toes are concerned.	默默地攻击……至少在你的脚趾那里。
 Pet_Description_mainecoon_b	Only looks like a wild child. He's as calm and cuddly as they come.	只是看起来像一个野孩子。它其实文静又可爱。
@@ -4079,7 +4079,7 @@ Pet_Description_militarymacaw_b	Can sing America the Beautiful... or swear at th
 Pet_Description_militarymacaw_l	Loyal but hungry. Wants a cracker, but Sugar Bombs will do in a pinch.	忠诚但总是觉得饿。想要一块饼干，但关键时候糖衣炸弹麦片也行。
 Pet_Description_militarymacaw_l2	Knows 200 words, but will only say “Tunnel Snakes Rule!”	知道200个词，却只会说“隧道蛇统治一切！”
 Pet_Description_ocicat_b	The closest you'll get to an ocelot. Revolver not included.	你最多能得到一只虎猫。可别想还会有什么左轮手枪。
-Pet_Description_ocicat_l	He's got more spots than sense, but you'll love him all the same.	它的斑点比你想象的多，但你还是会一样喜欢它。
+Pet_Description_ocicat_l	He's got more spots than sense, but you'll love him all the same.	它身上的斑点比脑子还多，但你还是会一样喜欢它。
 Pet_Description_pallascat_b	Rumor has it there's a cat somewhere under all that fur.	有传言说，那一大堆皮草下面有一只猫。
 Pet_Description_pallascat_l	Frequently mistaken for a feather duster.	经常被误认为是一个鸡毛掸子。
 Pet_Description_persian_b	Long hair, round face, maximum cuddle factor.	长长的毛发，圆圆的脸蛋，带给你最暖的抱抱。
@@ -4089,10 +4089,10 @@ Pet_Description_pitbullterrier_b	Your stop for effective canine security.	满足
 Pet_Description_pitbullterrier_l	Don't let the bad rap fool you - he's as loyal as can be.	别被它的坏名声骗了——它忠诚无比。
 Pet_Description_pitbullterrier_l2	Underneath all those muscles, there's a big heart.	在这些健壮的肌肉下面，有一颗宽厚的心。
 Pet_Description_pitbullterrier_l3	Your Vault couldn't ask for a better guard dog.	你的避难所不可能再找到比它更好的看门狗了。
-Pet_Description_poodle_b	Don't misjudge this fancy pants – he's smart, sweet and strong.	不要误解这个花裤子——它聪明、可爱又坚强。
+Pet_Description_poodle_b	Don't misjudge this fancy pants – he's smart, sweet and strong.	别被这身花哨行头骗了——它聪明、乖巧又强壮。
 Pet_Description_poodle_l	Wanted a mohawk. Got... this. He's a hero on the inside.	想要一个莫霍克。得到了……这个。它内心是一个英雄。
 Pet_Description_rollerbrain_b	A friend's preserved mind, mundane tidiness its key anchor to sanity.	保存着朋友的大脑，日常的整洁是它维系理智的关键。
-Pet_Description_rottweiler_b	Big and bad, but devoted and obedient. He's a friend for life.	虽然有时又大又讨厌，但善于奉献又听话。会是一辈子的朋友。
+Pet_Description_rottweiler_b	Big and bad, but devoted and obedient. He's a friend for life.	它个头大又不好惹，却忠心又听话，会是你一辈子的朋友。
 Pet_Description_rottweiler_l	Benign soul in a brawny bod. She's love and loyalty exemplified.	一个强壮的身体里住着善良的灵魂。它是爱和忠诚的典范。
 Pet_Description_scarletmacaw_b	Avast, matey! He'll keep you company while you're swabbing the poop deck.	且慢，兄弟！在你擦拭甲板的时候它会一直陪伴你。
 Pet_Description_scarletmacaw_l	He'll happily sit on your shoulder. Angel, devil... or both.	它会高兴地坐在你肩膀上。是天使，还是恶魔……或两者都是。
@@ -4369,7 +4369,7 @@ QuestLoc_ASettlerNeedsYourHelp_QuestObjective_2	Kill the Glowing One.	消灭发�
 QuestLoc_ASettlerNeedsYourHelp_QuestObjective_3	Loot the manager's office.	搜刮经理办公室。
 QuestLoc_ASettlerNeedsYourHelp_QuestShortDescription	Find Preston Garvey in the Kendall Hospital.	在肯德尔医院找到了普雷斯顿·加维。
 QuestLoc_ASettlerNeedsYourHelp_QuestlineName	A Settler Needs Your Help	有人需要你的帮助
-QuestLoc_ASpecialBrand_Conversation_1_NPCEnd_1	The one you traded for your friend Jack? As dowry? Talk to Krant - he's got what you came for.	那个你用来交换杰克的人呢？作为嫁妆的？和科兰特聊聊吧，他手里有你们想要的。
+QuestLoc_ASpecialBrand_Conversation_1_NPCEnd_1	The one you traded for your friend Jack? As dowry? Talk to Krant - he's got what you came for.	就是你们为了朋友杰克换出去的那只？当嫁妆的那只？和科兰特聊聊吧，他手里有你们想要的东西。
 QuestLoc_ASpecialBrand_Conversation_1_NPCStart_1	Ha! I remember you, but I bet you don't remember me!	哈！我记得你，但我打赌你肯定不记得我！
 QuestLoc_ASpecialBrand_Conversation_1_NPCStart_2	You were on a different planet. You still alien gods? Whatever. You guys are a hoot.	你曾在一个不同的星球上。你们还是外星人上帝吗？无所谓。你们这些人真是搞笑。
 QuestLoc_ASpecialBrand_Conversation_1_NPCStart_3	Did Glenda end up killing a Radscorpion with her bare fists? She's always been a big talker.	格兰达最终徒手杀死了辐射蝎吗？她总是喜欢说大话。
@@ -4568,7 +4568,7 @@ QuestLoc_AllsFairinLoveandNuclearWar_Conversation_1_Team_2	Maybe those disruptiv
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_1_Team_3	Are there any Singles here at all?	这里到底有没有单身汉啊？
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_1	No one mocks my mojo!	没有人敢嘲笑我的符咒！
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_2	I can. I did. And now I'm calling dibs on killing you.	我可以。我也这么做了。现在我已经抢先预订要杀了你。
-QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_3	There are? All right boys, let's blow this joint. Here, take this to remember how I let you live.	好了兄弟们，咱们离开这个鬼地方吧。
+QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_3	There are? All right boys, let's blow this joint. Here, take this to remember how I let you live.	真有？好吧兄弟们，咱们离开这个鬼地方吧。来，拿着这个，记住是我饶了你一命。
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCEnd_4	Well, shooting *you* in the face would certainly lift my spirits!	这个，杀了你当然能振奋我的精神！
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCStart_1	Sorry mate, you've come all the way here for nothing.	不好意思了兄弟，让你这么远白跑一趟。
 QuestLoc_AllsFairinLoveandNuclearWar_Conversation_2_NPCStart_2	There's only one single person left, and I already called dibs.	现在只有一个单身人士剩下了，而我早就已经预订了。
@@ -4700,7 +4700,7 @@ QuestLoc_BeatReporting_Conversation_1_NPCStart_3	There, that looks nice.	好了�
 QuestLoc_BeatReporting_Conversation_1_NPCStart_4	I'm the editor of the newspaper. How can I help you?	我是报纸的编辑。需要帮忙吗？
 QuestLoc_BeatReporting_Conversation_1_Team_1	One of your reporters discovered that Pestilence is a Glowing Radscorpion.	你的一个记者发现“瘟疫”是一只发光辐射蝎。
 QuestLoc_BeatReporting_Conversation_2_NPCEnd_1	He's been around long enough to be a legend to children and veterans alike.	他已经待了太长的时间，足以成为儿童眼里的传奇，就像那些退伍军人一样。
-QuestLoc_BeatReporting_Conversation_2_NPCEnd_2	Maybe the hunger comes with age? No known Glowing One is as old.	也许“饥饿”年纪大了？没有哪只已知的发光种是老的。
+QuestLoc_BeatReporting_Conversation_2_NPCEnd_2	Maybe the hunger comes with age? No known Glowing One is as old.	也许“饥饿”是上了年纪才有的？已知的发光种里，没有哪只有他这么老。
 QuestLoc_BeatReporting_Conversation_2_NPCEnd_3	Absolutely. The non-feral ones makes the decisions for the whole pack.	当然。由那些不狂化的尸鬼为整个群落做决定。
 QuestLoc_BeatReporting_Conversation_2_NPCEnd_4	Yes. He probably has no idea he's gathered such a following.	对。他可能不知道他已经聚集了这么多追随者。
 QuestLoc_BeatReporting_Conversation_2_NPCStart_1	Hi! I write about the Hungry. We have multiple undercover Ghouls in the field with them.	你好！我正在写关于“饥饿者”的。我们有多个卧底尸鬼在现场与他们一起。
@@ -4841,7 +4841,7 @@ QuestLoc_BreakingalltheRecords_QuestShortDescription	Find Rackie Jobinson's Base
 QuestLoc_Broadsides_Conversation_1_NPCEnd_1	We got a back issue from Vault 819. Until then all we had to read was an old copy of “One Ghoul, Two Ghoul.”	我们从819号避难所那里得到了一本过期报刊。在那之前我们只有一本旧的《一只尸鬼，两只尸鬼》影印本可以读。
 QuestLoc_Broadsides_Conversation_1_NPCEnd_2	That's right! We're heading out to hunt some Raiders - I'm destined to be a front page star! Vault 819 look out!	你说的对！我们这就出发去追捕那些掠夺者—我注定会成为封面明星！819号避难所可得小心啦！
 QuestLoc_Broadsides_Conversation_1_NPCStart_1	Thanks for helping us with our infestation problem!	感谢你们帮我们解决了虫灾问题！
-QuestLoc_Broadsides_Conversation_1_NPCStart_2	Our people have been running off on quests of derring-do in hopes of capturing the Bugle's eye...	他们希望能引起号角报的注意
+QuestLoc_Broadsides_Conversation_1_NPCStart_2	Our people have been running off on quests of derring-do in hopes of capturing the Bugle's eye...	我们的人都跑出去干那些冒险的差事，就为了能入号角报的眼……
 QuestLoc_Broadsides_Conversation_1_NPCStart_3	No one's left to keep the joint clean!	居然没人留下来打理这个地方！
 QuestLoc_Broadsides_Conversation_1_Team_1	How did you get ahold of a copy of the Bugle?	你是怎么拿到一份号角报的？
 QuestLoc_Broadsides_Conversation_1_Team_2	So you can get in the Bugle by kicking butt and taking names?	所以靠打架揍人扬名就能上号角报？
@@ -4925,7 +4925,7 @@ QuestLoc_CheapBeerintheBleacherSeats_QuestName	Cheap Beer in the Bleacher Seats	
 QuestLoc_CheapBeerintheBleacherSeats_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_CheapBeerintheBleacherSeats_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_CheerfortheGhouls_Conversation_1_NPCEnd_1	Hurray! Here. We saved up and want you to have this present!	噢耶！拿着吧，这是我们特意保存下来的，现在我们希望你能拥有它！
-QuestLoc_CheerfortheGhouls_Conversation_1_NPCEnd_2	We see how it is, smoothskins! Get out of here.	我们看到了它是怎样的。赶紧滚吧，“光滑皮肤”们！
+QuestLoc_CheerfortheGhouls_Conversation_1_NPCEnd_2	We see how it is, smoothskins! Get out of here.	我们算是看清你们了，“光滑皮肤”们！赶紧滚吧！
 QuestLoc_CheerfortheGhouls_Conversation_1_NPCStart_1	You're here! Santa didn't forget about us.	你来了！看来圣诞老人没有忘记我们。
 QuestLoc_CheerfortheGhouls_Conversation_1_NPCStart_2	We've been very good Ghouls this year!	今年我们尸鬼都很乖哦！
 QuestLoc_CheerfortheGhouls_Conversation_1_NPCStart_3	You'll let him know that, won't you?	你会告诉他的，对吧？
@@ -5046,7 +5046,7 @@ QuestLoc_ClearingAPath_QuestName	Clearing A Path	清空小路
 QuestLoc_ClearingAPath_QuestObjective_1	Clear a path for the Brotherhood of Steel squad at the factory.	为工厂里的钢铁兄弟会小队清空道路。
 QuestLoc_ClearingAPath_QuestShortDescription	Provide fire support at the machine parts factory.	在机械配件厂提供火力支援。
 QuestLoc_ClimbingtheRanks_QuestlineName	Climbing the Ranks	迈向巅峰
-QuestLoc_CollateralMurder_Conversation_1_NPCEnd_1	Oh yeah. We've been watching him, waiting for the right time to strike. Try the old Super Duper-Mart about a click north of here.	试试从这里往北约一公里处的旧大无敌超市吧。
+QuestLoc_CollateralMurder_Conversation_1_NPCEnd_1	Oh yeah. We've been watching him, waiting for the right time to strike. Try the old Super Duper-Mart about a click north of here.	哦，是啊。我们一直在盯着他，就等着下手的机会。去试试从这里往北约一公里处的旧大无敌超市吧。
 QuestLoc_CollateralMurder_Conversation_1_NPCStart_1	I'm all that's left. I suppose that's what you get when you stand up to thugs and yellow journalists.	我就是所剩无几的人之一。这大概就是和暴徒还有小报记者作对的下场。
 QuestLoc_CollateralMurder_Conversation_1_NPCStart_2	That ridiculous Bugle “Boy” and his Editor... Soon as I saw them I could tell they were hucksters, and I wasn't buying the act!	那个可笑的号角“男孩”和他的编辑……我一看就知道他们是骗子，我根本不会买他们的账！
 QuestLoc_CollateralMurder_Conversation_1_NPCStart_3	“Have it your way!” the Bugle “Boy” said. Then came the biggest Raider attack I've ever experienced. It was a bloodbath.	“那走着瞧吧。”号角“男孩”说道。于是就上演了我平生最大规模的掠夺者袭击。真是一场血战。
@@ -5105,7 +5105,7 @@ QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCStart_2	But are they hungry e
 QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCStart_3	Famine alone will gorge himself on Death and enjoy those tasty Horseman calories.	单是“饥荒”就会把“死亡”吞食殆尽，好好享用这些“骑士”的美味卡路里。
 QuestLoc_CrimeSceneInvestigation_Conversation_1_NPCStart_4	Let our hunger consume you!	让我们的饥饿吞噬你！
 QuestLoc_CrimeSceneInvestigation_Conversation_1_Team_1	Wait a sec! Can we just talk about th-	等一下！我们可以谈谈—
-QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCEnd_1	Your lies can't be heard over the sound of how unworthy we are!	你们根本就不配让我们听到你们的谎言！
+QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCEnd_1	Your lies can't be heard over the sound of how unworthy we are!	我们喊“我们不配”的动静太大，你们的谎言根本没人听得见！
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_1	Like flies to a carcass, everyone comes to see what Death leaves behind.	就像苍蝇飞到尸体上一样，每个人都来看看“死亡”留下的痕迹。
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_2	The fourth Horseman is elusive, but the Pests will be the ones to find him.	第四骑士是难以捉摸的，但“害虫”们会找到他。
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3	And when Pestilence is the final Horseman, we shall be unworthy no more.	当“瘟疫”成为最后的骑士时，我们将不会毫无价值了。
@@ -5194,13 +5194,13 @@ QuestLoc_DeathRevealed_Conversation_3_NPCEnd_3	We are Death's wake-up call!	我�
 QuestLoc_DeathRevealed_Conversation_3_NPCEnd_4	No, not at all. I was going to say... uh... oh, whatever. We are Death's wake-up call!	不，一点都不。我正要说……呃……哦，无所谓了。我们是“死亡”的警钟！
 QuestLoc_DeathRevealed_Conversation_3_NPCStart_1	The shadow of Death, as defined in Article 8, Subsection c, is upon you!	死亡的阴影，如第8条第c款所定义的，就在你身上！
 QuestLoc_DeathRevealed_Conversation_3_NPCStart_2	Death will awaken when the quota is met. It's all there in the Manual.	当配额满足时“死亡”就会苏醒。手册里都写了。
-QuestLoc_DeathRevealed_Conversation_3_NPCStart_3	So we spill your blood today not out of malice, but to help meet that quota.	所以我们今天让你们流血不是出于恶意，而是为了帮助你达到这个配额。
+QuestLoc_DeathRevealed_Conversation_3_NPCStart_3	So we spill your blood today not out of malice, but to help meet that quota.	所以我们今天让你们流血不是出于恶意，而是为了凑够那个配额。
 QuestLoc_DeathRevealed_Conversation_3_NPCStart_4	We hope your final moments meet the Manual's minimum happiness requirements.	我们希望您最后的时刻幸福度能满足手册的最低要求。
 QuestLoc_DeathRevealed_Conversation_3_Team_1	The Death cultitsts are Dwellers from Vault 144? I did not see that coming.	“死亡”教徒是来自144号避难所的居民吗？这我还真没料到。
 QuestLoc_DeathRevealed_Conversation_3_Team_2	Can you at least tell us where Death is first? You know we'll find out eventually.	你能至少告诉我们“死亡”在哪里吗？你知道我们最终会发现的。
 QuestLoc_DeathRevealed_Conversation_3_Team_3	So Death is sleeping and you're killing people to wake him up. That isn't insane at all.	所以“死亡”正在睡觉，你杀了人来叫醒他。这一点都不疯狂。
 QuestLoc_DeathRevealed_Conversation_3_Team_4	You're about to shout out your cult motto, aren't you?	你要喊出你的邪教座右铭，是不是？
-QuestLoc_DeathRevealed_QuestLongDescription	In Vault 672, we met Dwellers from Vault 144 who are familiar with Death, the mysterious fourth Horseman. As promised, their Overseer contacted us and set up a meeting where she'll tell us what she can! But she doesn't want to reveal the location of her Vault, so we'll be joining her in an abandoned building...	我们遇到了来自144号避难所、熟悉“死亡”的居民……她会把她知道的一切告诉我们！
+QuestLoc_DeathRevealed_QuestLongDescription	In Vault 672, we met Dwellers from Vault 144 who are familiar with Death, the mysterious fourth Horseman. As promised, their Overseer contacted us and set up a meeting where she'll tell us what she can! But she doesn't want to reveal the location of her Vault, so we'll be joining her in an abandoned building...	在672号避难所，我们遇到了来自144号避难所的居民，他们熟悉那位神秘的第四骑士“死亡”。按照约定，他们的监督者联系了我们并安排了会面，届时她会把她知道的一切都告诉我们！但她不想透露自己避难所的位置，所以我们将会在一座废弃的建筑里与她碰面……
 QuestLoc_DeathRevealed_QuestName	Death Revealed?	“死亡”出现？
 QuestLoc_DeathRevealed_QuestObjective_1	Talk to the Overseer of Vault 144.	跟144号避难所的监督者交谈。
 QuestLoc_DeathRevealed_QuestObjective_2	Listen to Three Dog's broadcast.	听三狗的广播。
@@ -5218,7 +5218,7 @@ QuestLoc_DeathandDenial_Conversation_2_Team_1	The game is afoot! Let's proceed!	
 QuestLoc_DeathandDenial_Conversation_2_Team_2	Not so fast. Where were *you* on the night of the murder?	没有那么快。谋杀案发生的那天晚上你在哪里？
 QuestLoc_DeathandDenial_Conversation_2_Team_3	Reginald, Reginald... Dutch, is it?	雷金纳德，雷金纳德……荷兰人，是吗？
 QuestLoc_DeathandDenial_Conversation_3_NPCEnd_1	We mostly just collect old junk and resell it... but we're very industrious about it!	我们通常只是收集旧的垃圾然后转卖……但是我们对此非常勤奋！
-QuestLoc_DeathandDenial_Conversation_3_NPCEnd_2	Coincidentally enough, trying to find clever ways to murder Mr. Peabody.	很巧的是，他想找到谋杀皮博迪先生的好办法。
+QuestLoc_DeathandDenial_Conversation_3_NPCEnd_2	Coincidentally enough, trying to find clever ways to murder Mr. Peabody.	很巧的是，我当时正在琢磨怎么巧妙地谋杀皮博迪先生。
 QuestLoc_DeathandDenial_Conversation_3_NPCEnd_3	Don't get any funny ideas! It's bad enough Peabody tried to seduce my wife...	不要有任何可笑的想法！皮博迪想勾引我妻子已经够糟的了……
 QuestLoc_DeathandDenial_Conversation_3_NPCStart_1	You can't keep us cooped up in here, you know? We have rights!	你不能把我们关在这里，知道吗？我们有个人权利！
 QuestLoc_DeathandDenial_Conversation_3_NPCStart_2	I'm Rod Murphy, rich but vulgar industrialist, and this is my trophy wife Priscilla.	我是罗德·墨菲，富有但粗俗的实业家，这是我的妻子普莉希拉。
@@ -5227,9 +5227,9 @@ QuestLoc_DeathandDenial_Conversation_3_NPCStart_4	Not since we got here, anyway.
 QuestLoc_DeathandDenial_Conversation_3_Team_1	An industrialist? In this day and age?	一个实业家吗？在这个时代？
 QuestLoc_DeathandDenial_Conversation_3_Team_2	What were you doing when Mr. Peabody was murdered?	皮博迪先生被谋杀时你在干什么？
 QuestLoc_DeathandDenial_Conversation_3_Team_3	I had a cat named Priscilla, once.	我曾经养过一只叫普莉希拉的猫。
-QuestLoc_DeathandDenial_Conversation_4_NPCEnd_1	Got her son addicted to Rock-papers-scissors, then sucked him dry by always picking Rock.	她让儿子迷上了剪刀石头布，然后总是出石头让他一败涂地。
+QuestLoc_DeathandDenial_Conversation_4_NPCEnd_1	Got her son addicted to Rock-papers-scissors, then sucked him dry by always picking Rock.	是皮博迪让夫人的儿子迷上了剪刀石头布，然后每次出石头，把钱全赢光了。
 QuestLoc_DeathandDenial_Conversation_4_NPCEnd_2	Oh, she's not a Ghoul, she's just very, very old.	哦，她不是尸鬼，她只是非常非常老了。
-QuestLoc_DeathandDenial_Conversation_4_NPCEnd_3	Resuscitating Lady Worthington after she tried to nibble on a blueberry scone.	沃辛顿夫人试图咬一口蓝莓烤饼后苏醒过来。
+QuestLoc_DeathandDenial_Conversation_4_NPCEnd_3	Resuscitating Lady Worthington after she tried to nibble on a blueberry scone.	我在给沃辛顿夫人做急救复苏——她想咬一口蓝莓烤饼，结果噎住了。
 QuestLoc_DeathandDenial_Conversation_4_NPCStart_1	Hello! This is Lady Elizabeth Worthington, and I'm her attendant Agatha.	你好！这是伊丽莎白·沃辛顿夫人，我是她的侍从阿加莎。
 QuestLoc_DeathandDenial_Conversation_4_NPCStart_2	Alas, the Lady can't hear too well, so you'll have to direct your questions to me.	唉，那位女士听不太清楚，所以你得直接问我。
 QuestLoc_DeathandDenial_Conversation_4_NPCStart_3	The Lady deeply respects Mr. Peabody, whom she's known for years.	这位女士非常尊敬皮博迪先生，她认识他很多年了。
@@ -5397,14 +5397,14 @@ QuestLoc_DiplomaticMission_QuestName	Diplomatic Mission!	外交任务！
 QuestLoc_DiplomaticMission_QuestObjective_1	Talk to the settlers.	和定居者交谈。
 QuestLoc_DiplomaticMission_QuestShortDescription	Send a team in Formal Wear out to talk to a settlement.	派遣一队着装正式的居民去和定居点的代表交谈。
 QuestLoc_DivideandConquer_Conversation_1_NPCEnd_1	That's *point* 22. Here, let me show you.	那是“点22”（.22口径）。且听我说。
-QuestLoc_DivideandConquer_Conversation_1_NPCEnd_2	...or very small values of 5. All right, you can go through.	……或5里非常小的值。好吧，你可以过去了。
+QuestLoc_DivideandConquer_Conversation_1_NPCEnd_2	...or very small values of 5. All right, you can go through.	……对取极小值的5也算。好吧，你可以过去了。
 QuestLoc_DivideandConquer_Conversation_1_NPCEnd_3	Okay, maybe that was a little *too* simple...	好吧，也许那有点太简单了……
 QuestLoc_DivideandConquer_Conversation_1_NPCStart_1	Hold it right there, mouthbreathers!	等等，你们这些用嘴呼吸的家伙！
 QuestLoc_DivideandConquer_Conversation_1_NPCStart_2	In order to continue, you must prove your math skills.	为了继续下去，你必须先证明你们的数学技能。
 QuestLoc_DivideandConquer_Conversation_1_NPCStart_3	Since you guys don't look too smart, we'll start with a simple one.	既然你们看起来不太聪明，我们就从简单的开始。
 QuestLoc_DivideandConquer_Conversation_1_NPCStart_4	Does 2 + 2 equal 5?	2 + 2等于5吗？
 QuestLoc_DivideandConquer_Conversation_1_Team_1	No, 2 + 2 is 22, like the caliber.	不，2 + 2是22，像口径。
-QuestLoc_DivideandConquer_Conversation_1_Team_2	Only for very large values of 2.	只有2里非常大的值。
+QuestLoc_DivideandConquer_Conversation_1_Team_2	Only for very large values of 2.	这只对取极大值的2成立。
 QuestLoc_DivideandConquer_Conversation_1_Team_3	Two and two are four.	二加二等于四。
 QuestLoc_DivideandConquer_Conversation_2_NPCEnd_1	Wrong, the two are considered to be of equal value! Kill them!	错了，这两个被认为是同等价值的！杀了他们！
 QuestLoc_DivideandConquer_Conversation_2_NPCEnd_2	Indeed, it is! Here's your reward.	的确，它是！这是你的奖励。
@@ -5480,7 +5480,7 @@ QuestLoc_DogsofWar_Conversation_1_NPCStart_3	What?! These Warshippers must be fo
 QuestLoc_DogsofWar_Conversation_1_NPCStart_4	We need to save him!	我们需要拯救他！
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_1	With those cute little blue suits of yours that are *so* intimidating, right?	穿着你们那些可爱的蓝色小套装真是太吓人了，对吧？
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_2	Oh no! The Pests have come to take our outfits! I'm shaking in my boots. Not.	哦不！“害虫”来抢我们的装备了！我在颤抖。不。
-QuestLoc_DogsofWar_Conversation_2_NPCEnd_3	You certainly don't look very hungry. Those Ghouls must be fattening you up for later.	你看起来不太饿。那些尸鬼肯定会等你养肥了之后再说。
+QuestLoc_DogsofWar_Conversation_2_NPCEnd_3	You certainly don't look very hungry. Those Ghouls must be fattening you up for later.	你看起来可一点都不饿。那些尸鬼一定是在把你养肥，留着以后吃呢。
 QuestLoc_DogsofWar_Conversation_2_NPCEnd_4	Death finally makes a move and decides to send *you*? That's rather anticlimactic.	死亡总算行动了，结果派来的是*你们*？还真是虎头蛇尾。
 QuestLoc_DogsofWar_Conversation_2_NPCStart_1	Looky here, someone got through all the rookies. What, you think you can take us?	看这里，有人打败了那些菜鸟。怎么，你们觉得能打败我们？
 QuestLoc_DogsofWar_Conversation_2_NPCStart_2	No matter. The message is out. “You can't stop the signal,” after all.	不管了。消息已发出。毕竟“你不能阻止信号传播”。
@@ -6404,7 +6404,7 @@ QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_2	It's awesome! Your Overseer is
 QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_3	...says the hired assassin.	雇佣刺客说……
 QuestLoc_ExtremePrejudice_Conversation_5_NPCEnd_4	No, Secret Agent Person, I expect you to die.	不，特工人员，我希望你死。
 QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_1	Well, well, well...	这个嘛这个嘛……
-QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_2	I guess it was just a matter of time before you showed up.	我想在你出现之前只是时间问题。
+QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_2	I guess it was just a matter of time before you showed up.	我看你出现在这儿，不过是早晚的事。
 QuestLoc_ExtremePrejudice_Conversation_5_NPCStart_3	Too bad you will fail, and your Vault will be ours!	可惜你会失败，你的避难所将是我们的！
 QuestLoc_ExtremePrejudice_Conversation_5_Team_1	You already have a Vault.	你已经有一个避难所了。
 QuestLoc_ExtremePrejudice_Conversation_5_Team_2	Why *our* Vault, out of all of them?	为什么所有的这些避难所，你们选择了我们的？
@@ -6646,7 +6646,7 @@ QuestLoc_FriendlySettlement_QuestObjective_1	Talk to the settlers.	和定居者�
 QuestLoc_FriendlySettlement_QuestObjective_2	Talk to the settlers.	和定居者交谈。
 QuestLoc_FriendlySettlement_QuestShortDescription	Send your Dwellers out to aid a nearby friendly settlement.	派出你的居民去援助一个附近的友邻定居点。
 QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_1	Of course! Even you can get that one right.	当然了！就算是你都能答对那个。
-QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_2	Dave is... right! We like to start off easy.	我们一般喜欢从简单的开始。
+QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_2	Dave is... right! We like to start off easy.	戴维……答对了！我们喜欢先从简单的开始。
 QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_3	You hope right! It's Dave. Who else would it be?	你希望的是对的！是戴维，不然还能是谁呢？
 QuestLoc_GameShowGauntletA_Conversation_1_NPCEnd_4	What? Are you an idiot? Time to... Lose Your Head!	什么？你是个白痴吗？是时候……“掉脑袋”了！
 QuestLoc_GameShowGauntletA_Conversation_1_NPCStart_1	Welcome to Lose Your Head!	欢迎来到“掉脑袋”的世界！
@@ -6909,7 +6909,7 @@ QuestLoc_GameShowGauntletF_Conversation_3_Team_3	Washington Monument.	华盛顿�
 QuestLoc_GameShowGauntletF_Conversation_3_Team_4	Monument to himself?	他自己的纪念碑？
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_1	Too bad. You're right! I was hoping you'd lose your head.	太糟糕了。你说对了！我就想看你……“掉脑袋”呢。
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_2	That would be a silly name. Off with your... no... Lose Your Head!	那真是个愚蠢的名字。好吧，准备……“掉脑袋”吧！
-QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_3	Close but no cigar. Now we're going to make you... Lose Your Head!	很接近但是不是。现在准备好……“掉脑袋”吧！
+QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_3	Close but no cigar. Now we're going to make you... Lose Your Head!	差一点就答对了。现在我们要让你……“掉脑袋”了！
 QuestLoc_GameShowGauntletF_Conversation_4_NPCEnd_4	You won't have to worry about thinking when you... Lose Your Head!	你的脑袋掉了，就不会再苦恼了。
 QuestLoc_GameShowGauntletF_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletF_Conversation_4_NPCStart_2	What was the name of the Super Mutant Behemoth hiding in the Boston Common pond?	那个藏在波士顿公园池塘里的巨兽叫什么名字？
@@ -7438,7 +7438,7 @@ QuestLoc_GroomforDoubt_Conversation_2_NPCStart_3	We have a special clearance sal
 QuestLoc_GroomforDoubt_Conversation_2_Team_1	We came for the groom you kidnapped.	我们是为被你们绑架的新郎而来的。
 QuestLoc_GroomforDoubt_Conversation_2_Team_2	True love conquers all.	真爱征服一切。
 QuestLoc_GroomforDoubt_Conversation_2_Team_3	Die!	去死吧！
-QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_1	It has? All right, time to face the music, I guess.	它有吗？好吧，我想该面对现实了。
+QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_1	It has? All right, time to face the music, I guess.	已经结束了？好吧，我想该面对现实了。
 QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_2	I thought that was the whole point...	我想那就是全部的关键……
 QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_3	Oh, right. I almost forgot about that.	哦，对。我差点忘了。
 QuestLoc_GroomforDoubt_Conversation_3_NPCEnd_4	You guys think I should grow a mustache?	你们认为我应该留胡子吗？
@@ -7447,7 +7447,7 @@ QuestLoc_GroomforDoubt_Conversation_3_NPCStart_2	I was wondering where you'd gon
 QuestLoc_GroomforDoubt_Conversation_3_NPCStart_3	Isn't this bachelor party the best?	这个单身派对难道不是最好的吗？
 QuestLoc_GroomforDoubt_Conversation_3_Team_1	The party's been over for days...	聚会已经结束了好几天了……
 QuestLoc_GroomforDoubt_Conversation_3_Team_2	You were kidnapped!	你被绑架了！
-QuestLoc_GroomforDoubt_Conversation_3_Team_3	It sure is... But we gotta go get you married now.	它肯定是……但是我们现在得送你去结婚了。
+QuestLoc_GroomforDoubt_Conversation_3_Team_3	It sure is... But we gotta go get you married now.	它肯定是……不过我们现在得送你去结婚了。
 QuestLoc_GroomforDoubt_Conversation_3_Team_4	Come on, let's get you home.	来吧，我们带你回家。
 QuestLoc_GroomforDoubt_QuestLongDescription	That was quite the bachelor party last night! Too bad the groom's missing today. Last we saw, he was being carried away by the hired entertainment. We have to bring him back, and quick. Let's avoid a repeat of New Year's Eve...	昨晚的单身派对真不错！可惜今天新郎失踪了。最后一次看到他，已经被雇来娱乐的人拖走了。我们必须尽快把他带回来。让我们避免重蹈新年夜的覆辙……
 QuestLoc_GroomforDoubt_QuestName	Groom for Doubt	新郎的疑惑
@@ -7477,7 +7477,7 @@ QuestLoc_GuardianoftheWastes:Radscorpions_QuestName	Guardian of the Wastes: Rads
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1	Kill the Glowing Radscorpion.	杀死发光辐射蝎。
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestShortDescription	Eradicate the Radscorpions.	根除辐射蝎。
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCEnd_1	Our brahmin drank it all. Who can say no to golden dung? Try the abandoned Vault-Tec offices.	我们的双头牛一饮而尽。谁能对金色的粪便说不？去废弃的避难所科技办公室试试看吧。
-QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1	Is the Wizard's Wonder Water really so wondrous? We didn't get enough to test it scientifically.	我们没弄到足够的量来做科学测试。
+QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_1	Is the Wizard's Wonder Water really so wondrous? We didn't get enough to test it scientifically.	水之术士的“神奇水”真有那么神奇吗？我们没弄到足够的量来做科学测试。
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_2	I drank it, it tasted delicious and pure but nothing happened to me.	我喝了，它尝起来美味而纯净，但没有什么发生在我身上。
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_3	Our brahmin got into it, and two days later he pooped out a gold bar!	我们的双头牛喝了，两天之后他拉出了金条！
 QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_4	Our schoolmarm Mrs. Fieldstone had some, and saw a giant Nuka-Cola bottle chasing after her.	我们的女教师菲尔德斯通喝了一些，然后看到一只巨大的核子可乐瓶追着她跑。
@@ -7558,7 +7558,7 @@ QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_2	You like my notes? H
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_3	Look, I don't know why you want Rackie Jobinson's Jersey so bad...	听着，我不知道你们为什么这么想要罗基·杰宾森的棒球衫……
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_NPCStart_4	But it's mine! And I ain't never giving it up!	但是它是我的！我是绝不会放弃它的！
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_1	Hey Coach? You're fired!	喂，教练？你被炒鱿鱼了！
-QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_2	Try not to bleed too much on my Jersey!	我会努力不让血溅到我的棒球衫上！
+QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_2	Try not to bleed too much on my Jersey!	尽量别把血溅到我的棒球衫上！
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_3	Henrietta says hello!	亨丽埃塔要我们代她向你问声好！
 QuestLoc_HerestoYouRackieJobinson_Conversation_2_Team_4	So what's the play, Coach?	所以我们要怎么玩儿，教练？
 QuestLoc_HerestoYouRackieJobinson_QuestLongDescription	This is it, the end of the game! It's a bench-clearing brawl with Coach in the Dugout. Time to retire this washout, and claim Rackie Jobinson's Jersey for our own!	就是这里，大结局了！在球员休息区跟教练来一场全线群架。是该让这个失败者退役，把罗基·杰宾森的棒球衫拿回来了！
@@ -7580,7 +7580,7 @@ QuestLoc_HighSteaks_QuestShortDescription	Bring Deathclaw meat back to the chef.
 QuestLoc_HighSteaks_RaiderLine_1	Meat is murder... The good kind.	肉就意味着杀害……当然是好的那种杀害。
 QuestLoc_HighSteaks_RaiderLine_2	Come on, this meat can't be beat!	来啊，这肉可是天下无敌的！
 QuestLoc_HighSteaks_RaiderLine_3	Coming here might have been a mis-steak.	来这里可能是个错误。
-QuestLoc_HittingtheBooks_Conversation_1_NPCEnd_1	No, but ask Herb Vest at the old candy factory. And here, take my costume.	不，去问问旧糖果厂的赫伯韦斯特吧。
+QuestLoc_HittingtheBooks_Conversation_1_NPCEnd_1	No, but ask Herb Vest at the old candy factory. And here, take my costume.	不，不过去问问旧糖果厂的赫伯韦斯特吧。来，把我的戏服拿去。
 QuestLoc_HittingtheBooks_Conversation_1_NPCStart_1	Happy Halloween! I'm Howard Phillips, the caretaker of this old library.	万圣节快乐！我是霍华德菲利普斯，旧图书馆的管理员。
 QuestLoc_HittingtheBooks_Conversation_1_NPCStart_2	Thank you for taking care of our pest problem.	谢谢你帮忙解决了我们的害虫问题。
 QuestLoc_HittingtheBooks_Conversation_1_NPCStart_3	How can I help you in return?	我该怎么做来报答你呢？
@@ -8760,7 +8760,7 @@ QuestLoc_JackAintBack_Conversation_1_NPCEnd_1	We sold him to a cannery that's be
 QuestLoc_JackAintBack_Conversation_1_NPCStart_1	You here for the sale?	你们是来做生意的吗？
 QuestLoc_JackAintBack_Conversation_1_NPCStart_2	Maybe you heard about Jack? He woulda fetched us a fine price!	你听说过杰克吗？如果你们有他的话，我们的出价可不会低！
 QuestLoc_JackAintBack_Conversation_1_NPCStart_3	He was a wild one! Most Dwellers can't win a Mexican knife fight!	他可是个厉害角色！大部分居民是不可能在墨西哥刀战上胜出的！
-QuestLoc_JackAintBack_Conversation_1_NPCStart_4	Not a great idea to combine Absinthe and Ultrajet. We had to get rid of him - he was out of control!	把苦艾酒和超强捷特混在一起可不是好主意。
+QuestLoc_JackAintBack_Conversation_1_NPCStart_4	Not a great idea to combine Absinthe and Ultrajet. We had to get rid of him - he was out of control!	把苦艾酒和超强捷特混在一起可不是好主意。我们只好把他处理掉——他已经完全失控了！
 QuestLoc_JackAintBack_Conversation_1_Team_1	What'd you do with him? Is he alive?	你们把他怎么了？他还活着吗？
 QuestLoc_JackAintBack_QuestLongDescription	The Overseer's son got married to a Raider, but she sold him to Slavers! We have to catch them before they disappear west!	监督者的儿子和一个掠夺者结婚了，但她把他卖给了奴隶贩子！我们必须赶紧抓住他们！
 QuestLoc_JackAintBack_QuestName	Jack Ain't Back	杰克没有回来
@@ -8845,7 +8845,7 @@ QuestLoc_KnockEmDown_Conversation_1_NPCStart_3	It was meant to house Vault-Tec's
 QuestLoc_KnockEmDown_Conversation_1_NPCStart_4	But they didn't make it to safety in time.	但他们没能安全准时地到达。
 QuestLoc_KnockEmDown_Conversation_1_Team_1	You could say they were terminated for tardiness.	你可以说他们就是因为拖拖拉拉而牺牲的。
 QuestLoc_KnockEmDown_Conversation_2_NPCEnd_1	YOU DECLINE WITH MEDIOCRE WORDPLAY? SO BE IT.	你竟想用拙劣的文字游戏来拒绝？那就随你便。
-QuestLoc_KnockEmDown_Conversation_2_NPCStart_1	ARE YOU TO THANK FOR THE OPPORTUNITY TO RECLAIM MY ARMOR?	你是想谢谢我给你收回装甲的机会吗？
+QuestLoc_KnockEmDown_Conversation_2_NPCStart_1	ARE YOU TO THANK FOR THE OPPORTUNITY TO RECLAIM MY ARMOR?	我该谢谢你们给了我夺回装甲的机会吗？
 QuestLoc_KnockEmDown_Conversation_2_NPCStart_2	THE DEVASTATION YOU'VE CAUSED, THE SLAUGHTER... IT'S GLORIOUS!	你所造成的毁灭，杀戮……是无上荣光的！
 QuestLoc_KnockEmDown_Conversation_2_NPCStart_3	WAR WILL STAND SUPREME WITH YOU AS MY LIEUTENANTS.	作为我的副官，你将和战争站在同一制高点。
 QuestLoc_KnockEmDown_Conversation_2_NPCStart_4	JOIN ME! UNLESS YOU WANT A... ME... ON YOUR HANDS.	加入我！除非你想有一个……我……在你手上。
@@ -8992,7 +8992,7 @@ QuestLoc_LunchboxRun_QuestName	Lunchbox Run	午餐盒大作战
 QuestLoc_LunchboxRun_QuestObjective_1	Recover the Lunchbox.	找回午餐盒。
 QuestLoc_LunchboxRun_QuestShortDescription	Bring back that Lunchbox.	带回午餐盒。
 QuestLoc_MVPoftheYear_Conversation_1_NPCStart_1	Coach isn't here. The Jersey's not here.	教练不在这里，棒球衫也不在这里。
-QuestLoc_MVPoftheYear_QuestLongDescription	Coach survived the Alpha Deathclaw, but he won't survive me! The Sultan of Slime left another narcissistic note, so we know he's still out there. The search continues!	领头死爪没能杀掉教练。但坏家伙又留下了其他的信息！所以至少我们知道他还在外面。继续搜索！
+QuestLoc_MVPoftheYear_QuestLongDescription	Coach survived the Alpha Deathclaw, but he won't survive me! The Sultan of Slime left another narcissistic note, so we know he's still out there. The search continues!	教练在领头死爪爪下活了下来，但他活不过我！“黏液苏丹”又留下一张自恋的纸条，所以我们知道他还在外面。继续搜索！
 QuestLoc_MVPoftheYear_QuestName	MVP of the Year!	年度最佳球员！
 QuestLoc_MVPoftheYear_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_MVPoftheYear_QuestShortDescription	Keep tracking Coach and the Jersey!	继续追踪教练与棒球衫！
@@ -9108,7 +9108,7 @@ QuestLoc_MondayNightBrawl_Conversation_3_NPCStart_1	I've had just about enough o
 QuestLoc_MondayNightBrawl_Conversation_3_Team_1	I'm not only going to embarrass you, I'm gonna take you out for good!	我不光要让你出丑，还要把你彻底做掉！
 QuestLoc_MondayNightBrawl_Conversation_3_Team_2	I hope you've made your peace, Bednarski, because you're not walking away from this one.	希望你早就做好了死的准备，贝纳斯基，因为这一次你是逃不掉的。
 QuestLoc_MondayNightBrawl_Conversation_3_Team_3	And I've had enough of you, Bednarski! Time to take you out like the trash.	我受够你了，贝纳斯基！是时候像扔垃圾一样清理你了。
-QuestLoc_MondayNightBrawl_QuestLongDescription	A nearby Raider gang is calling you out! Time to show them who's boss...in style! Put on your best threads and start kicking butt!	附近的掠夺者团伙正在挑衅你！是时候告诉他们谁才是真正的老大了……摆出点老板样子，给他们点颜色瞧瞧！
+QuestLoc_MondayNightBrawl_QuestLongDescription	A nearby Raider gang is calling you out! Time to show them who's boss...in style! Put on your best threads and start kicking butt!	附近的掠夺者团伙正在向你们叫阵！是时候让他们知道谁才是老大了……而且要有型！穿上你最体面的行头，去把他们揍趴下！
 QuestLoc_MondayNightBrawl_QuestName	Monday Night Brawl	周一打架之夜
 QuestLoc_MondayNightBrawl_QuestObjective_1	Defeat Beef Slam Bednarski.	打败“牛肉大满贯”贝纳斯基。
 QuestLoc_MondayNightBrawl_QuestObjective_2	Defeat Hatchet O'Houlihan.	打败哈切特·奥霍利汉。
@@ -9612,8 +9612,8 @@ QuestLoc_OfftheRails_QuestLongDescription	A group known as “The Railroad” wa
 QuestLoc_OfftheRails_QuestName	Off the Rails	轨道之外
 QuestLoc_OfftheRails_QuestObjective_1	Rescue the kidnapped Railroad agent.	拯救被绑架的铁路特工。
 QuestLoc_OfftheRails_QuestShortDescription	Rescue a kidnapped Railroad operative.	拯救被绑架的铁路人员。
-QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_1	Here, maybe you should have the Quantum for safe keeping.	拿着，也许你会想要给量子核子可乐们上个保险。
-QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_2	Oh, well maybe you should have it for safe keeping.	哦，对啊，也许真的需要安保险。
+QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_1	Here, maybe you should have the Quantum for safe keeping.	拿着，这瓶量子核子可乐还是交给你保管比较好。
+QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_2	Oh, well maybe you should have it for safe keeping.	哦，也对，那还是交给你保管比较好。
 QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_3	Oh, what a good idea. Here you go!	哦，真是个好主意。给你！
 QuestLoc_OneGhoulCustomer_Conversation_1_NPCEnd_4	Of course! It's the ultimate refreshment. Here, try one.	当然了！这可是提神醒脑的终极武器。来，试试。
 QuestLoc_OneGhoulCustomer_Conversation_1_NPCStart_1	Oh my goodness! I'm so glad you're here!	我的天！我真高兴你们来了！
@@ -9736,12 +9736,12 @@ QuestLoc_ParleyTime_Conversation_2_NPCEnd_4	Beagle? Eh, close enough. His confid
 QuestLoc_ParleyTime_Conversation_2_NPCStart_1	Hi, there. I'm supposed to fight you, but you've caught me all alone.	嗨，你好。我本该和你打一场，不过你正好撞见我落了单。
 QuestLoc_ParleyTime_Conversation_2_NPCStart_2	That's not really fair, is it? So I'll just let you by.	这不太公平，不是吗？所以我会让你过的。
 QuestLoc_ParleyTime_Conversation_2_NPCStart_3	War, may he enjoy Nuka-Cola forever, is around here somewhere.	“战争”就在这附近，愿他永远享受核子可乐。
-QuestLoc_ParleyTime_Conversation_2_NPCStart_4	Is that okay with you?	你还好吗？
+QuestLoc_ParleyTime_Conversation_2_NPCStart_4	Is that okay with you?	你觉得可以吗？
 QuestLoc_ParleyTime_Conversation_2_Team_1	That's fine, but you should reconsider your warring ways.	很好，但你应该重新考虑你的交战方式。
 QuestLoc_ParleyTime_Conversation_2_Team_2	The eagle has landed. Now what does War want with us?	鹰已降落。现在“战争”要我们做什么？
 QuestLoc_ParleyTime_Conversation_2_Team_3	The eagle soars on the wind. How did War get that name in the first place?	鹰在风中翱翔。“战争”这个名字最早是怎么来的？
 QuestLoc_ParleyTime_Conversation_2_Team_4	The beagle runs after the ball. Does War have any weaknesses we can take advantage of?	小猎犬追着球跑。“战争”有什么弱点我们可以利用吗？
-QuestLoc_ParleyTime_Conversation_3_NPCEnd_1	I DON'T TAKE ORDERS FROM Y... Sorry, I got caught up. No problem, we'll leave 'em alone.	我可不听你……的命令。抱歉，我一下演过头了。
+QuestLoc_ParleyTime_Conversation_3_NPCEnd_1	I DON'T TAKE ORDERS FROM Y... Sorry, I got caught up. No problem, we'll leave 'em alone.	我可不听你……的命令。抱歉，我入戏太深了。没问题，我们不去动他们。
 QuestLoc_ParleyTime_Conversation_3_NPCEnd_2	Thank you. I try really hard, and it's nice to know the effort isn't wasted.	谢谢您。我真的很努力，很高兴知道努力不会白费。
 QuestLoc_ParleyTime_Conversation_3_NPCEnd_3	Drat. I try, I really do. Here, I'll give you this if you tell the Warshippers I awed you.	该死。我试过了，真的。这里，如果你告诉“战争崇拜者”我震慑住了你，我就给你这个。
 QuestLoc_ParleyTime_Conversation_3_NPCEnd_4	Only that... Sorry... ONLY THAT I WILL KILL HIM AND REIGN SUPREME.	只有那……对不起……只有那样我会杀死他，然后成为最高统治者。
@@ -9880,7 +9880,7 @@ QuestLoc_PlayingCatchUp_QuestObjective_1	Search Poseidon Energy's offices for an
 QuestLoc_PlayingCatchUp_QuestShortDescription	Pursue Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪。
 QuestLoc_PlayingPolitics_Conversation_1_NPCStart_1	Aha! Here it is!	啊哈，在这儿呢！
 QuestLoc_PlayingPolitics_Conversation_1_NPCStart_2	The official documentation Vault-Tec sent to the Mayor's office...	避难所科技的正式文件被送到了市长办公室……
-QuestLoc_PlayingPolitics_Conversation_1_NPCStart_3	...with the location of Vault 525! And they did indeed have a G.E.C.K.!	位于525号避难所！他们真的有“伊甸园制造器”！
+QuestLoc_PlayingPolitics_Conversation_1_NPCStart_3	...with the location of Vault 525! And they did indeed have a G.E.C.K.!	……上面写着525号避难所的位置！他们真的有“伊甸园制造器”！
 QuestLoc_PlayingPolitics_Conversation_1_NPCStart_4	Says here the entrance was hidden in the Red Rocket Headquarters!	这里说入口隐藏在红火箭总部里！
 QuestLoc_PlayingPolitics_QuestLongDescription	According to a page from Paula Plumbkin's journal, Vault 525 really is Vaultopolis, but even she doesn't know where it is. But the Mayor's office may hold that information!	根据宝拉·普朗布金日志里所说的，525号避难所确实是个避难所大都会，但她也不知道在哪里。也许市长办公室里会有相关的信息。
 QuestLoc_PlayingPolitics_QuestName	Playing Politics	政治游戏
@@ -9946,9 +9946,9 @@ QuestLoc_RadiationLeak_QuestLongDescription	A neighboring Vault has had a massiv
 QuestLoc_RadiationLeak_QuestName	Radiation Leak!	辐射泄漏！
 QuestLoc_RadiationLeak_QuestObjective_1	Rescue the Vault Overseer.	拯救避难所监督者。
 QuestLoc_RadiationLeak_QuestShortDescription	Send a team with Radiation Suits to a neighboring Vault.	派遣一队穿着防辐射服的居民去邻近的避难所。
-QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_1	Yes, they said they were Pests. You can say that again!	是的，他们说他们是“害虫”。你们可以再说一次！
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_1	Yes, they said they were Pests. You can say that again!	是的，他们说自己是“害虫”。这话一点没错！
 QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_2	No, but they kept saying, “Blessed be the irradiated.”	不，但他们不停地说：“愿辐射保佑我们。”
-QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_3	She sends the others into a frenzy. If you kill her, we should be able to round up the rest.	她把大家都逼疯了。如果你杀了她，我们就可以围捕其他人。
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_3	She sends the others into a frenzy. If you kill her, we should be able to round up the rest.	她会让其他辐射蟑螂发狂。如果你杀了她，我们就能把剩下的都围捕起来。
 QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_4	No, sorry. They just vanished into the Wasteland. Like... *dare I say it?*... Radroaches.	不，对不起。他们刚刚消失在废土了。就像……*我敢说吗？*……辐射蟑螂一样。
 QuestLoc_RadroachRoundup_Conversation_1_NPCStart_1	Thank goodness someone's come!	谢天谢地，有人来了！
 QuestLoc_RadroachRoundup_Conversation_1_NPCStart_2	Armed thugs in Wasteland Gear barged in and took all our Radiation Suits!	一群穿着废土装备的武装暴徒闯了进来，抢走了我们所有的防辐射服！
@@ -9959,7 +9959,7 @@ QuestLoc_RadroachRoundup_Conversation_1_Team_2	Do you know why they wanted your 
 QuestLoc_RadroachRoundup_Conversation_1_Team_3	What do we need to know about this Radroach Queen?	关于这个辐射蟑螂女王我们需要知道些什么？
 QuestLoc_RadroachRoundup_Conversation_1_Team_4	Do you know where the thieves went?	你知道小偷去哪儿了吗？
 QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_1	Egads! We can't herd the rest into their cages while she's still around.	该死的！只要她还在旁边，我们不能把其余的关进笼子里。
-QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_2	Wonderful! We'll be able to herd the rest into their cages now.	太棒了！我们现在可以把其余的人关在笼子里。
+QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_2	Wonderful! We'll be able to herd the rest into their cages now.	太棒了！这下我们就能把其余的辐射蟑螂赶进笼子里了。
 QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_3	Of the Apocalypse, yes. I'd guess that someone has taken its name and recruited followers.	末日，是的。我猜肯定有人用了这个名字，招募了追随者。
 QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_4	Exactly! A name that strikes fear. A name with gravitas!	没错，让人恐惧的名字。庄严的名字！
 QuestLoc_RadroachRoundup_Conversation_2_NPCStart_1	Superlative, we're saved! Are any of those scoundrels still around?	太好了，我们得救了！那些坏蛋还有人留下吗？
@@ -9993,7 +9993,7 @@ QuestLoc_RaidingParty_Conversation_1_NPCStart_3	Now, scram before I have to roug
 QuestLoc_RaidingParty_Conversation_1_Team_1	I don't think you want to do that. I'm the Boss' new second-in-command.	我不觉得你想那么做。我现在是老大的新二把手。
 QuestLoc_RaidingParty_Conversation_1_Team_2	The Boss already knows what you've been doing. Better get him before he gets you.	老大已经知道你做的那些勾当了，最好在他动手之前你先动手。
 QuestLoc_RaidingParty_Conversation_2_NPCEnd_1	Are you serious? Then why am I drinking this swill?	你是认真的吗？那我为什么还要喝这些鬼东西？
-QuestLoc_RaidingParty_Conversation_2_NPCEnd_2	Not if I can help it! Here, hold this. He's gonna have a conversation with my fist!	说的我好像能控制得住！来，拿着这个。他先要和我的拳头讲讲理。
+QuestLoc_RaidingParty_Conversation_2_NPCEnd_2	Not if I can help it! Here, hold this. He's gonna have a conversation with my fist!	只要我还有一口气，他就别想得逞！来，拿着这个。让他跟我的拳头好好聊聊吧！
 QuestLoc_RaidingParty_Conversation_2_NPCStart_1	We're almost out of drinks. This stinks!	我们快要没有喝的了。真烦躁！
 QuestLoc_RaidingParty_Conversation_2_NPCStart_2	I wish I knew where to get more.	真希望哪里能弄到更多的喝的。
 QuestLoc_RaidingParty_Conversation_2_Team_1	The Boss is holding out on us. I saw a huge stash hidden in his room!	老大一直都瞒着我们，我看见他在房间里偷偷藏了一箱！
@@ -10077,11 +10077,11 @@ QuestLoc_RescueSanta_Conversation_1_Team_1	We've been very good this year, Santa
 QuestLoc_RescueSanta_Conversation_1_Team_2	Santa, we dig your style. How about some new threads?	圣诞老人，我们很喜欢你的造型，给我们一些装备怎么样？
 QuestLoc_RescueSanta_Conversation_1_Team_3	We want a pony.	我们想要一个小马。
 QuestLoc_RescueSanta_Conversation_1_Team_4	We don't need anything, Santa. We just like doing good!	圣诞老人，我们什么都不需要，我们只是喜欢成为好孩子！
-QuestLoc_RescueSanta_QuestLongDescription	While we were spreading Christmas cheer, someone managed to track down Santa Claus. He's in trouble. Let's go!	当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。我们走！
+QuestLoc_RescueSanta_QuestLongDescription	While we were spreading Christmas cheer, someone managed to track down Santa Claus. He's in trouble. Let's go!	当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。他遇到了麻烦。我们走！
 QuestLoc_RescueSanta_QuestName	Rescue Santa!	拯救圣诞老人！
 QuestLoc_RescueSanta_QuestObjective_1	Rescue Santa!	拯救圣诞老人！
 QuestLoc_RescueSanta_QuestShortDescription	Find and save Santa Claus.	找到并拯救圣诞老人。
-QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1	Oh my goodness! It was a slaughter! A charnel nightmare!	哦我的天！她是个杀人狂！太平间的噩梦！
+QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1	Oh my goodness! It was a slaughter! A charnel nightmare!	哦我的天！那简直是一场屠杀！尸横遍野的噩梦！
 QuestLoc_ReturntoVault333_Conversation_1_NPCStart_2	While you were fighting Frank the Tank, his sister came here and attacked!	当你们在和“坦克弗兰克”打架时，他的妹妹来了这里攻击我们！
 QuestLoc_ReturntoVault333_Conversation_1_NPCStart_3	Overseer Patel is dead! And we're next unless you stop her! Please...	监督者帕特尔死了！如果你不阻止她的话，我们就是下一个！求求你……
 QuestLoc_ReturntoVault333_Conversation_1_NPCStart_4	Kill Regina Rage!	杀死瑞吉娜·雷格！
@@ -10187,7 +10187,7 @@ QuestLoc_RubarbsReckoning_RaiderLine_1	For Rubarb! For the people!	为了鲁巴�
 QuestLoc_RubarbsReckoning_RaiderLine_2	You ain't never gonna stop Rubarb's Raiders!	你永远不可能阻挡鲁巴布掠夺者们的脚步！
 QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_1	It's a closely guarded secret, I'm afraid, and Dave isn't high enough up the chain of command.	恐怕那是个严密保守的秘密，戴夫在指挥链上的级别还不够高。
 QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_2	They keep talking about “the claws of Death” or “Death's claws,” but I'm drawing a blank.	他们一直在那说“死亡之爪”或“死亡的爪子”什么的，但是我想不起来了。
-QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3	Very. Three Dog might be the last kill they need.	相当的。三狗大概是他们最后一个要杀掉的。
+QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3	Very. Three Dog might be the last kill they need.	非常接近了。三狗可能就是他们需要的最后一个目标。
 QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_4	It's just “all there in the Manual.” You just can't make this stuff up.	差不多“所有东西都在手册里”。你胡编滥造不来。
 QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_1	Nuka-Cola. Eagle. There you go. We all know who you are by now.	核子可乐。鹰。好了。现在我们都知道你是谁了。
 QuestLoc_RunThreeDogRun_Conversation_1_NPCStart_2	Do you know how hard it is to infiltrate these guys? They all know each other!	你知道要打入这些家伙内部有多难吗？他们互相都熟识！
@@ -10438,7 +10438,7 @@ QuestLoc_Sabotage_QuestName	Sabotage!	破坏！
 QuestLoc_Sabotage_QuestObjective_1	Stop Raiders from poisoning the water.	阻止下毒的掠夺者。
 QuestLoc_Sabotage_QuestShortDescription	Counter a plot to poison the Vault's water supply.	对抗毒害避难所供水的阴谋。
 QuestLoc_SantasHelpers_Conversation_1_NPCEnd_1	All right! “We wish you a Merry Christmas... We wish you a Merry Christmas...”	好吧！“叮叮当……叮叮当……铃儿响叮当……”
-QuestLoc_SantasHelpers_Conversation_1_NPCEnd_2	Boo! Get out of here!	嘿！快出来！
+QuestLoc_SantasHelpers_Conversation_1_NPCEnd_2	Boo! Get out of here!	嘘！滚出去！
 QuestLoc_SantasHelpers_Conversation_1_NPCStart_1	Wait. You're not Santa!	等等，你不是圣诞老人！
 QuestLoc_SantasHelpers_Conversation_1_NPCStart_2	This is the worst Christmas ever!	这真是最糟糕的圣诞节！
 QuestLoc_SantasHelpers_Conversation_1_Team_1	We're Santa's Helpers! Now come on, sing some carols with us!	我们是圣诞的帮手！现在快点，跟我们一起唱点圣诞颂歌！
@@ -10468,10 +10468,10 @@ QuestLoc_SantasHelpers_QuestObjective_2	Talk to the Dwellers.	和居民们交谈
 QuestLoc_SantasHelpers_QuestObjective_3	Talk to the Dwellers.	和居民们交谈。
 QuestLoc_SantasHelpers_QuestShortDescription	Spread Christmas cheer!	传播圣诞的节日气氛！
 QuestLoc_SavingDaylight_Conversation_1_NPCEnd_1	You're wrong! And don't count on us to reveal how Daylight Savings will let us live!	错了。不要指望我们告诉你“节省天光”将如何让我们生活！
-QuestLoc_SavingDaylight_Conversation_1_NPCEnd_2	If the Confessor were here instead of upstairs with the detonator, he'd tell you you're wrong!	如果神父在这里而不是在楼上和炸药在一起，他会告诉你，你错了！
+QuestLoc_SavingDaylight_Conversation_1_NPCEnd_2	If the Confessor were here instead of upstairs with the detonator, he'd tell you you're wrong!	如果忏悔者在这里而不是在楼上和炸药在一起，他会告诉你，你错了！
 QuestLoc_SavingDaylight_Conversation_1_NPCStart_1	It's the Vault Dwellers!	这是避难所居民！
 QuestLoc_SavingDaylight_Conversation_1_NPCStart_2	They must have learned of our plans in spite of our legendary secrecy.	他们一定知道我们的计划，尽管这是我们的顶级秘密。
-QuestLoc_SavingDaylight_Conversation_1_NPCStart_3	Kill them before they find Confessor Alvarado, who's just a bit farther away!	在他们找到神父阿尔瓦拉多之前杀死他们，他只是有点远！
+QuestLoc_SavingDaylight_Conversation_1_NPCStart_3	Kill them before they find Confessor Alvarado, who's just a bit farther away!	在他们找到忏悔者阿尔瓦拉多之前杀死他们，他只是有点远！
 QuestLoc_SavingDaylight_Conversation_1_NPCStart_4	Don't let them get their hands on the Bomb!	别让他们碰上炸弹！
 QuestLoc_SavingDaylight_Conversation_1_Team_1	Don't you guys realize the blast will kill you too?	你们不知道爆炸会杀了你们吗？
 QuestLoc_SavingDaylight_Conversation_1_Team_2	Yeah, about that secrecy thing... you guys aren't very good at it!	是的，关于那秘密的事……你们不是很擅长！
@@ -10494,9 +10494,9 @@ QuestLoc_SavingDaylight_Conversation_3_NPCStart_4	You will perish in flames whil
 QuestLoc_SavingDaylight_Conversation_3_Team_1	I don't think that's how Daylight Saving is supposed to work...	我不认为夏令时是这样运作的……
 QuestLoc_SavingDaylight_Conversation_3_Team_2	You fool, you won't be transported into the future, you'll die as well!	你这个傻瓜，你不会被传送到未来，你也会死的！
 QuestLoc_SavingDaylight_Conversation_3_Team_3	Why not wait until tomorrow, see if the sun is still there?	为什么不等到明天，看看太阳是否还在那里？
-QuestLoc_SavingDaylight_QuestLongDescription	We need to stop Confessor Alvarado and the Church of the Children of Atom before they detonate their 20-megaton nuclear device, lest the entire area be vaporized!	我们需要赶在神父阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！
+QuestLoc_SavingDaylight_QuestLongDescription	We need to stop Confessor Alvarado and the Church of the Children of Atom before they detonate their 20-megaton nuclear device, lest the entire area be vaporized!	我们需要赶在忏悔者阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！
 QuestLoc_SavingDaylight_QuestName	Saving Daylight	节省天光
-QuestLoc_SavingDaylight_QuestObjective_1	Stop Confessor Alvarado's Plans.	停止神父阿尔瓦拉多的计划。
+QuestLoc_SavingDaylight_QuestObjective_1	Stop Confessor Alvarado's Plans.	停止忏悔者阿尔瓦拉多的计划。
 QuestLoc_SavingDaylight_QuestShortDescription	Stop the Children of Atom from blowing up the area!	阻止原子之子炸毁整个地区！
 QuestLoc_ScareTactics_Conversation_1_NPCEnd_1	We will, we promise! Here, take this... it's everything we have.	我们会的，我保证！来，拿着……这是我们全部的东西。
 QuestLoc_ScareTactics_Conversation_1_NPCEnd_2	Wait, what? It's not a ghost... get 'em!	等等，什么？根本就不是鬼……给我拿下他们！
@@ -10540,7 +10540,7 @@ QuestLoc_ScienceCooperative_Conversation_1C_Team_2	A coalition of chemists? That
 QuestLoc_ScienceCooperative_Conversation_1C_Team_3	You should leave. It's not safe.	你们应该走了，这里不安全。
 QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_1	How dare you! These people are dead, but not forgotten! Now leave me alone!	你怎么敢这么说？！这些人是死了，但没有被遗忘！离我们远点！
 QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_2	Finally people who understand! Here, for a fellow sawbones!	终于有人懂了！来，拿着，给外科医生用的！
-QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_3	Science waits for nothing, I'm afraid. I must continue. If you'll excuse me.	科学研究不求回报。我恐怕得继续了。恕我失陪……
+QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_3	Science waits for nothing, I'm afraid. I must continue. If you'll excuse me.	科学不等人，我恐怕得继续了。恕我失陪……
 QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_1	Ah, yes! Help has arrived from the local Vault.	啊，太好了，当地避难所的人来帮我们了！
 QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_2	We're the Wasteland Coroner's Association. We help catalogue all the dead people out here.	我们是废土验尸官协会的。我们会将所有死亡的人进行登记。
 QuestLoc_ScienceCooperative_Conversation_1D_NPCStart_3	So far it's just a process of saying: “Yep. He's dead.”	目前的流程好像就只有说一声：“没错，他死了。”
@@ -10584,7 +10584,7 @@ QuestLoc_ScienceCooperative_Conversation_2C_Team_2	The water isn't being destroy
 QuestLoc_ScienceCooperative_Conversation_2C_Team_3	Maybe it just doesn't like your stupid face.	也许它只是不喜欢你那张蠢脸。
 QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_1	If your stomach can't stand the science, get out of the lab!	如果你的心容不下科学，那请你滚出我的实验室！
 QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_2	An interesting theory! Thank you. Here. Have something for your trouble.	有趣的理论！谢谢你。来拿着，遇到麻烦的时候可以用它。
-QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_3	Are you saying you're... cannibals? Um... maybe you should just go.	科学可不等人，恐怕我得继续了。恕我失陪……
+QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_3	Are you saying you're... cannibals? Um... maybe you should just go.	你是说你们……吃人？呃……你们还是走吧。
 QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_1	I'm afraid you're too late, Vault Dwellers. My patient is dead...	我恐怕你们来得太迟了。我的病人已经死了……
 QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_2	Just kidding! He was already dead! For a while actually. Not a great smell...	只是开玩笑！他早就死了，有好一会的，味道不太……
 QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_3	I wonder why bodies never smell so bad when the person is alive?	我很好奇，为什么人活着的时候尸体闻起来就没那么臭呢？
@@ -10726,7 +10726,7 @@ QuestLoc_ShotgunWedding_QuestObjective_2	Defeat the Raider Boss.	打败掠夺者
 QuestLoc_ShotgunWedding_QuestShortDescription	Rescue the kidnapped Vault Dweller from the Raider Boss.	从掠夺者首领手中拯救被绑架的居民。
 QuestLoc_ShotgunWedding_RaiderLine_1	You won't be crashin' this wedding!	你们休想破坏这个婚礼！
 QuestLoc_SignalFailure_Conversation_1_NPCStart_1	Look at that. An old note. Gosh. It looks pre-war.	快看那个，一张旧的便条，感觉像是战前的。
-QuestLoc_SignalFailure_Conversation_1_NPCStart_2	“Received our Mr. Handy today. We're going to need to get this thing up and running quick if we're going to get the repairs done in time.”	“今天收到了‘巧手’先生。如果我们能及时把它修好，应该能让它重新工作，灵活运转。”
+QuestLoc_SignalFailure_Conversation_1_NPCStart_2	“Received our Mr. Handy today. We're going to need to get this thing up and running quick if we're going to get the repairs done in time.”	“今天我们的巧手先生到了。要想按时把维修做完，就得赶紧让这家伙运转起来。”
 QuestLoc_SignalFailure_Conversation_2_NPCStart_1	Ah ha. Another note.	啊哈，又是一张字条。
 QuestLoc_SignalFailure_Conversation_2_NPCStart_2	“Repairs are taking longer than expected. I'm going to get everyone into the lower levels. Hopefully we'll all be safe down there.”	“修理的时间比我们预计的要长。我要把所有人都带到下面几层去，但愿我们在那儿能安全。”
 QuestLoc_SignalFailure_Conversation_2_NPCStart_3	Oh gosh...	哦天啊……
@@ -10878,12 +10878,12 @@ QuestLoc_SpringForwardFallBack_Conversation_2_NPCEnd_2	Well, who will save the d
 QuestLoc_SpringForwardFallBack_Conversation_2_NPCStart_1	Please, I beg you, let us put an end to all this violence.	求你了，让我们结束这一切暴力。
 QuestLoc_SpringForwardFallBack_Conversation_2_NPCStart_2	Atom seems to smile on you, and we must acknowledge this.	原子似乎对你微笑，我们必须承认。
 QuestLoc_SpringForwardFallBack_Conversation_2_NPCStart_3	Also, you have us out-gunned.	而且，你们明显武器更多。
-QuestLoc_SpringForwardFallBack_Conversation_2_NPCStart_4	I am Confessor Alvarado. What do you want from us?	我是神父阿尔瓦拉多。你想从我们这里得到什么？
+QuestLoc_SpringForwardFallBack_Conversation_2_NPCStart_4	I am Confessor Alvarado. What do you want from us?	我是忏悔者阿尔瓦拉多。你想从我们这里得到什么？
 QuestLoc_SpringForwardFallBack_Conversation_2_Team_1	Our Overseer wants you to stop spraying people at random.	我们的监督者想让你停止随意喷人。
 QuestLoc_SpringForwardFallBack_Conversation_2_Team_2	Give me one good reason not to shoot you...	给我一个不开枪的理由……
-QuestLoc_SpringForwardFallBack_QuestLongDescription	Our investigation has indicated that a local chapter of the Church of the Children of Atom was responsible for the recent toxic spraying attacks. We have to confront their leader, Confessor Alvarado, and tell him to stop these attacks, or else.	我们必须去找他们的领袖忏悔者阿尔瓦拉多，叫他停止这些攻击，否则后果自负。
+QuestLoc_SpringForwardFallBack_QuestLongDescription	Our investigation has indicated that a local chapter of the Church of the Children of Atom was responsible for the recent toxic spraying attacks. We have to confront their leader, Confessor Alvarado, and tell him to stop these attacks, or else.	我们的调查表明，最近这些毒物喷洒袭击是原子之子教会当地分会所为。我们必须当面质问他们的领袖忏悔者阿尔瓦拉多，让他停止这些攻击，否则就别怪我们不客气。
 QuestLoc_SpringForwardFallBack_QuestName	Spring Forward, Fall Back	春天向前，秋天向后
-QuestLoc_SpringForwardFallBack_QuestObjective_1	Talk to Confessor Alvarado.	和神父阿尔瓦拉多交谈。
+QuestLoc_SpringForwardFallBack_QuestObjective_1	Talk to Confessor Alvarado.	和忏悔者阿尔瓦拉多交谈。
 QuestLoc_SpringForwardFallBack_QuestShortDescription	Confront the local Children of Atom leader.	和原子之子领袖对峙。
 QuestLoc_SpringForwardFallBack_RaiderLine_1	Rejoice, E-Ster is coming!	欢呼吧，E-斯特要来了！
 QuestLoc_SpringForwardFallBack_RaiderLine_2	“And every eye shall be blind with his glory!”	“每只眼睛都会因他的荣耀而失明！”
@@ -10983,7 +10983,7 @@ QuestLoc_SpyonRaiders_Conversation_2A_Team_2	You're just weak! We'll be breaking
 QuestLoc_SpyonRaiders_Conversation_2A_Team_3	Could you say that again? We have to write it down because we're spying on you.	你能再说一遍吗？我们必须把它记下来因为我们在监视你。
 QuestLoc_SpyonRaiders_Conversation_2A_Team_4	You know, what? We're just going to kill you.	你知道吗？我们正准备杀了你。
 QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_1	Hey, you know, you're right! Time to live for me!	嘿，你知道吗，你说的对！是时候为自己而活了！
-QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_2	Uh, yeah. Good kaw there kids. Why don't you just get going?	呃，是啊。喊得不错啊小子们。为什么不继续呢？
+QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_2	Uh, yeah. Good kaw there kids. Why don't you just get going?	呃，是啊。喊得不错，小子们。你们还是赶紧走吧。
 QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_3	Wait. What? You're spies? Get 'em!	等等，什么？你们是间谍？给我拿下他们！
 QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_4	You what? Traitors! Kill 'em!	你……什么？叛徒！杀了他们！
 QuestLoc_SpyonRaiders_Conversation_2B_NPCStart_1	KA-KAW! Welcome to the Screeching Falcons, fledglings!	卡-靠！欢迎加入“尖叫猎鹰”，雏儿们！
@@ -11111,7 +11111,7 @@ QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_3	Much appreciated, thanks!	不
 QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_1	You! Don't move!	你！不要动！
 QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_2	This is a Brotherhood of Steel tactical operation.	这是钢铁兄弟会的战术运作。
 QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_3	Please divulge your identity.	请说出你的身份。
-QuestLoc_SuperDuperTrooper_Conversation_1_Team_1	Nightmare, Your Worst.	噩梦，你是最糟糕的。
+QuestLoc_SuperDuperTrooper_Conversation_1_Team_1	Nightmare, Your Worst.	我是噩梦，你最可怕的噩梦。
 QuestLoc_SuperDuperTrooper_Conversation_1_Team_2	I'm just a Vault Dweller exploring the Wasteland.	我只是一个探索废土的避难所居民。
 QuestLoc_SuperDuperTrooper_Conversation_1_Team_3	Well, we all feel safer with you guys around.	好吧，我们都觉得待在你们周围更安全。
 QuestLoc_SuperDuperTrooper_Conversation_2_NPCEnd_1	You did? We had it covered, but thanks! Here, take these.	真的么？我们已经搞定了，不过还是谢谢！来，拿着这些。
@@ -11167,7 +11167,7 @@ QuestLoc_TakeMeOuttotheBallGame_QuestShortDescription	Beat Slugger the Raider at
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_1	So you got to first base. We'll throw you out at second.	所以你必须要拿下第一垒。我们会让你在第二垒出局。
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_2	Infield double! Guess we need a double play boys!	内野双打！看来我们需要双杀球员了！
 QuestLoc_TakeMeOuttotheBallGame_RaiderLine_3	Third base! We'll make sure you never get home.	三垒！我们会让你回不了本垒。
-QuestLoc_TakeMeOuttotheBallGame_RaiderLine_4	Home run! Time to charge the field boys!	全垒打！该去找那些场地男孩了！
+QuestLoc_TakeMeOuttotheBallGame_RaiderLine_4	Home run! Time to charge the field boys!	全垒打！兄弟们，该冲上场了！
 QuestLoc_TakingOuttheTrash_Conversation_1_NPCEnd_1	Another squad could use your support at the RobCo Corporate Offices!	罗伯科公司的办公楼里还有一队人需要你的支援！
 QuestLoc_TakingOuttheTrash_Conversation_1_NPCStart_1	You definitely have a knack for this kind of work.	你显然很擅长这类工作。
 QuestLoc_TakingOuttheTrash_Conversation_1_NPCStart_2	We're going to make you an honorary Knight of the Brotherhood of Steel.	我们将授予你钢铁兄弟会荣誉骑士的称号。
@@ -11203,7 +11203,7 @@ QuestLoc_TheAbyss_Conversation_1_NPCEnd_1	Sure. I think. I've never been myself,
 QuestLoc_TheAbyss_Conversation_1_NPCEnd_2	You should ask my brother, he used to be the Overseer of this Vault.	你应该问我的哥哥，他曾经是这个避难所的监督者。
 QuestLoc_TheAbyss_Conversation_1_NPCEnd_3	Look for Deathclaws being too afraid to chase you deeper.	寻找死爪，因为太害怕而不敢追的太深。
 QuestLoc_TheAbyss_Conversation_1_NPCStart_1	Oh, hello, I hadn't seen you there.	哦，你好，我没看见你在那儿。
-QuestLoc_TheAbyss_Conversation_1_NPCStart_2	We don't get many visitors down here, with all the critters and whatnot.	没有很多游客到这里来，所以有很多小动物什么的。
+QuestLoc_TheAbyss_Conversation_1_NPCStart_2	We don't get many visitors down here, with all the critters and whatnot.	这下面小动物什么的太多，所以没什么访客来。
 QuestLoc_TheAbyss_Conversation_1_NPCStart_3	It only gets worse as you go deeper, or so my brother tells me.	只有当你走得更深时会更糟糕，这是我哥哥告诉我的。
 QuestLoc_TheAbyss_Conversation_1_NPCStart_4	He lives near the bottom, where it's cool and quiet.	他住在底部附近，那里凉爽而安静。
 QuestLoc_TheAbyss_Conversation_1_Team_1	So, there *is* a bottom, then?	所以说，是有一个底部的，然后呢？
@@ -11241,7 +11241,7 @@ QuestLoc_TheBansheesKeen_Conversation_1_Team_2	Don't worry, we'll take care of i
 QuestLoc_TheBansheesKeen_Conversation_1_Team_3	We don't hear anything...	我们什么也听不见……
 QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_1	Then you're one of *them* and you must be killed!	那么你就是他们中的一员，你必须被杀死！
 QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_2	You'd better, or we'll kill you too!	你最好是，不然我们连你一起杀！
-QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_3	Okay. Sure. Whatever. Here you go!	可以。当然。无论怎么样。加油！
+QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_3	Okay. Sure. Whatever. Here you go!	行。好吧。随便啦。给你！
 QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_4	Nuts? NUTS?! I'll show you nuts!	疯了吗？疯了吗？我会给你看疯子是什么样的！
 QuestLoc_TheBansheesKeen_Conversation_2_NPCStart_1	You! Make that noise stop right now!	你们！现在让噪音停止！
 QuestLoc_TheBansheesKeen_Conversation_2_NPCStart_2	We can't think straight anymore...	我们不能再思考……
@@ -11318,7 +11318,7 @@ QuestLoc_TheCaseoftheCapturedCanine_QuestLongDescription	You've discovered some 
 QuestLoc_TheCaseoftheCapturedCanine_QuestName	The Case of the Captured Canine	被抓住的狗
 QuestLoc_TheCaseoftheCapturedCanine_QuestObjective_1	Rescue the dog from the Feral Ghouls.	从狂尸鬼手里拯救狗狗。
 QuestLoc_TheCaseoftheCapturedCanine_QuestShortDescription	Feral Ghouls have captured a canine! Rescue the potentially delicious doggie.	狂尸鬼们抓住了狗狗！趁它被吃掉之前赶紧把它拯救出来。
-QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_1	What? No! We didn't take nothing. I mean, look at this place. What's to steal? Now, please, go help my pal, huh?	什么？没有！我们什么也没拿，想说拜托看看这地方，有什么好偷的？现在赶紧去帮助我的伙伴好吗？
+QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_1	What? No! We didn't take nothing. I mean, look at this place. What's to steal? Now, please, go help my pal, huh?	什么？没有！我们什么也没拿。我是说，你看看这地方，有什么可偷的？拜托，赶紧去帮帮我的伙伴，行吗？
 QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_2	You will? Oh thank you! And sure, sure. I won't rob no one. Scout's honor. Heh.	你会吗？哦太谢谢你了！当然，我不会抢劫任何人的。以童子军的荣誉起誓。嘿嘿。
 QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_3	Does that mean you'll do it? Oh thank you! And yeah, here. This is all I got on me.	就是说你会去做是吗？哦太谢谢你了！来拿着，这是我的全部家当。
 QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCStart_1	Wait. You ain't Nick. You here to help? The settlers snatched my, uh, business associate. Said they're going to kill him for stealing their food.	等等。你不是尼克。你是来帮忙的？定居者抓走了我的……呃，生意伙伴。说他偷了他们的食物，要杀了他。
@@ -11371,7 +11371,7 @@ QuestLoc_TheCaseoftheMissingMitt_QuestObjective_1	Speak to Clarence.	同克拉�
 QuestLoc_TheCaseoftheMissingMitt_QuestObjective_2	Confront the thief.	和窃贼对峙。
 QuestLoc_TheCaseoftheMissingMitt_QuestObjective_3	Recover the catcher's mitt.	找回接球者的手套。
 QuestLoc_TheCaseoftheMissingMitt_QuestShortDescription	Help an old Ghoul recover a precious family heirloom, would ya?	帮助一个尸鬼找回一件珍贵的传家宝。
-QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_1	Oh thank goodness. Last time anyone spotted it, it was further into the Vault. Please. Take care of that beast before it kills again!	哦，谢天谢地！上次有人见到它时，它还在避难所更深处。
+QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_1	Oh thank goodness. Last time anyone spotted it, it was further into the Vault. Please. Take care of that beast before it kills again!	哦，谢天谢地！上次有人见到它时，它还在避难所更深处。拜托了，趁那头野兽还没再害人，赶紧把它解决掉！
 QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_2	Seriously? Fine. Here. Just make sure you take care of that thing, okay?	真的吗？好吧，来拿着。请务必解决掉那家伙，好吗？
 QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_3	Well, I didn't get a good look at it, but I can tell you it's hideous. Three heads, quick as a shot. But most of all, it loves Quantum. Stole every last bottle we had!	呃，我没仔细看过，但我可以告诉你它很难看。有三个头，速度超快。最重要的是，它超爱量子核子可乐。它偷走了我们所有的存货！
 QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCStart_1	D-did Nick send you? You've got to help us! The “Quantum Creeper”. It's been eating our people. We're all that's left.	是，是尼克派你来的吗？你得救救我们！“量子爬行者”。它一直在吃我们的人。我们就剩这些人了。
@@ -11789,13 +11789,13 @@ QuestLoc_TheSixthSun_Conversation_3_NPCEnd_1	Why? Has he found it? If so, we're 
 QuestLoc_TheSixthSun_Conversation_3_NPCEnd_2	He's convinced the sun is dying, and that a new one must be ignited to “save the Daylight.”	他确信太阳正在死去，而一个新的太阳必须被点燃，以“拯救天光”。
 QuestLoc_TheSixthSun_Conversation_3_NPCEnd_3	Right after the ritual Deathclaw Egg Hunt, which is tomorrow.	在传统的死爪彩蛋寻宝活动之后，就是明天。
 QuestLoc_TheSixthSun_Conversation_3_NPCStart_1	Dwellers, please listen to me! I am Brother Will.	居民，请听我说！我是威尔修士。
-QuestLoc_TheSixthSun_Conversation_3_NPCStart_2	You have to stop Confessor Alvarado's plans before E-Ster arrives.	你必须阻止神父阿尔瓦拉多的计划，在复活节到来之前。
+QuestLoc_TheSixthSun_Conversation_3_NPCStart_2	You have to stop Confessor Alvarado's plans before E-Ster arrives.	你必须阻止忏悔者阿尔瓦拉多的计划，在复活节到来之前。
 QuestLoc_TheSixthSun_Conversation_3_NPCStart_3	That's when he plans to detonate a 20-megaton bomb, aka the “Sixth Sun.”	那时他打算引爆一枚20兆吨的炸弹，又名“第六个太阳”。
 QuestLoc_TheSixthSun_Conversation_3_NPCStart_4	Fortunately, I hid the bomb's main circuit board before running away.	幸运的是，我在逃跑前把炸弹的主电路板藏起来了。
 QuestLoc_TheSixthSun_Conversation_3_Team_1	Circuit board, you say? Oops...	你是说，电路板？我的天……
 QuestLoc_TheSixthSun_Conversation_3_Team_2	Why does he want to detonate this bomb?	他为什么要引爆这个炸弹？
 QuestLoc_TheSixthSun_Conversation_3_Team_3	When is this E-Ster supposed to take place?	这个复活节应该是什么时候？
-QuestLoc_TheSixthSun_QuestLongDescription	We think Brother Will, the Church initiate who has gone missing, may have been kidnapped by a band of Raiders camped nearby. We'll send a team to rescue him, then inform Confessor Alvarado if and when we've brought him back to safety.	我们认为失踪的教会见习信徒威尔修士可能被附近一帮掠夺者绑架了。
+QuestLoc_TheSixthSun_QuestLongDescription	We think Brother Will, the Church initiate who has gone missing, may have been kidnapped by a band of Raiders camped nearby. We'll send a team to rescue him, then inform Confessor Alvarado if and when we've brought him back to safety.	我们认为失踪的教会见习信徒威尔修士可能被驻扎在附近的一帮掠夺者绑架了。我们会派一支队伍去救他，等他平安回来之后，再视情况通知忏悔者阿尔瓦拉多。
 QuestLoc_TheSixthSun_QuestName	The Sixth Sun	第六个太阳
 QuestLoc_TheSixthSun_QuestObjective_1	Rescue Brother Will from the Raiders.	从掠夺者手中拯救威尔修士。
 QuestLoc_TheSixthSun_QuestShortDescription	Rescue the Church's missing Brother.	拯救教会失踪的修士。
@@ -11825,7 +11825,7 @@ QuestLoc_TheSpiritofTaking_RaiderLine_3	Well, well, look who wandered in!	哈，
 QuestLoc_TheSpreadingBlight_Conversation_1_NPCEnd_1	You'll have to ask them - we need to put in a new crop!	你必须得问他们——我们需要种上新的作物！
 QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_1	You're the crew of botanists that's been helping out settlers?! Thank goodness you're here!	你们就是那些帮助定居者们的植物学家吗？！谢天谢地你们来了！
 QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_2	We haven't had Mash Tatos or French Fries in nearly a month!	我们已经一个月都没吃上红果泥和炸红果条了！
-QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_3	There's a group at a research lab off yonder that thinks it isn't a disease. They have an alternate theory...	一个研究所里的一群人认为这可能不是单纯的虫灾。一定有其他的原因……
+QuestLoc_TheSpreadingBlight_Conversation_1_NPCStart_3	There's a group at a research lab off yonder that thinks it isn't a disease. They have an alternate theory...	那边一个研究所里有群人认为这不是病害。他们另有一套说法……
 QuestLoc_TheSpreadingBlight_Conversation_1_Team_1	We're not botanists, but we want to help - what's their theory??	我们不是植物学家，但我们想帮忙——他们觉得是什么原因？
 QuestLoc_TheSpreadingBlight_QuestLongDescription	We've found out from a group of farmers that the Tato blight isn't restricted to just one location - it's hitting multiple farms throughout the Wasteland!	我们从农夫嘴里了解到不止一个地方遭遇了红果枯萎——废土上的很多农场都没能幸免！
 QuestLoc_TheSpreadingBlight_QuestName	The Spreading Blight	枯萎蔓延
@@ -11915,12 +11915,12 @@ QuestLoc_TheYolksonYou_RaiderLine_1	You know what? I don't like Radscorpions muc
 QuestLoc_TheYolksonYou_RaiderLine_2	I'm starting to think our chef wants to kill us...	我在想也许大厨想杀了我们……
 QuestLoc_TheYolksonYou_RaiderLine_3	We'll be done here in a pinch!	我们瞬间就能搞定这里！
 QuestLoc_TheresnoCryinginBaseball_Conversation_1_NPCStart_1	Darn it! The Jersey's not here. The search continues!	该死的！棒球衫不在这里。继续搜索！
-QuestLoc_TheresnoCryinginBaseball_QuestLongDescription	There's an old Hardware Town store we haven't checked out. Maybe Coach went there to resupply. Off we go.	有一家旧的“五金小镇”商店我们还没去看过。
+QuestLoc_TheresnoCryinginBaseball_QuestLongDescription	There's an old Hardware Town store we haven't checked out. Maybe Coach went there to resupply. Off we go.	有一家旧的“五金小镇”商店我们还没去看过。也许教练去那里补给物资了。我们出发吧。
 QuestLoc_TheresnoCryinginBaseball_QuestName	There's no Crying in Baseball!	棒球场上没有眼泪！
 QuestLoc_TheresnoCryinginBaseball_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_TheresnoCryinginBaseball_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_1	Hah! You know who gives us the best chance to win? Me!	哈！你知道谁最大程度上保证了咱们能赢吗？我！
-QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_2	My playoff run is only getting started, and I will go all the way!	我的季后赛跑才刚刚开始，我会一直跑下去的！
+QuestLoc_ThirdandGoal_Conversation_1_NPCEnd_2	My playoff run is only getting started, and I will go all the way!	我的季后赛征程才刚开始，我会一路杀到底的！
 QuestLoc_ThirdandGoal_Conversation_1_NPCStart_1	What?! You found me? I can't believe it!	什么？！你找到我了？真不敢相信！
 QuestLoc_ThirdandGoal_Conversation_1_Team_1	What's wrong, Commish? Feeling a little... deflated?	怎么了，“总裁”？觉得有点……泄气？
 QuestLoc_ThirdandGoal_Conversation_1_Team_2	Your little Super Cup contest is over, Commish.	你的那个愚蠢的“超级杯”要结束了，“总裁”。
@@ -11978,7 +11978,7 @@ QuestLoc_ThymeisMoney_Conversation_1_Team_3	What's anise girl like you doing in 
 QuestLoc_ThymeisMoney_Conversation_2_NPCEnd_1	Bring it on!	放马过来！
 QuestLoc_ThymeisMoney_Conversation_2_NPCEnd_2	Whoa. Mind = Blown.	哇。脑子=炸了。
 QuestLoc_ThymeisMoney_Conversation_2_NPCEnd_3	No cayenne do, daddy-o!	不要吃辣椒，老爹！
-QuestLoc_ThymeisMoney_Conversation_2_NPCStart_1	Holy moley, it's the fuzz!	天哪，是毛毛！
+QuestLoc_ThymeisMoney_Conversation_2_NPCStart_1	Holy moley, it's the fuzz!	我的天，是条子！
 QuestLoc_ThymeisMoney_Conversation_2_NPCStart_2	Have you come for our stash, narc?	你来盘点过我们了吗，缉毒员？
 QuestLoc_ThymeisMoney_Conversation_2_NPCStart_3	We won't give it up without a fight!	我们不会不战而退的！
 QuestLoc_ThymeisMoney_Conversation_2_Team_1	I have no idea what you're saying.	我不知道你在说什么。
@@ -12012,7 +12012,7 @@ QuestLoc_TimetoWakeUp_RaiderLine_1	Ow! My ears! Can't wait to turn this alarm of
 QuestLoc_TimetoWakeUp_RaiderLine_2	I regret boasting about how long I could go without sleeping in the vault!	我真是后悔向你们吹牛说我不睡觉能坚持多久！
 QuestLoc_TimetoWakeUp_RaiderLine_3	Must be getting closer, my ears are starting to bleed.	应该已经接近了，我的耳朵快聋了。
 QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCEnd_1	You've earned them! Now it's time for us to get back on the road.	你们赢得了它们。现在我们该上路了。
-QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCEnd_2	Here you go. I hope there's something good inside!	你们走吧，希望里面有什么好东西！
+QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCEnd_2	Here you go. I hope there's something good inside!	拿好，希望里面有什么好东西！
 QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCStart_1	We were headed for our grandma's place, but I guess we got a little lost.	我们准备去外婆家，但我们好像有点迷路了。
 QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCStart_2	Even worse, the smell of this pumpkin pie we brought has attracted every monster in the Wasteland!	更糟糕的是，我们带的南瓜派的香气好像吸引了废土上所有怪物的注意力！
 QuestLoc_ToGrandmothersHouseWeGo_Conversation_1_NPCStart_3	Please, take these Caps. It's the least we can do.	请收下这些瓶盖吧。这是我们最起码能做的。
@@ -12125,7 +12125,7 @@ QuestLoc_VaultTecExperimentReviewA_Conversation_2_NPCEnd_2	Existentially dreadfu
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_NPCEnd_3	Ha! Now that's scary! For YOU!	哈！现在开始吓人了！对你们来说！
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_NPCStart_1	Fear is the only currency in this Vault.	恐怖才是这个避难所里唯一的通行证。
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_NPCStart_2	Tell us something scary, or risk certain doom!	跟我们讲些鬼故事吧，不然就得死！
-QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_1	Three words: Never. Ending. Deathclaws.	三个词：永远。结束。死爪。
+QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_1	Three words: Never. Ending. Deathclaws.	三个词：永远。不停。死爪。
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_2	You'll all die alone and unloved?	你们都会孤独终老吗？
 QuestLoc_VaultTecExperimentReviewA_Conversation_2_Team_3	Forget this. We're just going to kill you.	算了，我们还是直接杀了你们吧。
 QuestLoc_VaultTecExperimentReviewA_Conversation_3_NPCEnd_1	Ha ha! Here you are.	哈哈！给你们吧。
@@ -12391,7 +12391,7 @@ QuestLoc_WastelandTheMusical_Conversation_3_NPCEnd_2	"♪ Now you've done it, pr
 ♪ 你笑够了，现在去死吧！♪"
 QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_1	"♪ Doo-wop-wop, that's our song ♪
 ♪ Don't you dare to sing along! ♪"	"♪ 嘟哇哇，那是我们的歌 ♪
-♪ 你敢跟着一起唱！♪"
+♪ 想跟着唱？你敢试试！♪"
 QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_2	"♪ Others have tried before you ♪
 ♪ We turned them to barbecue! ♪"	"♪ 在你之前，有人试过 ♪
 ♪ 我们把他们都变成了烤肉！♪"
@@ -12542,7 +12542,7 @@ QuestLoc_WhackaMole_QuestObjective_1	Kill the Mole rat brood mother.	消灭鼹�
 QuestLoc_WhackaMole_QuestShortDescription	Kill the Mole rat brood mother.	消灭鼹鼠妈妈。
 QuestLoc_WhatsonSecond_Conversation_1_NPCStart_1	Another room, another failure. But we won't give up hope!	又一间房，再一次失败。但是我们不会放弃希望！
 QuestLoc_WhatsonSecond_QuestLongDescription	Thirteen searches, thirteen failures. How unlucky! For the fourteenth attempt, we'll search the ruins of Vault 701.	13次搜索，13次失败。太不幸了！第十四次尝试，我们会前往701号避难所废墟。
-QuestLoc_WhatsonSecond_QuestName	What's on Second.	什么是第二。
+QuestLoc_WhatsonSecond_QuestName	What's on Second.	“什么”在二垒？
 QuestLoc_WhatsonSecond_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WhatsonSecond_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WhenIrishEyesareGlowing_QuestlineName	When Irish Eyes are Glowing	当爱尔兰的眼睛开始闪光
@@ -12642,7 +12642,7 @@ QuestLoc_WorstCoachEver_QuestLongDescription	No luck in the pencil factory, but 
 QuestLoc_WorstCoachEver_QuestName	Worst. Coach. Ever.	最。烂。教练。
 QuestLoc_WorstCoachEver_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_WorstCoachEver_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
-QuestLoc_ZinesFromtheCommonwealth_QuestlineName	Zines From the Commonwealth	联邦来的扎因斯
+QuestLoc_ZinesFromtheCommonwealth_QuestlineName	Zines From the Commonwealth	来自联邦的杂志
 QuestObjective_ClearOut	Kill all Enemies in the Secret Room	杀死秘密房间的全部敌人
 QuestObjective_PickUpAllItems	Loot the Secret Room	搜刮秘密房间
 QuestRequirement_Dweller	Dweller	居民
@@ -13666,7 +13666,7 @@ Speech_Conversation_NPC2_Topic7_Response1	Sure. But only if I get to play first 
 Speech_Conversation_NPC2_Topic7_Response2	Nah. I'm more of a croquet person myself.	不了，我更喜欢打门球。
 Speech_Conversation_NPC2_Topic7_Response3	Baseball? Inside the Vault? Good luck with that.	棒球吗？在避难所里？呵呵，祝你好运。
 Speech_Conversation_NPC2_Topic8_Response1	Hmmm... “Raider”?	嗯……“掠夺者”？
-Speech_Conversation_NPC2_Topic8_Response2	Oh, I know! “Corpse”!	哦，我知道了！“拾荒者”！
+Speech_Conversation_NPC2_Topic8_Response2	Oh, I know! “Corpse”!	哦，我知道了！“尸体”！
 Speech_Conversation_NPC2_Topic8_Response3	Try “Nitwit.”	试试“土包子”。
 Speech_Conversation_NPC2_Topic9_Response1	Oh! I read that one. She dies at the end. It's really sad.	哦！那本我看过。她最后死了。真是悲伤。
 Speech_Conversation_NPC2_Topic9_Response2	I read that, too. Seven times. We really need more books...	我也读过。七遍。我们真的需要更多的书了……
@@ -14890,7 +14890,7 @@ Tutorial_Tip_46	Rooms must be the same level in order to be merged.	相同等级
 Tutorial_Tip_47	Vault-Tec rules limit Vault capacity to 200 Dwellers.	避难所科技规定避难所的最大容量是200人。
 Tutorial_Tip_48	Send Mr. Handy to the Wasteland to collect CAPS and items.	将巧手先生派到废土上可以收集瓶盖和物品。
 Tutorial_Tip_49	You can only have one Mr. Handy assigned to a floor at a time. (Vault-Tec rules)	一层只能分配一个巧手先生。（避难所科技规定）
-Tutorial_Tip_50	Mole rats start in rooms that are touching dirt and can spread throughout your Vault.	鼹鼠袭击时房间会有泥土冒出，然后向其他房间蔓延。
+Tutorial_Tip_50	Mole rats start in rooms that are touching dirt and can spread throughout your Vault.	鼹鼠会从紧挨着泥土的房间开始出现，还可能蔓延到整个避难所。
 Tutorial_Tip_51	Mr. Handy will stay on his assigned floor collecting resources until moved to a different floor.	巧手先生会留在它的指定楼层收集资源，直到被移动到不同楼层。
 Tutorial_Tip_52	Deathclaws are faster, stronger and deadlier than Raiders.	死爪比掠夺者更快，更强，更致死。
 Tutorial_Tip_53	Dwellers with high Endurance suffer less radiation damage in the Wasteland.	耐力(E)高的居民在废土探索时受到的辐射伤害更少。
@@ -14920,7 +14920,7 @@ Tutorial_Tip_72	Save your Critical Hits for the opportune time to deal the most 
 Tutorial_Tip_73	Deathclaws are tough, don't be a hero, bring your friends.	死爪很剽悍，不要逞英雄，记得带上朋友一起去。
 Tutorial_Tip_74	Bring Pets on Quests to give Dwellers a damage boost!	带上宠物去执行任务能增加对敌人的伤害。
 Tutorial_Tip_75	Upgrade the Overseer's Office to send more teams on Quests.	升级监督者办公室可以派遣更多的小队去执行任务。
-Tutorial_Tip_76	Some Quests require Secret Clues to unlock. Loot every container you can!	一些任务需要解锁秘密线索。所以搜刮每一个你能发现的储物箱。
+Tutorial_Tip_76	Some Quests require Secret Clues to unlock. Loot every container you can!	有些任务需要秘密线索才能解锁。尽可能把能找到的容器都搜刮一遍！
 Tutorial_Tip_77	Critical Hits can turn the tide of battle... Use them wisely.	暴击能扭转战局……请好好使用。
 Tutorial_Tip_78	Pet bonuses work on Quests too, don't forget to bring some furry friends!	宠物的加成对任务也适用。别忘了带上这些毛茸茸的小伙伴！
 Tutorial_Tip_79	Find a shiny new gun while on a Quest? You can equip it right away!	在任务中发现了一把闪亮的新枪？您可以立即换上它！
@@ -15195,7 +15195,7 @@ Weapon_Description_BOSAssaultRifle_Enhanced	Fresh out of the BOS armory and read
 Weapon_Description_BOSAssaultRifle_Hardened	Battle worn but meticulously maintained weapon for the discerning knight.	虽然略有磨损，却维护得无比细致，适合挑剔的骑士。
 Weapon_Description_BOSAssaultRifle_Rusty	This monstrous military firearm might need a tuneup, but it's still kicking.	这把巨大的军用武器可能需要调试，但它依然威风凛凛。
 Weapon_Description_BaseballBat	Enemy head, meet Bat. I'm sure the two of you will hit it off.	敌人的头，和棒球棒相遇。我相信你会喜欢它的。
-Weapon_Description_ButcherKnife	Go mete out some punishment. Get it?	为了某些惩罚而存在的，明白吗？
+Weapon_Description_ButcherKnife	Go mete out some punishment. Get it?	去好好教训别人一顿吧。懂我意思吗？
 Weapon_Description_CombatShotgun	A fully-automatic, drum-loaded shotgun. Ouch.	一种全自动筒装的霰弹枪。哎呦喂。
 Weapon_Description_CombatShotgun_CharonsShotgun	Rumored to be a Ghoul merc's key to the River Styx.	据说是一个尸鬼雇佣兵通向冥河的钥匙。
 Weapon_Description_CombatShotgun_DoubleBarrelled	Close-range death dealing... x2. Brutal.	近距离死亡威胁……X2。很残忍。
@@ -15209,7 +15209,7 @@ Weapon_Description_EnhancedTranqPistol	The quickest and cleanest way to a bonus 
 Weapon_Description_FatMan	A portable nuclear bomb catapult. “Deadly” is an understatement.	一种便携式核弹弹射器。“致命”只是轻描淡写。
 Weapon_Description_FatMan_Enhanced	Some nuclear physicist's pet project. More atoms, bigger boom.	某个核物理学家的小项目。意味着更多的原子，更大的爆炸。
 Weapon_Description_FatMan_Guided	Portable nuclear bombs, guided right to their targets. Yes!	便携式核弹，准确引导直达目标。一个字，好！
-Weapon_Description_FatMan_Hardened	Higher-yield shells for bigger booms... and a bigger body count.	高收益率炮弹带来更大的爆炸……和更多的死亡人数。
+Weapon_Description_FatMan_Hardened	Higher-yield shells for bigger booms... and a bigger body count.	更高当量的炮弹带来更大的爆炸……以及更多的阵亡者。
 Weapon_Description_FatMan_Mirv	Fires multiple Fat-Man shells. At once. That's a lot of fat.	一次性发射多枚“胖子”核弹。可真够“胖”的。
 Weapon_Description_FatMan_Rusty	Even old and beat up, this thing can still drop a Radscorpion.	即使又破又旧，这东西还是能放倒一只辐射蝎。
 Weapon_Description_FireHydrantBat	Now you can pretend you're a tiny, underpowered Super Mutant Behemoth.	现在你可以装作你只是一只弱小的巨兽。
@@ -15240,7 +15240,7 @@ Weapon_Description_GhoulRevolver	This sizeable sidearm serves as a fine companio
 Weapon_Description_GrognaksAxe	"As seen in Grognak the Barbarian #23 ""In the Lair of the Virgin Eater."""	出自《野蛮人古古那》第23期“处女吞噬者的巢穴”。
 Weapon_Description_HardenedT60Pistol	A reinforced beast with a reinforced bite.	加固的猛兽，更强的威力。
 Weapon_Description_HardenedTranqPistol	A rugged piece for the peaceful at heart.	坚固耐用，适合心地善良的人。
-Weapon_Description_HuntingRifle	Great for taking down game - human or animal alike.	非常适合参与放倒人类或动物之类的游戏。
+Weapon_Description_HuntingRifle	Great for taking down game - human or animal alike.	非常适合猎杀猎物——不管是人还是野兽。
 Weapon_Description_HuntingRifle_ArmorPiercing	Most people don't hunt Sentry Bots. You're not most people.	大多数人不会猎捕铁卫兵。但你不是大多数人。
 Weapon_Description_HuntingRifle_Enhanced	Want a new Yao Guai wardrobe? This is the rifle for you.	想要一个新妖怪熊皮衣柜？用这把枪。
 Weapon_Description_HuntingRifle_Hardened	Once, you were the hunted. With this weapon, those days are gone.	曾经，你被四处追杀。有了这个，那些日子就是过去时了。
@@ -15289,7 +15289,7 @@ Weapon_Description_LeverActionRifle_Rusty	The lever sticks a bit, but it's still
 Weapon_Description_Magnum	A favorite of pre-war cops and Wasteland warriors.	战前警察和废土战士最喜欢的类型。
 Weapon_Description_Magnum_ArmorPiercing	Want to blow away a Metal Armored merc at 300 yards? Have fun.	想要将穿金属装甲的雇佣兵爆到300码那么远吗？试试看。
 Weapon_Description_Magnum_Blackhawk	Blow a Behemoth's head off from half a Wasteland away.	将一只变种人巨兽的脑袋射到半个废土那么远。
-Weapon_Description_Magnum_Enhanced	All it takes is a better scope and you're blasting baddies like a champ.	只要换上更好的瞄准镜……
+Weapon_Description_Magnum_Enhanced	All it takes is a better scope and you're blasting baddies like a champ.	只要换上更好的瞄准镜，你就能像冠军一样横扫那些坏蛋。
 Weapon_Description_Magnum_Hardened	They don't call it a hand cannon for nothin'.	他们可不是随便就叫它“手炮”的。
 Weapon_Description_Magnum_Rusty	Packs a softer punch, but still a reliable handgun.	威力稍弱，但仍是可靠的手枪。
 Weapon_Description_MaresLeg	Big bore bang in a compact package.	大口径、小体积，震撼来袭！
@@ -15336,7 +15336,7 @@ Weapon_Description_PlasmaPistol_MPLXNovasurge	The power of a green sun in the pa
 Weapon_Description_PlasmaPistol_Rusty	Its plasma may not be as hot, but it's damned sure hot enough.	它的等离子可能不会那么热，但它肯定足够“惹火”。
 Weapon_Description_PlasmaPistol_Tuned	Just a little hotter, and a little greener, than the standard model.	只是比标准等离子手枪热那么一点，绿那么一点。
 Weapon_Description_PlasmaRifle	“Gooify” your enemies at range with superheated plasma.	用超高温等离子远距离把敌人化成一滩浆。
-Weapon_Description_PlasmaRifle_Amplified	What this thing does to the human body is beyond comprehension.	这件事对人体造成的影响是超出想象的。
+Weapon_Description_PlasmaRifle_Amplified	What this thing does to the human body is beyond comprehension.	这把枪打在人身上会造成什么后果，完全无法想象。
 Weapon_Description_PlasmaRifle_Focused	Can transform a charging Super Mutant into a puddle of sludge.	可以将进攻的超级变种人变成一滩泥。
 Weapon_Description_PlasmaRifle_MeanGreenMonster	Possibly the cruelest high-tech weapon ever made by humankind.	可能是有史以来人类制造的最残酷的高科技武器。
 Weapon_Description_PlasmaRifle_Rusty	Even the old, discarded model can turn your target's guts inside out.	即使是废旧的款型也能把你的目标弄得面目全非。
@@ -15382,7 +15382,7 @@ Weapon_Description_Shotgun_DoubleBarrelled	Two barrels. Double the damage, doubl
 Weapon_Description_Shotgun_Enhanced	Lovingly modified to kill anything within 5 yards.	改装过，可以杀死5码以内的任何东西。
 Weapon_Description_Shotgun_FarmersDaughter	You'll marry anyone with this bad boy pointed at your head.	不论是谁，只要拿着这个家伙指着你的头，你都会愿意和他结婚。
 Weapon_Description_Shotgun_Hardened	Get close, get a kill. It's that simple.	接近，杀死。如此简单。
-Weapon_Description_Shotgun_Rusty	It sat in the barn a little too long, but can still kill with the best of 'em.	但杀起人来依然不输任何好枪。
+Weapon_Description_Shotgun_Rusty	It sat in the barn a little too long, but can still kill with the best of 'em.	它在谷仓里搁得太久了，但杀起人来依然不输任何好枪。
 Weapon_Description_SniperRifle	Take down your target from a neighborhood away.	隔着一条街也能放倒你的目标。
 Weapon_Description_SniperRifle_ArmorPiercing	Kill the soldier, and the Vertibird he flies in on.	干掉士兵，还有他乘坐的那架垂直起降机。
 Weapon_Description_SniperRifle_Enhanced	Engineered to shoot a little farther, a little faster.	射击得更远，速度更快。

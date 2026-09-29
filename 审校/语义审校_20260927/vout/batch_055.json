@@ -1,0 +1,17 @@
+{"batch":55,"items":[
+{"key":"MrHandyDialog_Generic_04","verdict":"confirm","severity":"S3","reason":"EN「My kingdom for an oil bath」是用整个王国换机油浴的夸张，ES/DE均保留该价码；ZH只留「渴望」，包袱丢失。","final_fix":"愿用我的整个王国换一场机油浴……"},
+{"key":"MrHandyDialog_Generic_19","verdict":"confirm_fix_better","severity":"S3","reason":"首句I have to admit整句漏掉（ES Tengo que reconocerlo）；fix却把原译exceedingly「非常」降为「相当」。","final_fix":"不得不承认，对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。"},
+{"key":"MrHandyDialog_Generic_37","verdict":"reject","severity":"S3","reason":"本条EN是晚餐台词，ZH对Beef Wellington、Bordeaux、Cram均无误；problem/fix讲的却是Generic_22的灯泡棱镜笑话。","final_fix":""},
+{"key":"MrHandyDialog_Gym_01","verdict":"confirm","severity":"S3","reason":"EN两拍：That's it＝这就对了（ES ¡Eso es!），Pump it up＝加把劲练；ZH「加油」只剩一句空喊。","final_fix":"这就对了，人类，练起来！"},
+{"key":"MrHandyDialog_Gym_02","verdict":"confirm","severity":"S3","reason":"与Gym_01同文同译：That's it未译、Pump it up泛化成「加油」，两条文必须一并改，否则同句两版。","final_fix":"这就对了，人类，练起来！"},
+{"key":"MrHandyDialog_Wasteland_42","verdict":"confirm","severity":"S3","reason":"EN「I'll find what I find」＝碰上什么算什么（DE was ich finde），ZH「找到需要的东西」凭空加了「需要」。","final_fix":"找到什么算什么，然后就回去。英雄主义什么的可不适合像我这样的巧手先生！"},
+{"key":"MrHandyDialog_Wasteland_58","verdict":"confirm","severity":"S3","reason":"量词误用「一个小径」应为「一条」；blasted woods（DE verbrannten／RU сгоревший＝焦枯）被泛译成「森林」。","final_fix":"一条穿过焦枯树林的阴森小径？这诱惑真是难以抵挡。"},
+{"key":"MrHandyDialog_Wasteland_94","verdict":"confirm","severity":"S3","reason":"EN「beating each other to death」明确致死（DE zu Tode），ZH「互相殴打」丢掉to death，黑色反讽落点被削弱。","final_fix":"看啊，两个人类正在用轮胎扳手把对方往死里打。人类真是太棒了。"},
+{"key":"Notification_Crafting_Theme_End","verdict":"confirm","severity":"S2","reason":"「{0}」实为主题名，EN Theme漏译后会被读成某房间完工；DE Design{0}／RU тема「{0}」均保留该名词。","final_fix":"您的{0}主题已经完成！"},
+{"key":"Objective_CollectFromContainerOnQuests","verdict":"confirm","severity":"S3","reason":"EN与ES Saquea／FR Récolter都是「从容器收集」，ZH换成「打开了」，与本表「在任务中收集…」体例不一且与Open撞词。","final_fix":"在任务中从{0}个储物箱里收集物品"},
+{"key":"Objective_CollectFromContainerOnQuests_Plural","verdict":"confirm","severity":"S3","reason":"同前：EN Collect from {0} containers 的「收集」被替换成「打开了」，目标动作与全表「在任务中收集…」用法不一致。","final_fix":"在任务中从{0}个储物箱里收集物品"},
+{"key":"Objective_Couple","verdict":"confirm","severity":"S3","reason":"ZH在主语「一对男女居民」与谓语「在宿舍里跳舞」之间硬加逗号；201条Objective_里仅此一条带逗号，单行目标被切成两个残句。","final_fix":"有一对男女居民在宿舍里跳舞"},
+{"key":"Objective_Couple_Plural","verdict":"confirm","severity":"S3","reason":"「男女性居民」是把Male and Female逐字拼出的生造词，中文只能说「男女居民」；同批Objective_Couple用的正是「男女居民」。","final_fix":"有{0}对男女居民在宿舍里跳舞"},
+{"key":"Objective_EquipRandomWeapon","verdict":"confirm","severity":"S3","reason":"EN是祈使Equip（DE Rüste…aus），ZH写成完成态「配备了…了」；硬编码量词「一件」套{1}（10mm手枪）不成立。","final_fix":"为1名居民装备{1}"},
+{"key":"Objective_Merge","verdict":"confirm","severity":"S3","reason":"EN together＝并到一起（ES Combina／FR Fusionner／DE zusammen），ZH误作「同时」，凭空加上必须同时操作的时间限定。","final_fix":"将两个房间合并在一起"}
+]}

@@ -1,0 +1,39 @@
+{
+  "chunk": "075",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Wasteland_DwellerRevived3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 是习语 can't keep a good Dweller down（好居民压不垮/打不倒），是居民复活后自报「我又站起来了」的断言；ZH「不能让一个优秀的居民倒下！」把断言换成了「我们不该让好居民倒下」的劝阻、祈使句，情态和主语都反了。同组另外几条都是居民第一人称自述（Wasteland_DwellerRevived「我活过来了！」、Wasteland_DwellerRevived5「啊啊啊！好多了！」），这句读起来却像旁白口号，玩家会以为是系统在要求他做什么。",
+      "fix": "优秀的居民是打不倒的！",
+      "confidence": "high"
+    },
+    {
+      "key": "Wasteland_DwellerRevived2",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "EN 是居民复活后的第一人称豪言「Back in action!」（我又能行动了/重新上阵）；ZH「重新开始探险！」没有主语，变成了对「探险」这件事的宣告乃至指令，与同组 Wasteland_DwellerRevived、Wasteland_DwellerRevived5 的第一人称口吻不一致。而且复活常常发生在任务途中，居民是接着当前进度继续，并不是「重新开始探险」。",
+      "fix": "又能继续探险了！",
+      "confidence": "medium"
+    },
+    {
+      "key": "VictorDialog_Generic_20",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "so to speak 是「姑且这么说」，指向前面那个 man——维克多是机器人，自称 I'm your man 本来就名不副实，包袱全落在这层自嘲上；ZH 译成「打个比方说」，意思偏移成「举个例子来说明」，指代对象在中文里消失，玩家读到的是一句没头没尾的补充。",
+      "fix": "要刷厕所？要消灭入侵者？包在我身上！呃，姑且这么说吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "VictorDialog_Wasteland_36",
+      "severity": "S3",
+      "type": "乱译",
+      "problem": "EN 是约吉·贝拉那句有名的玩笑话，笑点全在 fork（岔路口/叉子）与 take it 的双关上；中文里「岔路口」和「叉子」并不是一个词，直译成「就把叉子拿走！」在中文里读不通，也看不出是在玩梗，不知这句英文典故的玩家只会当成翻译崩坏。同批文本里其它岔路口台词（Encounter_Random_Message43/44）用的都是平实译法。",
+      "fix": "你知道老话怎么说的——碰上岔路口，挑一条往前走就是了！",
+      "confidence": "medium"
+    }
+  ]
+}

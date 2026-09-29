@@ -1,0 +1,25 @@
+key	EN	ZH
+Weapon_Name_SniperRifle_ArmorPiercing	Armor Piercing Sniper Rifle	穿甲狙击步枪
+Weapon_Name_SniperRifle_Enhanced	Enhanced Sniper Rifle	增强型狙击步枪
+Weapon_Name_SniperRifle_Hardened	Hardened Sniper Rifle	硬化型狙击步枪
+Weapon_Name_SniperRifle_Rusty	Rusty Sniper Rifle	生锈的狙击步枪
+Weapon_Name_SniperRifle_VictoryRifle	Victory Rifle	“胜利”狙击步枪
+Weapon_Name_SuperSledge	Super Sledge	超级雪橇锤
+Weapon_Name_SurgicalRipper	Surgical Ripper	手术齿锯
+Weapon_Name_SurgicalRipper_Enhanced	Enhanced Surgical Ripper	强化的手术齿锯
+Weapon_Name_SurgicalRipper_Hardened	Hardened Surgical Ripper	加固的手术齿锯
+Weapon_Name_SurgicalRipper_Rusty	Rusty Surgical Ripper	生锈的手术齿锯
+Weapon_Name_T60Pistol	T60 Pistol	T60手枪
+Weapon_Name_TenpennySniperRifle	Tenpenny's Sniper Rifle	特佩尼的狙击步枪
+Weapon_Name_TranqPistol	Tranq Gun	麻醉枪
+Weapon_Name_TriBeamLaserRifle	Tri-Beam Laser Rifle	三束激光步枪
+Weapon_Name_UltraciteGatling1	Ultracite Gatling Laser	辐射极琉矿加特林激光枪
+Weapon_Name_UltraciteGatling2	Maximized Ultracite Gatling Laser	极限辐射极琉矿加特林激光枪
+Weapon_Name_UltracitePlasma1	Ultracite Plasma Rifle	辐射极琉矿等离子步枪
+Weapon_Name_UltracitePlasma2	Optimized Ultracite Plasma Rifle	优化辐射极琉矿等离子步枪
+Weapon_Name_UltraciteSword1	Ultracite Sword	辐射极琉矿剑
+Weapon_Name_UltraciteSword2	Ultracite Terror Sword	辐射极琉矿恐惧之剑
+Windows_Service_Error	Something went wrong. If the problem persists, please contact customer support.\n\nError Code {0}	出现了错误，如果问题继续的话，请联系客服。\n\n错误代码{0}
+cloud_newer	NEWER	更新的
+localSaveConfirmMessage	Are you sure you want to keep the Local save?	确定想要保留本地存档？
+title_device	DEVICE	装置

@@ -1,0 +1,103 @@
+{
+  "chunk": "049",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_RescueSanta_QuestLongDescription",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "EN 第三句 He's in trouble.（他遇到了麻烦/身处险境）整句未译，ZH 只剩“有人找到了圣诞老人。我们走！”，玩家看不到圣诞老人需要救援这条关键前因。",
+      "fix": "当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。他遇到了麻烦。我们走！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_QuestObjective_1",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 结构是 search the building for A and B（在建筑里搜寻 A 和 B），ZH 译成“搜索“战争崇拜者”和“害虫”的建筑”，把地点状语 the building 变成了宾语中心语，读起来像要去找这两伙人的建筑，任务目标指向了错误对象。",
+      "fix": "在建筑里搜寻“战争崇拜者”和“害虫”。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "It was a slaughter! 指刚刚发生的屠杀（事件），ZH 译成“她是个杀人狂！”，凭空添出主语“她”并把事件描写改成对某人的指控；同句 A charnel nightmare 译成“太平间的噩梦”也与 charnel（尸骨堆积之地）不符。",
+      "fix": "哦我的天！那简直是一场屠杀！尸横遍野的噩梦！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "But I know when I'm beat. 意为“可我知道自己已经认栽/输了”，ZH 译成“但我知道如果我败了。”，把已经认输的事实改成了 if 假设条件，语气与含义都变了。",
+      "fix": "但我知道自己已经认栽了。我会回你们的避难所，然后拼命干活！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "多译",
+      "problem": "that's how you fight the Good Fight! 意为“这才叫打这场仗/这才叫好样的”，ZH 译成“你打好仗的窍门”，凭空加上 EN 没有的“窍门”（把 how 当成了方法），夸赞变成了“你的诀窍”，句子也读不通。",
+      "fix": "*这才叫*打好这场仗！我对你们这些英雄感激不尽！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_4",
+      "severity": "S2",
+      "type": "错别字",
+      "problem": "You just can't make this stuff up. 意为“这种事你编都编不出来”，ZH 写成“你胡编滥造不来”：成语误写（应为“胡编乱造”），且句意变成“你造不出谣”，整句不成话。",
+      "fix": "不过是“全写在手册里”罢了。这种事你可编不出来。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "本句回答上一句 How close are they to meeting their quota?，Very. 意为“非常接近了（就差一点）”，ZH 只译成形容词残句“相当的。”，既不成句也没有回答“还差多远”，玩家拿不到信息。",
+      "fix": "非常接近了。三狗可能就是他们需要的最后一个目标。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RescueSanta_Conversation_1_Team_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "We just like doing good! 是“我们就是喜欢做好事/行善”，ZH 译成“我们只是喜欢成为好孩子！”，把“做好事”换成了“当乖孩子”，语义发生偏移。",
+      "fix": "圣诞老人，我们什么都不需要，我们只是喜欢做好事！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RoboRampage_Conversation01_NPC02",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "but so be it 意为“那就这样吧/既然如此”，表示不再争辩、随即动手；ZH 译成“但随你怎么说吧”，变成了对玩家发言的回应，指代与语气都错位（同一短语在 chunk_040/041 中统一译作“那就这样吧”）。",
+      "fix": "我们不承认人类是文明的，但那就这样吧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RubarbsReckoning_Conversation_1_NPCEnd_4",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "Sign me up! 是口语固定说法“算我一个/我报名”，ZH“帮我报名！”变成了请别人替自己报名，主语错位，中文也不像人话。",
+      "fix": "无薪加班？算我一个！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_2_Team_1",
+      "severity": "S3",
+      "type": "数字",
+      "problem": "some mythical Horseman 是单数不定指“某个神话中的骑士”，ZH“一些神秘的骑士”变成复数，并把 mythical（神话中的，本目录 chunk_057 即译作“传说中的”）改成了“神秘的”。",
+      "fix": "你们都是疯子！手册是错误的，杀戮*并不会*唤醒某个神话中的骑士！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_RaiderLine_4",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "War be upon you! 是仿“Peace be upon you”的祝福/诅咒句式，ZH 逐字译成“战争就在你身上！”，中文不成立，玩家只会读出一句病句。",
+      "fix": "愿战争降临于你！",
+      "confidence": "medium"
+    }
+  ]
+}

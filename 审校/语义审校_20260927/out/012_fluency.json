@@ -1,0 +1,71 @@
+{
+  "chunk": "012",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Objective_Couple_Plural",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「男女性居民」不成词：把 Male and Female 逐字拼成「男女性」再加「居民」，中文只能说「男女居民」。「有{0}对男女性居民在宿舍里跳舞」读起来是明显的机翻痕迹。",
+      "fix": "有{0}对男女居民在宿舍里跳舞",
+      "confidence": "high"
+    },
+    {
+      "key": "Objective_Couple",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「有一对男女居民，在宿舍里跳舞」在主语和谓语之间硬插了一个逗号，一句话被切成两截（“有一对男女居民”→“在宿舍里跳舞”），任务目标单行显示时像两个残句；EN 是连续的一件事，不需要断。",
+      "fix": "有一对男女居民在宿舍里跳舞",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_EquipRandomWeapon",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "任务目标写成已完成态：「给1个居民配备了一件{1}」，玩家读到的是“这件事已经做过了”，而不是待完成的目标；本批其它目标都用祈使式（如「为1名居民装备辐射极琉矿武器」）。另外「配备」多用于成套装备或人员编制发放，单件武器应说「装备」。",
+      "fix": "为1名居民装备{1}",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_EquipRandomWeapon_Plural",
+      "severity": "S2",
+      "type": "数字",
+      "problem": "「给{0}个居民配备了一件{1}」里「一件」是单数，与前面的 {0} 名居民数量冲突，字面读成“{0}个人共用一件装备”，数量关系被写错。",
+      "fix": "为{0}名居民各装备一件{1}",
+      "confidence": "high"
+    },
+    {
+      "key": "Objective_Merge",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "EN 是 Merge 2 rooms together（把两个房间并到一起），together 被错译成「同时」，成了「同时合并两个房间」，凭空多出“必须同时操作”的要求，和游戏里把一个房间拖到同型房间上的实际操作对不上。",
+      "fix": "将两个房间合并在一起",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_Merge_Plural",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "同 Objective_Merge：together 误作「同时」，「同时合并{0}对房间」凭空给玩家加上“要同时完成”的限制条件。",
+      "fix": "将{0}对房间合并在一起",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_StopIncidentWithoutPropagate",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「在一次{1}灾害扩散之前终止事件」后半句宾语空泛：终止的是哪个“事件”没有着落，还得回头去接前面的 {1} 灾害；「一次」和「之前」也互相绊住。EN 说的是把这些灾害本身在扩散前解决掉。",
+      "fix": "在{1}灾害扩散之前将其制止",
+      "confidence": "medium"
+    },
+    {
+      "key": "Objective_StopIncidentWithoutPropagate_Plural",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「在{0}次{1}灾害扩散之前终止事件」把数量塞进「在……之前」里，代入数字后（如“在3次火灾扩散之前”）要读两遍才能确定 {0} 次指的是要阻止的灾害次数；再叠上宾语空泛的「终止事件」，整句是硬搬英文语序的公文腔。",
+      "fix": "在{0}次{1}灾害扩散之前将它们制止",
+      "confidence": "medium"
+    }
+  ]
+}

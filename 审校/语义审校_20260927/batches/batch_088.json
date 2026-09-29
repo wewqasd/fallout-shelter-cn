@@ -1,0 +1,162 @@
+{
+ "batch": 88,
+ "items": [
+  {
+   "key": "Weapon_Description_PlasmaPistol_Focused",
+   "chunk": "077",
+   "lens": "accuracy",
+   "severity": "S3",
+   "type": "漏译",
+   "confidence": "high",
+   "problem": "Slaver 是具体敌人名，本库其余 8 处对话/任务条目一律译「奴隶贩子」，这里被泛化成「敌人」，专名信息丢失（that Slaver＝那个奴隶贩子）。",
+   "fix": "没错，你刚把那个奴隶贩子变成了一滩绿水。干得漂亮！",
+   "EN": "Yup, you just turned that Slaver into a green puddle. Well done!",
+   "ZH": "是的，你只是把敌人变成一个绿色的水坑。干得漂亮！"
+  },
+  {
+   "key": "Weapon_Name_FireHydrantBat",
+   "chunk": "077",
+   "lens": "accuracy",
+   "severity": "S3",
+   "type": "漏译",
+   "confidence": "medium",
+   "problem": "EN 是 Fire Hydrant Bat（用消防栓做成的球棒，其描述「装作弱小的巨兽」正指巨兽抡消防栓），译文只剩「消防栓」，漏掉 Bat 这个类别词，玩家在武器列表里看不出它是近战棒类武器，也与本库「棒球棍」「球棒」的命名不一致。",
+   "fix": "消防栓球棒",
+   "EN": "Fire Hydrant Bat",
+   "ZH": "消防栓"
+  },
+  {
+   "key": "Weapon_Name_GatlingLaser_Tuned",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "误译",
+   "confidence": "medium",
+   "problem": "Tuned 是「调校、调谐」（同类描述见 Weapon_Description_LaserRifle_Tuned「The laser emitter has been specially tweaked for maximum damage.」→「调整了激光发射器，为了最大的杀伤力。」），「调试」在中文里是 debug／试运行，玩家会把这件武器读成尚未定型的测试型号；同一张表 Weapon_Name_LaserPistol_Tuned 已译作「调谐激光手枪」，同一修饰语两种叫法（本批 Weapon_Name_LaserRifle_Tuned、Weapon_Name_PlasmaPistol_Tuned、Weapon_Name_PlasmaRifle_Tuned 同病，应一并统一）。",
+   "fix": "调谐型加特林激光枪",
+   "EN": "Tuned Gatling Laser",
+   "ZH": "调试型加特林激光枪"
+  },
+  {
+   "key": "Weapon_Name_InstituteRifle_Long",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "生硬",
+   "confidence": "medium",
+   "problem": "Long 是「加长、长管」，「长款」是服装箱包论版型的说法（长款大衣、长款钱包），拿来修饰枪械搭配不当，读着像在说衣服的版型；同类武器中文一般写「长管／加长型」（本批 Weapon_Name_PipeRifle_Long「长款管道步枪」同病）。",
+   "fix": "加长型学院步枪",
+   "EN": "Long Institute Rifle",
+   "ZH": "长款学院步枪"
+  },
+  {
+   "key": "Weapon_Name_LaserRifle_Tuned",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "误译",
+   "confidence": "medium",
+   "problem": "Tuned 是「调校、调谐」，译成「调试型」等于把 tune 当成了 debug，中文读起来是「试运行中的测试型号」；这件武器的描述正说明它被专门调过（Weapon_Description_LaserRifle_Tuned「The laser emitter has been specially tweaked for maximum damage.」→「调整了激光发射器，为了最大的杀伤力。」），且与 Weapon_Name_LaserPistol_Tuned「调谐激光手枪」自相矛盾。",
+   "fix": "调谐型激光步枪",
+   "EN": "Tuned Laser Rifle",
+   "ZH": "调试型激光步枪"
+  },
+  {
+   "key": "Weapon_Name_LaserRifle_WazerWifle",
+   "chunk": "078",
+   "lens": "accuracy",
+   "severity": "S3",
+   "type": "多译",
+   "confidence": "medium",
+   "problem": "EN 只有 Wazer Wifle（《辐射3》里小孩把 Laser Rifle 念歪的玩笑名），ZH 额外加上「经典」这个 EN 没有的形容词；本批另外 19 个唯一武器名一律是「外号+武器类型」的格式（如「独行者」手枪、「碎膝者」短管霰弹枪、「吐铅者」旋转机枪），都没有形容词，且「经典」会让玩家误以为这是某个特别版本或稀有度标记。",
+   "fix": "“瓦仄外辐”激光步枪",
+   "EN": "Wazer Wifle",
+   "ZH": "“瓦仄外辐”经典激光步枪"
+  },
+  {
+   "key": "Weapon_Name_PipeRifle_Long",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "生硬",
+   "confidence": "medium",
+   "problem": "Long 是「加长、长管」，「长款」是服装、箱包论版型的说法，修饰枪械搭配不当，与 Weapon_Name_InstituteRifle_Long 同病；枪械的 Long 版本中文作「加长型／长管」。",
+   "fix": "加长型管道步枪",
+   "EN": "Long Pipe Rifle",
+   "ZH": "长款管道步枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaPistol_Tuned",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "误译",
+   "confidence": "medium",
+   "problem": "「调试型」把 Tuned（调校、调谐）译成了「调试」＝debug／试运行，玩家会以为这是未定型的测试型号；同一批的 Weapon_Name_LaserPistol_Tuned 已作「调谐激光手枪」，同一修饰语应统一。",
+   "fix": "调谐型等离子手枪",
+   "EN": "Tuned Plasma Pistol",
+   "ZH": "调试型等离子手枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaRifle_Tuned",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "误译",
+   "confidence": "medium",
+   "problem": "「调试型」把 Tuned（调校、调谐）译成了「调试」＝debug／试运行，玩家会以为这是未定型的测试型号；同一批的 Weapon_Name_LaserPistol_Tuned 已作「调谐激光手枪」，同一修饰语应统一。",
+   "fix": "调谐型等离子步枪",
+   "EN": "Tuned Plasma Rifle",
+   "ZH": "调试型等离子步枪"
+  },
+  {
+   "key": "Weapon_Name_PlasmaThrower",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "其他",
+   "confidence": "medium",
+   "problem": "同一张表里 Plasma Caster（Weapon_Name_PlasmaCaster 及 Enhanced/Hardened/Rusty）与 Plasma Thrower（本行及 Agitated/Boosted/DragonsMaw/Overcharged/Tactical）全部译作「等离子发射器」，全表仅此一处两件不同武器完全同名，玩家在武器列表里分不清哪把是哪把。本表 Flamer 系列已作「火焰喷射器」，thrower 类沿用「喷射器」最自然，「发射器」留给 caster/launcher（飞弹发射器）。",
+   "fix": "等离子喷射器",
+   "EN": "Plasma Thrower",
+   "ZH": "等离子发射器"
+  },
+  {
+   "key": "Weapon_Name_PlasmaThrower_Agitated",
+   "chunk": "078",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "误译",
+   "confidence": "medium",
+   "problem": "Agitated 是「躁动、被激发」，不是「激活」（activate），「激活型」会让玩家以为这是被启动过、升级过的型号。本表 Weapon_Name_InstituteRifle_Excited 已把 excited 译作「激发型学院步枪」，而这件武器的描述「Something to get excited about, in a strictly molecular sense.」正是分子被激发的双关，宜沿用「激发型」。",
+   "fix": "激发型等离子发射器",
+   "EN": "Agitated Plasma Thrower",
+   "ZH": "激活型等离子发射器"
+  },
+  {
+   "key": "Windows_Service_Error",
+   "chunk": "079",
+   "lens": "accuracy+fluency",
+   "severity": "S3",
+   "type": "生硬",
+   "confidence": "high",
+   "problem": "If the problem persists 被逐字硬译成如果问题继续的话，中文不成立（问题不能用继续来搭配），玩家可见的报错弹窗读起来是明显翻译腔；应表达为问题仍然存在/持续出现。其余部分（出现了错误、请联系客服、错误代码{0}）无误。 ／ 「出现了错误，如果问题继续的话，请联系客服。」是 Something went wrong. If the problem persists 的逐字直译：「问题继续」在中文里不搭配（应为「问题依然存在／持续出现」），「继续的话」的口语尾巴夹在报错文案里读着像机翻；前半句也更常用「出错了／发生错误」。",
+   "fix": "出现了错误，如果问题仍然存在，请联系客服。\\n\\n错误代码{0}",
+   "EN": "Something went wrong. If the problem persists, please contact customer support.\n\nError Code {0}",
+   "ZH": "出现了错误，如果问题继续的话，请联系客服。\n\n错误代码{0}",
+   "dup": true
+  },
+  {
+   "key": "localSaveConfirmMessage",
+   "chunk": "079",
+   "lens": "fluency",
+   "severity": "S3",
+   "type": "生硬",
+   "confidence": "high",
+   "problem": "「确定想要保留本地存档？」把 Are you sure you want to 逐字搬过来：「确定」与「想要」不是中文的搭配（确定=确认动作，想要=意愿），整句读起来像半截话，缺少「要／吗」这类确认句骨架，弹窗文案显得生硬。",
+   "fix": "您确定要保留本地存档吗？",
+   "EN": "Are you sure you want to keep the Local save?",
+   "ZH": "确定想要保留本地存档？"
+  }
+ ]
+}

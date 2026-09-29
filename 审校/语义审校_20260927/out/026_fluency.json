@@ -1,0 +1,55 @@
+{
+  "chunk": "026",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_3_Room6_Question_Line1_Choice1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "句首「放松。」是英文 Relax. 的硬搬。汉语里单独一个「放松」是让人松肌肉、别绷着（多用于按摩、体检），对着一个刚被吓到的英克雷成员说，既不自然也不像安慰话；玩家台词一开口就是机翻腔。此处要表达的是「别紧张／放心」。",
+      "fix": "别紧张。我们是站在你这边的。来这里的路上我们干掉了一大帮你的英克雷同伙。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL2_Defective_4_Room6_Question_Line1_Choice0",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「还好你没为此丢掉了脑袋！」否定词「没」后面又跟了「了」，时态冲突，读起来是病句（正确说法是「没丢掉脑袋」或「差点为此丢了脑袋」）。这句是同「*heading*」头的梗配对的玩家台词，梗本身没问题，只是这半个字多余。",
+      "fix": "还好你没为此丢掉脑袋！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_1_Room6_Question_Line1_Answer0",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「参与者数量告急」把 critical 译成了「告急」。「告急」在汉语里专指情势危急、短缺（水位告急、人手告急），放在「数量」后面，玩家会读成「参与人数少得告急」；而这条系统提示的原意是数量达到临界值（同一房间的 Answer2 写的是「溢出异常」），前后语义正好读反。",
+      "fix": "<参与者数量已达临界值。释放所有受试者。>哦太棒了！我们把它们都救出来了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_3_Room1_Question_Line1_Answer1",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "「要是我能选，我宁愿换一种命运」有两个毛病：一是「能选」缺宾语（选什么？），成了半截话；二是主语被换成了说话人自己——英文 I'dd choose another fate if I could 指的是替这些实验体另选一种命运，下一句「给它们买个解脱」才是同一个话题。中文连着读下来，玩家会以为这位母亲在感叹自己的命运。",
+      "fix": "我可怜的孩子……要是我能做主，我会给它们另选一种命运。如今我愿出钱给它们买个解脱。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_3_Room2_Question_Line1_Answer2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「这是来幸灾乐祸的？」是病句：句子拿「这」当主语，指代不明（「这是来……的」不是汉语的说话方式，应说「怎么，来看我笑话的？」）；另外「幸灾乐祸」是书面成语，塞进囚犯隔门挑衅的口语里很别扭。同句「被关在锁死的房间里」的「锁死」也偏「焊死／卡死」义，此处就是「上锁的房间」。",
+      "fix": "怎么，来看我笑话的？总有一天会轮到你自己被关进上锁的房间。到那时我会好好享受每一刻。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_3_Room3_Question_Line1_Choice2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「我可是浪漫戏码的痴迷者」是 I'm a sucker for romance drama 的名词化硬搬，汉语口语不会说「我是……的痴迷者」；而且「戏码」在当代汉语里多指「花招、把戏」（「又搞这一套戏码」），「浪漫戏码」很容易被读成「浪漫的把戏」，与玩家想表达的「我最吃爱情戏这一套」相反。",
+      "fix": "我最吃爱情戏这一套了。我这就进去！",
+      "confidence": "medium"
+    }
+  ]
+}

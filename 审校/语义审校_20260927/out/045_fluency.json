@@ -1,0 +1,10 @@
+{"chunk":"045","lens":"fluency","reviewed":180,"findings":[
+{"key":"QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1","severity":"S2","type":"误译","problem":"“A poor ward”被译成“糟糕的守卫”——ward 不是“守卫”（守卫是 guard），此处指“看护/防护、庇护”，poor 也偏“差劲的、顶不了事”。这一句是疯子说自己靠药物压住脑子里的尖啸但没什么用，译成“糟糕的守卫”会让玩家以为在说某个守卫NPC，前后完全读不通。","fix":"那些药物。算不上什么防护。我知道。我知道。","confidence":"medium"},
+{"key":"QuestLoc_NVB_QL2_Leftovers_4_Question0_Answer1","severity":"S3","type":"误译","problem":"原文宾语是 the blind blanket（盲目的毯子），译文却成了“吹响了盲目的号角”：既把动词 heralds（宣告、预示）改成了“吹响”，又凭空把“毯子”换成了“号角”，原句的荒诞意象丢失，EN 里根本没有“号角”这个词。","fix":"异端宣告了盲目的毯子！","confidence":"high"},
+{"key":"QuestLoc_NVB_QL2_Leftovers_4_Question0_Choice1","severity":"S3","type":"生硬","problem":"“精神不稳定的朋友”把临床式描述直接当称呼语用，中文里没人这样喊人，读起来像在念病历；“淡定”又是网络口语，两句拼在一起不像玩家在跟一个疯子对话，翻译腔很重。","fix":"慢着点，疯疯癫癫的老兄……紫色就是一种颜色，它可不会出声。","confidence":"medium"},
+{"key":"QuestLoc_NVB_QL2_Leftovers_4_Question5_Line1","severity":"S3","type":"生硬","problem":"“Let's get password cracking!”译成“让我们来破解密码！”是典型的机翻腔，中文对白不会用“让我们来……”这种课堂句式；前半句“其中一台主机！”照搬英文断句，单独成句像残句，玩家看不出这是“找到主机了”的意思。","fix":"找到一台主机了！来破解密码吧！","confidence":"high"},
+{"key":"QuestLoc_NVB_QL3_Stripper_1_Question9","severity":"S3","type":"生硬","problem":"“the place is crawling with Deathclaws”译成“这地方爬满了死爪”，“爬满”在中文里搭配的是虫蚁之类的小东西，用在体型巨大的死爪身上会被读成“死爪在地上/墙上爬”，既滑稽又不准确，这里表达的就是“到处都是”。","fix":"你在这儿干什么，甜桃？你不知道这地方到处都是死爪吗？","confidence":"medium"},
+{"key":"QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Answer1","severity":"S3","type":"其他","problem":"“poisoner”指配毒药、下毒的人，译成“制毒师”在中文里几乎专指制造毒品的人；同一场景上文刚提到曼他特、狂暴药这些“chem”，玩家会把这句话理解成“我是做毒品的”，与他要做的死爪毒药不是一回事，属于用词不当造成的歧义。","fix":"嘿，我是配毒药的，可不是创造奇迹的人。","confidence":"medium"},
+{"key":"QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Answer3","severity":"S3","type":"病句","problem":"“你能赤手空拳摔一只”缺结果补语，“摔”单独接宾语在中文里不成句（要么“摔跤”，要么“摔倒/撂倒”），后面再接“？……”更显得话没说完；原文 wrestle one barehanded 是“空手跟它摔跤/把它撂倒”。","fix":"<翻个白眼> 接下来你是不是要说，自己能赤手空拳把一只死爪摔倒？……","confidence":"medium"},
+{"key":"QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Answer1","severity":"S3","type":"其他","problem":"“help your hunt”是帮你狩猎（打猎死爪、找死爪蛋），“觅食”是动物找食的意思，用在玩家身上等于把这次行动说成了出去找吃的，搭配不当，也削弱了“给你点东西好帮你打猎”的语气。","fix":"真是懂吃的同道中人！这个能帮你狩猎。","confidence":"medium"}
+]}

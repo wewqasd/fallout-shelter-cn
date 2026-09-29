@@ -1,0 +1,110 @@
+{
+ "batch": 61,
+ "items": [
+  {
+   "key": "QuestLoc_ConferenceontheMound_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Major shocker 是反讽，ZH「真是震惊」缺谓语中心词、不成句；here 被译成「那里」，方位也偏。",
+   "final_fix": "真是个大新闻——罗基·杰宾森的棒球衫不在这儿。"
+  },
+  {
+   "key": "QuestLoc_CoveWatch_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "TV pilot（FR pilote/RU пилотная серия）漏成「电视节目」；almost certainly 的 almost 被删，限定加强。",
+   "final_fix": "避难所得到消息，说附近正在拍摄一部电视试播集。这几乎肯定是个陷阱，但以防万一，还是派你最具魅力的居民打扮得符合角色去一趟吧。"
+  },
+  {
+   "key": "QuestLoc_CoveringAlltheBases_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 明写 Rackie Jobinson's Jersey，ZH 只剩「棒球衫」，专名丢失；同链 BreakingalltheRecords 保留全名。",
+   "final_fix": "还是没有教练或是罗基·杰宾森的棒球衫的影子。该去更远的地方了。不入虎穴，焉得虎子！"
+  },
+  {
+   "key": "QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "unworthy 是该教派自称（同文件 NPCStart_1 作「不配」），ZH「毫无价值」换成价值判断。",
+   "final_fix": "当“瘟疫”成为最后一位骑士时，我们就再也不是不配的人了。"
+  },
+  {
+   "key": "QuestLoc_CrimeSceneInvestigation_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "attacked（ES atacaron、FR attaque）是已发生的袭击，ZH「正攻击」改成进行时，局势信息偏差明显。",
+   "final_fix": "好哇！我们现在和“战争”处于休战状态，直到其他“骑士”被解决为止！为此，“战争”声称，“死亡”的仆人们袭击了672号避难所。所以我们要去调查，寻找他们可能留下的线索……"
+  },
+  {
+   "key": "QuestLoc_DartofHarkness_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "offensive 是形容词判断，ZH「真是冒犯」缺被冒犯的对象、不成句；that 指上一句骂人的话。",
+   "final_fix": "好吧，这话就有点过分了。"
+  },
+  {
+   "key": "QuestLoc_DartofHarkness_Conversation_1_NPCStart_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "handsome sum 指一笔钱，「漂亮的钱」搭配错；fix「是我们的人了」把 is ours 读成同盟，与买他脑袋矛盾。",
+   "final_fix": "那个安保头子归我们了。有人出了漂亮的价钱，要买他的脑袋！"
+  },
+  {
+   "key": "QuestLoc_DartofHarkness_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「handsome sum」回指上句，ZH「一个“漂亮的钱”」量词错（钱用一笔），handsome 的双关落空。",
+   "final_fix": "你知道“漂亮的价钱”并不能让你变漂亮，对吧？"
+  },
+  {
+   "key": "QuestLoc_DartofHarkness_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "just a guy doing his job 的进行时加 his 被逐字搬成「一个家伙在做他的工作」；big shot 应作「大人物」。",
+   "final_fix": "我不是什么大人物，只是个干好本职工作的普通人。拿着，这是给你的。"
+  },
+  {
+   "key": "QuestLoc_DartofHarkness_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "句首 Here 是递物招呼语（ES Ten、FR Tenez），ZH「这里，」被读成指方位；Overseer 译监督者无误。",
+   "final_fix": "来，把这些文件带给你们的监督者。他（她）会知道该怎么做。"
+  },
+  {
+   "key": "QuestLoc_DaysGoneBye_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "It 指上一句的31号避难所，ZH「我没有真的觉得闹鬼」把客观判断换成说话人感受，且不像中文。",
+   "final_fix": "那地方其实并不闹鬼。我想他们编出那个故事，只是为了让人们不敢靠近。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "the Good Fight 是固定习语（ES「por lo que es justo」），ZH「打好仗」变成打得漂亮，正义义丢失。",
+   "final_fix": "继续为正义而战吧，三狗。"
+  },
+  {
+   "key": "QuestLoc_DeathRevealed_Conversation_3_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "is met 被逐字搬成「配额满足」的翻译腔，同段 NPCStart_3 用「达到这个配额」，用语不统一。",
+   "final_fix": "当配额凑够时，“死亡”就会苏醒。手册里都写着呢。"
+  },
+  {
+   "key": "QuestLoc_DeathandDenial_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Cram 全项目统一作「饱饱牌肉罐头」，ZH「吃东西」删掉专名，后句 tins「罐头」也失去呼应。",
+   "final_fix": "在闺房里吃饱饱牌肉罐头。你要是想看，罐头盒我还留着。"
+  },
+  {
+   "key": "QuestLoc_DeathandDenial_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "The game is afoot 是福尔摩斯式习语，「正在进行中」丢了「好戏开场」义；Let's proceed 被逐字搬用。",
+   "final_fix": "好戏开场了！我们继续吧！"
+  }
+ ]
+}

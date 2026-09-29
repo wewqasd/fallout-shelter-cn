@@ -1,0 +1,143 @@
+{
+  "chunk": "041",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_INS_QL4_Armistice_4_Room3_Question_Line1_Choice2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「学院制造我们的模样的合成人，让我很不舒服。」把英文的主谓结构硬塞进定语里去修饰「合成人」，中间还夹一个「我们的模样的」，读者要读到「合成人」才知道前面一整件事才是主语；中文里要么写成「学院照我们的样子造合成人，让我很不舒服」，要么补出「……这件事」。现在这句得读两遍才通。",
+      "fix": "学院照着我们的样子造合成人，这让我很不舒服。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_InAnotherVault_QuestLongDescription",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「它可能会在他们的姐妹避难所，899号。」「在……避难所」后面缺方位词「里」，介词结构不完整、句子悬空；「899号」再用逗号吊在句尾，成了游离成分，读起来像话没说完。前半句「但一个成员告诉我」的「一个成员」也太空泛（原文 a member 指那个避难所里的人）。",
+      "fix": "比格斯比不在199号避难所，但那里有人告诉我，它可能就在他们的姐妹避难所——899号避难所里。我应该去那儿看看。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_InHotPursuit_QuestObjective_1",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "「搜寻177号避难所关于瓶瓶和盖盖的消息。」英文语序硬搬：把「177号避难所关于瓶瓶和盖盖的消息」整块当成「搜寻」的宾语，读起来是在「搜寻一条消息」，而不是「在177号避难所里搜寻」。同表其它同类目标都写作「在废弃工厂寻找任何有关瓶瓶和盖盖的线索」「搜索海神能源办公室寻找关于瓶瓶和盖盖的线索」，可见此处是排布失当。",
+      "fix": "在177号避难所里搜寻瓶瓶和盖盖的踪迹。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_InShiningArmor_Conversation_1_NPCStart_3",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "「我真的很高兴，因为我想不到它还可以成为什么更好的地方了。」原文 I'm pleased to say I can't think of a better place for it to be 是「我很高兴地说，我想不出还有比这更合适的地方」；译文用「因为」把两句硬接成因果关系，又把「它还可以成为什么更好的地方」当成「想不到」的宾语，成分残缺，读到句末的「了」才发现收不住，是典型的英文语序硬搬。",
+      "fix": "我很高兴地说，我想不出还有比这里更合适的地方了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Infested_Conversation_1_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「你好啊，孤单的旅行者，欢迎回家！」my home 被译成「回家」：说话人是站在自己家里招呼一个陌生的过路人，中文「欢迎回家」等于把这里说成对方的家，人称关系拧了，还带着滑稽感。",
+      "fix": "你好啊，孤单的旅行者，欢迎来到我家！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_Infested_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "「你可以从我这里带走任何一样你需要的东西作为奖励！」漏掉 from the basement（从地下室拿）：「地下室」这条关键信息在译文里消失，改成「从我这里带走」，玩家会以为奖励就在说话人身上或跟前，而不是要去地下室取；「从我这里带走」这个搭配本身也别扭（从人身上「带走」东西）。",
+      "fix": "作为奖励，地下室里的东西你随便拿！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_IntoVault333_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「希望这些信息能帮到你。」This might help 指的是 NPC 顺手塞给你的道具（同一组对话的第三句就译作「这个可能会有帮助」，可对照），这里凭空加出「信息」，把给道具说成给情报，与实际的物品交接不符。",
+      "fix": "去杀掉掠夺者“坦克弗兰克”，他是个混蛋。他就在这条路上的那幢建筑里。这个也许能帮上忙。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_IntoVault333_Conversation_1_NPCEnd_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "①同样把 This might help 译成「希望这些消息能帮到你」，多出原文没有的「消息」，玩家会以为拿到的是情报而非道具；②He raids us all the time（他三天两头来抢我们）译成「他总是将我们洗劫一空」，「将」字句书面、语气过重，「洗劫一空」还把一次袭击说成被人抢个精光。",
+      "fix": "你能杀掉“坦克弗兰克”吗？他三天两头来抢我们。他就在这条路上的那幢建筑里。这个也许用得上。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_IntotheOutfield_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「来我的据点，防空洞。——教练”」the Dugout 在本任务线的其它文本里已按棒球梗译作「球员休息区」（对照：「在球员休息区跟教练来一场全线群架」「去球员休息区把那件棒球衫拿到手」），这里却译成躲轰炸的「防空洞」，与后续任务地点对不上，玩家照着「防空洞」找不到这个藏身处；「来我的据点，防空洞」读起来还像两个并列的地点。",
+      "fix": "来我的据点，球员休息区。——教练”",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_Conversation_1_NPCEnd_3",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "「哦，是的，我们给他们染色，庆祝圣帕特里克节。」上一句玩家刚说的是「这些点心看起来很……绿色」，them 指的是点心、吃食，中文该用「它们」；写成「他们」等于说给一群人染色，指代错乱（本作在别处严格区分他／她／它）。「哦，是的」对 Oh yeah 也偏生硬。",
+      "fix": "哦，是啊，为了庆祝圣帕特里克节，我们给它们染了色。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_Conversation_1_NPCStart_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「帮助我们，居民们。我们的社会正在尸鬼化！」community 在其它条目里一律译「社区／社群」（如「去调查这个社区，看看传言是否属实」「我们建立这个社区是为了帮助人们」），这里译成「社会」，把几十人的小聚落说成整个社会，用词过大且滑稽；前半句「帮助我们，居民们」也是英文呼语后置的语序，中文更顺的是「帮帮我们，居民们！」。",
+      "fix": "帮帮我们，居民们！我们的社区正在尸鬼化！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_Conversation_1_Team_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「不，谢谢，我们宁愿看到受苦的人。」两处错位：would rather just see（宁可／只想直接去看）被当成表愿望的「宁愿」，the afflicted（染病的人、病患）被译成「受苦的人」；整句读起来成了「我们乐意看着别人受苦」，玩家婉拒茶点的客气话变成冷漠甚至幸灾乐祸的一句。",
+      "fix": "不用了，谢谢，我们直接去看看病人就行。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「你的意思是，除了喝绿色啤酒？不。没影儿的事。」Nope. Nothing at all. 是「没有，别的什么都没有」（说话人在承认除绿啤酒外没有别的原因）；「没影儿的事」在中文里是「根本没这回事／纯属造谣」的断然否认，意思正好拧了，玩家会以为 NPC 在抵赖。",
+      "fix": "你的意思是，除了喝绿啤酒？没有。别的什么都没有。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_Conversation_2_NPCEnd_3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「它清爽得让喉咙阵阵发痒，顺着嗓子一路下去……」后半句主语悬空：英文 as it goes down 是从属结构，被搬成了并列小句，读者分不清是「它」还是「喉咙」顺着嗓子下去；「阵阵发痒」那种间歇性的「痒」和「清爽」的饮用体验也不搭。",
+      "fix": "它清爽极了，顺着嗓子咽下去的时候喉咙还会一阵阵发酥……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ItsnotEasyBeingGreen_QuestLongDescription",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "following（在……之后）被硬译成「随着……的到来」，「节庆之后陆续病倒」变成「随着节日临近」的时间错觉；「以防它是一个真正的流行病」量词不当（流行病说「一场」，不说「一个」）；「一些病例报告显示他们正在逐渐变成尸鬼」也是 with some reported cases of… 的硬搬，缺主语、报告腔。",
+      "fix": "一年一度的圣帕特里克节庆祝活动过后，附近的定居者病得很厉害，还有报告说出现了几例尸鬼化的病例！这可能只是，呃，“食物”中毒，但我们该去查一查，以防这是一场真正的疫情……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_JackAintBack_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "EN 第二句 We had to get rid of him - he was out of control!（我们只好把他处理掉——他完全失控了）整句没有译出，只留下关于酒的评论。这句正是「他为什么被卖掉」的交代，缺了它，后文「我们把他卖给了肉酱罐头厂」来得没有由头。",
+      "fix": "把苦艾酒和超强捷特混在一起可不是好主意。我们只好把他处理掉——他完全失控了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_JunkRun_QuestLongDescription",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「但有的时候你需要找到你所需要的那种……」一句里「需要」出现两次，「找到你所需要的那种」后面还缺中心词（那种什么？），英文 that's just what you need 被拆成「需要找」加「需要的那种」，读起来磕绊、像话没说完；「废土上充满了杂物」的「充满」用在「杂物」上也偏书面。",
+      "fix": "废土上到处都是破烂，但有时候那正是你需要的东西……",
+      "confidence": "medium"
+    }
+  ]
+}

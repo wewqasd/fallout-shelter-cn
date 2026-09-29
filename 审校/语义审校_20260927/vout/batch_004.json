@@ -1,0 +1,110 @@
+{
+ "batch": 4,
+ "items": [
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "the rest 指辐射蟑螂（IT: gli altri scarafaggi），herd 是「赶」不是「关」；ZH「其余的人」把指代换成了人。",
+   "final_fix": "太棒了！这下我们就能把其余的辐射蟑螂赶进笼子里了。"
+  },
+  {
+   "key": "QuestLoc_ReleasetheRaiders_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 的 the building 是地点状语（search X for A and B），ZH 挪成中心语「A 和 B 的建筑」，搜寻对象错位。",
+   "final_fix": "在建筑里搜寻“战争崇拜者”和“害虫”。"
+  },
+  {
+   "key": "QuestLoc_RescueSanta_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 三句，He's in trouble 整句漏译（ES: Ahora corre peligro），救援动机与紧迫感丢失。",
+   "final_fix": "当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。他遇到了麻烦。我们走！"
+  },
+  {
+   "key": "QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "It was a slaughter 指事件（DE: Gemetzel），ZH「她是个杀人狂」凭空加主语「她」，改成对人物的指控。",
+   "final_fix": "哦我的天！那简直是一场屠杀！尸横遍野的噩梦！"
+  },
+  {
+   "key": "QuestLoc_SantasHelpers_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Get out of here 是「出去/滚出去」（ES: Largo de aquí），ZH「快出来」方向译反；Boo 是嘘声非「嘿」。",
+   "final_fix": "嘘！滚出去！"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_1D_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "waits for nothing 是「不等人」（ES: no espera por nada），ZH「不求回报」把整句换成无关陈述。",
+   "final_fix": "科学不等人，我恐怕得继续了。恕我失陪……"
+  },
+  {
+   "key": "QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "该 key 的 EN 是 cannibals 那句，ZH 却是 1D「Science waits for nothing」的译文，串行错配。",
+   "final_fix": "你是说你们……吃人？呃……你们还是走吧。"
+  },
+  {
+   "key": "QuestLoc_SignalFailure_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 是让它尽快运转才能按时完工（DE 佐证），ZH 把 get this thing up and running 译成「把它修好」，因果对调。",
+   "final_fix": "“今天我们的巧手先生到了。要想按时把维修做完，就得赶紧让这家伙运转起来。”"
+  },
+  {
+   "key": "QuestLoc_SpringForwardFallBack_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 首句 Our investigation… toxic spraying attacks 整句漏译，ZH 只剩后半句，元凶与任务动机尽失。",
+   "final_fix": "我们的调查表明，最近这些毒物喷洒袭击是原子之子教会当地分会所为。我们必须当面质问他们的领袖忏悔者阿尔瓦拉多，让他停止这些攻击，否则就别怪我们不客气。"
+  },
+  {
+   "key": "QuestLoc_SpyonRaiders_Conversation_2B_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "get going 是打发人走（FR: vous pouvez y aller）；ZH「为什么不继续」把逐客令译成鼓励。",
+   "final_fix": "呃，是啊。喊得不错，小子们。你们还是赶紧走吧。"
+  },
+  {
+   "key": "QuestLoc_TakeMeOuttotheBallGame_RaiderLine_4",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "charge the field 是「冲上场」（DE: das Feld stürmen），boys 是呼语；ZH 生造「场地男孩」当寻找对象，读不通。",
+   "final_fix": "全垒打！兄弟们，该冲上场了！"
+  },
+  {
+   "key": "QuestLoc_TheAbyss_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "with all the critters and whatnot 是原因状语（DE: Viechzeug），ZH 译成结果，因果倒置。",
+   "final_fix": "这下面小动物什么的太多，所以没什么访客来。"
+  },
+  {
+   "key": "QuestLoc_TheBansheesKeen_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "Here you go 是递东西的「给你」（DE: Bitteschön），ZH「加油」变成打气；Whatever 译「无论怎么样」不成话。",
+   "final_fix": "行。好吧。随便啦。给你！"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "I mean 硬译成「想说」并与 look at this place 拼成无主语的残句，读不通；Now 是语气词，非「现在」。",
+   "final_fix": "什么？没有！我们什么也没拿。我是说，你看看这地方，有什么可偷的？拜托，赶紧去帮帮我的伙伴，行吗？"
+  },
+  {
+   "key": "QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "EN 三句，末句 Please. Take care of that beast before it kills again! 整句漏译，委托与紧迫感丢失。",
+   "final_fix": "哦，谢天谢地！上次有人见到它时，它还在避难所更深处。拜托了，趁那头野兽还没再害人，赶紧把它解决掉！"
+  }
+ ]
+}

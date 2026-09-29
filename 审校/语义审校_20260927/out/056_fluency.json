@@ -1,0 +1,159 @@
+{
+  "chunk": "056",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_TheCaseoftheQuantumCreeper_Conversation_1_NPCEnd_1",
+      "severity": "S1",
+      "type": "漏译",
+      "problem": "原文三句，中文只译出前两句，末句「Please. Take care of that beast before it kills again!」整句漏掉。玩家看完这段 NPC 台词只得到「它上次还在避难所深处」这一条线索，看不到「在它再次杀人之前解决它」的请求与紧迫感，语气也从哀求变成了平淡陈述。",
+      "fix": "哦，谢天谢地！上次有人见到它时，它还在避难所更深处。拜托了，在它再次杀人之前解决掉那头野兽！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheQuantumCreeper_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "「他们正在……发光」用「他们」指前面的爪印，代词用错：爪印是物，应当是「它们」。玩家在「这些是……爪印吗」之后突然看到「他们」，会先愣一下是不是指一群人；这段单人独白里也没有任何可指的人（同段的 Conversation_2_NPCStart_2 说的都是血迹、液体这类物）。",
+      "fix": "等等，这些是……爪印吗？它们……正在发光。看来我们快接近了。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_Conversation_1_NPCStart_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「辐射蟑螂们总是油炸主机的电路板」把 fry（烧坏、短路烧毁）译成了字面意义的「油炸」，circuits 也译成了「电路板」（原文是电路，不是板）。玩家读到的是一幅蟑螂架锅油炸电路板的滑稽画面，而不是「蟑螂老是烧坏主机电路」的故障描述。",
+      "fix": "辐射蟑螂老是把主机的电路烧坏……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_RaiderLine_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「游戏结束了，男人！」把称呼语 man（老兄/伙计）当成名词「男人」直译。这是掠夺者在战斗中喊的话，中文读起来像在指称某个陌生男子，既不通顺也很滑稽。",
+      "fix": "游戏结束了，老兄！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheEndoftheRainbow_Conversation_1_Team_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「你不是尚恩的肌肉吗？」把俚语 muscle 直译成「肌肉」。muscle 在英语俚语里指打手、保镖，译文完全跑偏，还成了搞笑台词，玩家不知道主角在问对方是不是尚恩的手下。",
+      "fix": "你们不是尚恩的打手吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDoorBuster_RaiderLine_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "两处用词错：「Sheesh!」是懊恼、不耐烦的感叹（哎哟/天哪），译成「嘘！」变成了让人闭嘴，语气完全不对；「These crowds are getting ridiculous!」是抱怨人多得离谱，译成「这些人可真是搞笑！」成了嘲笑人群滑稽，褒贬语气反了。",
+      "fix": "又来人了？哎哟喂！这人多得越来越离谱了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_1_NPCEnd_1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「我们什么也没拿，想说拜托看看这地方，有什么好偷的？」读不通：I mean 被硬译成「想说」，与后半句拼在一起后无主语、无连接，整句像机翻残句；句尾的 Now 是语气词，也误译成时间副词「现在赶紧去帮助我的伙伴好吗」。",
+      "fix": "什么？没有！我们什么都没拿。我是说，你瞧瞧这地方，有什么可偷的？行了，求你了，快去帮帮我的伙伴，好吗？",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheLostLunch_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「等等，我们不需要。」成分残缺、指代不明：原文 No need for that! 是「没必要（动手）」，被译成主谓宾结构却缺宾语，玩家不知道「不需要」什么，主语也从「没必要这样」偷换成了「我们」。下半句「但没有找到食物之前」双重否定绕口。",
+      "fix": "哇！别这样，没必要动粗！不过，食物没找回来之前，我们是不会放那个掠夺者走的。你要是找到了，我们或许会放了他。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCStart_3",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "断句错误：「我们就刻下“干得漂亮”！在一块岩石上。」把状语「在一块岩石上」单独切成了一个残句，句末悬空、缺谓语，中文读不通，玩家得自己回拼「刻在岩石上」这层意思。",
+      "fix": "每当完成一个目标，我们就会在石板上刻下“干得漂亮！”。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCStart_4",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "「然后，我们会粉碎最低生产力的团队成员。」漏掉了 under it（用那块石板/把它压在下面），笑点的关键动作没了，玩家不知道用什么方式「粉碎」人；另外「最低生产力的团队成员」是英文语序硬搬，中文应说「业绩最差的团队成员」。",
+      "fix": "然后，我们会用那块石板把业绩最差的团队成员压死。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCEnd_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "producer/produce 的双关没处理：produce 是农产品、食材，译成「新鲜的产品」后，「我确保我们每天都有新鲜的产品，所以团队能保持健康」在中文里逻辑断裂——「产品」和团队健康扯不上关系，玩家只会觉得莫名其妙。另外游戏团队的 producer 应为「制作人」，「制片人」是影视行当（同一任务的 QuestObjective_2 用的是「制作者」）。",
+      "fix": "我是制作人：我负责保证团队每天都能吃上新鲜的农产品，这样大家才能保持健康。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheCatBurglar_Conversation_2_NPCEnd_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「来，拿这个解决你的烦恼。」把 take this for your troubles（这个给你，算辛苦费/补偿）译成了「拿它去解决烦恼」，给报酬的意思变成了让对方自行处理问题；前一句「那就说明为什么没有呼噜声」也缺了「能……了」，读着别扭。",
+      "fix": "好吧，那就能解释为什么没有呼噜声了。来，这个给你，算是一点辛苦费。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCatBurglar_Conversation_2_NPCEnd_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「这里，你可以用这个。」把递东西时的语气词 Here（给/拿着）译成了方位词「这里」，中文里「这里，你可以用这个」像在指地点，是明显的机翻腔；同一段落另一条（NPCEnd_1）用的是「来，吃饼干」，前后处理也不一致。",
+      "fix": "你是来装饰帽子的？给，这个拿去用吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheCatBurglar_RaiderLine_2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「这个，这只简直完美……」：「这个，」是 Well 的硬译，后面又平白多出一个量词「这只」，指代对象不明（这只什么？），整句读起来是机翻残句；purrrfect 的猫叫双关也完全没有落地。",
+      "fix": "好吧，这可真是完喵无缺……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheBrothersGrime_QuestLongDescription",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「很少有掠夺者的手段会比两个称之为“污秽兄弟”的掠夺者首领更肮脏」比较对象不对等：拿「手段」去和「首领（人）」比，句子读不通顺；「两个称之为……的掠夺者首领」又是长定语层层套叠，玩家要读两遍才能拆出「很少有掠夺者比这两个首领手段更脏」这层意思。",
+      "fix": "论手段之肮脏，很少有掠夺者比得上这两个号称“污秽兄弟”的掠夺者首领。给这对黑心肠的兄弟无赖一点颜色瞧瞧。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheQuantumCreeper_QuestLongDescription",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「这个怪兽把当地的避难所居民吃掉并偷走他们的量子核子可乐」结构杂糅：把字句的宾语只跟「吃掉」搭配，后半「偷走他们的量子核子可乐」另起宾语却仍挂在同一个把字结构里，句子中途断了；munching on（一直在啃食）的持续感也没译出。",
+      "fix": "有人请尼克去查明“量子爬行者”之谜——这头怪兽一直在啃食当地避难所的居民，还偷走他们的量子核子可乐。你们去帮他们一把怎么样？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheDeBuggers_Conversation_2_NPCEnd_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "「你应该能得到三分钟的上场时间」用「上场时间」这个体育术语（球员上场比赛）来译 a solid three minutes of play，用在哔哔小子小游戏上很滑稽；solid（整整、足足）也没译出。",
+      "fix": "别担心，在那之前你还能好好玩上整整三分钟。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_TheCaseoftheMissingMitt_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「我不指望有什么审讯」把 I ain't looking for an interrogation（我不是来听你审问我的／别盘问我）译反了，读成「他盼着有人来审他」；句末 So go.（快去吧）整句漏译，句首的 Now 又硬译成时间副词「现在」，整句语气散掉。",
+      "fix": "因为附近也没别人了。好了，我不是来听你审问的，我只想拿回那只手套。快去吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_TheBigsbyBrownCase_RaiderLine_2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "「给我煮了他们！」把 Tenderize 'em!（捶软、揍烂，tenderize 本义是把肉拍松）换成了下锅水煮，动作和画面都变了：掠夺者是叫宠物把人捶软了吃，不是自己开火做饭，威胁的语气也随之走样。",
+      "fix": "哦快看呐，我们的宠物又有零食可以吃了。把他们捶软点儿！",
+      "confidence": "medium"
+    }
+  ]
+}

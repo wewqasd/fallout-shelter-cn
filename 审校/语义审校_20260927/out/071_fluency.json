@@ -1,0 +1,87 @@
+{
+  "chunk": "071",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_32_Response_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "上一句是抱怨 Getting a little tired of questing（跑任务有点累了），Not me! 的意思是「我可没觉得累」，是对「累」这个状态的反驳。译成「我不觉得！」变成了对别人看法的表态（「我不这么认为」），对象答错，还成了无宾语的光杆句。",
+      "fix": "我可没有！这个太赞了！",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_29_Response_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "Staying safe 说的是「平平安安、别出事」，译成「住得安全」被理解成了「居住环境安全」，把「安全」窄化成了住处；紧接着 Being happy 又译成成语「安居乐业」，本身已含「安定+快乐」，和后一项意思重叠，三个并列短句读下来语义打架。",
+      "fix": "哦，你懂的。玩得开心，平平安安，快快乐乐。",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_26_Response_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「洗一个分配给我的2分半钟的澡」把「一个」「分配给我的」「2分半钟的」三个定语全压在「澡」上，是 my allocated 2.5 minute shower 的长定语硬搬。中文口语不会把时长当成「澡」的前置定语，通常把时间量甩到后面说。",
+      "fix": "大概是去洗澡吧，就分配给我的那两分半钟。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_26_Response_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「和你分配在一起」搭配不成立：中文的「分配」是「分配任务／分配工作」，被 assign with 硬搬成「跟某人分配在一起」；句尾再加「了」，又把一句请求写成了已经发生的事，与前面两条回答（都是打算做的事）节奏也不统一。",
+      "fix": "请求再也别跟你分到一组。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_25_Response_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「被喋喋不休的同伴所干扰而分心」里「干扰」和「分心」本是一回事，重复啰嗦；「被……所……而……」的框架又把一句短对白拖长，和同组另两条短问句（「正确的拉伸运动？」「呃……离开避难所？」）的节奏完全脱节。",
+      "fix": "不被喋喋不休的同伴分心？",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Generic_Dweller_Conversation_30_Response_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「用它那吓人的独门方式」是 In it's own horrible way 的逐字硬搬：中文习惯说「以……的方式」，「用……方式」别扭；且「独门」一般只跟「绝技／秘方／功夫」搭配，「独门方式」是生造搭配，读起来像在说废土有什么独门秘技。",
+      "fix": "挺迷人的，对吧？以它自己那种可怕的方式。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_Loot_Dweller_40",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "dang it 是「真是的／可恶」这类轻微懊恼的自辩语气，译文「就是这么回事」完全没有这层情绪，还平白加出一句跟原意无关的论断，让本来理直气壮的抢东西宣言变成了没头没尾的感慨。",
+      "fix": "这可是我挣来的，真是的。",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_MainPath_Dweller_11",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「这个感觉是对的路」主谓搭配不成立：「感觉」不能是「路」，This feels like the right way 被逐词搬成了中文，玩家要先猜出主语其实是「路」才读得通。同一句式的英文在下一行（Speech_Quest_MainPath_Dweller_12）又被同样处理了一次。",
+      "fix": "这条路感觉是对的……",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Quest_MainPath_Dweller_12",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "与 Speech_Quest_MainPath_Dweller_11 同源：「这个感觉是对的方向」把「感觉」硬当成主语去搭配「方向」，主谓不合；对照同类条目 WrongPath 的「感觉方向是错的……」，可见这里反而写得更别扭。",
+      "fix": "这个方向感觉是对的……",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Room_DeadDweller_Cafeteria",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "原文是食堂里发现尸体时的一句吐槽（That has GOT to be a health violation），译文「这绝对是一起卫生违规事件」套用了「一起……事件」的新闻／公文句式，把一句口语吐槽写成了事故通报，书面报告腔与人物语气不符。",
+      "fix": "这绝对算是卫生违规了。",
+      "confidence": "medium"
+    }
+  ]
+}

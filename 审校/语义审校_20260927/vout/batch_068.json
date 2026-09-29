@@ -1,0 +1,110 @@
+{
+ "batch": 68,
+ "items": [
+  {
+   "key": "QuestLoc_HalfFullHalfEmpty_Conversation_1_NPCStart_4",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "「只」本可用于瓶子等器物，非量词误用；EN Mrs. 省作「女教师菲尔德斯通」不影响识别（ES/FR 甚至作 Miss），属可接受省略。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_HeatoftheKnight_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "战斗支援义 EN Support 宜作「支援」，「支持」是赞同义（同任务 LongDesc 已用「支援」）；「企业办公室」也与「办公大楼」不一致。",
+   "final_fix": "支援罗伯科办公大楼的士兵们。"
+  },
+  {
+   "key": "QuestLoc_HighSteaks_RaiderLine_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN mis-steak 是 mistake+steak 双关，ZH 只译出「错误」，同任务牛排梗的嘲讽全丢；fix「送肉上门」用「肉」补回双关。",
+   "final_fix": "来这儿可能真是送肉上门。"
+  },
+  {
+   "key": "QuestLoc_HittingtheBooks_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "本段前文与 QuestlineName 均作「31号避难所之谜」，ZH 漏「号」；「之谜…解决」搭配亦不顺，EN solve 宜作「解开」。",
+   "final_fix": "随着万圣节临近，有关31号避难所的故事和它奇怪的过去再一次流传了起来。但是到底是避难所真的闹鬼，还是有其他的什么原因？31号避难所之谜正等着你去解开！"
+  },
+  {
+   "key": "QuestLoc_Homerun_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Rackie Jobinson's Jersey 的专名被整段省成「棒球衫」，任务链其余条目均作「罗基·杰宾森的棒球衫」，专名信息缺失。",
+   "final_fix": "还是没有教练或是罗基·杰宾森的棒球衫的影子。但他应该就在附近了！我能感觉到。还是说只是他的狐臭！无论如何，我们去搜搜宝贝爪爪宠物商店吧！"
+  },
+  {
+   "key": "QuestLoc_HoneymoonHorror_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN as I toil away in complete safety 状语被硬搬到句首成报告腔；「你 一定」间夹半角空格 U+0020，游戏内显示断字。",
+   "final_fix": "亲爱的，我就算在绝对安全的地方辛苦操劳，也永远不会忘记你的。你一定要坚强！"
+  },
+  {
+   "key": "QuestLoc_HoneymoonHorror_Conversation_2_Team_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN your settlement 与 you 指同一群听众（ES/DE/RU 均复数），ZH「你们定居点：你」人称跳换并用冒号硬接陈述句，读来突兀。",
+   "final_fix": "没问题，我就跟你们定居点的人说，你们让辐射蝎给收拾了。"
+  },
+  {
+   "key": "QuestLoc_HotTubSlimeMachine_QuestName",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN Hot Tub 是热水浴缸，ZH「热水器」= water heater，核心物件译错，Slime Machine 全丢；描述却写「泡热水澡」。",
+   "final_fix": "热水浴缸黏液机"
+  },
+  {
+   "key": "QuestLoc_HouseWarming_1_QuestName",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Party to the Max 双关借 Maximus 的 Max，ZH「马克」与同任务的「马克西姆斯」不一致，玩家会以为是另一人。",
+   "final_fix": "派对到马克西姆斯"
+  },
+  {
+   "key": "QuestLoc_HouseWarming_2_QuestLongDesc",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "ZH「去 罗伯科 总部」在汉字之间夹两个半角空格 U+0020，属术语替换残留；全项目其它 RobCo 条目无此空格，游戏内显示突兀。",
+   "final_fix": "保安机器人本该是出色的守卫。去罗伯科总部见维克托，讨论豪斯先生派对的安保事宜。"
+  },
+  {
+   "key": "QuestLoc_HouseWarming_3_Question1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN falling apart 双关：派对散架＋尸鬼身体散架，ZH「要完蛋了」只剩垮台义，与「就跟主办人一样」的呼应落空。",
+   "final_fix": "这场尸鬼派对快散架了。就跟主办人一样！"
+  },
+  {
+   "key": "QuestLoc_HouseWarming_4_Question5_02",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "ZH「它们」紧邻的复数名词是「害虫」，且保安机器人是豪斯手下，不会读成机器人找麻烦；「除非…那当然例外」正确对应 Unless…o' course。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN the ruins of 的「废墟」漏译，ZH 只留「莱克维尔图书馆」；同链 HomerunDerby 已作「圣心脏医院的废墟」。",
+   "final_fix": "好吧。所以圣心脏医院肯定是条死路了，但至少我们都还活着！下一站，莱克维尔图书馆的废墟。"
+  },
+  {
+   "key": "QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN other Dwellers and some Feral Ghouls 在 ZH 中并列完整，「和…还有…」是汉语常见口语并列，语义无歧义。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_HumanBeanJuice_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN been through the ringer=吃尽苦头（ES/DE/RU 同为受苦），ZH「受过一次大惊吓」把磨难改成惊吓，还凭空添「一次」。",
+   "final_fix": "杰克已经被折腾得够呛——可现在他马上就要变成别人的晚餐了！奴隶贩子把他卖给了肉酱厂。我们应该去那里找他！"
+  }
+ ]
+}

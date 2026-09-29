@@ -1,0 +1,110 @@
+{
+ "batch": 64,
+ "items": [
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room4_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Follow these coordinates 的宾语是地点，中文「跟随」只能带人或指引，不能带「坐标」，搭配不成立。",
+   "final_fix": "那我们目标一致。按这些坐标过去吧。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room4_Question_Line1_Answer1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同一台词分支 Follow these coordinates 的「跟随坐标」搭配不成立，须与上句改法一致。",
+   "final_fix": "按这些坐标过去吧。英克雷也对你们感兴趣。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_CombatInit2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "release form 是免责弃权文件（ES dispensa、RU отказ от претензий），ZH「放行单」是通行凭证，公文种类错。",
+   "final_fix": "你还没签免责声明呢！！！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room2_Question_Line1_Answer0",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "paperwork 指要填的表格文书，项目他处即译「文书」；「纸面工作」把 paper 直取「纸面」，中文无此搭配。",
+   "final_fix": "那对我来说又是一堆文书要填！我再也受不了了！"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room4_Question_Line1_Answer1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "transmitting 是进行时，ZH 丢掉「正在」，与紧邻的「正在传输坐标」不成对，读成了命令句。",
+   "final_fix": "似乎没必要。尽管如此，正在将坐标传输至AI维修设施。"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "feeling sorry for myself 通行译法是「自怜/自怨自艾」，「自我哀怜」系生造四字组合，作 MOPUS 自述生硬。",
+   "final_fix": "我的名字叫MOPUS，顾影自怜……是我的最高指令……"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room1_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "reckoning 指清算算总账（同项目 chunk_026 即译「清算」，DE Abrechnung），ZH「全力的一击」变成物理打击。",
+   "final_fix": "你们准备好迎接我彻底的清算了吗？"
+  },
+  {
+   "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room4_Question_Line2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "ALL-FOR-NOTHIN' 意为全都白费（DE ALLES-UMSONST），「孤注一掷」只表押上全部本钱，丢了与上句 0% 胜率的呼应。",
+   "final_fix": "看我最后的武力展示——我这注定血本无归的赌局！"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_1_NPCEnd_3",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "Enjoy! 单独译「享受！」不成话（项目他处作「好好享受」）；fix 误加「个」把二十百万吨写成「二十个」，且「享用」偏进食。",
+   "final_fix": "准确来说，二十。呃，我是说……好好享受吧！"
+  },
+  {
+   "key": "QuestLoc_ESterEggHunt_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "first annual 只译出「一年一度」，first（首届）被吞掉；「我们一年一度复活节彩蛋寻宝」还缺「的」，成分残缺。",
+   "final_fix": "欢迎参加我们首届复活节彩蛋寻宝活动！"
+  },
+  {
+   "key": "QuestLoc_ESterisComing_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是复数 Vault Dwellers，ZH 用单数「你一定是」；「派来帮助我们的避难所的居民」连用三「的」，修饰错位易误读。",
+   "final_fix": "啊，你们一定就是被派来帮我们的避难所居民！赞美原子！"
+  },
+  {
+   "key": "QuestLoc_ESterisComing_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "was last seen 在对白里宜作主动，ZH「最后一次被见到」属被字句翻译腔；项目对白同类句用「最后一次看到」。",
+   "final_fix": "这里就是最后一次看到威尔修士的地方。"
+  },
+  {
+   "key": "QuestLoc_ESterisComing_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "standing on its hind legs 译成「站在它的后腿上」，中文说动物用「靠后腿站起」，「它的」也多余。",
+   "final_fix": "到头来，那只是一只靠后腿站起来的大鼹鼠。"
+  },
+  {
+   "key": "QuestLoc_ExpressCheckout_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Ferals 即 Feral Ghoul 简称，项目统一「狂尸鬼」（64 处）；只写「尸鬼」丢掉 feral，并与同段尸鬼 NPC 混指。",
+   "final_fix": "那些狂尸鬼是你的朋友吗？"
+  },
+  {
+   "key": "QuestLoc_ExtremePrejudice_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "so I could 表目的（ES para poder、DE damit），ZH「所以我可以」译成因果，关系拧成「因为希望所以能」。",
+   "final_fix": "我真希望自己是间谍，这样就能把你们全杀了。"
+  }
+ ]
+}

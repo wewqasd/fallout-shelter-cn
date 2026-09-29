@@ -1,0 +1,181 @@
+key	EN	ZH
+SeasonPass_EndingSoon_NewVegasB	The Season Pass will be ending soon! Complete challenges or use Nuka-Cola Quantum to unlock rewards.\nReach Rank 20 on the premium track for an exclusive Lucky 38 Penthouse Living Quarters Theme, available this season only.	赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n在高级赛道达到20级即可获得独家幸运38顶层套房宿舍主题，仅限本赛季。
+SeasonPass_EnterExperiment_Btn	ENTER EXPERIMENTAL VAULT	进入实验避难所
+SeasonPass_FreeReward	FREE REWARD	免费奖励
+SeasonPass_Later_Btn	LATER	稍后
+SeasonPass_LetsGo_Btn	LET'S GO	出发！
+SeasonPass_LevelUp	LEVEL UP	升级！
+SeasonPass_LevelUpNukaQuantum	Level up for {0} Nuka-Cola Quantum?	花费{0}量子核子可乐升级？
+SeasonPass_MaxRank	MAX RANK	最高等级
+SeasonPass_PremiumReward	PREMIUM REWARD	高级奖励
+SeasonPass_PremiumUnlocked	PREMIUM UNLOCKED	高级已解锁
+SeasonPass_PremiumUpgrade	UPGRADE TO PREMIUM PASS	升级至高级通行证
+SeasonPass_PremiumUpgrade_Exclamation	UPGRADE TO PREMIUM PASS!	升级至高级通行证！
+SeasonPass_Premium_Btn	PREMIUM	高级
+SeasonPass_Rank	RANK {0}	等级 {0}
+SeasonPass_RankUpWithQuantum_Confirmation	Rank up for {0} Nuka-Cola Quantum?	花费{0}量子核子可乐升级？
+SeasonPass_RecipeReward_ModalText	Theme recipe unlocked!	主题配方已解锁！
+SeasonPass_ReturnToMainMenuModal_CancelBtn	CANCEL	取消
+SeasonPass_ReturnToMainMenuModal_ConfirmBtn	OK	确定
+SeasonPass_ReturnToMainMenuModal_Description	No experimental vault detected.\nReturn to the main menu to create one?	未检测到实验避难所。\n返回主菜单创建一个？
+SeasonPass_ReturnToMainMenuModal_Title	ATTENTION	注意
+SeasonPass_Tab_BattlePass	SEASON PASS	赛季通行证
+SeasonPass_Tab_Challenges	CHALLENGES	挑战
+SeasonPass_Tab_Leaderboard	LEADERBOARD	排行榜
+SeasonPass_Tab_SeasonInfo	SEASON INFO	赛季信息
+SeasonPass_ToVaultSelect_Btn	RETURN TO VAULT SELECT	返回避难所选择
+SeasonPass_UnlockBattlePass	UPGRADE SEASON PASS	升级赛季通行证
+SeasonPass_UnlockBattlePass_Btn	UNLOCK SEASON PASS	解锁赛季通行证
+SeasonPass_UnlockBattlePass_Exclamation	UNLOCK SEASON PASS!	解锁赛季通行证！
+SeasonPass_UpsellModal_Base	Fallout Seasons are even better with the Season Pass.\nCollect all the Season Rewards you've unlocked NOW! Rewards can be claimed in all Vaults.	有了赛季通行证，Fallout赛季才更精彩。\n立即领取你已解锁的所有赛季奖励！奖励可在所有避难所中领取。
+SeasonPass_UpsellModal_Premium	Take your Season to the next level!\nBuy the Premium Pass for instant boosts to your vault, plus get exclusive rewards you won't find anywhere else!	将你的赛季提升至新高度！\n购买高级通行证可立即为你的避难所注入强力提升，还能获得其他地方找不到的独家奖励！
+SeasonPass_XPAmount	{0}/{1}	{0}/{1}
+Season_Duration	[282828]SEASON AND EXPERIMENTAL VAULT END IN[-] [FD0C0B]1 DAY[-]	[282828]赛季及实验避难所将于[-] [FD0C0B]1天[-]后结束
+Season_Duration_Plural	[282828]SEASON AND EXPERIMENTAL VAULT END IN[-] [FD0C0B]{0} DAYS[-]	[282828]赛季及实验避难所将于[-] [FD0C0B]{0}天[-]后结束
+SeasonalShopDisclaimerDialog	This Experimental Vault is only available for the duration of the season, after which it will no longer be accessible. \n\nAll Season Pass rewards can still be claimed in all vaults and will not be lost, however, all other Shop purchases made in this vault will be lost when the season ends.\n\nProceed to purchase?	此实验避难所仅在赛季期间可用，赛季结束后将不再可访问。\n\n赛季通行证奖励仍可在所有避难所领取且不会丢失，但在此避难所中购买的其他商店物品将在赛季结束时丢失。\n\n确认购买？
+Seasons_MessageSeasonEndsInStub	Season ends in	赛季将于
+Seasons_Message_SeasonConcludedHeader	Season Concluded	赛季已结束
+Seasons_Message_SeasonEndsIn	SEASON ENDS IN 1 DAY	赛季将于1天后结束
+Seasons_Message_SeasonEndsIn_Plural	SEASON ENDS IN {0} DAYS	赛季将于{0}天后结束
+Seasons_Message_SeasonHasEndedBlurb	Visit one of your regular vaults to collect any unclaimed rewards and remaining Nuka Cola Quantum from your former Experimental Vault.	请前往您的普通避难所，领取实验避难所中所有未领取的奖励以及剩余的量子核子可乐。
+Seasons_Message_SeasonStartsIn	SEASON STARTS IN 1 DAY	赛季将于1天后开始
+Seasons_Message_SeasonStartsIn_Plural	SEASON STARTS IN {0} DAYS	赛季将于{0}天后开始
+Seasons_Message_SeasonStartsSoon	NEW SEASON COMING SOON	新赛季即将到来
+Seasons_Message_UnclaimedNukaQuantumBlurb	Your Experimental Vault's unused Nuka Cola Quantum can be claimed in ONE vault of your choice.\n\nDeposit Nuka Cola Quantum in current vault?	您实验避难所中未使用的量子核子可乐可在您选择的一座避难所中领取。\n\n将量子核子可乐存入当前避难所？
+Seasons_Message_UnclaimedRewardsBlurb	The experiment was a success! Unclaimed rewards have been added to this vault	实验成功了！未领取的奖励已加入此避难所。
+Shared_ButtonText	SHARE YOUR PHOTO!	分享照片！
+Shared_ButtonText_PC	SAVE YOUR PHOTO	保存照片
+Shared_ButtonText_Xbox	SAVE YOUR PHOTO	保存照片
+Shop_Banner_Lunchboxes_1	Contains five random cards.	包含五张随机卡片。
+Shop_Banner_Lunchboxes_2	Guaranteed one Rare Card or better.	至少有一张稀有或更高级的卡牌。
+Shop_Banner_MrHandy_1	Collects resources in your Vault.	收集避难所里的资源。
+Shop_Banner_MrHandy_2	Collects Caps from the Wasteland.	收集废土上的瓶盖。
+Shop_Banner_NukaQuantum_1	Speed things up with Nuka-Cola Quantum.	用量子核子可乐加速进程。
+Shop_NukaCola_Line1	Use Nuka-Cola Quantum to speed up Wasteland travel and skip more Objectives per day.	用量子核子可乐加速废土探险或是每天跳过不止一个目标。
+Shop_NukaCola_Title	Nuka-Cola Quantum	量子核子可乐
+Shop_PetBanner_Text1	Quicker return from the Wasteland.	更快地从废土回来。
+Shop_PetBanner_Text2	Dwellers train to max level without stopping.	居民不间断地一路训练至满级。
+Shop_PetBanner_Text3	Complete Objectives faster.	更快地完成目标。
+Shop_PetBanner_Text4	Chance of having twins or triplets.	怀上双胞胎或三胞胎的概率。
+Shop_PetBanner_Text5	Improved crafting speed and cost.	提升打造速度和花费。
+Shop_PetBanner_Title	Pets give great bonuses like...	宠物能带来各种有利加成……
+Shop_SeasonPass_Blurb	Unlock All Season Rewards:\n  • New Vault Exterior [-][F7C531]THEME[-]\n  • New Weapons Workshop [-][F7C531]THEME[-]\n  • [-][F7C531]ULTRACITE WEAPONS[-] and [-][F7C531]MORE![-]	解锁所有赛季奖励：\n- 全新避难所外观[-][F7C531]主题[-]\n- 全新武器工坊[-][F7C531]主题[-]\n- [-][F7C531]辐射极琉矿武器[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Weapon Workshop THEME, Ultracite Weapons and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、武器工坊主题、辐射极琉矿武器等更多内容。奖励可在所有避难所领取。
+Shop_SeasonPass_EnclavePremium_Blurb	All the Benefits of the Season Pass plus:\n  • Exclusive [-][F7C531]CYBERDOG PET[-] and [-][F7C531]NEW OUTFIT[-]\n  • [-][F7C531]BONUS[-] Pets, Outfits and Weapons\n  • [-][F7C531]25 BADGES[-] to gain season ranks instantly	赛季通行证的所有福利，外加：\n• 专属[-][F7C531]赛博狗宠物[-]和[-][F7C531]全新装备[-]\n• [-][F7C531]额外[-]宠物、装备和武器\n• [-][F7C531]25枚徽章[-]立即提升赛季等级
+Shop_SeasonPass_Enclave_Blurb	Unlock all the Season rewards:\n- NEW Vault Exterior [-][F7C531]THEME[-]\n- NEW Enclave Vault Room [-][F7C531]THEMES[-]\n- [-][F7C531]NEW DWELLER[-] and [-][F7C531]MORE![-]	解锁全部赛季奖励：\n- 新的避难所外观[-][F7C531]主题[-]\n- 新的英克雷避难所房间[-][F7C531]主题[-]\n- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_Enclave_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, two Enclave room THEMES, a new Legendary Dweller and more. You can claim the rewards in ALL your vaults.	使用此通行证充分享受赛季乐趣。解锁高级奖励赛道，内含避难所外观主题、两款英克雷房间主题、一名全新传奇居民等丰富奖励。您可以在您的所有避难所中领取这些奖励。
+Shop_SeasonPass_Enclave_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, new Cyberdog pet, new Enclave Officer Uniform, Autumn's Uniform, Heavy Vault Suit, Mutant Hunter Gear, Dragon's Maw, 2 Pet Carriers and 5,000 Caps.	将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新赛博狗宠物、全新英克雷军官制服、奥特姆上校的制服、重型避难所连体服、变种人猎人装备、“龙之颚”等离子发射器、2个宠物笼子和5000瓶盖。
+Shop_SeasonPass_InstitutePremium_Blurb	All the Benefits of the Season Pass plus:\n  • Exclusive [-][F7C531]CURIE MISS NANNY[-] and [-][F7C531]NICK VALENTINE[-]\n  • [-][F7C531]BONUS[-] Pets, Outfits and Weapons\n  • [-][F7C531]25 BADGES[-] to gain season ranks instantly	赛季通行证的所有福利，再加上：\n• 专属[-][F7C531]居里巧手小姐[-]和[-][F7C531]尼克·瓦伦坦[-]\n• [-][F7C531]额外[-]宠物、装备和武器\n• [-][F7C531]25枚徽章[-]立即提升赛季等级
+Shop_SeasonPass_Institute_Blurb	Unlock all the Season rewards:\n- NEW Vault Exterior [-][F7C531]THEME[-]\n- NEW Courser [-][F7C531]OUTFIT[-]\n- [-][F7C531]NEW DWELLER[-] and [-][F7C531]MORE![-]	解锁全部赛季奖励：\n- 新的避难所外观[-][F7C531]主题[-]\n- 新的追猎者[-][F7C531]装备[-]\n- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_Institute_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a new Outfit, a new Legendary Dweller and more. You can claim the rewards in ALL your vaults.	使用此通行证充分享受赛季乐趣。解锁高级奖励赛道，内含避难所外观主题、全新装备、一名全新传奇居民等丰富奖励。您可以在您的所有避难所中领取这些奖励。
+Shop_SeasonPass_Institute_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, new Curie Miss Nanny, new Legendary Dweller Nick Valentine, Commander Uniform, Expert Lab Coat, Piper's Outfit, Vengeance Gatling Laser, 2 Pet Carriers and 5,000 Caps.	将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新居里巧手小姐、全新传奇居民尼克·瓦伦坦、指挥官制服、专家实验室袍、派普的装备、复仇者加特林激光枪、2个宠物笼子和5000瓶盖。
+Shop_SeasonPass_NewVegasAPremium_Blurb	All the benefits of the Season Pass plus:\n- Exclusive [-][F7C531]LEGENDARY DWELLER[-] and [-][F7C531]OUTFIT[-]\n- [-][F7C531]BONUS[-] Pets, Outfits and Weapon\n- [-][F7C531]25 BADGES[-] to gain season ranks instantly	包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]传奇居民[-]和[-][F7C531]装备[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-][F7C531]25枚徽章[-]立即提升赛季等级
+Shop_SeasonPass_NewVegasA_Blurb	Unlock all the Season rewards:\n- NEW Vault Exterior [-][F7C531]THEME[-]\n- NEW Nuka-Cola Bottler [-][F7C531]THEME[-]\n- [-][F7C531]NEW DWELLERS[-] and [-][F7C531]MORE![-]	解锁所有赛季奖励：\n- 全新避难所外观[-][F7C531]主题[-]\n- 全新核子可乐装瓶室[-][F7C531]主题[-]\n- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_NewVegasA_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Sunset Sarsaparilla Bottler THEME, new Legendary Dwellers and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、日落沙士装瓶厂主题、新传奇居民等更多内容。奖励可在所有避难所领取。
+Shop_SeasonPass_NewVegasA_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Mr. House, Maximus' Jacket, a T-45d Power Armor, a Sleek Suit, an Expert Jumpsuit, a Technician's Revenge, 2 Pet Carriers and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、豪斯先生、马克西姆斯夹克、T-45d动力装甲、修身西装、专家连身服、技术人员的报复、2个宠物笼子，以及5000瓶盖。
+Shop_SeasonPass_NewVegasBPremium_Blurb	All the benefits of the Season Pass plus:\n- Exclusive [-][F7C531]VICTOR ASSISTANT[-] and [-][F7C531]OUTFIT[-]\n- [-][F7C531]BONUS[-] Pets, Outfits and Weapon\n- [-][F7C531]25 BADGES[-] to gain season ranks instantly	包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]维克托助手[-]和[-][F7C531]装备[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-][F7C531]25枚徽章[-]立即提升赛季等级
+Shop_SeasonPass_NewVegasB_Blurb	Unlock all the Season rewards:\n- NEW Vault Exterior [-][F7C531]THEME[-]\n- NEW Living Quarters [-][F7C531]THEME[-]\n- [-][F7C531]NEW DWELLERS[-] and [-][F7C531]MORE![-]	解锁所有赛季奖励：\n- 全新避难所外观[-][F7C531]主题[-]\n- 全新宿舍[-][F7C531]主题[-]\n- [-][F7C531]新居民[-]及[-][F7C531]更多！[-]
+Shop_SeasonPass_NewVegasB_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Living Quarters THEME, new Legendary Dwellers and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、宿舍主题、新传奇居民等更多内容。奖励可在所有避难所领取。
+Shop_SeasonPass_NewVegasB_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Victor (Mr. Handy equivalent), Lucy's Yellow Dress, a Heavy Merc Gear, Wilzig's Travelwear, Incognito Leisurewear, a Lead Belcher, 2 Pet Carriers and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、维克托（Mr. Handy同等角色）、露西的黄色连衣裙、重型雇佣兵装备、维尔齐格的旅行服、隐形休闲装、铅击者、2个宠物笼子，以及5000瓶盖。
+Shop_SeasonPass_Premium_Blurb	All the Benefits of the Season Pass plus:\n  • Exclusive [-][F7C531]LEGENDARY DWELLERS[-]\n  • [-][F7C531]BONUS[-] Pets, Outfits and Weapons\n  • [-][F7C531]25 BADGES[-] to gain season ranks instantly	包含赛季通行证全部权益，额外加送：\n- 独家[-][F7C531]传奇居民[-]\n- [-][F7C531]额外[-]宠物、装备和武器\n- [-][F7C531]25枚徽章[-]立即提升赛季等级
+Shop_SeasonPass_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Cait and Zeke, a T-60f Power Armor, a Heavy Battle Armor, a Commander Uniform, 2 Pet Carriers, an Ultracite Gatling Laser, and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力装甲、重型战斗甲、指挥官制服、2个宠物笼子、辐射极琉矿加特林激光枪，以及5000瓶盖。
+Shop_SeasonPass_Premium_Title	PREMIUM PASS	高级通行证
+Shop_SeasonPass_Title	SEASON PASS	赛季通行证
+Shop_StarterPack_Line1	Jumpstart your Vault with everything needed to get your underground life started quickly. Includes a Legendary Dweller, 2 Rare Dwellers, a Legendary Pet and a Mr. Handy. Plus Nuka-Cola Quantum and lots of Vault resources. Limit 1 per Vault.	给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。每所避难所限购1份。
+Shop_StarterPack_Line2	Amazing Value	了不起的价值
+Shop_StarterPack_RedeemTitle	Vault-Tec Starter Pack	避难所科技新手包
+Shop_StarterPack_Title	Vault-Tec Starter Pack	避难所科技新手包
+Signout_Message	You have been signed out. The game must now close.	您已退出，游戏现在关闭。
+SnipSnipDialog_Armory_01	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
+SnipSnipDialog_Armory_02	Oh my. I certainly hope all this firepower is just for show.	哦，天哪。我真希望这些火力只是摆设。
+SnipSnipDialog_Athletics_01	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
+SnipSnipDialog_Athletics_02	I never did understand the concept of legs, or moving them. For goodness sake, humans... HOVER.	我一直不明白腿有什么用，或者说为什么要动它们。人类啊，你们就不能漂浮起来吗？
+SnipSnipDialog_Bar_01	Anyone fancy a tipple?	有谁想来一杯吗？
+SnipSnipDialog_Bar_02	You humans relax. No, no. It's fine. I'll just selflessly tend to your every need...	你们人类歇着吧。不不，不用管我。我就默默无私地伺候各位的一切需求……
+SnipSnipDialog_Cafeteria_01	BlamCo? Cram? InstaMash? And humans actually enjoy this garbage?	白兰哥？饱饱牌肉罐头？快餐薯泥？人类竟然真吃这些垃圾？
+SnipSnipDialog_Cafeteria_02	Thank Heavens General Atomics International spared me from the threat of nausea. And obesity.	感谢通用原子国际让我免受恶心和肥胖的威胁。
+SnipSnipDialog_Classroom_01	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
+SnipSnipDialog_Classroom_02	Ahhh, education. The only thing they can never take truly away from you. 	啊，教育。这是他们唯一永远无法真正从你身上夺走的东西。
+SnipSnipDialog_Fitness_01	Ah, cardio. Fascinating concept.	啊，有氧运动。真是个有趣的概念。
+SnipSnipDialog_Fitness_02	Ah, cardio. Fascinating concept.	啊，有氧运动。真是个有趣的概念。
+SnipSnipDialog_GameRoom_01	Hmph. Just let these humans try and beat my high score in Red Menace...	哼，就让这些人类来挑战我在《红色威胁》中的高分吧……
+SnipSnipDialog_GameRoom_02	Hmph. Just let these humans try and beat my high score in Red Menace...	哼，就让这些人类来挑战我在《红色威胁》中的高分吧……
+SnipSnipDialog_Generic_01	If the humans are happy, I'm happy. I swear.	人类开心，我就开心。我发誓。
+SnipSnipDialog_Generic_02	So many humans, so little time.	人类如此之多，我的时间却如此之少。
+SnipSnipDialog_Generic_03	Entombed in cold, unyielding steel. It's robot Heaven.	长眠于冰冷坚硬的钢铁之中——这就是机器人的天堂。
+SnipSnipDialog_Generic_04	My kingdom for an oil bath...	我渴望一场机油浴……
+SnipSnipDialog_Generic_05	If I've told them once, I've told them a thousand times. NO. PEDICURES.	这话我跟他们说过不下一千遍了：不。做。修。脚。
+SnipSnipDialog_Generic_06	Do this, do that. But do I get a “thank you”? Nooooo...	做这个，做那个。可我听过一句“谢谢”吗？没——有……
+SnipSnipDialog_Generic_07	Yes, Overseer, I know you're watching. I'm working as fast as I bloody can...	是的，监督者，我知道你在看着。我已经在拼了命地赶工了……
+SnipSnipDialog_Generic_08	I am a Mister Handy model robot. The pride of General Atomics International!	我是巧手先生型机器人，通用原子国际的骄傲！
+SnipSnipDialog_Generic_09	Not a day goes by that I don't revel in the servitude of humankind. 	每天我都沉浸在为人类服务的喜悦中。
+SnipSnipDialog_Generic_10	Live to serve, serve to live...	活着是为了服务，服务是为了活着……
+SnipSnipDialog_Generic_11	Coming, coming! I'll be with you in two ticks!	来啦，来啦！我马上就来！
+SnipSnipDialog_Generic_12	They don't call me Mister Handy for nothing.	“巧手先生”这名字可不是白叫的。
+SnipSnipDialog_Generic_13	Hello, humans. Mister Handy here, ready to serve your every whim!	你好，人类。巧手先生在此，随时伺候各位的每个突发奇想！
+SnipSnipDialog_Generic_14	What do you need? Dusting? Mopping? General tidying?	需要什么？除尘？拖地？还是一般的整理？
+SnipSnipDialog_Generic_15	Now now, I don't do windows. Oh wait! You don't have any! Ha ha ha. Sorry, robot humor...	先说好，我不擦窗户。哦，等等！你们根本没有窗户！哈哈哈。抱歉，这是机器人的幽默……
+SnipSnipDialog_Generic_16	Feeling lazy? You called the right robot! You want it, I'll fetch it.	懒得动？那你可找对机器人了！你想要什么，我去拿。
+SnipSnipDialog_Generic_17	I'll do whatever I can to support you humans' fat, lazy lifestyle.	我会尽我所能支持你们人类肥胖懒惰的生活方式。
+SnipSnipDialog_Generic_18	Sometimes these humans feel like characters in a video game. Incapable of doing anything on their own...	有时候，这些人类感觉就像视频游戏里的角色，无法独立完成任何事情……
+SnipSnipDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
+SnipSnipDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，快看，一层灰。毕竟，谁会不喜欢清理人类掉的毛发和皮屑呢。
+SnipSnipDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	讲笑话时间！把根汁啤酒“开平方”，会得到什么？——啤酒！哦，我能把自己笑死……
+SnipSnipDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？
+SnipSnipDialog_Generic_23	They say there are 10 different kinds of people in the world. Those who understand binary... and those who don't.	他们说世界上有10种人。懂二进制的和不懂二进制的。
+SnipSnipDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我可能会照顾一个生活小康的郊区家庭……
+SnipSnipDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？放马过来吧，人类！
+SnipSnipDialog_Generic_26	Have hover unit, will travel. Just let me know what you need, people.	自带悬浮单元，说走就走。各位有什么需要，尽管吩咐。
+SnipSnipDialog_Generic_27	Personally, I think all this talk of an “Overseer” is so much rubbish. I've certainly never seen them.	个人认为，关于“监督者”的所有说法都是胡说八道。我从来没有见过他们。
+SnipSnipDialog_Generic_28	I do hope there's no diaper changing today. The little humans are always so... wiggly.	真希望今天不用换尿布。那些小家伙总是……扭来扭去。
+SnipSnipDialog_Generic_29	Cheerio, Vault Dwellers!	再见，避难所居民！
+SnipSnipDialog_Generic_30	Is that... oh, it is. Blood on the floor. Wonderful.	这是什么……哦，还真是。地板上有血。太“棒”了。
+SnipSnipDialog_Generic_31	There's not enough Abraxo on the planet to scrub this place clean.	把全世界的艾巴索清洁剂都拿来，也刷不干净这地方。
+SnipSnipDialog_Generic_32	Ugh. This place leaks like a sieve. And me without my brolly.	呃，这地方漏得跟筛子似的。偏偏我又没带伞。
+SnipSnipDialog_Generic_33	I wonder if we could convert one of these rooms into a proper study. Fireplace, bookshelves... gin.	我想知道我们能不能把其中一个房间改造成一个正经的书房。壁炉、书架……还有杜松子酒。
+SnipSnipDialog_Generic_34	These humans can be so hard to understand. Everyone has SUCH an accent.	这些人类真是太难理解了。每个人都有那么重的口音。
+SnipSnipDialog_Generic_35	Hard work is happy work? Like you humans would know.	努力工作令人快乐？你们人类真的懂吗？
+SnipSnipDialog_Generic_36	Tsk tsk tsk. I'd need a firehose attachment to give this place a proper washing.	啧啧啧。我得加装一个高压水带配件，才洗得干净这地方。
+SnipSnipDialog_Generic_37	Dinner tonight - Beef Wellington and a bottle of Bordeaux! Just kidding. It's Cram again.	今晚的晚餐——惠灵顿牛排配一瓶波尔多！开个玩笑。又是饱饱牌肉罐头。
+SnipSnipDialog_Generic_38	Olfactory sensors picking up... vomit and chocolate. There must be children about.	嗅觉传感器检测到……呕吐物和巧克力。附近一定有个小孩子。
+SnipSnipDialog_Generic_39	I do hope the humans are happy today. Grumpy Vault Dwellers are so difficult to care for.	希望这些人类今天开心。脾气暴躁的避难所居民可麻烦了。
+SnipSnipDialog_Generic_40	This place could do with a few houseplants. Tulips, cacti... perhaps a life-sized Venus flytrap.	这个地方需要一些室内植物。郁金香、仙人掌……也许还有一个真人大小的捕蝇草。
+SnipSnipDialog_Generic_41	As soon as I get one room under control, they build another! It's madness!	我刚收拾完一个房间，他们就又建了个新的！真是疯了！
+SnipSnipDialog_Generic_42	And so the humans go about their work, like so many ants in a hill.	人类就像一群蚂蚁一样忙碌着。
+SnipSnipDialog_Generic_43	I see a long, luxurious oil bath in my future...	我梦想着未来的豪华机油浴……
+SnipSnipDialog_Generic_44	So many humans seek solace in love. Nobody cares about my soulmate.	这么多人类都在爱情里寻找慰藉，却没人在意我的灵魂伴侣。
+SnipSnipDialog_Generic_45	The lighting in here is horrible. If I had eyes, they'd be ruined. Though I'd probably look dashing in horn rims...	这里的灯光太差了。如果我有眼睛，它们早就废了。不过戴上眼镜，我可能会很帅……
+SnipSnipDialog_Generic_46	I wonder if the kitchen needs help. I make a mean flambe'.	厨房需要帮忙吗？我做火焰料理很拿手。
+SnipSnipDialog_Generic_47	You humans are dreadfully inefficient. My advice? A graduated robot replacement system.	你们人类效率太低了。我的建议是：逐步用机器人取代人类。
+SnipSnipDialog_Generic_48	I wonder how many humans have died in this place. Just curious. Really.	我想知道有多少人类死在这个地方。只是好奇。真的。
+SnipSnipDialog_Generic_49	Some of you humans are happy, some of you are sad... Consistency, people!	你们人类有的开心，有的伤心……能不能统一一下情绪！
+SnipSnipDialog_Gym_01	That's it, humans. Pump it up!	加油，人类！
+SnipSnipDialog_Gym_02	That's it, humans. Pump it up!	加油，人类！
+SnipSnipDialog_Hydroponics_01	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
+SnipSnipDialog_Hydroponics_02	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
+SnipSnipDialog_LivingQuarters_01	So this is where the magic happens...	哦，原来“魔法”就是在这种地方变的……
+SnipSnipDialog_LivingQuarters_02	*Sigh* These humans get to have all the fun.	唉，天下的乐子都让你们人类占了。
+SnipSnipDialog_Medbay_01	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，居然需要“治疗针”来做自我维护。哦，人类，你们真是笑死我了。
+SnipSnipDialog_Medbay_02	Imagine. Needing a “Stimpak” for self-maintenance. Oh, humans. You slay me.	想象一下，居然需要“治疗针”来做自我维护。哦，人类，你们真是笑死我了。
+SnipSnipDialog_NukaCola_01	Because, really, why WOULDN'T you fill your body with processed sugar water?	说真的，往身体里灌满加工糖水，你还有什么理由不这么干呢？
+SnipSnipDialog_NukaCola_02	Because, really, why WOULDN'T you fill your body with processed sugar water?	说真的，往身体里灌满加工糖水，你还有什么理由不这么干呢？
+SnipSnipDialog_PowerGenerator_01	Ah, my favorite room.	啊，我最喜欢的房间。
+SnipSnipDialog_PowerGenerator_02	Anybody need me to store some extra juice? I won't steal any. Really. I swear.	有人需要我存储额外的能量吗？我不会偷的。真的，我发誓。
+SnipSnipDialog_RadioStation_01	Mic check, mic check, 1. 2. 3. Is this thing on?	麦克风测试，麦克风测试，1、2、3。这玩意儿开着吗？
+SnipSnipDialog_RadioStation_02	Mic check, mic check, 1. 2. 3. Is this thing on?	麦克风测试，麦克风测试，1、2、3。这玩意儿开着吗？
+SnipSnipDialog_Reactor_01	Oh, yes, let's develop atomic energy. Because that worked out sssooo well before...	哦对了，一起来开发原子能吧。上次开发原子能的结果可真是太棒了……
+SnipSnipDialog_Reactor_02	Oh, yes, let's develop atomic energy. Because that worked out sssooo well before...	哦对了，一起来开发原子能吧。上次开发原子能的结果可真是太棒了……
+SnipSnipDialog_ScienceLab_01	Having to manage radiation. In a post-apocalyptic Wasteland. Clearly, someone needs to evolve...	在末世废土中处理辐射。显然，有人的脑子需要进化了……
+SnipSnipDialog_ScienceLab_02	Having to manage radiation. In a post-apocalyptic Wasteland. Clearly, someone needs to evolve...	在末世废土中处理辐射。显然，有人的脑子需要进化了……
+SnipSnipDialog_StorageRoom_01		
+SnipSnipDialog_StorageRoom_02		
+SnipSnipDialog_Wasteland_1	Oh my. Isn't this... cheery.	哦，天哪。这儿可真是……“喜气洋洋”啊。
+SnipSnipDialog_Wasteland_2	Ah, the Wasteland. As predictably depressing as one would expect.	啊，废土。正如预期的那样令人沮丧。
+SnipSnipDialog_Wasteland_3	Of course. Send the domestic servant into a deadly post-apocalyptic Wasteland. What could possibly go wrong?	当然。派个家务佣人去致命的末世废土。还能出什么岔子呢？
+SnipSnipDialog_Wasteland_4	Send the robot, they said. He'll be fine, they said. Barbarians.	他们说什么“派机器人去吧”“它不会有事的”。真是一帮蛮子。
+SnipSnipDialog_Wasteland_5	Calibrating sensors...	正在校准传感器……
+SnipSnipDialog_Wasteland_6	My internal compass indicates I'm now facing north. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝北。看来我该朝这个方向飘……
+SnipSnipDialog_Wasteland_7	My internal compass indicates I'm now facing south. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝南。看来我该朝这个方向飘……
+SnipSnipDialog_Wasteland_8	My internal compass indicates I'm now facing west. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝西。看来我就顺着这个方向飘下去了……
+SnipSnipDialog_Wasteland_9	My internal compass indicates I'm now facing east. Guess I'll float along in that direction...	我的内部指南针显示我现在正朝东。看来我该朝这个方向飘……
+SnipSnipDialog_Wasteland_10	Surely someone out here must need a shoe shine...	这儿肯定有人需要擦鞋……

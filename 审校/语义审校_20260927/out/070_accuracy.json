@@ -1,0 +1,31 @@
+{
+ "chunk": "070",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_7_Response_3",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "鼓励被译成了责备。EN 是队友说「我有点害怕」之后的打气：「It'll be okay」式的 stay strong＝撑住、别被吓倒；ZH「别犯怂啊」把矛头指向对方胆小（指责属性），立场从「我挺你」变成「你别怂」，语气也重了一档——Darn it 只是轻轻的懊恼感叹，译成「该死的」接近咒骂。德语版此处为 Verdammt, bleib stark!（撑住），同样没有责怪对方胆小。",
+   "fix": "唉，撑住啊！我们需要你！",
+   "confidence": "medium"
+  },
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_15_Response_2",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "第三个猜测的主语「人」丢了。EN 三个猜测是递进的怪声：尖叫？音乐？有人跟着音乐一起尖叫（Someone screaming along to music）——主语是「某个人」，画面是有人在跟着音乐吼；ZH 写成「伴随着音乐的尖叫声」，把 someone 丢掉后变成了「一种声音现象」，跟前一项「尖叫声」几乎重复，递进的荒诞感没了。德语版保留了人：Jemand, der zur Musik schreit?",
+   "fix": "尖叫声？音乐？还是有人跟着音乐在尖叫？",
+   "confidence": "medium"
+  },
+  {
+   "key": "Speech_Quest_Generic_Dweller_Conversation_22_Response_3",
+   "severity": "S3",
+   "type": "语气",
+   "problem": "反讽的否定被翻成了正面直陈。EN 是教科书式的冷面反讽「Wow. That's not a loaded question at all.」——「这问题可真是一点坑都不带啊」，笑点全在这个「否定」上；ZH「这可真是个别有用心的问题」把否定抹掉、直接下结论，玩家虽然还是能读出「这是个陷阱问题」，但说话人的机锋（假装这问题很无辜）没了。德语版保留否定：Das ist ja überhaupt keine Fangfrage.",
+   "fix": "哇。这问题可真是一点坑都没有啊。",
+   "confidence": "medium"
+  }
+ ]
+}

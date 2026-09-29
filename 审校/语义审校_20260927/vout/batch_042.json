@@ -1,0 +1,110 @@
+{
+ "batch": 42,
+ "items": [
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN move 指摔跤招式，ES/FR/IT/DE/RU 均为「招式/擒技」，ZH「一步」变成步法走位，被打败时的赞叹错位。",
+   "final_fix": "哦不！好厉害的招式！我们完蛋了！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「大招」尚可对应 signature move，但「传说中的」在 EN 无任何对应，是凭空加的传奇色彩；招牌技更贴 signature。",
+   "final_fix": "看好了，我们的招牌技——辐射蝎锁！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_1_Team_3",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "counter-move 译「回应」丢掉招式对应；「就是我们会把你们都杀了」照搬 EN 语序生硬；「破解招」非通用说法。",
+   "final_fix": "我们的反击招数就是把你们全杀了！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 的 wrestling 在 ZH 中消失，wrestling name 落成娱乐圈用词「艺名」，还多出「一些」；擂台名才对得上。",
+   "final_fix": "你们想留下来的话，得有个帅气的擂台名！"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_3_NPCEnd_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN「But yeah, of course!」的反讽让步由「不过…拿去吧」承接，语义语气都成立，多出的条件句只是口语补足。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_3_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN my last match 是冠军本人，ES/FR/DE/RU 皆第一人称单数；ZH「我们」把个人比赛说成团队比赛，人称数错。",
+   "final_fix": "拿着吧，我上一场比赛的奖品。"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_3_NPCStart_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "undisputed=无可争议，「毫无疑问就是」与「重量级比赛的冠军」都通顺达意，只是措辞啰嗦，属风格偏好。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_VaultopolisAwaits_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 句尾 otherwise known as Vaultopolis 整句消失，与任务目标／简述里的「避难所大都会」断链，wannabe 也漏。",
+   "final_fix": "宝拉·普朗布金到头来其实只是个妄想当掠夺者的坏蛋，但至少她告诉了我们525号避难所的位置，也就是所谓的避难所大都会！"
+  },
+  {
+   "key": "QuestLoc_WalkofShame_Conversation_1_NPCStart_1",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN「Well」在拒绝语境下译成「不好意思」是中文常见的假客气，与「别想得到他」不重复，整句通顺。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 用破折号把 Trippies 作 fans 的同位语，ZH 改成逗号并列后读成第三个阵营，指代关系丢失。",
+   "final_fix": "现在有《太空旅行》的粉丝“趣皮士”，也有《宇宙碰撞》的行家。"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN have to 的命令语气被「赶紧…吧」的提议语气取代，bring to their senses 落成随意的「正常点」。",
+   "final_fix": "你必须让他们恢复理智！"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN get right on it 是马上着手办，ES/DE/RU 同为「去办」；ZH「说到」把行动换成提及，属误译。",
+   "final_fix": "好，我们这就去办。主要的派系有哪些？"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN lay down our arms 是放下武器／停火，ZH「放松」整层丢掉；episode（那一集）也弱化成泛指的「剧情」。",
+   "final_fix": "正确！让我们都放下武器，重温一下那集经典吧。"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Set masers to carbonize 是「把微波激射器调到碳化」，ZH 照搬语序成「设置…碳化」，缺「为／到」不成搭配。",
+   "final_fix": "呸！微波激射器，调到碳化档！"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 是 Only one way to find out 的完整句，ZH「只有通过…来找出答案」缺主句与「才」，是残句。",
+   "final_fix": "想弄清楚，只有一个办法：回答下面这个问题。"
+  }
+ ]
+}

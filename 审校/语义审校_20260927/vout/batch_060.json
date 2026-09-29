@@ -1,0 +1,110 @@
+{
+ "batch": 60,
+ "items": [
+  {
+   "key": "QuestLoc_Blackout_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Auto Plant 被拆成「自动化工厂」，Auto 实为汽车；ES 汽车厂、DE Autofabrik 均证，同项目 Corvega Factory 作「可伟佳装配厂」。",
+   "final_fix": "在可伟佳汽车厂里寻找杰克。"
+  },
+  {
+   "key": "QuestLoc_Blackout_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "「儿子，杰克，在」照搬英文同位语两逗号，中文同位语不加逗号；is missing 同项目长描述作「失踪」，非「消失」。",
+   "final_fix": "监督者的儿子杰克在一场疯狂的新年派对后失踪了！"
+  },
+  {
+   "key": "QuestLoc_BountyOlOneEye_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 是一般现在时 is，译文加「会」；meanest 指蟑螂凶，译「卑鄙」是道德词，搭配失当，应为「最凶」。",
+   "final_fix": "呃，“独眼龙”是你们见过的最凶的辐射蟑螂。"
+  },
+  {
+   "key": "QuestLoc_BountyYak_QuestLongDescription",
+   "verdict": "reject",
+   "severity": "S3",
+   "reason": "EN 只有 snackcake，无品牌；「俏男孩」是 Fancy Lads 的合法对应，译文未凭空添品牌，fix 反而多余。",
+   "final_fix": ""
+  },
+  {
+   "key": "QuestLoc_ByHookorbyCook_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "上句刚说 I give this place one star，establishment 指这家餐馆；译「好企业」把店的指代换成企业，走味。",
+   "final_fix": "这照样说明我们是一家有档次的店！"
+  },
+  {
+   "key": "QuestLoc_ByHookorbyCook_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "make/cook one's last meal 译成「做……最后一顿烹饪」把饭变成作品，「烹饪」不能搭「做一顿」，狠话被读成评菜。",
+   "final_fix": "厨师，这是你这辈子做的最后一顿饭了。"
+  },
+  {
+   "key": "QuestLoc_ByHookorbyCook_Conversation_1_Team_3",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "rolled fondant=翻糖，项目 Speech_Conversation_NPC2_Topic4_Response2 即用「翻糖」，「软糖」对应 fudge。",
+   "final_fix": "你居然在所有蛋糕上都用翻糖，你会为此付出代价的！"
+  },
+  {
+   "key": "QuestLoc_CheerfortheGhouls_Conversation_2_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN Helpers 为复数，德语 Ihr、俄语 Вы 均为复数；译「你是」单数，与同对话多处「你们」不一致。",
+   "final_fix": "你们就是圣诞老人的帮手吧？"
+  },
+  {
+   "key": "QuestLoc_CheerfortheGhouls_Conversation_2_Team_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "EN 两处 you、一处 us 均复数，译文「你不能」单数又接「你们」；「而且」是 EN 没有的连接词，反问前不通。",
+   "final_fix": "你们不能杀了我们！你们觉得圣诞老人会怎么想？那可是要永远上“坏孩子”名单的事！"
+  },
+  {
+   "key": "QuestLoc_ChristmasattheRaiderCamp_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Ho Ho 是圣诞老人笑声，与 Hole 同音双关；DE「Ho-Ho-Hohlspitz」、IT「Tanti, tanti」均保留，独译「脑子有洞！」丢梗。",
+   "final_fix": "呵呵，你脑袋上有个洞！"
+  },
+  {
+   "key": "QuestLoc_CleanUpOnAisleFive_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Raiders 与 preying on 同根，中文「掠夺者在掠夺」重复刺眼；prey on the locals 即「祸害当地人」，宜换词破重复。",
+   "final_fix": "有一伙掠夺者一直在祸害当地居民，还占了大无敌超市当总部。快去拿下他们的首领！"
+  },
+  {
+   "key": "QuestLoc_CleaningHouse_Question2_Answer2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "chems 在《辐射》指药物/药剂（项目多处译「药物」「药剂」），译「化学品」变成工业化学品，含义走偏。",
+   "final_fix": "这正是我想听到的。我去拿药物！"
+  },
+  {
+   "key": "QuestLoc_CollectorsEdition_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Does that mean…? 是口语追问，译文「这是否意味着」是公文体；玩家对白说不出口，改为「这么说」。",
+   "final_fix": "这么说，你已经把它从盒子里拿出来了？"
+  },
+  {
+   "key": "QuestLoc_CollectorsEdition_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "mint condition 是口语「崭新/完好」，「仍然处于全新状态」为说明书腔，「仍然处于……状态」夹在对白里突兀。",
+   "final_fix": "别担心，它还是全新的。"
+  },
+  {
+   "key": "QuestLoc_CollectorsEdition_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "still in his original box 被拆成「他还在他的原来的盒子里」两个「他」且机器人用人称，原装盒子的定语关系丢失。",
+   "final_fix": "我们听说当地的掠夺者在一个废弃的工业建筑里发现了一个崭新的巧手先生，还装在原装的盒子里。我们应该设法在这个宝贝被那些掠夺者毁掉之前把它拿到手。"
+  }
+ ]
+}

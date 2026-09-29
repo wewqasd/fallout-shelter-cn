@@ -1,0 +1,110 @@
+{
+ "batch": 29,
+ "items": [
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "getting through 是“闯过/过他们这一关”；ZH“通过…们”让 通过 读成“经其批准”，引号后的“们”也悬空。",
+   "final_fix": "这意味着你得先过“战争崇拜者”那一关。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I'll get right on that 是“我这就去办”，ZH“我马上就可以”谓语残缺；Whatever you say 也非“听从你的意见”。",
+   "final_fix": "当然。都听你的。我这就去办。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "just started using it one day＝“有一天就这么用起来了”，ZH“才刚刚开始用了一天”把 one day 误作时长。",
+   "final_fix": "暗号！有一天，一些掠夺者突然开始用起来了，不过我觉得是有人给他们出的主意。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "murder on the throat 是习语“太费嗓子”，Do we have a deal 是“说定了吗”；ZH 两句直译，不地道但含义尚存。",
+   "final_fix": "*咳嗽*抱歉。这么说话太费嗓子了。说定了吗？"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_Conversation_3_Team_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "after all 是插入状语，ZH 照搬逗号切成“你，毕竟是，最强大的骑士”割裂主谓；Absolutely 也不是“好的”。",
+   "final_fix": "当然。毕竟你是最强大的骑士。"
+  },
+  {
+   "key": "QuestLoc_ParleyTime_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 的 to find out what he wants（弄清他想要什么）在 ZH“但值得冒这个风险！”里毫无对应，冒险目的整句丢失。",
+   "final_fix": "骑士“战争”邀请我们去讨论共同感兴趣的事情。他的信使告诉我们战争崇拜者会杀了我们，但为了弄清他想要什么，这个险值得冒！同时，我们应该留心每周博览会记者，在他们谈论核子可乐后使用暗号“鹰”。"
+  },
+  {
+   "key": "QuestLoc_PartyCrasher_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "it got lost in the mail 是“在邮寄途中弄丢”，ZH 却译成“我忘在邮箱里”，归责与原意都变了；回复句“邮箱？”宜同步改“邮件？”。",
+   "final_fix": "邀请？就当它是在邮寄路上弄丢了吧。"
+  },
+  {
+   "key": "QuestLoc_PittStop_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "lurking 是“在后院附近出没”，ZH“欺行霸市”加了商业义、丢了潜伏义；the last thing we need＝最不希望。",
+   "final_fix": "几天前，一群全副武装的掠夺者袭击了一个商队，还带走了几名定居者，估计是打算把他们当作奴隶。虽然知道他们最后出现的地点和移动方向，但没人能找到他们的行踪。我们得派些可靠的人去追查并解救被绑架的定居者，并消灭这些奴隶贩子。我们最不希望的就是他们还在我们后院附近游荡。"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S1",
+   "reason": "the others/the rest 指其他辐射蟑螂，ZH“大家/其他人”把指代换成人；frenzy 是“发狂”非“逼疯”。",
+   "final_fix": "她会让其他辐射蟑螂发狂。如果你杀了她，我们就能把剩下的都围捕起来。"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_3",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "Of the Apocalypse 承接上句“四骑士之一”，ZH“末日，是的”缺中心语；但 fix 的“天启”与全篇既定的“末日骑士”冲突。",
+   "final_fix": "末日四骑士之一，没错。我猜是有人冒用了这个名字，招募了一批追随者。"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "At any rate 此处是转话题的“话说回来”，have you killed... yet 宜作“把…干掉了吗”；ZH 机翻腔且漏“辐射”。",
+   "final_fix": "话说回来，你们把辐射蟑螂女王干掉了吗？"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Never mind that 是“那个先别提”，ZH“请别介意”成了道歉用语（请对方别放在心上），说话行为与原意不同。",
+   "final_fix": "先别提那个了。“瘟疫”是怎么回事？那不是四骑士中的一个吗？"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_Conversation_2_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "The Plagued 是“染疫者”，ZH 译成动作“蔓延”；would have been 是虚拟语气“本来会好得多”。",
+   "final_fix": "叫“染疫者”或者“传染病”本来会好得多。"
+  },
+  {
+   "key": "QuestLoc_RadroachRoundup_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "they were studying 的 they 指科学家本人，ZH 里“从科学家研究的辐射蟑螂手中拯救他们”指代打架，谁救谁要读两遍。",
+   "final_fix": "从他们自己研究的辐射蟑螂手中救出科学家。"
+  },
+  {
+   "key": "QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "what do we have here 是撞见人时说的“瞧瞧这是谁来了”，ZH 误读成“我们现在是什么情况”，把挑衅变成自问。",
+   "final_fix": "哈，瞧瞧这是谁来了？"
+  }
+ ]
+}

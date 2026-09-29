@@ -1,0 +1,63 @@
+{
+ "chunk": "063",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_ZinesFromtheCommonwealth_QuestlineName",
+   "severity": "S1",
+   "type": "误译",
+   "problem": "EN 的 Zines 是 fanzine 的简称，指同人杂志／独立小刊物，不是人名；各语言版本都按“杂志、出版物”处理（ES Revistas de la Commonwealth、DE Magazine aus dem Commonwealth、RU Издания Содружества）。译文把它当专名音译成“扎因斯”，等于凭空造出一个叫“扎因斯”的人物或地点，玩家会以为这条任务线是去找某个叫扎因斯的人。",
+   "fix": "来自联邦的杂志",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WorstCoachEver_Conversation_1_NPCStart_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "墙上的喷漆是教练留下的嘲讽话。Getting Warmer 是“热/冷”猜谜说法，意为“你越来越接近了、快找对地方了”（FR「On se rapproche」、ES「Caliente, caliente」都是此意），并非天气变暖。译文“越来越暖和了”读起来在讲气温，玩家接不上下一句“一定是教练！他在嘲笑我们！”。",
+   "fix": "“越来越近了”",
+   "confidence": "medium"
+  },
+  {
+   "key": "RoomType_Utility_Description",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "同组四条分别是“消耗品说明／设施说明／生产说明／训练说明”，与各自的类别名一一对应；UTILITY 的类别名译作“公用设施”，这里却写成“功效说明”。“功效”指药效、作用，既不是 Utility 的意思，也和本表自己的类别名对不上（其它语言版本该条均与类别名一致，如 DE Servicebereich／Beschreibung zum Servicebereich）。",
+   "fix": "公用设施说明……",
+   "confidence": "medium"
+  },
+  {
+   "key": "RoomUnlocked",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "这是新房间解锁时弹出的状态通知，EN 是“已解锁”的完成态（ES SALA DESBLOQUEADA、DE RAUM ENTRIEGELT、RU Открыта новая комната 均为已解锁）。译文“解锁房间”是动词短语，且与游戏里真正的按钮文本 UnlockRoom（UNLOCK ROOM＝解锁房间）完全同形，玩家会误以为这是让他去点按钮解锁，而不是提示已解锁。",
+   "fix": "房间已解锁",
+   "confidence": "medium"
+  },
+  {
+   "key": "RoomLevel_Mega",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "房间等级标签。同一组里 ADVANCED 译作“高级”，最高档的 MEGA 却只译成一个光秃秃的形容词“大”，单独立在等级栏里不成词，也丢掉了 MEGA 的“顶级、超大”意味（各语言版本都保留 MEGA／MÉGA／Мега）。",
+   "fix": "巨型",
+   "confidence": "medium"
+  },
+  {
+   "key": "Room_Casino_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "arcade 指街机厅／游戏厅（FR SALLE D'ARCADE、DE SPIELMEILE、RU Аркада），而“游乐场”在中文里是室外游乐场、操场之意——本作其它条目正是用它来译 playground（Encounter_Random_Message89“一个锈迹斑斑的老游乐场”）。避难所内的房间叫“游乐场”会让玩家以为是室外场地，也与同组“棋牌室（GAME ROOM）／游戏中心（GAMING CENTER）”的档次递进对不上。",
+   "fix": "游戏厅",
+   "confidence": "medium"
+  },
+  {
+   "key": "Quest_Dialog_1_1",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "What do we have here? 是劫掠者见到来客时的固定招呼，相当于“瞧瞧这是谁来了”；逐字译成“我们有什么呢？”在中文里像在自问手里有什么东西，劫掠者一见面这样说读不通（同一批文本里这句英文在别处都译作“你们是谁？/这是谁来了？”）。",
+   "fix": "瞧瞧这是谁？避难所居民？",
+   "confidence": "medium"
+  }
+ ]
+}

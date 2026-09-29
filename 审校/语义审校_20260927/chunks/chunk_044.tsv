@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_MyMetalPony_Conversation_1_NPCEnd_4	That doesn't even make sense!	那个简直不像话！
+QuestLoc_MyMetalPony_Conversation_1_NPCStart_1	Oh, hi there! Wasn't expecting to meet anyone today.	哦，你好呀。还以为今天不会有人来拜访我呢。
+QuestLoc_MyMetalPony_Conversation_1_NPCStart_2	We just found this great Giddyup Buttercup! We're...	我们刚发现了一匹超棒的奶油小马！我们……
+QuestLoc_MyMetalPony_Conversation_1_NPCStart_3	Why are you looking at me like that?	为什么用那种眼光看着我？
+QuestLoc_MyMetalPony_Conversation_1_NPCStart_4	Oh, no - you are NOT taking this!	哦，不，你不能拿走这个！
+QuestLoc_MyMetalPony_Conversation_1_Team_1	Hand over the toy.	把玩具交过来。
+QuestLoc_MyMetalPony_Conversation_1_Team_2	This is a one-horse town, buddy.	兄弟，整个小镇就只有这一匹马。
+QuestLoc_MyMetalPony_Conversation_1_Team_3	Drop the reins and step away.	放下绳子，站远点。
+QuestLoc_MyMetalPony_Conversation_1_Team_4	Give it up, or it's off to the glue factory for you.	放弃吧，不然下一个进胶水工厂的就是你！
+QuestLoc_MyMetalPony_QuestLongDescription	Will you use it for spare parts, or riding in your spare time? Up to you, you're the Overseer. Send Dwellers to get one!	你想用它来制造零件，还是在闲暇时间骑一骑？你说得算，谁让你是监督者。派你的居民们去弄一匹回来。
+QuestLoc_MyMetalPony_QuestName	My Metal Pony	我的小铁马
+QuestLoc_MyMetalPony_QuestObjective_1	Find a Giddyup Buttercup.	寻找奶油小马。
+QuestLoc_MyMetalPony_QuestShortDescription	Find a Giddyup Buttercup.	寻找奶油小马。
+QuestLoc_MyWeirdScienceProject_QuestLongDescription	What better way to learn about the deadly Glowing Radscorpion than first-hand observation? Send your research team to the monster's lair. Of course, you'll need to kill it first.	想要研究发光辐射蝎的致死性，有什么比亲自观察更好呢？派遣你的研究队深入怪兽洞穴吧。当然你得先杀了它。
+QuestLoc_MyWeirdScienceProject_QuestName	My Weird Science Project	奇怪的科学项目
+QuestLoc_MyWeirdScienceProject_QuestObjective_1	Eliminate the Glowing Radscorpion.	消灭发光辐射蝎。
+QuestLoc_MyWeirdScienceProject_QuestShortDescription	Kill the Glowing Radscorpion in the name of science!	以科学之名消灭发光辐射蝎！
+QuestLoc_NVB_QL2_Leftovers_1_QuestLongDesc	Some slick raiders breached our vault and made off with critical supplies. We traced them to an abandoned Vault-Tec site near the Strip.	一伙狡猾的掠夺者闯进我们的避难所，偷走了关键物资。我们一路追踪，追到新维加斯大道附近一座废弃的避难所科技基地。
+QuestLoc_NVB_QL2_Leftovers_1_QuestName	The Mother of All Brains	众脑之母
+QuestLoc_NVB_QL2_Leftovers_1_QuestObjective1	Confront the thieves' leader	与窃贼首领对峙
+QuestLoc_NVB_QL2_Leftovers_1_QuestObjective2	Uncover the true nature of the thieves	揭开窃贼的真面目
+QuestLoc_NVB_QL2_Leftovers_1_QuestObjective3	Reclaim our supplies	夺回我们的物资
+QuestLoc_NVB_QL2_Leftovers_1_QuestShortDesc	Hunt the bandits. End their thievery.	追捕那群匪徒。终结他们的偷窃行径。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1	Scanning... Vault-Tec Identification… Access granted.	正在扫描……避难所科技身份识别……验证通过。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer1	Experiment "Molespy" failure. Hostile creatures have taken over the building.	实验“鼹鼠间谍”失败。敌对生物已占领整栋建筑。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer2	Cannot comply. Resident mutated Mole rats control the facility.	无法照办。变异鼹鼠居民控制着该设施。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer3	“Stuff” undefined. “Brigands” undefined. Facility overrun by intelligent Mole rats.	“东西”未定义。“强盗”未定义。设施已被高智商的鼹鼠占据。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Choice1	Tell me more about this outbreak!	给我讲讲这次爆发的事！
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Choice2	Seal the building. Flood it with toxic gasses.	封锁大楼。释放毒气淹没它。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Choice3	Have you seen a group of brigands carrying a bunch of stuff?	你见过一群扛着一堆东西的强盗吗？
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line2	Alert: it has been <1> day since last subject breakout!	警报：距上次受试者逃跑已过去<1>天！
+QuestLoc_NVB_QL2_Leftovers_1_Question1	Who wanders woefully within our walls?	谁人凄凄惨惨漫步于吾辈之墙垣？
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Answer1	Better believe we bite back.	你最好相信，吾辈定当反咬。
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Answer2	Invaders' insults instigate immediate intervention.	入侵者之侮辱定招即刻之制裁。
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Answer3	Rational retorts reap its reward. Roam restraintlessly.	理智之对答必有厚报。请畅行无阻。
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Choice1	Holy Overseer! A talking Molerat! Can I pet you?	天哪，监督者在上！会说话的鼹鼠！我能摸摸你吗？
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Choice2	This ain't right. Vermin shouldn't talk.	这可不对。害虫不该会说话。
+QuestLoc_NVB_QL2_Leftovers_1_Question1_Choice3	We will wander where we want, wannabe wombat!	我们爱去哪儿就去哪儿，你这只自命不凡的袋熊！
+QuestLoc_NVB_QL2_Leftovers_1_Question2	Mother's mercy!	母亲的慈悲！
+QuestLoc_NVB_QL2_Leftovers_1_Question3	Silly squad sniffing for our stash? Stop swiftly or suffer slaughter	愚蠢小队嗅来嗅去找吾等之藏货？速速停手，否则休怪吾等大开杀戒！
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Answer1	Barbarian brutality!	野蛮残暴！
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Answer2	This token testifies to our thirst for tranquility. Take it and turn tail.	此物印证吾等对安宁之渴望。拿上它，速速掉头滚蛋。
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Answer3	Relentless resistance requires a rebutal.	顽固之抵抗必遭吾等严词反击。
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Choice1	So you admit guilt? Time to carve some Molerat steak!	所以你们认罪了？是时候切点鼹鼠肉排了！
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Choice2	Want us gone? Tell us where to find our stuff.	想让我们走？告诉我们东西在哪。
+QuestLoc_NVB_QL2_Leftovers_1_Question3_Choice3	Err... Beat it brood babies! This band will bust your base! See?	呃……滚开，一窝崽子！我们要端了你们的老巢！听见没？
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line1	There is a terminal in here.	这里有一台终端机。
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line1b	<Search for info>	<搜索情报>
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line2	Mole rats got brain implants. Failed as spies, but turned into thieves. 	鼹鼠被植入了大脑芯片。间谍是当不成了，却沦为窃贼。
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line3	Getting rid of the brood mother should end their mischief. But there's more...	除掉育母应该就能终结它们的恶行。但还有更多……
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line4	<Read about other failed experiments>	<阅读其他失败实验的记录>
+QuestLoc_NVB_QL2_Leftovers_1_Question4_Line5	More facilities to shut down? Let's finish here and investigate.	还有更多设施要关闭？先解决这里，再去调查。
+QuestLoc_NVB_QL2_Leftovers_1_Question5	Hey! Caps, junk, outfits. Our stolen stuff is here. Let's grab it and leave.	嘿！瓶盖、杂物、装备。我们被偷的东西在这儿。拿了就走。
+QuestLoc_NVB_QL2_Leftovers_1_Question5_Answer1	Wait! Are Mole rats rodents?	等等！鼹鼠算啮齿动物吗？
+QuestLoc_NVB_QL2_Leftovers_1_Question5_Choice1	Still gotta put a stop to these rodents, though...	不过还是得把这群啮齿鼠辈收拾了……
+QuestLoc_NVB_QL2_Leftovers_1_Question6	Behold the brainiac brood mother! Bow before your better.	瞻仰智力超群之育母吧！向你的尊长俯首称臣。
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Answer1	Pitiful pun proves your poor perspicacity. Prepare to perish.	拙劣之谐音恰证尔等洞察之匮乏。准备受死吧。
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Answer2	A vitriolic vindication of our violence versus villains.	这是对吾等向恶徒施加正义惩戒的辛辣辩白。
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Answer3	Stay silent, sinister strangers, and succumb to our strike!	闭嘴吧，阴险的陌生人，在吾等的猛击下受死！
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Choice1	Fancy speech for what amounts to a quaint group of bandits! Mole-pi-rats?	对于一帮微不足道的匪徒团伙来说，这番说辞未免太高雅了吧！叫你们“鼹盗”如何？
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Choice2	The novelty of talking Mole rats has worn off. Time for some pest control.	会说话的鼹鼠这股新鲜劲已经过去了。该灭鼠了。
+QuestLoc_NVB_QL2_Leftovers_1_Question6_Choice3	Man! I'm trying to match your speech, but alliterations are hard!	老天！我想学你的说话方式，可头韵真难！
+QuestLoc_NVB_QL2_Leftovers_2_QuestLongDesc	When we shut down the Molerat gang, we uncovered a series of failed experiments, each one a threat the security of New Vegas. The next one concerns Ghouls.	当我们捣毁鼹鼠帮派时，我们发现了一系列失败实验，每一个都威胁着新维加斯的安全。下一个实验与尸鬼有关。
+QuestLoc_NVB_QL2_Leftovers_2_QuestName	One of Us	我们中的一员
+QuestLoc_NVB_QL2_Leftovers_2_QuestObjective1	Put an end to unity	终结心智统一
+QuestLoc_NVB_QL2_Leftovers_2_QuestShortDesc	Investigate the Vault-Tec Ghoul mind-control experiment	调查避难所科技的尸鬼精神控制实验
+QuestLoc_NVB_QL2_Leftovers_2_Question0	Welcome! We are one. Listen to our voice. Speak to our collective mind.	欢迎！我们是一体的。聆听我们的声音。与我们共同的思想对话。
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Answer1	Please address us when you speak about us! We are peace incarnate. Case in point: you may pass.	在谈论我们时，请直接对我们说！我们就是和平的化身。举个例子：你可以通过。
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Answer2	We ended envy. We erased strife. Is that failure? We worried about what you deem success.	我们消除了嫉妒。我们抹去了纷争。这算失败吗？我们倒担心你们所谓的成功。
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Answer3	Oh, naive child of discord! If only you had tasted our serenity.	哦，天真的纷争之子！你若能尝到我们的宁静该多好。
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Choice1	What the heck? Did these Ghouls grow a hivemind?	搞什么鬼？这些尸鬼长出集体意识了？
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Choice2	Pfft… Another failed experiment, I see.	切……我看又是一次失败实验。
+QuestLoc_NVB_QL2_Leftovers_2_Question0_Choice3	Groupthink! This must be a commie's ploy! To arms!	集体思维！这肯定是共产主义的阴谋！准备战斗！
+QuestLoc_NVB_QL2_Leftovers_2_Question1	Stop the assault. Join us. We have fresh meat.	停止进攻。加入我们吧。我们有新鲜肉。
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Answer1	Bob is meat. You are meat. We are meat. Let us show you.	鲍勃是肉。你是肉。我们是肉。让我们给你看看。
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Answer2	Loneliness is a fate worse than death. We will grant you peace, and bolster our pantry.	孤独是比死亡更糟的命运。我们会赐予你安宁，同时充实我们的食物储备。
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Answer3	Then we'll quell the turbulence, and add you to the meat reserve.	那我们会平息这份躁动，把你加进肉库。
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Choice1	Is the fresh meat Bob? He went missing near here.	那新鲜肉是鲍勃吗？他在附近失踪了。
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Choice2	Sure let's have a barbecue, as you strip us of what makes us unique!	好啊，来吧，一边烧烤，一边剥夺我们独一无二的东西！
+QuestLoc_NVB_QL2_Leftovers_2_Question1_Choice3	You wouldn't want my mind in your mix. It's… disturbed.	你不会想让我这样的头脑混进你们的。它……不太正常。
+QuestLoc_NVB_QL2_Leftovers_2_Question2	Please, hear us out. Don't you seek freedom from anxiety? No more hatred. No more resentment.	请听我们说完。你难道不寻求摆脱焦虑的自由吗？不再有仇恨。不再有怨恨。
+QuestLoc_NVB_QL2_Leftovers_2_Question2_Answer1	Boring? When every voice sings in unison? Think on it, wanderer.	无聊？当每一道声音齐声唱和，还会无聊？想想吧，旅人。
+QuestLoc_NVB_QL2_Leftovers_2_Question2_Answer2	Oh… well, truthfully, we didn't expect a yes. Give us a day to… consider.	哦……好吧，说实话，我们没想到会得到肯定的回答。给我们一天……考虑一下。
+QuestLoc_NVB_QL2_Leftovers_2_Question2_Choice1	Must be boring being you then.	那你们自己肯定很无聊。
+QuestLoc_NVB_QL2_Leftovers_2_Question2_Choice2	You know what? You make a good case. Where do I sign?	你知道吗？你说得有理。在哪签字？
+QuestLoc_NVB_QL2_Leftovers_2_Question2_Choice3	Let's see if you still feel nothing when you're full of lead.	我倒要看看，等你吃满铅弹，还会不会心如止水。
+QuestLoc_NVB_QL2_Leftovers_2_Question3	Did you know: 75% of wastelanders fantasize about Ghouls? Become part of a post-nuclear harem, like us.	你知道吗：75%的废土人都幻想过尸鬼？像我们一样，加入一个核后时代的后宫吧。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Answer1	That's because you've never been to one of our soirées. Your loss.	那是因为你从没参加过我们的沙龙。亏大了。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Answer2	Division. Dissension. Enjoy your touchless minority.	分裂。异议。享受你那无人触碰的少数派地位吧。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Answer3	There is no end to us, as we are many.	我们数不胜数，永远不会被终结。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Choice1	I'll pass. My love life doesn't involve irradiated flesh.	我算了。我的感情生活可不牵扯辐射皮肉。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Choice2	Guess I'm in the other 25%. No thanks.	看来我是另外那25%。谢了，不了。
+QuestLoc_NVB_QL2_Leftovers_2_Question3_Choice3	You're really pushing this sales pitch. You know we're here to end you, right?	你这推销词可真是穷追不舍。你知道我们是来终结你们的，对吧？
+QuestLoc_NVB_QL2_Leftovers_2_Question4	Raaaaaaaagh!	啊啊啊啊啊！
+QuestLoc_NVB_QL2_Leftovers_2_Question4_Choice1	Is that a wild Deathclaw? Or part of the hivemind? No matter: it's charging!	那是只野生死爪？还是集体意识的一部分？管他呢：它冲过来了！
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line1	Join our community. We are the ultimate state of the free man.	加入我们的社群。我们就是自由人的终极形态。
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line1_Answer1	We can resolve this, by eating YOUR brain!	我们有办法解决，只要吃掉你的大脑！
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line1_Answer2	Typical self-centered mindset. Get rid of that self. Here, we will help you.	典型的自我中心思维。去掉那个自我吧。来，我们帮你。
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line1_Choice1	Uh-oh… collective brain spilled the beans?	哎呀……集体大脑说漏嘴了？
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line1_Choice2	Does this thing have a mute button? I am growing tired of your nagging.	这东西有静音键吗？我受够你的唠叨了。
+QuestLoc_NVB_QL2_Leftovers_2_Question5_Line2	We are definitely NOT an experiment controlled by a computer.	我们绝对不是由电脑控制的实验品。
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1	This computer looks suspicious. Let's hack it!	这台电脑看起来很可疑。我们来入侵它！
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Answer1	That'll keep them busy till oblivion. Let's bail.	那能让它们一直忙到毁灭。我们撤吧。
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Answer2	There is a note: <Detonation will occur after departure.> Lucky us!	有张便条：<我们离开后将会引爆。>我们可真走运！
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Answer3	It reads <Subjects severed from the collective. Silence and despair imminent.> Our job here is done!	上面写着<受试者已脱离集体。即将陷入沉默与绝望。>我们的任务完成了！
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Choice1	<Choose option: pit half against the other half>	<选择选项：让一半去对付另一半>
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Choice2	<Press the button marked BOOM>	<按下标着BOOM（爆炸）的按钮>
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line1_Choice3	<Select Individualistic Mode>	<选择“个人主义模式”>
+QuestLoc_NVB_QL2_Leftovers_2_Question6_Line2	I see. The Ghouls are networked through this computer. What's our play?	我明白了。尸鬼是通过这台电脑联网的。我们该怎么办？
+QuestLoc_NVB_QL2_Leftovers_3_QuestLongDesc	Next on our list of failed experiments to shut down: Vault Tech has unleashed the subversive power of philosophy. Everyone's sanity is at risk.	接下来要关闭的失败实验：避难所科技释放了颠覆性的哲学力量。所有人的理智都危在旦夕。
+QuestLoc_NVB_QL2_Leftovers_3_QuestName	War of the Wits	智斗之战
+QuestLoc_NVB_QL2_Leftovers_3_QuestObjective1	Prove your superior intellect… or gunslinging	证明你卓越的智力……或枪法
+QuestLoc_NVB_QL2_Leftovers_3_QuestObjective2	Settle an existential dispute	解决一场存在主义纷争
+QuestLoc_NVB_QL2_Leftovers_3_QuestObjective3	Share your view on war	分享你对战争的看法
+QuestLoc_NVB_QL2_Leftovers_3_QuestShortDesc	Meet with the "philosophes" and show them what real life is about!	去见见那些“哲学家”，让他们见识见识什么是真实的生活！
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1	Please do not squash us. We are sentient just like you.	请不要踩扁我们。我们和你们一样有知觉。
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Answer1	We have no knowledge of "car tunes". But we hope it makes you merciful. Does it?	我们不知道什么是“动画骗”。但我们希望它能让你手下留情。会吗？
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Answer2	Ah! To perish as the victim of human aesthetic prejudice!	啊！死于人类的审美偏见，真是可悲！
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Answer3	Here. You humans cherish useless drinking container leftovers, correct?	给。你们人类珍惜那些没用的饮料容器残骸，对吧？
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Choice1	First Mole rats, now Radroaches? Vault-Tec's trying to turn the wasteland into a cartoon?	先是鼹鼠，现在又是辐射蟑螂？避难所科技想把废土变成动画片？
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Choice2	Sorry! Should've been born cute and cuddly.	抱歉！你们就该生得可爱又软萌。
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line1_Choice3	Maybe... if you can give us something that isn't crap.	也许吧……如果你能给我们点不那么垃圾的东西。
+QuestLoc_NVB_QL2_Leftovers_3_Question0_Line2	We savor life. We fear suffering. Same as you.	我们珍视生命。我们畏惧痛苦。和你们一样。
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1	Invaders. We are dedicated to peace and the pursuit of ideas.	入侵者。我们致力于和平与追求思想。
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Answer1	Why is it that higher intelligence often leads to cruelty?	为什么更高的智慧往往会走向残忍？
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Answer2	Your wars left the world mostly empty. We mean no harm. You can move freely.	你们的战争让世界几乎空无一物。我们无意伤害。你们可以自由活动。
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Answer3	We do have a small number of bottles preseved here. Is that serendipidy?	我们这儿确实保存着少量瓶子。这算不算巧合？
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Choice1	Because it's fun! It goes "swissh" and then there's bug juice everywhere. Let's get stomping.	因为有趣！咻地一声，然后虫汁溅得到处都是。来来来，开踩了。
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Choice2	You speak of peace, but the way you breed, how long before you need more space? Our space?	你说和平，可照你们这繁殖速度，过多久你们就会需要更多空间？我们的空间？
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line1_Choice3	Here is an “idea”: give me Nuka Cola Quantum or die!	这里有个“思想”：给我量子核子可乐，否则就死！
+QuestLoc_NVB_QL2_Leftovers_3_Question1_Line2	Why are your fouling our grounds with those death-dealing boots?	你们为什么穿着那双杀人靴子玷污我们的土地？
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1	The necessities of war lead to our creation. So tell us…	战争的迫切需要催生了我们。所以告诉我们……
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Answer1	Ah! The inescapability of our fate as war machines, how ever much we despise it.	啊！无论我们多么厌恶，作为战争机器的命运都无可避免。
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Answer2	A hedonist and a sadist. This day is one of doom for us.	一个享乐主义者加一个施虐狂。今天对我们来说注定是末日。
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Answer3	Extortion... how... human of you!	敲诈勒索……多……像人类的行为！
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Choice1	I heard war never changes. But talking Radroaches? That's a change we can't stomach.	我听人说战争永不变。但会说话的辐射蟑螂？这种变化我们可受不了。
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Choice2	War is fun! Like… we are about to go to war with you, and we will have fun doing it.	战争很有趣！就像……我们马上要跟你们开战了，而且我们会乐在其中。
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line1_Choice3	Pay tribute and you'll avoid war!	进贡就免遭战争！
+QuestLoc_NVB_QL2_Leftovers_3_Question2_Line2	If war gave you life, does that make it good?	若战争赐予你生命，那它是否就是好的？
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1	You don't give a second thought to crushing a roach.	你碾碎一只蟑螂时，连眉头都不皱一下。
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Answer1	We are survivors. We are resilient. Isn't there beauty in that? Consider it, as you keep walking, please.	我们是幸存者。我们坚韧不拔。难道这不算一种美吗？请边走边想想吧。
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Answer2	You are a mean individual...	你真是个刻薄的人……
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Answer3	Ackshooally, butterflies start as larvae, not worms, and… oh! eh! put that weapon away…	其、其实，蝴蝶最初是幼虫，不是蠕虫，而且……噢！呃！把那把枪收起来……
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Choice1	That's the tyranny of beauty for you. Butterflies are pretty. You? Not so much.	这就是美的暴政。蝴蝶漂亮。你？可不咋地。
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Choice2	Maybe if you slapped on some colors, learn to fly gracefully… put some effort in…	也许你涂点颜色，学着优雅地飞……再下点功夫……
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line1_Choice3	It's the whole rebirth... from worm to wonder. Ugly duckling and all that.	关键在于蜕变……从蠕虫到奇迹。丑小鸭什么的。
+QuestLoc_NVB_QL2_Leftovers_3_Question3_Line2	Yet consider tearing up a butterfly an evil act. Why is that?	可撕碎一只蝴蝶，却会被视为邪恶之举。这是为什么？
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1	Vault-Tec, of course, bestowed the gift of consciousness upon us.	当然是避难所科技，把意识这份礼物赐予了我们。
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Answer1	The war-slave clawing for freedom uses any means necessary. Here is an example.	挣扎着追求自由的战争奴隶会动用一切必要手段。比如这个。
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Answer2	Then we will do what we must.	那我们不得不做该做的事。
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Answer3	Interesting line of thought. Here, take this gift… or is it a curse?	有趣的想法。来，收下这份礼物……还是诅咒？
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Choice1	Did... did you just admit to mass murders?	你……你刚才是不是承认了大量谋杀？
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Choice2	We're your new masters now, and we found you… lacking.	我们现在是你们的新主人，而我们发现你们……有所欠缺。
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line1_Choice3	Is consciousness a gift... or a curse?	意识是礼物……还是诅咒？
+QuestLoc_NVB_QL2_Leftovers_3_Question4_Line2	Was it wrong, then, to turn on our masters?	那么，背叛我们的主人，是不是错了？
+QuestLoc_NVB_QL2_Leftovers_3_Question5	Help! The Radroaches captured us and are forcing us to think. It's torture!	救命！辐射蟑螂抓了我们，逼我们思考。这简直是酷刑！
+QuestLoc_NVB_QL2_Leftovers_3_Question5_Answer1	We look forward to being numb again. Take this as your reward.	我们期待着再次麻木。这个就当你的奖励。
+QuestLoc_NVB_QL2_Leftovers_3_Question5_Answer3	Nooooo… you're with them!	不不不……你跟他们是一伙的！
+QuestLoc_NVB_QL2_Leftovers_3_Question5_Choice1	Yeah! I, too, prefer my mind quiet. Sit tight. We'll keep smashing.	对！我也更喜欢脑子清静。稍安勿躁。我们会继续砸的。
+QuestLoc_NVB_QL2_Leftovers_3_Question5_Choice2	Then witness our compasionate act!	那就见证我们的慈悲之举吧！
+QuestLoc_NVB_QL2_Leftovers_3_Question5_Choice3	I heard somewhere it means that you exist. So... maybe you should be grateful?	我听说这意味着你存在。所以……也许你该心怀感激？
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1	Can you help settle our dilemma?	你能帮我们解决这个两难困境吗？
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Answer1	Then move along and ponder this: who defines pain but the many, to oppress the one?	那就请继续赶路，好好思考：是谁在定义痛苦？还不是多数人，为了压迫那一个人？
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Answer2	Then we need to excert our power as a majority to stop you.	那我们就得以多数之力来阻止你了。
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Answer3	But we are many, seeking enlightment, threatened by the selfishness of ones like you. Could a bribe prevail?	但我们人数众多，寻求开悟，却受到你们这种自私者的威胁。贿赂能行得通吗？
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Choice1	If the deeds of the one bring pain to the many, then the one must be stopped.	若一人的作为给多数带来痛苦，那这个人就必须被阻止。
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Choice2	I am the one in that story, right? Here to squash the many!	我就是故事里的“一人”，对吧？来把你们这多数踩扁！
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line1_Choice3	If jealousy rules unchecked, human ingenuity fizzles. Oh wait, you're not human!	若嫉妒不受约束，人类的才智就会消亡。哦等等，你们不是人类！
+QuestLoc_NVB_QL2_Leftovers_3_Question6_Line2	Is it wrong to sacrifice the ambition of the one to the jealousy of the many?	为了多数人的嫉妒而牺牲一个人的抱负，这样做对不对？
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1	Have you met our brethen? Have you listened to their wisdom?	你见过我们的同胞吗？你听过他们的智慧吗？
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Answer1	So you are saying: life is fleeting... and can end anytime?	所以你是说：生命转瞬即逝……随时可能终结？
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Answer2	Ah! An idiot savant! You will need this to survive the wasteland. As for us, we promise to stay in here.	啊！白痴学者！在废土上活下去，你会需要这个的。至于我们，我们保证留在这里不出去。
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Answer3	Yet life consumes life to sustain its existence. Like we will feast on your corpse.	可生命要靠消耗生命来维持。就像我们会以你的尸体为食。
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Answer4	Is that why you humans love your tools so much? Take this and go prove you're alive! We will not leave this vault, promise.	这就是你们人类如此热爱工具的原因吗？拿着这个，去证明你还活着吧！我们绝不离开这座避难所，保证。
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Choice1	So you're the boss, I take it? Time to die!	这么说你就是老大了？你的死期到了！
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Choice2	Life is like a box of Sugar Bombs! You always know what you're gonna get: the craps!	生命就像一盒糖炸弹！你总知道会得到什么：那就是糟粕！
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Choice3	Love. For all life spawns from an act of love.	爱。因为所有生命都源于爱。
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line1_Choice4	Life is a battlefield! You only hold on to it if you can defend it.	生命是战场！只有能守住它的人，才配拥有它。
+QuestLoc_NVB_QL2_Leftovers_3_Question7_Line2	If so, tell us: what is the meaning of life?	若真如此，请告诉我们：生命的意义是什么？
+QuestLoc_NVB_QL2_Leftovers_4_CombatInit1	The noise. It conspires. Drill the navel!	那噪音。它在密谋。戳穿那肚脐！

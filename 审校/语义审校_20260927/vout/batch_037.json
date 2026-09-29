@@ -1,0 +1,110 @@
+{
+ "batch": 37,
+ "items": [
+  {
+   "key": "QuestLoc_TheFinalHunt_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "good 在此是夸身手（RU ничего＝有两下子），ZH「好人」把本事错成品德，respect 也随之变空。",
+   "final_fix": "你们确实有两下子。这点我服气。"
+  },
+  {
+   "key": "QuestLoc_TheFinalHunt_Conversation_1_NPCStart_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "hunter 六语一致（FR chasseur／RU охотник），本线既有译名是「猎人大维斯」；fix 的「猎手」也偏离项目术语。",
+   "final_fix": "但我才是废土头号猎人，不是你们！"
+  },
+  {
+   "key": "QuestLoc_TheFinalHunt_QuestLongDescription",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "call out 是叫板（FR lance un défi／RU вызывает на бой），ZH「呼唤你」丢挑战义；big game 也丢成「杀手」。",
+   "final_fix": "大维斯在向你叫板！是时候把他拉下马，成为废土头号大型猎物猎人了！"
+  },
+  {
+   "key": "QuestLoc_TheFinalPush_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Likewise 是回应「是我们的荣幸」＝彼此彼此，ZH「战士你们也一样」主语错位读不通；EN 的 we 也被缩成「我」。",
+   "final_fix": "彼此彼此，战士。拿着吧，你们比我们更适合带上这个。"
+  },
+  {
+   "key": "QuestLoc_TheFinalPush_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 通篇第一人称（told me／I'm concerned），ZH 改成对玩家的「你…吧」，还添出 EN 无的「去找他们」。",
+   "final_fix": "390号避难所废墟里的掠夺者首领告诉我，“麦克森硬汉小队”在避难所科技总部。我很担心他们的安危，所以我最好赶紧穿好装备赶过去！"
+  },
+  {
+   "key": "QuestLoc_TheHauntingofVault110_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "please 是求饶（RU Пожалуйста, не трогай меня），ZH「亲爱的」变亲昵；「伤害伤害」叠字；疑问句被换成自造的承诺。",
+   "final_fix": "求……求你了，鬼先生，别伤害我！你、你到底想要什么？"
+  },
+  {
+   "key": "QuestLoc_TheHauntingofVault110_QuestName",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "正文已作「大众化学惊魂」，括号又留英文 Mass Chemical 与重复释义「闹鬼事件」，属未清理译注，含义本身不错。",
+   "final_fix": "大众化学惊魂"
+  },
+  {
+   "key": "QuestLoc_TheHauntingofVault110_RaiderLine_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Look out 是示警（ES ¡Cuidado!／FR Attention／DE Pass auf），ZH「快看」变成叫大家围观，警示义丢失。",
+   "final_fix": "一只鬼！当心！"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I can't even 是气到说不下去（FR Ah, bon sang），ZH「我甚至不能……」半句读不通；递物的 Here 成方位词。",
+   "final_fix": "呃，我真是……算了。拿着，记得把找零带回来！"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_Conversation_2_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "over an hour 是「一个多小时」（ES más de una hora），ZH 丢「多」，「才」把早就点好说成刚点。",
+   "final_fix": "我一个多小时前就点好了……"
+  },
+  {
+   "key": "QuestLoc_TheInfiltrationGame_QuestObjective_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "同组 Top Secret 已作「绝密」，ES confidenciales／DE Verschlusssache 均为密级，ZH「只为你的眼睛」是硬译。",
+   "final_fix": "找回“仅限本人阅览”的文档。"
+  },
+  {
+   "key": "QuestLoc_TheMysteriousDisappearingSpuds_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "keep a crop alive 主干是 crop（FR faire une récolte），ZH「我们救不活了」把庄稼死说成人要死。",
+   "final_fix": "呀！你一定得帮帮我们！我们的红果一株接一株地死！怎么也种不活一茬庄稼！"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "这是回击「二流反派」，callin' 宾语是人（IT Di seconda classe? Io?／RU Кого…называешь），ZH 换成抽象水平。",
+   "final_fix": "你说谁二流呢？"
+  },
+  {
+   "key": "QuestLoc_TheMysteryofVault666_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 主语是 you（ES Ni te lo imaginas／IT Neanche te lo immagini＝你想不到），ZH「不知道。」变成自称不知情。",
+   "final_fix": "你根本想象不到。"
+  },
+  {
+   "key": "QuestLoc_ThePathofPaulaPlumbkin_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "同句 Plumbkin 先作「布朗金」后作「普朗布金」，全项目（含本任务名）统一为普朗布金，易被当成另一人。",
+   "final_fix": "普朗布金！宝拉·普朗布金！她去哪里了？"
+  }
+ ]
+}

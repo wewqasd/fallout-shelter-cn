@@ -1,0 +1,110 @@
+{
+ "batch": 56,
+ "items": [
+  {
+   "key": "Objective_Merge_Plural",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "together 是「并到一起」（ES Combina／DE zusammen），ZH「同时」凭空加上「必须同时操作」的时间限定。",
+   "final_fix": "将{0}对房间合并在一起"
+  },
+  {
+   "key": "Objective_StopIncidentWithoutPropagate",
+   "verdict": "confirm_fix_better",
+   "severity": "S3",
+   "reason": "宾语本是 {1} infestation，ZH 换成泛称「事件」使指代落空；fix 又丢 EN 的 1 次，宜同复数条「{0}次」体例。",
+   "final_fix": "在1次{1}灾害扩散之前将其制止"
+  },
+  {
+   "key": "Outfit_Description_ArgyleSweater",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "count itself＝自己数自己（ES no se cuenta sola、RU сам себя），ZH「自我计算」硬译，中文搭配不成立。",
+   "final_fix": "因为避难所的瓶盖储备可不会自己数自己。"
+  },
+  {
+   "key": "Outfit_Description_CombatArmor_Heavy",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "used to send in an army：ZH 一句内「过去」出现两次并与「曾」重复，语感拗口；an army 的「一整支」量感也丢失。",
+   "final_fix": "过去他们得派一整支军队上阵。现在只需要你一个人。"
+  },
+  {
+   "key": "Outfit_Description_LegatesArmor",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "armor for（给……用的）译成「出自……之手」，关系倒成「由该将领打造」；one of 的「之一」也一并丢失。",
+   "final_fix": "令人胆寒的护甲，属于废土上最凶悍的军队里最凶悍的人物之一。"
+  },
+  {
+   "key": "Outfit_Description_LifeguardOutfit",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "breaking hearts＝让人心碎（ES rompe corazones），ZH「打击心灵」动宾搭配不成立，救生员调侃尽失。",
+   "final_fix": "拯救生命，也让人心碎。"
+  },
+  {
+   "key": "Outfit_Description_MetalArmor",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "stop one bullet 中文作「挡下／拦下一颗」，「阻止一颗子弹」搭配不成立；前半句与 EN 同为广告碎片，非病句。",
+   "final_fix": "皮革不管用的时候，就换它。挡得下一颗子弹，也挡得下一百颗。"
+  },
+  {
+   "key": "Outfit_Description_PrestonSpecial",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "at a minute's notice＝随时响应（ES en cuestión de minutos），ZH「经常」变成频率，逗号连缀两句。",
+   "final_fix": "献给有荣誉感的人——他们随时都愿意出手相助。"
+  },
+  {
+   "key": "Outfit_Description_RottedDuster",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "sinister 指阴森骇人（DE düster、FR inquiétant、ES siniestra），ZH「阴险」是形容心术不正，不能修饰「轮廓」。",
+   "final_fix": "穿上这件结实耐磨、早已穿旧的旅行外套，衬出一身阴森的身影。"
+  },
+  {
+   "key": "Outfit_Description_SleekSuit",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "helped sell the future（帮着把未来卖出去）被换成「让你相信……就在眼前」，凭空添心理效果并丢掉 helped sell。",
+   "final_fix": "这套西装光鲜至极，当年就是靠它把未来推销了出去。"
+  },
+  {
+   "key": "Outfit_Description_SodaFountainDress",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 三项 style／sophistication／soda，ZH 整块漏掉 style，sophistication（格调）又误作「成熟」。",
+   "final_fix": "风格、格调，再掺上点……苏打？完美的混搭。"
+  },
+  {
+   "key": "Outfit_Description_SoldierSpecial",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "America's troops（ES soldados americanos）整块丢失，又添加原文没有的「我想」，肯定推销变犹豫猜测。",
+   "final_fix": "配得上美国军队，也配得上你。"
+  },
+  {
+   "key": "Outfit_Description_SpecialThemeXmas",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "prove…still visits 是断言（ES que aún visita），「是否」变存疑；your Vault 作「你家」，fix 缺「的」。",
+   "final_fix": "又到了证明圣诞老人还会来你的避难所的季节了——即使这里没有烟囱。"
+  },
+  {
+   "key": "Outfit_Description_SportsfanSpecial",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "tackles 是擒抱（与 Deathclaw hugs 构成双关），ZH「阻截」换词丢笑点；EN 一句又被句号切成两句。",
+   "final_fix": "能替你挡下擒抱……或是死爪的拥抱。"
+  },
+  {
+   "key": "Outfit_Description_SurgeonSpecial",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Or yourself 承前省的是动词 patch up，ZH「或者给你自己」让「给」读成动词，成分残缺不成句。",
+   "final_fix": "给受伤的朋友包扎伤口正合适，给自己包扎也一样。"
+  }
+ ]
+}

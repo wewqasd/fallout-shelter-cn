@@ -1,0 +1,13 @@
+key	detail
+Message_OneHundredMillionPopup_Body	EN=['100'] ZH=['1'] | EN:'Together, we have achieved a major milestone:\n\nOver 100 Million Overseers have c' ZH:'经过大家的共同努力，我们达成一个重要的里程碑：\n\n超过1亿的监督者已经建立了属于他们自己的避难所！\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！\n别忘了明'
+Message_OneHundredMillionPopup_Body2	EN=['100'] ZH=['1'] | EN:'Together, we have achieved a major milestone:\n\nOver 100 Million Overseers have c' ZH:'经过大家的共同努力，我们达成一个重要的里程碑：\n\n超过1亿的监督者已经建立了属于他们自己的避难所！\n请笑纳这个免费礼物，就像避难所科技常说的……谢谢！'
+PrivacyPolicy_Title	EN=['15', '2025', '365136'] ZH=['15', '2025', '365136', '9'] | EN:'[365136]Effective Date: September 15, 2025' ZH:'[365136]生效日期：2025年9月15日'
+QuestLoc_12PointBuck_QuestName	EN=['12'] ZH=[] | EN:'12-Point Buck' ZH:'成精的死爪'
+QuestLoc_DeathRevealed_QuestLongDescription	EN=['144', '672'] ZH=['144'] | EN:'In Vault 672, we met Dwellers from Vault 144 who are familiar with Death, the my' ZH:'我们遇到了来自144号避难所、熟悉“死亡”的居民……她会把她知道的一切告诉我们！'
+QuestLoc_DivideandConquer_Conversation_1_NPCEnd_1	EN=['22'] ZH=['22', '22'] | EN:"That's *point* 22. Here, let me show you." ZH:'那是“点22”（.22口径）。且听我说。'
+QuestLoc_PaulasinaPickle_Conversation_1_NPCEnd_1	EN=['333'] ZH=['3', '333'] | EN:"I think she mentioned visiting some Vault? Vault 333? That's a lot of threes..." ZH:'我想她好像提到了拜访某个避难所？333号避难所？好多3啊……'
+QuestLoc_SavingDaylight_QuestLongDescription	EN=['20'] ZH=['2000'] | EN:'We need to stop Confessor Alvarado and the Church of the Children of Atom before' ZH:'我们需要赶在神父阿尔瓦拉多和原子之子的教会引爆那枚2000万吨级的核装置之前阻止他们，否则整个地区都会被蒸发！'
+QuestLoc_WhatsonSecond_QuestLongDescription	EN=['701'] ZH=['13', '13', '701'] | EN:'Thirteen searches, thirteen failures. How unlucky! For the fourteenth attempt, w' ZH:'13次搜索，13次失败。太不幸了！第十四次尝试，我们会前往701号避难所废墟。'
+Shop_StarterPack_Line1	EN=['1', '2'] ZH=['1'] | EN:'Jumpstart your Vault with everything needed to get your underground life started' ZH:'给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。每所避难所限购1份。'
+Speech_Quest_Generic_Dweller_Conversation_26_Response_1	EN=['2', '5'] ZH=['2'] | EN:'Probably take my allocated 2.5 minute shower.' ZH:'也许是去洗一个分配给我的2分半钟的澡。'
+VictorDialog_WaterPurification_01	EN=['100', '400'] ZH=['400'] | EN:"RobCo built me to be 100% waterproof, up to 400 feet of depth. Not that I'm goin" ZH:'罗伯科把我造得百分之百防水，最深能扛到400英尺。当然，我可没打算去试就是了。'

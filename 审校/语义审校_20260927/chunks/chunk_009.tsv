@@ -1,0 +1,181 @@
+key	EN	ZH
+Message_TutorialPopup_01_Hint	Hint: The further above or below the required resource line your resources are, the greater the effect.	提示：现有资源和所需资源差距越大（超出或不足）对避难所的影响（包括好的和坏的）也越大。
+Message_TutorialPopup_01_Title	Your Vault needs a steady supply of\nPower, Food and Water to run properly.	您的避难所需要稳定的\n电力、食物和水来维持运行。
+Message_TutorialPopup_02_Body	Dwellers in the room automatically fight the Disaster.\nDwellers lose health while fighting a Disaster.\nIf Dwellers fail, the Disaster spreads to nearby rooms.	房间里的居民会自动和灾害斗争。\n居民在和灾害斗争的时候会损失生命值。\n如果居民失败了，灾害会蔓延到邻近的房间。
+Message_TutorialPopup_02_Hint	Hint: Drag Dwellers into and out of Rooms affected by a Disaster to keep them alive.	提示：将居民拖进或者拖出受到灾害的房间来保证他们的存活。
+Message_TutorialPopup_02_Hint_Xbox	Hint: Assign Dwellers into and out of Rooms affected by a Disaster to keep them alive.	提示：将居民拖进或者拖出受到灾害的房间来保证他们的存活。
+Message_TutorialPopup_02_Title	Disasters occur when a rush fails or randomly in any room.	灾害会在极速模式失败的房间或者是随机任何一个房间出现。
+Message_TutorialPopup_03_Body	The more rooms you build, the more Power you need.\nIf your Power gauge turns red, rooms start shutting down.\nA shut down room goes dark and won't produce resources.	建造的房间越多，所需的电力也越多。\n当电力条变红的时候，房间开始一个个关闭。\n当房间关闭时，房间变暗，并不再生产资源。
+Message_TutorialPopup_03_Hint	Hint: Rebalance your Power by assigning better Dwellers or rushing the Power rooms.	提示：当电力不足时，可以分配属性更高的居民去发电室，或者点击极速模式。
+Message_TutorialPopup_03_Title	Your most important resource is Power.	您最重要的资源就是电力。
+Message_TutorialPopup_04_Body	Complete objectives to earn CAPS. Objectives can be found by tapping the ribbon icon in the Pip-Boy menu.	完成目标，赚取瓶盖。目标能够通过点击哔哔小子菜单里的缎带图标找到。
+Message_TutorialPopup_04_Body_PC	Complete objectives to earn CAPS. Objectives can be found by clicking the ribbon icon in the Pip-Boy menu.	完成目标，赚取瓶盖。目标能够通过点击哔哔小子菜单里的缎带图标找到。
+Message_TutorialPopup_04_Body_Xbox	Complete objectives to earn CAPS. Objectives can be found by selecting the ribbon icon in the Pip-Boy menu.	完成目标，赚取瓶盖。目标能够通过点击哔哔小子菜单里的缎带图标找到。
+Message_TutorialPopup_04_Hint	Hint: Some objectives will reward you with Lunchboxes!	提示：完成一些目标会有午餐盒的奖励！
+Message_TutorialPopup_04_Title	Objectives	目标
+Message_TutorialPopup_05_Body	You can send Dwellers to explore the Wasteland. Drag a Dweller outside of the Vault and give them supplies to start their adventure.	您可以派遣您的居民去废土探险。将一个居民拖拽到避难所外，给他们物资，让他们开始冒险吧！
+Message_TutorialPopup_05_Body_Xbox	You can send Dwellers to explore the Wasteland. Assign a Dweller outside of the Vault and give them supplies to start their adventure.	您可以派遣您的居民去废土探险。将一个居民拖拽到避难所外，给他们物资，让他们开始冒险吧！
+Message_TutorialPopup_05_Hint	Hint: A Dweller will die if left in the Wasteland too long	提示：如果居民在废土里待了太长时间，居民会死的。
+Message_TutorialPopup_05_Title	Wasteland	废土
+Message_TutorialPopup_06_Body	Need more Dwellers for your Vault? Try assigning Dwellers to the Living Quarters and see if magic happens.	避难所里需要更多的居民？试试把居民放在宿舍里，看看会有什么神奇的事情发生。
+Message_TutorialPopup_06_Hint	Hint: Make sure you have enough Living Space in your Vault or else women can deliver their baby	提示：避难所有足够的居住空间时，怀孕的女性才能分娩。
+Message_TutorialPopup_06_Title	Babies	婴儿
+Message_TutorialPopup_07_Body	Building 2 or 3 of the same type of room next to each other will merge them into a bigger version of the room.	试着将两个或者三个同类型的房间建在一起，它们会合并成一个大房间。
+Message_TutorialPopup_07_Hint	Hint: A room merge only happens if all rooms are of the same level	提示：只有当房间等级都一样时，房间才会合并。
+Message_TutorialPopup_07_Title	Room Merge - Upgrade	房间合并 - 升级
+Message_TutorialPopup_08_Body	Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nTap on the boxes icon in the Pip-Boy to see your stored items.	避难所的储存室储藏着所有居民从废土上找来的或者午餐盒里得到的物品。\n点击哔哔小子菜单上的盒子图标可以查看储藏的物品。
+Message_TutorialPopup_08_Body_PC	Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nClick on the boxes icon in the Pip-Boy to see your stored items.	避难所的储存室储藏着所有居民从废土上找来的或者午餐盒里得到的物品。\n点击哔哔小子菜单上的盒子图标可以查看储藏的物品。
+Message_TutorialPopup_08_Body_Xbox	Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nSelect the boxes icon in the Pip-Boy to see your stored items.	避难所的储存室储藏着所有居民从废土上找来的或者午餐盒里得到的物品。\n点击哔哔小子菜单上的盒子图标可以查看储藏的物品。
+Message_TutorialPopup_08_Hint	Hint: Storage rooms are excellent holding bay for Dwellers in case all other Rooms are full	提示：当其他房间都满员的时候，储藏室是很好的居民临时安置点。
+Message_TutorialPopup_08_Title	Storage	储存
+Message_TutorialPopup_09_Body	Building a Medbay allows your Vault to produce Stimpaks and heal injured Dwellers.	建造医务室可以生产治疗针来治疗受伤的居民。
+Message_TutorialPopup_09_Hint	Hint: Equipping a Dweller with RadAway and Stimpak before sending him to the Wasteland will increase his chance of survival	提示：在将居民送去废土探险之前给他们配备治疗针和消辐宁将提高他们的存活率。
+Message_TutorialPopup_09_Title	RadAway - Stimpaks	消辐宁 - 治疗针
+Message_TutorialPopup_10_Body	You just earned a Lunchbox. Tap the Lunchbox icon in the Pip-Boy menu to open your Lunchbox or purchase additional Lunchboxes.	您获得了一个午餐盒。点击哔哔小子菜单里的午餐盒图标来打开午餐盒或者购买更多的午餐盒。
+Message_TutorialPopup_10_Body_PC	You just earned a Lunchbox. Select the Lunchbox icon in the Pip-Boy menu to open your Lunchbox or purchase additional Lunchboxes.	您获得了一个午餐盒。点击哔哔小子菜单里的午餐盒图标来打开午餐盒或者购买更多的午餐盒。
+Message_TutorialPopup_10_Body_Xbox	You just earned a Lunchbox. Select the Lunchbox icon in the Pip-Boy menu to open your Lunchbox or purchase additional Lunchboxes.	您获得了一个午餐盒。点击哔哔小子菜单里的午餐盒图标来打开午餐盒或者购买更多的午餐盒。
+Message_TutorialPopup_10_Hint		点击武器或装备即可给居民穿戴上。
+Message_TutorialPopup_10_Title		穿戴物品
+Message_TutorialPopup_11_Body	Building a Science Lab allows your Vault to produce RadAway and reduce Dwellers Rads.	建造一个实验室可以生产消辐宁来减少居民的辐射伤害。
+Message_TutorialPopup_11_Hint		居民在完成生产周期或击败敌人时会获得经验值。点击居民头顶的升级图标即可提升其等级！
+Message_TutorialPopup_11_Title		居民升级
+Message_TutorialPopup_12_Body	Upgrade your production rooms to produce more resources. Tap the arrow icon in the upper right corner to upgrade a room.	升级您的生产房间来生产更多的资源。点击右上角的箭头图标来升级房间。
+Message_TutorialPopup_12_Body_PC	Upgrade your production rooms to produce more resources. Select the arrow icon in the lower right corner to upgrade a room.	升级您的生产房间来生产更多的资源。点击右下角的箭头图标来升级房间。
+Message_TutorialPopup_12_Body_Xbox	Upgrade your production rooms to produce more resources. Press [DR] while a room is selected to upgrade it.	升级您的生产房间来生产更多的资源。选中房间后，按下即可升级房间。
+Message_TutorialPopup_12_Hint		点击避难所大门，然后点击齿轮图标，即可将居民派往废土探险！
+Message_TutorialPopup_12_Title		废土探险
+Message_TutorialPopup_13_Body	Merged rooms can hold more Dwellers so they produce more resources.	合并的房间能容纳更多的居民，从而生产更多的资源。
+Message_TutorialPopup_13_Hint		废土探险者会找到瓶盖、武器、装备和杂物。点击外出的居民并选择“召回”让他们带着战利品回家！
+Message_TutorialPopup_13_Title		召回探险者
+Message_TutorialPopup_14_Body	Build additional storage rooms or upgrade your existing storage rooms to get more space.	建造更多的储藏室或者升级现有的储藏室来获得更多的储藏空间。
+Message_TutorialPopup_14_Hint		房间着火或遭到入侵时，派遣健康的居民前往该房间进行灭火或抵御袭击！
+Message_TutorialPopup_14_Title		灾害处理
+Message_TutorialPopup_15_Body	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by tapping on a Dweller.	您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。
+Message_TutorialPopup_15_Body_PC	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by clicking on a Dweller.	您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。
+Message_TutorialPopup_15_Body_Xbox	You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by selecting a Dweller.	选中居民即可打开居民信息面板，为居民配备武器和装备，或者使用消辐宁和治疗针。
+Message_TutorialPopup_15_Hint		在医务室生产治疗针来恢复居民生命值，在实验室生产消辐宁来清除辐射！
+Message_TutorialPopup_15_Title		医疗补给
+Message_TutorialPopup_16_Body	Dwellers with a high Luck SPECIAL are more successful at rushing rooms and getting CAPS bonuses when production finishes.	运气值（L）高的居民所处的房间更容易在极速模式上成功并且在生产结束时获得更多的瓶盖奖励。
+Message_TutorialPopup_16_Hint		建造广播站可以向废土发送信号，吸引新的居民前来避难所！
+Message_TutorialPopup_16_Title		广播招募
+Message_TutorialPopup_17_Body	Pets can give your Dwellers a boost. \nRarer Pets provide better bonus effects. \nAssign Pets like you equip Weapons and Outfits.	宠物能给居民带来加成。\n稀有的宠物能带来更好的加成效果。\n分配宠物的方式和配备武器装备相同。
+Message_TutorialPopup_17_Hint	Hint: Certain Pets make great companions for Dwellers exploring the Wasteland.	提示：一些宠物可以成为居民探索废土时的绝佳伙伴。
+Message_TutorialPopup_17_Title	Pets	宠物
+Message_TutorialPopup_18_Body	Find Junk in Lunchboxes and in the Wasteland.\nFind Recipes during invasions and in the Wasteland.\nTurn Junk into Weapons and Outfits in the Workshop rooms.\nUpgrade your Workshops to craft Rare and Legendary items.	在午餐盒和废土中寻找杂物。\n在袭击中和废土中寻找配方。\n在工坊房间中将杂物变为武器和装备。\n升级工坊来打造稀有和传奇级别的物品。
+Message_TutorialPopup_18_Hint	Hint: Rumor has it that Legendary Junk can be found far into the Wasteland.	提示：有传闻说传奇级别的杂物可以在遥远的废土上找到。
+Message_TutorialPopup_18_Title	Crafting	打造
+Message_TutorialPopup_20_Body_Part1	Vault-Tec has detected your advanced technology and enabled features for it:	避难所科技检测到您的设备支持先进技术，并已为此启用对应功能：
+Message_TutorialPopup_20_Body_Part2	- Press first on a Dweller and then on a room or the Wasteland to send the Dweller there.\n\n- Press on a Storage Room to open your Inventory.\n\n- On your device's home screen, press on the Fallout Shelter icon to enter a Vault directly.	- 先点击居民，再点击房间或废土，将居民派往该处。\n\n- 点击储藏室打开库存。\n\n- 在设备的主屏幕上点击辐射避难所图标，直接进入避难所。
+Message_TutorialPopup_20_Hint		给居民分配符合其最高属性的房间，可以大幅提高生产效率！
+Message_TutorialPopup_20_Title	3D Touch	3D Touch
+Message_TutorialPopup_21_Body_Part1	Explore by dragging Dwellers to new rooms, or tapping the location you want them to travel to.	拖拽居民到新的房间来探索，或者点击您希望他们前往的地点。
+Message_TutorialPopup_21_Body_Part1_PC	Explore by dragging Dwellers to new rooms, or clicking the location you want them to travel to.	拖拽居民到新的房间来探索，或者点击您希望他们前往的地点。
+Message_TutorialPopup_21_Body_Part1_Xbox	Explore by selecting the room you want Dwellers to travel to.	通过选择希望居民前往的房间来探索。
+Message_TutorialPopup_21_Body_Part2	Attack enemies by tapping on a Dweller and then on an enemy. You can also attack by holding your finger on a Dweller and dragging the target to an enemy.	攻击敌人时，点击居民然后再点击敌人。您也可以按住居民不动然后拖拽至敌人处。
+Message_TutorialPopup_21_Body_Part2_PC	Attack enemies by clicking on a Dweller and then on an enemy. You can also attack by clicking and holding a Dweller and dragging the target to an enemy.	攻击敌人时，点击居民然后再点击敌人。您也可以按住居民不动然后拖拽至敌人处。
+Message_TutorialPopup_21_Body_Part2_Xbox	To attack a specific enemy, hold [A] while a Dweller is selected to make a target appear, and then select an enemy.	要攻击特定敌人，先选中居民，再按住使目标出现，然后选择敌人。
+Message_TutorialPopup_21_Title	Navigation and Combat	导航和战斗
+Message_TutorialPopup_22_Body	Dwellers out in the Wasteland may stumble upon a special location! You can choose to enter this location or ignore it and continue exploring the Wasteland.	废土上的居民可能会走到某个特殊地点。您可以选择进入这个地点或者继续探索废土。
+Message_TutorialPopup_23_Body	Let's use some Nuka-Cola Quantum to instantly get back to the Vault.	让我们使用一些量子核子可乐来立即回到避难所吧。
+Message_TutorialPopup_24_Body_Part1	When it appears, tap the checkmark icon to perform a Critical Hit.	当它出现时，点击勾形图标来释放暴击技能。
+Message_TutorialPopup_24_Body_Part1_PC	When it appears, click the checkmark icon to perform a Critical Hit.	当它出现时，点击勾形图标来释放暴击技能。
+Message_TutorialPopup_24_Body_Part1_Xbox	When a checkmark icon appears, select it like you would a Dweller, then hold [A] to perform a Critical Hit.	当勾形图标出现时，选择它，然后按住来释放暴击。
+Message_TutorialPopup_24_Body_Part2	Then tap again to stop the arrows. The closer they are, the greater the damage multiplier.	再次点击来停止箭头。它们越靠近，造成的伤害倍率就越高。
+Message_TutorialPopup_24_Body_Part2_PC	Then click again to stop the arrows. The closer they are, the greater the damage multiplier.	再次点击来停止箭头。它们越靠近，造成的伤害倍率就越高。
+Message_TutorialPopup_24_Body_Part2_Xbox	Then press [A] to stop the arrows. The closer they are, the greater the damage multiplier.	按下来停止箭头。它们越靠近，造成的伤害倍率就越高。
+Message_TutorialPopup_24_Title	Critical Hits	暴击
+Message_TutorialPopup_25_Body	\n\n- Speed up Wasteland travel time \n\n- Craft items instantly\n\n- Skip more than one Objective per day\n\n- Skip certain Quests\n\n- Complete Barbershop customizations instantly\n\n\n	\n\n- 加速废土探索时间 \n\n- 极速打造物品\n\n- 每天跳过不止一个目标\n\n- 跳过特定任务\n\n- 极速完成美发店个性化\n\n\n
+Message_TutorialPopup_25_Hint	If you run out, you can always purchase more Nuka-Cola Quantum in the store.	如果量子核子可乐耗尽，您可以在商店里购买更多。
+Message_TutorialPopup_25_Title	Nuka-Cola Quantum can be used to:	量子核子可乐能够被用来：
+Message_TutorialPopup_26_Body	Introducing Themes!\n\n- Find Theme Recipe Fragments on Quests.\n\n- Build the new Theme Workshop to craft Themes.\n\n- Apply Themes to fully merged and upgraded Diners and Living Quarters.	主题的介绍\n\n- 在任务中找到主题配方的碎片。\n\n- 建造新主题工坊来打造主题。\n\n- 将主题应用在最大化合并及升级后的餐厅和宿舍上。
+Message_TutorialPopup_26_Hint	Hint: You can use Nuka-Cola Quantum to get missing Theme Recipe Fragments.	提示：您可以使用量子核子可乐来得到缺失的主题配方碎片。
+Message_TutorialPopup_26_Title	Themes	主题
+Message_TutorialPopup_27_Body_PS4	Use the Left Stick to select a room.\n\nAfter selecting a room, press [A] or use the Left Stick to cycle through Dwellers in that room.\n\nUse the Right Stick to move the camera, and [LT] and [RT] to zoom in and out.	用左摇杆选择房间。\n\n选择房间后，按或用左摇杆切换房间内的居民。\n\n使用右摇杆移动镜头，和放大和缩小。
+Message_TutorialPopup_27_Body_Switch	Use the Left Stick to select a room.\n\nAfter selecting a room, press [A] or use the Left Stick to cycle through Dwellers in that room.\n\nUse the Right Stick to move the camera, and [LT] and [RT] to zoom in and out.	用左摇杆选择房间。\n\n选择房间后，按或用左摇杆切换房间内的居民。\n\n使用右摇杆移动镜头，和放大和缩小。
+Message_TutorialPopup_27_Body_Xbox	Use the Left Stick to select a room.\n\nAfter selecting a room, press [A] or use the Left Stick to cycle through Dwellers in that room.\n\nUse the Right Stick to move the camera, and [LT] and [RT] to zoom in and out.	用左摇杆选择房间。\n\n选择房间后，按或用左摇杆切换房间内的居民。\n\n使用右摇杆移动镜头，和放大和缩小。
+Message_TutorialPopup_27_Hint_Xbox		按住控制器上的对应按键即可快速调出避难所管理菜单。
+Message_TutorialPopup_27_Title_Xbox	Controls	控制
+Message_TutorialPopup_BuildUltraciteMine_Body	Your Vault is on top of a valuable mineral called Ultracite.\n\nBuild an Ultracite mine to collect it, then create powerful Ultracite weapons at the Ultracite Weapon Workshop.\n\nYou'll need them to defend against the Scorched!	您的避难所建立在一种名为辐射极琉矿的珍贵矿物之上。\n\n建造一座辐射极琉矿矿场来开采它，然后在辐射极琉矿武器工坊中打造强力的辐射极琉矿武器。\n\n您需要它们来抵御辐尸人！
+Message_TutorialPopup_BuildUltraciteMine_Hint	Hint: High-Endurance dwellers will significantly reduce the mining timer. Don't spend your life waiting!	提示：高耐力居民将显著减少采矿所需的计时器时间。别把时间浪费在等待上！
+Message_TutorialPopup_BuildUltraciteMine_Title	Ultracite	辐射极琉矿
+Message_TutorialPopup_BuildUltraciteWeaponFactory_Body	Time to fight back against the Scorched!\n\nBuild an Ultracite Weapon Workshop to craft powerful Ultracite Weapons and defend your Vault.	是时候反击辐尸人了！\n\n建造辐射极琉矿武器工坊，打造强力的辐射极琉矿武器，保卫您的避难所。
+Message_TutorialPopup_BuildUltraciteWeaponFactory_Hint	Hint: Ultracite Weapons deal extra damage to Scorched.	提示：辐射极琉矿武器能对辐尸人造成额外伤害。
+Message_TutorialPopup_BuildUltraciteWeaponFactory_Title	Crafting Ultracite Weapons	制造辐射极琉矿武器
+Message_TutorialPopup_ScorchedAttackWarning_Body	Scorched are on their way to attack your Vault!\n\nScorched are tougher and more powerful than normal invaders, but your Dwellers will be revived for free at the end of the fight.\n\nThe pain is real, but death is temporary!	辐尸人正在前来袭击您的避难所！\n\n辐尸人比普通掠夺者更强更难对付，但战斗结束后您的居民会免费复活。\n\n痛苦是真实的，但死亡只是暂时的！
+Message_TutorialPopup_ScorchedAttackWarning_Hint	Hint: Your Vault has some starting weapons that can be equipped.	提示：您的避难所里有一些初始武器可以给居民装备。
+Message_TutorialPopup_ScorchedAttackWarning_Title	Scorched Raids	辐尸人袭击
+Message_TutorialPopup_UltraciteWeapons_Body	These Scorched are tough!\n\nIt looks like help is arriving from the Wasteland. And they have a glowing green sword...?	这些辐尸人很难对付！\n\n看起来有帮手正从废土赶来。而且他们还拿着一把发着绿光的剑……？
+Message_TutorialPopup_UltraciteWeapons_Hint	Hint: Ultracite weapons deal extra damage to Scorched.	提示：辐射极琉矿武器能对辐尸人造成额外伤害。
+Message_TutorialPopup_UltraciteWeapons_Title	Ultracite Weapons	辐射极琉矿武器
+Message_Tutorial_01	Welcome to your new Vault, {OVERSEER}. Let's introduce you to the basic concepts.	欢迎来到您的新避难所，{监督者}。让我先给您介绍几个基本概念。
+Message_Tutorial_02	First let's {BUILD} a {ROOM}. Tap on the {HAMMER ICON} to open the {BUILD MENU}.	首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。
+Message_Tutorial_02_PC	First let's {BUILD} a {ROOM}. Click on the {HAMMER ICON} to open the {BUILD MENU}.	首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。
+Message_Tutorial_02_Xbox	First let's {BUILD} a {ROOM}. Press [Y] to open the {BUILD MENU}.	首先让我们{建造}一个{房间}。按下打开{建造菜单}。
+Message_Tutorial_03	We'll build a {POWER GENERATOR} that will produce {POWER}. {TAP} on the {POWER ROOM}.	我们将建立一个{发电室}来产生{电力}。{点击}{发电室}。
+Message_Tutorial_03_PC	We'll build a {POWER GENERATOR} that will produce {POWER}. {CLICK} on the {POWER ROOM}.	我们将建立一个{发电室}来产生{电力}。{点击}{发电室}。
+Message_Tutorial_03_Xbox	We'll build a {POWER GENERATOR} that will produce {POWER}. Press [A] to {SELECT} the {POWER ROOM}.	我们将建立一个{发电室}来产生{电力}。按下来{选择}{发电室}。
+Message_Tutorial_04	{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {TAPPING} the {BUILD ZONE}.	{建造区域}是可以选择来建造{房间}的位置。确认位置，{点击}{建造区域}。
+Message_Tutorial_04_PC	{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {CLICKING} the {BUILD ZONE}.	{建造区域}是可以选择来建造{房间}的位置。确认位置，{点击}{建造区域}。
+Message_Tutorial_04_PS4	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
+Message_Tutorial_04_Switch	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
+Message_Tutorial_04_Xbox	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
+Message_Tutorial_05	Now we need {DWELLERS} to make the {POWER GENERATOR} produce power.	现在我们需要{居民}来使{发电室}发电。
+Message_Tutorial_06	Look! {NEW DWELLERS} have shown up at the {VAULT DOOR}.	看！{新居民}已出现在{避难所大门}。
+Message_Tutorial_07	Let's look at the {STATS} of a {DWELLER}. {TAP} on a {DWELLER} to {SEE THEIR INFO}.	让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。
+Message_Tutorial_07_PC	Let's look at the {STATS} of a {DWELLER}. {CLICK} on a {DWELLER} to {SEE THEIR INFO}.	让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。
+Message_Tutorial_07_PS4	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
+Message_Tutorial_07_Switch	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
+Message_Tutorial_07_Xbox	Let's look at the {STATS} of a {DWELLER}. {MOVE} to the {WASTELAND} with the Left Stick to {SELECT} the first {DWELLER}.	让我们看看{居民}的{状态}。以左摇杆{移动}到{废土}来{选择}第一个{居民}。
+Message_Tutorial_08	You can see the {DWELLER'S SPECIAL} stats. This info tells you where a {DWELLER} can be used most effectively.	您可以看到{居民的SPECIAL属性}统计。这个信息告诉您{居民}在哪儿能被最有效地利用。
+Message_Tutorial_09	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_09_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_09_Xbox	To assign a {SELECTED DWELLER}, {HOLD} [A] to grab them and then {SELECT} a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{选中的居民}，{按住}抓住居民，然后{选择}一个房间。试着将这个{居民}分配到刚才所建的{发电室}。
+Message_Tutorial_10	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {TAP} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
+Message_Tutorial_10_PC	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {CLICK} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
+Message_Tutorial_10_Xbox	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {MOVE} to the {WASTELAND} and then {HOLD} [A] to grab them.	现在将第二个{居民}分配到{发电室}。记得{移动}至{废土}，然后{按住}来拖住他们。
+Message_Tutorial_11	Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE TAP} on a {ROOM} to take a closer look.	现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。
+Message_Tutorial_11_PC	Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE CLICK} on a {ROOM} to take a closer look.	现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。
+Message_Tutorial_11_Xbox	Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {HOLD} [RT] to zoom in for a closer look.	现在，{居民}正在工作，房间将开始{生产资源}。{按住}来放大仔细察看。
+Message_Tutorial_12	If you are in dire need of extra resources, you can use the {RUSH MODE}. {TAP} the {RUSH BUTTON} to {OPEN} the {RUSH MENU}.	如果需要额外资源，可以使用{极速模式}。{点击}{极速按钮}来{打开}{极速菜单}。
+Message_Tutorial_12_PC	If you are in dire need of extra resources, you can use the {RUSH MODE}. {CLICK} the {RUSH BUTTON} to {OPEN} the {RUSH MENU}.	如果需要额外资源，可以使用{极速模式}。{点击}{极速按钮}来{打开}{极速菜单}。
+Message_Tutorial_12_Xbox	If you are in dire need of extra resources, you can use the {RUSH MODE}. Press [DU] to {OPEN} the {RUSH MENU}.	如果需要额外资源，可以使用{极速模式}。按下来{打开}{极速菜单}。
+Message_Tutorial_13	Activating Rush instantly produce {RESOURCES} and also {AWARDS} you {CAPS}. Although be careful, destructive {INCIDENTS} might happen.	极速模式可立即产生{资源}，并{奖励}您{瓶盖}。但请小心，破坏性的{事件}也可能发生。
+Message_Tutorial_14	Great! You've successfully completed your first Rush and collected {CAPS}.	太好了！您已经成功完成了第一次极速模式，并收集到{瓶盖}。
+Message_Tutorial_15	Now {TAP} on the {RESOURCE ICON} to {COLLECT} the resources and {RESTART ROOM PRODUCTION}.	现在{点击}{资源图标}来{收集}资源和{重新启动房间生产}。
+Message_Tutorial_15_PC	Now {CLICK} on the {RESOURCE ICON} to {COLLECT} the resources and {RESTART ROOM PRODUCTION}.	现在{点击}{资源图标}来{收集}资源和{重新启动房间生产}。
+Message_Tutorial_15_Xbox	Now press [A] to {COLLECT} the resources and {RESTART ROOM PRODUCTION}.	现在按下来{收集}资源和{重新启动房间生产}。
+Message_Tutorial_16	Each {WEEK}, {VAULT-TEC} will inspect your Vault and give you a rating based on your performance.	每{周}，{避难所科技}会检查您的避难所，根据您的表现来给您一个评级。
+Message_Tutorial_17	Congratulations! You've earned your first {REWARD} - a {LUNCH BOX} filled with goodies.	恭喜您！您已经获得了您的第一个{奖励}——一个{午餐盒}。里面有很多好东西。
+Message_Tutorial_18	Complete Vault-Tec {OBJECTIVES} to earn {CAPS} and {INCREASE} your {VAULT-TEC RATING}.	完成避难所科技制定的{目标}来赚取{瓶盖}并{提升}您的{避难所评级}。
+Message_Tutorial_19	{ADD FRIENDS} to {VISIT} and look at their {VAULT} and {COLLECT CAPS}.	{增加朋友}来{访问}并查看他们的{避难所}并{收集瓶盖}。
+Message_Tutorial_20	Send {DWELLERS} to the {WASTELAND} to collect {CAPS}, {OUTFITS} and {WEAPONS}.	将您的{居民}派遣到{废土}上来收集{瓶盖}，{装备}和{武器}。
+Message_Tutorial_21	The {RADIO STUDIO} attracts Dwellers from the Wasteland and boosts {DWELLER HAPPINESS} in the Vault.	您的{广播室}会吸引废土上的居民，并提升避难所内的{居民幸福度}。
+Message_Tutorial_22	Here you can see and manage all the {WEAPONS} and {OUTFITS} you currently own.	在这里您可以看到并管理您现在所拥有的全部{武器}和{装备}。
+Message_Tutorial_23	{TRAIN} your Dwellers to {INCREASE} their {SPECIAL} stats.	{训练}您的居民，{增加}他们的{S.P.E.C.I.A.L.}属性。
+Message_Tutorial_24	{MALE} and {FEMALE} Dwellers within the {LIVING QUARTERS} have a chance of making {BABIES}.	{男性}和{女性}居民如果共同待在{宿舍}里，会有一定生{小孩}的可能。
+Message_Tutorial_25	{DESTROY ROCKS} to {EXPAND} your {VAULT} deeper.	{摧毁岩石}来向更深处{扩张}您的{避难所}。
+Message_Tutorial_26	{STORAGE} Rooms expand your {VAULT INVENTORY}.	{储藏}室能扩大您的{避难所库存}。
+Message_Tutorial_27	Rooms require {POWER} to function. Tap again to {CONFIRM}.	房间需要{电力}才能运行。再次点击来{确认}。
+Message_Tutorial_27_PC	Rooms require {POWER} to function. Click again to {CONFIRM}.	房间需要{电力}才能运行。再次点击来{确认}。
+Message_Tutorial_27_Xbox	Rooms require {POWER} to function. Press [A] again to {CONFIRM}.	房间需要{电力}才能运行。按下来{确认}。
+Message_Tutorial_28	Now that you know the basic rules of the Overseer role, keep expanding your Vault. Just remember to keep your Dwellers alive and happy. Good luck!	现在您已经知道作为监督者的基本规则，请继续扩张您的避难所。请记住，要让您的居民活着，并且活得开心。祝您好运！
+Message_Tutorial_29	Click on the {NUKA CAPS} to open your {LUNCHBOX MENU}.	点击{核子瓶盖}来打开您的{午餐盒菜单}。
+Message_Tutorial_29_Xbox	Select the {LUNCHBOX ICON} in the {PIP-BOY} to open your {LUNCHBOX MENU}.	选择{哔哔小子}里的{午餐盒图标}来打开{午餐盒菜单}。
+Message_Tutorial_30	Look! {MORE DWELLERS} have shown up at the {VAULT DOOR}.	看！{更多的居民}出现在了{避难所门口}。
+Message_Tutorial_31	Make sure you equip your {DWELLERS} before sending them out to explore the {WASTELAND}. This will increase their chance of survival.	请确认已经给您的{居民}配好了武器装备之后再将他们送去{废土}。这将会提高他们存活的概率。
+Message_Tutorial_32	{BUILD} an {ELEVATOR} to gain access to the next floor.	{建造}一部{电梯}来连通下一楼层。
+Message_Tutorial_34	Remember to {DESTROY} a rock before you {BUILD} a {ROOM}.	记住在{建造}{房间}前请先{摧毁}岩石。
+Message_Tutorial_35	No more space available for construction! {DESTROY} the {ROCK} that is blocking the room in order to proceed.	没有足够的建造空间！请{摧毁}挡住房间的{岩石}来继续建造。
+Message_Tutorial_36	{DESTROY} the rock that is blocking the elevator in order to access the next floor.	{摧毁}挡住电梯的岩石，才能进入下一层。
+Message_Tutorial_38	Let's build a second {ROOM}.	让我们来建造第二个{房间}。
+Message_Tutorial_39	You need a {DINER}, which will produce {FOOD}. {TAP} on the {DINER}.	需要一个{餐厅}来帮您生产{食物}。{点击}{餐厅}。
+Message_Tutorial_39_PC	You need a {DINER}, which will produce {FOOD}. {CLICK} on the {DINER}.	需要一个{餐厅}来帮您生产{食物}。{点击}{餐厅}。
+Message_Tutorial_39_Xbox	You need a {DINER}, which will produce {FOOD}. {SELECT} the {DINER}.	需要一个{餐厅}来帮您生产{食物}。{选择}{餐厅}。
+Message_Tutorial_40	Dwellers require {FOOD} to keep their {HEALTH} up. Tap again to {CONFIRM}.	居民需要{食物}来保证他们的{生命值}。再次点击来{确认}。
+Message_Tutorial_40_PC	Dwellers require {FOOD} to keep their {HEALTH} up. Click again to {CONFIRM}.	居民需要{食物}来保证他们的{生命值}。再次点击来{确认}。
+Message_Tutorial_40_Xbox	Dwellers require {FOOD} to keep their {HEALTH} up. Press [A] again to {CONFIRM}.	居民需要{食物}来保证他们的{生命值}。再次按下来{确认}。
+Message_Tutorial_41	Confirm the location by {TAPPING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
+Message_Tutorial_41_PC	Confirm the location by {CLICKING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
+Message_Tutorial_41_Xbox	Confirm the location by {SELECTING} a {BUILD ZONE}.	{选择}{建造区域}来确认地点。
+Message_Tutorial_42	Now let's build one more room.	让我们再建造一个房间。
+Message_Tutorial_43	This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {TAP} on {WATER TREATMENT}.	这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。

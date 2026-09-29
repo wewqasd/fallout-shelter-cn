@@ -1,0 +1,31 @@
+{
+ "chunk": "009",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Message_TutorialPopup_11_Body",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN 的 Rads 是居民面板上那项「辐射值」数值，消辐宁的作用是降低/清除辐射值；ZH 写成「减少居民的辐射伤害」，把「辐射值」说成了「辐射伤害」，给玩家一个游戏里并不存在的效果（消辐宁并不能减少受到的伤害）。同一批 Message_TutorialPopup_15_Hint 里同一个作用写的是「清除辐射」，两处说法也不一致。",
+   "fix": "建造一个实验室可以生产消辐宁来降低居民的辐射值。",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_TutorialPopup_24_Body_Part1_Xbox",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 手柄版特意交代了选中勾形图标的方式：「select it like you would a Dweller」（像选中居民那样选中它），这是 Xbox 版独有的操作说明（同批 PS4/Switch 版没有这句，ES/FR/DE/RU 都保留了这层类比，如 ES「selecciónalo de la misma forma en que seleccionarías a un morador」）；ZH 只写「选择它」，手柄玩家不知道该怎么把光标落到勾形图标上，且「然后按住」前缺少承接对象的说明。",
+   "fix": "当勾形图标出现时，像选择居民那样选择它，然后按住来释放暴击。",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_TutorialPopup_03_Hint",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 给的两个办法都带明确对象：「assigning better Dwellers」和「rushing the Power rooms」——第二个是把极速用在发电室上。ZH 后半句写成「或者点击极速模式」，把「发电室」这个作用对象丢了，游戏里也不存在一个叫「极速模式」的按钮（极速是房间内的极速按钮/快捷键），玩家照这句不知道该对哪个房间操作。",
+   "fix": "提示：当电力不足时，可以给发电室分配属性更高的居民，或者对发电室使用极速模式。",
+   "confidence": "medium"
+  }
+ ]
+}

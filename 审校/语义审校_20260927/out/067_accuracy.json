@@ -1,0 +1,47 @@
+{
+  "chunk": "067",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "Speech_Conversation_NPC2_Topic8_Response2",
+      "severity": "S1",
+      "type": "误译",
+      "problem": "EN 的猜测词是 “Corpse”（尸体），六个语种完全一致（ES “Cadáveres”、FR “Cadavre”、IT “Cadavere”、DE “Leiche”、RU “Жмурик”）；而“拾荒者”在本库里只对应 Scavenger（WastelandItem_Title=Scavenger、Encounter_Victory_Creature8、EntranceRoomUpgrade_Scavenger 等 6 处都是“拾荒者”）。这一句是填字游戏的错误猜测：NPC1 的题目是“三个字，住在废土上”，正解是“掠夺者”，猜测必须错才好笑。改成“拾荒者”后反而成了一个完全成立的正确答案（拾荒者确实住在废土上），笑点消失，同时把 Corpse 这个词整个译没了；“尸体”才是对的，Steam 存量版本此处也正是“尸体”。",
+      "fix": "哦，我知道了！“尸体”！",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic1_Response3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "“play solitaire”是玩单人纸牌（接龙），是接上一句“待会儿来玩牌吧？”的选择；其余语种都保住了这个纸牌游戏（ES jugar al solitario、FR jouer au solitaire、IT un solitario、DE Solitär、RU разложу пасьянс）。ZH 把 solitaire 读成“一个人”，“我还是一个人吧”等于说“我想自己待着”，纸牌这一层信息整句消失，玩家看到的是拒绝打牌却突然改口说要独处，和上句接不上。",
+      "fix": "不，谢了。我还是自己玩接龙吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic8_Response3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "“Nitwit”是蠢货、傻瓜，五个语种都按“蠢”处理（FR “Demeuré”、IT “Stupido”、DE “Tölpel”、RU “Тупица”、ES “membrillos”），ZH 换成了“土包子”——指的是没见过世面、乡下气的人，贬义的方向从“智力”偏到了“见识”，作为“住在废土上”的猜测也另起了一个意思。（此处 Steam 存量版本作“蠢货”。）",
+      "fix": "试试“蠢货”。",
+      "confidence": "high"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic55_Response1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "猜测词被整词换成了与 “Cornfield” 毫无关系的自造短语“字谜成瘾”，而且正好把包袱提前抖了：这一题的谜底（本组 Response3）就是“填字游戏”，“字谜成瘾”几乎等于替玩家说出了答案，再读到“填字游戏。”时笑点全无。其他语种哪怕同样要迁就本语言的字母数，也都刻意挑与谜底无关的词（ES “Cantamañana”、FR “Collection”、DE “Konstitutionell”、RU “Круассан”）。替换时应保持本条题目自己写的“四个字”，并且与谜底无关。",
+      "fix": "无间地狱？",
+      "confidence": "medium"
+    },
+    {
+      "key": "Speech_Conversation_NPC2_Topic54_Response2",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "EN 的三个猜测词 Bigot／Theft／Yeast 都是五个字母、以 t 结尾，正好符合题目“Five-letter word, ends with t”的形式，是靠“形式对、意思全错”抖的包袱；各语种也都保留了这个机制（DE “Idiot/Angst/Demut”、FR “joli/bâti/rôti”、RU “Дуплет/Дукат/Скелет”、ES “Doloroso/Desnudo”）。ZH 换成了三个与原文毫无关系的四字成语，既不是对 Bigot／Theft／Yeast 的翻译（原译“偏执狂／偷窃／酵母”被整段替换掉），也跟本条题目自己写的限定“三个字”对不上——猜测全变成四个字，玩家读到的这几个“答案”既不符合任何形式，也不再是猜测。",
+      "fix": "这还不简单。“大白菜”。不对，等等——“电灯泡”！“老油条”？",
+      "confidence": "medium"
+    }
+  ]
+}

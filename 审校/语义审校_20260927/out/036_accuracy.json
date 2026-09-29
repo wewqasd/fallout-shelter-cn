@@ -1,0 +1,55 @@
+{
+  "chunk": "036",
+  "lens": "accuracy",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_HouseWarming_2_QuestLongDesc",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "专名两侧多出半角空格：「去 罗伯科 总部见维克托」。全项目其余 RobCo 条目（罗伯科大楼／罗伯科工厂／罗伯科公司）都没有这种空格，属术语替换残留，玩家在任务描述里会看到两处突兀空白；机械扫描只查首尾空白与连续两个空格，这条漏网。",
+      "fix": "保安机器人本该是出色的守卫。去罗伯科总部见维克托，讨论豪斯先生派对的安保事宜。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_HouseWarming_3_Question1_Choice3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "make a killing 意为「赚大钱／大赚一笔」，ZH 译成「大出风头」，把重点从报酬换成抢风头；紧随其后的 Answer3「To kill someone with laughter… truly a comedian's highest praise!」（让人笑得没命……）本是喜剧演员顺着 killing 抖的包袱，选项改成「出风头」后这句回答彻底失去由头。",
+      "fix": "你在豪斯先生的派对上能大赚一笔。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HouseWarming_3_Question1",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "falling apart 是一语双关：派对「散架」，同时指向主办人——尸鬼的身体本来就在烂。「要完蛋了」只留下「快垮台」，与后半句「就跟主办人一样！」的呼应落空，笑点消失。",
+      "fix": "这场尸鬼派对快散架了。就跟主办人一样！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HouseWarming_4_Question6_Choice2",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "「A nice outfit, perhaps?」被逐字搬成「来身漂亮衣服，也许？」，把 perhaps 单独甩在句尾，中文不成句，玩家在选项栏里看到的就是这句机翻腔。",
+      "fix": "也许来身漂亮衣服？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_4",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "If he's anywhere 是「他要是还在（这世上）」，ZH 直译成「如果他可能在任何地方的话」，这个条件句在中文里讲不通，玩家得读两遍才能明白 NPC 是在断定杰克跟着那帮掠夺者走了。",
+      "fix": "要是他还在，那就一定和他们在一起。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_HumanBeanJuice_QuestLongDescription",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "been through the ringer 是「吃尽苦头、被折腾惨了」（对照 QuestLoc_JackAintBack：杰克打过墨西哥刀战、把苦艾酒掺上超强捷特后被处理掉），ZH 缩成「受过一次大惊吓」，遭罪程度被改小，还凭空多出数量「一次」。",
+      "fix": "杰克已经吃尽苦头——可现在他马上要成为别人的晚餐！奴隶贩子把他卖给了肉酱厂。我们应该去那里找他！",
+      "confidence": "medium"
+    }
+  ]
+}

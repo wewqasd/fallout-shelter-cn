@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_NVB_QL2_Leftovers_4_CombatInit6	This is a restricted area. Prepare to be sliced and diced.	这是禁区。准备好被切丁切片吧！
+QuestLoc_NVB_QL2_Leftovers_4_QuestLongDesc	We located the control site for all the failed experiments. Time to put an end to them once and for all.	我们找到了所有失败实验的控制中心。是时候一劳永逸地终结它们了。
+QuestLoc_NVB_QL2_Leftovers_4_QuestName	Whispers in the Vault	避难所中的低语
+QuestLoc_NVB_QL2_Leftovers_4_QuestObjective1	Shut down the security mainframe	关闭安保主机
+QuestLoc_NVB_QL2_Leftovers_4_QuestObjective2	Shut down the science mainframe	关闭科研主机
+QuestLoc_NVB_QL2_Leftovers_4_QuestObjective3	Shut down the command mainframe	关闭指挥主机
+QuestLoc_NVB_QL2_Leftovers_4_QuestShortDesc	End all the experiments	终结所有实验
+QuestLoc_NVB_QL2_Leftovers_4_Question0	The purple is silent! BUT IT YEEEEEELLLS!	紫色沉默不语！可它啊啊啊尖叫！
+QuestLoc_NVB_QL2_Leftovers_4_Question0_Answer1	The heretic heralds the blind blanket!	异端吹响了盲目的号角！
+QuestLoc_NVB_QL2_Leftovers_4_Question0_Answer2	Give it time. Give it eternity.	给它时间。给它永恒。
+QuestLoc_NVB_QL2_Leftovers_4_Question0_Choice1	Easy there, unstable fellow... Purple is a color. It doesn't make sounds.	淡定，精神不稳定的朋友……紫色是种颜色。它不会发出声音。
+QuestLoc_NVB_QL2_Leftovers_4_Question0_Choice2	Huh... I can hear some weird buzz. Very faint.	呃……我能听到一阵奇怪的嗡嗡声。非常微弱。
+QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1	The chems. A poor ward. I know. I know.	那些药物。糟糕的守卫。我知道。我知道。
+QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1_Answer1	No. No. Psycho. Psycho helps. But you need to hurt.	不。不。狂暴药。狂暴药有用。但你必须承受痛苦。
+QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1_Choice1	So you pumped yourself full of what? Mentats?	所以你往自己身体里灌的是什么？曼他特？
+QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1_Choice2	Multiple mainframes to shut down! Got it!	多台主机要关闭！明白了！
+QuestLoc_NVB_QL2_Leftovers_4_Question2_Line2	The mainframes. They connect everything. Everyone. All the sites…	这些主机。它们连接着一切。所有人。所有地点……
+QuestLoc_NVB_QL2_Leftovers_4_Question3_Line1	There is a mainframe access here. A quick hack should get us in.	这里有主机的接口。快速破解一下就能进去。
+QuestLoc_NVB_QL2_Leftovers_4_Question3_Line2	<Shut down all automated experiments>	<关闭所有自动化实验>
+QuestLoc_NVB_QL2_Leftovers_4_Question3_Line3	It looks like we shut down this site and every other labs connected to it.	看来我们关闭了这个地点以及所有相连的实验室。
+QuestLoc_NVB_QL2_Leftovers_4_Question4	Do you whisper to the wire? Taste the zap?	你在对电线低语吗？想尝尝电击的滋味？
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Answer1	You must not. Only one can remain.	你不能。只有一人能留下。
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Answer2	You are not the one.	你不是那个天选之人。
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Answer3	Yes. Yes. The mainf…. Noooo you made it angry!	是。是。主机……不，你把它惹火了！
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Choice1	My headache is growing. I can almost understand you.	我的头疼越来越厉害了。我几乎能听懂你在说什么。
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Choice2	Err… let me try this. But the sun of reason makes you whole again.	呃……让我试试。理性的阳光会让你重获完整。
+QuestLoc_NVB_QL2_Leftovers_4_Question4_Choice3	We are here to help. We are looking for ways to shut down what ails you.	我们是来帮忙的。我们在想办法关闭让你受苦的东西。
+QuestLoc_NVB_QL2_Leftovers_4_Question5_Line1	One of the mainframes! Let's get password cracking!	其中一台主机！让我们来破解密码！
+QuestLoc_NVB_QL2_Leftovers_4_Question5_Line2	<Activate internal security purge mode>	<激活内部安全清除模式>
+QuestLoc_NVB_QL2_Leftovers_4_Question5_Line3	It should take effect the next time the system updates. Hope we get out in time.	应该在下一次系统更新时生效。希望我们来得及撤离。
+QuestLoc_NVB_QL2_Leftovers_4_Question7	The stash… The voice says no. Want it?	那批物资……那声音说不。想要吗？
+QuestLoc_NVB_QL2_Leftovers_4_Question7_Answer2	Then no stash. No fun.	那就不给物资。没意思。
+QuestLoc_NVB_QL2_Leftovers_4_Question7_Choice1	Yes.	想。
+QuestLoc_NVB_QL2_Leftovers_4_Question7_Choice2	If the voice says no…	既然声音说不……
+QuestLoc_NVB_QL2_Leftovers_4_Question7_Choice3	No, I want the other thing.	不，我要另一样东西。
+QuestLoc_NVB_QL2_Leftovers_4_Question8_Line1	This mainframe. It looks important. And noisy.	这台主机。看起来很重要。而且噪音很大。
+QuestLoc_NVB_QL2_Leftovers_4_Question8_Line2	<Seal all sites permanently>	<永久封锁所有地点>
+QuestLoc_NVB_QL2_Leftovers_4_Question8_Line3	Only after we are out, right? RIGHT? Here goes nothing...	得在我们离开之后，对吧？对吧？豁出去了……
+QuestLoc_NVB_QL2_Leftovers_4_QuestionSTART_Line1	I feel... off. A faint screech hums at the edge of my mind.	我觉得……有点不对劲。一种微弱的尖叫在我脑海边缘嗡鸣。
+QuestLoc_NVB_QL2_Leftovers_4_QuestionSTART_Line2	It's like a drain on my sanity.	这简直是在榨干我的理智。
+QuestLoc_NVB_QL2_Leftovers_QuestLineName	The Leftovers	遗留者
+QuestLoc_NVB_QL3_Stripper_1_CombatInit0	Raaahaaaa!	啊啊啊！
+QuestLoc_NVB_QL3_Stripper_1_CombatInit2	Uuuuuuuuuuuurgh!	呃呃呃——！
+QuestLoc_NVB_QL3_Stripper_1_CombatInit4	Oooooooog!	嗷嗷嗷！
+QuestLoc_NVB_QL3_Stripper_1_CombatInit6	Priiiiiiiiiii!	吱吱吱！
+QuestLoc_NVB_QL3_Stripper_1_QuestLongDesc	The Strip is under siege by Deathclaws. Civilians are trapped and in need of a hero.	新维加斯大道遭到死爪围攻。平民被困，急需一位英雄。
+QuestLoc_NVB_QL3_Stripper_1_QuestName	Who needs saving?	谁需要拯救？
+QuestLoc_NVB_QL3_Stripper_1_QuestObjective1	Rescue a familiar face	拯救一位熟人
+QuestLoc_NVB_QL3_Stripper_1_QuestObjective2	Silence the humming Deathclaw	让那只哼歌的死爪安静下来
+QuestLoc_NVB_QL3_Stripper_1_QuestShortDesc	Be a hero: save the people of The Strip from Deathclaws.	当一回英雄：把新维加斯大道的人们从死爪手中拯救出来。
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1	Can I pet them claws?	我能摸摸那爪子吗？
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Answer1	Heeeeelp!	救——命——啊！
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Answer2	Yeaaaaah!	好耶————！
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Answer3	Then, I can pet 'em, right?	那我就能摸了，对吧？
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Choice1	You're in shock, you need help!	你受惊了，需要帮助！
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Choice2	You sure can! One just so happen to be waiting for your touch outside!	当然可以！正好有一只在外面等着你来摸呢！
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line1_Choice3	We are here to put them down, so… no.	我们是来放倒它们的，所以……不行。
+QuestLoc_NVB_QL3_Stripper_1_Question1_Line2	<Louder> CAN I PET THEM CLAWS?	<更大声地> 我能摸摸那爪子吗？
+QuestLoc_NVB_QL3_Stripper_1_Question3	Thanks for saving me. I have a locker in one of the rooms. The contents are yours. Code is 1337.	谢谢你们救了我。我在某间房里有个储物柜。里面的东西归你们了。密码是1337。
+QuestLoc_NVB_QL3_Stripper_1_Question3_Choice1	I'll take a note, thanks!	我记下了，谢谢！
+QuestLoc_NVB_QL3_Stripper_1_Question5	Don't care 'bout 'em Deathclaws. I ain't leaving.	我才不管那些死爪呢。我是不走的。
+QuestLoc_NVB_QL3_Stripper_1_Question5_Answer1	You bet I will sign the… Hey, wait a minute! Nice try.	当然，我会签那……嘿，等一下！想得美。
+QuestLoc_NVB_QL3_Stripper_1_Question5_Answer2	Well, I never… 	哼，真是岂有此理……
+QuestLoc_NVB_QL3_Stripper_1_Question5_Choice1	That sure is your right! You just have to go sign the discharge with the officer outside.	那确实是你的权利！你只要去外面跟军官签个离职文件就行。
+QuestLoc_NVB_QL3_Stripper_1_Question5_Choice2	We're sanitizing the whole place with fire so... your call.	我们要用火把整个地方消毒一遍，所以……随你便。
+QuestLoc_NVB_QL3_Stripper_1_Question7	Here's the locker that other guy told us about. What's the code again?	这就是那人说的储物柜。密码是多少来着？
+QuestLoc_NVB_QL3_Stripper_1_Question7_Answer1	Ah, that ain't it. Oh well, I should have written it down	啊，不对。哎，我该写下来的。
+QuestLoc_NVB_QL3_Stripper_1_Question7_Answer2	Got it! Let's see what we have here.	打开了！看看里面有什么。
+QuestLoc_NVB_QL3_Stripper_1_Question7_Answer3	Ah, shoot. That ruined some of the content, but at least it's open!	哎，该死。弄坏了一些东西，但好歹打开了！
+QuestLoc_NVB_QL3_Stripper_1_Question7_Choice1	<3117>	<3117>
+QuestLoc_NVB_QL3_Stripper_1_Question7_Choice2	<1337>	<1337>
+QuestLoc_NVB_QL3_Stripper_1_Question7_Choice3	<Bash it open>	<砸开它>
+QuestLoc_NVB_QL3_Stripper_1_Question8	Hummmmadummmmdummm	哼～嗯～哒嗯～嗯～
+QuestLoc_NVB_QL3_Stripper_1_Question8_Choice1	Wait, is that Deathclaw humming? It gives off real boss vibes!	等等，那只死爪在哼歌？它真有一股老大范儿！
+QuestLoc_NVB_QL3_Stripper_1_Question9	What are you doing here, Sweet Peach? Don't you know the place is crawling with Deathclaws?	你在这儿干什么，甜桃？你不知道这地方爬满了死爪吗？
+QuestLoc_NVB_QL3_Stripper_1_Question9_Answer1	Ah, Pumpkin, do I look like I need saving?	啊，小南瓜，你看我像需要拯救的吗？
+QuestLoc_NVB_QL3_Stripper_1_Question9_Answer2	Well, hurrah for me, I guess. Would you like a little kiss on the cheek with that?	嗯，那可真该为我欢呼了。要不要顺便在你脸上亲一口？
+QuestLoc_NVB_QL3_Stripper_1_Question9_Choice1	Of course we do, and we came here to save you.	当然啦，我们就是来救你的。
+QuestLoc_NVB_QL3_Stripper_1_Question9_Choice2	We killed the Deathclaws. You're welcome!	我们干掉了那些死爪。不用谢！
+QuestLoc_NVB_QL3_Stripper_2_QuestLongDesc	Attend the Town Hall on The Strip to discuss defense strategy and secure allies.	出席新维加斯大道的市政厅会议，讨论防御策略并争取盟友。
+QuestLoc_NVB_QL3_Stripper_2_QuestName	Town Hall	市政厅
+QuestLoc_NVB_QL3_Stripper_2_QuestObjective1	Attend the gathering	出席集会
+QuestLoc_NVB_QL3_Stripper_2_QuestObjective2	Secure Securitrons support	争取保安机器人的支持
+QuestLoc_NVB_QL3_Stripper_2_QuestShortDesc	Attend the Town Hall on The Strip.	出席新维加斯大道的市政厅会议。
+QuestLoc_NVB_QL3_Stripper_2_Question0_Choice1	Much obliged.	非常感谢。
+QuestLoc_NVB_QL3_Stripper_2_Question0_Line1	Welcome to the Town Hall!	欢迎来到市政厅！
+QuestLoc_NVB_QL3_Stripper_2_Question0_Line2	If you're looking for the meeting, take the elevator up.	要是你找会场的话，坐电梯上楼。
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1	Hey, if, like the others, you're here for my world-famous Deathclaw poison, forget it.	嘿，要是你和别人一样，是来要我的世界著名死爪毒药的，那就免谈。
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Answer1	Hey, I'm a poisoner, not a miracle worker.	嘿，我是制毒师，不是创造奇迹的人。
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Answer2	Nah, I decided to work on bio-engineering furry roaches instead.	不，我改主意了，决定去搞毛茸茸蟑螂的生物工程。
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Answer3	<Eye roll> Next you'll tell me you can wrestle one barehanded...	<翻个白眼> 接下来你是不是要说你能赤手空拳摔一只？……
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Choice1	So you just gave up?	所以你就放弃了？
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Choice2	Don't stop at the first hurdle! Keep at it!	别遇到第一个坎就停下！继续干！
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line1_Choice3	Whatever. They ain't resisting bullets, I'll tell you that.	随你吧。反正它们挡不住子弹，这点我可以告诉你。
+QuestLoc_NVB_QL3_Stripper_2_Question1_Line2	The Deathclaws have developed a resistance.	死爪已经产生了抗性。
+QuestLoc_NVB_QL3_Stripper_2_Question2	Hey, what's this tucked away in the corner? An Enclave uniform!	嘿，角落里藏着什么？一件英克雷制服！
+QuestLoc_NVB_QL3_Stripper_2_Question2_Choice1	An Enclave uniform? Hmm… that's suspicious.	英克雷制服？嗯……真可疑。
+QuestLoc_NVB_QL3_Stripper_2_Question3	Hey! You! Psst! I can help with the Deathclaws. I need a sample of their DNA though. Can you arrange that?	嘿！喂！嘘！我能帮忙对付死爪。但我需要它们的DNA样本。你能弄到吗？
+QuestLoc_NVB_QL3_Stripper_2_Question3_Answer1	I'm obviously not talking to the right people. Move along.	很显然，我找错人了。走开。
+QuestLoc_NVB_QL3_Stripper_2_Question3_Answer2	The Enclave is everywhere. Oops. And now I must ensure your silence.	英克雷无处不在。哎呀。现在，我得让你永远闭嘴了。
+QuestLoc_NVB_QL3_Stripper_2_Question3_Answer3	Mission compromised. Leave no witnesses.	任务暴露。不留活口。
+QuestLoc_NVB_QL3_Stripper_2_Question3_Choice1	What the heck is NDA?	NDA到底是个什么鬼？
+QuestLoc_NVB_QL3_Stripper_2_Question3_Choice2	You don't look like you're from around here.	你看起来不像是本地人。
+QuestLoc_NVB_QL3_Stripper_2_Question3_Choice3	We found an Enclave uniform earlier. Yours?	我们刚才捡到一件英克雷制服。你的？
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line1	Deathclaws everywhere, and no Ma June to make me her famous Omelet...	到处是死爪，却没人能做玛·琼那道拿手煎蛋卷……
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Answer1	A gastronome after my own heart! Here's something to help your hunt.	真是懂吃的同道中人！这个能帮你觅食。
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Answer2	Where you find one, chances are you'll find the other. Take this. It'll get you in the mood.	找到一个，多半就能找到另一个。拿着这个。能让你进入状态。
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Choice1	Deathclaw eggs are hard to come by, but I too would like a taste.	死爪蛋难得一见，不过我也想来一口。
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line1_Choice2	I find 'em rubbery and foul. Me like the steak better.	我觉得那玩意儿口感像橡胶一样又腥又难吃。我还是更喜欢死爪肉排。
+QuestLoc_NVB_QL3_Stripper_2_Question4_Line2	Oh, didn't see you there!	哦，没看见你在这儿！
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1	For the last time, your mother is a hag, and I don't want her in our home.	我最后再说一遍，你妈就是个巫婆，我才不要她住进我们家里来。
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Answer1	That's right. Mind your own business and pitter-patter out of here.	没错。少管闲事，赶紧从这儿溜走吧。
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Answer2	Don't talk trash about her mom, I'll smack you.	别说她妈妈的坏话，不然我揍你。
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Answer3	This!	这个！
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Choice1	<say nothing>	<什么也不说>
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Choice2	In-laws, am I right?	亲戚之间那点破事，对吧？
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line1_Choice3	What happened to the ex?	前夫后来怎么了？
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line2	Don't look at me with knives in your eyes. I know what happened to your ex-husband!	别用刀一般的眼神瞪我。我知道你前夫出了什么事！
+QuestLoc_NVB_QL3_Stripper_2_Question5_Line3	Ah! Nosy Rosy is here!	啊！爱管闲事的罗西来了！
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1	Hear me. We need more help, or the Deathclaws will destroy New Vegas.	听我说。我们需要更多帮助，否则死爪会毁掉新维加斯。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Answer1	Then this will help you. We'll keep in touch.	那这个能帮上你。我们保持联系。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Answer2	You are jesting, I'm sure? No? What if we pay you like… a lot?	你是在开玩笑吧？不是？那如果我们付你很多钱呢？
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Answer3	How about we send a couple of our finest combat-ready pets. Keep them alive, will you?	派几只我们最精锐的战斗宠物去怎么样？可千万别让它们送命了，好吗？
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Choice1	We are here to help. Recruiting allies and stocking up on weapons.	我们是来帮忙的。招募盟友，囤积武器。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Choice2	You are on your own. We just came here to watch you fail.	你们自求多福吧。我们只是来看你们怎么惨败的。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line1_Choice3	We'll fight them off, but not alone. You, too, are capable.	我们会击退它们，但不是孤军奋战。你们也有能力。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line2	I know some of you just want to pack up and leave, but that ain't the way.	我知道你们有些人只想收拾东西走人，但那样可不行。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line3	We need to stick together and mount a defense.	我们必须团结起来，组织防御。
+QuestLoc_NVB_QL3_Stripper_2_Question6_Line4	Ah! Vault Dwellers! The capable kind. Welcome!	啊！避难所居民！还是身手不凡的那种。欢迎欢迎！
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line1	Ah, crawled out of your vault? Here to ask for my Securitrons, like the so-called “leaders” of the Strip?	啊，从你们的避难所里爬出来了？像新维加斯大道那些所谓的“领袖”一样，来找我要保安机器人？
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line1_Answer1	This weapon might come in handy. You should also seek a Ghoul who calls himself The King. He is useful.	这把武器或许派得上用场。你还应该去找一位自称为“猫王”的尸鬼。他很有用。
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line1_Answer2	Another sycophant! Then The King will adore you. You should seek his help too. And take this for your trouble.	又是一个阿谀奉承之辈！那“猫王”肯定会很喜欢你的。你也该去向他求援。拿着这个吧，算作你的辛苦费。
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line1_Choice1	Glad to hear. Anything else you can help with?	很高兴听你这么说。你还能帮上别的忙吗？
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line1_Choice2	Mr. House! What an honor to meet you!	豪斯先生！见到你真是荣幸！
+QuestLoc_NVB_QL3_Stripper_2_Question7_Line2	Of course they'll help. This is my home too.	它们当然会出力。毕竟这里也是我的家园。
+QuestLoc_NVB_QL3_Stripper_3_CombatInit4	Wrong place, scoundrels! This room is off limit.	来错地方了，恶棍！这房间是禁区。
+QuestLoc_NVB_QL3_Stripper_3_QuestLongDesc	The King is a major player on The Strip. He can tip the scales against the Deathclaws.	“猫王”是新维加斯大道上的重要人物。他能扭转对抗死爪的战局。
+QuestLoc_NVB_QL3_Stripper_3_QuestName	Pleading to the King	恳请猫王
+QuestLoc_NVB_QL3_Stripper_3_QuestObjective1	Ask the King for help	向猫王求助
+QuestLoc_NVB_QL3_Stripper_3_QuestShortDesc	We need to enlist the King to fight against Deathclaws.	我们需要争取猫王的力量来共同对抗死爪。
+QuestLoc_NVB_QL3_Stripper_3_Question1	I'm so excited to join the King Impersonator School! Do you think he'll welcome me?	能加入猫王模仿者学校我太兴奋了！你觉得他会接纳我吗？
+QuestLoc_NVB_QL3_Stripper_3_Question1_Answer1	My hair is perfect, you meanie... <sob>	我的头发完美极了，你这坏蛋……<抽泣>
+QuestLoc_NVB_QL3_Stripper_3_Question1_Answer2	That's the third fee I've been asked to pay. How many more are there?	这已经是我被要求交的第三笔报名费了。到底还有多少笔啊？
+QuestLoc_NVB_QL3_Stripper_3_Question1_Answer3	I make my own pomade out of Wonderglue. Here. Try for yourself.	我自己用万能胶做发油。给。你试试看。
+QuestLoc_NVB_QL3_Stripper_3_Question1_Choice1	They love greasy hair, but dude, not that greasy!	他们确实喜欢油头，但老兄，也不至于油成这样吧！
+QuestLoc_NVB_QL3_Stripper_3_Question1_Choice2	Sure will. Just so happens I'm here to collect the registration fees.	当然会。正好我是来收报名费的。
+QuestLoc_NVB_QL3_Stripper_3_Question1_Choice3	Well met, fellow hopeful! We're here for the same reason. Any tip?	幸会，同行追梦人！我们目标一致。有啥建议吗？
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1	Remember, every man should aspire to be a king in their own right.	记住，每个男人都该立志凭自身本事成为王者。
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Answer1	I'm the boss of my own destiny, you bet! But you must mean The King! He's up top!	我当然是我自己命运的主宰！不过你找的一定是猫王本尊吧！他在最顶楼！
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Answer2	That's the spirit! You'll have to meet The King first. Higher floor.	要的就是这股劲！你得先去见见猫王，在楼上。
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Answer3	Easily solved. Also, go ask the King for permission, up a couple of floors.	这好办。另外，上几层楼去征求猫王的同意吧。
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Choice1	Are you the boss?	你是老板吗？
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Choice2	Uh-huh-huh, yeah!	呃哼哼，是啊！
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line1_Choice3	I lack the proper attire.	我缺身像样的行头。
+QuestLoc_NVB_QL3_Stripper_3_Question2_Line2	Ah, newcomers! Here to join the lesson?	啊，新来的！来上我的课？
+QuestLoc_NVB_QL3_Stripper_3_Question3	I hate this place. I want out! I want out! I want ourrrrrrrrrgh!	我恨这个地方。我要出去！我要出去！我要出……呃啊啊啊啊啊！
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1	Ah! A Vault Dweller! A rare sight! And yes, I'm the King.	啊！避难所居民！真是稀客！没错，我就是猫王。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Answer1	Ah! That's something the King can respect, but you won't refuse this boon, will ya?	啊！这值得猫王的敬重，但你总不会拒绝这份赏赐吧？
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Answer2	But of course! Are your pockets deep enough?	当然！你的腰包够鼓吗？
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Answer3	Then the King grants your request with glee. You'll need this.	那么猫王欣然恩准你的请求。你会需要这个的。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Answer4	I'm certain I've got a six-pack somewhere. Don't drink it all in one sitting!	我肯定在哪儿藏了六连包。可别一口气全喝光了！
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Choice1	Knowing you'll fight alongside us is it's own reward.	知道你会与我们并肩作战，本身就是一种回报。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Choice2	Caps are always good.	瓶盖永远不嫌多。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Choice3	I'd like to officially join the Kings.	我想正式加入猫王帮。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line1_Choice4	We do a lot of travelling. Makes one thirsty. Any Nuka Cola Quantum around?	我们经常赶路。容易口渴。有量子核子可乐吗？
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line2	I heard you're helping with the Deathclaw problem.	我听说你们在帮忙解决死爪的问题。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line3	You inspired me to rally my boys and join the fight.	受你们鼓舞，我集结了兄弟们参战。
+QuestLoc_NVB_QL3_Stripper_3_Question5_Line4	And for your part, The King would like to grant you a favor!	为了感谢你的付出，猫王愿满足你一个心愿！
+QuestLoc_NVB_QL3_Stripper_4_QuestLongDesc	Our efforts have paid off. The last remaining Deathclaws and their Alpha have been cornered in a cave.	我们的努力有了回报。最后剩下的死爪和它们的首领阿尔法被逼进了一个山洞。
+QuestLoc_NVB_QL3_Stripper_4_QuestName	Omega that Alpha!	终结那个阿尔法！
+QuestLoc_NVB_QL3_Stripper_4_QuestObjective1	Defeat the Alpha Deathclaw	击败领头死爪
+QuestLoc_NVB_QL3_Stripper_4_QuestObjective2	Loot the Alpha's stash	搜刮阿尔法的存货
+QuestLoc_NVB_QL3_Stripper_4_QuestShortDesc	We have trapped the Alpha Deathclaw. Time to end the threat.	我们已经困住了领头死爪。是时候终结这个威胁了。
+QuestLoc_NVB_QL3_Stripper_4_Question0	Aw, man! Stop the violence! Deathclaws are just one of Earth's precious babies	哎呀，老兄！住手吧！死爪也是地球珍贵的宝贝生灵啊。
+QuestLoc_NVB_QL3_Stripper_4_Question0_Answer1	That's not a loving attitude.	那可不是有爱的态度。
+QuestLoc_NVB_QL3_Stripper_4_Question0_Answer2	You're brutes. But we came prepared.	你们是暴徒。但我们早有准备。
+QuestLoc_NVB_QL3_Stripper_4_Question0_Answer3	See? You get it. So you'll go in and help them, right? RIGHT?	瞧？你懂我的意思。所以你会进去帮它们，对吧？对吧？
+QuestLoc_NVB_QL3_Stripper_4_Question0_Choice1	I have half a mind to let them gnaw on your bones. Get out of here, idiot!	我有点想让它们啃你的骨头。滚出这里，蠢货！
+QuestLoc_NVB_QL3_Stripper_4_Question0_Choice2	You're in my way. So I will remove you.	你挡了我的路。所以我得除掉你。
+QuestLoc_NVB_QL3_Stripper_4_Question0_Choice3	Maybe you're onto something. I met a talking Deathclaw once.	也许你有点道理。我碰到过一只会说话的死爪。

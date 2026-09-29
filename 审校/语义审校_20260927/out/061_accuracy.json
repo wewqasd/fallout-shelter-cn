@@ -1,0 +1,87 @@
+{
+ "chunk": "061",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewC_Conversation_3_NPCEnd_3",
+   "severity": "S3",
+   "type": "多译",
+   "problem": "EN 是 The treasures of our land are yours，说的是「我们国土上的财富」；ZH 译成「城堡里的财富」，凭空加进了 EN 没有的地点「城堡」，同时把 our land（我们的国土/领地）丢掉。同一段的 NPCStart_2 也把 My land 译成「我的城堡」，是同一种误读。",
+   "fix": "我们国土上的财富都是你们的。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewC_Conversation_3_NPCStart_2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN My land is generous, and noble 是国王自夸「我的领地慷慨、高贵」；ZH 变成「我的城堡美丽又神圣」——land 被译成城堡，generous（慷慨/富饶）被译成「美丽」，noble（高贵）被译成「神圣」，两个形容语全部换了意思。上文 Conversation_2 里 NPC 还特意吐槽过「你们在避难所里，不是城堡里」，这里把 Vault 说成城堡也与设定相抵。",
+   "fix": "我的领地慷慨而高贵。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewE_Conversation_1_NPCEnd_3",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "The bets are off 意为「赌局作废/停止下注」，与 ZH「赌注已下」正好相反；the fix is in 才是「结果早已内定」。前一句的赌场意思被译反，玩家读到的是「已经下注、胜负已定」，而这句是庄家在喊停。",
+   "fix": "赌局作废，胜负早已内定！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewE_Conversation_2_NPCStart_2",
+   "severity": "S3",
+   "type": "病句",
+   "problem": "「猜对了话就能赢得奖励」缺一个「的」，应为「猜对了的话」（或「猜对了就有」）。另外 draw a card 在纸牌赌局里是「抽一张牌」（后文选项是红桃Q、黑桃A），「抽一张卡」用词不贴。",
+   "fix": "我准备抽一张牌。猜对了就能赢得奖励！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_VaultTecExperimentReviewF_Conversation_1_NPCEnd_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "这是摔跤避难所里的台词，move 是「招式/动作」，ZH 译成「多么了不起的一步」，读起来像是对手迈了一步，跟后半句「我们完蛋了」对不上；同段 NPCStart_2 的 signature move 就译成了「大招」，前后不一致。",
+   "fix": "哦不！多么了不起的一招！我们完蛋了！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_VaultopolisAwaits_QuestLongDescription",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN 结尾 otherwise known as Vaultopolis（也就是所谓的避难所大都会）整句消失，玩家在任务描述里只看到「525号避难所」，与任务名和任务目标里的「避难所大都会」失去关联，而这正是本条任务线追了五六个任务的专名。另外 evil Raider wannabe 的 wannabe（妄想当掠夺者的）也被译丢，直接变成「一个邪恶的掠夺者」。",
+   "fix": "宝拉·普朗布金到头来其实只是个妄想当掠夺者的坏蛋，但至少她告诉了我们525号避难所的位置，也就是所谓的避难所大都会！",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_NPCStart_2",
+   "severity": "S3",
+   "type": "误译",
+   "problem": "EN 是 have started shooting each other，冲突已经开始；ZH「都快因为这些愚蠢的作品开始互相射击了」表达的是「还没开始、即将开始」，把已发生的事说成尚未发生，与交代任务的语境相冲。另外 serials 指战前的「连载剧/连载小说」，译成「作品」看不出下一段为什么问第二卷第七期。",
+   "fix": "那些呆子因为这些愚蠢的连载剧，已经开始互相射击了！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_1_Team_1",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "get right on it 是「马上就去办/立刻着手」，ZH 译成「我们会说到的」，变成了「我们会提到这件事」，把队伍承接任务的动作换成了「说」；玩家读到的是队伍只打算提一句。",
+   "fix": "好，我们这就去办。主要的派系有哪些？",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WaroftheNerds_Conversation_2_NPCEnd_1",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "lay down our arms 是「都放下武器（别打了）」，ZH 只译成「让我们放松」，把「放下武器/停火」这层关键意思整个丢掉了——而这正是这场科幻迷互相开枪事件得以收场的核心动作。",
+   "fix": "正确！让我们都放下武器，重温一下那集经典吧。",
+   "confidence": "high"
+  },
+  {
+   "key": "QuestLoc_WastelandDoctoring_Conversation_1_Team_3",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "Courtesy of ... 是固定说法，意为「由……（免费）提供」，your friendly neighborhood Vault 是顺手玩「友好的邻居」这个熟梗；ZH「这是出于避难所邻居的友好礼节」把 courtesy 译成「礼节」，句子本身也读不通（「这是出于……礼节」缺中心语），并丢掉了「由避难所提供」的意思。",
+   "fix": "快捷的医疗服务！由你们友好的邻居避难所免费提供！",
+   "confidence": "medium"
+  }
+ ]
+}

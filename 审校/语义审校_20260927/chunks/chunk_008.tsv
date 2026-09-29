@@ -1,0 +1,181 @@
+key	EN	ZH
+KeyboardMapping_OpenWindowDailyReport	Daily Report	每日报告
+KeyboardMapping_OpenWindowDwellers	Dweller List	居民列表
+KeyboardMapping_OpenWindowFriendList	Social	社交
+KeyboardMapping_OpenWindowGameSettings	Settings/Cancel	设置/取消
+KeyboardMapping_OpenWindowHelp	Help	帮助
+KeyboardMapping_OpenWindowInventory	Inventory	库存
+KeyboardMapping_OpenWindowLunchBoxCollection	Collection	收藏
+KeyboardMapping_OpenWindowObjective	Objectives	目标
+KeyboardMapping_OpenWindowQuestList	Quest List	任务
+KeyboardMapping_OpenWindowQuestOptions	Open the Quest Menu	打开任务菜单
+KeyboardMapping_OpenWindowShop	Shop	商店
+KeyboardMapping_OpenWindowStat	Stats	状态
+KeyboardMapping_OpenWindowSurvivalGuide	Survival Guide	生存指南
+KeyboardMapping_OpenWindowWasteland	Wasteland	废土
+KeyboardMapping_RenameSelectedActor	Rename	重命名
+KeyboardMapping_Reset	CANCEL	取消
+KeyboardMapping_ResetToDefault	REVERT TO DEFAULTS	恢复默认值
+KeyboardMapping_TiltCameraLeft	Tilt Camera Left	向左倾斜镜头
+KeyboardMapping_TiltCameraReset	Reset Camera Tilt	重置相机倾斜度
+KeyboardMapping_TiltCameraRight	Tilt Camera Right	向右倾斜镜头
+KeyboardMapping_ZoomingCameraIn	Zoom Camera In	画面放大
+KeyboardMapping_ZoomingCameraOut	Zoom Camera Out	画面缩小
+LivingQuarters_Upgrade_Info	Your Vault capacity is already at its maximum.	您的避难所容量已达上限。
+Loading_PleaseStandBy	PLEASE STAND BY	请等待
+Login_ConnectionError	CONNECTION ERROR	连接错误
+Login_FullName	FULL NAME	全名
+Login_InvalidUsernameOrPassword	INVALID USERNAME OR PASSWORD	无效的用户名或密码
+Login_Login	LOGIN	登录
+Login_Password	PASSWORD	密码
+Login_PasswordConfirm	CONFIRM PASSWORD	确认密码
+Login_PasswordDoesntMatch	PASSWORD DOESN'T MATCH	两次输入的密码不一致
+Login_PleaseWait	PLEASE WAIT...	请等待……
+Login_SignUp	SIGN UP	注册
+Login_Username	USERNAME	用户名
+Login_UsernameAlreadyInUse	USERNAME ALREADY IN USE	用户名已存在
+Logout_Confirm	Are you sure you want to logout?	确定要注销登录？
+LunchBox_Card1_Title	Card 1 Odds:	卡牌1几率：
+LunchBox_Card2_Title	Card 2 Odds:	卡牌2几率：
+LunchBox_Card3_Title	Card 3 Odds:	卡牌3几率：
+LunchBox_Card4_Title	Card 4 Odds:	卡牌4几率：
+LunchBox_Card5_Title	Card 5 Odds:	卡牌5几率：
+LunchBox_Card_Title	A Card that Contains:	一张包含以下内容的卡牌：
+LunchBox_ContentLine1	Items that could be Dwellers, CAPS, Resources, Weapons, Armor, Pets, StimPacks, RadAways, Junk, Mr. Handy or Nuka-Cola Quantum.	物品可能是居民、瓶盖、资源、武器、装备、宠物、治疗针、消辐宁、垃圾、巧手先生或量子核子可乐。
+LunchBox_ContentLine2	Total of 5 cards drawn in a random order	随机抽取5张卡
+LunchBox_ContentRedeemTitle1	Lunchbox	午餐盒
+LunchBox_ContentRedeemTitle2	Bundle of 5 Lunchboxes	5个午餐盒
+LunchBox_ContentRedeemTitle3	Bundle of 15 Lunchboxes	15个午餐盒
+LunchBox_ContentRedeemTitle4	Bundle of 40 Lunchboxes	40个午餐盒
+LunchBox_ContentTitle	EACH LUNCHBOX CONTAINS:	每个午餐盒包括：
+LunchBox_Content_Card1	CAPS (100%)	瓶盖（100%）
+LunchBox_Content_Card2	Common Weapon (37.5%)\nRare Weapon (8.8%)\nLegendary Weapon (1.7%)\nCommon Armor (41.4%)\nRare Armor (5.8%)\nLegendary Armor (1.8%)\nCommon Pet (2.3%)\nRare Pet (0.6%)\nLegendary Pet (0.1%)	普通武器 (37.5%)\n稀有武器 (8.8%)\n传奇武器 (1.7%)\n普通护甲 (41.4%)\n稀有护甲 (5.8%)\n传奇护甲 (1.8%)\n普通宠物 (2.3%)\n稀有宠物 (0.6%)\n传奇宠物 (0.1%)
+LunchBox_Content_Card3	Water (18.2%)\nFood (18.2%)\nEnergy (18.2%)\nNuka-Cola Quantum (9.0%) \nStimPack (18.2%)\nRadAway (18.2%)	净水 (18.2%)\n食物 (18.2%)\n能量 (18.2%)\n量子核子可乐 (9.0%) \n治疗针 (18.2%)\n消辐宁 (18.2%)
+LunchBox_Content_Card4	Common Junk (21.5%)\nRare Junk (46.7%)\nLegendary Junk (31.8%)	普通垃圾 (21.5%)\n稀有垃圾 (46.7%)\n传奇垃圾 (31.8%)
+LunchBox_Content_Card5	Rare Dweller (20.0%)\nLegendary Dweller (4.9%)\nMr. Handy (0.2%)\nSnip Snip (0.02%)\nRare Weapon (13.2%)\nLegendary Weapon (7.1%)\nRare Armor (12.9%)\nLegendary Armor (7.8%)\nCommon Pet (0.02%)\nRare Pet (1.0%)\nLegendary Pet (0.3%)\nCAPS (32.6%)	稀有居民 (20.0%)\n传奇居民 (4.9%)\n巧手先生 (0.2%)\n咔嚓 (0.02%)\n稀有武器 (13.2%)\n传奇武器 (7.1%)\n稀有护甲 (12.9%)\n传奇护甲 (7.8%)\n普通宠物 (0.02%)\n稀有宠物 (1.0%)\n传奇宠物 (0.3%)\n瓶盖 (32.6%)
+LunchBox_DoYouWantToBuyOne	You don't have any LunchBoxes, would you like to buy one?	您没有午餐盒，是否想要买一个？
+LunchBox_NotEnoughNuka	You don't have enough CAPS	没有足够的瓶盖
+LunchBox_WindowTitle	Lunchboxes	午餐盒
+MainMenu_EnterVault	ENTER VAULT {0}	进入避难所{0}
+MainMenu_NoVaultTitle_Season	NO STANDARD VAULT FOUND	未找到标准避难所
+MainMenu_NoVault_Season	Vault-Tec recommends that first-time Overseers begin by creating a Standard Vault. Would you like to continue creating an Experimental Vault instead?	避难所科技建议初次担任监督者的玩家先创建标准避难所。是否继续创建实验避难所？
+MainMenu_NoVault_Survival	We strongly recommend you play with a normal mode Vault to learn the game basics before trying the Survival Mode.	我们强烈建议您先玩正常模式，学习游戏的基本知识，然后再尝试生存模式。
+MainMenu_SeasonVaultCreationMessage_Body	Vault-Tec engineered this EXPERIMENTAL VAULT to operate precisely for the season's duration and will retire it at the end of the experiment.	避难所科技精心设计此实验避难所，使其在赛季期间精确运行，并将在实验结束时退役。
+MainMenu_SeasonVaultCreationMessage_Title	SECRET BRIEFING	机密简报
+MainMenu_Survival_Mode	Survival Mode	生存模式
+MainMenu_Survival_Mode_Confirm	Vault-Tec Priority Alert! We have detected that you have opted into our most rigorous and hazardous social experiment yet – Survival Mode! In Survival Mode, your Vault will face deadlier threats, the need for resources will be greater, and you won't be able to revive dead Dwellers!	避难所科技特级警报！我们发现您正选择参加我们迄今为止最严苛、最危险的社会实验——生存模式！在生存模式中，您的避难所将面临更致命的威胁，对资源的需求也会更大，而且您将无法复活已死亡的居民！
+MainMenu_Survival_Mode_Confirm_Part02	What's more, once you proceed along this course, there's no going back! As there's no time to perform a complete psychological evaluation, Vault-Tec will have to assume you're in complete control of your faculties, and fully understand the ramifications of this choice. Good luck, Overseer!	还有，一旦您选择走上这条道路，您将无法回头！因为没时间去对您进行全面的心理评估，避难所科技只能假定您完全心智清醒，也明白此选择可能带来的后果。祝您好运，监督者！
+MainMenu_TapToStart	ENTER VAULT {0}	进入避难所{0}
+MainMenu_WelcomeTo	WELCOME TO	欢迎来到
+MainMenu_Xbox_SignIn	Please sign in.	请登录。
+MainMenu_Xbox_SignInError	Unhandled sign-in event	未处理的登录活动
+MainMenu_Xbox_SigningIn	Signing you in...	正在登录……
+MainMenu_Xbox_SwitchingProfile	Switching profile...	转换资料……
+Menu_Loading	LOADING	加载中
+Menu_NowLoading	Now loading...	正在加载……
+Message_Androind_QuitWarning_Text	Are you sure you want to quit Fallout Shelter?	您确定要退出辐射避难所吗？
+Message_Androind_QuitWarning_Title	QUIT	退出
+Message_CannotBuildUltraciteMine	NO VALID BUILDING SPACES. ULTRACITE MINES MUST BE BUILT ON AN ULTRACITE DEPOSIT AND CONNECTED TO THE VAULT.	没有有效建造位置。辐射极琉矿矿场必须建在辐射极琉矿矿床上且连接至避难所。
+Message_CannotClaimInExVault	You must be in a Standard Vault to claim this reward.	你必须在标准避难所中才能领取此奖励。
+Message_CantDestroyRoom_Dweller	You can't destroy this room because it has Dwellers assigned to it.	不能摧毁这个房间，因为其中有居民。
+Message_CantDestroyRoom_InUse	You can't destroy this room because it is being used	不能摧毁这个房间，因为它正被使用
+Message_CantDestroyRoom_MrHandy	You can't destroy this room because it has a Mr. Handy assigned to it.	不能摧毁这个房间，因为巧手先生在其中。
+Message_CantDestroyRoom_Path	You can't destroy this room because it is connected with two rooms.	不能摧毁这个房间，因为它与两个房间相连。
+Message_CantDestroyRoom_Storage	You can't destroy this room because its storage space is being used.	不能摧毁这个房间，因为它的存储空间正在被使用。
+Message_CantDestroyRoom_VaultDwellerSpace	Cannot destroy this room since your Vault would be overpopulated.	不能摧毁这个房间，否则总人口会超出房间容量。
+Message_CompleteThemeRecipeNukaQuantum	Complete this Theme Recipe for {0} Nuka-Cola Quantum?	想要使用{0}瓶量子核子可乐完成这个主题配方吗？
+Message_CraftingTimeSkipNukaQuantum	Instantly craft this item for {0} Nuka-Cola Quantum?	想要使用{0}瓶量子核子可乐来极速打造这件物品吗？
+Message_CriticalHit_Failed	FAILED	失败
+Message_CriticalHit_Multiplier	{0}X DAMAGE	{0}倍伤害
+Message_CustomizationTimeSkipNukaQuantum	Instantly complete this customization for {0} Nuka-Cola Quantum?	想要用{0}瓶量子核子可乐极速完成这次个性化吗？
+Message_DataUpdateRequired	There is new game data available. Please exit to the main menu and reload your Vault.	有新的游戏数据。请退出到主菜单并重新加载您的避难所。
+Message_DoYouWantDestroyTheRock	Do you really want to destroy this rock?	确定要摧毁岩石吗？
+Message_DoYouWantDestroyTheRoom	Do you really want to destroy this room?\nRefund: {0} CAPS	确定要摧毁房间吗？\n退款：{0}瓶盖
+Message_DoYouWantRemoveMrHandy	This will permanently remove this robot from your Vault, are you sure?	这将把此巧手先生从您的避难所永久移除，确定要继续吗？
+Message_DoYouWantToSellItem	Are you sure you want to sell {0} for {1} CAPS?	确定想以{1}瓶盖卖掉{0}吗？
+Message_DwellerBorn	New Baby	新的婴儿
+Message_DwellersWaiting	There are too many Dwellers in the waiting line.	排队的居民太多了。
+Message_EvictDweller	Do you really want to evict the Dweller?	您真的想驱逐这个居民吗？
+Message_ExperimentalVaultWarning	Experimental Vaults are challenging! Vault-Tec recommends first-time Overseers recruit {0} Dwellers in a Standard Vault before taking on the experiment.	实验避难所极具挑战！避难所科技建议初次上任的监督者先在标准避难所招募 {0} 名居民，再接受实验。
+Message_GenericPopup_Body	Vault-Tec has provided all Overseers with some special rewards!	避难所科技已经为所有监督者准备好了特殊奖励！
+Message_GenericPopup_Title	Vault-Tec Priority Alert!	避难所科技重要警报！
+Message_GoToQuestSkipNukaQuantum	Instantly start the Quest for {0} Nuka-Cola Quantum?	想要使用{0}瓶量子核子可乐来立即开始任务吗？
+Message_IncompatibleJoystick	Your controller might not be supported.  If you experience problems, please unplug it.	您的控制器可能不受支持。如果您遇到问题，请断开连接。
+Message_Intro_01	Congratulations! Vault-Tec has selected you to be the Overseer of Vault [XXX].	祝贺您！ 避难所科技已将您选作第[XXX]号避难所的监督者。
+Message_Intro_02	The Vault keeps people safe from the dangers of the Wasteland.	避难所能保证人们的安全，远离废土的危险。
+Message_Intro_03	As Overseer, your job is to expand and maintain the Vault, while keeping your Dwellers safe and happy.	作为监督者，您的工作是扩张和维持避难所的运转，同时让您的居民平安快乐。
+Message_Intro_04	Each room has a SPECIAL attribute it uses. Assign Dwellers with the best SPECIAL to make them happy and produce extra Resources.	每个房间都会使用一项 SPECIAL 属性。把 SPECIAL 属性最好的居民分配进去，能让他们开心并产出额外的资源。
+Message_Intro_05	Vault-Tec will give you a daily rating based on your performance. Remember to keep your Dwellers happy, and do a great job!	避难所科技会根据您的表现进行每日评级。记住要让您的居民开心，并且好好工作！
+Message_InventoryFailure	There was a problem retrieving your item list, please try again later.	检索项目列表时出现问题，请稍后重试。
+Message_LivingQuarters_Full	The Vault is full of Dwellers. Build more Living Quarters.	避难所里满是居民。请建造更多的宿舍。
+Message_MaxLevel	Max Level Reached	已达最高等级
+Message_NeedOverseerOffice	You must build the Overseer's Office before you can access the Quest List.	您必须先建造监督者办公室才能打开任务列表。
+Message_NoCraft_Incident	You can't Craft during an Incident.	不能在事件中打造物品。
+Message_NoCustomize_Incident	You can't Customize a Dweller during an Incident.	在事件发生时，不能对居民进行个性化。
+Message_NoDwellers	You don't have Dwellers assigned to this room.	没有居民被分配在此房间。
+Message_NoRush	You can't rush this room right now.	现在不能启动极速模式。
+Message_NoSkipTime	You cannot use Nuka-Cola Quantum at the moment. Try again later.	现在不能使用量子核子可乐。请稍后再试。
+Message_NoSpaceForRoom	No Space For Room	没有建造房间的空间
+Message_NoValidDwellerToStartQuestTutorial	You must have at least one Dweller in your Vault who can be sent to the Wasteland before you can build the Overseer's Office.	避难所里至少有一位能被派遣到废土上的居民，才能建造监督者办公室。
+Message_NotEnoughResources	You don't have enough resources	没有足够的资源
+Message_ObjectiveSkipNukaQuantum	Skip this Objective for {0} Nuka-Cola Quantum?	使用{0}瓶量子核子可乐来跳过这个目标吗？
+Message_OneHundredMillionPopup_Body	Together, we have achieved a major milestone:\n\nOver 100 Million Overseers have created their own unique Fallout Shelter!\nPlease enjoy this free gift, as Vault-Tec's way of saying... THANK YOU!\nAnd don't forget to come back tomorrow for another special reward!	经过大家的共同努力，我们取得了一个重要的里程碑：\n\n超过1亿名监督者已经创建了属于他们自己的避难所！\n请收下这份免费礼物，这是避难所科技在向您说……谢谢！\n别忘了明天再来领取另一份特别的奖励！
+Message_OneHundredMillionPopup_Body2	Together, we have achieved a major milestone:\n\nOver 100 Million Overseers have created their own unique Fallout Shelter!\nPlease enjoy this free gift, as Vault-Tec's way of saying... THANK YOU!	经过大家的共同努力，我们取得了一个重要的里程碑：\n\n超过1亿名监督者已经创建了属于他们自己的避难所！\n请收下这份免费礼物，这是避难所科技在向您说……谢谢！
+Message_OutOfAP	You don't have enough CAPS	没有足够的瓶盖
+Message_OutOfNukaCaps	You don't have enough CAPS	没有足够的瓶盖
+Message_OutOfNukaQuantum	You need {0} more Nuka-Cola Quantum. Shop for more?	您还需要{0}瓶量子核子可乐，是否购买更多？
+Message_OutOfNukaQuantumStoreButton	SHOP	商店
+Message_OutOfNukaQuantumStoreButton_Switch	OPEN ESHOP	打开在线商店
+Message_OutOfRadAway	You don't have any RadAway left	您没有任何消辐宁
+Message_OutOfStimpacks	You don't have any Stimpaks left	您没有任何治疗针
+Message_OverseerOfficeNoPower	The Overseer's Office can't run without Power. Generate more Power to get it back up and running!	电力不足，监督者办公室无法运行。请产生更多的电力来让其恢复。
+Message_PCOfflineMode	Fallout Shelter will run in Offline Mode. The store will be unavailable. To access the store, please restart the game via the Bethesda.net launcher.	辐射避难所将在离线模式下运行，商店不可用。若想进入商店，请通过Bethesda.net启动器来重启游戏。
+Message_PCOfflineMode_Steam	Steam is currently Offline. The store is temporarily unavailable, and you will not be able to make purchases.	Steam目前处于离线状态。商店不可用，无法购买任何商品。
+Message_PCServiceUnavailable	The Bethesda.Net service is temporarily unavailable, please try again later.	Bethesda.Net的服务暂时不可用，请稍后再试。
+Message_PS4EmptyStore	No items are available for purchase in the store at this time.	此时商店没有可供购买的商品。
+Message_PS4SignIn	You must be signed into PlayStation™Network to use this feature.	你必须登录PlayStation™Network以使用此功能。
+Message_ProductionTimeSkipNukaQuantum	Guarantee Rush for {0} Nuka-Cola Quantum?	花费{0}量子核子可乐保证完成加速？
+Message_PurchaseConnectionError	Cannot connect to the store, check your connection and try again!	无法连接到商店，请检查您的网络连接然后再试。
+Message_PurchaseDenied	Purchases are currently unavailable due to your device account settings.	由于您的设备账户设置，目前无法购买。
+Message_PurchaseFailure	Cannot purchase this item now, check your connection and try again!	现在无法购买这个商品，请检查您的网络连接然后再试。
+Message_PurchasePCConnectionError	The store is unavailable while running in Offline Mode. Please restart the game via the Bethesda.net launcher to access the store.	商店在离线模式下无法使用。请通过Bethesda.net启动器来重启游戏，然后进入商店。
+Message_QuestSkipNukaQuantum	Skip this Quest for {0} Nuka-Cola Quantum?	想用{0}瓶量子核子可乐来跳过任务吗？
+Message_Quest_DeadDweller_Recall_Warning	You will lose your dead Dweller(s). Are you sure you want to Recall?	您将失去死亡的居民。确定要召回吗？
+Message_Quest_DeadDweller_RemoveAll_Warning	You will lose your dead Dweller(s). Are you sure you want to Remove All?	您将失去死去的居民。您确定要全部移除吗？
+Message_Quest_DwellerNoLongerAvailable	{0} cannot be assigned to a Quest right now.	{0}现在无法被派去执行任务。
+Message_Quest_GiveUp	Any loot found on the Quest will be lost. Are you sure you want your Dwellers to give up?	任何在任务中找到的战利品将会丢失，您确定想放弃吗？
+Message_Quest_MaxTeams	You've already sent out the maximum number of Quest teams. Upgrade the Overseer's Office to send more.	你派去执行任务的小队数量已达上限。请升级监督者的办公室以提升上限。
+Message_Quest_MaxTeams_MaxLevel	You've already sent out the maximum number of Quest teams.	您派去执行任务的小队数量已达上限。
+Message_Quest_ReturnToVault	Are you sure you want your Dwellers to return to the Vault?	您确定要居民们返回避难所吗？
+Message_Quest_ReturnToWastelandFromSurpriseQuest	Continue exploring the Wasteland?	继续探索废土吗？
+Message_RadAway_NoRad	No radiation, RadAway use is not required	没有辐射伤害，不需要使用消辐宁。
+Message_Ready	Ready	准备
+Message_RedeemBeforeBuyingAgain	This item is already waiting to be claimed. Please Redeem it in the Shop before purchasing it again.	此物品正等待认领。请先到商店里兑换，然后再买。
+Message_RedeemPopup_Body	Go to the Shop to [ffff00]Redeem[-].\nItems can be redeemed at any time.	进入商店以 [ffff00]兑换[-]。\n你可以在任何时候兑换物品。
+Message_RedeemPopup_Continue	CLICK TO REDEEM	单击以兑换
+Message_RedeemPopup_Continue_Switch	TAP TO REDEEM	点击以兑换
+Message_RedeemPopup_Continue_Xbox	PRESS [A] TO REDEEM	按下以兑换
+Message_RedeemPopup_Hint	Items can only be claimed in one Vault.	物品只能被一所避难所认领。
+Message_RedeemPopup_Title	You have new purchases to claim!	你有新买的东西需要认领！
+Message_ReedemStarterPackAlreadyPurchased	Only one Starter Pack can be claimed per Vault. Please try again in a different Vault.	每所避难所只能认领一个新手包。请稍后在另一个避难所尝试。
+Message_RemoveDeadDweller	Do you really want to remove the dead Dweller?	您真的想移除死去的居民吗？
+Message_RemoveDeadDwellerQuest	Do you really want to remove any dead Dweller(s)?	您真的想移除死去的居民吗？
+Message_ReplaceLocalSave	Cloud Save will replace your current Local Game. Do you want to proceed?	云存档将取代您目前的本地存档。您想继续吗？
+Message_RoomInEmeregency	You can't Rush a room during an Incident.	在事件中无法启动房间的极速模式。
+Message_RoomMaxPets	No more Dwellers with Pets can be assigned to this room.	这个房间无法再加入带宠物的居民。
+Message_RoomRushing	A Room is currently in Rush Mode.	有房间正处于极速模式。
+Message_RoomSkipingTime	Another room is currently using Nuka-Cola Quantum. Try again later.	另外一个房间正在使用量子核子可乐。请稍后再试。
+Message_ScorchedConfirmationPopup	This will start the Scorched raid early. Are you ready?	这将立即触发辐尸人突袭。你准备好了吗？
+Message_Stimpack_FullHP	HP full, Stimpak use is not required	生命值全满，无需治疗针。
+Message_StorageFull_Crafting	You can't collect an item you've crafted while your Inventory is full.	当库存已满时无法收集打造好的物品。
+Message_StorageFull_Scrapping	You can't Scrap an item while your Inventory is full.	库存已满，您无法拆解物品。
+Message_ThemeChange_Diner	The Theme of all your fully merged and upgraded Diners will be changed from {0} to {1}. Are you sure?	所有已完全合并并升级的餐厅，其主题都将从{0}更改为{1}。确定吗？
+Message_ThemeChange_LivingQuarters	The Theme of all your fully merged and upgraded Living Quarters will be changed from {0} to {1}. Are you sure?	所有已完全合并并升级的宿舍，其主题都将从{0}更改为{1}。确定吗？
+Message_ThemeChange_NukaColaPlant	The Theme of all your fully merged and upgraded Nuka-Cola Plants will be changed from {0} to {1}. Are you sure?	你所有已完全合并并升级的核子可乐工厂主题将从{0}更改为{1}。确认吗？
+Message_ThemeChange_WeaponFactory	The Theme of all your fully merged and upgraded Weapon Plants will be changed from {0} to {1}. Are you sure?	你所有已完全合并并升级的武器车间主题将从{0}更改为{1}。确认吗？
+Message_ThemeCraftingTimeSkipNukaQuantum	Instantly craft this Theme for {0} Nuka-Cola Quantum?	想要使用{0}瓶量子核子可乐极速打造这个主题吗？
+Message_ThemeReload	You must reload your Vault to apply the {0} Theme. Do you want to reload your Vault now?	您必须重新加载您的避难所来使{0}主题生效。您想现在加载吗？
+Message_TooManyMrHandyInWasteland	You have already sent the maximum amount of Mr. Handys to the Wasteland	您派去废土探险的巧手先生数量已达上限。
+Message_TooManyVictorInWasteland	You have already sent the maximum amount of Victors to the Wasteland	你已将最大数量的维克托派往废土
+Message_TrainingTimeSkipNukaQuantum	Train your Dweller instantly for {0} Nuka-Cola Quantum?	您想使用{0}瓶量子核子可乐来极速完成居民训练吗？
+Message_TutorialPopup_01_Body	If you run low on any of these resources, the bars at the top of the screen will turn red.\n\nWhen low on Power, rooms will start shutting down.\nWhen low on Food, Dwellers start to lose health.\nWhen low on Water, Dwellers become irradiated.\n\nThe required resource line on the resource bar shows your Vault's current resource needs.	当任何一项资源不足时，屏幕顶端的资源条都会变红。\n\n电力不足时，房间将陆续停止运作。\n食物不足时，居民会开始损失生命值。\n水不足时，居民会受到辐射伤害。\n\n资源条上的所需资源线显示了避难所当前的资源需求。

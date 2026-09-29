@@ -1,0 +1,657 @@
+{
+ "chunks": [
+  {
+   "id": "001",
+   "path": "审校/语义审校_20260927/chunks/chunk_001.tsv",
+   "n": 180,
+   "first": "Achievement_Xbox_Completed_01",
+   "last": "Button_ReloadNow"
+  },
+  {
+   "id": "002",
+   "path": "审校/语义审校_20260927/chunks/chunk_002.tsv",
+   "n": 180,
+   "first": "Button_Reset",
+   "last": "CurieDialog_Wasteland_49"
+  },
+  {
+   "id": "003",
+   "path": "审校/语义审校_20260927/chunks/chunk_003.tsv",
+   "n": 180,
+   "first": "CurieDialog_Wasteland_50",
+   "last": "Encounter_Defeat_NPC1"
+  },
+  {
+   "id": "004",
+   "path": "审校/语义审校_20260927/chunks/chunk_004.tsv",
+   "n": 180,
+   "first": "Encounter_Defeat_NPC2",
+   "last": "Encounter_Progression_Repeatable_JunkLocation10"
+  },
+  {
+   "id": "005",
+   "path": "审校/语义审校_20260927/chunks/chunk_005.tsv",
+   "n": 180,
+   "first": "Encounter_Progression_Repeatable_JunkLocation11",
+   "last": "Encounter_Random_Message178"
+  },
+  {
+   "id": "006",
+   "path": "审校/语义审校_20260927/chunks/chunk_006.tsv",
+   "n": 180,
+   "first": "Encounter_Random_Message179",
+   "last": "Help_Page05_BottomText"
+  },
+  {
+   "id": "007",
+   "path": "审校/语义审校_20260927/chunks/chunk_007.tsv",
+   "n": 180,
+   "first": "Help_Page05_MainText",
+   "last": "KeyboardMapping_OpenWindowBuildMenu"
+  },
+  {
+   "id": "008",
+   "path": "审校/语义审校_20260927/chunks/chunk_008.tsv",
+   "n": 180,
+   "first": "KeyboardMapping_OpenWindowDailyReport",
+   "last": "Message_TutorialPopup_01_Body"
+  },
+  {
+   "id": "009",
+   "path": "审校/语义审校_20260927/chunks/chunk_009.tsv",
+   "n": 180,
+   "first": "Message_TutorialPopup_01_Hint",
+   "last": "Message_Tutorial_43"
+  },
+  {
+   "id": "010",
+   "path": "审校/语义审校_20260927/chunks/chunk_010.tsv",
+   "n": 180,
+   "first": "Message_Tutorial_43_PC",
+   "last": "MrHandyDialog_Generic_46"
+  },
+  {
+   "id": "011",
+   "path": "审校/语义审校_20260927/chunks/chunk_011.tsv",
+   "n": 180,
+   "first": "MrHandyDialog_Generic_47",
+   "last": "Notification_Title"
+  },
+  {
+   "id": "012",
+   "path": "审校/语义审校_20260927/chunks/chunk_012.tsv",
+   "n": 180,
+   "first": "NukaQuantum_Shop_Description_Case",
+   "last": "Objective_StopInvasionInExVault_Plural"
+  },
+  {
+   "id": "013",
+   "path": "审校/语义审校_20260927/chunks/chunk_013.tsv",
+   "n": 180,
+   "first": "Objective_StopInvasion_Plural",
+   "last": "Outfit_Description_RobotArmor"
+  },
+  {
+   "id": "014",
+   "path": "审校/语义审校_20260927/chunks/chunk_014.tsv",
+   "n": 180,
+   "first": "Outfit_Description_RothchildSpecial",
+   "last": "Outfit_Name_PowerArmor_T60d"
+  },
+  {
+   "id": "015",
+   "path": "审校/语义审校_20260927/chunks/chunk_015.tsv",
+   "n": 180,
+   "first": "Outfit_Name_PowerArmor_T60f",
+   "last": "Pet_Description_havanabrown_l"
+  },
+  {
+   "id": "016",
+   "path": "审校/语义审校_20260927/chunks/chunk_016.tsv",
+   "n": 180,
+   "first": "Pet_Description_husky_b",
+   "last": "QuestLoc_ALaborofLove_Conversation_2_NPCEnd_3"
+  },
+  {
+   "id": "017",
+   "path": "审校/语义审校_20260927/chunks/chunk_017.tsv",
+   "n": 180,
+   "first": "QuestLoc_ALaborofLove_Conversation_2_NPCStart_1",
+   "last": "QuestLoc_AlienBotQuest04_Conversation_2_PC1_4"
+  },
+  {
+   "id": "018",
+   "path": "审校/语义审校_20260927/chunks/chunk_018.tsv",
+   "n": 180,
+   "first": "QuestLoc_AlienBotQuest04_Conversation_2_PC2_2",
+   "last": "QuestLoc_ArmsRace_Conversation_1_NPCStart_1"
+  },
+  {
+   "id": "019",
+   "path": "审校/语义审校_20260927/chunks/chunk_019.tsv",
+   "n": 180,
+   "first": "QuestLoc_ArmsRace_Conversation_1_NPCStart_2",
+   "last": "QuestLoc_BountyOlOneEye_QuestObjective_1"
+  },
+  {
+   "id": "020",
+   "path": "审校/语义审校_20260927/chunks/chunk_020.tsv",
+   "n": 180,
+   "first": "QuestLoc_BountyOlOneEye_QuestShortDescription",
+   "last": "QuestLoc_ChristmasattheRaiderCamp_Conversation_2_NPCStart_1"
+  },
+  {
+   "id": "021",
+   "path": "审校/语义审校_20260927/chunks/chunk_021.tsv",
+   "n": 180,
+   "first": "QuestLoc_ChristmasattheRaiderCamp_Conversation_2_NPCStart_2",
+   "last": "QuestLoc_DaysGoneBye_QuestShortDescription"
+  },
+  {
+   "id": "022",
+   "path": "审校/语义审校_20260927/chunks/chunk_022.tsv",
+   "n": 180,
+   "first": "QuestLoc_DearthOfClaws_Conversation01_NPC01",
+   "last": "QuestLoc_DeathclawDeeLite_4_Question1_Choice1"
+  },
+  {
+   "id": "023",
+   "path": "审校/语义审校_20260927/chunks/chunk_023.tsv",
+   "n": 180,
+   "first": "QuestLoc_DeathclawDeeLite_4_Question1_Choice2",
+   "last": "QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_2"
+  },
+  {
+   "id": "024",
+   "path": "审校/语义审校_20260927/chunks/chunk_024.tsv",
+   "n": 180,
+   "first": "QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_3",
+   "last": "QuestLoc_ENC_QL1_LoveOfGold_4_Room4_Question_Line2"
+  },
+  {
+   "id": "025",
+   "path": "审校/语义审校_20260927/chunks/chunk_025.tsv",
+   "n": 180,
+   "first": "QuestLoc_ENC_QL1_LoveOfGold_4_Room4_Question_Line3",
+   "last": "QuestLoc_ENC_QL2_Defective_3_Room6_Question_Line1_Choice0"
+  },
+  {
+   "id": "026",
+   "path": "审校/语义审校_20260927/chunks/chunk_026.tsv",
+   "n": 180,
+   "first": "QuestLoc_ENC_QL2_Defective_3_Room6_Question_Line1_Choice1",
+   "last": "QuestLoc_ENC_QL3_Escalation_3_Room7_Question_Line1_Choice0"
+  },
+  {
+   "id": "027",
+   "path": "审校/语义审校_20260927/chunks/chunk_027.tsv",
+   "n": 180,
+   "first": "QuestLoc_ENC_QL3_Escalation_3_Room7_Question_Line1_Choice1",
+   "last": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room4_Question_Line2"
+  },
+  {
+   "id": "028",
+   "path": "审校/语义审校_20260927/chunks/chunk_028.tsv",
+   "n": 180,
+   "first": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room5_Question_Line1",
+   "last": "QuestLoc_FactoryFloorofFear_Conversation_1_Team_4"
+  },
+  {
+   "id": "029",
+   "path": "审校/语义审校_20260927/chunks/chunk_029.tsv",
+   "n": 180,
+   "first": "QuestLoc_FactoryFloorofFear_QuestLongDescription",
+   "last": "QuestLoc_FriendlySettlement_Conversation_2B_NPCEnd_1"
+  },
+  {
+   "id": "030",
+   "path": "审校/语义审校_20260927/chunks/chunk_030.tsv",
+   "n": 180,
+   "first": "QuestLoc_FriendlySettlement_Conversation_2B_NPCEnd_2",
+   "last": "QuestLoc_GameShowGauntletD_Conversation_1_NPCStart_1"
+  },
+  {
+   "id": "031",
+   "path": "审校/语义审校_20260927/chunks/chunk_031.tsv",
+   "n": 180,
+   "first": "QuestLoc_GameShowGauntletD_Conversation_1_NPCStart_2",
+   "last": "QuestLoc_GameShowGauntletH_Conversation_1_NPCEnd_1"
+  },
+  {
+   "id": "032",
+   "path": "审校/语义审校_20260927/chunks/chunk_032.tsv",
+   "n": 180,
+   "first": "QuestLoc_GameShowGauntletH_Conversation_1_NPCEnd_2",
+   "last": "QuestLoc_GetchaPeanutsHere_QuestName"
+  },
+  {
+   "id": "033",
+   "path": "审校/语义审校_20260927/chunks/chunk_033.tsv",
+   "n": 180,
+   "first": "QuestLoc_GetchaPeanutsHere_QuestObjective_1",
+   "last": "QuestLoc_GoingToTown_2_Question1_Choice2"
+  },
+  {
+   "id": "034",
+   "path": "审校/语义审校_20260927/chunks/chunk_034.tsv",
+   "n": 180,
+   "first": "QuestLoc_GoingToTown_2_Question1_Choice3",
+   "last": "QuestLoc_Headhunting_Question2_Answer1"
+  },
+  {
+   "id": "035",
+   "path": "审校/语义审校_20260927/chunks/chunk_035.tsv",
+   "n": 180,
+   "first": "QuestLoc_Headhunting_Question2_Answer2",
+   "last": "QuestLoc_HouseWarming_1_QuestName"
+  },
+  {
+   "id": "036",
+   "path": "审校/语义审校_20260927/chunks/chunk_036.tsv",
+   "n": 180,
+   "first": "QuestLoc_HouseWarming_1_QuestObjective1",
+   "last": "QuestLoc_HumanBeanJuice_QuestShortDescription"
+  },
+  {
+   "id": "037",
+   "path": "审校/语义审校_20260927/chunks/chunk_037.tsv",
+   "n": 180,
+   "first": "QuestLoc_HumansLikeUs_Conversation_1_NPCEnd_1",
+   "last": "QuestLoc_INS_QL1_MajorPlayers_3_Room1_Question_Line1_Choice2"
+  },
+  {
+   "id": "038",
+   "path": "审校/语义审校_20260927/chunks/chunk_038.tsv",
+   "n": 180,
+   "first": "QuestLoc_INS_QL1_MajorPlayers_3_Room3_Question_Line1",
+   "last": "QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line2"
+  },
+  {
+   "id": "039",
+   "path": "审校/语义审校_20260927/chunks/chunk_039.tsv",
+   "n": 180,
+   "first": "QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line3",
+   "last": "QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer0"
+  },
+  {
+   "id": "040",
+   "path": "审校/语义审校_20260927/chunks/chunk_040.tsv",
+   "n": 180,
+   "first": "QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer1",
+   "last": "QuestLoc_INS_QL4_Armistice_3_Room2_Question_Line1_Answer0"
+  },
+  {
+   "id": "041",
+   "path": "审校/语义审校_20260927/chunks/chunk_041.tsv",
+   "n": 180,
+   "first": "QuestLoc_INS_QL4_Armistice_3_Room2_Question_Line1_Answer1",
+   "last": "QuestLoc_JunkRun_QuestLongDescription"
+  },
+  {
+   "id": "042",
+   "path": "审校/语义审校_20260927/chunks/chunk_042.tsv",
+   "n": 180,
+   "first": "QuestLoc_JunkRun_QuestName",
+   "last": "QuestLoc_LittleMissWasteland_RaiderLine_1"
+  },
+  {
+   "id": "043",
+   "path": "审校/语义审校_20260927/chunks/chunk_043.tsv",
+   "n": 180,
+   "first": "QuestLoc_LittleMissWasteland_RaiderLine_2",
+   "last": "QuestLoc_MyMetalPony_Conversation_1_NPCEnd_3"
+  },
+  {
+   "id": "044",
+   "path": "审校/语义审校_20260927/chunks/chunk_044.tsv",
+   "n": 180,
+   "first": "QuestLoc_MyMetalPony_Conversation_1_NPCEnd_4",
+   "last": "QuestLoc_NVB_QL2_Leftovers_4_CombatInit1"
+  },
+  {
+   "id": "045",
+   "path": "审校/语义审校_20260927/chunks/chunk_045.tsv",
+   "n": 180,
+   "first": "QuestLoc_NVB_QL2_Leftovers_4_CombatInit6",
+   "last": "QuestLoc_NVB_QL3_Stripper_4_Question0_Choice3"
+  },
+  {
+   "id": "046",
+   "path": "审校/语义审校_20260927/chunks/chunk_046.tsv",
+   "n": 180,
+   "first": "QuestLoc_NVB_QL3_Stripper_4_Question1",
+   "last": "QuestLoc_OperationSandman_Conversation_4_NPCEnd_2"
+  },
+  {
+   "id": "047",
+   "path": "审校/语义审校_20260927/chunks/chunk_047.tsv",
+   "n": 180,
+   "first": "QuestLoc_OperationSandman_Conversation_4_NPCEnd_3",
+   "last": "QuestLoc_PittStop_Conversation01_NPC02"
+  },
+  {
+   "id": "048",
+   "path": "审校/语义审校_20260927/chunks/chunk_048.tsv",
+   "n": 180,
+   "first": "QuestLoc_PittStop_Conversation01_NPC03",
+   "last": "QuestLoc_ReleasetheRaiders_Conversation_1_NPCStart_3"
+  },
+  {
+   "id": "049",
+   "path": "审校/语义审校_20260927/chunks/chunk_049.tsv",
+   "n": 180,
+   "first": "QuestLoc_ReleasetheRaiders_Conversation_1_Team_1",
+   "last": "QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_4"
+  },
+  {
+   "id": "050",
+   "path": "审校/语义审校_20260927/chunks/chunk_050.tsv",
+   "n": 180,
+   "first": "QuestLoc_RunThreeDogRun_Conversation_3_Team_1",
+   "last": "QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1"
+  },
+  {
+   "id": "051",
+   "path": "审校/语义审校_20260927/chunks/chunk_051.tsv",
+   "n": 180,
+   "first": "QuestLoc_S2_QL3_SecuritronsUncapped_1_Question1_Line1_Answer1",
+   "last": "QuestLoc_ScienceCooperative_Conversation_2B_NPCStart_2"
+  },
+  {
+   "id": "052",
+   "path": "审校/语义审校_20260927/chunks/chunk_052.tsv",
+   "n": 180,
+   "first": "QuestLoc_ScienceCooperative_Conversation_2B_NPCStart_3",
+   "last": "QuestLoc_SlidingintoHome_Conversation_1_NPCStart_1"
+  },
+  {
+   "id": "053",
+   "path": "审校/语义审校_20260927/chunks/chunk_053.tsv",
+   "n": 180,
+   "first": "QuestLoc_SlidingintoHome_QuestLongDescription",
+   "last": "QuestLoc_SpringtimeforAtom_QuestlineName"
+  },
+  {
+   "id": "054",
+   "path": "审校/语义审校_20260927/chunks/chunk_054.tsv",
+   "n": 180,
+   "first": "QuestLoc_SpyonRaiders_Conversation_1A_NPCEnd_1",
+   "last": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_3"
+  },
+  {
+   "id": "055",
+   "path": "审校/语义审校_20260927/chunks/chunk_055.tsv",
+   "n": 180,
+   "first": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_1",
+   "last": "QuestLoc_TheBigsbyBrownCase_QuestObjective_2"
+  },
+  {
+   "id": "056",
+   "path": "审校/语义审校_20260927/chunks/chunk_056.tsv",
+   "n": 180,
+   "first": "QuestLoc_TheBigsbyBrownCase_QuestObjective_3",
+   "last": "QuestLoc_TheEndoftheRainbow_Conversation_2_NPCEnd_3"
+  },
+  {
+   "id": "057",
+   "path": "审校/语义审校_20260927/chunks/chunk_057.tsv",
+   "n": 180,
+   "first": "QuestLoc_TheEndoftheRainbow_Conversation_2_NPCStart_1",
+   "last": "QuestLoc_TheReluctantShill_Conversation_1_Team_1"
+  },
+  {
+   "id": "058",
+   "path": "审校/语义审校_20260927/chunks/chunk_058.tsv",
+   "n": 180,
+   "first": "QuestLoc_TheReluctantShill_QuestLongDescription",
+   "last": "QuestLoc_TheSpreadingBlight_QuestLongDescription"
+  },
+  {
+   "id": "059",
+   "path": "审校/语义审校_20260927/chunks/chunk_059.tsv",
+   "n": 180,
+   "first": "QuestLoc_TheSpreadingBlight_QuestName",
+   "last": "QuestLoc_TimetoWakeUp_QuestShortDescription"
+  },
+  {
+   "id": "060",
+   "path": "审校/语义审校_20260927/chunks/chunk_060.tsv",
+   "n": 180,
+   "first": "QuestLoc_TimetoWakeUp_RaiderLine_1",
+   "last": "QuestLoc_VaultTecExperimentReviewC_Conversation_3_NPCEnd_1"
+  },
+  {
+   "id": "061",
+   "path": "审校/语义审校_20260927/chunks/chunk_061.tsv",
+   "n": 180,
+   "first": "QuestLoc_VaultTecExperimentReviewC_Conversation_3_NPCEnd_2",
+   "last": "QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_3"
+  },
+  {
+   "id": "062",
+   "path": "审校/语义审校_20260927/chunks/chunk_062.tsv",
+   "n": 180,
+   "first": "QuestLoc_WastelandTheMusical_Conversation_3_NPCStart_4",
+   "last": "QuestLoc_WorkingOvertime_Conversation_2_NPCStart_1"
+  },
+  {
+   "id": "063",
+   "path": "审校/语义审校_20260927/chunks/chunk_063.tsv",
+   "n": 180,
+   "first": "QuestLoc_WorkingOvertime_Conversation_2_NPCStart_2",
+   "last": "Room_Energy2_3"
+  },
+  {
+   "id": "064",
+   "path": "审校/语义审校_20260927/chunks/chunk_064.tsv",
+   "n": 180,
+   "first": "Room_Energy2_Build",
+   "last": "SeasonPass_EndingSoon_NewVegasA"
+  },
+  {
+   "id": "065",
+   "path": "审校/语义审校_20260927/chunks/chunk_065.tsv",
+   "n": 180,
+   "first": "SeasonPass_EndingSoon_NewVegasB",
+   "last": "SnipSnipDialog_Wasteland_10"
+  },
+  {
+   "id": "066",
+   "path": "审校/语义审校_20260927/chunks/chunk_066.tsv",
+   "n": 180,
+   "first": "SnipSnipDialog_Wasteland_11",
+   "last": "Speech_Conversation_NPC1_Topic44"
+  },
+  {
+   "id": "067",
+   "path": "审校/语义审校_20260927/chunks/chunk_067.tsv",
+   "n": 180,
+   "first": "Speech_Conversation_NPC1_Topic45",
+   "last": "Speech_Conversation_NPC2_Topic55_Response3"
+  },
+  {
+   "id": "068",
+   "path": "审校/语义审校_20260927/chunks/chunk_068.tsv",
+   "n": 180,
+   "first": "Speech_Conversation_NPC2_Topic56_Response1",
+   "last": "Speech_Kid7"
+  },
+  {
+   "id": "069",
+   "path": "审校/语义审校_20260927/chunks/chunk_069.tsv",
+   "n": 180,
+   "first": "Speech_Kid8",
+   "last": "Speech_Quest_Alone_Dweller_8"
+  },
+  {
+   "id": "070",
+   "path": "审校/语义审校_20260927/chunks/chunk_070.tsv",
+   "n": 180,
+   "first": "Speech_Quest_Alone_Dweller_9",
+   "last": "Speech_Quest_Generic_Dweller_Conversation_25"
+  },
+  {
+   "id": "071",
+   "path": "审校/语义审校_20260927/chunks/chunk_071.tsv",
+   "n": 180,
+   "first": "Speech_Quest_Generic_Dweller_Conversation_25_Response_1",
+   "last": "Speech_Room_DeadDweller_Endurance"
+  },
+  {
+   "id": "072",
+   "path": "审校/语义审校_20260927/chunks/chunk_072.tsv",
+   "n": 180,
+   "first": "Speech_Room_DeadDweller_Energy2",
+   "last": "Stats_PetBreeds_Persian"
+  },
+  {
+   "id": "073",
+   "path": "审校/语义审校_20260927/chunks/chunk_073.tsv",
+   "n": 180,
+   "first": "Stats_PetBreeds_PitBullTerrier",
+   "last": "Title_Monitoring"
+  },
+  {
+   "id": "074",
+   "path": "审校/语义审校_20260927/chunks/chunk_074.tsv",
+   "n": 180,
+   "first": "Title_Music",
+   "last": "Tutorial_Tip_88"
+  },
+  {
+   "id": "075",
+   "path": "审校/语义审校_20260927/chunks/chunk_075.tsv",
+   "n": 180,
+   "first": "Tutorial_Tip_89",
+   "last": "Wasteland_ExteriorName_Enclave"
+  },
+  {
+   "id": "076",
+   "path": "审校/语义审校_20260927/chunks/chunk_076.tsv",
+   "n": 180,
+   "first": "Wasteland_ExteriorName_NewVegas",
+   "last": "Weapon_Description_Minigun"
+  },
+  {
+   "id": "077",
+   "path": "审校/语义审校_20260927/chunks/chunk_077.tsv",
+   "n": 180,
+   "first": "Weapon_Description_Minigun_ArmorPiercing",
+   "last": "Weapon_Name_Flamer_Burnmaster"
+  },
+  {
+   "id": "078",
+   "path": "审校/语义审校_20260927/chunks/chunk_078.tsv",
+   "n": 180,
+   "first": "Weapon_Name_Flamer_Enhanced",
+   "last": "Weapon_Name_SniperRifle"
+  },
+  {
+   "id": "079",
+   "path": "审校/语义审校_20260927/chunks/chunk_079.tsv",
+   "n": 24,
+   "first": "Weapon_Name_SniperRifle_ArmorPiercing",
+   "last": "title_device"
+  }
+ ],
+ "chunks_long": [
+  {
+   "id": "001",
+   "path": "审校/语义审校_20260927/chunks_long/long_001.tsv",
+   "n": 60,
+   "first": "Age_Verification_Leaderboard_Popup",
+   "last": "Help_Page22_MainText"
+  },
+  {
+   "id": "002",
+   "path": "审校/语义审校_20260927/chunks_long/long_002.tsv",
+   "n": 60,
+   "first": "Help_Page22_MainText_PC",
+   "last": "Message_TutorialPopup_08_Body_Xbox"
+  },
+  {
+   "id": "003",
+   "path": "审校/语义审校_20260927/chunks_long/long_003.tsv",
+   "n": 60,
+   "first": "Message_TutorialPopup_09_Hint",
+   "last": "Message_Tutorial_46_Xbox"
+  },
+  {
+   "id": "004",
+   "path": "审校/语义审校_20260927/chunks_long/long_004.tsv",
+   "n": 60,
+   "first": "Message_Tutorial_48",
+   "last": "NewVegasB_IntroPopup_Body"
+  },
+  {
+   "id": "005",
+   "path": "审校/语义审校_20260927/chunks_long/long_005.tsv",
+   "n": 60,
+   "first": "NonVaultFlags_CloudSaveFailed",
+   "last": "QuestLoc_BoogieWoogieBugleBoy_Conversation_1_Team_1"
+  },
+  {
+   "id": "006",
+   "path": "审校/语义审校_20260927/chunks_long/long_006.tsv",
+   "n": 60,
+   "first": "QuestLoc_BoogieWoogieBugleBoy_QuestLongDescription",
+   "last": "QuestLoc_Dog_QuestLongDescription"
+  },
+  {
+   "id": "007",
+   "path": "审校/语义审校_20260927/chunks_long/long_007.tsv",
+   "n": 60,
+   "first": "QuestLoc_DogsofWar_Conversation_3_NPCStart_2",
+   "last": "QuestLoc_Getting Started_QuestLongDescription"
+  },
+  {
+   "id": "008",
+   "path": "审校/语义审校_20260927/chunks_long/long_008.tsv",
+   "n": 60,
+   "first": "QuestLoc_Ghooooooooooooooooooul_QuestLongDescription",
+   "last": "QuestLoc_INS_QL2_Railroaded_3_QuestLongDesc"
+  },
+  {
+   "id": "009",
+   "path": "审校/语义审校_20260927/chunks_long/long_009.tsv",
+   "n": 60,
+   "first": "QuestLoc_INS_QL2_Railroaded_3_Room0_Question_Line1_Answer0",
+   "last": "QuestLoc_NoStoneUnturned_QuestLongDescription"
+  },
+  {
+   "id": "010",
+   "path": "审校/语义审校_20260927/chunks_long/long_010.tsv",
+   "n": 60,
+   "first": "QuestLoc_NoTimeforPaws_Conversation_1_NPCEnd_1",
+   "last": "QuestLoc_S2_QL3_Q4_Warehouse_QuestLongDesc"
+  },
+  {
+   "id": "011",
+   "path": "审校/语义审校_20260927/chunks_long/long_011.tsv",
+   "n": 60,
+   "first": "QuestLoc_S2_QL3_Q4_Warehouse_Question5_Choice3",
+   "last": "QuestLoc_TheCaseoftheLostLunch_Conversation_2_NPCEnd_2"
+  },
+  {
+   "id": "012",
+   "path": "审校/语义审校_20260927/chunks_long/long_012.tsv",
+   "n": 60,
+   "first": "QuestLoc_TheCaseoftheLostLunch_Conversation_2_NPCEnd_3",
+   "last": "QuestLoc_ToGrandmothersHouseWeGo_QuestLongDescription"
+  },
+  {
+   "id": "013",
+   "path": "审校/语义审校_20260927/chunks_long/long_013.tsv",
+   "n": 60,
+   "first": "QuestLoc_Tonics_QuestLongDescription",
+   "last": "Shop_SeasonPass_NewVegasB_Premium_Description"
+  },
+  {
+   "id": "014",
+   "path": "审校/语义审校_20260927/chunks_long/long_014.tsv",
+   "n": 42,
+   "first": "Shop_SeasonPass_Premium_Blurb",
+   "last": "Weapon_Description_RadiumRifle"
+  }
+ ]
+}

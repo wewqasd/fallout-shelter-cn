@@ -1,0 +1,31 @@
+{
+ "chunk": "025",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_1_Room2_Question_Line1_Choice2",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「Rent's up.」是（房东式的）催租口吻——租期到了/该交房租了，玩家是在拿这句戏弄养老院里的老头；ZH 写成「房租涨了。」，把「到期该交」换成了「涨价」，凭空多出 EN 没有的涨价事实。紧接着的 Answer2「Are you trying to grift me?」是针对「你跑来跟我要钱」的反应，而「涨房租」在上下文里没有交代涨价者是谁，语义悬空。",
+   "fix": "该交房租了。",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_3_Room4_Question_Line1_Choice0",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "这条选项的笑点完全建立在上一条 Line1「This is a place of mourning.」（这是哀悼之地）的谐音上：玩家故意把 mourning 听成 morning，才接出「Morning? But this is afternoon!」。ZH 把上一条译作「这是哀悼之地。」，本条译作「早上？可这明明是下午！」，中文里「哀悼」和「早上」毫无关联，玩家看到的是一句没有任何触发点的选项，包袱整块丢失，紧接着 Answer0「我们得给这帮“搞笑艺人”一点教训」也就失去了理由（玩家并不知道自己刚开了个玩笑）。",
+   "fix": "哀悼？我还以为你在说早上呢——可这明明是下午！",
+   "confidence": "medium"
+  },
+  {
+   "key": "QuestLoc_ENC_QL2_Defective_2_Room2_Question_Line1_Choice2",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN 是罗密欧的整段台词三句：「I take thee at thy word. / Call me but love, and I'll be new baptized. / Henceforth I never will be Romeo.」，ZH 只译出后两句「只要你肯叫我一声爱人，我便重新受洗；从此不再是罗密欧。」，开头那句「我信你这句话／我就依你这句话」（罗密欧答应朱丽叶的前提）整句消失。该条是玩家在戏中直接念出的莎剧名句，缺句后中文虽然读得通，但玩家念出的台词与原文不一致。",
+   "fix": "我就依你这句话。只要你肯叫我一声爱人，我便重新受洗；从此不再是罗密欧。",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_HouseWarming_1_QuestObjective1	Deliver the invitation to Maximus	把请柬送给马克西姆斯
+QuestLoc_HouseWarming_1_QuestShortDesc	Deliver Mr. House's party invitation to Maximus.	把豪斯先生的派对请柬送给马克西姆斯。
+QuestLoc_HouseWarming_1_Question1	Hello, and welcome to Wild Wanda's! The only casino in town where guns are freely allowed.	你好，欢迎来到狂野万达！这座城里唯一允许自由带枪的赌场。
+QuestLoc_HouseWarming_1_Question1_2	Is there anything I can do for you?	有什么能为您效劳的吗？
+QuestLoc_HouseWarming_1_Question1_Answer1	Maximus, let's see… Yes, he's here. Hope you find him! Watch out for angry gamblers!	马克西姆斯，我看看……是的，他在这儿。希望你找得到他！小心那些愤怒的赌徒！
+QuestLoc_HouseWarming_1_Question1_Answer2	Oh, yes, I remember. He'll be in there somewhere, hopefully he hasn't been shot!	哦，是的，我记得。他就在里面某处，希望他还没被枪崩了！
+QuestLoc_HouseWarming_1_Question1_Answer3	Excellent. You look tough, so maybe you'll even live to tell the tale!	好极了。你看起来挺强悍的，说不定你真能活着讲完这段故事！
+QuestLoc_HouseWarming_1_Question1_Choice1	We've got an invitation for Maximus.	我们有一张给马克西姆斯的邀请函。
+QuestLoc_HouseWarming_1_Question1_Choice2	Seen anyone in a Brotherhood uniform?	见过穿兄弟会制服的人吗？
+QuestLoc_HouseWarming_1_Question1_Choice3	Just looking for a good time.	就是想找点乐子。
+QuestLoc_HouseWarming_1_Question2	Are you feeling lucky? What number am I thinking of?	你觉得自己运气好吗？我现在想的是哪个数字？
+QuestLoc_HouseWarming_1_Question2_Answer1	Ahh, nope, better luck next time.	啊，不，不对，下次好运吧。
+QuestLoc_HouseWarming_1_Question2_Answer2	Eugh, what a gross number! Take what you deserve!	噫，多恶心的数字！拿走你应得的东西吧！
+QuestLoc_HouseWarming_1_Question2_Answer3	That's it! You got it!	就是它！你猜对了！
+QuestLoc_HouseWarming_1_Question2_Choice1	Five.	五。
+QuestLoc_HouseWarming_1_Question2_Choice2	One hundred and forty-four.	一百四十四。
+QuestLoc_HouseWarming_1_Question2_Choice3	Thirty-seven.	三十七。
+QuestLoc_HouseWarming_1_Question3	For all the caps! Red or black?	押上你所有的瓶盖！红还是黑？
+QuestLoc_HouseWarming_1_Question3_Answer1	And it lands on…! RED! You won! Well done.	落定的是……！红色！你赢了！干得漂亮。
+QuestLoc_HouseWarming_1_Question3_Answer2	And it lands on…! RED! You lost! Too bad. Better luck next time.	落定的是……！红色！你输了！太可惜了。下次好运吧。
+QuestLoc_HouseWarming_1_Question3_Answer3	That's not… uh, well, it was red. Sorry!	那不是……呃，好吧，是红色。抱歉！
+QuestLoc_HouseWarming_1_Question3_Choice1	Red.	红色。
+QuestLoc_HouseWarming_1_Question3_Choice2	Black.	黑色。
+QuestLoc_HouseWarming_1_Question3_Choice3	White.	白色。
+QuestLoc_HouseWarming_1_Question4	Sudden death Blackjack! Hit or stay?	猝死制二十一点！要牌还是停牌？
+QuestLoc_HouseWarming_1_Question4_Answer1	BUST! Now you die!	爆牌！受死吧！
+QuestLoc_HouseWarming_1_Question4_Answer2	DEALER WINS! Now you die!	庄家通吃！受死吧！
+QuestLoc_HouseWarming_1_Question4_Answer3	The only way to win is not to play… well done!	唯一赢的办法就是不玩……干得漂亮！
+QuestLoc_HouseWarming_1_Question4_Choice1	Hit.	要牌。
+QuestLoc_HouseWarming_1_Question4_Choice2	Stay.	停牌。
+QuestLoc_HouseWarming_1_Question4_Choice3	Fold.	弃牌。
+QuestLoc_HouseWarming_1_Question5	H-hello. I'm Brother Maximus. I was just, uh, inspecting this place. For… tech.	你……你好。我是马克西姆斯兄弟。我刚才只是在，呃，视察这地方。为了……寻找科技。
+QuestLoc_HouseWarming_1_Question5_Answer1	Oh. Phew! Cool. Yeah, I like parties. I'll uh, see you there.	哦。呼！太好了。行吧，我喜欢派对。那，呃，到时见。
+QuestLoc_HouseWarming_1_Question5_Answer2	Invitation? For… for me? Is it a trap? No, vault people wouldn't do that. Okay. I'll be there.	邀请函？给……给我的？是陷阱吗？不，避难所居民不会那么干。好吧。我会去的。
+QuestLoc_HouseWarming_1_Question5_Answer3	Mr. House? Who's… uh, I mean, of course. Why wouldn't he want to meet me? I'm important! And talented!	豪斯先生？他是……呃，我是说，当然。他怎么会不想见我？我可是大人物！而且才华横溢！
+QuestLoc_HouseWarming_1_Question5_Choice1	None of my beeswax! Come to Mr. House's party!	关我屁事！快来参加豪斯先生的派对吧！
+QuestLoc_HouseWarming_1_Question5_Choice2	We have this invitation to Maximus for Mr. House's surprise party.	我们有一张给马克西姆斯的邀请函，是豪斯先生的惊喜派对。
+QuestLoc_HouseWarming_1_Question5_Choice3	Mr. House is itching to make your acquaintance.	豪斯先生正热切地期盼与你相识。
+QuestLoc_HouseWarming_2_CombatInit1	Observe our high-quality gatling lasers!	见识见识我们优质的加特林激光枪！
+QuestLoc_HouseWarming_2_CombatInit2	On wheels, we can outrun any thief or assailant!	靠着轮子，我们能甩掉任何窃贼或袭击者！
+QuestLoc_HouseWarming_2_CombatInit3	We are guaranteed not to attack invited guests. Unless they start attacking, like this!	我们保证不攻击受邀宾客。除非他们先动手，就像这样！
+QuestLoc_HouseWarming_2_CombatInit4	We can be programmed to be congenial and talkative!	我们可以被编程得亲切又健谈！
+QuestLoc_HouseWarming_2_QuestLongDesc	Securitrons are supposed to be excellent guards. Go see Victor at RobCo headquarters and discuss security for Mr. House's party.	保安机器人本该是出色的守卫。去 罗伯科 总部见维克托，讨论豪斯先生派对的安保事宜。
+QuestLoc_HouseWarming_2_QuestName	Shiny Security	闪亮的安保
+QuestLoc_HouseWarming_2_QuestObjective1	Test Securitron weapons	测试保安机器人的武器
+QuestLoc_HouseWarming_2_QuestObjective2	Test Securitron mobility	测试保安机器人的机动性
+QuestLoc_HouseWarming_2_QuestObjective3	Approve Securitron security with Victor	与维克托确认保安机器人的安保方案
+QuestLoc_HouseWarming_2_QuestShortDesc	Organize security for Mr. House's party.	为豪斯先生的派对安排安保。
+QuestLoc_HouseWarming_2_Question1	Howdy, stranger! What a delightful surprise, runnin' into you.	你好啊，陌生人！在这儿碰到你可真是惊喜。
+QuestLoc_HouseWarming_2_Question1_02	I'm just here checkin' in on my friends. What brings you here?	我只是来看看我的朋友。你们来这儿做什么？
+QuestLoc_HouseWarming_2_Question1_Answer1	Well, shucks! Of course we can! Please take the time to peruse and test out our Securitrons.	哎呀，小意思！当然可以！请随便参观、测试我们的保安机器人。
+QuestLoc_HouseWarming_2_Question1_Answer2	You're in the right place, friend. Take a tour of our fully-automated defense demonstrations!	你来对地方了，朋友。去参观一下我们全自动的防御演示吧！
+QuestLoc_HouseWarming_2_Question1_Answer3	Well, ain't that sweet. Say no more, friend. We'll help keep it secret, and keep it safe.	哎呀，真贴心。啥也别说了，朋友。我们会帮你们保密，也会保证它的安全。
+QuestLoc_HouseWarming_2_Question1_Choice1	Can you handle security for Mr. House's party?	你们能负责豪斯先生派对的安保吗？
+QuestLoc_HouseWarming_2_Question1_Choice2	We're just here to test out the Securitrons.	我们就是来测试保安机器人的。
+QuestLoc_HouseWarming_2_Question1_Choice3	We're having a secret party for Mr. House. Don't tell anyone!	我们要为豪斯先生办一场秘密派对。别告诉任何人！
+QuestLoc_HouseWarming_2_Question2	We can be programmed to be congenial and talkative! Please test out our conversation skills.	我们可以被编程得亲切又健谈！请测试一下我们的对话技巧。
+QuestLoc_HouseWarming_2_Question2_Answer1	Yes, the sun is in the sky and there is temperature.	是的，太阳在天上，而且有温度。
+QuestLoc_HouseWarming_2_Question2_Answer2	Logic loop detected. Rebooting system. Combat systems initiated.	检测到逻辑循环。正在重启系统。战斗系统已启动。
+QuestLoc_HouseWarming_2_Question2_Answer3	Aggression will be met with lethal force.	攻击行为将遭到致命还击。
+QuestLoc_HouseWarming_2_Question2_Choice1	Nice weather today.	今天天气不错。
+QuestLoc_HouseWarming_2_Question2_Choice2	This sentence is a lie.	这句话是假的。
+QuestLoc_HouseWarming_2_Question2_Choice3	I'll test out your aggression response. Put 'em up!	我来测试一下你们的攻击反应。举起手来！
+QuestLoc_HouseWarming_2_Question3	You made it through! That's swell! What did you think?	你闯过来了！真棒！你觉得怎么样？
+QuestLoc_HouseWarming_2_Question3_Answer1	How else could ya tell they were good enough? I knew you could do it!	不然你怎么知道它们够不够格呢？我就知道你能行！
+QuestLoc_HouseWarming_2_Question3_Answer2	Yeehaw! That's the spirit!	耶哈！就是这样！
+QuestLoc_HouseWarming_2_Question3_Answer3	I can be any Securitron I like. And you can bet your bottom dollar I'll be at the party!	我想当什么保安机器人就当什么。而且你尽管放心，我会去参加派对的！
+QuestLoc_HouseWarming_2_Question3_Choice1	Was all the shooting necessary?	刚才有必要开那么多枪吗？
+QuestLoc_HouseWarming_2_Question3_Choice2	They're perfect. See you at the party.	它们完美极了。派对见。
+QuestLoc_HouseWarming_2_Question3_Choice3	Aren't you downstairs right now?	你现在不正在楼下吗？
+QuestLoc_HouseWarming_3_CombatInit1	WELCOOOOME!	欢——迎——！
+QuestLoc_HouseWarming_3_CombatInit2	TRY THE WINE!	来尝尝这酒！
+QuestLoc_HouseWarming_3_CombatInit3	GRRRREAT PARTY!	超——棒的派对！
+QuestLoc_HouseWarming_3_QuestLongDesc	They say there's a big Ghoul party happening nearby. Could be a good place to scout staff for Mr. House's party.	据说附近有一场大型尸鬼派对。说不定是个物色豪斯先生派对工作人员的好地方。
+QuestLoc_HouseWarming_3_QuestName	Party Poaching	派对挖角
+QuestLoc_HouseWarming_3_QuestObjective1	Find kitchen staff	寻找厨房工作人员
+QuestLoc_HouseWarming_3_QuestObjective2	Find a comedian	找一位喜剧演员
+QuestLoc_HouseWarming_3_QuestObjective3	Find musicians	找乐手
+QuestLoc_HouseWarming_3_QuestShortDesc	Find folks to staff Mr. House's party.	为豪斯先生的派对物色工作人员。
+QuestLoc_HouseWarming_3_Question0	Are we sure this is the right place? Not a great atmosphere for a party.	我们确定这是对的地方吗？这派对氛围可不太好。
+QuestLoc_HouseWarming_3_Question0_Answer1	Anyone willing to cater to Ghouls would make the perfect staff for our shindig.	愿意为尸鬼做餐饮的人，正是为我们狂欢派对的完美人选。
+QuestLoc_HouseWarming_3_Question0_Choice1	Unless it's a Ghoul party. Then, it's the perfect atmosphere!	除非这是尸鬼派对。那就完美了！
+QuestLoc_HouseWarming_3_Question1	This Ghoul party is falling apart. Just like the hosts!	这场尸鬼派对要完蛋了。就跟主办人一样！
+QuestLoc_HouseWarming_3_Question1_02	Seriously. All the Ghouls started going feral after the party started. Real scary stuff.	说真的。派对开始后，所有尸鬼都开始发狂了。真吓人。
+QuestLoc_HouseWarming_3_Question1_Answer1	Honey, the audience could be literally dead and I would be happier than I am here.	亲爱的，就算观众全死光了，我也比在这儿高兴。
+QuestLoc_HouseWarming_3_Question1_Answer2	Yeesh. If he needs a comedian, he's got worse problems than me! I'll take the gig!	天哪。他要真需要喜剧演员，那他自己的问题比我还大！这活儿我接了！
+QuestLoc_HouseWarming_3_Question1_Answer3	To kill someone with laughter… truly a comedian's highest praise!	让人笑得没命……这才是喜剧演员的最高赞誉！
+QuestLoc_HouseWarming_3_Question1_Choice1	Funny. Want to tell jokes at our party?	有意思。想在咱们派对上讲笑话吗？
+QuestLoc_HouseWarming_3_Question1_Choice2	We need a comedian for Mr. House's party.	我们需要一位喜剧演员来给豪斯先生的派对助兴。
+QuestLoc_HouseWarming_3_Question1_Choice3	You'll make a killing at Mr. House's party.	你在豪斯先生的派对上会大出风头的。
+QuestLoc_HouseWarming_3_Question2	What's the deal? No one's eating the food! Everyone's just eating each other!	怎么回事？没人吃那些食物！大家都在互相吃！
+QuestLoc_HouseWarming_3_Question2_Answer1	We don't care either way. A job's a job. See you there!	我们怎么都行。活就是活。到时见！
+QuestLoc_HouseWarming_3_Question2_Answer2	My skilled hands are busy! But they'll be free for your party.	我这双手可忙着呢！不过到你们派对时就能腾出来了。
+QuestLoc_HouseWarming_3_Question2_Answer3	I knew I was better than just a home chef. Now I hit the big time!	我就知道我比一个家庭厨师强。现在我可要大展身手了！
+QuestLoc_HouseWarming_3_Question2_Choice1	Our party will have zero Feral Ghouls. Promise.	我们的派对保证绝对没有狂尸鬼。我保证。
+QuestLoc_HouseWarming_3_Question2_Choice2	We need your skilled hands for Mr. House's party.	我们需要你这双巧手来操办豪斯先生的派对。
+QuestLoc_HouseWarming_3_Question2_Choice3	This is hell's kitchen. Come work for me.	这是地狱厨房。来给我干活吧。
+QuestLoc_HouseWarming_3_Question3	Okay, gang, pick it up! We have sapient partygoers! One… two… one, two, three, four!	好了，伙计们，打起精神！我们有清醒的宾客！一……二……一、二、三、四！
+QuestLoc_HouseWarming_3_Question3_Answer1	Mr. House? Oof, that sounds like a whole different kind of dangerous. But yeah, sure.	豪斯先生？哦，那可完全是另一种危险。不过，行吧，当然。
+QuestLoc_HouseWarming_3_Question3_Answer2	Uh, sure. We're still on the clock for two more hours, though. You should get out, it's dangerous in here.	呃，好啊。不过我们还有两个小时才下班呢。你们该出去，这里很危险。
+QuestLoc_HouseWarming_3_Question3_Choice1	I've heard enough. You're hired for Mr. House's party!	我听得够多了。你被豪斯先生的派对录用了！
+QuestLoc_HouseWarming_3_Question3_Choice2	Want to play at a party that isn't in a graveyard?	想在一个不在墓地里的派对上演奏吗？
+QuestLoc_HouseWarming_3_Question4	It's a Ghoul party, alright… but why are they attacking us? Are they feral?	这确实是场尸鬼派对，没错……但他们为什么要攻击我们？他们狂暴化了吗？
+QuestLoc_HouseWarming_3_Question4_02	Weird move to invite feral Ghouls to a party.	把狂尸鬼请到派对上来，这举动可真够奇怪的。
+QuestLoc_HouseWarming_3_Question4_Answer1	Woah. That's like slasher movie material!	哇。这简直是恐怖片素材！
+QuestLoc_HouseWarming_3_Question4_Answer2	Let's hope not since we want to hire their kitchen staff.	但愿不是，因为我们还想雇他们的厨房工作人员呢。
+QuestLoc_HouseWarming_3_Question4_Choice1	Maybe they turned feral at the party.	也许他们是到派对现场才发狂的。
+QuestLoc_HouseWarming_3_Question4_Choice2	Maybe they're angry because the dip was off.	也许他们是因为蘸酱不对而生气。
+QuestLoc_HouseWarming_4_QuestLongDesc	The time has come for Mr. House's party! But… what's that sound? Radroaches! Squish them all before the rest of the guests arrive!	豪斯先生派对的时刻到了！可……那是什么声音？辐射蟑螂！在其余宾客到达之前，把它们统统踩扁！
+QuestLoc_HouseWarming_4_QuestName	Squishing the Party	踩扁派对的虫子
+QuestLoc_HouseWarming_4_QuestObjective1	Ask for roach squishing music	索要踩虫音乐
+QuestLoc_HouseWarming_4_QuestObjective2	Confer with the wait staff	与服务员商议
+QuestLoc_HouseWarming_4_QuestObjective3	Check in with Mr. House	向豪斯先生报告
+QuestLoc_HouseWarming_4_QuestShortDesc	Squish the Radroaches that have crashed Mr. House's party.	踩扁那些闯进豪斯先生派对的辐射蟑螂。
+QuestLoc_HouseWarming_4_Question0	<Radroach noises>	<辐射蟑螂的声响>
+QuestLoc_HouseWarming_4_Question0_Choice1	Radroaches? At our party!? The party organizer's job is never done.	辐射蟑螂？在我们派对上！？派对策划人的活儿可真是没完没了。
+QuestLoc_HouseWarming_4_Question1	By now I'm used to the guests trying to eat me.	如今我早已习惯宾客们想把我吃掉的事了。
+QuestLoc_HouseWarming_4_Question1_02	Who invited the roaches? I bet it was the chef. Maybe they're really ingredients.	谁请的蟑螂？我打赌是厨师。也许它们真的是食材。
+QuestLoc_HouseWarming_4_Question1_Answer1	It never hurt to be a smartass in my business. So far. Everyone who's shot has missed.	在我的行当里，耍点小聪明从不吃亏。至少目前如此。朝我开过枪的人全都打偏了。
+QuestLoc_HouseWarming_4_Question1_Answer2	Ooh, that's rich. Maybe the roaches will be a bit more grateful.	噢，那可真够逗的。也许蟑螂会领情一些。
+QuestLoc_HouseWarming_4_Question1_Choice1	Look, don't get smart. We're dealing with it.	听好了，别耍嘴皮子。我们会处理的。
+QuestLoc_HouseWarming_4_Question1_Choice2	If you want to help, tell them some of your jokes.	如果你想帮忙，就给它们讲几个你的笑话吧。
+QuestLoc_HouseWarming_4_Question2	What kind of music should we play for this bug-squashing portion of the party?	派对踩虫子这段，我们该放点什么音乐？
+QuestLoc_HouseWarming_4_Question2_Answer1	Yes, to get the blood pumping! Go get them, boss!	好，让血液沸腾起来！去收拾它们吧，老大！
+QuestLoc_HouseWarming_4_Question2_Answer2	Ah, the poor roaches. They can't help the way they are.	啊，可怜的蟑螂。它们也没办法改变自己的本性。
+QuestLoc_HouseWarming_4_Question2_Answer3	Ignore the vermin and honor the man of the hour. I like it!	无视这些小害虫，致敬今晚的主角。我喜欢！
+QuestLoc_HouseWarming_4_Question2_Choice1	Something fast and exciting.	来点快节奏又刺激的。
+QuestLoc_HouseWarming_4_Question2_Choice2	Something mournful.	来点哀伤的。
+QuestLoc_HouseWarming_4_Question2_Choice3	Something grandiose.	来点宏大的。
+QuestLoc_HouseWarming_4_Question3	Hey, uh… Radroach meat is great and all, but… did you see any caviar?	嘿，呃……辐射蟑螂肉固然不错，但是……你们看到鱼子酱了吗？
+QuestLoc_HouseWarming_4_Question3_Answer1	Ah. Right, well. Not the same appeal, you know? I'll look around.	啊。好吧，那。可不是一回事，对吧？我再找找。
+QuestLoc_HouseWarming_4_Question3_Answer2	Oh! Sure, yeah. I can do that. Sorry.	哦！行，好。我这就去。抱歉。
+QuestLoc_HouseWarming_4_Question3_Choice1	Best I can offer is Radroach eggs.	我最多只能给你辐射蟑螂蛋。
+QuestLoc_HouseWarming_4_Question3_Choice2	Quit looking sorry for yourself and squash some bugs.	别在那儿自怨自艾了，快去踩死几只虫子。
+QuestLoc_HouseWarming_4_Question4	The roaches are eating the hors-d'oeuvres! What should we do?	那些蟑螂在吃开胃小菜！我们该怎么办？
+QuestLoc_HouseWarming_4_Question4_Answer1	Oh. Are you sure? I mean, we can, but what will Mr. House think?	哦。你确定吗？我是说，我们可以，但豪斯先生会怎么想？
+QuestLoc_HouseWarming_4_Question4_Answer2	Yeah… but they're not even savoring them! What a waste.	是啊……可它们连尝都不好好尝！真是浪费。
+QuestLoc_HouseWarming_4_Question4_Answer3	Okay, I'll be back!	好，我马上回来！
+QuestLoc_HouseWarming_4_Question4_Choice1	Make new ones. Out of Radroach meat.	重新做。用辐射蟑螂肉做。
+QuestLoc_HouseWarming_4_Question4_Choice2	Forget it. As long as we still have a spread.	算了。只要我们还摆得出酒菜就行。
+QuestLoc_HouseWarming_4_Question4_Choice3	Run for supplies. We'll take care of things here.	跑去找补给。这里交给我们。
+QuestLoc_HouseWarming_4_Question5	Howdy, pardner! This is quite a fine showdown!	你好啊，老伙计！这可真是一场不错的对决！
+QuestLoc_HouseWarming_4_Question5_02	I'm mighty sorry the Securitrons aren't killin' these vermin. Unless they go after Mr. House o' course.	很抱歉保安机器人没能干掉这些害虫。除非它们去找豪斯先生的麻烦，那当然例外。
+QuestLoc_HouseWarming_4_Question5_03	Allow me to offer some compensation for your troubles.	请允许我为你们的辛苦略表补偿。
+QuestLoc_HouseWarming_4_Question5_Answer1	I sure am sorry, pardner. At least there's no Deathclaws crashin' the party!	我真的很抱歉，伙计。至少没有死爪来砸场子！
+QuestLoc_HouseWarming_4_Question5_Answer2	This oughta set you up nice in that vault o' yours!	这下够你在避难所里舒坦一阵了！
+QuestLoc_HouseWarming_4_Question5_Answer3	Well, how's this to wet your lips?	喏，这个怎么样，润润嗓子？
+QuestLoc_HouseWarming_4_Question5_Choice1	Keep it. Just go squish some bugs.	留着吧。去踩几只虫子就好。
+QuestLoc_HouseWarming_4_Question5_Choice2	Sure, give it here.	行，拿来吧。
+QuestLoc_HouseWarming_4_Question5_Choice3	Actually, all this squishing made me thirsty.	其实，踩了这么多虫子，我有点渴了。
+QuestLoc_HouseWarming_4_Question6	What a fabulous party. Reminds me of the shining old days, when Vegas was known the whole world over.	多棒的派对啊。让我想起那段辉煌的旧时光，那时维加斯之名响彻全世界。
+QuestLoc_HouseWarming_4_Question6_02	I want to reward you for your diligent care and attention. What is your desire?	我想为你们尽心尽责的照料与关注，给你们一些奖赏。你们想要什么？
+QuestLoc_HouseWarming_4_Question6_Answer1	A pragmatic choice. Bottle caps make the Wasteland go 'round!	务实的选择。瓶盖让废土转动！
+QuestLoc_HouseWarming_4_Question6_Answer2	Wear it, and take the glory of New Vegas with you anywhere you go.	穿上它，让新维加斯的荣光随你同行。
+QuestLoc_HouseWarming_4_Question6_Answer3	Hold in your arms the power of the god of destruction.	握紧毁灭之神的力量。
+QuestLoc_HouseWarming_4_Question6_Choice1	Cash, please, Mr. House, sir.	钱就好，豪斯先生。
+QuestLoc_HouseWarming_4_Question6_Choice2	A nice outfit, perhaps?	来身漂亮衣服，也许？
+QuestLoc_HouseWarming_4_Question6_Choice3	I need some firepower.	我需要点火力。
+QuestLoc_HouseWarming_4_Question7	Greetings, partygoer. Initiating small talk protocol.	你好，派对来宾。启动闲聊协议。
+QuestLoc_HouseWarming_4_Question7_02	Would you please confirm or deny the presence of favorable weather?	能否请您确认或否认存在宜人天气？
+QuestLoc_HouseWarming_4_Question7_Answer1	Sass detected. Ending conversation. Move along.	检测到顶嘴。结束对话。请继续前行。
+QuestLoc_HouseWarming_4_Question7_Answer2	Cannot comply. Radroaches are not attacking Mr. House.	无法照办。辐射蟑螂未在攻击豪斯先生。
+QuestLoc_HouseWarming_4_Question7_Choice1	Weather's fine, no thanks to you.	天气不错，可不是托你的福。
+QuestLoc_HouseWarming_4_Question7_Choice2	Why aren't you helping deal with the Radroaches?	你为什么不帮忙对付那些辐射蟑螂？
+QuestLoc_HouseWarming_QuestLineName	House Warming	乔迁派对
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_Conversation_1_NPCStart_1	Rackie Jobinson's Jersey continues to elude us!	仍然没有罗基·杰宾森的棒球衫的踪影！
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestLongDescription	Okay, so Holy Heart Hospital was a dead end. But at least we're still alive! Next stop, the ruins of Lakeville Library.	好吧。所以圣心脏医院肯定是条死路了，但至少我们都还活着！下一站，莱克维尔图书馆。
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestName	How Can You Not Be Romantic About Baseball?	你怎么可能不喜欢棒球呢？
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_HowCanYouNotBeRomanticAboutBaseball_QuestShortDescription	Track Coach down in the Lakeville Library.	去莱克维尔图书馆找教练。
+QuestLoc_HumanBeanJuice_Conversation_1_NPCEnd_1	They make camp at a Radaway plant up north.	他们在北部的消辐宁工厂扎营。
+QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_1	Your boy came in with a shipment of other Dwellers and some Feral Ghouls.	你们要找的人和一些其他的居民还有狂尸鬼一起被送过来的。
+QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_2	But he disappeared when Khan Killian's Raider gang attacked!	但是遭到可汗·基利安的掠夺者帮派袭击之后他就消失了！
+QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_3	They outnumbered us 10 to 1... They took everything.	他们的人数是我们的十倍……他们拿走了所有东西。
+QuestLoc_HumanBeanJuice_Conversation_1_NPCStart_4	If he's anywhere, he's with them.	如果他可能在任何地方的话，他应该是和他们在一起。
+QuestLoc_HumanBeanJuice_Conversation_1_Team_1	Where are they?	他们在哪儿？
+QuestLoc_HumanBeanJuice_QuestLongDescription	Jack's been through the ringer - and now he might get turned into dinner! Slavers sold him to a Potted Meat plant. We need to head there!	杰克已经受过一次大惊吓——可现在他马上要成为别人的晚餐！奴隶贩子把他卖给了肉酱厂。我们应该去那里找他！
+QuestLoc_HumanBeanJuice_QuestName	Human Bean Juice	人肉豆汁
+QuestLoc_HumanBeanJuice_QuestObjective_1	Find Jack before he gets processed into dinner!	在杰克被加工成晚饭之前找到他。
+QuestLoc_HumanBeanJuice_QuestShortDescription	Find Jack before he gets processed into dinner!	在杰克被加工成晚饭之前找到他。

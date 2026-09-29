@@ -1,0 +1,103 @@
+{
+  "chunk": "027",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_3_Room7_Question_Line1_Choice2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "定语缺「的」：「你孪生兄弟向你问好？」先把「孪生兄弟」当单音节亲属称谓那样直接挂在「你」后面，又紧接着又来一个「你」，读起来像掉了一个字。同一段剧情里「我孪生兄弟和他的真爱被困在下面」是同样写法，可同一句里「他的真爱」却带了「的」，前后明显不统一。",
+      "fix": "你的孪生兄弟向你问好？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_4_Room4_Question_Line1_Choice0",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "「你可知道我们都识破了所有陷阱，对吧？」把带文言腔的反问「你可知道」和口语求证「对吧」硬拼成一句，两个语气结构互相打架；同时「都」和「所有」语义重复叠用。原文 You know we foiled them all, right? 是松散的玩笑口吻，这里读起来像书面报告。",
+      "fix": "这又是陷阱？你知道的，那些陷阱我们全识破了，对吧？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_CombatInit2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「它照亮通往更闪亮美利坚的道路！」把 shinier America 直接搬成「更闪亮美利坚」，多层定语缺「的」，玩家得回读一遍才能把「更闪亮」「美利坚」「道路」断开。",
+      "fix": "黄金！它照亮了通往更闪亮的美利坚之路！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room2_Question_Line1_Answer0",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "I'm locked out 指被系统挡在外面、进不去，译成「我被锁定了」在中文里首先会被读成「被人锁定/被瞄准锁定」，用词不当造成歧义，和后半句「破不了！」的因果也接不顺。",
+      "fix": "该死，我进不去了。根本破不了！那些黄金啊……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room3_Question_Line1_Choice2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「买断他们付你的酬劳」搭配不成立——「买断」的对象是合同、产权、工龄之类，不能是「酬劳」；玩家得猜到底是买断雇佣合同还是直接给双倍钱，等于给雇主开价的干脆劲儿被绕没了。",
+      "fix": "他们付你多少，我们出双倍。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room4_Question_Line1_Answer0",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「跟随这些坐标」是 Follow these coordinates 的逐字硬搬：中文里能「跟随」的是人、队伍或指引，坐标只能说「按/照……坐标（走）」，「跟随坐标」搭配不成立，机翻腔很显眼。",
+      "fix": "那我们目标一致。按这些坐标过去吧。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_1_Room4_Question_Line1_Answer1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "同一句电脑台词里的「跟随这些坐标」仍是搭配错误（坐标不能被「跟随」），且与后半句「英克雷也对你们感兴趣」拼在一起，整句读起来就是英文语序的直搬。",
+      "fix": "按这些坐标过去吧。英克雷也对你们感兴趣。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room2_Question_Line1_Answer0",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「一堆纸面工作」是 paperwork 的逐字直译；中文里「纸面」通常指「停留在纸面上、未落实」，这里想说的是「填不完的表」，同批数据里同类表达用的是「想想他们得填多少文书吧」，用词不统一也不地道。",
+      "fix": "那对我来说又是一堆文书要填！我再也受不了了！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_3_Room2_Question_Line2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「自我哀怜」不是中文里的固定说法（常见的是「自怜」「顾影自怜」），是把 feeling sorry for myself 逐字生造出来的四字结构，配上这个自怨自艾的 AI 人设显得半通不通。",
+      "fix": "我的名字叫MOPUS，顾影自怜……是我的最高指令……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_2_Room4_Question_Line1_Answer1",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「尽管如此，将坐标传输至AI维修设施。」缺主语也缺「正在」，中文读起来变成了一句命令；对照同一台电脑紧挨着的另一句「正在传输坐标」，两句不成对，像是漏字。",
+      "fix": "似乎没必要。尽管如此，正在将坐标传输至AI维修设施。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ENC_QL3_Escalation_4_Room5_Question_Line1_Choice0",
+      "severity": "S3",
+      "type": "指代",
+      "problem": "「而且它被辐射了！」用「它」指一座建筑，指代不清；中文说地点一般不说「被辐射」（同批数据另有「一个被辐射污染的湖」的写法），这句读起来既别扭又像在说某样东西被照射过。",
+      "fix": "哇，一座货真价实的英克雷核弹控制中心。而且这里已经被辐射污染了！GOLDAS竟把自己的军官都变成了尸鬼……",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ENC_QL4_HeartOfGOLDAS_4_Room4_Question_Line2",
+      "severity": "S3",
+      "type": "漏译",
+      "problem": "「看我最后的武力展示，我这孤注一掷的赌局！」一句里「看我……我这……」叠着用，读起来别嘴；更要紧的是 ALL-FOR-NOTHIN' 的「注定白费」没译出来——上一句玩家刚说「胜率为0的赌局，可不叫赌局」，这个「白费」正是笑点所在。",
+      "fix": "看好我最后的武力展示——我这场注定白费的赌局！",
+      "confidence": "medium"
+    }
+  ]
+}

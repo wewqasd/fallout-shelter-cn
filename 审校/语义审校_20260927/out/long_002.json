@@ -1,0 +1,79 @@
+{
+ "chunk": "long_002",
+ "lens": "long",
+ "reviewed": 60,
+ "findings": [
+  {
+   "key": "Help_Page26_MainText",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN「You can also tap and hold on a Dweller, then drag the target that appears to the enemy.」ZH 只剩「您可以点击然后按住，将其拖向敌人。」：丢了「on a Dweller」（要按住的是居民）和「the target that appears」（要拖的是按出来的那个目标，不是居民），玩家会以为直接把居民拖过去。同段 EN「a checkmark icon will appear over the enemy that your charged Dweller is attacking」的限定语「您的蓄力居民正在攻击的」也被略去（PS4/Switch/Xbox 版都有此限定语）。",
+   "fix": "任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n点击监督者办公室里或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\\n\\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您也可以点击并按住一位居民，然后把出现的准星拖到敌人身上。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，您的蓄力居民正在攻击的敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。\\n\\n当箭头出现在十字线的中心时，请点击移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n点击右上角的地图图标查看必须完成和可选完成的任务目标。\\n\\n当您结束探险时，点击地图图标让任务小队返回避难所。",
+   "confidence": "high"
+  },
+  {
+   "key": "Help_Page26_MainText_PC",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN「You can also click and hold on a Dweller, then drag the target that appears to the enemy.」ZH 只剩「您可以点击然后按住，将其拖向敌人。」：丢了「on a Dweller」与「the target that appears」，操作对象不明；同段 EN「over the enemy that your charged Dweller is attacking」的限定语也被略去。",
+   "fix": "任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n点击监督者办公室里或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\\n\\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您也可以点击并按住一位居民，然后把出现的准星拖到敌人身上。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，您的蓄力居民正在攻击的敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。\\n\\n当箭头出现在十字线的中心时，请点击移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n点击右上角的地图图标查看必须完成和可选完成的任务目标。\\n\\n当您结束探险时，点击地图图标让任务小队返回避难所。",
+   "confidence": "high"
+  },
+  {
+   "key": "Help_Page26_MainText_PS4",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「You can see the mandatory and optional Quest objectives by pressing [Y].」ZH 作「按[Y]可以查看主线和支线任务目标。」：mandatory/optional（必须完成／可选完成的「任务目标」）被译成「主线和支线」，把同一条任务里的必做目标与可选目标说成了主线任务与支线任务，机制描述走样；同批 Help_Page26_MainText/PC 作「必须完成和可选完成的任务目标」、Xbox 作「必须和选择性完成的任务目标」，本键与它们不一致。",
+   "fix": "任务允许您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\\n\\n要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\\n\\n在任务中，通过选择您希望居民前往的房间来探索地点。\\n\\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。\\n\\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\\n\\n当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。\\n\\n按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\\n\\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\\n\\n按可以查看必须完成和可选完成的任务目标。\\n\\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。",
+   "confidence": "high"
+  },
+  {
+   "key": "Help_Page26_MainText_Switch",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「You can see the mandatory and optional Quest objectives by pressing [Y].」ZH 作「按[Y]可以查看主线和支线任务目标。」：mandatory/optional（必须完成／可选完成的任务目标）被译成「主线和支线」，与同批其他平台版本（「必须完成和可选完成的任务目标」「必须和选择性完成的任务目标」）不一致，属机制描述走样。",
+   "fix": "任务允许您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\\n\\n要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\\n\\n在任务中，通过选择您希望居民前往的房间来探索地点。\\n\\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。\\n\\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\\n\\n当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。\\n\\n按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\\n\\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\\n\\n按可以查看必须完成和可选完成的任务目标。\\n\\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。",
+   "confidence": "high"
+  },
+  {
+   "key": "Help_Page26_MainText_Xbox",
+   "severity": "S2",
+   "type": "多译",
+   "problem": "EN「On Quests, explore the location by selecting the room you want Dwellers to travel to.」ZH 却写「在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。」——多出 EN 没有的「把居民拖到新房间」拖拽玩法，且主机版 EN 用 selecting（选择）而非「点击」（这两句是从 Help_Page26_MainText/PC 的触屏文案照搬过来的）。同段 EN 战斗说明只有一句「you can command a selected Dweller attack a specific enemy by holding [A] to make a target appear and then selecting an enemy」，ZH 又多出「您可以先点击居民后点击敌人」一句，「点击」在主机上同样不成立。",
+   "fix": "任务能让您探索新的地点，遇见新的居民和收集战利品。\\n\\n建造监督者办公室来派遣居民小队去完成任务。\\n\\n按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\\n\\n在任务中，选择您希望居民前往的房间即可探索地点。\\n\\n居民会自动战斗，但您可以命令选定的居民攻击一个特定目标：按住使目标出现，然后选择敌人。\\n\\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。\\n\\n当选中一个居民时，用左摇杆选择勾形图标，按住来释放一次致命暴击。\\n\\n当箭头出现在十字线的中心时，按下来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。\\n\\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\\n\\n按下来查看必须和选择性完成的任务目标。\\n\\n当您结束探险时，可以从任务目标里让任务小队返回避难所。",
+   "confidence": "medium"
+  },
+  {
+   "key": "MainMenu_Survival_Mode_Confirm",
+   "severity": "S2",
+   "type": "误译",
+   "problem": "EN「our most rigorous and hazardous social experiment yet – Survival Mode!」ZH 译成「最严苛最危险的社会环境——生存模式」：social experiment（社会实验，避难所科技的招牌梗）被说成「社会环境」。同句 EN「your Vault will face deadlier threats」的主语 your Vault（您的避难所）也被换成「您的居民」。",
+   "fix": "避难所科技特级警报！我们发现您正选择参加我们迄今为止最严苛、最危险的社会实验——生存模式！在生存模式中，您的避难所将面临更致命的威胁，对资源的需求也会更大，而且您将无法复活已死亡的居民！",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_Intro_04",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN「Each room has a SPECIAL attribute it uses.」ZH 只写「每个房间都有一个所需属性。」：SPECIAL 这个术语整个丢了（本项目统一作「SPECIAL属性」：Help_Page02_MainText「每个居民都有SPECIAL属性。」、Help_Page11_MainText「将居民放进训练房间里将会提升他们的SPECIAL属性。」、Tutorial_Tip_40「每个SPECIAL属性都会增加居民在废土存活的可能性。」）。后半句「Assign Dwellers with the best SPECIAL to make them happy and produce extra Resources」还多出 EN 没有的「能让他们发挥优势」。",
+   "fix": "每个房间都会使用一项 SPECIAL 属性。把 SPECIAL 属性最好的居民分配进去，能让他们开心并产出额外的资源。",
+   "confidence": "high"
+  },
+  {
+   "key": "Message_ThemeChange_Diner",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN「The Theme of all your fully merged and upgraded Diners will be changed from {0} to {1}.」ZH 作「您的主题餐厅已经最大化合并及升级了，您确定将它从{0}改成{1}吗？」：丢了「all your … Diners」（您所有的餐厅，复数，即本次改动会作用于全部已合并升级的餐厅），单数「它」+「主题餐厅」既读不出「所有」，也容易被读成「一家有主题的餐厅」而不是「餐厅的主题」。同批 Message_ThemeChange_NukaColaPlant/WeaponFactory 的「你所有已完全合并并升级的…主题将从{0}更改为{1}。确认吗？」才是对应句式。",
+   "fix": "您所有已完全合并并升级的餐厅的主题将从{0}更改为{1}。确定吗？",
+   "confidence": "medium"
+  },
+  {
+   "key": "Message_ThemeChange_LivingQuarters",
+   "severity": "S2",
+   "type": "漏译",
+   "problem": "EN「The Theme of all your fully merged and upgraded Living Quarters will be changed from {0} to {1}.」ZH 作「您的主题宿舍已经最大化合并及升级了，您确定将它从{0}改成{1}吗？」：丢了「all your … Living Quarters」（您所有的宿舍），单数「它」+「主题宿舍」读不出改动会作用于全部已合并升级的宿舍，也易被读成「有主题的宿舍」。同批 Message_ThemeChange_NukaColaPlant/WeaponFactory 用的是「你所有已完全合并并升级的…主题将从{0}更改为{1}」。",
+   "fix": "您所有已完全合并并升级的宿舍的主题将从{0}更改为{1}。确定吗？",
+   "confidence": "medium"
+  }
+ ]
+}

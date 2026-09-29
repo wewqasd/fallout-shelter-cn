@@ -1,0 +1,110 @@
+{
+ "batch": 28,
+ "items": [
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_4_Question0_Answer1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "EN 宾语 blind blanket（ES manta ciega 同），heralds＝宣告；ZH 换成没有的“号角”并作“吹响”。",
+   "final_fix": "异端宣告了盲目的毯子！"
+  },
+  {
+   "key": "QuestLoc_NVB_QL2_Leftovers_4_Question2_Line1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "ward 无“守卫”义，DE Ein armseliger Schutz、RU плохая защита 均作“防护”；“糟糕的守卫”像现场多了个 NPC。",
+   "final_fix": "那些药物。算不上什么防护。我知道。我知道。"
+  },
+  {
+   "key": "QuestLoc_NoRestfortheWicked_Conversation_2_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "be friends 是谓语“成为朋友”，ZH“像朋友一样？”缺谓语不成句；Works for me 只是应允，ZH“我当然愿意”太书面。",
+   "final_fix": "哦！真的吗？所以咱们就是……就是能当朋友了？我没意见！"
+  },
+  {
+   "key": "QuestLoc_OBrother_Answer05_PC03",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "some of those 直拼成“一些那些东西”，中文无此搭配；whatsits（RU штуковин）是调侃口吻，ZH“东西”太平。",
+   "final_fix": "没问题。只要你舍得把那些玩意儿分我们一点。"
+  },
+  {
+   "key": "QuestLoc_OBrother_Conversation02_NPC01",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "keep your hands to yourself＝别乱碰东西（DE Fass nichts an）；ZH“动手动脚”改指打人或毛手毛脚，对象变成人。",
+   "final_fix": "手别乱碰东西，也尽量别碍事。"
+  },
+  {
+   "key": "QuestLoc_OfftheRails_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "I thought＋was done for 是过去反事实“我还以为我死定了”（RU мне конец）；ZH“我想我已经完了”变成此刻判断。",
+   "final_fix": "哦，天啊。我还以为我死定了！"
+  },
+  {
+   "key": "QuestLoc_OfftheRails_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "rescue 与 before it's too late 被并成“请尽快找到他们”，through the area 无对应，还多出“发现”。",
+   "final_fix": "一群自称“铁路”的人正试图把难民偷偷送过这一带，结果被掠夺者抓住。趁还来得及，找到他们并把他们救出来。"
+  },
+  {
+   "key": "QuestLoc_OneGhoulCustomer_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "not your Quantum 缺谓语，ZH“不是你的量子核子可乐”成残句；crazy, lady 直译“这位女士”也生硬。",
+   "final_fix": "你疯了吧，女士。它们是冲你来的，不是冲你那瓶量子核子可乐来的。"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_2_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Wonderful!（ES Maravilloso、RU Чудесно）是感叹词“太好了”，ZH“精彩的！”是残句；the day 的中心词被换成“目标”。",
+   "final_fix": "太好了！我们共同为之努力的那一天就在眼前了！"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_2_NPCEnd_2",
+   "verdict": "confirm_fix_better",
+   "severity": "S2",
+   "reason": "Thousands?!（ES Miles、DE Tausende）是玩家上句的惊呼回声，“千？”不成话；fix 的“几千人”又与上句“上千名”不一致。",
+   "final_fix": "上千人？！但“死亡”仍在沉睡……稍等……给我上！"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_2_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "笔误对象是 capitalization（DE Großschreibung＝首字母大写），ZH 只说“是一个拼写错误”，关键限定丢失。",
+   "final_fix": "我们已经查明了真相。手册写错了。“Death”的首字母大写才是笔误！"
+  },
+  {
+   "key": "QuestLoc_OperationSandman_Conversation_3_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "the first one 指先问的“第37条第c项”（ES El primero、RU Первое）；ZH“绝对第一。”缺谓语、读成排名，答非所问。",
+   "final_fix": "绝对是前一个。"
+  },
+  {
+   "key": "QuestLoc_OurCupsRunnethOverWITHFAILURE_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "As soon as＝刚一…就，非“一旦”；we'd all be dead 是过去反事实，ZH“都会死的”丢了虚拟语气。",
+   "final_fix": "我们刚喝下它，就遭到了掠夺者的袭击——要不是你们出现，我们早就都死了。"
+  },
+  {
+   "key": "QuestLoc_OutoftheVaultIntotheShadows_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "has raided＝一直在劫掠（ES ha acosado），ZH“总是喜欢欺负”多出“喜欢”又弱化成欺负，of the Wasteland 丢失。",
+   "final_fix": "长久以来，邪恶的土匪依莱·卡尔弗特一直在劫掠废土上无辜的居民。为了避难所的安全，召集你的战士们，把死亡降在依莱和他那帮疯子头上吧！"
+  },
+  {
+   "key": "QuestLoc_Overrun_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "radical 是六十年代俚语“超酷”（ES radicales、DE radikalen 保留），ZH“活泼的”取 lively 义项，语气走偏。",
+   "final_fix": "不！！你杀死了我珍贵的宠物——我那些超酷的辐射蝎！"
+  }
+ ]
+}

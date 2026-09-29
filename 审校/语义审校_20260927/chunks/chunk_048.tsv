@@ -1,0 +1,181 @@
+key	EN	ZH
+QuestLoc_PittStop_Conversation01_NPC03	Not yours either. Nah, we'll be keepin em, thanks!	也不属于你呀，哈哈，我们可不打算放人！
+QuestLoc_PittStop_Conversation01_NPC04	You're passing through the wrong place. More fresh meat for the Pitt!	那你走错了地方！还给匹兹堡送来了更多鲜肉！
+QuestLoc_PittStop_Conversation01_NPC05	What for?	为什么？
+QuestLoc_PittStop_Conversation01_NPC06	Trade huh? Yeah. Maybe... Here. Take this and get out of here.	交易？嗯，也可以……拿上这个，快滚吧。
+QuestLoc_PittStop_Conversation01_PC01	That's why we're here. Let those people go, they're not yours.	这就是我们来的原因。放了那些人，他们不属于你。
+QuestLoc_PittStop_Conversation01_PC02	Hey, we're just passing through, no need to get rough. 	放轻松，我们只是路过，没必要动粗。
+QuestLoc_PittStop_Conversation01_PC03	Fine, take your workers, but give us a sample of your gear to show our people.	好吧，你们可以留下工人，但给我们一些你们的装备作为样品，让我们的人看看。
+QuestLoc_PittStop_Conversation01_PC04	Maybe we can set up a trade deal?	也许我们可以达成一个交易协议？
+QuestLoc_PittStop_QuestLongDescription	A band of well-armed raiders attacked a caravan a few days back and made off with a number of settlers, we're assuming to use as slaves. We've got their last known co-ordinates and direction of travel, but no one was able to track them. We should send some good people out to track down and free the abductees, and eliminate these slavers. They're the last thing we need lurking around in our back yard.	几天前，一群全副武装的掠夺者袭击了一个商队，还带走了几名定居者，估计是打算把他们当作奴隶。虽然知道他们最后出现的地点和移动方向，但没人能找到他们的行踪。我们得派些可靠的人去解救被绑架的定居者，顺便消灭这些奴隶贩子。可不能再让这帮掠夺者在我们的地盘上欺行霸市。
+QuestLoc_PittStop_QuestName	Pitt Stop	匹兹堡事件
+QuestLoc_PittStop_QuestObjective	Find the band of slavers and free their captives.	找到奴隶贩子并解救俘虏。
+QuestLoc_PittStop_QuestShortDescription	Rescue abducted settlers from the slavers.	从奴隶贩子手中拯救被绑架的定居者。
+QuestLoc_PlayBall_Conversation_1_NPCStart_1	It's not here. And neither is Coach. So we keep looking!	不在这里。教练也不在。继续寻找吧！
+QuestLoc_PlayBall_QuestLongDescription	We found a Rackie Jobinson baseball card with a taunting note from Coach. Looks like he really does have the Jersey. But we'll never give up!	我们发现了教练留下的罗基·杰宾森的棒球卡和嘲笑我们的信息。看起来棒球衫似乎真的在他手上。我们绝不会放弃的！
+QuestLoc_PlayBall_QuestName	Play Ball!	开球！
+QuestLoc_PlayBall_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_PlayBall_QuestShortDescription	Keep the search alive!	坚持搜寻！
+QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_1	Perhaps I've misjudged you. The Raiders you want are headed for the RobCo Building.	抱歉我不该认为你们是那样的人。你们要找的掠夺者去了罗伯科的办公楼。
+QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_2	They went to the RobCo Building, but you'll never leave here alive!	他们去了罗伯科大楼，但你们绝不可能活着离开这里！
+QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_3	They went to the RobCo Building, but you won't live to insult our kind ever again!	他们去了罗伯科大楼，但你们活不到再侮辱我们同类的那一天！
+QuestLoc_PlayingCatchUp_Conversation_1_NPCEnd_4	If I told you they were at the RobCo Building, would you go away?	如果我告诉你他们在罗伯科大楼，你们能走开吗？
+QuestLoc_PlayingCatchUp_Conversation_1_NPCStart_1	I'll tell you the same thing I told those Raiders. We don't want you here!	我告诉过那些掠夺者了，对你们也是一样的话，这里不欢迎你们！
+QuestLoc_PlayingCatchUp_Conversation_1_Team_1	I don't want to fight. I'm just looking for Bottle & Cappy.	我不想打架，我只是想找到瓶瓶和盖盖。
+QuestLoc_PlayingCatchUp_Conversation_1_Team_2	Tell me where they went or I'll kill you where you stand!	告诉我他们去哪儿了，不然我就让你死在原地！
+QuestLoc_PlayingCatchUp_Conversation_1_Team_3	I'm here for Bottle & Cappy, not to bother a bunch of ugly Ghouls.	我来这里是为了找瓶瓶和盖盖的，并不想和一群丑陋的尸鬼打交道。
+QuestLoc_PlayingCatchUp_Conversation_1_Team_4	Have you seen Bottle & Cappy?	你们有见过瓶瓶和盖盖吗？
+QuestLoc_PlayingCatchUp_QuestLongDescription	The Raider Boss at Vault 177 boasted that they took Bottle & Cappy to the Poseidon Energy offices. I hope she was telling the truth.	177号避难所的掠夺者首领吹嘘他们把瓶瓶和盖盖带去了海神能源办公室。但愿她讲的是真话。
+QuestLoc_PlayingCatchUp_QuestName	Playing Catch-Up	追踪游戏
+QuestLoc_PlayingCatchUp_QuestObjective_1	Search Poseidon Energy's offices for any sign of Bottle & Cappy.	搜索海神能源办公室寻找关于瓶瓶和盖盖的线索。
+QuestLoc_PlayingCatchUp_QuestShortDescription	Pursue Bottle & Cappy's kidnappers.	追踪瓶瓶和盖盖的绑匪。
+QuestLoc_PlayingPolitics_Conversation_1_NPCStart_1	Aha! Here it is!	啊哈，在这儿呢！
+QuestLoc_PlayingPolitics_Conversation_1_NPCStart_2	The official documentation Vault-Tec sent to the Mayor's office...	避难所科技的正式文件被送到了市长办公室……
+QuestLoc_PlayingPolitics_Conversation_1_NPCStart_3	...with the location of Vault 525! And they did indeed have a G.E.C.K.!	……上面写着525号避难所的位置！他们真的有“伊甸园制造器”！
+QuestLoc_PlayingPolitics_Conversation_1_NPCStart_4	Says here the entrance was hidden in the Red Rocket Headquarters!	这里说入口隐藏在红火箭总部里！
+QuestLoc_PlayingPolitics_QuestLongDescription	According to a page from Paula Plumbkin's journal, Vault 525 really is Vaultopolis, but even she doesn't know where it is. But the Mayor's office may hold that information!	根据宝拉·普朗布金日志里所说的，525号避难所确实是个避难所大都会，但她也不知道在哪里。也许市长办公室里会有相关的信息。
+QuestLoc_PlayingPolitics_QuestName	Playing Politics	政治游戏
+QuestLoc_PlayingPolitics_QuestObjective_1	Search the Mayor's office for info on Vault 525's location.	前往市长办公室搜寻关于525号避难所具体位置的信息。
+QuestLoc_PlayingPolitics_QuestShortDescription	We need to search the Mayor's office to find the location of Vault 525.	我们得去市长办公室找找关于525号避难所的信息。
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_NPCEnd_1	Fine, fine. I'll find it myself. Kids these days!	行行行，我自己找。现在的小孩真是不得了！
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_NPCEnd_2	And I thought employees were supposed to be helpful. I'll be writing your manager a letter!	雇员难道不是应该提供帮助的吗？我会给你们的经理写封信！
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_NPCEnd_3	Never kid a kidder! I know they're here. I'll find them one way or another.	别跟行家过招！我知道他们在这儿，总会有办法找到的。
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_NPCStart_1	Excuse me, can you tell me where to find the prunes?	不好意思打扰了，你能告诉我哪里能找到西梅吗？
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_NPCStart_2	I feel like I've been up and down the aisles a thousand times.	我觉得自己好像在这些过道里来回走了上千遍了。
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_Team_1	Sorry, I don't work here.	抱歉，我不在这里工作。
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_Team_2	I don't think you're going to find those here...	这里好像没有那个……
+QuestLoc_PostApocolypticWorldProblems_Conversation_1_Team_3	Sorry, we stopped carrying those a couple hundred years ago.	抱歉，我们几百年前就不卖这个了。
+QuestLoc_PostApocolypticWorldProblems_QuestLongDescription	One of your Dwellers stumbled across a Super Duper Mart while out in the Wasteland. Perhaps you'll find something useful inside...	一位居民在废土探险时发现了一处大无敌超市。也许应该进去看看有没有什么有用的东西……
+QuestLoc_PostApocolypticWorldProblems_QuestName	Post-Apocalyptic World Problems	末世问题
+QuestLoc_PostApocolypticWorldProblems_QuestObjective_1	Explore the Super-Duper Mart.	探索大无敌超市。
+QuestLoc_PostApocolypticWorldProblems_QuestShortDescription	You've found a Super-Duper Mart while out exploring!	探险时发现一个大无敌超市！
+QuestLoc_PoweredUp_Conversation_1_NPCStart_1	Don't shoot! I'm not like those other Ghouls!	别开枪！我和其它的尸鬼不一样！
+QuestLoc_PoweredUp_Conversation_1_NPCStart_2	Looking for Paula Plumbkin? She was here all right.	在找宝拉·普朗布金是吗？她的确来过这里。
+QuestLoc_PoweredUp_Conversation_1_NPCStart_3	Paula thought this place might be Vaultopolis. Obviously not.	宝拉以为这地方可能是避难所之城。显然并不是。
+QuestLoc_PoweredUp_Conversation_1_NPCStart_4	She headed to Vault 813. If you're following her, this might help!	她去了813号避难所。如果你们在找她，这个可能会有帮助！
+QuestLoc_PoweredUp_QuestLongDescription	The Radscorpion's creepy keeper said Paula Plumbkin went to the nuclear power plant, so that's where we'll look for her.	辐射蝎的诡异饲养者说宝拉·普朗布金去了核电站，我们决定去那里找她。
+QuestLoc_PoweredUp_QuestName	Powered Up!	充电之旅！
+QuestLoc_PoweredUp_QuestObjective_1	Search the nuclear power plant for Paula Plumbkin.	前往核电站寻找宝拉·普朗布金。
+QuestLoc_PoweredUp_QuestShortDescription	Search the nuclear power plant for Paula Plumbkin.	前往核电站寻找宝拉·普朗布金。
+QuestLoc_PowertothePeople_Conversation_1_NPCStart_1	Please help!	救命！
+QuestLoc_PowertothePeople_Conversation_1_NPCStart_2	The Raiders said they wanted to free us from our life of servitude. Then they opened fire!	掠夺者说要将我们从奴役的生活中拯救出来。然后就开火了！
+QuestLoc_PowertothePeople_Conversation_1_NPCStart_3	Their definition of freedom leaves something to be desired...	他们对自由的定义是不是有点奇怪……
+QuestLoc_PowertothePeople_Conversation_2_NPCEnd_1	It ends all right! For you!	是会结束！不过是对你们而言！
+QuestLoc_PowertothePeople_Conversation_2_NPCEnd_2	My most gracious thanks. I'll keep that in mind as I eviscerate you.	我最衷心的感谢。等我把你扒皮的时候我会牢牢记住这些话的，
+QuestLoc_PowertothePeople_Conversation_2_NPCEnd_3	Killing you IS my job!	杀了你就是我的工作。
+QuestLoc_PowertothePeople_Conversation_2_NPCEnd_4	What? Huh? Seriously? Ugh. FINE. The Overseer's that way. Killjoy.	什么？哈？你是认真的？呃，好吧。监督者在那边。真扫兴。
+QuestLoc_PowertothePeople_Conversation_2_NPCStart_1	Lookie here. More Dwellers, need rescuing from their nightmare of endless labor.	快来看。有更多的居民需要我们把他们从噩梦般无止境的劳动中拯救出来。
+QuestLoc_PowertothePeople_Conversation_2_NPCStart_2	Rubarb was right - the working conditions in these Vaults is utterly deplorable!	鲁巴布说的对——这些避难所里的工作条件简直惨无人道！
+QuestLoc_PowertothePeople_Conversation_2_NPCStart_3	Don't worry. We'll end your eternal suffering. It's the least we can do.	不要慌张。我们将永久终结你们的痛苦。这是我们能做的最起码的事。
+QuestLoc_PowertothePeople_Conversation_2_Team_1	Pfft! Please. Rescuing? This is nothing but Raiders raiding. And it ends here!	呸！拜托。拯救？你们这就是掠夺者赤裸裸的抢劫，一切到此为止！
+QuestLoc_PowertothePeople_Conversation_2_Team_2	You know, for a Raider, your vocabulary is exemplary.	你知道吗，作为一个掠夺者，你的措辞还挺典范的。
+QuestLoc_PowertothePeople_Conversation_2_Team_3	Get a job, you bum!	拜托找个工作吧，你这个无业游民！
+QuestLoc_PowertothePeople_Conversation_2_Team_4	If I asked you to just chill out and not attack us... would you?	如果我让你冷静点，不要攻击我们……你会同意吗？
+QuestLoc_PowertothePeople_Conversation_3_NPCStart_1	Phew! Close one!	嘘，好惊险！
+QuestLoc_PowertothePeople_Conversation_3_Team_1	All in a day's work!	小菜一碟！
+QuestLoc_PowertothePeople_QuestLongDescription	A disgruntled Dweller named Rubarb has joined the Raiders and wants to liberate some local Vaults... with violence! Overseer Mogabe needs your help!	一个叫鲁巴布的居民牢骚满腹，他加入了掠夺者的队伍，想要……用暴力“解放”当地的避难所！监督者莫加比需要你的帮助！
+QuestLoc_PowertothePeople_QuestName	Power to the People?	赋予人民力量？
+QuestLoc_PowertothePeople_QuestObjective_1	Rescue Overseer Mogabe.	拯救监督者莫加比。
+QuestLoc_PowertothePeople_QuestShortDescription	Rescue Overseer Mogabe from Rubarb's Raiders.	从鲁巴布的掠夺者手中拯救监督者莫加比。
+QuestLoc_QueenoftheDeathclaws_Conversation_1_NPCStart_1	I raised that Deathclaw from a hatchling. You'll pay for this!	那只死爪是我从小养大的。你们会为你们的行为付出代价！
+QuestLoc_QueenoftheDeathclaws_QuestLongDescription	A Raider calling herself the Queen of the Deathclaws has been terrorizing the Wasteland!	一名自称为“死爪女王”的掠夺者在废土上行凶作恶！
+QuestLoc_QueenoftheDeathclaws_QuestName	Queen of the Deathclaws!	死爪女王！
+QuestLoc_QueenoftheDeathclaws_QuestObjective_1	Kill the Queen of the Deathclaws.	消灭死爪女王。
+QuestLoc_QueenoftheDeathclaws_QuestObjective_2	Kill the Queen's Alpha Deathclaw.	消灭女王的领头死爪。
+QuestLoc_QueenoftheDeathclaws_QuestShortDescription	Defeat an Alpha Deathclaw and the Raider controlling it.	打败领头死爪和控制它的掠夺者。
+QuestLoc_QueenoftheDeathclaws_RaiderLine_1	You think you can take us!? Our boss has her own Deathclaw bodyguard!	你们以为能拿下我们？！我们老大可是有死爪给她做保镖！
+QuestLoc_RadiationLeak_Conversation_1_NPCEnd_1	Here you are, then.	那就给你们吧。
+QuestLoc_RadiationLeak_Conversation_1_NPCEnd_2	The Vault armory had a few items left. Here.	避难所的军械库里还剩了些东西。来，给你们。
+QuestLoc_RadiationLeak_Conversation_1_NPCEnd_3	We won't be needing them, anyway. Here you go.	我们不太会用得上。给你们吧。
+QuestLoc_RadiationLeak_Conversation_1_NPCStart_1	Wait! We're not Feral! We're friendly!	等等！我们不是狂尸鬼！我们很友好！
+QuestLoc_RadiationLeak_Conversation_1_NPCStart_2	The radiation changed all of us, but we still have our sanity. The others had us trapped here.	辐射让我们都变异了，但我们神志还算清醒。那些失心疯的人把我们困在了这里。
+QuestLoc_RadiationLeak_Conversation_1_NPCStart_3	Thank you for freeing us. How can we repay you?	谢谢你们救了我们。我们该怎么报答你们呢？
+QuestLoc_RadiationLeak_Conversation_1_Team_1	We'll take our payment in Caps.	如果你们有瓶盖的话，我们愿意接受。
+QuestLoc_RadiationLeak_Conversation_1_Team_2	Got any weapons?	你们有武器吗？
+QuestLoc_RadiationLeak_Conversation_1_Team_3	We could always use more outfits.	装备对我们来说总是有用的。
+QuestLoc_RadiationLeak_QuestLongDescription	A neighboring Vault has had a massive radiation leak and the citizens have turned into Feral Ghouls!	我们的邻近的避难所发生了大型的辐射泄漏，居民们变成了狂尸鬼！
+QuestLoc_RadiationLeak_QuestName	Radiation Leak!	辐射泄漏！
+QuestLoc_RadiationLeak_QuestObjective_1	Rescue the Vault Overseer.	拯救避难所监督者。
+QuestLoc_RadiationLeak_QuestShortDescription	Send a team with Radiation Suits to a neighboring Vault.	派遣一队穿着防辐射服的居民去邻近的避难所。
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_1	Yes, they said they were Pests. You can say that again!	是的，他们说自己是“害虫”。这话一点没错！
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_2	No, but they kept saying, “Blessed be the irradiated.”	不，但他们不停地说：“愿辐射保佑我们。”
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_3	She sends the others into a frenzy. If you kill her, we should be able to round up the rest.	她会让其他辐射蟑螂发狂。如果你杀了她，我们就能把剩下的都围捕起来。
+QuestLoc_RadroachRoundup_Conversation_1_NPCEnd_4	No, sorry. They just vanished into the Wasteland. Like... *dare I say it?*... Radroaches.	不，对不起。他们刚刚消失在废土了。就像……*我敢说吗？*……辐射蟑螂一样。
+QuestLoc_RadroachRoundup_Conversation_1_NPCStart_1	Thank goodness someone's come!	谢天谢地，有人来了！
+QuestLoc_RadroachRoundup_Conversation_1_NPCStart_2	Armed thugs in Wasteland Gear barged in and took all our Radiation Suits!	一群穿着废土装备的武装暴徒闯了进来，抢走了我们所有的防辐射服！
+QuestLoc_RadroachRoundup_Conversation_1_NPCStart_3	Then they released all our Radroaches, including the Glowing Radroach Queen.	然后他们释放我们所有的辐射蟑螂，包括发光辐射蟑螂女王。
+QuestLoc_RadroachRoundup_Conversation_1_NPCStart_4	There are more people trapped inside. Please save them!	有更多的人被困在了里面。请救救他们！
+QuestLoc_RadroachRoundup_Conversation_1_Team_1	Did the thieves identify themselves?	那些小偷自报家门了吗？
+QuestLoc_RadroachRoundup_Conversation_1_Team_2	Do you know why they wanted your Radiation Suits?	你知道他们为什么要你的辐射服吗？
+QuestLoc_RadroachRoundup_Conversation_1_Team_3	What do we need to know about this Radroach Queen?	关于这个辐射蟑螂女王我们需要知道些什么？
+QuestLoc_RadroachRoundup_Conversation_1_Team_4	Do you know where the thieves went?	你知道小偷去哪儿了吗？
+QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_1	Egads! We can't herd the rest into their cages while she's still around.	该死的！只要她还在旁边，我们不能把其余的关进笼子里。
+QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_2	Wonderful! We'll be able to herd the rest into their cages now.	太棒了！这下我们就能把其余的辐射蟑螂赶进笼子里了。
+QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_3	Of the Apocalypse, yes. I'd guess that someone has taken its name and recruited followers.	末日，是的。我猜肯定有人用了这个名字，招募了追随者。
+QuestLoc_RadroachRoundup_Conversation_2_NPCEnd_4	Exactly! A name that strikes fear. A name with gravitas!	没错，让人恐惧的名字。庄严的名字！
+QuestLoc_RadroachRoundup_Conversation_2_NPCStart_1	Superlative, we're saved! Are any of those scoundrels still around?	太好了，我们得救了！那些坏蛋还有人留下吗？
+QuestLoc_RadroachRoundup_Conversation_2_NPCStart_2	They called themselves Pests, servants of Pestilence, and kept saying “Blessed be the irradiated.”	他们称自己为“害虫”，是“瘟疫”的仆人，不停地说：“愿辐射保佑我们”
+QuestLoc_RadroachRoundup_Conversation_2_NPCStart_3	Pestilence. Pests. It clearly didn't take them long to think of a name.	“瘟疫”。“害虫”。显然，他们没有花很长时间去想名字。
+QuestLoc_RadroachRoundup_Conversation_2_NPCStart_4	At any rate, have you killed the Radroach Queen yet?	无论如何，你们杀死了蟑螂女王吗？
+QuestLoc_RadroachRoundup_Conversation_2_Team_1	No, she's still somewhere in the building.	不，她还在大楼的某个地方。
+QuestLoc_RadroachRoundup_Conversation_2_Team_2	Yes, we took care of her.	是的，我们杀了她。
+QuestLoc_RadroachRoundup_Conversation_2_Team_3	Never mind that. What's this about Pestilence? Isn't that one of the Four Horsemen?	请别介意。“瘟疫”是怎么回事？那不是四骑士中的一个吗？
+QuestLoc_RadroachRoundup_Conversation_2_Team_4	The Plagued or the Contagion would have been a much better name.	“蔓延”或“传染”将是一个更好的名字。
+QuestLoc_RadroachRoundup_QuestLongDescription	A distress call has come in from a nearby science lab studying Radroaches. Thieves stole their Radiation Suits and released all the Radroaches to cover their escape. Now the scientists are in over their heads and asking for help!	一个求救电话从附近的一个研究辐射蟑螂的科学实验室传来。小偷偷走了他们的防辐射服并释放了所有的辐射蟑螂来辅助他们逃跑。现在科学家们束手无策，正在求救！
+QuestLoc_RadroachRoundup_QuestName	Radroach Roundup	围捕辐射蟑螂
+QuestLoc_RadroachRoundup_QuestObjective_1	Kill the Glowing Radroach Queen.	消灭发光辐射蟑螂女王。
+QuestLoc_RadroachRoundup_QuestObjective_2	Save the first group of scientists.	拯救第一组科学家。
+QuestLoc_RadroachRoundup_QuestObjective_3	Save the second group of scientists.	拯救第二组科学家。
+QuestLoc_RadroachRoundup_QuestShortDescription	Save scientists from the Radroaches they were studying.	从科学家研究的辐射蟑螂手中拯救他们。
+QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCEnd_1	Nothing, he left before we could catch him. Said some settlers were stuck in a Mole rat den. But enough talk, now you die!	没怎么，在我们能抓到他之前就离开了。说是一些定居点的人被困在了鼹鼠洞穴里。话说完了，准备受死吧！
+QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCStart_1	Ha, what do we have here?	哈，我们现在是什么情况？
+QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCStart_2	Some more goody two-shoes, looking to take down Road Rash!	一些伪君子，想要干掉“道路丘疹”！
+QuestLoc_RaiderTroublesatCorvega_Conversation_1_NPCStart_3	I'll tell you what I told that idiot Preston Garvey. No one messes with Road Rash and lives!	我曾对那个白痴普雷斯顿·加维说过，对你们也一样，没有人惹了我“道路丘疹”还能活着回去的！
+QuestLoc_RaiderTroublesatCorvega_Conversation_1_Team_1	What did you do with Preston?	你们把普雷斯顿怎么了？
+QuestLoc_RaiderTroublesatCorvega_QuestLongDescription	The path has led you to the home of Road Rash and his gang of Raiders! Find out if they know anything.	这条路会带你到“道路丘疹”和他的掠夺者团伙的据点！去看看他们是不是知道点什么。
+QuestLoc_RaiderTroublesatCorvega_QuestName	Raider Troubles at Corvega	可伟佳的掠夺者问题
+QuestLoc_RaiderTroublesatCorvega_QuestObjective_1	Interrogate Road Rash for information.	审问“道路丘疹”，索要更多信息。
+QuestLoc_RaiderTroublesatCorvega_QuestShortDescription	Search for Preston in the Corvega Factory.	在可伟佳装配厂寻找普雷斯顿。
+QuestLoc_RaidingParty_Conversation_1_NPCEnd_1	What? I was up for that promotion! I'm gonna give him a piece of my mind!	什么？我可是为了那个升职而来的！我会和他直说的，才不顾及什么面子。
+QuestLoc_RaidingParty_Conversation_1_NPCEnd_2	If he does, I can't take any chances. Thanks, newbie!	如果他这么做，我就没有机会了。谢谢你，新来的！
+QuestLoc_RaidingParty_Conversation_1_NPCStart_1	Hey, watch where you're going, pal!	嘿，兄弟说话可得小心点！
+QuestLoc_RaidingParty_Conversation_1_NPCStart_2	This here's a private conversation, and you're not invited.	这可是个私人谈话，我不记得邀请过你。
+QuestLoc_RaidingParty_Conversation_1_NPCStart_3	Now, scram before I have to rough you up.	现在，趁我还没有动手之前赶紧滚。
+QuestLoc_RaidingParty_Conversation_1_Team_1	I don't think you want to do that. I'm the Boss' new second-in-command.	我不觉得你想那么做。我现在是老大的新二把手。
+QuestLoc_RaidingParty_Conversation_1_Team_2	The Boss already knows what you've been doing. Better get him before he gets you.	老大已经知道你做的那些勾当了，最好在他动手之前你先动手。
+QuestLoc_RaidingParty_Conversation_2_NPCEnd_1	Are you serious? Then why am I drinking this swill?	你是认真的吗？那我为什么还要喝这些鬼东西？
+QuestLoc_RaidingParty_Conversation_2_NPCEnd_2	Not if I can help it! Here, hold this. He's gonna have a conversation with my fist!	只要我还有一口气，他就别想得逞！来，拿着这个。让他跟我的拳头好好聊聊吧！
+QuestLoc_RaidingParty_Conversation_2_NPCStart_1	We're almost out of drinks. This stinks!	我们快要没有喝的了。真烦躁！
+QuestLoc_RaidingParty_Conversation_2_NPCStart_2	I wish I knew where to get more.	真希望哪里能弄到更多的喝的。
+QuestLoc_RaidingParty_Conversation_2_Team_1	The Boss is holding out on us. I saw a huge stash hidden in his room!	老大一直都瞒着我们，我看见他在房间里偷偷藏了一箱！
+QuestLoc_RaidingParty_Conversation_2_Team_2	I know, and the Boss was saying he wanted to take away what little you had!	我知道，老大说过他会把你仅有的一点点也拿走！
+QuestLoc_RaidingParty_Conversation_3_NPCEnd_1	Uh oh. We better make ourselves scarce before he comes back!	呃，我们最好在他回来之前躲起来！
+QuestLoc_RaidingParty_Conversation_3_NPCEnd_2	Hah, you're right! There's no way that could ever backfire! Great idea!	哈，你说得对！这绝不会适得其反！好主意！
+QuestLoc_RaidingParty_Conversation_3_NPCStart_1	...So the Boss says, “Huh, I thought I was wearing my red underwear!”	……所以老大说，“嗬，我以为我穿的是那条红内裤！”
+QuestLoc_RaidingParty_Conversation_3_NPCStart_2	Ha ha ha ha!	哈哈哈哈！
+QuestLoc_RaidingParty_Conversation_3_NPCStart_3	What's the matter, newbie? Why didn't you laugh?	嘿新来的，你有什么意见吗？你为什么不笑？
+QuestLoc_RaidingParty_Conversation_3_Team_1	Oh nothing. The Boss just said to take note of anyone who laughs at that story.	哦没什么。老大只是说把任何笑了的人的名字记下来。
+QuestLoc_RaidingParty_Conversation_3_Team_2	Sorry, I was thinking how funny it'd be if you stole all of his underwear while he was gone!	抱歉，我只是在想如果在他不在的时候把他的内裤都偷走该有多好笑啊！
+QuestLoc_RaidingParty_QuestLongDescription	A group of Raiders is holding a rowdy shindig while their Boss is away. Now's our chance to infiltrate them while they're partying. If we can turn them against their Boss, the whole gang will be destroyed from within!	一群掠夺者趁着他们的老大不在，偷偷开了一个疯狂而盛大的舞会。现在是我们渗透到他们内部的好机会。如果我们能离间他们和他们的老板，整个帮派就会从内部瓦解掉！
+QuestLoc_RaidingParty_QuestName	Raiding Party	掠夺者派对
+QuestLoc_RaidingParty_QuestObjective_1	Spread lies among the partying Raiders.	在开派对的掠夺者当中散播谣言。
+QuestLoc_RaidingParty_QuestObjective_2	Spread lies among the belligerent Raiders.	在好战的掠夺者当中散播谣言。
+QuestLoc_RaidingParty_QuestObjective_3	Spread lies among the drinking Raiders.	在喝酒的掠夺者当中散播谣言。
+QuestLoc_RaidingParty_QuestShortDescription	Infiltrate the Raiders' hideout and sow the seeds of distrust.	深入掠夺者根据地，播下怀疑的种子。
+QuestLoc_RainDelay_Conversation_1_NPCStart_1	We'll have to keep looking...	我们得继续找……
+QuestLoc_RainDelay_QuestLongDescription	No sign of Coach at the cereral processing plant. Maybe he's scavenging for electronics at the old General Atomics factory? Worth a looksie...	没在麦片加工厂看到教练。也许他去旧的通用原子厂寻找电子元件了？值得看一看。
+QuestLoc_RainDelay_QuestName	Rain Delay	迟来的雨
+QuestLoc_RainDelay_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_RainDelay_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
+QuestLoc_ReignofRadroachRodney_QuestLongDescription	Radroach Rodney and his army of mind-controlled Radroaches are invading the Wasteland!	辐射蟑螂罗德尼和被他控制心智的辐射蟑螂大军正在入侵废土！
+QuestLoc_ReignofRadroachRodney_QuestName	Reign of Radroach Rodney!	辐射蟑螂罗德尼的统治！
+QuestLoc_ReignofRadroachRodney_QuestObjective_1	Kill Radroach Rodney.	消灭辐射蟑螂罗德尼。
+QuestLoc_ReignofRadroachRodney_QuestShortDescription	Defeat Radroach Rodney and his Radroaches!	打败辐射蟑螂罗德尼和他手下的辐射蟑螂们！
+QuestLoc_ReignofRadroachRodney_RaiderLine_1	You can't stop me! This world belongs to the Radroach!	你阻止不了我的！这个世界都是属于我们辐射蟑螂的！
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCEnd_1	Under the covers?! We only just met!	在被窝里？！我们才刚刚认识！
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCEnd_2	Isn't it? And if things don't work out, we can always go back to fighting. Win-win.	不是吗？如果事情不顺利，我们总是可以回去战斗。双赢。
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCEnd_3	It is? Okay. Whatever you say...	是吗？好吧，你说什么就是什么……
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCEnd_4	Exactly, but he really, really loves that thing!	没错，但他真的，真的很喜欢那个东西！
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCStart_1	(Suddenly stops whispering.)	（突然停止耳语。）
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCStart_2	Oh! Hello. You don't have to worry about us. We don't want to fight.	哦！你好，你不用担心我们。我们不想打架。
+QuestLoc_ReleasetheRaiders_Conversation_1_NPCStart_3	The Pests are attacking, but we're going to work things out over an ice cold Nuka-Cola.	“害虫”正在攻击，但我们要喝杯冰镇核子可乐，把事情谈妥。

@@ -1,0 +1,55 @@
+{
+  "chunk": "039",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_INS_QL2_Railroaded_3_Room5_Question_Line1_Choice0",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「准是从鼹鼠进来的那些洞钻进来的」一句里，定语部分「从鼹鼠进来的」缺动词中心语（应为「鼹鼠钻进来的」），而「进来」又连着出现两次（「进来的……钻进来的」），读到「从鼹鼠进来的」要先愣一下、回读一遍才能理清是谁从哪儿钻进来。",
+      "fix": "破坏者！准是从鼹鼠钻进来的那些洞里钻过来的……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_INS_QL2_Railroaded_4_Room5_Question_Line2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "「等等，真的是吗？」成分残缺：「真的是」后面没有宾语中心语（真的是死胡同／死路吗），孤零零一个「真的是吗？」像话没说完，读者得自己把上一句的「死胡同」填回去才能接上。",
+      "fix": "我们走到了死胡同……等等，真的走不通吗？这台终端机是干什么的？",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL2_Railroaded_4_Room6_Question_Line2",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "「他们把他化成了一滩浆糊」用词不当：中文里「浆糊」专指贴纸用的糨糊，用来形容怀亚特被化成的东西既滑稽又出戏；本表别处 goo 一律作「粘液／浆液」（变成一团粘液、融化成发光的浆液），此处应统一。",
+      "fix": "怀亚特……可怜的怀亚特……他们把他化成了一滩黏液。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL3_Betrayal_2_Room6_Question_Line1_Answer0",
+      "severity": "S2",
+      "type": "指代",
+      "problem": "「但我相信它们的理由」用「它们」指人：说这话的是兄弟会成员（后一句还在骂「合成人爱好者」），英文 their 指的是人；用「它们」要么把对方高层当物件，要么会被读成「合成人的理由」，与后半句立场自相矛盾，玩家读不出这句话到底站哪边。",
+      "fix": "我不赞成我们用的手段……但我相信他们的理由。去死吧，合成人爱好者！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL3_Betrayal_3_Room0_Question_Line3",
+      "severity": "S3",
+      "type": "语气",
+      "problem": "「大概走着瞧吧」：「走着瞧」在中文里是放狠话、挑衅的说法（「你走着瞧」），这里只是随口推测「我想我们早晚会知道」，语气完全不搭；「大概」也不能修饰这个祈使式，两半搭在一起不通。",
+      "fix": "也许还有他们其他的囚犯？到时候就知道了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL3_Betrayal_3_Room5_Question_Line1_Choice1",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "「合成人的程序设定就是自以为是人类」把成语「自以为是」（自负、主观臆断）和「以为自己是」揉在一起，字面读成「合成人的程序设定就是很自以为是」，谓语与宾语关系混乱，读者要自己还原成「让它们以为自己是人类」。",
+      "fix": "合成人的程序设定就是让他们以为自己是人类。",
+      "confidence": "medium"
+    }
+  ]
+}

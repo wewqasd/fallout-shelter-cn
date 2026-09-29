@@ -1,0 +1,110 @@
+{
+ "batch": 38,
+ "items": [
+  {
+   "key": "QuestLoc_TheRedRocketReveal_Conversation_1_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "toughened me up 对应磨炼得更硬朗，本库 gym 语境才用「锻炼」；末句「我已经不是原来的我了」EN 完全没有，属加戏。",
+   "final_fix": "是我 - 宝拉·普朗布金！废土把我磨炼得更硬朗了！"
+  },
+  {
+   "key": "QuestLoc_TheRedRocketReveal_QuestObjective_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Search＝搜查内里（ES Registra、DE Durchsuche）；「寻找」＝look for，把宾语变成地点本身。",
+   "final_fix": "搜查红火箭总部。"
+  },
+  {
+   "key": "QuestLoc_TheRiteofSpraying_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "gone feral＝尸鬼化失智（RU 作 дикого гуля，本库他处作狂化/野化/发狂），「变得残暴」把设定含义降成脾气凶。",
+   "final_fix": "再晚几个小时，我这位朋友就要发狂了。"
+  },
+  {
+   "key": "QuestLoc_TheRiteofSpraying_QuestLongDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "we've had reports of 译成「收到关于…的报告」套三层定语；find out more 是了解情况，「查明信息」搭配不成立。",
+   "final_fix": "有报告称，附近的定居者遭到不明袭击者随意喷洒放射性物质。我们该给这些定居者送些消辐宁，并进一步查清这些袭击的来龙去脉。"
+  },
+  {
+   "key": "QuestLoc_TheRiteofSpraying_RaiderLine_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Good thing＝幸好（ES Qué bien que、DE Zum Glück），本库他处作还好/好在；「好消息」把庆幸语气改成宣告。",
+   "final_fix": "还好我们多带了些消辐宁……"
+  },
+  {
+   "key": "QuestLoc_TheScenicRoute_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "I guess＝大概、勉强（ES Supongo、IT credo、DE Oder so），ZH 当成 I mean 译「我想说」，勉强道谢语气丢失。",
+   "final_fix": "这里……安全？哦。谢了，大概吧。"
+  },
+  {
+   "key": "QuestLoc_TheScorpionKing_Conversation_1_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "haven't got any MORE 是已无更多，ZH「还什么都没有」说成一无所有，与下句「拿了这个」自相矛盾；thanks to you 反讽也丢了。",
+   "final_fix": "多亏了你们，我已经没有更多了！拿了这个赶紧滚吧！"
+  },
+  {
+   "key": "QuestLoc_TheScorpionKing_Conversation_1_NPCStart_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Howdy folks 是随口招呼（ES ¡Hola, gente!、本库他处作你好啊）；「亲爱的乡亲们」是书信腔，不合匪号人设。",
+   "final_fix": "乡亲们好啊，大伙儿都叫我辐射蝎厄尔！"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_1_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Yeah 在此是否定应答（DE 作 Vergiss es.、RU Очень сомневаюсь），「是的」加「我不这么认为」自相矛盾，拒绝口吻读不通。",
+   "final_fix": "得了吧，我看不行。"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_1_Team_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "23 skidoo 是俚语赶紧开溜（ES Me las piro、FR à la revoyure），ZH 拆成「23号，史酷多」，整句变成无意义报名。",
+   "final_fix": "只是路过，我们这就走！"
+  },
+  {
+   "key": "QuestLoc_TheSecretofREDACTED_Conversation_2_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "上文玩家说 We've got guns.，so do we 承接 have＝我们也有枪；ZH「我们也知道」把 have 当 know，回应与挑衅脱节。",
+   "final_fix": "嚯，还真巧，我们也是。向狄斯科耳狄亚致敬！"
+  },
+  {
+   "key": "QuestLoc_TheShadowWolf_Conversation_1_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "his 指男性鼹鼠人，ZH 用「它」指人；Don't think he's right in the head＝我看他脑子不正常，ZH 译成祈使句。",
+   "final_fix": "他住在那个工厂里，训练他那些“小可爱”。那疯子把它们当亲生孩子养。我看他脑子不太正常。"
+  },
+  {
+   "key": "QuestLoc_TheShadowWolf_QuestShortDescription",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "source＝源头（ES origen de la plaga、IT causa），infestation＝成灾，ZH 降成「线索」「事件」并叠长定语。",
+   "final_fix": "去见见那位追踪者吧，他可能已经查到鼹鼠成灾、专偷红果的源头了。"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_1_Team_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "see your…and raise you 是扑克跟注加注（DE 作 Ich sehe…und erhöhe），ZH 直译「我会看到」还自添「吞噬」。",
+   "final_fix": "你的愤怒我跟了，再加注一份天谴。"
+  },
+  {
+   "key": "QuestLoc_TheSixthSun_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "go through us＝先过我们这一关（RU разберитесь с нами），「经过我们」只剩走过；前半「你们」后半「你」混用。",
+   "final_fix": "你们要想杀他，得先过我们这一关。"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "chunk": "006",
+ "lens": "accuracy",
+ "reviewed": 180,
+ "findings": [
+  {
+   "key": "Encounter_Victory_Creature3",
+   "severity": "S3",
+   "type": "指代",
+   "problem": "「我杀死了巨大苍蝇，炸成了一堆碎块。」后一分句没有补出主语，按汉语承前省略的习惯，读者会把「炸成了」的主语接回前句的「我」，读成玩家自己炸成了碎块；EN 的主语是苍蝇（it exploded into a thousand pieces）。同族文案（Creature4「我踩扁了一只辐射蟑螂」、Creature15 用「它死了」另起一句）都靠补主语/另起分句避开了这个歧义。",
+   "fix": "我杀死了巨大苍蝇，它炸成了一堆碎块。好恶心。",
+   "confidence": "high"
+  },
+  {
+   "key": "Encounter_Victory_Creature12",
+   "severity": "S3",
+   "type": "漏译",
+   "problem": "EN「One Fire Ant Soldier... extinguished!」是照应 Fire Ant 的双关——火蚁是被「扑灭」的；ZH 写成「被我消灭了！」，把它当普通击杀处理，包袱丢掉。本族其它条目（Creature10「我杀死了辐射蝎」）才是平铺的 killed，此处 EN 特意换词。汉语「扑灭」既能表灭杀又能表灭火，双关完全可以保留。",
+   "fix": "一只火兵蚁……被我扑灭了！",
+   "confidence": "medium"
+  },
+  {
+   "key": "Encounter_Victory_Creature22",
+   "severity": "S3",
+   "type": "病句",
+   "problem": "「差一点点就被它……」在「被它」之后直接接省略号，被字句缺谓语，话没说完（被它怎么样没有交代），读起来像被截断的句子；EN「That was way too close...」是一个完整句子（刚才那下太险了）后面才淡出，并没有「被它如何」这一层。同族结尾都是完整句（Creature19「好险，但我还是杀死了这只恶犬。」）。",
+   "fix": "我杀死了死爪！刚才那真是太险了……",
+   "confidence": "medium"
+  },
+  {
+   "key": "Help_Page01_MainText",
+   "severity": "S3",
+   "type": "生硬",
+   "problem": "「总会有三个目标同时给您完成。」中「给您完成」搭配不通，字面像是游戏替玩家完成目标；EN 是 you can work on，即「可供您着手完成」。另外 EN 的 for free（免费）未译出，而下一句恰恰说明用核子可乐跳过额外的目标是要付费的，免费与付费的对比信息丢失，玩家无法从这段说明里知道每日那次放弃是免费的。",
+   "fix": "始终有三个目标可供您完成。\\n\\n您每天可以免费放弃一个目标，同时会出现一个新目标顶替它。\\n\\n每天还能使用量子核子可乐跳过额外的目标。\\n\\n目标越难，奖励越大。",
+   "confidence": "medium"
+  }
+ ]
+}

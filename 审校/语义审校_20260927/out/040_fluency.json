@@ -1,0 +1,55 @@
+{
+  "chunk": "040",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_INS_QL3_Betrayal_3_Room7_Question_Line1_Answer2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「在背后捅你刀时」缺量词：中文的固定说法是「背后捅刀子」「捅你一刀」，「捅你刀」读起来像掉了一个字。这句台词全靠「彬彬有礼地捅刀」的反差出效果，卡住的搭配正好卡在笑点上。",
+      "fix": "也许吧，说实话。至少合成人在背后捅你一刀时还会彬彬有礼。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL3_Betrayal_4_Room3_Question_Line1_Choice1",
+      "severity": "S2",
+      "type": "病句",
+      "problem": "「我不是来理解的」把 understand 直译成不带宾语的光杆动词，中文「理解」后面得跟宾语，玩家要先自己补上「理解什么」才读得通；前半句是残缺的翻译腔、后半句「我是来揍人的」是利落口语，同一句话里节奏也对不上。",
+      "fix": "我不是来搞懂这些的。我是来揍人的。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_INS_QL4_Armistice_1_QuestObjective2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "「照料一个科学项目」搭配不通：「照料」的对象是人、动植物或病人，不能是「项目」，读起来像要玩家去照看某个项目；attend to 在这里是「去参与／协助」的意思，任务目标应当讲清玩家到底要做什么，量词也该用「一项」。",
+      "fix": "参与一项科学项目",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL4_Armistice_1_Room2_Question_Line1_Answer2",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "any chance you do 只是随口一问，译文却扩写成「你有哪怕一丝可能相信我吗？」这种公文式长问句，夹在「我才不是呢」「真扫兴」两个短句中间格外跳，把这位兴奋又跳脱的科学家写成了书面腔。",
+      "fix": "我才不是呢。没人相信我的研究。你会信吗？不会？真扫兴。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL4_Armistice_1_Room3_Question_Line2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「说好可能过头了」读不通：「说好」在中文里本身就是个词（讲定、约定），玩家第一反应是「谈妥了」，整句就成了「谈妥可能过头了」；原文的 good 是回指上一句「Good timing／来得正好」里的那个「好」，不用引号框住必然歧义。",
+      "fix": "嗯……说“好”可能有点过头了。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_INS_QL4_Armistice_1_Room5_Question_Line1_Choice0",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "「也许是兄弟会在你们破坏他们的阵列后，以牙还牙。」把时间状语插在主语和谓语之间、又用逗号切断，判断句的谓语只剩「以牙还牙」四个字吊在句尾，整句读起来没收住；中文更顺的是把前后两件事分开说。",
+      "fix": "也许是你们破坏了兄弟会的阵列，他们才以牙还牙。",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "chunk": "049",
+  "lens": "fluency",
+  "reviewed": 180,
+  "findings": [
+    {
+      "key": "QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_2",
+      "severity": "S2",
+      "type": "生硬",
+      "problem": "「他警告大家关于144号避难所的事……」是 warn sb. about sth. 的逐字硬搬：中文里「警告」不能直接带「关于……」的介词短语（要么「就……警告大家」，要么换成「提醒／警告大家提防……」）。这是广播即时口播的一句，读起来是教科书式的机翻腔。",
+      "fix": "他在警告所有人提防144号避难所……",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_Conversation_4_NPCEnd_1",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "TO BE CONCLUDED 是连载广播/连播剧的固定收尾套语（下回续），上一句玩家刚吐槽「又是悬念？」，NPC 回「对！TO BE CONCLUDED！」。译成「对！要结束！」既丢了套语含义，又成了缺主语的残句，玩家不知道「什么要结束」。",
+      "fix": "对！未完待续！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_Conversation_4_NPCStart_4",
+      "severity": "S3",
+      "type": "语序",
+      "problem": "when the story continues in Part 3 的 continues 没译出来，只剩「故事在第3部分时」，这个从句缺谓语，读起来像「故事到第3部分的时候」；「一切都将被揭示」也是英文被动式的硬搬，广播收尾语该用「揭晓」。",
+      "fix": "一切都会在故事的第3部分揭晓！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_2",
+      "severity": "S3",
+      "type": "病句",
+      "problem": "The one they believe in. 在英文里是依附前句的省略片段，中文照搬成独立成句的名词短语「他们所信仰的人。」：没有谓语，与前句「必须……成为“战争”。」断开后读不通，像是字幕断行错误。",
+      "fix": "对不起，没有了它我完全失去了方向。我……我……必须……成为“战争”。成为他们所信仰的那一位。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_QuestObjective_1",
+      "severity": "S2",
+      "type": "语序",
+      "problem": "把 search the building for Warshippers and Pests 按英文结构直译成「搜索“战争崇拜者”和“害虫”的建筑。」：中文这个结构的意思是「去搜索属于他们的那栋建筑」，而任务目标是「在建筑里搜出这两拨人」，宾语位置一错，任务目标就变了味，玩家可能以为要去找一栋建筑。",
+      "fix": "在建筑里搜寻“战争崇拜者”和“害虫”。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ReleasetheRaiders_RaiderLine_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "War be upon you! 是仿 Peace be upon you 的诅咒式祝词（愿战争降临于你），是掠夺者的口头禅。译成「战争就在你身上！」变成了字面陈述，既丢了祝词句式，意思也走偏（听起来像「战争压在你身上」），中文里根本不像一句喊话。",
+      "fix": "愿战争降临于你！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RescueSanta_Conversation_1_Team_3",
+      "severity": "S3",
+      "type": "其他",
+      "problem": "「小马」的量词是「匹」，「我们想要一个小马。」用「个」是量词误用；同一批文本里圣诞老人自己那句已写作「一匹奶油小马」，前后不一致。",
+      "fix": "我们想要一匹小马。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RescueSanta_QuestLongDescription",
+      "severity": "S2",
+      "type": "漏译",
+      "problem": "漏译了 He's in trouble.（他有麻烦了／他遇到麻烦了）。这句是「Let's go!」的动因，去掉之后任务描述变成「有人找到了圣诞老人。我们走！」——为什么急着出发、圣诞老人处境如何，玩家完全看不到。",
+      "fix": "当我们四处散播圣诞节日气氛时，有人找到了圣诞老人。他遇上麻烦了。我们走！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_ReturntoVault333_Conversation_1_NPCStart_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "It was a slaughter! 讲的是刚发生的袭击「那是一场屠杀」，译文「她是个杀人狂！」改成了对人物本性的评价；而且此处还没提到「她」（下一句才点明是弗兰克的妹妹），玩家会先愣一下「她是谁」。后句「太平间的噩梦」也偏，charnel 是尸骸堆积之意。",
+      "fix": "天哪！那是一场屠杀！一场尸骸遍地的噩梦！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RevengeoftheGeeks_Conversation_2_Team_3",
+      "severity": "S3",
+      "type": "生硬",
+      "problem": "这一项是「哪个数不是质数」的玩笑选项，原文靠 prime（质数）与 prime rib（上等肋排）的双关。译成「我想要的优质东西只有优质牛排。」把 prime 两次都译成「优质」，双关全失，「优质东西」含义空泛，玩家看不出一句玩笑，只觉得答案是句莫名其妙的闲话。",
+      "fix": "我唯一想要的质数，就是一块上等肋排。",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RubarbsReckoning_Conversation_1_NPCStart_4",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "I know when I'm beat 是「我知道自己什么时候该认输」，不是条件句；译成「但我知道如果我败了」既误译，又用句号把假设从句硬切断（应为逗号衔接或另起完整句），「但我知道如果我败了。」本身不成句。",
+      "fix": "但我知道自己什么时候该认输。我会回你们的避难所，累死累活地干活！",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_3",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Very. 是回答上一句 How close are they to meeting their quota?（离完成配额还有多远）的省略答语，意思是「非常近了」。译成「相当的。」在中文里不成句，玩家看到的是一个没头没尾的程度副词，接不上问题。",
+      "fix": "非常近了。三狗可能就是他们需要杀的最后一个人。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_1_NPCEnd_4",
+      "severity": "S2",
+      "type": "错别字",
+      "problem": "「胡编滥造」是错别字，成语应为「胡编乱造」；且「你胡编滥造不来」语序不通（「不来」不能这样后置），完全没译出 You just can't make this stuff up（这种事你根本编不出来）的意思。前句 It's just… 的「差不多」也偏离原意（应为「无非」）。",
+      "fix": "无非是“都写在手册里”那一套。这种事你根本编不出来。",
+      "confidence": "high"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_2_Team_1",
+      "severity": "S3",
+      "type": "误译",
+      "problem": "some mythical Horseman 指某一个「神话／传说中的骑士」，译成「一些神秘的骑士」既把单数变成复数（一说「一些」就好像有好几个未知对象），又把 mythical（传说中的、虚构的）误作「神秘的」；这句的主角玩家论点正是「那些骑士是虚构的」，词义一偏，反驳的力度就散了。",
+      "fix": "你们都是疯子！手册是错的，杀戮*并不会*唤醒什么神话中的骑士！",
+      "confidence": "medium"
+    },
+    {
+      "key": "QuestLoc_RunThreeDogRun_Conversation_3_NPCStart_1",
+      "severity": "S2",
+      "type": "误译",
+      "problem": "Now *that's* how you fight the Good Fight! 里的 Now 是感叹词（这下／这才），不是时间副词「现在」；that's how you fight X 是「这才叫……」，译文「现在*这就是*你打好仗的窍门！」把它说成了「窍门（技巧）」，整句意思跑掉且读不通——玩家会觉得「我打好仗的窍门」是什么东西。",
+      "fix": "这才叫打一场正义之战！我对你们这些英雄感激不尽！",
+      "confidence": "high"
+    }
+  ]
+}

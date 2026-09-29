@@ -1,0 +1,181 @@
+key	EN	ZH
+Room_Energy2_Build	Build a NUCLEAR REACTOR?	建造核电站？
+Room_Energy2_Desc	ASSIGN DWELLERS HERE TO PRODUCE POWER	将居民分配在这里生产电力
+Room_Entrance	ENTRANCE	门厅
+Room_Geothermal	POWER GENERATOR	发电室
+Room_Geothermal_2	POWER STATION	发电站
+Room_Geothermal_3	POWER PLANT	发电厂
+Room_Geothermal_Build	Build a POWER GENERATOR?	建造一个发电室？
+Room_Geothermal_Desc	ASSIGN DWELLERS HERE TO PRODUCE POWER	将居民分配在这里生产电力
+Room_Gym	WEIGHT ROOM	举重房
+Room_Gym_2	GYM	体育馆
+Room_Gym_3	STRENGTH CENTER	力量训练中心
+Room_Gym_Build	Build a WEIGHT ROOM?	建造一个举重房？
+Room_Gym_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR STRENGTH	将居民分配在这里训练他们的力量
+Room_HydroponicFarm	GARDEN	花园
+Room_HydroponicFarm_2	GREENHOUSE	温室
+Room_HydroponicFarm_3	HYDROPONICS	水培
+Room_HydroponicFarm_Build	Build a GARDEN?	建造一个花园？
+Room_HydroponicFarm_Desc	ASSIGN DWELLERS HERE TO PRODUCE FOOD	将居民分配在这里生产食物
+Room_LivingQuarter	LIVING QUARTERS	宿舍
+Room_LivingQuarter_2	RESIDENCE	住宅
+Room_LivingQuarter_3	BARRACKS	营房
+Room_LivingQuarter_Build	Build a LIVING QUARTERS?	建造一个宿舍？
+Room_LivingQuarter_Desc	INCREASES THE NUMBER OF DWELLERS YOU CAN HAVE IT ALSO ALLOWS YOU TO BREED NEW DWELLERS	增加您可以拥有的居民数量\n还可以让居民繁育后代
+Room_Mausoleum	MAUSOLEUM	陵墓
+Room_Mausoleum_2	MAUSOLEUM	陵墓
+Room_Mausoleum_3	MAUSOLEUM	陵墓
+Room_Mausoleum_Build	Build a MAUSOLEUM?	建造一座陵墓？
+Room_Mausoleum_Desc	ASSIGN DWELLERS HERE TO TAKE CARE OF THE DECEASED AND EARN CAPS	将居民分配在这里照顾逝者并赚取瓶盖。
+Room_MedBay	MEDBAY	医务室
+Room_MedBay_2	CLINIC	诊所
+Room_MedBay_3	HOSPITAL	医院
+Room_MedBay_Build	Build a MEDBAY?	建立一个医务室？
+Room_MedBay_Desc	ASSIGN DWELLERS HERE TO PRODUCE STIMPAKS	将居民分配在这里生产治疗针。
+Room_NukaColaPlant	NUKA-COLA BOTTLER	核子可乐装瓶室
+Room_NukaColaPlant_2	NUKA-COLA STATION	核子可乐生产站
+Room_NukaColaPlant_3	NUKA-COLA PLANT	核子可乐工厂
+Room_NukaColaPlant_Build	Build a NUKA-COLA BOTTLER?	建造一个核子可乐装瓶室？
+Room_NukaColaPlant_Desc	ASSIGN DWELLERS HERE TO PRODUCE NUKA-COLA!	将居民分配在这里生产核子可乐！
+Room_OutfitFactory	OUTFIT WORKSHOP	装备工坊
+Room_OutfitFactory_2	OUTFIT FACTORY	装备车间
+Room_OutfitFactory_3	OUTFIT PLANT	装备工厂
+Room_OutfitFactory_Build	Build an OUTFIT WORKSHOP?	建造一个装备工坊？
+Room_OutfitFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT OUTFITS	将居民分配在这里打造装备
+Room_OutfitFactory_Upgrade_Level2	Craft Rare Outfits	打造稀有装备
+Room_OutfitFactory_Upgrade_Level3	Craft Legendary Outfits	打造传奇装备
+Room_Overseer	OVERSEER'S OFFICE	监督者办公室
+Room_Overseer_2	OVERSEER'S CONTROL STATION	监督者控制站
+Room_Overseer_3	OVERSEER'S COMMAND CENTER	监督者指挥中心
+Room_Overseer_Build	Build an OVERSEER'S OFFICE?	建造一个监督者办公室？
+Room_Overseer_Desc	SEND DWELLERS ON QUESTS FROM HERE	从这里派遣居民去完成任务
+Room_Overseer_Upgrade_Level2	Send Dwellers out on 2 Quests at a time	将居民送去一次执行两个任务
+Room_Overseer_Upgrade_Level3	Send Dwellers out on 3 Quests at a time	将居民送去一次执行三个任务
+Room_Radio	RADIO STUDIO	广播室
+Room_Radio_2	RADIO STATION	广播站
+Room_Radio_3	BROADCAST CENTER	广播中心
+Room_Radio_Build	Build a RADIO STUDIO?	建造一个广播室？
+Room_Radio_Desc	ATTRACTS NEW DWELLERS FROM THE WASTELAND	吸引来自废土的新居民
+Room_ScienceLab	SCIENCE LAB	科学实验室
+Room_ScienceLab_2	SCIENCE STATION	科学站
+Room_ScienceLab_3	SCIENCE CENTER	科学中心
+Room_ScienceLab_Build	Build a SCIENCE LAB?	建一个科学实验室？
+Room_ScienceLab_Desc	ASSIGN DWELLERS HERE TO PRODUCE RADAWAY	将居民分配在这里生产消辐宁
+Room_StorageArea	STORAGE ROOM	储藏室
+Room_StorageArea_2	DEPOT	库房
+Room_StorageArea_3	WAREHOUSE	仓库
+Room_StorageArea_Build	Build a STORAGE ROOM?	建造一间储藏室？
+Room_StorageArea_Desc	INCREASES THE NUMBER OF ITEMS AND PETS YOU CAN HOLD	增加您可持有的物品和宠物数量。
+Room_SuperRoom2	FITNESS ROOM	健身房
+Room_SuperRoom2_2	FITNESS STUDIO	健身工作室
+Room_SuperRoom2_3	FITNESS CENTER	健身中心
+Room_SuperRoom2_Build	Build a FITNESS ROOM?	建造一间健身房？
+Room_SuperRoom2_Desc	ASSIGN DWELLERS HERE TO TRAIN THEIR ENDURANCE	将居民分配在这里训练耐力
+Room_UltraciteMining	ULTRACITE MINE	辐射极琉矿矿场
+Room_UltraciteMining_2	ULTRACITE MINING RIG	辐射极琉矿采矿机
+Room_UltraciteMining_3	ULTRACITE EXTRACTION SITE	辐射极琉矿开采站
+Room_UltraciteMining_Build	Build an ULTRACITE MINE?	建造辐射极琉矿矿场？
+Room_UltraciteMining_Desc	ASSIGN DWELLERS HERE TO MINE ULTRACITE ORE. THE ORE CAN BE USED TO CRAFT WEAPONS AT THE ULTRACITE WEAPON WORKSHOP	在此分配居民开采辐射极琉矿矿石。矿石可在辐射极琉矿武器工坊中用于制造武器
+Room_UltraciteWeaponFactory	ULTRACITE WEAPON WORKSHOP	辐射极琉矿武器工坊
+Room_UltraciteWeaponFactory_2	ULTRACITE WEAPON FACTORY	辐射极琉矿武器车间
+Room_UltraciteWeaponFactory_3	ULTRACITE WEAPON PLANT	辐射极琉矿武器工厂
+Room_UltraciteWeaponFactory_Build	Build an ULTRACITE WEAPON WORKSHOP?	建造辐射极琉矿武器工坊？
+Room_UltraciteWeaponFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT ULTRACITE WEAPONS	在此分配居民制造辐射极琉矿武器
+Room_UltraciteWeaponFactory_Upgrade_Level2	Craft Rare Ultracite Weapons	制造稀有辐射极琉矿武器
+Room_UltraciteWeaponFactory_Upgrade_Level3	Craft Legendary Ultracite Weapons	制造传奇辐射极琉矿武器
+Room_Upgrade_Not_Enough_Dwellers	{0} DWELLERS REQUIRED	需要{0}个居民
+Room_Upgrade_Not_Enough_Dwellers_LegendaryOutfits	Upgrade the room to Level 3 to craft Legendary Outfits.	将房间升到3级可以打造传奇装备。
+Room_Upgrade_Not_Enough_Dwellers_LegendaryWeapons	Upgrade the room to Level 3 to craft Legendary Weapons.	将房间升到3级可以打造传奇武器。
+Room_Upgrade_Not_Enough_Dwellers_RareOutfits	Upgrade the room to Level 2 to craft Rare Outfits.	将房间升到2级可以打造稀有装备。
+Room_Upgrade_Not_Enough_Dwellers_RareWeapons	Upgrade the room to Level 2 to craft Rare Weapons.	将房间升到2级可以打造稀有武器。
+Room_VaultEntrance	VAULT DOOR	避难所大门
+Room_VaultEntrance_2	ADVANCED VAULT DOOR	高级避难所大门
+Room_VaultEntrance_3	FORTIFIED VAULT DOOR	强化避难所大门
+Room_Water2	WATER PURIFICATION	净水点
+Room_Water2_2	PURIFICATION STATION	净水站
+Room_Water2_3	PURIFICATION PLANT	净水厂
+Room_Water2_Build	Build a WATER PURIFICATION?	建造一个净水点？
+Room_Water2_Desc	ASSIGN DWELLERS HERE TO PRODUCE WATER	将居民分配在这里生产水
+Room_WaterProcessingPlant	WATER TREATMENT	水处理室
+Room_WaterProcessingPlant_2	WATER TREATMENT STATION	水处理站
+Room_WaterProcessingPlant_3	WATER TREATMENT PLANT	水处理厂
+Room_WaterProcessingPlant_Build	Build a WATER TREATMENT?	建造一个水处理室？
+Room_WaterProcessingPlant_Desc	ASSIGN DWELLERS HERE TO PRODUCE WATER	将居民分配在这里生产水
+Room_WeaponFactory	WEAPON WORKSHOP	武器工坊
+Room_WeaponFactory_2	WEAPON FACTORY	武器车间
+Room_WeaponFactory_3	WEAPON PLANT	武器工厂
+Room_WeaponFactory_Build	Build a WEAPON WORKSHOP?	建造武器工坊？
+Room_WeaponFactory_Desc	ASSIGN DWELLERS HERE TO CRAFT WEAPONS	将居民分配在这里打造武器。
+Room_WeaponFactory_Upgrade_Level2	Craft Rare Weapons	打造稀有武器
+Room_WeaponFactory_Upgrade_Level3	Craft Legendary Weapons	打造传奇武器
+RushMode_Button_Failed	PROCEED	进行
+RushMode_Button_Success	CLAIM REWARDS	奖励领取
+SaveCloud	Cloud Save	云保存
+SaveFile_Title	SAVE FILE CONFLICT	保存文件冲突
+SaveFile_UseCloudSave	USE CLOUD SAVE	使用云存档
+SaveFile_UseLocalSave	USE LOCAL SAVE	使用本地存档
+SaveLocal	Local Save	本地存档
+Scrapping_Result_Common	JUNK RECOVERED	获得杂物
+Scrapping_Result_Failed	NO JUNK RECOVERED	无法获得杂物
+Scrapping_Result_Legendary	LEGENDARY JUNK RECOVERED!	获得传奇级别的杂物！
+Scrapping_Result_Rare	RARE JUNK RECOVERED!	获得稀有级别的杂物！
+Screenshot_Facebook_Message	Check out my Vault!	查看一下我的避难所！
+Screenshot_Standard_Message	Check out my Vault!	查看一下我的避难所！
+Screenshot_Twitter_Message	#FalloutShelter Check out my Vault!	#辐射避难所查看一下我的避难所！
+Season1_Description	Vault-Tec has assigned you to the Ultracite Fever experiment! The Ultracite deposits under your Vault will attract an army of vicious Scorched. Mine Ultracite to craft powerful Ultracite Weapons, and extend some classic Vault-Tec hospitality. Don't worry, any dwellers who perish in these attacks will be revived free of charge! Good luck, Overseer, and don't forget to smile!	避难所科技将您分配到辐射极琉矿狂热实验中！您避难所下方的辐射极琉矿矿床将吸引一支凶残的辐尸人大军。开采辐射极琉矿以打造强大的辐射极琉矿武器，同时展示一下避难所科技的传统好客之道。别担心，在这些袭击中牺牲的居民将免费复活！祝您好运，监督者，别忘了保持微笑！
+Season1_IntroPopup_Body	Test your skills as Overseer in this season's new Experimental Vault! Experimental Vaults introduce fresh twists and unique rewards. Seasons only last a short time - don't miss out!	在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！
+Season1_IntroPopup_Title	THE SEASON OF ULTRACITE FEVER IS HERE	辐射极琉矿狂热赛季来袭！
+Season1_SeasonEndPopup_Title	THE SEASON OF 'ULTRACITE FEVER' HAS ENDED	“辐射极琉矿狂热”赛季已结束
+Season1_Title	SHELTER SEASON: ULTRACITE FEVER	避难所赛季：辐射极琉矿狂热
+Season1_Title_Short	ULTRACITE FEVER	辐射极琉矿狂热
+SeasonModal_BattlePass_GetNow_Btn	GET NOW	立即获取
+SeasonModal_BattlePass_LockedReward_Premium	Unlock with Season Pass	解锁赛季通行证以获取
+SeasonModal_BattlePass_LockedReward_Rank	Unlocked at Rank {0}	等级{0}后解锁
+SeasonModal_BattlePass_RankUp_Btn	RANK UP	升级
+SeasonModal_BattlePass_RewardPopup_Header	REWARD	奖励
+SeasonModal_BattlePass_Unlocked	SEASON PASS UPGRADED	赛季通行证已升级
+SeasonModal_ClaimNow_Btn	CLAIM NOW	立即领取
+SeasonModal_Claim_Btn	CLAIM	领取
+SeasonModal_Claimed	CLAIMED	已领取
+SeasonModal_LeaderboardColumnHeader_Name	NAME	名称
+SeasonModal_LeaderboardColumnHeader_Rank	RANK	排名
+SeasonModal_LeaderboardColumnHeader_VaultScore	VAULT SCORE	避难所评分
+SeasonModal_Leaderboard_AddFriendsReminder	Add your friends and compete to climb the Season Leaderboard	添加好友，在赛季排行榜上比拼名次！
+SeasonModal_Leaderboard_AuthenticationFailed	Please connect your account to display the Leaderboard	请连接账号以查看排行榜
+SeasonModal_Leaderboard_AuthenticationTimeout	Couldn't connect to the gaming platform.\nPlease restart the game and try again.	无法连接至游戏平台。\n请重启游戏后重试。
+SeasonModal_Leaderboard_Banner	SEASON LEADERBOARD	赛季排行榜
+SeasonModal_Leaderboard_ChildBlocked	Leaderboard data has been disabled due to age restrictions on your account.	由于您账户的年龄限制，排行榜数据已被禁用。
+SeasonModal_Leaderboard_Connecting	Connecting to the gaming platform...	正在连接至游戏平台……
+SeasonModal_Leaderboard_ConnectionError	Unable to load Leaderboard data due to connection or authentication error	由于连接或认证错误，无法加载排行榜数据
+SeasonModal_Leaderboard_Disabled	Friends list and leaderboard are disabled due to your device account settings.	由于您的设备账户设置，好友列表和排行榜已被禁用。
+SeasonModal_Leaderboard_InvalidAndroidPrivacySetting	Leaderboards are unavailable because of your Google Play privacy settings.	由于您的 Google Play 隐私设置，无法获取排行榜。
+SeasonModal_Leaderboard_Loading	The leaderboard is still loading. Please try again in a moment.	排行榜仍在加载中，请稍后再试。
+SeasonModal_Leaderboard_RewardsLabel	REWARDS	奖励
+SeasonModal_Leaderboard_ScoreInfoPopup_AcquireDwellers	Acquire Dwellers	获得居民
+SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_Enclave	• Build Rooms\n• Upgrade Rooms\n• Acquire Dwellers\n• Complete Quests\n• Perform Critical Hits	• 建造房间\n• 升级房间\n• 获得居民\n• 完成任务\n• 释放暴击
+SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_Institute	• Build Rooms\n• Upgrade Rooms\n• Acquire Dwellers\n• Complete Quests\n• Perform Critical Hits	• 建造房间\n• 升级房间\n• 获得居民\n• 完成任务\n• 释放暴击
+SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_NewVegasA	• Build Rooms\n• Upgrade Rooms\n• Acquire Dwellers\n• Complete Quests\n• Perform Critical Hits	• 建造房间\n• 升级房间\n• 获得居民\n• 完成任务\n• 释放暴击
+SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_NewVegasB	• Build Rooms\n• Upgrade Rooms\n• Acquire Dwellers\n• Complete Quests\n• Perform Critical Hits	• 建造房间\n• 升级房间\n• 获得居民\n• 完成任务\n• 释放暴击
+SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_Ultracite	• Build Rooms\n• Upgrade Rooms\n• Acquire Dwellers\n• Survive Scorched Attacks\n• Mine Ultracite\n• Craft Ultracite Weapons	• 建造房间\n• 升级房间\n• 获得居民\n• 在辐尸人袭击中生还\n• 开采辐射极琉矿\n• 打造辐射极琉矿武器
+SeasonModal_Leaderboard_ScoreInfoPopup_BuildRooms	Build Rooms	建造房间
+SeasonModal_Leaderboard_ScoreInfoPopup_CompleteQuests	Complete Quests	完成任务
+SeasonModal_Leaderboard_ScoreInfoPopup_CraftUltraciteWeapons	Craft Ultracite Weapons	打造辐射极琉矿武器
+SeasonModal_Leaderboard_ScoreInfoPopup_Heading	To increase your score perform the following actions in an Experimental Vault:	在实验避难所中执行以下操作以提升评分：
+SeasonModal_Leaderboard_ScoreInfoPopup_MineUltracite	Mine Ultracite	开采辐射极琉矿
+SeasonModal_Leaderboard_ScoreInfoPopup_PerformCriticalHits	Perform Critical Hits	释放暴击
+SeasonModal_Leaderboard_ScoreInfoPopup_SurviveScorchedAttacks	Survive Scorched Attacks	在辐尸人袭击中生还
+SeasonModal_Leaderboard_ScoreInfoPopup_UpgradeRooms	Upgrade Rooms	升级房间
+SeasonModal_Leaderboard_VaultScoreFull	VAULT SCORE: {0}	避难所评分：{0}
+SeasonModal_Leaderboard_You	You	你
+SeasonPass_BattlePassUnlocked_Btn	SEASON PASS UNLOCKED	赛季通行证已解锁
+SeasonPass_BonusRewards	PLEASE ENJOY BONUS REWARDS	请享受额外奖励
+SeasonPass_ChallengeUnlocksIn	Challenge unlocks in {0}	挑战将于{0}后解锁
+SeasonPass_ClaimAll_Btn	CLAIM ALL	全部领取
+SeasonPass_CongratsComplete	YOU HAVE COMPLETED THE SEASON PASS	您已完成赛季通行证
+SeasonPass_DaysRemaining	1 DAY REMAINING	剩余1天
+SeasonPass_DaysRemaining_Plural	{0} DAYS REMAINING	剩余{0}天
+SeasonPass_Description_CompleteChallenges	COMPLETE CHALLENGES TO EARN BADGES AND UNLOCK REWARDS!	完成挑战以获取徽章并解锁奖励！
+SeasonPass_EndingSoon	The Season Pass will be ending soon! Complete challenges or use Nuka-Cola Quantum to unlock rewards.\n\nReach Rank 20 on the premium track for an exclusive Weapon Workshop Room Theme, available this season only.	赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n\n在高级赛道达到20级即可获得独家武器工坊房间主题，仅限本赛季。
+SeasonPass_EndingSoon_Enclave	The Season Pass will be ending soon! Complete challenges or use Nuka-Cola Quantum to unlock rewards.	赛季通行证即将结束！完成挑战或使用量子核子可乐来解锁奖励。
+SeasonPass_EndingSoon_Institute	The Season Pass will be ending soon! Complete challenges or use Nuka-Cola Quantum to unlock rewards.	赛季通行证即将结束！完成挑战或使用量子核子可乐来解锁奖励。
+SeasonPass_EndingSoon_NewVegasA	The Season Pass will be ending soon! Complete challenges or use Nuka-Cola Quantum to unlock rewards.\nReach Rank 20 on the premium track for an exclusive Sunset Sarsaparilla Bottler Theme, available this season only.	赛季通行证即将到期！完成挑战或使用量子核子可乐来解锁奖励。\n在高级赛道达到20级即可获得独家日落沙士装瓶厂主题，仅限本赛季。

@@ -1,0 +1,110 @@
+{
+ "batch": 20,
+ "items": [
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2A_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "Righteous 是垮掉派俚语的赞叹（好极了／够正），ZH「有品味」变成评价玩家的品味，用词不准确。",
+   "final_fix": "太好了。这是我个人最喜欢的一件。下次见啦，伙计们！"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2A_NPCStart_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "choose or lose 是「挑一样，不挑就没有」，ZH「要么留要么丢」自创「留」且把 lose 误作「丢」。",
+   "final_fix": "我们可以回赠你们一些东西，但你们得自己挑一样，不挑可就没有了。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2A_Team_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "pick-me-ups 只是「提神之物」，ZH「酒」凭空造出原文没有的物品；同任务另三版此选项为 Medicine／Stimpaks。",
+   "final_fix": "我们不介意来点提神的东西。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2B_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "You got it 是应允「没问题／这就给你」，ZH「你说的没错」错成赞同玩家的话；ES De acuerdo 可证。",
+   "final_fix": "没问题。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2C_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "something that could work 硬搬成「有一些东西有用」，缺「的」不成句，「应该」亦无对应词。",
+   "final_fix": "我想我这儿应该有点能派上用场的东西。"
+  },
+  {
+   "key": "QuestLoc_FriendlySettlement_Conversation_2D_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "this settlement stuff 指「经营定居点这摊事」，ZH「这个定居点干着」让地点作「干着」主语，主语错位。",
+   "final_fix": "不过经营定居点这摊子事也不赖。再说了，我们做买卖还挺在行。谁能想到呢？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "You've won 的宾语是节目名 Lose Your Head，ZH「该“掉脑袋”了」变成对玩家的处刑，与答错台词混淆。",
+   "final_fix": "真厉害！你答对了！你赢下了……“掉脑袋”！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_2_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "sheriff 是警长而非镇长（mayor）；ES sheriff、DE Sheriff 可证，本库他处一律作「警长」。",
+   "final_fix": "谁是兆吨镇的警长？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_2_Team_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Billy the Kid 是固定译名「比利小子」（ES Billy el Niño、RU Малыш Билли），ZH 生译成描述句。",
+   "final_fix": "比利小子。"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_3",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "同 A 版：Lose Your Head 是「赢得」的宾语（节目名），ZH「该……了」误成处刑令，通关与淘汰混同。",
+   "final_fix": "真厉害！你答对了！你赢下了……“掉脑袋”！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_3_NPCEnd_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "she didn't 是过去时的「她没有（派你去）」，ZH「但她不会」变成意愿否定，时态与所指皆偏。",
+   "final_fix": "换我我肯定去那儿买，可她没让你去。只好请你……“掉脑袋”了！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletC_Conversation_4_NPCStart_2",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Which of these 硬译成「下面中的哪个」，中文无此搭配（本库他处用「下面哪个地点」），机翻病句。",
+   "final_fix": "以下哪个地方，莫伊拉没有派“孤独流浪者”去过？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_1_NPCEnd_4",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "Lose Your Head 是节目名兼淘汰口号（全库作「掉脑袋」），ZH「那就拿下它吧」令「它」无先行词。",
+   "final_fix": "我看你是不想留着脑袋了。那就……“掉脑袋”吧！"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_1_NPCStart_4",
+   "verdict": "confirm",
+   "severity": "S3",
+   "reason": "with the Minutemen 是「义勇军里的」，ZH「和义勇军组织在一起」生硬，且漏译 old（DE das alte Medium）。",
+   "final_fix": "义勇军里那个上了年纪的灵媒是谁？"
+  },
+  {
+   "key": "QuestLoc_GameShowGauntletE_Conversation_3_NPCEnd_1",
+   "verdict": "confirm",
+   "severity": "S2",
+   "reason": "heads will roll 是习语「人头落地」，ZH 自造「脑袋会自动滚开」并把同时改成「之后」，句末无主句。",
+   "final_fix": "哦！是汤姆，不是泰德。等你……“掉脑袋”的时候，脑袋就该滚下来了！"
+  }
+ ]
+}
