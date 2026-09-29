@@ -1,0 +1,1023 @@
+{
+ "multi": {
+  "That's it, humans. Pump it up!": [
+   "加油，人类！",
+   "这就对了，人类，练起来！"
+  ],
+  "Amazing! You got it right! You've won... Lose Your Head!": [
+   "真不错！你说对了！你赢了……该“掉脑袋”了！",
+   "真厉害！你答对了！你赢下了……“掉脑袋”！"
+  ],
+  "Good. Now go and cause mayhem!": [
+   "很好。现在去大闹一场吧！",
+   "很好。现在去致伤致残吧！"
+  ],
+  "Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!": [
+   "我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！",
+   "让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！"
+  ],
+  "You hear about the light that went bad? They put it in prism. Get it? Prism?": [
+   "听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？",
+   "听说有个灯泡学坏了？他们把它关进了棱镜监狱。懂吗？棱镜？"
+  ],
+  "Discover the origin of the Horsemen.": [
+   "探索骑士的起源。",
+   "查明末日骑士的起源。"
+  ],
+  "Scavenging the Wasteland like some sort of peasant. I'm better than this.": [
+   "像个乡巴佬一样在废土上捡破烂？我可不该沦落到这个地步。",
+   "像个乡巴佬一样在废土上捡破烂？我可比这强多了。"
+  ],
+  "Agh! A Deathclaw! Retreat! I'm a lover not a fighter!": [
+   "啊！死爪！快跑！我只会谈情说爱，不会打打杀杀！",
+   "啊！死爪！快跑！我只擅长爱人，不擅长打架！"
+  ],
+  "Before the blasted war, I probably would have had a nice suburban family to take care of...": [
+   "在那场该死的战争之前，我可能会照顾一个生活小康的郊区家庭……",
+   "在那场该死的战争之前，我本来大概会有一个生活小康的郊区家庭要照顾……"
+  ],
+  "My kingdom for an oil bath...": [
+   "愿用我的整个王国换一场机油浴……",
+   "我渴望一场机油浴……"
+  ],
+  "And to think, humans worried that robots would turn against them. They turned against themselves just fine...": [
+   "想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……",
+   "想想看，人类还担心机器人会反叛他们呢。他们自己反目成仇，倒是干得挺漂亮的……"
+  ],
+  "To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.": [
+   "要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。",
+   "要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。"
+  ],
+  "Quests allow you to explore new locations, meet new Dwellers and collect loot.\n\nBuild the Overseer's Office room to send teams of Dwellers from your Vault on Quests.\n\nTo access the Quest List, press [DU] in the Overseer's Office or select the map icon from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. \n\nOn Quests, explore the location by selecting the room you want Dwellers to travel to.\n\nDwellers in combat fight automatically, but you can command a selected Dweller attack a specific enemy by holding [A] to make a target appear and then selecting an enemy.\n\nAs your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking.\n\nWith a Dweller selected, use the Left Stick to select the checkmark, then hold [A] to unleash a deadly Critical Hit attack.\n\nPress [A] to stop the moving arrows that appear; the closer the arrows are to the center of the reticle, the higher the damage multiplier for your Critical Hit attack. \n\nThe Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.\n\nYou can see the mandatory and optional Quest objectives by pressing [Y].\n\nWhen you're done exploring, return the Quest team to the Vault from the Quest objectives.": [
+   "任务允许您探索新的地点，遇见新的居民和收集战利品。\n\n建造监督者办公室，从您的避难所里派出一队居民去完成任务。\n\n要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。\n\n在任务中，通过选择您希望居民前往的房间来探索地点。\n\n居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。\n\n当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。\n\n当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。\n\n按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。\n\n居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。\n\n按可以查看必须完成和可选完成的任务目标。\n\n当您完成探索后，可通过任务目标界面将任务小队召回避难所。",
+   "任务能让您探索新的地点，遇见新的居民和收集战利品。\n\n建造监督者办公室来派遣居民小队去完成任务。\n\n按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\n\n在任务中，选择您希望居民前往的房间即可探索地点。\n\n居民会自动战斗，但您可以命令选定的居民攻击一个特定目标：按住使目标出现，然后选择敌人。\n\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。\n\n当选中一个居民时，用左摇杆选择勾形图标，按住来释放一次致命暴击。\n\n当箭头出现在十字线的中心时，按下来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。\n\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\n\n按下来查看必须和选择性完成的任务目标。\n\n当您结束探险时，可以从任务目标里让任务小队返回避难所。"
+  ],
+  "I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.": [
+   "不得不承认，对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。",
+   "对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。"
+  ],
+  "Cool.": [
+   "行。",
+   "赞。"
+  ],
+  "To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.": [
+   "要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。",
+   "要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。"
+  ]
+ },
+ "same": {
+  "掠夺者": [
+   "Raider",
+   "Raiders"
+  ],
+  "给你。": [
+   "Here you are.",
+   "Here you go."
+  ],
+  "当您需要新居民时，您可以鼓励您的居民多生育。\n\n- 将一个男人和女人放在宿舍里，看看他们是不是喜欢对方。\n\n- 如果一切顺利的话，女方将会怀孕。\n\n- 过一段时间，怀孕的居民就可以分娩了。\n\n- 点击她头上的图标，会有新的小孩出生。\n\n- 一旦孩子长大，您将拥有一个新的居民。": [
+   "When you need new Dwellers you can always encourage your Dwellers to procreate.\n\n- Put a man and a woman in the Living Quarters and see if they like each other.\n\n- If all goes well, the woman will become pregnant.\n\n- After some time, the pregnant Dweller will be ready to give birth.\n\n- Click on the icon above her head to welcome a new child in your Vault.\n\n- Once the child has grown up, you will have a new Dweller.",
+   "When you need new Dwellers you can always encourage your Dwellers to procreate.\n\n- Put a man and a woman in the Living Quarters and see if they like each other.\n\n- If all goes well, the woman will become pregnant.\n\n- After some time, the pregnant Dweller will be ready to give birth.\n\n- Tap the icon above her head to welcome a new child in your Vault.\n\n- Once the child has grown up, you will have a new Dweller."
+  ],
+  "控制": [
+   "CONTROLS",
+   "Controls"
+  ],
+  "你们觉得怎么样？": [
+   "What do you say?",
+   "What do you think of that, huh?"
+  ],
+  "让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。": [
+   "Let's look at the {STATS} of a {DWELLER}. {CLICK} on a {DWELLER} to {SEE THEIR INFO}.",
+   "Let's look at the {STATS} of a {DWELLER}. {TAP} on a {DWELLER} to {SEE THEIR INFO}."
+  ],
+  "正在离开避难所": [
+   "Exiting Vault",
+   "Leaving Vault"
+  ],
+  "不速之客": [
+   "Party Crasher",
+   "Uninvited Guests"
+  ],
+  "是": [
+   "YES",
+   "Yes"
+  ],
+  "完成目标，赚取瓶盖。目标能够通过点击哔哔小子菜单里的缎带图标找到。": [
+   "Complete objectives to earn CAPS. Objectives can be found by clicking the ribbon icon in the Pip-Boy menu.",
+   "Complete objectives to earn CAPS. Objectives can be found by selecting the ribbon icon in the Pip-Boy menu.",
+   "Complete objectives to earn CAPS. Objectives can be found by tapping the ribbon icon in the Pip-Boy menu."
+  ],
+  "死爪": [
+   "Deathclaw",
+   "Deathclaws"
+  ],
+  "商店": [
+   "SHOP",
+   "Shop"
+  ],
+  "小时": [
+   "HOURS",
+   "HRS"
+  ],
+  "寻找罗基·杰宾森的棒球衫。": [
+   "Find Rackie Jobinson's Baseball Jersey.",
+   "Search for Rackie Jobinson's Baseball Jersey."
+  ],
+  "消灭领头死爪。": [
+   "Kill the Alpha Deathclaw",
+   "Kill the Alpha Deathclaw."
+  ],
+  "在没有人员伤亡的情况下撑过了{0}次辐射蝎攻击": [
+   "Survive {0} Radscorpion attack with no casualties",
+   "Survive {0} Radscorpion attacks with no casualties"
+  ],
+  "热键": [
+   "HOTKEY",
+   "HOTKEYS"
+  ],
+  "骄傲的父母": [
+   "By the proud parents",
+   "The proud parents"
+  ],
+  "点击这里": [
+   "Click Here",
+   "Tap Here"
+  ],
+  "截屏": [
+   "SCREENSHOTS",
+   "Screenshot"
+  ],
+  "现在{点击}{资源图标}来{收集}资源和{重新启动房间生产}。": [
+   "Now {CLICK} on the {RESOURCE ICON} to {COLLECT} the resources and {RESTART ROOM PRODUCTION}.",
+   "Now {TAP} on the {RESOURCE ICON} to {COLLECT} the resources and {RESTART ROOM PRODUCTION}."
+  ],
+  "您可以派遣您的居民去废土探险。将一个居民拖拽到避难所外，给他们物资，让他们开始冒险吧！": [
+   "You can send Dwellers to explore the Wasteland. Assign a Dweller outside of the Vault and give them supplies to start their adventure.",
+   "You can send Dwellers to explore the Wasteland. Drag a Dweller outside of the Vault and give them supplies to start their adventure."
+  ],
+  "幸福度": [
+   "HAPPINESS",
+   "Happiness"
+  ],
+  "您的一位居民在废土上探索一段时间了，您应该看看他们怎么样了。": [
+   "One of your Dwellers has been out in the Wasteland for a while, you should check on them.",
+   "One of your Dwellers has been out on the Wasteland for a while, you should check on them."
+  ],
+  "武器": [
+   "WEAPON",
+   "WEAPONS"
+  ],
+  "极速模式": [
+   "RUSH",
+   "RUSH MODE"
+  ],
+  "点击屏幕顶部的资源条可以了解更多资源储存的细节。": [
+   "Click on the resource bars at the top of the screen for more details on your resource storage.",
+   "Tap on the resource bars at the top of the screen for more details on your resource storage."
+  ],
+  "资源": [
+   "RESOURCE",
+   "RESOURCES"
+  ],
+  "下一次评级": [
+   "NEXT EVALUATION",
+   "NEXT RATING"
+  ],
+  "生产": [
+   "PRODUCTION",
+   "Production"
+  ],
+  "{点击}{领取按钮}来招募您的新居民。": [
+   "{CLICK} on the {CLAIM BUTTON} to recruit your new Dweller.",
+   "{TAP} on the {CLAIM BUTTON} to recruit your new Dweller."
+  ],
+  "追踪瓶瓶和盖盖的绑匪。": [
+   "Pursue Bottle & Cappy's kidnappers.",
+   "Track down Bottle & Cappy's kidnappers."
+  ],
+  "主题": [
+   "THEME",
+   "Themes"
+  ],
+  "在没有人员伤亡的情况下撑过了{0}次鼹鼠的攻击": [
+   "Survive {0} Mole rat attack with no casualties",
+   "Survive {0} Mole rat attacks with no casualties"
+  ],
+  "机器人。": [
+   "Robot.",
+   "Robots."
+  ],
+  "鼹鼠": [
+   "Mole rat",
+   "Mole rats"
+  ],
+  "拖拽居民到新的房间来探索，或者点击您希望他们前往的地点。": [
+   "Explore by dragging Dwellers to new rooms, or clicking the location you want them to travel to.",
+   "Explore by dragging Dwellers to new rooms, or tapping the location you want them to travel to."
+  ],
+  "在本赛季新实验避难所中考验您作为监督者的实力！实验避难所引入全新玩法和独家奖励。赛季时间有限——千万别错过！": [
+   "Test your skill as Overseer in this season's new Experimental Vault! Experimental Vaults introduce a new twist and unique rewards. Seasons only last a short time - don't miss out!",
+   "Test your skills as Overseer in this season's new Experimental Vault! Experimental Vaults introduce fresh twists and unique rewards. Seasons only last a short time - don't miss out!"
+  ],
+  "在肯德尔医院找到普雷斯顿·加维。": [
+   "Find Preston Garvey in Kendall Hospital.",
+   "Find Preston Garvey in the Kendall Hospital."
+  ],
+  "学院": [
+   "ACADEMY",
+   "Institute"
+  ],
+  "目标": [
+   "OBJECTIVES",
+   "Objectives"
+  ],
+  "驱逐居民": [
+   "Dwellers Evicted",
+   "EVICTING DWELLERS"
+  ],
+  "拖到这里": [
+   "DRAG HERE",
+   "Drag Here"
+  ],
+  "那好。准备受死吧！": [
+   "Fine, then. HAVE AT THEE!",
+   "Well then. Have at thee!"
+  ],
+  "重命名": [
+   "RENAME",
+   "Rename"
+  ],
+  "曼岛无尾猫": [
+   "Manx",
+   "Manxes"
+  ],
+  "澳大利亚牧羊犬": [
+   "Australian Shepherd",
+   "Australian Shepherds"
+  ],
+  "打败掠夺者首领。": [
+   "Defeat the Raider Boss.",
+   "Defeat the Raider Bosses."
+  ],
+  "您的新居民到了！{点击}他们的头像来招募。": [
+   "Your new Dweller is here! {CLICK} on their icon to recruit them.",
+   "Your new Dweller is here! {TAP} on their icon to recruit them."
+  ],
+  "完成10个任务": [
+   "Complete 10 Quests",
+   "Completed 10 Quests"
+  ],
+  "开始任务": [
+   "BEGIN QUEST",
+   "START QUEST"
+  ],
+  "释放{0}次暴击": [
+   "Perform {0} critical hit",
+   "Perform {0} critical hits"
+  ],
+  "量子核子可乐": [
+   "NUKA-COLA QUANTUM",
+   "Nuka-Cola Quantum"
+  ],
+  "午餐盒": [
+   "LUNCHBOX",
+   "LUNCHBOXES",
+   "Lunchbox",
+   "Lunchboxes"
+  ],
+  "发现{0}": [
+   "Discovered {0}",
+   "Found {0}"
+  ],
+  "在没有人员伤亡的情况下撑过了{0}次死爪攻击": [
+   "Survive {0} Deathclaw attack with no casualties",
+   "Survive {0} Deathclaw attacks with no casualties"
+  ],
+  "在任务中赢得了{0}场战斗": [
+   "Win {0} battle on Quests",
+   "Win {0} battles on Quests"
+  ],
+  "您可以通过点击居民栏上的名字来整理居民列表。": [
+   "You can sort the Dweller list by clicking on the column names.",
+   "You can sort the Dweller list by tapping on the column names."
+  ],
+  "辐射蝎": [
+   "Radscorpion",
+   "Radscorpions"
+  ],
+  "欧西猫": [
+   "Ocicat",
+   "Ocicats"
+  ],
+  "赠送礼物": [
+   "SEND GIFT",
+   "Send Gift"
+  ],
+  "完成{0}次监督者办公室的任务": [
+   "Complete {0} Quest from the Overseer's Office",
+   "Complete {0} Quests from the Overseer's Office"
+  ],
+  "收集": [
+   "COLLECT",
+   "Collect"
+  ],
+  "{建造区域}就是可以建造{房间}的位置。{点击}{建造区域}来确认位置。": [
+   "{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {CLICKING} the {BUILD ZONE}.",
+   "{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {TAPPING} the {BUILD ZONE}."
+  ],
+  "你听到了吗？": [
+   "Did you hear that?",
+   "You hear that?"
+  ],
+  "现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。": [
+   "Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE CLICK} on a {ROOM} to take a closer look.",
+   "Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE TAP} on a {ROOM} to take a closer look."
+  ],
+  "废土": [
+   "THE WASTELAND",
+   "WASTELAND",
+   "Wasteland"
+  ],
+  "{点击}{建造区域}来确认地点。": [
+   "Confirm the location by {CLICKING} the {BUILD ZONE}.",
+   "Confirm the location by {TAPPING} the {BUILD ZONE}."
+  ],
+  "库存": [
+   "INVENTORY",
+   "Inventory"
+  ],
+  "在任务中收集{0}个瓶盖": [
+   "Collect {0} CAP on Quests",
+   "Collect {0} CAPS on Quests"
+  ],
+  "点击居民的SPECIAL属性图标来查看更多细节。": [
+   "Click a Dweller's SPECIAL chart for more details.",
+   "Tap a Dweller's SPECIAL chart for more details."
+  ],
+  "我们将建立一个{发电室}来产生{电力}。{点击}{发电室}。": [
+   "We'll build a {POWER GENERATOR} that will produce {POWER}. {CLICK} on the {POWER ROOM}.",
+   "We'll build a {POWER GENERATOR} that will produce {POWER}. {TAP} on the {POWER ROOM}."
+  ],
+  "圣伯纳犬": [
+   "St. Bernard",
+   "St. Bernards"
+  ],
+  "拯救小动物": [
+   "Animal Rescue",
+   "Captured Critter"
+  ],
+  "任务": [
+   "QUEST",
+   "QUESTS",
+   "Quest",
+   "Quest List"
+  ],
+  "罗特韦尔犬": [
+   "Rottweiler",
+   "Rottweilers"
+  ],
+  "在废土上探索{0}个位置": [
+   "Explore {0} location in the Wasteland",
+   "Explore {0} locations in the Wasteland"
+  ],
+  "生存模式": [
+   "SURVIVAL MODE",
+   "Survival Mode"
+  ],
+  "不再显示": [
+   "DO NOT SHOW AGAIN",
+   "Don't Show Again"
+  ],
+  "秋田犬": [
+   "Akita",
+   "Akitas"
+  ],
+  "通知": [
+   "NOTIFICATIONS",
+   "Notifications"
+  ],
+  "波斯猫": [
+   "Persian",
+   "Persians"
+  ],
+  "居民需要{食物}来保证他们的{生命值}。再次点击来{确认}。": [
+   "Dwellers require {FOOD} to keep their {HEALTH} up. Click again to {CONFIRM}.",
+   "Dwellers require {FOOD} to keep their {HEALTH} up. Tap again to {CONFIRM}."
+  ],
+  "英国短毛猫": [
+   "British Shorthair",
+   "British Shorthairs"
+  ],
+  "虎皮猫": [
+   "Toyger",
+   "Toygers"
+  ],
+  "瓶盖": [
+   "CAPS",
+   "Vault CAPS"
+  ],
+  "等级": [
+   "L",
+   "LEVEL",
+   "LVL",
+   "Level"
+  ],
+  "制造战争，而不是爱！": [
+   "Make War, not love!",
+   "Make war, not love!"
+  ],
+  "房间需要{电力}才能运行。再次点击来{确认}。": [
+   "Rooms require {POWER} to function. Click again to {CONFIRM}.",
+   "Rooms require {POWER} to function. Tap again to {CONFIRM}."
+  ],
+  "首先让我们{建造}一个{房间}。点击{锤子图标}打开{建造菜单}。": [
+   "First let's {BUILD} a {ROOM}. Click on the {HAMMER ICON} to open the {BUILD MENU}.",
+   "First let's {BUILD} a {ROOM}. Tap on the {HAMMER ICON} to open the {BUILD MENU}."
+  ],
+  "巧手先生": [
+   "MR. HANDY",
+   "Mr. Handy"
+  ],
+  "设置": [
+   "SETTINGS",
+   "Settings"
+  ],
+  "幸福度奖励": [
+   "HAPPINESS BONUS",
+   "Happiness Bonus"
+  ],
+  "打造": [
+   "CRAFT",
+   "CRAFTING",
+   "Crafting"
+  ],
+  "孟买猫": [
+   "Bombay",
+   "Bombays"
+  ],
+  "牧牛犬": [
+   "Cattle Dog",
+   "Cattle Dogs"
+  ],
+  "加拿大无毛猫": [
+   "Sphynx",
+   "Sphynxes"
+  ],
+  "收集{0}件稀有装备": [
+   "Collect {0} Rare Outfit",
+   "Collect {0} Rare Outfits"
+  ],
+  "状态": [
+   "STATS",
+   "STATUS",
+   "Stats"
+  ],
+  "消灭鼹鼠妈妈。": [
+   "Eliminate the Mole rat brood mother.",
+   "Kill the Mole rat brood mother."
+  ],
+  "除掉掠夺者。": [
+   "Eliminate the Raider.",
+   "Eliminate the Raiders."
+  ],
+  "建造": [
+   "BUILD",
+   "Build"
+  ],
+  "狂尸鬼": [
+   "Feral Ghoul",
+   "Feral Ghouls"
+  ],
+  "您可以点击居民打开居民信息面板，给居民配备武器和装备，或者使用消辐宁和治疗针。": [
+   "You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by clicking on a Dweller.",
+   "You can equip items and weapons and use RadAway and Stimpaks from the Dweller information panel by tapping on a Dweller."
+  ],
+  "继续": [
+   "CONTINUE",
+   "PROCEED"
+  ],
+  "确定": [
+   "CONFIRM",
+   "OK"
+  ],
+  "和编辑对峙。": [
+   "Confront The Editor.",
+   "Confront the Editor."
+  ],
+  "在不使用治疗针的情况下撑过了{0}次鼹鼠的攻击": [
+   "Survive {0} Mole rat attack without using stimpacks",
+   "Survive {0} Mole rat attacks without using stimpacks"
+  ],
+  "帮助": [
+   "HELP",
+   "Help"
+  ],
+  "用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。": [
+   "With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {CLICK} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now.",
+   "With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {TAP} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now."
+  ],
+  "缅因猫": [
+   "Maine Coon",
+   "Maine Coons"
+  ],
+  "要求": [
+   "REQUIREMENTS",
+   "REQUIRES"
+  ],
+  "升级": [
+   "RANK UP",
+   "UPGRADE",
+   "UPGRADED"
+  ],
+  "任务能让您探索新的地点，遇见新的居民和收集战利品。\n\n建造监督者办公室来派遣居民小队去完成任务。\n\n点击监督者办公室里或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。\n\n在任务中，将居民拖到新房间中来探索或者直接点击您想要探索的房间。\n\n居民会自动战斗，但是您可以先点击居民后点击敌人来让他们攻击一个特定目标。您也可以点击并按住一位居民，然后把出现的准星拖到敌人身上。\n\n居民在战斗时会出现一个暴击蓄力器；一旦准备好，您的蓄力居民正在攻击的敌人上方会出现一个勾形图标，点击会对敌人进行致命暴击。\n\n当箭头出现在十字线的中心时，请点击移动的箭头。离中心越近，暴击伤害的倍率就越高。\n\n居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。\n\n点击右上角的地图图标查看必须完成和可选完成的任务目标。\n\n当您结束探险时，点击地图图标让任务小队返回避难所。": [
+   "Quests allow you to explore new locations, meet new Dwellers and collect loot.\n\nBuild the Overseer's Office room to send teams of Dwellers from your Vault on Quests.\n\nTo access the Quest List, click the map icon from the Overseer's Office or from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. \n\nIn Quests, explore the location by dragging Dwellers to new rooms, or just clicking on the room you want them to travel to.\n\nDwellers in combat fight automatically, but you can make them attack a specific enemy by clicking on a Dweller and then on the enemy. You can also click and hold on a Dweller, then drag the target that appears to the enemy.\n\nAs your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking; clicking it will let you unleash a deadly Critical Hit attack. \n\nClick on the moving arrows that appear once they are in the center of the reticle, the closer the arrows are to the center, the higher the damage multiplier for your Critical Hit attack. \n\nThe Critical Hit meters fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.\n\nYou can see the mandatory and optional Quest objectives by clicking on the Map Icon in the top right corner.\n\nWhen you're done exploring, click on the Map Icon to return the Quest team to the Vault.",
+   "Quests allow you to explore new locations, meet new Dwellers and collect loot.\n\nBuild the Overseer's Office room to send teams of Dwellers from your Vault on Quests.\n\nTo access the Quest List, tap the map icon from the Overseer's Office or from the Pip-Boy. The Quest List shows you your available Quests, their rewards, requirements and status. \n\nIn Quests, explore the location by dragging Dwellers to new rooms, or just tapping on the room you want them to travel to.\n\nDwellers in combat fight automatically, but you can make them attack a specific enemy by tapping on a Dweller and then on the enemy. You can also tap and hold on a Dweller, then drag the target that appears to the enemy.\n\nAs your Dwellers fight they will build up a Critical hit meter; once ready, a checkmark icon will appear over the enemy that your charged Dweller is attacking; tapping it will let you unleash a deadly Critical Hit attack. \n\nTap on the moving arrows that appear once they are in the center of the reticle, the closer the arrows are to the center, the higher the damage multiplier for your Critical Hit attack. \n\nThe Critical Hit meters fills faster for higher Luck Dwellers and the Critical Hit arrows move slower the higher your Dweller Perception is.\n\nYou can see the mandatory and optional Quest objectives by tapping on the Map Icon in the top right corner.\n\nWhen you're done exploring, tap on the Map Icon to return the Quest team to the Vault."
+  ],
+  "您可以利用杂物和瓶盖，在武器、装备和主题工坊中打造物品。\n\n普通，稀有和传奇级别的杂物会在午餐盒、废土和任务中找到，分解武器和装备也能产出杂物。物品越稀有，需要的杂物就越稀有。\n\n同时还需要打造物品的相应配方。工坊开始时会自带一些配方，其他的配方可以在死亡的掠夺者身上、废土探险或任务中找到。\n\n主题配方以碎片形式出现。在任务中寻找这些碎片，或使用量子核子可乐来补全主题配方。\n\n点击工坊的打造按钮可以看到能够打造的物品列表，选择您想要的。升级后的武器和装备工坊能够打造稀有和传奇级别的物品。\n\n如果开始打造之后取消，您所用的杂物将全部返还，但花费的瓶盖只有部分返还。": [
+   "You can use Junk and pay CAPS to craft items in the Weapon, Outfit and Theme Workshops.\n\nCOMMON, RARE and LEGENDARY Junk is found in Lunchboxes, in the Wasteland and on Quests, and produced by scrapping Weapons and Outfits. Rarer items require rarer Junk.\n\nYou also need an item's Recipe to craft it. Workshops start with some Recipes, but look for others on dead Raiders, in the Wasteland and on Quests.\n\nTheme Recipes come in Fragments. Find these Fragments on Quests or use Nuka-Cola Quantum to complete your Theme Recipes.\n\nClick on a Workshop's Craft button to see the items you can make there and select the one you want. Upgraded Weapon and Outfit Workshops can craft RARE and LEGENDARY items.\n\nAll your Junk is refunded if you cancel the crafting process after it's started, but only part of the CAPS you spent.",
+   "You can use Junk and pay CAPS to craft items in the Weapon, Outfit and Theme Workshops.\n\nCOMMON, RARE and LEGENDARY Junk is found in Lunchboxes, in the Wasteland and on Quests, and produced by scrapping Weapons and Outfits. Rarer items require rarer Junk.\n\nYou also need an item's Recipe to craft it. Workshops start with some Recipes, but look for others on dead Raiders, in the Wasteland and on Quests.\n\nTheme Recipes come in Fragments. Find these Fragments on Quests or use Nuka-Cola Quantum to complete your Theme Recipes.\n\nTap on a Workshop's Craft button to see the items you can make there and select the one you want. Upgraded Weapon and Outfit Workshops can craft RARE and LEGENDARY items.\n\nAll your Junk is refunded if you cancel the crafting process after it's started, but only part of the CAPS you spent."
+  ],
+  "分配居民": [
+   "ASSIGN DWELLER",
+   "ASSIGNING DWELLERS"
+  ],
+  "拉邦猫": [
+   "LaPerm",
+   "LaPerms"
+  ],
+  "搜索大无敌超市。": [
+   "Search the Super Duper Mart.",
+   "Search the Super-Duper Mart."
+  ],
+  "同掠夺者交谈。": [
+   "Speak to the Raider.",
+   "Talk to Raiders."
+  ],
+  "外星无人机": [
+   "Alien Drone",
+   "Alien Drones"
+  ],
+  "完成任务": [
+   "COMPLETE QUEST",
+   "Complete Quests"
+  ],
+  "辐射极琉矿武器工厂": [
+   "ULTRACITE WEAPON PLANT",
+   "Ultracite Weapon Plant"
+  ],
+  "谢谢你们救了我！": [
+   "Thank you for rescuing me!",
+   "Thank you for saving me!"
+  ],
+  "装备": [
+   "OUTFIT",
+   "OUTFITS"
+  ],
+  "哦，很接近了。但还是错。该……“掉脑袋”了！": [
+   "Oh! So close, and yet so far. That means you... Lose Your Head!",
+   "Oh, so close. But so wrong. Time to... Lose Your Head!"
+  ],
+  "杜宾犬": [
+   "Doberman",
+   "Dobermans"
+  ],
+  "点击左上角的齿轮图标可以查看居民列表。\n\n这里您可以整理您的居民，找到他们最适合的岗位。\n\n点击居民将会自动放大画面到该居民处。": [
+   "Clicking on the gear in the top left corner of the screen brings up the Dweller List.\n\nFrom here you can sort your Dwellers and find the best Dweller for a job.\n\nClicking on a Dweller will zoom the camera over to them.",
+   "Tapping on the gear in the top left corner of the screen brings up the Dweller List.\n\nFrom here you can sort your Dwellers and find the best Dweller for a job.\n\nTapping on a Dweller will zoom the camera over to them."
+  ],
+  "准备": [
+   "READY",
+   "Ready"
+  ],
+  "索马里猫": [
+   "Somali",
+   "Somalis"
+  ],
+  "贵宾犬": [
+   "Poodle",
+   "Poodles"
+  ],
+  "辐射极琉矿武器": [
+   "ULTRACITE WEAPON",
+   "Ultracite Weapons"
+  ],
+  "您真的想移除死去的居民吗？": [
+   "Do you really want to remove any dead Dweller(s)?",
+   "Do you really want to remove the dead Dweller?"
+  ],
+  "您获得了一个午餐盒。点击哔哔小子菜单里的午餐盒图标来打开午餐盒或者购买更多的午餐盒。": [
+   "You just earned a Lunchbox. Select the Lunchbox icon in the Pip-Boy menu to open your Lunchbox or purchase additional Lunchboxes.",
+   "You just earned a Lunchbox. Tap the Lunchbox icon in the Pip-Boy menu to open your Lunchbox or purchase additional Lunchboxes."
+  ],
+  "点击居民信息弹出窗口上的名字可以重命名一个居民。": [
+   "You can rename a Dweller by clicking their name on the Dweller information pop-up.",
+   "You can rename a Dweller by tapping their name on the Dweller information pop-up."
+  ],
+  "不使用消辐宁在废土生存{0}小时": [
+   "Survive {0} hour in the Wasteland without using radaway",
+   "Survive {0} hours in the Wasteland without using radaway"
+  ],
+  "避难所科技": [
+   "VAULT-TEC",
+   "Vault-Tec",
+   "Vault-tec"
+  ],
+  "驱逐居民时，将他们拖到废土上，然后点击红色大门的按钮，而不是派他们去探险。\n\n给居民配备的所有物品将会返还给避难所库存。": [
+   "Evict a Dweller from the Vault by dragging them to the Wasteland and then clicking the red Vault Door button instead of sending them to explore.\n\nAny items equipped on an evicted Dweller are returned to Storage.",
+   "Evict a Dweller from the Vault by dragging them to the Wasteland and then tapping the red Vault Door button instead of sending them to explore.\n\nAny items equipped on an evicted Dweller are returned to Storage."
+  ],
+  "高级": [
+   "ADVANCED",
+   "PREMIUM"
+  ],
+  "每日报告": [
+   "DAILY REPORT",
+   "Daily Report"
+  ],
+  "消灭发光辐射蝎。": [
+   "Eliminate the Glowing Radscorpion.",
+   "Kill the Glowing Radscorpion."
+  ],
+  "完成": [
+   "COMPLETE",
+   "COMPLETED",
+   "DONE"
+  ],
+  "德国牧羊犬": [
+   "German Shepherd",
+   "German Shepherds"
+  ],
+  "完成{0}次废土上发现的任务": [
+   "Complete {0} Quest discovered in the Wasteland",
+   "Complete {0} Quests discovered in the Wasteland"
+  ],
+  "收藏": [
+   "COLLECTION",
+   "Collection"
+  ],
+  "无": [
+   "NONE",
+   "None"
+  ],
+  "{点击}{废土}来打开{废土任务日志}。": [
+   "{CLICK} the {WASTELAND} to open the {WASTELAND QUEST LOG}.",
+   "{TAP} the {WASTELAND} to open the {WASTELAND QUEST LOG}."
+  ],
+  "居民": [
+   "DWELLER",
+   "DWELLERS",
+   "Dweller",
+   "Dwellers"
+  ],
+  "避难所的储存室储藏着所有居民从废土上找来的或者午餐盒里得到的物品。\n点击哔哔小子菜单上的盒子图标可以查看储藏的物品。": [
+   "Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nClick on the boxes icon in the Pip-Boy to see your stored items.",
+   "Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nSelect the boxes icon in the Pip-Boy to see your stored items.",
+   "Your Vault Storage holds all the items your Dwellers get from the Wasteland or Lunchboxes.\nTap on the boxes icon in the Pip-Boy to see your stored items."
+  ],
+  "斗牛犬": [
+   "Pit Bull Terrier",
+   "Pit Bull Terriers"
+  ],
+  "避难所科技鹦鹉": [
+   "Vault-Tec Parrot",
+   "Vault-Tec Parrots"
+  ],
+  "居民列表": [
+   "DWELLER LIST",
+   "Dweller List"
+  ],
+  "黑拉布拉多犬": [
+   "Black Lab",
+   "Black Labs"
+  ],
+  "海盗鹦鹉": [
+   "Pirate Parrot",
+   "Pirate Parrots"
+  ],
+  "{点击}{幸运转盘按钮}打开{幸运转盘}。": [
+   "{CLICK} on the {WHEEL BUTTON} to open the {SPIN-TO-WIN WHEEL}.",
+   "{TAP} on the {WHEEL BUTTON} to open the {SPIN-TO-WIN WHEEL}."
+  ],
+  "这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。": [
+   "This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {CLICK} on {WATER TREATMENT}.",
+   "This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {TAP} on {WATER TREATMENT}."
+  ],
+  "攻击敌人时，点击居民然后再点击敌人。您也可以按住居民不放，再把目标拖到敌人身上。": [
+   "Attack enemies by clicking on a Dweller and then on an enemy. You can also attack by clicking and holding a Dweller and dragging the target to an enemy.",
+   "Attack enemies by tapping on a Dweller and then on an enemy. You can also attack by holding your finger on a Dweller and dragging the target to an enemy."
+  ],
+  "宠物": [
+   "PET",
+   "PETS",
+   "Pets"
+  ],
+  "找到{0}。": [
+   "Found a {0}.",
+   "Found {0}."
+  ],
+  "训练有素的鹦鹉": [
+   "Trained Parrot",
+   "Trained Parrots"
+  ],
+  "{点击}计时器，查看下一位{赛季居民}的更多细节。": [
+   "{CLICK} on the timer to see more details about the next {SEASONAL DWELLER}.",
+   "{TAP} on the timer to see more details about the next {SEASONAL DWELLER}."
+  ],
+  "探索核子可乐工厂。": [
+   "Explore the Nuka-Cola Plant.",
+   "Explore the old Nuka-Cola Plant."
+  ],
+  "阿比西尼亚猫": [
+   "Abyssinian",
+   "Abyssinians"
+  ],
+  "布列塔尼犬": [
+   "Brittany",
+   "Brittanys"
+  ],
+  "花费{0}量子核子可乐升级？": [
+   "Level up for {0} Nuka-Cola Quantum?",
+   "Rank up for {0} Nuka-Cola Quantum?"
+  ],
+  "要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。": [
+   "To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.",
+   "To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built."
+  ],
+  "消灭10个任务首领": [
+   "Kill 10 Quest Bosses",
+   "Killed 10 Quest Bosses"
+  ],
+  "否": [
+   "NO",
+   "No"
+  ],
+  "当您完成派遣和武装{居民}时，{点击}{开始任务}按钮就可以让他们出去探险了。": [
+   "When you are finished assigning and equipping {DWELLERS}, {CLICK} the {START QUEST} button to send them out on their adventure.",
+   "When you are finished assigning and equipping {DWELLERS}, {TAP} the {START QUEST} button to send them out on their adventure."
+  ],
+  "收集{0}件稀有武器": [
+   "Collect {0} Rare Weapon",
+   "Collect {0} Rare Weapons"
+  ],
+  "这是我们听过的最傻的事了。": [
+   "That's the dumbest thing we've ever heard of.",
+   "That's the stupidest thing we've ever heard."
+  ],
+  "升级房间": [
+   "Upgrade Room",
+   "Upgrade Rooms"
+  ],
+  "当点击居民时，就会显示其个人信息。\n\n这个界面上您可以给居民配备武器、装备和宠物，或者用治疗针和消辐宁治疗他们。\n\n点击居民的SPECIAL属性可以显示更多关于个人属性等级的细节。": [
+   "When you click on a Dweller, it brings up their information.\n\nFrom this page, you can equip your Dweller with Weapons, Outfits and a Pet, or heal them with Stimpaks and RadAway.\n\nClicking on their SPECIAL brings up more detailed information about their individual SPECIAL levels.",
+   "When you tap on a Dweller, it brings up their information.\n\nFrom this page, you can equip your Dweller with Weapons,Outfits and a Pet, or heal them with Stimpaks and RadAway.\n\nTapping on their SPECIAL brings up more detailed information about their individual SPECIAL levels."
+  ],
+  "5个巧手先生": [
+   "5 Mr. Handys",
+   "Bundle of 5 Mr. Handys"
+  ],
+  "{点击}{制造按钮}来{打开}{制造菜单}。": [
+   "{CLICK} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}.",
+   "{TAP} the {CRAFTING BUTTON} to {OPEN} the {CRAFTING MENU}."
+  ],
+  "{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。": [
+   "A {PREGNANT DWELLER} is ready to give birth! {CLICK} the {ICON} above her head to welcome a {CHILD} to your Vault.",
+   "A {PREGNANT DWELLER} is ready to give birth! {TAP} the {ICON} above her head to welcome a {CHILD} to your Vault."
+  ],
+  "奖励": [
+   "BONUS",
+   "REWARD",
+   "REWARDS"
+  ],
+  "开始打造吧！{双击}{辐射极琉矿武器工坊}近距离查看。": [
+   "Let's start crafting! {DOUBLE CLICK} on the {ULTRACITE WEAPON FACTORY} to take a closer look.",
+   "Let's start crafting! {DOUBLE TAP} on the {ULTRACITE WEAPON FACTORY} to take a closer look."
+  ],
+  "释放{0}次完美暴击": [
+   "Perform {0} perfect critical hit",
+   "Perform {0} perfect critical hits"
+  ],
+  "帕拉斯猫": [
+   "Pallas's Cat",
+   "Pallas's Cats"
+  ],
+  "分配": [
+   "ASSIGN",
+   "ASSIGNMENT"
+  ],
+  "现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。": [
+   "Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {CLICK} and {HOLD} and then {DRAG} the {DWELLER} to the room.",
+   "Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {TAP} and {HOLD} and then {DRAG} the {DWELLER} to the room."
+  ],
+  "德国指示犬": [
+   "German Pointer",
+   "German Pointers"
+  ],
+  "点击继续": [
+   "CLICK TO CONTINUE",
+   "TAP TO CONTINUE"
+  ],
+  "保护者机器人": [
+   "Protectron",
+   "Protectrons"
+  ],
+  "嗷嗷嗷！": [
+   "Arrrrgh!",
+   "Oooooooog!",
+   "Rrraaawwrgggh!",
+   "Rrrruuuuuug!"
+  ],
+  "坚固战斗装甲": [
+   "Sturdy Battle Armor",
+   "Sturdy Combat Armor"
+  ],
+  "重型战斗装甲": [
+   "Heavy Battle Armor",
+   "Heavy Combat Armor"
+  ],
+  "清理840号避难所的尸鬼。": [
+   "Clear the Ghouls from Vault 840.",
+   "Clear the Ghouls out of Vault 840."
+  ],
+  "眼球机器人": [
+   "Eyebot",
+   "Eyebots"
+  ],
+  "除掉掠夺者首领。": [
+   "Eliminate the Raider Boss.",
+   "Eliminate the Raider Leader."
+  ],
+  "提示：辐射极琉矿武器能对辐尸人造成额外伤害。": [
+   "Hint: Ultracite Weapons deal extra damage to Scorched.",
+   "Hint: Ultracite weapons deal extra damage to Scorched."
+  ],
+  "完成100个任务": [
+   "Complete 100 Quests",
+   "Completed 100 Quests"
+  ],
+  "{点击}按钮，转！那！个！盘！": [
+   "{CLICK} the button to SPIN! THAT! WHEEL!",
+   "{TAP} the button to SPIN! THAT! WHEEL!"
+  ],
+  "喂？外面有人吗？": [
+   "Hello? Anybody out here?",
+   "Hello? Is anyone out there?"
+  ],
+  "找到": [
+   "FOUND",
+   "found"
+  ],
+  "美国短毛猫": [
+   "American Shorthair",
+   "American Shorthairs"
+  ],
+  "在没有人员伤亡的情况下在避难所里生存了{0}小时": [
+   "Survive {0} hour in the Vault with no casualties",
+   "Survive {0} hours in the Vault with no casualties"
+  ],
+  "完成60个任务": [
+   "Complete 60 Quests",
+   "Completed 60 Quests"
+  ],
+  "提示：将居民拖进或者拖出受到灾害的房间来保证他们的存活。": [
+   "Hint: Assign Dwellers into and out of Rooms affected by a Disaster to keep them alive.",
+   "Hint: Drag Dwellers into and out of Rooms affected by a Disaster to keep them alive."
+  ],
+  "要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。": [
+   "To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.",
+   "To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built."
+  ],
+  "将居民拖到废土上并点击红色门按钮可以驱逐他们。": [
+   "Drag a Dweller to the Wasteland and click on the red Vault Door button to evict them from the Vault.",
+   "Drag a Dweller to the Wasteland and tap the red Vault Door button to evict them from the Vault."
+  ],
+  "点击计时器，查看下一场{辐尸人突袭}的更多细节。": [
+   "{CLICK} on the timer to see more details about the next {SCORCHED RAID}.",
+   "{TAP} on the timer to see more details about the next {SCORCHED RAID}."
+  ],
+  "当它出现时，点击勾形图标来释放暴击技能。": [
+   "When it appears, click the checkmark icon to perform a Critical Hit.",
+   "When it appears, tap the checkmark icon to perform a Critical Hit."
+  ],
+  "需要一个{餐厅}来帮您生产{食物}。{点击}{餐厅}。": [
+   "You need a {DINER}, which will produce {FOOD}. {CLICK} on the {DINER}.",
+   "You need a {DINER}, which will produce {FOOD}. {TAP} on the {DINER}."
+  ],
+  "居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。": [
+   "Dwellers require {WATER} to keep their {RADIATION} level low. Click again to {CONFIRM}.",
+   "Dwellers require {WATER} to keep their {RADIATION} level low. Tap again to {CONFIRM}."
+  ],
+  "{点击}列表中的一把{辐射极琉矿武器}来打造。升级{辐射极琉矿武器工坊}即可解锁更多配方。": [
+   "{CLICK} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}.",
+   "{TAP} an {ULTRACITE WEAPON} from the list to craft it. You can unlock new recipes by upgrading the {ULTRACITE WEAPON FACTORY}."
+  ],
+  "英国獒犬": [
+   "English Mastiff",
+   "English Mastiffs"
+  ],
+  "在没有人员伤亡的情况下撑过了{0}次狂尸鬼攻击": [
+   "Survive {0} Feral Ghoul attack with no casualties",
+   "Survive {0} Feral Ghoul attacks with no casualties"
+  ],
+  "哈瓦那猫": [
+   "Havana Brown",
+   "Havana Browns"
+  ],
+  "拳师狗": [
+   "Boxer",
+   "Boxers"
+  ],
+  "提示：尝试将居民多拖拽至几个不同的房间，看他/她最适合在哪里工作。": [
+   "Hint: Drag a Dweller around to a few rooms to see where they'd work best.",
+   "Hint: Move a Dweller around to a few rooms to see where they'd work best."
+  ],
+  "拯救定居者。": [
+   "Rescue the settler.",
+   "Save the Settlers.",
+   "Save the settlers."
+  ],
+  "土耳其梵猫": [
+   "Turkish Van",
+   "Turkish Vans"
+  ],
+  "再次点击来停止箭头。它们越靠近，造成的伤害倍率就越高。": [
+   "Then click again to stop the arrows. The closer they are, the greater the damage multiplier.",
+   "Then tap again to stop the arrows. The closer they are, the greater the damage multiplier."
+  ],
+  "完成30个任务": [
+   "Complete 30 Quests",
+   "Completed 30 Quests"
+  ],
+  "外星人": [
+   "Alien",
+   "Aliens"
+  ],
+  "战斗装甲": [
+   "Battle Armor",
+   "Combat Armor"
+  ],
+  "拾荒者": [
+   "Scavenger",
+   "Scavengers"
+  ],
+  "想要快速查看在外探索的居民，只需直接点击废土。": [
+   "To quickly check on your Dwellers exploring, just click directly on the Wasteland.",
+   "To quickly check on your Dwellers exploring, just tap directly on the Wasteland."
+  ],
+  "寻血猎犬": [
+   "Bloodhound",
+   "Bloodhounds"
+  ],
+  "排行榜": [
+   "LEADERBOARD",
+   "LEADERBOARDS"
+  ],
+  "苏格兰折耳猫": [
+   "Scottish Fold",
+   "Scottish Folds"
+  ],
+  "辐射蟑螂": [
+   "Radroach",
+   "Radroaches"
+  ],
+  "避难所": [
+   "VAULT",
+   "Vault"
+  ],
+  "搞定！": [
+   "Done!",
+   "There we go!"
+  ],
+  "在不使用治疗针的情况下撑过了{0}次死爪攻击": [
+   "Survive {0} Deathclaw attack without using stimpacks",
+   "Survive {0} Deathclaw attacks without using stimpacks"
+  ],
+  "{点击}这里然后分配{居民}到{任务}小队。": [
+   "{CLICK} here to assign {DWELLERS} to the {QUEST} team.",
+   "{TAP} here to assign {DWELLERS} to the {QUEST} team."
+  ],
+  "啊啊啊！": [
+   "Aaaaaaaaaah!",
+   "Raaahaaaa!"
+  ],
+  "在大无敌超市寻找战利品。": [
+   "Check out the Super-Duper Mart for loot.",
+   "Look for loot in the Super-Duper Mart."
+  ],
+  "什么玩意儿？": [
+   "A what now?",
+   "The what now?"
+  ],
+  "在任务中从{0}个储物箱里收集物品": [
+   "Collect from {0} container on Quests",
+   "Collect from {0} containers on Quests"
+  ],
+  "华盛顿纪念碑。": [
+   "The Washington Monument.",
+   "Washington Monument."
+  ],
+  "如果需要额外资源，可以使用{极速模式}。{点击}{极速按钮}来{打开}{极速菜单}。": [
+   "If you are in dire need of extra resources, you can use the {RUSH MODE}. {CLICK} the {RUSH BUTTON} to {OPEN} the {RUSH MENU}.",
+   "If you are in dire need of extra resources, you can use the {RUSH MODE}. {TAP} the {RUSH BUTTON} to {OPEN} the {RUSH MENU}."
+  ]
+ }
+}

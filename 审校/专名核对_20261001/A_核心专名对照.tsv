@@ -1,0 +1,32 @@
+key	类别	EN	本库现译	判定	参考译名	建议	依据
+Deathclaw_Name	生物	Deathclaw	死爪	一致	死爪（避难所）/ 死亡爪（辐射4）	保持「死爪」	本作为《辐射避难所》，社区通行「死爪」；FO4 官方为「死亡爪」，属不同作品用词
+Ghoul_Name	生物	Feral Ghoul	狂尸鬼	一致	狂尸鬼	保持	辐射系列官方统一
+Radroach_Name	生物	Radroach	辐射蟑螂	一致	辐射蟑螂	保持	官方统一
+Radscorpion_Name	生物	Radscorpion	辐射蝎	一致	辐射蝎	保持	官方统一
+Molerat_Name	生物	Mole Rat	鼹鼠	一致	鼹鼠	保持	官方统一
+GlowingOne	生物	Glowing One	发光种	一致	发光种	保持	FO4 官方
+Brahmin	生物	Brahmin	双头牛	一致	双头牛	保持	FO4 官方
+YaoGuai	生物	Yao Guai	妖怪熊（17）/ 妖怪（1）	不一致	妖怪	统一为「妖怪」	中文维基页名即「妖怪」；本库 `Outfit_Description_ScarredPowerArmor_Original` 已用「妖怪」
+Bloatfly	生物	Bloatfly	巨大苍蝇	一致	巨大苍蝇	保持	中文维基页名「巨大苍蝇（辐射3）」「巨大苍蝇（辐射4）」均为此名
+Mirelurk	生物	Mirelurk	泥沼蟹	一致	泥沼蟹	保持	FO4 官方
+SuperMutant	生物	Super Mutant	超级变种人	一致	超级变种人	保持	官方统一
+Behemoth	生物	Behemoth	巨兽	一致	巨兽	保持	FO4 官方
+Overlord	生物	Super Mutant Overlord	超级变种人霸王	一致	霸王	保持	FO3 官方
+Protectron_Name	生物	Protectron	保护者机器人	一致	保护者机器人	保持	本库 9 处全一致（无「保护者」单用）
+Securitron	生物	Securitron	保安机器人	一致	保安机器人	保持	FNV 官方
+Mr_Handy_Name	生物	Mr. Handy	巧手先生	一致	巧手先生	保持	官方统一
+Scorched	生物	Scorched	辐尸人	一致	辐尸人	保持	FO76 官方
+SnipSnip_Name	角色	Snip Snip	剪刀手	不一致	咔嚓先生	机器人统一「咔嚓先生」	同角色在本库另有「咔嚓」（`MrHandy_ContentOdds`/`LunchBox_Content_Card5`）与「咔嚓先生」（`QuestLoc_Snipping_01_Answer01_NPC01`）；「剪刀手」应让给发光辐射蝎 Snips
+QuestLoc_BountySnips_QuestName	角色	Snips（发光辐射蝎）	“剪刀手”	一致	剪刀手	保持	与上条配合即可让两个实体重名分开
+QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2	组织/媒体	Galaxy News Radio	银河广播电台	不一致	银河新闻电台	统一为「银河新闻电台」	同库 `QuestLoc_BeatReporting_Conversation_5_NPCStart_1` 已用此名；FO3 官方名
+Outfit_Name_NCRPowerArmor	组织	NCR Power Armor	NCR动力装甲	不一致	新加州共和国动力装甲	统一	同一件装备的描述 `Outfit_Description_NCRPowerArmor` 已作「新加州共和国动力装甲」
+Outfit_Name_NCR_Ranger	组织	NCR Ranger Outfit	新加州共和国游骑兵制服	一致	新加州共和国游骑兵制服	保持	与上条统一后全库一致
+Weapon_Name_BBGun_RedRocket	物品	Red Rocket	红色火箭	不一致	红火箭	统一为「红火箭」	地点名全库 33 处作「红火箭」，此枪同名品牌
+Outfit_Name_UtilityJumpsuit	装备	Armored Vault Suit	避难所装甲套装	不一致	装甲避难所制服	改「装甲避难所制服」	armored 修饰 suit，现译语序把「装甲」挂到「套装」上；且与同系列「避难所制服/避难所套装」不成族
+Outfit_Name_UtilityJumpsuit_Sturdy	装备	Sturdy Vault Suit	坚固避难所套装	不一致	坚固避难所制服	统一「避难所制服」	同系列 3 种写法（套装/制服/装甲套装）
+Outfit_Name_LucysVaultSuit	装备	Lucy's Vault Suit	露西的避难所制服	基准	露西的避难所制服	以此为基准	Vault Suit 族应以本条的「避难所制服」为准
+Outfit_Name_PowerArmor	装备	T-45a Power Armor	t-45a动力装甲	不一致	 T-45a 动力装甲	型号首字母大写并加空格	同库 Shop 文案已作「T-60f动力装甲」「T-45d动力装甲」，item 名却全小写
+Outfit_Name_PowerArmor_51d	装备	T-51d Power Armor	t-51d动力装甲	不一致	 T-51d 动力装甲	同上	同上（受影响共 9 条：_51a/_51d/_51f/_T45d/_T45f/_T60a/_T60d/_T60f/基础）
+QuestLoc_GameShowGauntletK_Conversation_1_Team_3	组织	The Pack（核子世界帮派）	派克帮	存疑	狼帮	待你定	中文维基可检索到「狼帮」页；未能在本环境取回页面正文确认即 The Pack，故列为存疑
+Ultracite	资源	Ultracite	辐射极琉矿	存疑	超铀（待证）	待你定	FO76 相关术语，中文维基无对应页；本库 70 处已自成体系，无内证冲突
+QuestLoc_UndercoverOperations_Conversation_1_NPCStart_4	文本	lead the pack（普通名词组）	领头的大群	一致	领头的大群	保持	此处 pack 是「一群」而非帮派 The Pack，无需与上条联动
