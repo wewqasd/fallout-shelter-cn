@@ -319,7 +319,7 @@ CurieDialog_Wasteland_14	Freedom at long last.	终于自由了。
 CurieDialog_Wasteland_15	Out here, I can study some of the indigenous species!	在这里，我可以研究一些当地的原生物种！
 CurieDialog_Wasteland_16	Look! In the sky! Is it what we call a UFO?	看！天上那是什么？那就是我们所说的不明飞行物吗？
 CurieDialog_Wasteland_17	I detect enemies. I'm afraid I must neutralize them.	我探测到敌人了。恐怕我得清除他们。
-CurieDialog_Wasteland_18	I found a box of… Power Noodles? Sounds very nutritious.	我发现一盒……能量面条？听起来很有营养。
+CurieDialog_Wasteland_18	I found a box of… Power Noodles? Sounds very nutritious.	我发现一盒……劲道面馆？听起来很有营养。
 CurieDialog_Wasteland_19	Oh, a Mr. Handy! But, I think this robot is broken.	哦，一台巧手先生！不过，我想这个机器人是坏的。
 CurieDialog_Wasteland_2	I do enjoy traveling. It is very satisfying.	我确实喜欢旅行，这让我很满足。
 CurieDialog_Wasteland_20	A Mole rat. What a fascinating specimen!	一只鼹鼠。多么迷人的样本！
@@ -2390,7 +2390,7 @@ Junk_Name_TeddyBear	Teddy Bear	泰迪熊
 Junk_Name_ToyCar	Toy Car	玩具车
 Junk_Name_TriFoldFlag	Tri-Fold Flag	三色旗
 Junk_Name_Ultracite	Ultracite	辐射极琉矿
-Junk_Name_Wonderglue	Wonderglue	神奇胶水
+Junk_Name_Wonderglue	Wonderglue	万能胶
 Junk_Name_YaoGuaiHide	Yao Guai Hide	妖怪皮
 Junk_Name_Yarn	Yarn	纱线
 KeyboardMapping_ActivateRoom	Room Action	房间行动
@@ -5379,7 +5379,7 @@ QuestLoc_DibsattheRedRocket_Conversation_1_NPCStart_3	For your own safety, pleas
 QuestLoc_DibsattheRedRocket_Conversation_1_Team_1	No, I think I'll just stay and take what I want.	不，我打算留下来，拿走我想要的东西。
 QuestLoc_DibsattheRedRocket_Conversation_1_Team_2	All right, I'll just show myself out, then.	好吧，我这就自己出去。
 QuestLoc_DibsattheRedRocket_Conversation_1_Team_3	Come on, can't you guys share anything here?	拜托，你们就不能分我点东西吗？
-QuestLoc_DibsattheRedRocket_QuestLongDescription	One of your Dwellers found an abandoned Red Rocket truck stop! Maybe there's some valuable junk inside...	你的一名居民发现了一座废弃的红火箭卡车休息站！说不定里面有些值钱的破烂……
+QuestLoc_DibsattheRedRocket_QuestLongDescription	One of your Dwellers found an abandoned Red Rocket truck stop! Maybe there's some valuable junk inside...	你的一名居民发现了一座废弃的红火箭服务站！说不定里面有些值钱的破烂……
 QuestLoc_DibsattheRedRocket_QuestName	Dibs at the Red Rocket	谁先到红火箭
 QuestLoc_DibsattheRedRocket_QuestObjective_1	Look for valuable junk.	寻找有价值的垃圾。
 QuestLoc_DibsattheRedRocket_QuestShortDescription	Look through Red Rocket for useful junk.	搜寻红火箭寻找有用的垃圾。
@@ -6682,7 +6682,7 @@ QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_2	I have no idea who that is. S
 QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真厉害！你答对了！你赢下了……“掉脑袋”！
 QuestLoc_GameShowGauntletA_Conversation_4_NPCEnd_4	Hey! Family is off limits. Just for that... Lose Your Head!	嘿！不许拿家人说事。就冲这句……准备“掉脑袋”吧！
 QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
-QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_2	Who was trapped on the roof of Trinity Tower?	谁被困在了崔尼帝塔？
+QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_2	Who was trapped on the roof of Trinity Tower?	谁被困在了三一塔？
 QuestLoc_GameShowGauntletA_Conversation_4_Team_1	George Cooper.	乔治库伯。
 QuestLoc_GameShowGauntletA_Conversation_4_Team_2	Bill Sutton.	比尔萨顿。
 QuestLoc_GameShowGauntletA_Conversation_4_Team_3	Rex Goodman.	雷克斯古德曼。
@@ -7084,14 +7084,14 @@ QuestLoc_GameShowGauntletJ_Conversation_4_Team_1	She wanted to live a life of ad
 QuestLoc_GameShowGauntletJ_Conversation_4_Team_2	Her mother was cruel to her.	她的母亲对她不好。
 QuestLoc_GameShowGauntletJ_Conversation_4_Team_3	She believed she was a Synth.	她觉得自己是一个合成人。
 QuestLoc_GameShowGauntletJ_Conversation_4_Team_4	Kasumi ran away? How horrible!	中野霞离家出走了？太可怕了！
-QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_1	Right! I would also have accepted Operators or The Pack.	正确，不过操作者和派克帮也是对的。
-QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_2	Right! I would also have accepted Disciples or The Pack.	正确，不过门徒和派克帮也是对的。
+QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_1	Right! I would also have accepted Operators or The Pack.	正确，不过操作者和狼帮也是对的。
+QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_2	Right! I would also have accepted Disciples or The Pack.	正确，不过门徒和狼帮也是对的。
 QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_3	Right! I would also have accepted Disciples or Operators.	正确，不过门徒和操作者也是对的。
 QuestLoc_GameShowGauntletK_Conversation_1_NPCEnd_4	Ha ha ha ha ha ha ha ha ha ha ha. Now... Lose Your Head!	哈哈哈哈哈哈哈哈。现在……准备“掉脑袋”吧！
 QuestLoc_GameShowGauntletK_Conversation_1_NPCStart_4	Name one of the Raider gangs in Nuka-World!	请说出核子世界里一个掠夺者帮派的名字。
 QuestLoc_GameShowGauntletK_Conversation_1_Team_1	Disciples.	门徒。
 QuestLoc_GameShowGauntletK_Conversation_1_Team_2	Operators.	操作者。
-QuestLoc_GameShowGauntletK_Conversation_1_Team_3	The Pack.	派克帮。
+QuestLoc_GameShowGauntletK_Conversation_1_Team_3	The Pack.	狼帮。
 QuestLoc_GameShowGauntletK_Conversation_1_Team_4	Scaredy Cats.	胆小猫。
 QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_1	Good choice, but oh so wrong. So long, you're about to... Lose Your Head!	选得不错，但不对。再见，现在你要……“掉脑袋”了！
 QuestLoc_GameShowGauntletK_Conversation_2_NPCEnd_2	Nope. Overkill much? We're all going to watch as you... Lose Your Head!	不对。是不是有点大材小用了？我们都将看着你……“掉脑袋”！
@@ -9451,7 +9451,7 @@ QuestLoc_NVB_QL3_Stripper_3_QuestShortDesc	We need to enlist the King to fight a
 QuestLoc_NVB_QL3_Stripper_3_Question1	I'm so excited to join the King Impersonator School! Do you think he'll welcome me?	能加入猫王模仿者学校我太兴奋了！你觉得他会接纳我吗？
 QuestLoc_NVB_QL3_Stripper_3_Question1_Answer1	My hair is perfect, you meanie... <sob>	我的头发完美极了，你这坏蛋……<抽泣>
 QuestLoc_NVB_QL3_Stripper_3_Question1_Answer2	That's the third fee I've been asked to pay. How many more are there?	这已经是我被要求交的第三笔报名费了。到底还有多少笔啊？
-QuestLoc_NVB_QL3_Stripper_3_Question1_Answer3	I make my own pomade out of Wonderglue. Here. Try for yourself.	我自己用神奇胶水做发油。给。你试试看。
+QuestLoc_NVB_QL3_Stripper_3_Question1_Answer3	I make my own pomade out of Wonderglue. Here. Try for yourself.	我自己用万能胶做发油。给。你试试看。
 QuestLoc_NVB_QL3_Stripper_3_Question1_Choice1	They love greasy hair, but dude, not that greasy!	他们确实喜欢油头，但老兄，也不至于油成这样吧！
 QuestLoc_NVB_QL3_Stripper_3_Question1_Choice2	Sure will. Just so happens I'm here to collect the registration fees.	当然会。正好我是来收报名费的。
 QuestLoc_NVB_QL3_Stripper_3_Question1_Choice3	Well met, fellow hopeful! We're here for the same reason. Any tip?	幸会，同行追梦人！我们目标一致。有啥建议吗？

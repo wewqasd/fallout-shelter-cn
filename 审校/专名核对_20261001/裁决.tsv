@@ -21,3 +21,9 @@
 8-13	保卫废土（GuardianoftheWastes 5 变体）	用 Deathclaws 版	FeralGhouls/MoleRats/Radroaches/Radscorpions_QuestLongDescription（4 处）
 8-14	Help_Page26 平台变体	统一为 Xbox 版（PS4/Switch 两版全换）	Help_Page26_MainText_PS4|Help_Page26_MainText_Switch
 8-15	Message_Tutorial 09 vs 68（PC）	用 09_PC 版	Message_Tutorial_68_PC
+专名①	Wonderglue	改成“万能胶”（维基条目名，S3 属反向修改）	Junk_Name_Wonderglue|QuestLoc_NVB_QL3_Stripper_3_Question1_Answer3
+专名②	Power Noodles	改成“劲道面馆”	CurieDialog_Wasteland_18
+专名③	Trinity Tower	改成“三一塔”	QuestLoc_GameShowGauntletA_Conversation_4_NPCStart_2
+专名④	Ultracite	**保持“辐射极琉矿”**（用户撤回改动）	无
+专名⑤	The Pack（核子世界帮派）	改成“狼帮”（3 处）	QuestLoc_GameShowGauntletK_Conversation_1_Team_3|_NPCEnd_1|_NPCEnd_2
+专名⑥	Red Rocket Truck Stop	统一“红火箭服务站”（改 1 处）	QuestLoc_DibsattheRedRocket_QuestLongDescription
