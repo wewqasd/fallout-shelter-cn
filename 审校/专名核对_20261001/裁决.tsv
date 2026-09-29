@@ -1,0 +1,23 @@
+序号	项	裁决	落地key
+1	Snip Snip 机器人	机器人统一“咔嚓先生”；辐射蝎 Snips 保持“剪刀手”	SnipSnip_Name|MrHandy_ContentOdds|LunchBox_Content_Card5
+2	Galaxy News Radio	统一“银河新闻电台”	QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2
+3	NCR 动力装甲	统一“新加州共和国动力装甲”	Outfit_Name_NCRPowerArmor
+4	Red Rocket BB枪	改为“红火箭”	Weapon_Name_BBGun_RedRocket
+5	Vault Suit 族	统一“避难所制服”；Armored Vault Suit→“装甲避难所制服”	16 处（见 E/A 表）
+6	动力装甲型号	统一“T-45a 动力装甲”式（大写+空格）	8 条 item 名 + 2 处 Shop 文案
+7	Yao Guai	统一“妖怪”	17 处（Encounter/Speech/Junk/Weapon_Description 等）
+8-1	死爪台词（MrHandy vs SnipSnip）	统一为 A：「我只会谈情说爱，不会打打杀杀！」	MrHandyDialog_Wasteland_43
+8-2	答题节目同句（Gauntlet A/B vs D）	统一为 A：「真厉害！你答对了！你赢下了……“掉脑袋”！」	QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_3
+8-3	机器人反叛人类（Wasteland_27）	统一为 A（SnipSnip 版）	MrHandyDialog_Wasteland_27
+8-4	战前郊区家庭（Generic_24）	统一为 B（MrHandy 版）	SnipSnipDialog_Generic_24
+8-5	地底金属坑（Generic_19）	统一为 B（MrHandy 版，保留 I have to admit）	SnipSnipDialog_Generic_19
+8-6	机油浴（Generic_04）	统一为 A（MrHandy 版，保留 My kingdom for）	SnipSnipDialog_Generic_04
+8-7	捡破烂乡巴佬（Wasteland_29）	统一为 A（MrHandy 版）	SnipSnipDialog_Wasteland_29
+8-8	健身房鼓励（Gym_01/02）	统一为 A：「这就对了，人类，练起来！」	SnipSnipDialog_Gym_01|SnipSnipDialog_Gym_02
+8-9	棱镜谐音（Generic_22）	改用 B：加注释版「关进了“棱镜”（prism，谐音监狱 prison）」	MrHandyDialog_Generic_22
+8-10	Cool.（AllWorkandNoPlay NPC vs Team）	保持两种（不同说话人语气）	无
+8-11	末日骑士起源（JustDeserts）	统一“查明末日骑士的起源。”	QuestLoc_JustDeserts_QuestShortDescription
+8-12	cause mayhem（SpyonRaiders 3A-3E）	统一“大闹一场”	3B/3C/3D/3E_NPCEnd_1（4 处）
+8-13	保卫废土（GuardianoftheWastes 5 变体）	用 Deathclaws 版	FeralGhouls/MoleRats/Radroaches/Radscorpions_QuestLongDescription（4 处）
+8-14	Help_Page26 平台变体	统一为 Xbox 版（PS4/Switch 两版全换）	Help_Page26_MainText_PS4|Help_Page26_MainText_Switch
+8-15	Message_Tutorial 09 vs 68（PC）	用 09_PC 版	Message_Tutorial_68_PC

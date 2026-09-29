@@ -333,7 +333,7 @@ CurieDialog_Wasteland_27	Raiders! They do not look like they will negotiate. I w
 CurieDialog_Wasteland_28	Sample collected. I suspect it is partially digested meats and other biological matter.	已采集样本。我怀疑是半消化的肉类和其他生物物质。
 CurieDialog_Wasteland_29	I found a cadaver! I will stop a while to study it.	我发现一具尸体！我要停留一会儿好好研究它。
 CurieDialog_Wasteland_3	The offensive capabilities of this Deathclaw are quite advanced.	这只死爪的攻击能力相当先进。
-CurieDialog_Wasteland_30	I believe that is a Yao Guai. The sight of them must give humans an enormous fear response.	我相信那是妖怪熊。光是看到它们，就一定能让人类产生巨大的恐惧反应。
+CurieDialog_Wasteland_30	I believe that is a Yao Guai. The sight of them must give humans an enormous fear response.	我相信那是妖怪。光是看到它们，就一定能让人类产生巨大的恐惧反应。
 CurieDialog_Wasteland_31	My goodness, this is Power Armor! It is a technological marvel. Too bad this one is broken.	我的天，这是动力装甲！这可是技术杰作。可惜这一件已经坏了。
 CurieDialog_Wasteland_32	I see a Radstag. I wonder, with two heads, can it ever disagree with itself?	我看到了一只辐射鹿。我很好奇，长着两个脑袋，它会不会自己跟自己吵架？
 CurieDialog_Wasteland_33	I believe now is a good time to go North.	我想现在是去北边的好时机。
@@ -414,7 +414,7 @@ Enclave_IntroPopup_Title	"THE SEASON OF ""IN GOLD WE TRUST"" IS HERE"	“黄金�
 Enclave_SeasonEndPopup_Title	THE SEASON OF “IN GOLD WE TRUST” HAS ENDED	“黄金至上”赛季已结束
 Enclave_Title	SHELTER SEASON: IN GOLD WE TRUST	避难所赛季：黄金至上
 Encounet_Progression_Creature1	I've got to kill this Savage Dog before it kills me!	我得在这只野狗杀了我之前先干掉它！
-Encounet_Progression_Creature10	The Yao Guai is moving in, ready to attack.	妖怪熊逼近，准备攻击。
+Encounet_Progression_Creature10	The Yao Guai is moving in, ready to attack.	妖怪逼近，准备攻击。
 Encounet_Progression_Creature11	This Feral Ghoul is out of its mind! It's lunging at me!	这只狂尸鬼一定是疯了！它正朝我扑过来！
 Encounet_Progression_Creature12	The Feral Ghoul is moving in, ready to attack.	狂尸鬼逼近，准备攻击。
 Encounet_Progression_Creature13	The Giant Ant's antennae are quivering. It moves in for the kill!	巨型蚂蚁的触角在颤动，正扑上来要我的命！
@@ -466,7 +466,7 @@ Encounet_Progression_Creature54	The Super Mutant Behemoth is moving in, ready to
 Encounet_Progression_Creature6	The Bloatfly is moving in, ready to attack.	巨大苍蝇逼近，准备攻击。
 Encounet_Progression_Creature7	I'll squash this Radroach, no problem!	我来踩扁这只辐射蟑螂，没问题！
 Encounet_Progression_Creature8	The Radroach is moving in, ready to attack.	辐射蟑螂逼近，准备攻击。
-Encounet_Progression_Creature9	The Yao Guai is charging! It thinks I'm lunch!	妖怪熊正向我冲过来！它把我当成了午餐！
+Encounet_Progression_Creature9	The Yao Guai is charging! It thinks I'm lunch!	妖怪正向我冲过来！它把我当成了午餐！
 Encounet_Progression_Location1	Attempting to find a way into the Broadcasting Tower.	正试图找到进入广播塔的路。
 Encounet_Progression_Location10	Nobody's had a meal here in a long, long time.	已经很久很久没人在这儿吃过一顿饭了。
 Encounet_Progression_Location11	The location looks secure, but I might be able to find a way in.	这地方看上去挺严实的，但我也许能找到进去的方法。
@@ -490,7 +490,7 @@ Encounet_Progression_NPC2	Trying to treat the Wounded Sheriff. He's in a lot of 
 Encounet_Progression_NPC3	The Ghoul is ugly, but not feral. In fact, she seems pretty friendly.	这尸鬼长得丑，但还没狂化。其实她看上去相当友好。
 Encounet_Progression_NPC4	The Merchant is interested in bartering.	这个商人似乎想和我做交易。
 Encounet_Progression_NPC5	The Talon Company Mercs are wary, but not hostile.	鹰爪公司的雇佣兵满怀警惕，但没有敌意。
-Encounet_Progression_NPC6	The Hunter needs help tracking a Yao Guai.	猎人需要我帮他找到妖怪熊。
+Encounet_Progression_NPC6	The Hunter needs help tracking a Yao Guai.	猎人需要我帮他找到妖怪。
 Encounet_Progression_NPC7	The Drunken Drifter wants to share a drink.	喝醉的流浪汉要和我喝一杯。
 Encounet_Progression_NPC8	Trying to convince the Brotherhood Patrol that I'm harmless.	正在设法让兄弟会巡逻队相信我毫无威胁。
 Encounet_Progression_NPC9	I'm guiding the Lost Farmer back to the nearest settlement.	我正引导迷路的农民找到最近的定居点。
@@ -516,7 +516,7 @@ Encounter_Defeat_Creature26	The Super Mutant Overlord is way too tough! I've got
 Encounter_Defeat_Creature27	Defeating this Super Mutant Behemoth is impossible! Escape is my only option!	打败这只巨兽根本没门儿！逃跑是我唯一的选择！
 Encounter_Defeat_Creature3	I wasn't prepared for the Bloatfly's sting! Time to run!	我没提防这只巨大苍蝇的螫针！快跑吧！
 Encounter_Defeat_Creature4	The Radroach is too fast. I've had enough!	辐射蟑螂太快了。真是受够了！
-Encounter_Defeat_Creature5	I was crazy to take on this Yao Guai! Hopefully I can get away!	我真是疯了，居然和妖怪熊杠上了。但愿我能逃脱！
+Encounter_Defeat_Creature5	I was crazy to take on this Yao Guai! Hopefully I can get away!	我真是疯了，居然和妖怪杠上了。但愿我能逃脱！
 Encounter_Defeat_Creature6	The Feral Ghoul is stronger than he looks! I'm out of here!	狂尸鬼比看起来要强壮多了！我得离开这里！
 Encounter_Defeat_Creature7	The Giant Ant gave me a vicious arm wound! I'm running!	巨型蚂蚁咬伤了我的手臂！赶紧跑！
 Encounter_Defeat_Creature8	The Scavenger's Dog is too tough! I can't beat it!	拾荒者的狗太凶残了，我打不过它！
@@ -544,7 +544,7 @@ Encounter_Defeat_NPC2	So much blood. I can't stop it. I'm afraid the Sheriff doe
 Encounter_Defeat_NPC3	I guess I'm not as charming as I thought. The Ghoul refuses to talk to me.	我根本没自己想的那么有魅力。尸鬼拒绝和我说话。
 Encounter_Defeat_NPC4	I pushed my luck. The Merchant didn't like the deal I proposed.	是我得寸进尺了。商人并不喜欢我提的买卖。
 Encounter_Defeat_NPC5	The Talon Company Mercs drew their guns and told me to leave. I did.	鹰爪公司的雇佣兵拔出他们的枪，让我离开。我照做了。
-Encounter_Defeat_NPC6	I couldn't locate the Yao Guai. The Hunter thinks I'm completely incompetent.	我找不到妖怪熊。猎人认为我很无能。
+Encounter_Defeat_NPC6	I couldn't locate the Yao Guai. The Hunter thinks I'm completely incompetent.	我找不到妖怪。猎人认为我很无能。
 Encounter_Defeat_NPC7	The Drunken Drifter thought I took too big a gulp. He left angry, and took his bottle.	醉酒的流浪者嫌我一口灌得太猛，气冲冲地走了，酒瓶也拿走了。
 Encounter_Defeat_NPC8	The Brotherhood Patrol doesn't trust me. They ordered me to leave, or they'd open fire.	兄弟会巡逻队不信任我。他们命令我离开，否则他们会开枪。
 Encounter_Defeat_NPC9	I couldn't find the settlement. Now the Lost Farmer is even worse off than before.	我找不到定居点。现在迷路的农民的状况比以前更糟了。
@@ -625,7 +625,7 @@ Encounter_Message_Creature26	a Super Mutant Overlord.	一个超级变种人霸�
 Encounter_Message_Creature27	a gigantic Super Mutant Behemoth.	一只硕大的超级变种人巨兽。
 Encounter_Message_Creature3	a Bloatfly, buzzing dangerously close.	一只巨大苍蝇，嗡嗡叫着逼近，近得危险。
 Encounter_Message_Creature4	a disgusting Radroach.	一只令人讨厌的辐射蟑螂。
-Encounter_Message_Creature5	a terrifying Yao Guai!	一只可怕的妖怪熊！
+Encounter_Message_Creature5	a terrifying Yao Guai!	一只可怕的妖怪！
 Encounter_Message_Creature6	a wandering Feral Ghoul.	一只四处游荡的狂尸鬼。
 Encounter_Message_Creature7	a Giant Ant.	一只巨型蚂蚁。
 Encounter_Message_Creature8	a Scavenger's Dog, sniffing for salvage.	一只拾荒者的狗，嗅着废品的味道。
@@ -710,7 +710,7 @@ Encounter_Progression_JustStartedTier2_7	I guess I'll head... that way.	我想�
 Encounter_Progression_JustStartedTier2_8	Maybe I should have dropped some bread crumbs.	早知道就一路撒点面包屑了。
 Encounter_Progression_JustStartedTier2_9	This way looks promising.	这条路看上去还不错。
 Encounter_Progression_Repeatable_JunkLocation1	Trying to pull off the boards blocking the front door.	正试图撬开挡在前门的木板。
-Encounter_Progression_Repeatable_JunkLocation10	I've been cornered in the Cave by a family of Yao Guai. I'll try to pacify them.	被妖怪熊一家人逼到了山洞的角落。我会尽力安抚它们。
+Encounter_Progression_Repeatable_JunkLocation10	I've been cornered in the Cave by a family of Yao Guai. I'll try to pacify them.	被妖怪一家人逼到了山洞的角落。我会尽力安抚它们。
 Encounter_Progression_Repeatable_JunkLocation11	Running after the Brahmin to help out the Merchant. That thing is fast!	帮助商人追逐双头牛。那东西很快！
 Encounter_Progression_Repeatable_JunkLocation12	Staying low to the ground as I cross the Field as quickly as possible.	匍匐在地上，尽可能快地穿过田野。
 Encounter_Progression_Repeatable_JunkLocation2	Exploring the Hideout, but one wrong step will make it fall on my head.	探索藏身处，但走错一步，整座建筑就会塌下来砸在我头上。
@@ -770,7 +770,7 @@ Encounter_Random_Message14	What was that?	那是什么？
 Encounter_Random_Message140	Explorer's journal. New Entry. Bottle Caps accepted as currency everywhere.	探险家日志。新条目：瓶盖成了通用的货币。
 Encounter_Random_Message141	Explorer's journal. New Entry. Slavers prey on the weak. My heart breaks.	探险家日志。新条目：奴隶贩子专挑弱者下手。真让人心碎。
 Encounter_Random_Message142	Explorer's journal. New Entry. Food is scarce. Some resort to cannibalism.	探险家日志。新条目：食物匮乏。有些人被迫吃人。
-Encounter_Random_Message143	Explorer's journal. New Entry. A Yao Guai is a fierce, mutated bear.	探险家日志。新条目：妖怪熊是一种凶猛的变异熊。
+Encounter_Random_Message143	Explorer's journal. New Entry. A Yao Guai is a fierce, mutated bear.	探险家日志。新条目：妖怪是一种凶猛的变异熊。
 Encounter_Random_Message144	Explorer's journal. New Entry. A Ghoul is an irradiated human. Disfigured.	探险家日志。新条目：尸鬼是被辐射改变的人类。面目全非。
 Encounter_Random_Message145	Explorer's journal. New Entry. Raiders are everywhere. Stealing. Murdering.	探险家日志。新条目：掠夺者无处不在。偷窃。谋杀。
 Encounter_Random_Message146	Explorer's journal. New Entry. Feral Ghouls are basically zombies. Must avoid.	探险家日志。新条目：狂尸鬼跟僵尸差不多。千万要躲开。
@@ -968,7 +968,7 @@ Encounter_Victory_Creature26	We went toe-to-toe, but the Super Mutant Overlord i
 Encounter_Victory_Creature27	I did it. I killed the Behemoth. I think I'm in shock...	我做到了。我杀死了巨兽。我大概还没缓过神来……
 Encounter_Victory_Creature3	I killed the Bloatfly and it exploded into a thousand pieces. Disgusting.	我杀死了巨大苍蝇，它炸成了一堆碎块。好恶心。
 Encounter_Victory_Creature4	I squashed the Radroach, no problem.	我踩扁了一只辐射蟑螂，小意思。
-Encounter_Victory_Creature5	It was a tough fight, but I killed the Yao Guai.	这是一场艰苦的战斗，但我杀死了妖怪熊。
+Encounter_Victory_Creature5	It was a tough fight, but I killed the Yao Guai.	这是一场艰苦的战斗，但我杀死了妖怪。
 Encounter_Victory_Creature6	I killed the Feral Ghoul. It was him or me.	我杀死了狂尸鬼。不是它死，就是我亡。
 Encounter_Victory_Creature7	I've got some cuts and bruises, but the Giant Ant is dead.	我受了些皮肉伤，但巨型蚂蚁死了。
 Encounter_Victory_Creature8	I killed the Scavenger's Dog. Sad, but I had no choice.	我杀死了拾荒者的狗。很难过，但我别无选择。
@@ -996,7 +996,7 @@ Encounter_Victory_NPC2	I stopped the bleeding and calmed him down. Looks like he
 Encounter_Victory_NPC3	The Ghoul gave me supplies... and some much needed friendship.	尸鬼给了我一些物资……还有我最需要的友谊。
 Encounter_Victory_NPC4	We struck a deal, and parted on good terms.	我们做成了一笔交易，好聚好散。
 Encounter_Victory_NPC5	I put the Talon Company Mercs at ease. We traded stories, and parted as friends.	我让鹰爪公司佣兵放下了戒心。我们互相讲了讲各自的经历，分别时已经成了朋友。
-Encounter_Victory_NPC6	I helped the Hunter locate and kill the Yao Guai.	我帮助猎人找到了妖怪熊并杀死了它。
+Encounter_Victory_NPC6	I helped the Hunter locate and kill the Yao Guai.	我帮助猎人找到了妖怪并杀死了它。
 Encounter_Victory_NPC7	The Drunken Drifter passed out. More for me!	醉酒的流浪者喝断片了。剩下的都归我！
 Encounter_Victory_NPC8	The Brotherhood Patrol took pity on me and gave me some supplies.	兄弟会巡逻队很同情我，给了我一些物资。
 Encounter_Victory_NPC9	I successfully brought the Lost Farmer to the settlement. He's safe now.	我成功地把迷路的农民送到了定居点。他现在安全了。
@@ -2100,27 +2100,27 @@ The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hi
 
 You can see the mandatory and optional Quest objectives by pressing [Y].
 
-When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务允许您探索新的地点，遇见新的居民和收集战利品。
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务能让您探索新的地点，遇见新的居民和收集战利品。
 
-建造监督者办公室，从您的避难所里派出一队居民去完成任务。
+建造监督者办公室来派遣居民小队去完成任务。
 
-要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。
+按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。
 
-在任务中，通过选择您希望居民前往的房间来探索地点。
+在任务中，选择您希望居民前往的房间即可探索地点。
 
-居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。
+居民会自动战斗，但您可以命令选定的居民攻击一个特定目标：按住使目标出现，然后选择敌人。
 
-当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。
+居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。
 
-当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。
+当选中一个居民时，用左摇杆选择勾形图标，按住来释放一次致命暴击。
 
-按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。
+当箭头出现在十字线的中心时，按下来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。
 
-居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
+居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。
 
-按可以查看必须完成和可选完成的任务目标。
+按下来查看必须和选择性完成的任务目标。
 
-当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
+当您结束探险时，可以从任务目标里让任务小队返回避难所。"
 Help_Page26_MainText_Switch	"Quests allow you to explore new locations, meet new Dwellers and collect loot.
 
 Build the Overseer's Office room to send teams of Dwellers from your Vault on Quests.
@@ -2141,27 +2141,27 @@ The Critical Hit meter fills faster for higher Luck Dwellers and the Critical Hi
 
 You can see the mandatory and optional Quest objectives by pressing [Y].
 
-When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务允许您探索新的地点，遇见新的居民和收集战利品。
+When you're done exploring, return the Quest team to the Vault from the Quest objectives."	"任务能让您探索新的地点，遇见新的居民和收集战利品。
 
-建造监督者办公室，从您的避难所里派出一队居民去完成任务。
+建造监督者办公室来派遣居民小队去完成任务。
 
-要访问任务列表，在监督者的办公室按或从哔哔小子选择地图图标。任务列表显示您的可用任务、奖励、需求和状态。
+按下监督者办公室里的或者哔哔小子上的地图图标来进入任务列表。任务列表会显示您现在可以执行的任务，以及相对应的奖励，要求和状态。
 
-在任务中，通过选择您希望居民前往的房间来探索地点。
+在任务中，选择您希望居民前往的房间即可探索地点。
 
-居民在战斗中自动战斗，但您可以命令一个选定的居民攻击一个特定的敌人，只需按住使一个目标出现，然后选择一个敌人。
+居民会自动战斗，但您可以命令选定的居民攻击一个特定目标：按住使目标出现，然后选择敌人。
 
-当您的居民战斗，他们将显示一个暴击计量器；时机成熟时，一个复选标记图标将出现在您的居民正攻击的敌人身上。
+居民在战斗时会出现一个暴击蓄力器；一旦准备好，居民攻击的敌人上方会出现一个勾形图标。
 
-当一个居民被选中后，用左摇杆选择复选标记，然后按住发动致命一击。
+当选中一个居民时，用左摇杆选择勾形图标，按住来释放一次致命暴击。
 
-按以停止出现的移动的箭头；箭头越靠近十字线的中心，您的致命一击的伤害倍数就越高。
+当箭头出现在十字线的中心时，按下来停下移动的箭头。离中心越近，暴击伤害的倍率就越高。
 
-居民的运气属性越高，暴击计量器填充得越快，您的居民观察力越高，暴击箭头移动得就越慢。
+居民的运气（L）属性越高，暴击蓄力器的恢复速度也就越快。居民的观察力（P）属性越高，箭头移动的速度越慢。
 
-按可以查看必须完成和可选完成的任务目标。
+按下来查看必须和选择性完成的任务目标。
 
-当您完成探索后，可通过任务目标界面将任务小队召回避难所。"
+当您结束探险时，可以从任务目标里让任务小队返回避难所。"
 Help_Page26_MainText_Xbox	"Quests allow you to explore new locations, meet new Dwellers and collect loot.
 
 Build the Overseer's Office room to send teams of Dwellers from your Vault on Quests.
@@ -2391,7 +2391,7 @@ Junk_Name_ToyCar	Toy Car	玩具车
 Junk_Name_TriFoldFlag	Tri-Fold Flag	三色旗
 Junk_Name_Ultracite	Ultracite	辐射极琉矿
 Junk_Name_Wonderglue	Wonderglue	神奇胶水
-Junk_Name_YaoGuaiHide	Yao Guai Hide	妖怪熊皮
+Junk_Name_YaoGuaiHide	Yao Guai Hide	妖怪皮
 Junk_Name_Yarn	Yarn	纱线
 KeyboardMapping_ActivateRoom	Room Action	房间行动
 KeyboardMapping_EnterVault	Enter Vault	进入避难所
@@ -2502,7 +2502,7 @@ Legendary Pet (0.3%)
 CAPS (32.6%)"	"稀有居民 (20.0%)
 传奇居民 (4.9%)
 巧手先生 (0.2%)
-咔嚓 (0.02%)
+咔嚓先生 (0.02%)
 稀有武器 (13.2%)
 传奇武器 (7.1%)
 稀有护甲 (12.9%)
@@ -3011,8 +3011,8 @@ Message_Tutorial_64	You can also use {NUKA-COLA QUANTUM} to skip {OBJECTIVES} in
 Message_Tutorial_65	{QUESTS} allow you to explore new locations, meet new {DWELLERS} and collect {LOOT}. The {MAP ICON} in the upper right corner will display your {QUEST OBJECTIVES}.	{任务}能让您探索新的地点，认识新{居民}和收集{战利品}。右上角的{地图图标}会显示您的{任务目标}。
 Message_Tutorial_66	Your Dweller(s) will automatically leave the Vault to begin the Quest.	您的居民会自动离开避难所，开始执行任务。
 Message_Tutorial_67	If you don't want any new Dwellers, you can {STOP} the {RADIO STUDIO} from calling out. It will still broadcast in the Vault and boost {HAPPINESS}.	如果不需要任何新居民，您可以{关闭}{广播站}的对外召唤功能，但其仍能在避难所内部播放广播，提升居民{幸福度}。
-Message_Tutorial_68	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
-Message_Tutorial_68_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要派遣一个{居民}，{点击}并{按住}居民，然后将他们{拖拽}到一个房间。试试将这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_68	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
+Message_Tutorial_68_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
 Message_Tutorial_68_PS4	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
 Message_Tutorial_68_Switch	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
 Message_Tutorial_68_Xbox	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
@@ -3122,7 +3122,7 @@ MrHandyDialog_Generic_18	Sometimes these humans feel like characters in a video 
 MrHandyDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	不得不承认，对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
 MrHandyDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，快看，一层灰。毕竟，谁会不喜欢清理人类掉的毛发和皮屑呢。
 MrHandyDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	讲笑话时间！把根汁啤酒“开平方”，会得到什么？——啤酒！哦，我能把自己笑死……
-MrHandyDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了棱镜监狱。懂吗？棱镜？
+MrHandyDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？
 MrHandyDialog_Generic_23	They say there are 10 different kinds of people in the world. Those who understand binary... and those who don't.	他们说世界上有10种人。懂二进制的和不懂二进制的。
 MrHandyDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我本来大概会有一个生活小康的郊区家庭要照顾……
 MrHandyDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？放马过来吧，人类！
@@ -3189,7 +3189,7 @@ MrHandyDialog_Wasteland_23	For an emotionless metal automaton, I suddenly find m
 MrHandyDialog_Wasteland_24	Hello! Yes you, sir! I was wondering if... Oh. You're a corpse. Well then. Carry on.	你好！是的，就是你，先生！我想知道……哦，你是具尸体。好吧，没事了。
 MrHandyDialog_Wasteland_25	Sensors indicate... Yes. That's a Super Mutant. And yes, I am now headed in the opposite direction...	探测器显示……没错，那是个超级变种人。而且没错，我现在正朝反方向走……
 MrHandyDialog_Wasteland_26	You can say one thing about humans – they sure know how to destroy themselves.	人类有一件事做得很好——他们非常擅长自我毁灭。
-MrHandyDialog_Wasteland_27	And to think, humans worried that robots would turn against them. They turned against themselves just fine...	想想看，人类还担心机器人会反叛他们呢。他们自己反目成仇，倒是干得挺漂亮的……
+MrHandyDialog_Wasteland_27	And to think, humans worried that robots would turn against them. They turned against themselves just fine...	想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……
 MrHandyDialog_Wasteland_28	If I go home empty handed I'll never hear the end of it...	要是我空手而归，估计会被人唠叨个没完没了……
 MrHandyDialog_Wasteland_29	Scavenging the Wasteland like some sort of peasant. I'm better than this.	像个乡巴佬一样在废土上捡破烂？我可不该沦落到这个地步。
 MrHandyDialog_Wasteland_3	Of course. Send the domestic servant into a deadly post-apocalyptic Wasteland. What could possibly go wrong?	当然。派个家务佣人去致命的末世废土。还能出什么岔子呢？
@@ -3207,7 +3207,7 @@ MrHandyDialog_Wasteland_4	Send the robot, they said. He'll be fine, they said. B
 MrHandyDialog_Wasteland_40	Overseer? Are you out there? Please, I implore you! Don't... don't let me die.	监督者？你在吗？求你了，别……别让我死在外头啊。
 MrHandyDialog_Wasteland_41	Oh for Heaven's sake, I'm a domestic robot, not a bloody tank. What am I even doing out here?!	拜托，我是一个家务机器人，又不是一辆坦克。我来这干什么？！
 MrHandyDialog_Wasteland_42	I'll find what I find, then head back. No heroics! Not for this Mister Handy!	找到什么算什么，然后就回去。英雄主义什么的可不适合像我这样的巧手先生！
-MrHandyDialog_Wasteland_43	Agh! A Deathclaw! Retreat! I'm a lover not a fighter!	啊！死爪！快跑！我只擅长爱人，不擅长打架！
+MrHandyDialog_Wasteland_43	Agh! A Deathclaw! Retreat! I'm a lover not a fighter!	啊！死爪！快跑！我只会谈情说爱，不会打打杀杀！
 MrHandyDialog_Wasteland_44	Guess I'll head this way.	那就走这边吧。
 MrHandyDialog_Wasteland_45	This direction looks as good as any.	这边跟其他方向也半斤八两。
 MrHandyDialog_Wasteland_46	Hmmm. Left or right? I think... right.	嗯，左还是右？我猜是往……右。
@@ -3279,7 +3279,7 @@ MrHandy_ContentLine1	Automatically collects resources from Vault and CAPS from t
 MrHandy_ContentLine2	[Content line 2]	[内容线2]
 MrHandy_ContentOdds	"Mr. Handy (92%)
 Snip Snip (8%)"	"巧手先生 (92%)
-咔嚓 (8%)"
+咔嚓先生 (8%)"
 MrHandy_ContentRedeemTitle1	Mr. Handy	巧手先生
 MrHandy_ContentRedeemTitle2	Bundle of 5 Mr. Handys	5个巧手先生
 MrHandy_ContentTitle1	Mr. Handy	巧手先生
@@ -3725,7 +3725,7 @@ Outfit_Description_SynthArmor_Heavy	Worn by Synths trained for heavy combat.	受
 Outfit_Description_SynthArmor_Sturdy	Institute-sanctioned armor for Wasteland operations.	学院认可的废土用装甲。
 Outfit_Description_Threedog	Fight the good fight... or die tryin'.	好好战斗……或者坚持到死亡那一刻。
 Outfit_Description_TiedBlouse	Ideal for backbreaking farm work and country music performances.	适合繁重的农场劳作或是乡村音乐的表演。
-Outfit_Description_UtilityJumpsuit	A standard Vault Suit modified for the rigors of the Wastes.	一件标准的避难所服装，用来适应废土的严酷环境。
+Outfit_Description_UtilityJumpsuit	A standard Vault Suit modified for the rigors of the Wastes.	一件标准的避难所制服，用来适应废土的严酷环境。
 Outfit_Description_UtilityJumpsuit_Heavy	Usually reserved for Vault Overseers and their families.	通常是给监督者和他们的家人们准备的。
 Outfit_Description_UtilityJumpsuit_Sturdy	The height of Vault-Tec fashion, reinforced for the Wastes.	避难所科技时尚的标杆，为适合在废土生存而强化过。
 Outfit_Description_ValentinesTrenchCoat	The coat looks worn, like it's seen too much and plans on seeing more.	这件风衣看起来很旧，仿佛见证过太多，还打算继续见证下去。
@@ -3848,7 +3848,7 @@ Outfit_Name_MoldaversArmor	Moldaver's Armor	莫尔达弗的装甲
 Outfit_Name_MoviefanSpecial	Movie Fan Outfit	电影迷服
 Outfit_Name_MrBurkeSpecial	Mr. Burke's Businesswear	伯克先生商务装
 Outfit_Name_MrHousesSuit	Mr. House's Suit	豪斯先生的西装
-Outfit_Name_NCRPowerArmor	NCR Power Armor	NCR动力装甲
+Outfit_Name_NCRPowerArmor	NCR Power Armor	新加州共和国动力装甲
 Outfit_Name_NCR_Ranger	NCR Ranger Outfit	新加州共和国游骑兵制服
 Outfit_Name_NinjaSuit	Ninja Outfit	忍者装
 Outfit_Name_OrionsExplorerGear	Orion's Explorer Gear	奥赖恩的探险家服装
@@ -3858,17 +3858,17 @@ Outfit_Name_PaladinDansesPowerArmorWithHelmet	Paladin Danse's Power Armor	圣骑
 Outfit_Name_PaladinJacket	BoS Paladin Jacket	兄弟会圣骑士夹克
 Outfit_Name_PiperSpecial	Piper's Outfit	派普装备
 Outfit_Name_PolkaDotDress	Polka Dot Sundress	圆点花纹背心裙
-Outfit_Name_PowerArmor	T-45a Power Armor	t-45a动力装甲
-Outfit_Name_PowerArmor_51a	T-51a Power Armor	t-51a动力装甲
-Outfit_Name_PowerArmor_51d	T-51d Power Armor	t-51d动力装甲
-Outfit_Name_PowerArmor_51f	T-51f Power Armor	t-51f动力装甲
+Outfit_Name_PowerArmor	T-45a Power Armor	T-45A 动力装甲
+Outfit_Name_PowerArmor_51a	T-51a Power Armor	T-51A 动力装甲
+Outfit_Name_PowerArmor_51d	T-51d Power Armor	T-51D 动力装甲
+Outfit_Name_PowerArmor_51f	T-51f Power Armor	T-51F 动力装甲
 Outfit_Name_PowerArmor_MkI	X-01 Mk I Power Armor	x-01 MK I 动力装甲
 Outfit_Name_PowerArmor_MkIV	X-01 Mk IV Power Armor	x-01 MK IV动力装甲
 Outfit_Name_PowerArmor_MkVI	X-01 Mk VI Power Armor	x-01 Mk VI动力装甲
-Outfit_Name_PowerArmor_T45d	T-45d Power Armor	t-45d动力装甲
-Outfit_Name_PowerArmor_T45f	T-45f Power Armor	t-45f动力装甲
-Outfit_Name_PowerArmor_T60a	T-60a Power Armor	t-60a动力装甲
-Outfit_Name_PowerArmor_T60d	T-60d Power Armor	t-60d动力装甲
+Outfit_Name_PowerArmor_T45d	T-45d Power Armor	T-45D 动力装甲
+Outfit_Name_PowerArmor_T45f	T-45f Power Armor	T-45F 动力装甲
+Outfit_Name_PowerArmor_T60a	T-60a Power Armor	T-60A 动力装甲
+Outfit_Name_PowerArmor_T60d	T-60d Power Armor	T-60D 动力装甲
 Outfit_Name_PowerArmor_T60f	T-60f Power Armor	T-60f动力装甲
 Outfit_Name_PrestonSpecial	Minuteman Uniform	义勇军民兵制服
 Outfit_Name_PrewarCowboy	Prewar Cowboy Costume	战前牛仔装
@@ -3925,9 +3925,9 @@ Outfit_Name_SynthArmor_Heavy	Heavy Synth Armor	重型合成人装甲
 Outfit_Name_SynthArmor_Sturdy	Sturdy Synth Armor	坚固合成人装甲
 Outfit_Name_Threedog	Three Dog's Outfit	三狗装备
 Outfit_Name_TiedBlouse	Country Girl	乡村女孩装
-Outfit_Name_UtilityJumpsuit	Armored Vault Suit	避难所装甲套装
-Outfit_Name_UtilityJumpsuit_Heavy	Heavy Vault Suit	重型避难所套装
-Outfit_Name_UtilityJumpsuit_Sturdy	Sturdy Vault Suit	坚固避难所套装
+Outfit_Name_UtilityJumpsuit	Armored Vault Suit	装甲避难所制服
+Outfit_Name_UtilityJumpsuit_Heavy	Heavy Vault Suit	重型避难所制服
+Outfit_Name_UtilityJumpsuit_Sturdy	Sturdy Vault Suit	坚固避难所制服
 Outfit_Name_ValentinesTrenchCoat	Valentine's Trench Coat	瓦伦坦的风衣
 Outfit_Name_Vault33Suit	Vault 33 Suit	33号避难所制服
 Outfit_Name_VaultSecurityOutfit	Vault Security Outfit	避难所保安制服
@@ -3954,7 +3954,7 @@ Outfit_Name_costume_07	Casual07	休闲服07
 Outfit_Name_costume_08	Casual08	休闲服08
 Outfit_Name_costume_09	Casual09	休闲服09
 Outfit_Name_costume_10	Casual10	休闲服10
-Outfit_Name_jump	Vault Suit	避难所套装
+Outfit_Name_jump	Vault Suit	避难所制服
 Overseer	Overseer	监督者
 Parent_Message	By the proud parents	骄傲的父母
 PetCarrier_ContentLine1	1 Common, Rare or Legendary Pet.	1个普通级，稀有级或传奇级的宠物。
@@ -6386,7 +6386,7 @@ QuestLoc_ExtremePrejudice_Conversation_3_NPCEnd_3	Never heard of fist prints bef
 QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_1	I'm sorry, but we need to check your ID.	对不起，我们需要检查您的身份证。
 QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_2	Apparently someone has been trying to infiltrate this Vault.	显然有人一直试图渗透进这个避难所。
 QuestLoc_ExtremePrejudice_Conversation_3_NPCStart_3	Infiltrate...with extreme prejudice.	用极端偏见……来渗透。
-QuestLoc_ExtremePrejudice_Conversation_3_Team_1	I left it in my other Vault Suit.	我把它留在我的另一个避难所套装里了。
+QuestLoc_ExtremePrejudice_Conversation_3_Team_1	I left it in my other Vault Suit.	我把它留在我的另一个避难所制服里了。
 QuestLoc_ExtremePrejudice_Conversation_3_Team_2	What does that mean anyway, “extreme prejudice”?	“极端偏见”到底什么意思？
 QuestLoc_ExtremePrejudice_Conversation_3_Team_3	Does my fist count as ID?	我的拳头算身份证吗？
 QuestLoc_ExtremePrejudice_Conversation_4_NPCEnd_1	Pffft. Good luck!	切。祝你好运！
@@ -6728,7 +6728,7 @@ QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_2	Good guess, but no. So... Los
 QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真厉害！你答对了！你赢下了……“掉脑袋”！
 QuestLoc_GameShowGauntletB_Conversation_4_NPCEnd_4	He's a dog. Your dog. Just for that... Lose Your Head!	它是一只狗，你的狗。因为这个，准备“掉脑袋”吧！
 QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
-QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2	Who is the DJ for Galaxy News Radio?	谁是银河广播电台的DJ？
+QuestLoc_GameShowGauntletB_Conversation_4_NPCStart_2	Who is the DJ for Galaxy News Radio?	谁是银河新闻电台的DJ？
 QuestLoc_GameShowGauntletB_Conversation_4_Team_1	Dogman.	狗人。
 QuestLoc_GameShowGauntletB_Conversation_4_Team_2	Big Dog.	大狗。
 QuestLoc_GameShowGauntletB_Conversation_4_Team_3	Three Dog.	三狗。
@@ -6817,7 +6817,7 @@ QuestLoc_GameShowGauntletD_Conversation_3_Team_3	Robots.	机器人。
 QuestLoc_GameShowGauntletD_Conversation_3_Team_4	Armored donkeys.	穿上装甲的驴子。
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_1	Oh, so close. But so wrong. Time to... Lose Your Head!	哦，很接近了。但还是错。该……“掉脑袋”了！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_2	I have no idea what that is. So... Lose Your Head!	根本不知道你说的是什么。所以……准备“掉脑袋”吧！
-QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真不错！你说对了！你赢了……该“掉脑袋”了！
+QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_3	Amazing! You got it right! You've won... Lose Your Head!	真厉害！你答对了！你赢下了……“掉脑袋”！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCEnd_4	I'm sick and tired of donkey jokes. Lose Your Head!	我受够了驴子的笑话。来“掉脑袋”吧！
 QuestLoc_GameShowGauntletD_Conversation_4_NPCStart_1	Now for the final round.	现在到了最后回合。
 QuestLoc_GameShowGauntletD_Conversation_4_NPCStart_2	What were the Brotherhood of Steel seeking at Mass Fusion HQ?	钢铁兄弟会在大核融合总部寻找什么？
@@ -7460,19 +7460,19 @@ QuestLoc_GuardianoftheWastes:Deathclaws_QuestLongDescription	Let's do our part t
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestName	Guardian of the Wastes: Deathclaws!	废土守卫者：死爪！
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestObjective_1	Kill the Alpha Deathclaw.	消灭领头死爪。
 QuestLoc_GuardianoftheWastes:Deathclaws_QuestShortDescription	Exterminate the Deathclaws.	剿灭死爪。
-QuestLoc_GuardianoftheWastes:FeralGhouls_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:FeralGhouls_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestName	Guardian of the Wastes: Feral Ghouls!	废土守卫者：狂尸鬼！
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestObjective_1	Kill the Glowing One.	消灭发光种。
 QuestLoc_GuardianoftheWastes:FeralGhouls_QuestShortDescription	Show the Feral Ghouls no mercy.	对狂尸鬼绝不心慈手软。
-QuestLoc_GuardianoftheWastes:MoleRats_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:MoleRats_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！
 QuestLoc_GuardianoftheWastes:MoleRats_QuestName	Guardian of the Wastes: Mole Rats!	废土守卫者：鼹鼠！
 QuestLoc_GuardianoftheWastes:MoleRats_QuestObjective_1	Kill the Mole rat brood mother.	消灭鼹鼠妈妈。
 QuestLoc_GuardianoftheWastes:MoleRats_QuestShortDescription	Get rid of those pesky Mole rats.	除掉这些可恶的鼹鼠。
-QuestLoc_GuardianoftheWastes:Radroaches_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:Radroaches_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！
 QuestLoc_GuardianoftheWastes:Radroaches_QuestName	Guardian of the Wastes: Radroaches!	废土守卫者：辐射蟑螂！
 QuestLoc_GuardianoftheWastes:Radroaches_QuestObjective_1	Kill the Glowing Radroach.	消灭发光辐射蟑螂。
 QuestLoc_GuardianoftheWastes:Radroaches_QuestShortDescription	Clear out the nest of Radroaches.	清理辐射蟑螂窝。
-QuestLoc_GuardianoftheWastes:Radscorpions_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	让我们为保卫废土尽一份力。清理掉那一窝危险的，被辐射过的生物吧！
+QuestLoc_GuardianoftheWastes:Radscorpions_QuestLongDescription	Let's do our part to protect the Wasteland by clearing out a nearby nest of dangerous, irradiated creatures!	我们也该为保卫废土出份力——去清掉附近那窝又危险又受辐射的生物吧！
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestName	Guardian of the Wastes: Radscorpions!	废土守卫者：辐射蝎！
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestObjective_1	Kill the Glowing Radscorpion.	消灭发光辐射蝎。
 QuestLoc_GuardianoftheWastes:Radscorpions_QuestShortDescription	Eradicate the Radscorpions.	根除辐射蝎。
@@ -8804,7 +8804,7 @@ QuestLoc_JustDeserts_Conversation_5_Team_4	Death's Jacket (P/E/A/L +4)	“死亡
 QuestLoc_JustDeserts_QuestLongDescription	The Vault received an anonymous message promising to reveal the secret origin of the Horsemen. The location it gives is far into the Wasteland, but it's worth the risk to find out what this person has to say.	避难所收到一封匿名信，声称要揭示末日骑士的秘密起源。信中所说位置在废土深处，但为了弄明白这人想说些什么，冒这个险也值得。
 QuestLoc_JustDeserts_QuestName	Just Deserts	罪有应得
 QuestLoc_JustDeserts_QuestObjective_1	Discover the origin of the Horsemen.	查明末日骑士的起源。
-QuestLoc_JustDeserts_QuestShortDescription	Discover the origin of the Horsemen.	探索骑士的起源。
+QuestLoc_JustDeserts_QuestShortDescription	Discover the origin of the Horsemen.	查明末日骑士的起源。
 QuestLoc_JuuussstttaBitOutside_Conversation_1_NPCStart_1	The Jersey's not here. Rats.	棒球衫不在这里。烦人。
 QuestLoc_JuuussstttaBitOutside_QuestLongDescription	Okay, so the Raiders didn't lead us to Coach. It was worth a shot. Maybe he's taking a nap in the old mattress factory!	好吧，所以掠夺者没能带我们找到教练。但还是值得一试。也许他会在旧的床垫厂小睡一会儿。
 QuestLoc_JuuussstttaBitOutside_QuestName	Juuusssttt... a Bit Outside	就……稍偏外一点
@@ -10446,7 +10446,7 @@ QuestLoc_SantasHelpers_Conversation_1_Team_2	You know what? We're telling Santa 
 QuestLoc_SantasHelpers_Conversation_2_NPCEnd_1	We believe in Santa! Here. Give him this if you see him!	我们相信圣诞老人！来拿着，如果你们看到他就把这个给他！
 QuestLoc_SantasHelpers_Conversation_2_NPCEnd_2	Santa's Helpers are mean! Get out of our Vault!	圣诞老人的帮手也太坏了吧！快滚出我们的避难所！
 QuestLoc_SantasHelpers_Conversation_2_NPCStart_1	Hello, Santa's Helpers! We've been a very good Vault this year!	你们好！圣诞的帮手们！我们避难所今年表现得很好哦！
-QuestLoc_SantasHelpers_Conversation_2_NPCStart_2	Tell Santa we'd really like some new Vault Suits!	告诉圣诞老人我们真的需要一些新的避难所套装！
+QuestLoc_SantasHelpers_Conversation_2_NPCStart_2	Tell Santa we'd really like some new Vault Suits!	告诉圣诞老人我们真的需要一些新的避难所制服！
 QuestLoc_SantasHelpers_Conversation_2_NPCStart_3	Oooh, and some Water Chips!	哦，还要一些水质芯片！
 QuestLoc_SantasHelpers_Conversation_2_Team_1	Santa's coming, but you gotta believe in him, or he won't show!	圣诞老人来了，但是你们要相信他，不然他不会出现的！
 QuestLoc_SantasHelpers_Conversation_2_Team_2	Nope. Naughty list for you.	才不要。恐怕你要上“坏孩子”名单。
@@ -11036,7 +11036,7 @@ QuestLoc_SpyonRaiders_Conversation_3A_Team_1	That's right, and we'd love some ne
 QuestLoc_SpyonRaiders_Conversation_3A_Team_2	We need medical supplies, Boss!	老大！我们想要点医疗物资！
 QuestLoc_SpyonRaiders_Conversation_3A_Team_3	How about some Junk? We're feeling crafty.	能给我们点杂物么？我们想造东西。
 QuestLoc_SpyonRaiders_Conversation_3A_Team_4	Die Raider scum!	去死吧，你们这些掠夺者人渣！
-QuestLoc_SpyonRaiders_Conversation_3B_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去致伤致残吧！
+QuestLoc_SpyonRaiders_Conversation_3B_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去大闹一场吧！
 QuestLoc_SpyonRaiders_Conversation_3B_NPCEnd_2	Very well. Here. Take this and go!	很好。拿上这个然后出发吧！
 QuestLoc_SpyonRaiders_Conversation_3B_NPCEnd_3	I suppose we can spare some supplies. Now go!	我想我们总会有点多余的物资。拿上然后去吧！
 QuestLoc_SpyonRaiders_Conversation_3B_NPCEnd_4	What treachery is this!?	这是玩的哪一出？！
@@ -11046,7 +11046,7 @@ QuestLoc_SpyonRaiders_Conversation_3B_Team_1	That's right, and we'd love some ne
 QuestLoc_SpyonRaiders_Conversation_3B_Team_2	We need medical supplies, Boss!	老大！我们想要点医疗物资！
 QuestLoc_SpyonRaiders_Conversation_3B_Team_3	How about some Junk? We're feeling crafty.	能给我们点杂物么？我们想造东西。
 QuestLoc_SpyonRaiders_Conversation_3B_Team_4	Die Raider scum!	去死吧，你们这些掠夺者人渣！
-QuestLoc_SpyonRaiders_Conversation_3C_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去致伤致残吧！
+QuestLoc_SpyonRaiders_Conversation_3C_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去大闹一场吧！
 QuestLoc_SpyonRaiders_Conversation_3C_NPCEnd_2	Very well. Here. Take this and go!	很好。拿上这个然后出发吧！
 QuestLoc_SpyonRaiders_Conversation_3C_NPCEnd_3	I suppose we can spare some supplies. Now go!	我想我们总会有点多余的物资。拿上然后去吧！
 QuestLoc_SpyonRaiders_Conversation_3C_NPCEnd_4	What treachery is this!?	这是玩的哪一出？！
@@ -11056,7 +11056,7 @@ QuestLoc_SpyonRaiders_Conversation_3C_Team_1	That's right, and we'd love some ne
 QuestLoc_SpyonRaiders_Conversation_3C_Team_2	We need medical supplies, Boss!	老大！我们想要点医疗物资！
 QuestLoc_SpyonRaiders_Conversation_3C_Team_3	How about some Junk? We're feeling crafty.	能给我们点杂物么？我们想造东西。
 QuestLoc_SpyonRaiders_Conversation_3C_Team_4	Die Raider scum!	去死吧，你们这些掠夺者人渣！
-QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去致伤致残吧！
+QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去大闹一场吧！
 QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_2	Very well. Here. Take this and go!	很好。拿上这个然后出发吧！
 QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_3	I suppose we can spare some supplies. Now go!	我想我们总会有点多余的物资。拿上然后去吧！
 QuestLoc_SpyonRaiders_Conversation_3D_NPCEnd_4	What treachery is this!?	这是玩的哪一出？！
@@ -11066,7 +11066,7 @@ QuestLoc_SpyonRaiders_Conversation_3D_Team_1	That's right, and we'd love some ne
 QuestLoc_SpyonRaiders_Conversation_3D_Team_2	We need medical supplies, Boss!	老大！我们想要点医疗物资！
 QuestLoc_SpyonRaiders_Conversation_3D_Team_3	How about some Junk? We're feeling crafty.	能给我们点杂物么？我们想造东西。
 QuestLoc_SpyonRaiders_Conversation_3D_Team_4	Die Raider scum!	去死吧，你们这些掠夺者人渣！
-QuestLoc_SpyonRaiders_Conversation_3E_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去致伤致残吧！
+QuestLoc_SpyonRaiders_Conversation_3E_NPCEnd_1	Good. Now go and cause mayhem!	很好。现在去大闹一场吧！
 QuestLoc_SpyonRaiders_Conversation_3E_NPCEnd_2	Very well. Here. Take this and go!	很好。拿上这个然后出发吧！
 QuestLoc_SpyonRaiders_Conversation_3E_NPCEnd_3	I suppose we can spare some supplies. Now go!	我想我们总会有点多余的物资。拿上然后去吧！
 QuestLoc_SpyonRaiders_Conversation_3E_NPCEnd_4	What treachery is this!?	这是玩的哪一出？！
@@ -11570,7 +11570,7 @@ QuestLoc_TheMoleRatMan_QuestShortDescription	Confront Mole Rat Man at his base.	
 QuestLoc_TheMostDangerousGame_Conversation_1_NPCStart_1	You're the Vault Dwellers who're hunting everything, ain't ya?	你们就是那些猎杀一切的避难所居民，对吧？
 QuestLoc_TheMostDangerousGame_Conversation_1_NPCStart_2	Well, I'm nobody's trophy!	但，我可不是任何人的战利品！
 QuestLoc_TheMostDangerousGame_Conversation_1_NPCStart_3	I'm gonna mount your head on my wall!	我会把你们的脑袋挂在我的墙上！
-QuestLoc_TheMostDangerousGame_QuestLongDescription	Looks like you need a bigger challenge. How about hunting some humans for a change? This time you can only wear your Vault suits.	看起来你需要更大的挑战，要不要试试猎杀一下人类？这次你只能穿你的避难所套装。
+QuestLoc_TheMostDangerousGame_QuestLongDescription	Looks like you need a bigger challenge. How about hunting some humans for a change? This time you can only wear your Vault suits.	看起来你需要更大的挑战，要不要试试猎杀一下人类？这次你只能穿你的避难所制服。
 QuestLoc_TheMostDangerousGame_QuestName	The Most Dangerous Game	最危险的游戏
 QuestLoc_TheMostDangerousGame_QuestObjective_1	Kill the Raider Boss.	消灭掠夺者首领。
 QuestLoc_TheMostDangerousGame_QuestShortDescription	Kill the Raider Boss.	消灭掠夺者首领。
@@ -13142,7 +13142,7 @@ Shop_SeasonPass_Enclave_Blurb	"Unlock all the Season rewards:
 - 新的英克雷避难所房间[-][F7C531]主题[-]
 - [-][F7C531]新居民[-]及[-][F7C531]更多！[-]"
 Shop_SeasonPass_Enclave_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, two Enclave room THEMES, a new Legendary Dweller and more. You can claim the rewards in ALL your vaults.	使用此通行证充分享受赛季乐趣。解锁高级奖励赛道，内含避难所外观主题、两款英克雷房间主题、一名全新传奇居民等丰富奖励。您可以在您的所有避难所中领取这些奖励。
-Shop_SeasonPass_Enclave_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, new Cyberdog pet, new Enclave Officer Uniform, Autumn's Uniform, Heavy Vault Suit, Mutant Hunter Gear, Dragon's Maw, 2 Pet Carriers and 5,000 Caps.	将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新赛博狗宠物、全新英克雷军官制服、奥特姆上校的制服、重型避难所连体服、变种人猎人装备、“龙胃”等离子喷枪、2个宠物笼子和5000瓶盖。
+Shop_SeasonPass_Enclave_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, new Cyberdog pet, new Enclave Officer Uniform, Autumn's Uniform, Heavy Vault Suit, Mutant Hunter Gear, Dragon's Maw, 2 Pet Carriers and 5,000 Caps.	将您的赛季通行证提升至更高等级。获得普通通行证的所有特权，外加以下内容：25枚赛季徽章、全新赛博狗宠物、全新英克雷军官制服、奥特姆上校的制服、重型避难所制服、变种人猎人装备、“龙胃”等离子喷枪、2个宠物笼子和5000瓶盖。
 Shop_SeasonPass_InstitutePremium_Blurb	"All the Benefits of the Season Pass plus:
   • Exclusive [-][F7C531]CURIE MISS NANNY[-] and [-][F7C531]NICK VALENTINE[-]
   • [-][F7C531]BONUS[-] Pets, Outfits and Weapons
@@ -13174,7 +13174,7 @@ Shop_SeasonPass_NewVegasA_Blurb	"Unlock all the Season rewards:
 - 全新核子可乐装瓶室[-][F7C531]主题[-]
 - [-][F7C531]新居民[-]及[-][F7C531]更多！[-]"
 Shop_SeasonPass_NewVegasA_Description	Get the most out of the season with this pass. Unlock the premium reward track, which includes a Vault Exterior THEME, a Sunset Sarsaparilla Bottler THEME, new Legendary Dwellers and more. You can claim the rewards in ALL your vaults.	用通行证获取赛季最大收益。解锁高级奖励赛道，包含避难所外观主题、日落沙士装瓶厂主题、新传奇居民等更多内容。奖励可在所有避难所领取。
-Shop_SeasonPass_NewVegasA_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Mr. House, Maximus' Jacket, a T-45d Power Armor, a Sleek Suit, an Expert Jumpsuit, a Technician's Revenge, 2 Pet Carriers and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、豪斯先生、马克西姆斯夹克、T-45d动力装甲、修身西装、专家连身服、技术人员的报复、2个宠物笼子，以及5000瓶盖。
+Shop_SeasonPass_NewVegasA_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Mr. House, Maximus' Jacket, a T-45d Power Armor, a Sleek Suit, an Expert Jumpsuit, a Technician's Revenge, 2 Pet Carriers and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、豪斯先生、马克西姆斯夹克、T-45d 动力装甲、修身西装、专家连身服、技术人员的报复、2个宠物笼子，以及5000瓶盖。
 Shop_SeasonPass_NewVegasBPremium_Blurb	"All the benefits of the Season Pass plus:
 - Exclusive [-][F7C531]VICTOR ASSISTANT[-] and [-][F7C531]OUTFIT[-]
 - [-][F7C531]BONUS[-] Pets, Outfits and Weapon
@@ -13198,7 +13198,7 @@ Shop_SeasonPass_Premium_Blurb	"All the Benefits of the Season Pass plus:
 - 独家[-][F7C531]传奇居民[-]
 - [-][F7C531]额外[-]宠物、装备和武器
 - [-][F7C531]25枚徽章[-]立即提升赛季等级"
-Shop_SeasonPass_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Cait and Zeke, a T-60f Power Armor, a Heavy Battle Armor, a Commander Uniform, 2 Pet Carriers, an Ultracite Gatling Laser, and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f动力装甲、重型战斗甲、指挥官制服、2个宠物笼子、辐射极琉矿加特林激光枪，以及5000瓶盖。
+Shop_SeasonPass_Premium_Description	Raise your season pass to the next level. Get all the benefits from the regular pass plus the following: 25 Season Badges, Cait and Zeke, a T-60f Power Armor, a Heavy Battle Armor, a Commander Uniform, 2 Pet Carriers, an Ultracite Gatling Laser, and 5,000 Caps.	将赛季通行证提升至新高度。获得普通通行证全部权益，外加以下内容：25枚赛季徽章、凯特和泽克、T-60f 动力装甲、重型战斗甲、指挥官制服、2个宠物笼子、辐射极琉矿加特林激光枪，以及5000瓶盖。
 Shop_SeasonPass_Premium_Title	PREMIUM PASS	高级通行证
 Shop_SeasonPass_Title	SEASON PASS	赛季通行证
 Shop_StarterPack_Line1	Jumpstart your Vault with everything needed to get your underground life started quickly. Includes a Legendary Dweller, 2 Rare Dwellers, a Legendary Pet and a Mr. Handy. Plus Nuka-Cola Quantum and lots of Vault resources. Limit 1 per Vault.	给您配备一切所需，来快速开始地下生活。包括一位传奇居民、两位稀有居民、一只传奇宠物和一位巧手先生，另外还有量子核子可乐和大量避难所资源。每所避难所限购1份。
@@ -13223,7 +13223,7 @@ SnipSnipDialog_GameRoom_02	Hmph. Just let these humans try and beat my high scor
 SnipSnipDialog_Generic_01	If the humans are happy, I'm happy. I swear.	人类开心，我就开心。我发誓。
 SnipSnipDialog_Generic_02	So many humans, so little time.	人类如此之多，我的时间却如此之少。
 SnipSnipDialog_Generic_03	Entombed in cold, unyielding steel. It's robot Heaven.	长眠于冰冷坚硬的钢铁之中——这就是机器人的天堂。
-SnipSnipDialog_Generic_04	My kingdom for an oil bath...	我渴望一场机油浴……
+SnipSnipDialog_Generic_04	My kingdom for an oil bath...	愿用我的整个王国换一场机油浴……
 SnipSnipDialog_Generic_05	If I've told them once, I've told them a thousand times. NO. PEDICURES.	这话我跟他们说过不下一千遍了：不。做。修。脚。
 SnipSnipDialog_Generic_06	Do this, do that. But do I get a “thank you”? Nooooo...	做这个，做那个。可我听过一句“谢谢”吗？没——有……
 SnipSnipDialog_Generic_07	Yes, Overseer, I know you're watching. I'm working as fast as I bloody can...	是的，监督者，我知道你在看着。我已经在拼了命地赶工了……
@@ -13238,12 +13238,12 @@ SnipSnipDialog_Generic_15	Now now, I don't do windows. Oh wait! You don't have a
 SnipSnipDialog_Generic_16	Feeling lazy? You called the right robot! You want it, I'll fetch it.	懒得动？那你可找对机器人了！你想要什么，我去拿。
 SnipSnipDialog_Generic_17	I'll do whatever I can to support you humans' fat, lazy lifestyle.	我会尽我所能支持你们人类肥胖懒惰的生活方式。
 SnipSnipDialog_Generic_18	Sometimes these humans feel like characters in a video game. Incapable of doing anything on their own...	有时候，这些人类感觉就像视频游戏里的角色，无法独立完成任何事情……
-SnipSnipDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
+SnipSnipDialog_Generic_19	I have to admit. For a giant metal hole in the ground, this Vault is exceedingly cozy.	不得不承认，对于地底下这么个巨大的金属坑来说，这个避难所非常舒适。
 SnipSnipDialog_Generic_20	Oh look, a layer of dust. Because who doesn't love cleaning discarded human hair and skin.	哦，快看，一层灰。毕竟，谁会不喜欢清理人类掉的毛发和皮屑呢。
 SnipSnipDialog_Generic_21	Joke time! What do you get when you put root beer in a square glass? Give up? Beer! Oh I slay me...	讲笑话时间！把根汁啤酒“开平方”，会得到什么？——啤酒！哦，我能把自己笑死……
 SnipSnipDialog_Generic_22	You hear about the light that went bad? They put it in prism. Get it? Prism?	听说有个灯泡学坏了？他们把它关进了“棱镜”（prism，谐音监狱 prison）。懂吗？棱镜？
 SnipSnipDialog_Generic_23	They say there are 10 different kinds of people in the world. Those who understand binary... and those who don't.	他们说世界上有10种人。懂二进制的和不懂二进制的。
-SnipSnipDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我可能会照顾一个生活小康的郊区家庭……
+SnipSnipDialog_Generic_24	Before the blasted war, I probably would have had a nice suburban family to take care of...	在那场该死的战争之前，我本来大概会有一个生活小康的郊区家庭要照顾……
 SnipSnipDialog_Generic_25	What's on the agenda for today? Mopping, cooking, dusting, babysitting? Bring it on, humans!	今天的日程是什么？拖地、做饭、除尘、带孩子？放马过来吧，人类！
 SnipSnipDialog_Generic_26	Have hover unit, will travel. Just let me know what you need, people.	自带悬浮单元，说走就走。各位有什么需要，尽管吩咐。
 SnipSnipDialog_Generic_27	Personally, I think all this talk of an “Overseer” is so much rubbish. I've certainly never seen them.	个人认为，关于“监督者”的所有说法都是胡说八道。我从来没有见过他们。
@@ -13269,8 +13269,8 @@ SnipSnipDialog_Generic_46	I wonder if the kitchen needs help. I make a mean flam
 SnipSnipDialog_Generic_47	You humans are dreadfully inefficient. My advice? A graduated robot replacement system.	你们人类效率太低了。我的建议是：逐步用机器人取代人类。
 SnipSnipDialog_Generic_48	I wonder how many humans have died in this place. Just curious. Really.	我想知道有多少人类死在这个地方。只是好奇。真的。
 SnipSnipDialog_Generic_49	Some of you humans are happy, some of you are sad... Consistency, people!	你们人类有的开心，有的伤心……能不能统一一下情绪！
-SnipSnipDialog_Gym_01	That's it, humans. Pump it up!	加油，人类！
-SnipSnipDialog_Gym_02	That's it, humans. Pump it up!	加油，人类！
+SnipSnipDialog_Gym_01	That's it, humans. Pump it up!	这就对了，人类，练起来！
+SnipSnipDialog_Gym_02	That's it, humans. Pump it up!	这就对了，人类，练起来！
 SnipSnipDialog_Hydroponics_01	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
 SnipSnipDialog_Hydroponics_02	Oh, I do so wish they would allow me to tend the garden. I come with all the right attachments.	哦，我真希望他们能让我打理花园。毕竟我自带各种工具。
 SnipSnipDialog_LivingQuarters_01	So this is where the magic happens...	哦，原来“魔法”就是在这种地方变的……
@@ -13320,7 +13320,7 @@ SnipSnipDialog_Wasteland_25	Sensors indicate... Yes. That's a Super Mutant. And 
 SnipSnipDialog_Wasteland_26	You can say one thing about humans – they sure know how to destroy themselves.	人类有一件事做得很好——他们非常擅长自我毁灭。
 SnipSnipDialog_Wasteland_27	And to think, humans worried that robots would turn against them. They turned against themselves just fine...	想想看，人类居然还担心机器人会反叛他们。他们自己反目成仇，倒是干得挺漂亮……
 SnipSnipDialog_Wasteland_28	If I go home empty handed I'll never hear the end of it...	要是我空手而归，估计会被人唠叨个没完没了……
-SnipSnipDialog_Wasteland_29	Scavenging the Wasteland like some sort of peasant. I'm better than this.	像个乡巴佬一样在废土上捡破烂？我可比这强多了。
+SnipSnipDialog_Wasteland_29	Scavenging the Wasteland like some sort of peasant. I'm better than this.	像个乡巴佬一样在废土上捡破烂？我可不该沦落到这个地步。
 SnipSnipDialog_Wasteland_3	Of course. Send the domestic servant into a deadly post-apocalyptic Wasteland. What could possibly go wrong?	当然。派个家务佣人去致命的末世废土。还能出什么岔子呢？
 SnipSnipDialog_Wasteland_30	If my makers at General Atomics International could see me now...	要是通用原子国际的制造者们看到我现在的样子……
 SnipSnipDialog_Wasteland_31	Hellllloooo! Any other robots out heeeerrrreee?	喂~这里有其他机器人吗？
@@ -13402,7 +13402,7 @@ SnipSnipDialog_WaterPlant_01	I'm starting to rethink my aversion to plastic part
 SnipSnipDialog_WaterPlant_02	I may not sleep, or dream, but this room gives me nightmares.	虽然我不会睡觉或做梦，但这个房间给了我噩梦。
 SnipSnipDialog_WaterPurification_01	Really, if you're going to consume water, you may as well make it digestible.	说真的，反正要喝水，不如喝点能“消化”的水。
 SnipSnipDialog_WaterPurification_02	Really, if you're going to consume water, you may as well make it digestible.	说真的，反正要喝水，不如喝点能“消化”的水。
-SnipSnip_Name	Snip Snip	剪刀手
+SnipSnip_Name	Snip Snip	咔嚓先生
 Social_Button_Collect	COLLECT	收集
 Social_Button_Help	HELP	帮助
 Social_Button_Ignore	CLEAR	清除
@@ -13489,7 +13489,7 @@ Speech_Conversation_NPC1_Topic55	Need help with this crossword. Nine letters. St
 Speech_Conversation_NPC1_Topic56	Got this song stuck in my head. “Baby, yeah, babbbbyyy! You can light my...”	脑子里一直有首歌洗脑循环。“宝贝，耶——宝贝——！你能点燃我的……”
 Speech_Conversation_NPC1_Topic57	Is it night or day? I've lost track.	现在是白天还是晚上，我迷糊了。
 Speech_Conversation_NPC1_Topic58	Have you seen my best friend?	你看到我最好的朋友了吗？
-Speech_Conversation_NPC1_Topic59	What would win in a fight? A Radscorpion or a Yao Guai?	辐射蝎和妖怪熊打架，谁会赢？
+Speech_Conversation_NPC1_Topic59	What would win in a fight? A Radscorpion or a Yao Guai?	辐射蝎和妖怪打架，谁会赢？
 Speech_Conversation_NPC1_Topic6	I wish I had a pet. What about you?	我真希望我能有只宠物。你呢？
 Speech_Conversation_NPC1_Topic7	If I started a Vault baseball team, would you join?	如果我成立一个避难所棒球队，你愿意加入吗？
 Speech_Conversation_NPC1_Topic8	Can you help with my crossword? Six-letter word. “Lives in the Wasteland.”	帮我解个填字游戏。三个字，“住在废土上”。
@@ -13499,7 +13499,7 @@ Speech_Conversation_NPC2_Topic10_Response2	Oh, the Eiffel Tower. Definitely. So 
 Speech_Conversation_NPC2_Topic10_Response3	The Great Wall of China. I bet it's still standing.	中国的长城，我敢打赌一定还在。
 Speech_Conversation_NPC2_Topic11_Response1	I know! Flies the size of dogs! Scorpions the size of cows! Glad I'm not out there.	可不是嘛！苍蝇和狗一般大！蝎子和牛一般大！真高兴我不在那儿。
 Speech_Conversation_NPC2_Topic11_Response2	I've heard there are lots of animals with two heads. Apparently it's a theme.	我听说外面好多动物都长两个头。看来这是个“标配”呀。
-Speech_Conversation_NPC2_Topic11_Response3	I don't know. Some of them sound kind of cute. Like “Yao Guai” - how bad could that be?	我不知道，有些名字听起来还挺萌的。比如说“妖怪熊”，能有多糟呀？
+Speech_Conversation_NPC2_Topic11_Response3	I don't know. Some of them sound kind of cute. Like “Yao Guai” - how bad could that be?	我不知道，有些名字听起来还挺萌的。比如说“妖怪”，能有多糟呀？
 Speech_Conversation_NPC2_Topic12_Response1	Compared to what exactly?	具体是跟什么比呢？
 Speech_Conversation_NPC2_Topic12_Response2	Of course we are! The Overseer would never let anything happen to us!	当然了！监督者不会让我们发生任何意外的！
 Speech_Conversation_NPC2_Topic12_Response3	Safer than we'd be outside, that's for sure!	肯定比我们在外面要安全！
@@ -13774,7 +13774,7 @@ Speech_Generic_Dweller52	Is it true there are Vaults all across the world? Naaah
 Speech_Generic_Dweller53	I wonder how high the Vault numbers go...	不知道避难所的编号最大能排到多少……
 Speech_Generic_Dweller54	I'm special, gosh darn it. And someday, the Overseer WILL notice me.	我明明就很特别，真见鬼。总有一天，监督者一定会注意到我。
 Speech_Generic_Dweller55	Anybody need help with anything?	有人需要帮忙的吗？
-Speech_Generic_Dweller56	I wonder how a Vault Suit would look with cowboy boots.	我想知道避难所套装和牛仔靴搭配会是什么样子。
+Speech_Generic_Dweller56	I wonder how a Vault Suit would look with cowboy boots.	我想知道避难所制服和牛仔靴搭配会是什么样子。
 Speech_Generic_Dweller57	One thing they never tell you – are you supposed to wear underwear under the jumpsuit or not?	有一件事他们从未告诉你——连身衣里应该穿内裤吗？
 Speech_Generic_Dweller58	I don't care what everyone says. Getting my pilot's license is NOT a crazy pipe dream.	随别人怎么说，考下飞行执照才不是什么痴人说梦。
 Speech_Generic_Dweller59	Wait, is this my free time or my work time? I can't keep track anymore.	等等，这是我的休息时间还是工作时间？我已经乱套了。
@@ -13967,11 +13967,11 @@ Speech_LivingQuarter_PickupLines_45	Nuka-Cola's got nothin' on you, sugar.	甜�
 Speech_LivingQuarter_PickupLines_46	Like an irradiated post-apocalyptic parasitic organism, you are under my skin.	你就像一只受过辐射的后末日寄生生物，钻进我心里，怎么也摆脱不掉。
 Speech_LivingQuarter_PickupLines_47	Are you a book in the Vault library? 'Cause I am checking you out.	你是避难所图书馆里的一本书吗？因为我想把你借走。
 Speech_LivingQuarter_PickupLines_48	Come here often? I mean, we're all trapped down here, so I assume yes, but still...	经常来这儿？我是说，我们都被困在这里，所以应该是的，但还是……
-Speech_LivingQuarter_PickupLines_49	I'm a licensed Vault Suit inspector. I'm going to need to hug you VERY closely.	我是一个有执照的避难所套装检查员。我需要紧紧地拥抱你。
+Speech_LivingQuarter_PickupLines_49	I'm a licensed Vault Suit inspector. I'm going to need to hug you VERY closely.	我是一个有执照的避难所制服检查员。我需要紧紧地拥抱你。
 Speech_LivingQuarter_PickupLines_5	I've been thinking of you all day.	我一整天都在想你。
 Speech_LivingQuarter_PickupLines_50	You have beautiful thighs. Eyes! I meant eyes! But your thighs are nice too...	你的大腿真美。眼睛！我是说眼睛！不过你的大腿也很好看……
 Speech_LivingQuarter_PickupLines_51	Your teeth are so shiny and beautiful. Like a skeleton that's been picked clean.	你的牙齿是那么闪亮和美丽。像一个被清理干净的骷髅。
-Speech_LivingQuarter_PickupLines_52	Is there a Yao Guai in the Vault? He must be looking for you, honey.	避难所有一只妖怪熊吗？它一定在找你，亲爱的。
+Speech_LivingQuarter_PickupLines_52	Is there a Yao Guai in the Vault? He must be looking for you, honey.	避难所有一只妖怪吗？它一定在找你，亲爱的。
 Speech_LivingQuarter_PickupLines_53	I want to love you like this is my last day on Earth. Because it probably is.	我想把今天当做世界末日一样去爱你。因为可能真的是。
 Speech_LivingQuarter_PickupLines_54	Are you swooning, or is that the radiation poisoning?	你是神魂颠倒了，还是辐射中毒了？
 Speech_LivingQuarter_PickupLines_55	Is that a Raider setting off explosives or is my heart pounding?	是掠夺者引爆了炸药还是我的心在狂跳？
@@ -15062,7 +15062,7 @@ VictorDialog_Wasteland_28	Sure is nice to have some time to myself.	能有点独
 VictorDialog_Wasteland_29	Hum de dum, doot doo dedum...	哼哼哼，嗒嗒嗒嗒……
 VictorDialog_Wasteland_3	My gut is tellin' me to head this-a-way. And I always follow my gut.	我的直觉告诉我要往这边走。而我一直都听我的直觉。
 VictorDialog_Wasteland_30	My, my, look at that Deathclaw. That's a big critter. I'd best give it a wide berth.	哟，你瞧这只死爪。真是头大家伙。最好离它远点。
-VictorDialog_Wasteland_31	Yao Guai? More like “Now die!”	妖怪熊？我看倒像是“要你命”！
+VictorDialog_Wasteland_31	Yao Guai? More like “Now die!”	妖怪？我看倒像是“要你命”！
 VictorDialog_Wasteland_32	I daresay these ruins would have been called a “dive bar” back before the fall. Now they're all “dive bars”!	我得说，这些废墟在核弹落下之前，大概会被称为“破烂酒吧”。而现在，它们全都是“破烂酒吧”！
 VictorDialog_Wasteland_33	Butter my biscuit, a real suit of Power Armor! I wonder if it fits me...	哎哟我的老天，一套货真价实的动力装甲！不知道合不合我的身……
 VictorDialog_Wasteland_34	Sure are a lot of empty syringes out here.	这外头空针管还真多。
@@ -15242,7 +15242,7 @@ Weapon_Description_HardenedT60Pistol	A reinforced beast with a reinforced bite.	
 Weapon_Description_HardenedTranqPistol	A rugged piece for the peaceful at heart.	坚固耐用，适合心地善良的人。
 Weapon_Description_HuntingRifle	Great for taking down game - human or animal alike.	非常适合猎杀猎物——不管是人还是野兽。
 Weapon_Description_HuntingRifle_ArmorPiercing	Most people don't hunt Sentry Bots. You're not most people.	大多数人不会猎捕铁卫兵。但你不是大多数人。
-Weapon_Description_HuntingRifle_Enhanced	Want a new Yao Guai wardrobe? This is the rifle for you.	想要一个新妖怪熊皮衣柜？用这把枪。
+Weapon_Description_HuntingRifle_Enhanced	Want a new Yao Guai wardrobe? This is the rifle for you.	想要一个新妖怪皮衣柜？用这把枪。
 Weapon_Description_HuntingRifle_Hardened	Once, you were the hunted. With this weapon, those days are gone.	曾经，你是被猎杀的那一方。有了这把枪，那种日子一去不复返了。
 Weapon_Description_HuntingRifle_OlPainless	Can put your horse, or a Deathclaw, out of its misery in a second.	可以让你的马，或死爪，一秒内摆脱痛苦。
 Weapon_Description_HuntingRifle_Rusty	Dirty but dependable, this is a gun you can trust.	肮脏但可靠，是你可以信任的枪。
@@ -15441,7 +15441,7 @@ Weapon_Name_BBGun	BB Gun	BB枪
 Weapon_Name_BBGun_ArmorPiercing	Armor Piercing BB Gun	穿甲BB枪
 Weapon_Name_BBGun_Enhanced	Enhanced BB Gun	增强型BB枪
 Weapon_Name_BBGun_Hardened	Hardened BB Gun	硬化型BB枪
-Weapon_Name_BBGun_RedRocket	Red Rocket	红色火箭
+Weapon_Name_BBGun_RedRocket	Red Rocket	红火箭
 Weapon_Name_BBGun_Rusty	Rusty BB Gun	生锈的BB枪
 Weapon_Name_BOSAssaultRifle	BOS Assault Rifle	兄弟会突击步枪
 Weapon_Name_BOSAssaultRifle_ArmorPiercing	Armor Piercing BOS Assault Rifle	穿甲兄弟会突击步枪
