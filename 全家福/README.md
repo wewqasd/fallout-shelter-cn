@@ -7,8 +7,31 @@
 
 | 文件 | 说明 |
 |---|---|
-| [agent全家福_谱系图.png](agent全家福_谱系图.png) | **PNG 海报**（2000×2000，离线可看，适合分享） |
-| [agent全家福_谱系图.html](agent全家福_谱系图.html) | **交互版**：每个 Agent 悬停显示会话 id / 起止时间 / 耗时 / 上下文体积 / 结果 |
+| [agent全家福_谱系图.png](agent全家福_谱系图.png) | **PNG 海报**：谱系树 + 273 张全家福卡片（2000×2000） |
+| [agent全家福_谱系图.html](agent全家福_谱系图.html) | 上面那张的交互版：悬停看每个 Agent 的会话 id / 起止 / 耗时 / 体积 / 结果 |
+| [agent网络_谱系图.png](agent网络_谱系图.png) | **Agent Network 放射图**（2600×2600）：一节点一 Agent，圆环 = 条目构成 |
+| [agent网络_谱系图.html](agent网络_谱系图.html) | Agent Network 交互版：悬停看详情、点击锁定并高亮该 Agent 的谱系边 |
+
+## Agent Network（风格参考 dsh-context）
+
+[bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)（★1.7k）的 **Agent Network — the family portrait**
+是「一个节点 = 一个 agent，圆环 = 该 session 的上下文组成，彩线 = 谱系边，中心 = 窗口占用」。
+本目录的 `agent网络_谱系图` 按同一套视觉语言重画了本项目这一批 Agent：
+
+| 参考实现的元素 | 本图的对应 |
+|---|---|
+| 一个节点 = 一个 agent | 273 个甜甜圈节点 |
+| 圆环 = 该 session 的上下文组成 | 六色环，按**会话条目数**占比（字节量会被助手消息 82% 碾压，六色出不来） |
+| 中心 % = 窗口占用 | **相对本批次上下文体积**（诚实标注，不伪造 token 占用） |
+| 彩色谱系边 | 主控 → 每个 Agent，按批次着色（6 色） |
+| 绿色呼吸光晕 = running | 本批 Agent 均已结束，故省略 |
+| hover 详情 / click 跳转 | hover 看详情、click 锁定并高亮谱系边（详情条在底部） |
+
+```bash
+python3 collect_agent_context.py   # 每个子会话的条目/字节构成 → _agent_context.json
+python3 build_network.py           # → agent网络_谱系图.png（+ _layout.json）
+python3 build_network_html.py      # → agent网络_谱系图.html
+```
 | `_genealogy_raw.json` | 从 DSH 会话留档提取的原始谱系数据 |
 
 ## 复现
