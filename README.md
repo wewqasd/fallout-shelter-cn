@@ -111,3 +111,5 @@ py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
 - **GLM-5.3-Flash**（智谱 AI）— 翻译审校与一致性检查
 - **Gemini 3.7 Flash**（Google）— 翻译审校
 - **DeepSeek Harness** — 开发与交付环境（Everything is a Plugin）
+
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
