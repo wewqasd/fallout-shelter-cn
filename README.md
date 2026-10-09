@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/wewqasd/fallout-shelter-cn)](https://github.com/wewqasd/fallout-shelter-cn/releases)
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 
 《辐射避难所》Steam 版（Bethesda，版本 2.6.0，无官方中文）的汉化项目：14064 条文本，
 直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
@@ -111,5 +112,3 @@ py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
 - **GLM-5.3-Flash**（智谱 AI）— 翻译审校与一致性检查
 - **Gemini 3.7 Flash**（Google）— 翻译审校
 - **DeepSeek Harness** — 开发与交付环境（Everything is a Plugin）
-
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
