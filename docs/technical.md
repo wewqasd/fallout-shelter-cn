@@ -216,9 +216,11 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
 
 | 情形 | 行为 |
 |---|---|
-| term 名匹配 | 全语言槽写中文（14058 条） |
+| term 名匹配 | 全语言槽写中文（14073 条中的 14067 条） |
 | 表有、包无（旧 term 被删/改名） | 默认**中止**；`--allow-unmatched` 跳过并汇报 |
 | 包有、表无（版本新增 term） | **保留原文英文**，`fallback` 计数汇报 |
+| 原文本身为空串 | 同样计入 `fallback`（2.7.0 有 6 条，如 `Speech_Room_SomeoneHappy1`、
+`MrHandyDialog_StorageRoom_01`；游戏内本就是空，无内容可译） |
 | 换行/按键标记/括号文本与包内 EN 差异 | **仅警告**（设计内自适应，见 4.2） |
 | FontManager/UILabel/静态标签/REACH NOW 找不到 | **警告不中止**（结构可能已变，自动退化） |
 
@@ -280,7 +282,8 @@ env.save("lz4", outdir)    # 或 "none" 兜底（防 MemoryError）
   v1.0 Release EXE 实测自检报错后修复）。
 - **CI 打包**：`.github/workflows/build_exe.yml` —— GitHub Actions windows-latest
   云端打包（手动触发或发 Release 自动），打包后自动跑 `--selfcheck` 并输出 md5，
-  可上传 Release 附件。
+  可上传 Release 附件。手动触发时可填 `release_tag`，CI 产物会**直接**上传到该
+  Release（发布不再需要从本地机器上传任何文件）。
 - **内嵌资源**：翻译表 + EN 源 + 字体 + UnityPy（含 Boost pyd 与 `resources/lzma.tpk`，
   tpk 需在 spec 里手动加 datas）。
 - 用户动作：双击 → 自动定位游戏目录（Steam libraryfolders.vdf / 注册表 / 常见路径）
@@ -291,18 +294,72 @@ env.save("lz4", outdir)    # 或 "none" 兜底（防 MemoryError）
   下若不强制退出，Tcl/Tk 资源会使解释器挂起（任务管理器残留、内存不归还）。
   窗口关闭拦截（WM_DELETE_WINDOW）：汉化进行中先确认再强退（中断产物可能不完整，
   有 .bak.v5 兜底还原）。
-- 打包（Windows 侧，Python 3.12）：
+- 打包（本地与 CI **同一个入口**，Windows 侧 Python 3.12.10）：
   ```bat
-  py -3.12 -m pip install unitypy==1.25.3 pyinstaller
-  py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
+  py -3.12 -m pip install -r tools\requirements-exe.txt
+  tools\build_exe.bat --ci
   ```
+  `build_exe.bat` 内部固定 `PYTHONHASHSEED` 与 `SOURCE_DATE_EPOCH`，并打印
+  MD5/SHA256；CI 只负责「装锁定依赖 → 调这个 bat」，不自己写 PyInstaller 命令，
+  避免两处逻辑漂移。
+
+### 7.1 构建可复现性：本地 vs GitHub Actions
+
+一句话结论：**业务内容逐字节相同；EXE 整体 md5 不同，差异 100% 来自构建机的
+操作系统运行库，账目可完全对平。**
+
+让两边尽量靠拢的四个开关（缺任一个都会漂）：
+
+| 开关 | 不固定会怎样 |
+|---|---|
+| `tools/requirements-exe.txt` 全量锁定 | Pillow / brotli / fsspec 是 UnityPy 的**传递依赖**且会被打进 PYZ，只锁顶层包 → 每次安装解析到不同版本 |
+| `setup-python: 3.12.10` | 解释器补丁版本不同 → `python312.dll` 与内嵌字节码不同 |
+| `SOURCE_DATE_EPOCH=<commit 时间>` | PyInstaller 默认把**当前时间**写进 PE 头 TimeDateStamp（源码注释原话 "increase entropy"）→ 同一份代码每次 md5 都变 |
+| `PYTHONHASHSEED=0` | `base_library.zip` 的 155 个 stdlib 模块按 str 哈希序写入 → 顺序随机，内容全同但字节全乱 |
+
+实测记录：
+
+| 对比 | 结果 |
+|---|---|
+| 同一台机器连续两次（commit `3f9e212`） | md5 均 `2a5f286658eaec1b91ae824f6a1c1fbd`，字节数相同 → **同机可复现** |
+| 本地 vs CI（同 commit `1185e6a`） | CI 34,061,807 B `3df58f5d…`；本地 33,848,227 B `880f4976…` → **md5 不同，差 213,580 B** |
+
+> 注意：`SOURCE_DATE_EPOCH` 取 commit 时间，所以 **md5 只在同一 commit 上可比**；
+> 换 commit（哪怕只改文档）也会变。
+
+用 `python tools/compare_exe.py CI.exe 本地.exe` 逐成员拆解（CArchive 共 1049 成员）：
+
+| 项 | 结果 |
+|---|---|
+| PYZ 内 669 个 Python 模块 | **669 个逐字节相同**（本项目代码 + UnityPy 等三方库） |
+| 翻译表 / 字体 / EN 基准 / `python312.dll` / `UnityPy/resources/*.tpk` | 逐字节相同 |
+| `base_library.zip`（155 个 stdlib 模块） | 固定 hashseed 后逐字节相同（未固定前顺序全不同） |
+| PE 头 TimeDateStamp | 固定后两边相同（`1792790207`） |
+| 内容不同的 40 个成员 | 全是 `ucrtbase.dll`、`MSVCP140.dll`、`api-ms-win-*.dll` |
+| 仅 CI 有的 4 个成员 | 同上的 apiset 存根（本机 UCRT 较老，没这几个） |
+
+这 44 个文件确实是**构建机 `C:\Windows\System32` 的原件**：本地 EXE 内的
+`ucrtbase.dll` 与本机 `System32\ucrtbase.dll` md5 完全相同（`dcea8983b7802599`），
+`MSVCP140.dll`（`4796bb351c00d477`）、`api-ms-win-core-synch-l1-1-0.dll` 同理。
+体积差也能对平：归档满足 `archive_len = Σ成员压缩长度 + TOC 长度 + 88`，两边各自成立；
+差值 213,580 B = `ucrtbase.dll`（CI 大 155,498）+ 4 个 apiset 存根（CI 大 30,558）
++ 另外 38 个 apiset 尺寸差（CI 大 27,268）− `MSVCP140.dll`（本地大 17,435）
++ TOC 多 4 条目（256）。
+
+**所以跨机器 EXE 不可能 md5 相同**——这是 PyInstaller 打包 Windows 运行库的固有行为，
+不是构建配置没锁好。要硬凑只能把这些系统 DLL 从 `a.binaries` 剔除，但那会让没装
+VC++ Redist 的用户直接启动失败，得不偿失。**`data.unity3d` 则是完全确定性的**
+（同一原版包 + 同一程序，任何机器逐字节相同），所以版本一致性以它为准。
 
 ## 8. 验证链路（改动核心后必做）
 
 1. 构建后 md5 对比预期（v5.13 = `9a2eab7bcd29b5cd2a698ba6231e049a`）；
 2. 冻结 EXE `--selfcheck` 输出 md5 == 源码构建 md5（确定性验证）；
 3. 幂等：对已汉化包重跑，输出 md5 不变；
-4. UI 状态抽查：全部 UILabel force=1、无空字体引用。
+4. UI 状态抽查：全部 UILabel force=1、无空字体引用；
+5. 改了打包配置/升级依赖时，跑一次
+   `python tools/compare_exe.py <CI产物> <本地产物>`，确认「PYZ 模块全同、
+   差异只剩系统运行库」，见 §7.1。
 
 ## 9. 版本自适应一览
 
