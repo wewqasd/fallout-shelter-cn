@@ -1,0 +1,34 @@
+# FalloutShelterCN.exe 打包依赖 —— 全量锁定（含传递依赖）
+#
+# 用途：GitHub Actions 与本地构建共用同一份清单，避免每次安装时解析到不同版本，
+#       造成产物体积与 md5 无谓漂移（只锁 unitypy/pyinstaller 是不够的：
+#       Pillow、brotli、fsspec 等都是 unitypy 的传递依赖，会被打进 PYZ）。
+#
+# 本文件内容 = CI 首次安装后 pip freeze 的完整闭包。
+# 升级流程：改这里的版本 → 本地 pip install -r 重装 → 提交 → CI 重跑，
+#           然后按 docs/technical.md「构建与可复现性」一节记录新的差异结论。
+#
+# Python 版本必须同为 3.12.10（CI 由 setup-python 固定，本地为 python.org 3.12.10）。
+
+unitypy==1.25.3
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.9
+
+# ---- 以下为上述三个包解析出的传递依赖，一并锁定 ----
+Pillow==13.0.0
+altgraph==0.17.5
+archspec==0.2.6
+astc-encoder-py==0.1.12
+attrs==26.1.0
+brotli==1.2.1
+etcpak==0.9.15
+fmod_toolkit==0.1.3
+fsspec==2026.9.0
+lz4==4.4.5
+packaging==26.3
+pefile==2024.8.26
+pyfmodex==0.7.2
+pywin32-ctypes==0.2.3
+setuptools==84.2.1
+texture2ddecoder==1.0.6
+tpk_ar==0.2.4

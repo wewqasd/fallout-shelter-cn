@@ -6,6 +6,12 @@ permissions:
 
 on:
   workflow_dispatch:        # 手动触发（Actions 页点 Run workflow）
+    inputs:
+      release_tag:
+        description: '把构建产物上传到哪个 Release（如 v1.0）。留空则只产出 artifact，不动 Release'
+        required: false
+        default: ''
+        type: string
   release:
     types: [published]      # 发布 Release 时自动触发
 
@@ -19,18 +25,27 @@ jobs:
       - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          # 固定到补丁版本 3.12.10：本地构建机也是 3.12.10，
+          # 否则 python312.dll 与内嵌字节码的解释器版本不同，md5 必然漂移。
+          python-version: '3.12.10'
 
       - name: Install dependencies
-        # 版本固定：避免 CI 每次解析到最新的 PyInstaller / 传递依赖，
-        # 造成产物体积与 md5 无谓漂移（详见 .gitattributes 的可复现性说明）。
+        # 全量锁定（含 Pillow/brotli/fsspec 等传递依赖），见 tools/requirements-exe.txt。
+        # 只锁顶层包会让 unitypy 的传递依赖每次解析到最新版，进而改变 PYZ 内容。
         run: |
           py -3.12 -m pip install --upgrade pip
-          py -3.12 -m pip install "unitypy==1.25.3" "pyinstaller==6.22.3" "pyinstaller-hooks-contrib==2026.9"
-          py -3.12 -m pip list
+          py -3.12 -m pip install -r tools\requirements-exe.txt
+          py -3.12 -m pip freeze
 
       - name: Build EXE (PyInstaller)
-        run: py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
+        # SOURCE_DATE_EPOCH：PyInstaller 默认把当前时间写进 PE 头 TimeDateStamp
+        # （注释原文是"增加熵"），固定成 commit 时间后本地/CI 才可比。
+        # 用 bash 是为了能直接 export 给 py 子进程。
+        shell: bash
+        run: |
+          export SOURCE_DATE_EPOCH=$(git log -1 --format=%ct)
+          echo "SOURCE_DATE_EPOCH=$SOURCE_DATE_EPOCH"
+          py -3.12 -m PyInstaller --noconfirm --clean tools/build_exe.spec
 
       - name: Selfcheck (headless)
         run: |
@@ -38,17 +53,45 @@ jobs:
           $env:PYTHONIOENCODING = 'utf-8'
           dist\FalloutShelterCN.exe --selfcheck
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
-          Get-FileHash dist\FalloutShelterCN.exe -Algorithm MD5 | Select-Object -ExpandProperty Hash
+
+      - name: Record build info
+        # 产物指纹写进 BUILD_INFO.txt（随 artifact 分发）和 Job Summary（便于核对）
+        shell: pwsh
+        run: |
+          $exe  = 'dist\FalloutShelterCN.exe'
+          $md5  = (Get-FileHash $exe -Algorithm MD5).Hash.ToLower()
+          $sha  = (Get-FileHash $exe -Algorithm SHA256).Hash.ToLower()
+          $size = (Get-Item $exe).Length
+          $pyv  = (py -3.12 -c "import sys;print(sys.version.split()[0])").Trim()
+          $epoch = (git log -1 --format=%ct).Trim()
+          $lines = @(
+            "commit=${{ github.sha }}"
+            "ref=${{ github.ref_name }}"
+            "python=$pyv"
+            "SOURCE_DATE_EPOCH=$epoch"
+            "size=$size"
+            "md5=$md5"
+            "sha256=$sha"
+          )
+          $lines | Set-Content -Encoding utf8 dist\BUILD_INFO.txt
+          $lines | Out-File -Append -Encoding utf8 $env:GITHUB_STEP_SUMMARY
 
       - name: Upload EXE to Release asset
-        if: github.event_name == 'release'
+        # 两种触发方式都能发版：release 发布事件，或手动触发时指定 release_tag。
+        if: github.event_name == 'release' || inputs.release_tag != ''
+        shell: bash
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release upload ${{ github.event.release.tag_name }} dist\FalloutShelterCN.exe --clobber
+        run: |
+          TAG="${{ github.event.release.tag_name || inputs.release_tag }}"
+          echo "上传到 Release: $TAG"
+          gh release upload "$TAG" dist/FalloutShelterCN.exe dist/BUILD_INFO.txt --clobber
 
-      - name: Upload EXE as artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: FalloutShelterCN.exe
-          path: dist/FalloutShelterCN.exe
+          path: |
+            dist/FalloutShelterCN.exe
+            dist/BUILD_INFO.txt
           if-no-files-found: error
