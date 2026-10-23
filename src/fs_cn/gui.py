@@ -329,7 +329,8 @@ class App:
                             f"{result['fallback']} 条 · 字体 {result['fonts']}")
         self.q.put("\n===== 汉化完成 =====")
         self.q.put(f"写入 {result['patched_terms']} 条 | 缺译保留原文 {result['fallback']} 条"
-                   f" | 字体 {result['fonts']} | 静态标签 {result['static_labels']}")
+                   f" | 字体 {result['fonts']} | 静态标签 {result['static_labels']}"
+                   + (f" | 机器人名 {result['robot_names']}" if result.get('robot_names') else ""))
         if result.get("warnings"):
             self.q.put(f"自适应警告 {result['warnings']} 条（换行/按键标记，不影响使用）")
         self.q.put("现在可从 Steam 启动游戏。启动失败/想还原 → 点「一键还原」。")

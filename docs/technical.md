@@ -237,10 +237,27 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
 
 ## 5. 其他手术
 
-- **REACH NOW → 现在到达**：等长 16 B 块替换（`[int len][bytes][pad]` 两版等长，内容定位）。
+- **REACH NOW → 立即到达**：等长 16 B 块替换（`[int len][bytes][pad]` 两版等长，内容定位）。
+  注意 I2 表里的 `Button_QuantumSkip` 由翻译写回步骤处理，两处译文必须一致（均用「立即到达」）；
+  本节处理的是 UI 上另有的一处硬编码 UILabel（level254），I2 够不着。
 - **静态标签 9 个**：SPIN/SCIENCE SPIN/CAPITALIST SPIN/Lucky Spin/EXPERIMENTAL VAULTS/
   GO TO EXPERIEMNTAL VAULT/GO TO STANDARD VAULT/WELCOME TO/ARE YOU SURE YOU\nWANT TO LOGOUT?
-  在 UILabel 的 mText 里做 UTF-8 长度+padding 原位替换（不改变对象字节长度）。
+  在 UILabel 的 mText 里做 UTF-8 长度+padding 原位替换。**对象字节长度会变**
+  （中英文编码长度不同，4 字节对齐 padding 需重算），靠 `m_Name` 之外的字段偏移不受影响。
+- **机器人变体显示名 4 个**（`UniqueMrHandyData`，sharedassets261.assets）：
+  Mr. Handy→巧手先生 / Snip Snip→咔嚓先生 / Curie→居里 / Victor→维克托。
+  这些对象的显示名**硬编码在数据里、不走 I2 表**，而 I2 另有一套译好的 `*_Name` 键，
+  两套并存会导致同一机器人在不同界面显示不同名字。
+
+  ```
+  m_GameObject PPtr(12) + m_Enabled(4) + m_Script PPtr(12) = 28
+  → m_Name（内部标识，如 l_mrhandy / L_SnipSnip —— **必须保留**，游戏可能用它识别变体）
+  → 显示名字段 ← 只改这里（UTF-8 长度 + 4 字节对齐 padding 重算）
+  → 颜色 / 抽取概率（0.92 / 0.08，与 I2 的 MrHandy_ContentOdds 对应）
+  ```
+
+  实测：3 个对象长度不变，Victor 因「维克托」比「Victor」长 4 B 而对象增长 4 B，无副作用。
+
 
 ## 6. 保存与体积
 

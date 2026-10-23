@@ -578,6 +578,50 @@ def patch_bundle(src, out, translations, font_bytes=None,
     if static_patched == 0:
         log("注意: 未找到静态标签（内容可能已变），跳过该步", detail=True)
 
+    # ---- 7b) 机器人变体显示名（UniqueMrHandyData 内硬编码的英文名）----
+    # 这 4 个对象把显示名直接序列化进数据（如 "Mr. Handy"/"Snip Snip"/"Curie"/"Victor"），
+    # 不经过 I2 表——I2 里另有译好的 *_Name 键，两套并存会导致同一机器人
+    # 在不同界面显示不同名字（图鉴「巧手先生」/ 本体「Mr. Handy」）。
+    # 布局：m_GameObject PPtr(12) + m_Enabled(4) + m_Script PPtr(12) = 28 → m_Name → 显示名。
+    # 只改显示名，保留 m_Name（可能是游戏识别变体的内部标识）。
+    ROBOT_DISPLAY_NAMES = {
+        "Mr. Handy": "巧手先生",
+        "Snip Snip": "咔嚓先生",
+        "Curie":     "居里",
+        "Victor":    "维克托",
+    }
+
+    def robot_name_field(raw):
+        """返回 (显示名字段起点 p, 当前值 cur)；结构不符返回 (None, None)。"""
+        p = 28
+        if p + 4 > len(raw): return None, None
+        n = struct.unpack_from('<i', raw, p)[0]
+        if not (0 <= n <= 64) or p + 4 + n > len(raw): return None, None
+        p = (p + 4 + n + 3) // 4 * 4          # 跳过 m_Name，4 字节对齐
+        if p + 4 > len(raw): return None, None
+        n2 = struct.unpack_from('<i', raw, p)[0]
+        if not (0 <= n2 <= 64) or p + 4 + n2 > len(raw): return None, None
+        return p, raw[p + 4:p + 4 + n2].decode('utf-8', 'replace')
+
+    robot_named = 0
+    for o in objs:
+        if o.type.name != "MonoBehaviour": continue
+        if cls_of(o, script_map, af_ext) != "UniqueMrHandyData": continue
+        raw = current_raw(o)
+        p, cur = robot_name_field(raw)
+        if p is None: continue
+        zh = ROBOT_DISPLAY_NAMES.get(cur)
+        if zh is None:
+            log(f"注意: 未预期的机器人名 {cur!r}（pid={o.path_id}），跳过改写", detail=True)
+            continue
+        zb = zh.encode("utf-8")
+        old_pad = (4 - (4 + len(cur.encode("utf-8"))) % 4) % 4
+        new_pad = (4 - (4 + len(zb)) % 4) % 4
+        new_fld = struct.pack("<i", len(zb)) + zb + b"\x00" * new_pad
+        o.set_raw_data(raw[:p] + new_fld + raw[p + 4 + len(cur.encode("utf-8")) + old_pad:])
+        robot_named += 1
+    log(f"unique robot display names replaced: {robot_named}", detail=True)
+
     # ---- 8) 保存 ----
     d_now = getattr(obj, "data", None)
     assert d_now is not None and len(d_now) == len(rebuilt) and "立即到达".encode() in d_now, \
@@ -636,11 +680,13 @@ def patch_bundle(src, out, translations, font_bytes=None,
         "forced_labels": forced_labels,
         "assigned_labels": assigned_labels,
         "static_labels": static_patched,
+        "robot_names": robot_named,
         "reach_now": rn,
         "size": size,
         "warnings": len(warn_keys) if validate else None,
         "en_changed": len(en_changed) if validate else None,
         "msg": f"完成：写入 {patched} 条，缺译保留原文 {fallback} 条，字体 {nf}，静态标签 {static_patched}"
+               + (f"，机器人名 {robot_named}" if robot_named else "")
                + (f"，自适应警告 {len(warn_keys)} 条" if warn_keys else "")
                + (f"，EN变化 {len(en_changed)} 条" if en_changed else ""),
     })
