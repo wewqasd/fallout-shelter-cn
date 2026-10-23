@@ -38,26 +38,24 @@ jobs:
           py -3.12 -m pip freeze
 
       - name: Build EXE (PyInstaller)
-        # SOURCE_DATE_EPOCH：PyInstaller 默认把当前时间写进 PE 头 TimeDateStamp
-        # （注释原文是"增加熵"），固定成 commit 时间后本地/CI 才可比。
-        # 用 bash 是为了能直接 export 给 py 子进程。
-        shell: bash
-        run: |
-          export SOURCE_DATE_EPOCH=$(git log -1 --format=%ct)
-          echo "SOURCE_DATE_EPOCH=$SOURCE_DATE_EPOCH"
-          py -3.12 -m PyInstaller --noconfirm --clean tools/build_exe.spec
+        # 与本地完全同一条路径：tools\build_exe.bat 内部固定
+        #   SOURCE_DATE_EPOCH = commit 时间（否则 PE 头写当前时间，md5 每次变）
+        #   PYTHONHASHSEED    = 0（否则 base_library.zip 条目顺序随机）
+        run: tools\build_exe.bat --ci
 
       - name: Selfcheck (headless)
         run: |
           chcp 65001 > $null
           $env:PYTHONIOENCODING = 'utf-8'
-          dist\FalloutShelterCN.exe --selfcheck
+          tools\dist\FalloutShelterCN.exe --selfcheck
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 
       - name: Record build info
         # 产物指纹写进 BUILD_INFO.txt（随 artifact 分发）和 Job Summary（便于核对）
         shell: pwsh
         run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item tools\dist\FalloutShelterCN.exe dist\
           $exe  = 'dist\FalloutShelterCN.exe'
           $md5  = (Get-FileHash $exe -Algorithm MD5).Hash.ToLower()
           $sha  = (Get-FileHash $exe -Algorithm SHA256).Hash.ToLower()
