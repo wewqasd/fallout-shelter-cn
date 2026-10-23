@@ -14,13 +14,14 @@
 """
 import os
 import sys
+import time
 import threading
 import queue
 import tkinter as tk
-from tkinter import filedialog, messagebox, scrolledtext
+from tkinter import filedialog, messagebox, scrolledtext, ttk
 
 from . import __version__
-from .patcher import patch_bundle
+from .patcher import patch_bundle, STAGE_WEIGHTS, STAGE_NAMES
 from .resources import load_default_resources
 from .game_dir import find_game_dir, backup_bundle, restore_bundle
 
@@ -40,10 +41,13 @@ class App:
         self.game_dir = tk.StringVar()
         self.status = tk.StringVar(value="就绪")
         self.busy = False
+        self._stage_base = 0.0
+        self._stage_weight = 0.0
+        self._warn_count = 0
 
         root.title(f"辐射避难所 一键汉化 v{__version__}")
-        root.geometry("640x520")
-        root.minsize(560, 440)
+        root.geometry("680x460")
+        root.minsize(600, 420)
 
         pad = {"padx": 10, "pady": 4}
 
@@ -72,9 +76,61 @@ class App:
         self.btn_restore.pack(side="left", padx=(10, 0))
         tk.Label(frm_btn, textvariable=self.status, fg="#555", anchor="w").pack(side="left", fill="x", expand=True, padx=(10, 0))
 
-        # 进度区
-        self.txt = scrolledtext.ScrolledText(root, height=18, state="disabled", font=("Consolas", 10))
-        self.txt.pack(fill="both", expand=True, **pad)
+        # ---- 进度区 ----
+        style = ttk.Style()
+        try:
+            style.theme_use("vista")
+        except tk.TclError:
+            try:
+                style.theme_use("clam")
+            except tk.TclError:
+                pass
+        style.configure("Big.Horizontal.TProgressbar", thickness=22)
+        style.configure("Stage.Horizontal.TProgressbar", thickness=10)
+
+        frm_prog = tk.Frame(root, bd=1, relief="groove")
+        frm_prog.pack(fill="x", **pad)
+
+        # 当前步骤文字（主信息）
+        self.stage_var = tk.StringVar(value="就绪")
+        tk.Label(frm_prog, textvariable=self.stage_var, anchor="w", justify="left",
+                 font=("Microsoft YaHei", 10, "bold"), fg="#1a5276").pack(fill="x", padx=8, pady=(6, 2))
+
+        # 总进度条
+        self.total_var = tk.DoubleVar(value=0.0)
+        self.total_bar = ttk.Progressbar(frm_prog, variable=self.total_var, maximum=100.0,
+                                         style="Big.Horizontal.TProgressbar")
+        self.total_bar.pack(fill="x", padx=8, pady=(2, 1))
+        self.total_lbl = tk.Label(frm_prog, text="总进度 0%", anchor="e",
+                                  font=("Microsoft YaHei", 8), fg="#666")
+        self.total_lbl.pack(fill="x", padx=8)
+
+        # 阶段进度条
+        self.stage_var2 = tk.DoubleVar(value=0.0)
+        self.stage_bar = ttk.Progressbar(frm_prog, variable=self.stage_var2, maximum=100.0,
+                                         style="Stage.Horizontal.TProgressbar")
+        self.stage_bar.pack(fill="x", padx=8, pady=(4, 1))
+        self.detail_var = tk.StringVar(value="")
+        self.detail_lbl = tk.Label(frm_prog, textvariable=self.detail_var, anchor="w",
+                                   font=("Microsoft YaHei", 8), fg="#666")
+        self.detail_lbl.pack(fill="x", padx=8, pady=(0, 6))
+
+        # ---- 详情日志（默认折叠） ----
+        frm_hdr = tk.Frame(root)
+        frm_hdr.pack(fill="x", padx=10)
+        self.show_log = tk.BooleanVar(value=False)
+        self.btn_log = tk.Button(frm_hdr, text="▸ 显示详细日志", bd=0, relief="flat",
+                                 fg="#555", cursor="hand2", command=self._toggle_log,
+                                 font=("Microsoft YaHei", 9))
+        self.btn_log.pack(side="left")
+        self.warn_var = tk.StringVar(value="")
+        tk.Label(frm_hdr, textvariable=self.warn_var, fg="#b9770e", anchor="e",
+                 font=("Microsoft YaHei", 9)).pack(side="right")
+
+        self.log_frame = tk.Frame(root)
+        self.txt = scrolledtext.ScrolledText(self.log_frame, height=12, state="disabled",
+                                             font=("Consolas", 9))
+        self.txt.pack(fill="both", expand=True)
 
         self.hint = tk.Label(
             root, justify="left", fg="#666", anchor="w",
@@ -115,6 +171,59 @@ class App:
         self.txt.see("end")
         self.txt.configure(state="disabled")
 
+    def _toggle_log(self):
+        if self.show_log.get():
+            self.log_frame.pack_forget()
+            self.btn_log.configure(text="▸ 显示详细日志")
+            self.show_log.set(False)
+        else:
+            self.log_frame.pack(fill="both", expand=True, padx=10, pady=(0, 4))
+            self.btn_log.configure(text="▾ 隐藏详细日志")
+            self.show_log.set(True)
+            self.txt.see("end")
+
+    def _reset_progress(self):
+        """开始新一轮任务前清空进度显示。"""
+        self.total_var.set(0.0)
+        self.stage_var2.set(0.0)
+        self.total_lbl.configure(text="总进度 0%")
+        self.stage_var.set("准备中…")
+        self.detail_var.set("")
+        self.warn_var.set("")
+        self._warn_count = 0
+
+    def _on_progress(self, kind, **kw):
+        """结构化进度事件 → UI（在 _drain 主线程里调用）。"""
+        if kind == "stage":
+            self.stage_var.set(kw.get("label", ""))
+            self.stage_var2.set(0.0)
+            self.detail_var.set(kw.get("msg", ""))
+            self._stage_base = float(kw.get("base", 0.0))
+            self._stage_weight = float(kw.get("weight", 0.0))
+            pct = self._stage_base * 100.0
+            self.total_var.set(pct)
+            self.total_lbl.configure(text=f"总进度 {pct:.0f}%")
+        elif kind == "step":
+            frac = float(kw.get("frac", 0.0))
+            self.stage_var2.set(frac * 100.0)
+            self.detail_var.set(kw.get("msg", ""))
+            base = getattr(self, "_stage_base", 0.0)
+            weight = getattr(self, "_stage_weight", 0.0)
+            pct = (base + weight * frac) * 100.0
+            self.total_var.set(pct)
+            self.total_lbl.configure(text=f"总进度 {pct:.0f}%")
+        elif kind == "text":
+            msg = kw.get("msg", "")
+            if kw.get("detail"):
+                # 过程明细：只进折叠日志区，不在主界面打扰用户
+                self.log(msg)
+                return
+            self.log(msg)
+            # 异常/注意 单独计数，折叠展示，不淹没主日志
+            if "警告" in msg or "注意" in msg or "失败" in msg:
+                self._warn_count = getattr(self, "_warn_count", 0) + 1
+                self.warn_var.set(f"⚠ 有 {self._warn_count} 条提示（详见日志）")
+
     def _set_busy(self, busy):
         self.busy = busy
         self.btn_patch.configure(state="disabled" if busy else "normal")
@@ -123,11 +232,19 @@ class App:
     def _drain(self):
         try:
             while True:
-                msg = self.q.get_nowait()
-                self.log(msg)
+                item = self.q.get_nowait()
+                if isinstance(item, tuple) and item and item[0] == "__prog__":
+                    _, kind, kw = item
+                    self._on_progress(kind, **kw)
+                else:
+                    self.log(str(item))
         except queue.Empty:
             pass
         self.root.after(80, self._drain)
+
+    def _prog_cb(self, kind, **kw):
+        """传给 patch_bundle 的结构化回调（在工作线程里被调用 → 入队）。"""
+        self.q.put(("__prog__", kind, kw))
 
     def _err(self, msg):
         self.q.put(f"\n[错误] {msg}")
@@ -156,7 +273,8 @@ class App:
                       "请点「浏览」，选择 Fallout Shelter 游戏安装文件夹（含 FalloutShelter_Data 子文件夹）。")
             return
         self._set_busy(True)
-        self.log("\n===== 开始汉化 =====")
+        self._reset_progress()
+        self.q.put("\n===== 开始汉化 =====")
         self.q.put(f"游戏目录：{g}")
 
         # 1) 备份提醒 + 备份
@@ -167,12 +285,14 @@ class App:
             parent=self.root)
         if not ok:
             self._set_busy(False)
+            self.stage_var.set("已取消")
             self.log("已取消。")
             return
         try:
             bak, created = backup_bundle(g, progress=lambda m: self.q.put(str(m)))
         except Exception as e:
             self._set_busy(False)
+            self.stage_var.set("备份失败")
             self._err(str(e)); self.log("汉化中止：备份失败。"); return
 
         # 2) 手术
@@ -183,20 +303,31 @@ class App:
                 src=bundle, out=bundle,      # 原地改写（已备份到 .bak.v5）
                 translations=cn, font_bytes=font,
                 allow_unmatched=False, validate=True, packer="lz4",
-                progress=lambda m: self.q.put(str(m)),
+                progress=self._prog_cb,
             )
         except ValueError as e:
             self._set_busy(False)
+            self.stage_var.set("汉化中止")
+            self.detail_var.set("")
             self._err(str(e))
             self.log("\n汉化中止：结构校验失败或表有包无（游戏可能已大改）。\n"
                      f"原版仍备份在 data.unity3d.bak.v5，可点「一键还原」。")
             return
         except Exception as e:
             self._set_busy(False)
+            self.stage_var.set("汉化失败")
+            self.detail_var.set("")
             self._err(str(e)); self.log("\n汉化失败（详细信息见上）。原版已备份，可「一键还原」。"); return
 
         self._set_busy(False)
-        self.q.put(f"\n===== 汉化完成 =====")
+        # 完成态：进度条拉满 + 主标题改为成功提示
+        self.total_var.set(100.0)
+        self.stage_var2.set(100.0)
+        self.total_lbl.configure(text="总进度 100%")
+        self.stage_var.set("✓ 汉化完成，可从 Steam 启动游戏")
+        self.detail_var.set(f"写入 {result['patched_terms']} 条 · 缺译保留原文 "
+                            f"{result['fallback']} 条 · 字体 {result['fonts']}")
+        self.q.put("\n===== 汉化完成 =====")
         self.q.put(f"写入 {result['patched_terms']} 条 | 缺译保留原文 {result['fallback']} 条"
                    f" | 字体 {result['fonts']} | 静态标签 {result['static_labels']}")
         if result.get("warnings"):
@@ -218,12 +349,19 @@ class App:
         if not messagebox.askyesno("一键还原", f"确认从\n{g}\\FalloutShelter_Data\\data.unity3d.bak.v5\n还原原版？", parent=self.root):
             return
         self._set_busy(True)
-        self.log("\n===== 还原原版 =====")
+        self._reset_progress()
+        self.stage_var.set("正在还原原版…")
+        self.q.put("\n===== 还原原版 =====")
         try:
             p, ok = restore_bundle(g, progress=lambda m: self.q.put(str(m)))
             self.q.put(f"已还原：{p}")
             self.q.put("现在可从 Steam 启动游戏（原版）。")
+            self.total_var.set(100.0); self.stage_var2.set(100.0)
+            self.total_lbl.configure(text="总进度 100%")
+            self.stage_var.set("✓ 已还原为原版")
+            self.detail_var.set(p)
         except Exception as e:
+            self.stage_var.set("还原失败")
             self._err(str(e))
         finally:
             self._set_busy(False)

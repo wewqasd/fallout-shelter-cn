@@ -5,8 +5,8 @@ SPECPATH 相对路径保证任意 cwd 可打包。
 
 入口与内嵌资源（resource_base() 从 _MEIPASS 读取，均须存在）：
   入口   src/fs_cn_main.py （包外入口，启动 fs_cn.gui；fs_cn 包含 patcher/resources/game_dir）
-  data/translations.json    翻译表 (14064 键)
-  data/i2_dump.json         I2 全量 dump / EN 源（供结构校验）
+  data/translations.json    翻译表 (14073 键)
+  data/i2_dump.json         I2 全量 dump / EN 源（供结构校验，2.6.0 基准）
   assets/noto_sans_sc_cn.ttf  中文字体 (OFL，可再分发)
 """
 import os

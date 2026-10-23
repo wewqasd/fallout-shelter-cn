@@ -48,6 +48,7 @@ Achievement_Xbox_Name_14	Fashionista	时尚潮人
 Achievement_Xbox_Name_15	More Than Handy	不只是手巧
 Achievement_Xbox_Name_16	A Little Off the Top	稍稍剪短点
 ActivateRewards	ACTIVATE REWARDS	激活奖励
+AdWatchError	Could not load ad for ingame reward.	无法加载广告，暂时无法领取游戏内奖励。
 Age_Verification_Leaderboard_Popup	This feature is currently disabled due to your account settings. To access this feature, enable leaderboard data sharing in your privacy settings.	由于您的账户设置，此功能目前已被禁用。要使用此功能，请在隐私设置中开启排行榜数据共享。
 Age_Verification_Under13_Popup	Because this account belongs to a user under 13, access to the game is not authorized. If you believe this is incorrect, please check your device's account settings or ask a parent or guardian for help.	由于此账户属于未满13岁的用户，您无权访问游戏。如果您认为此判定有误，请检查您设备的账户设置或向父母/监护人寻求帮助。
 AlienDrone_GiveAway_Popup_Main	HERE'S AN EXTRATERRESTRIAL FRIEND TO CELEBRATE FALLOUT'S 25th ANNIVERSARY WITH! BUT WHERE DID IT COME FROM?	这个外星朋友将与您一起庆祝《辐射》25周年！但它到底是从哪儿来的？
@@ -153,6 +154,8 @@ Button_BuyPack	BUY PACK	购买卡包
 Button_BuyPack_Switch	OPEN ESHOP	打开在线商店
 Button_Cancel	CANCEL	取消
 Button_Confirm	CONFIRM	确定
+Button_ContactSupport	CONTACT SUPPORT	联系客服
+Button_ContactSupport_Description	Connect with Bethesda Customer Services if you need assistance (opens external window).	如需协助，可与 Bethesda 客服取得联系（将打开外部窗口）。
 Button_Continue	CONTINUE	继续
 Button_ContinueWithExVault	CONTINUE CREATING AN EXPERIMENTAL VAULT	继续创建实验避难所
 Button_Crafting	CRAFT	打造
@@ -181,6 +184,8 @@ Button_ReloadLater	RELOAD LATER	稍后加载
 Button_ReloadNow	RELOAD NOW	现在加载
 Button_Reset	RESET	重置
 Button_Sell	SELL	卖出
+Button_SendBugReport	SEND REPORT	发送报告
+Button_SendBugReport_Description	Send an anonymous report describing the issue you have experienced.	匿名发送报告，描述您遇到的问题。
 Button_Skip	SKIP	跳过
 Button_Sort	Sort	排序
 Button_Spin	SPIN	抽取
@@ -1063,6 +1068,7 @@ Ghoul_Name	Feral Ghoul	狂尸鬼
 Ghoul_Name_Plural	Feral Ghouls	狂尸鬼
 Gym_Upgrade_Info	Increases Strength training speed	加速力量（S）的训练
 HELP_LEGAL_LINK	help.bethesda.net	fo.sdo.com/faq/
+HelpMenu_Title	SELECT AN OPTION	请选择一项
 Help_Page01_BottomText	Hint: Some Objectives reward you with Lunchboxes, Pet Carriers or Mr. Handy Boxes!	提示：完成某些目标可获得午餐盒、宠物笼子或巧手先生盒子！
 Help_Page01_MainText	"There are always three Objectives you can work on.
 
@@ -2904,9 +2910,9 @@ Message_Tutorial_03_PC	We'll build a {POWER GENERATOR} that will produce {POWER}
 Message_Tutorial_03_Xbox	We'll build a {POWER GENERATOR} that will produce {POWER}. Press [A] to {SELECT} the {POWER ROOM}.	我们将建立一个{发电室}来产生{电力}。按下来{选择}{发电室}。
 Message_Tutorial_04	{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {TAPPING} the {BUILD ZONE}.	{建造区域}就是可以建造{房间}的位置。{点击}{建造区域}来确认位置。
 Message_Tutorial_04_PC	{BUILD ZONES} are where you can build {ROOMS}. Confirm the location by {CLICKING} the {BUILD ZONE}.	{建造区域}就是可以建造{房间}的位置。{点击}{建造区域}来确认位置。
-Message_Tutorial_04_PS4	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
-Message_Tutorial_04_Switch	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
-Message_Tutorial_04_Xbox	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。 使用{左摇杆}选择一个{建造区域}，再{按下}以确认。
+Message_Tutorial_04_PS4	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。使用{左摇杆}来{选择}一个{建造区域}，再{按下}以确认。
+Message_Tutorial_04_Switch	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。使用{左摇杆}来{选择}一个{建造区域}，再{按下}以确认。
+Message_Tutorial_04_Xbox	{BUILD ZONES} are where you can build {ROOMS}. Use the {LEFT STICK} to {SELECT} a {BUILD ZONE} and {PRESS} [A] to confirm.	您可以在{建造区域}建造{房间}。使用{左摇杆}来{选择}一个{建造区域}，再{按下}以确认。
 Message_Tutorial_05	Now we need {DWELLERS} to make the {POWER GENERATOR} produce power.	现在我们需要{居民}来使{发电室}发电。
 Message_Tutorial_06	Look! {NEW DWELLERS} have shown up at the {VAULT DOOR}.	看！{新居民}已出现在{避难所大门}。
 Message_Tutorial_07	Let's look at the {STATS} of a {DWELLER}. {TAP} on a {DWELLER} to {SEE THEIR INFO}.	让我们看看{居民}的{状态}。{点击}{居民}来{查看信息}。
@@ -2918,8 +2924,8 @@ Message_Tutorial_08	You can see the {DWELLER'S SPECIAL} stats. This info tells y
 Message_Tutorial_09	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
 Message_Tutorial_09_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
 Message_Tutorial_09_Xbox	To assign a {SELECTED DWELLER}, {HOLD} [A] to grab them and then {SELECT} a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{选中的居民}，{按住}抓住居民，然后{选择}一个房间。试着将这个{居民}分配到刚才所建的{发电室}。
-Message_Tutorial_10	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {TAP} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
-Message_Tutorial_10_PC	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {CLICK} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}和{按住}居民，然后{拖}到房间。
+Message_Tutorial_10	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {TAP} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}并{按住}该{居民}，然后将其{拖}到房间里。
+Message_Tutorial_10_PC	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {CLICK} and {HOLD} and then {DRAG} the {DWELLER} to the room.	现在将第二个{居民}分配到{发电室}。记得{点击}并{按住}该{居民}，然后将其{拖}到房间里。
 Message_Tutorial_10_Xbox	Now assign the second {DWELLER} to the {POWER GENERATOR}. Remember to {MOVE} to the {WASTELAND} and then {HOLD} [A] to grab them.	现在将第二个{居民}分配到{发电室}。记得{移动}至{废土}，然后{按住}来拖住他们。
 Message_Tutorial_11	Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE TAP} on a {ROOM} to take a closer look.	现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。
 Message_Tutorial_11_PC	Now that {DWELLERS} are working, the room will start {PRODUCING RESOURCES}. {DOUBLE CLICK} on a {ROOM} to take a closer look.	现在，{居民}正在工作，房间将开始{生产资源}。{双击}{房间}来仔细察看。
@@ -2970,8 +2976,8 @@ Message_Tutorial_43	This time, you need a {WATER TREATMENT} room, which will pro
 Message_Tutorial_43_PC	This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {CLICK} on {WATER TREATMENT}.	这次您需要一个{水房}来帮助您生产干净的{水}。{点击}{水房}。
 Message_Tutorial_43_Xbox	This time, you need a {WATER TREATMENT} room, which will produce {WATER}. {SELECT} the {WATER TREATMENT}.	这次您需要一个{水房}来帮助您生产干净的{水}。{选择}{水房}。
 Message_Tutorial_44	Dwellers require {WATER} to keep their {RADIATION} level low. Tap again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。
-Message_Tutorial_44_PC	Dwellers require {WATER} to keep their {RADIATION} level low. Click again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次点击来{确认}。
-Message_Tutorial_44_Xbox	Dwellers require {WATER} to keep their {RADIATION} level low. Press [A] again to {CONFIRM}.	居民需要干净的{水}来远离{辐射}危害。再次按下来{确认}。
+Message_Tutorial_44_PC	Dwellers require {WATER} to keep their {RADIATION} level low. Click again to {CONFIRM}.	居民需要{水}来保持{辐射}水平处于低位。再次点击来{确认}。
+Message_Tutorial_44_Xbox	Dwellers require {WATER} to keep their {RADIATION} level low. Press [A] again to {CONFIRM}.	居民需要{水}来保持{辐射}水平处于低位。再次按下来{确认}。
 Message_Tutorial_45	Confirm the location by {TAPPING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
 Message_Tutorial_45_PC	Confirm the location by {CLICKING} the {BUILD ZONE}.	{点击}{建造区域}来确认地点。
 Message_Tutorial_45_Xbox	Confirm the location by {SELECTING} a {BUILD ZONE}.	{选择}{建造区域}来确认地点。
@@ -2983,7 +2989,7 @@ Message_Tutorial_47	{JUNK} is used to {CRAFT WEAPONS} and {OUTFITS} in the {WORK
 Message_Tutorial_48	A {PREGNANT DWELLER} is ready to give birth! {TAP} the {ICON} above her head to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。
 Message_Tutorial_48_PC	A {PREGNANT DWELLER} is ready to give birth! {CLICK} the {ICON} above her head to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{点击}她头上的{图标}来欢迎避难所的{新成员}。
 Message_Tutorial_48_Xbox	A {PREGNANT DWELLER} is ready to give birth! {SELECT} her to welcome a {CHILD} to your Vault.	{怀孕的居民}已经准备好生产了！{选择}她来欢迎避难所的{新成员}。
-Message_Tutorial_49	Your {INVENTORY} is {FULL}. Excess {ITEMS} will be stored but {UNAVAILABLE} until there's space for them.	您的{库存已满}。多出的{物品}将会保留，但无法使用，直到有足够的空间。
+Message_Tutorial_49	Your {INVENTORY} is {FULL}. Excess {ITEMS} will be stored but {UNAVAILABLE} until there's space for them.	您的{库存}已{满}。多出的{物品}将会被存放，但在腾出空间之前{无法使用}。
 Message_Tutorial_50	{ITEMS} within a {DASHED RECTANGLE} exceed your {INVENTORY} and are {UNAVAILABLE} until there's space for them.	{虚线矩形边框}内的{物品}超出了您的{库存}容量，在有足够空间之前无法{使用}。
 Message_Tutorial_51	{SCRAPPING} an {ITEM} turns it into {JUNK}, but it's {RISKY}. You might get lots of {JUNK}, just a little, or none at all.	{分解}一个{物品}来将其变成{杂物}，但此事有{风险}。您可能会得到很多{杂物}、一点点杂物，或者什么都得不到。
 Message_Tutorial_52	Congratulations – you just built the {OVERSEER'S OFFICE}! You can now send teams of {DWELLERS} out of the Vault on {QUESTS}.	恭喜！您刚建成了{监督者办公室}！您现在可以派出{居民}小队去避难所外执行{任务}了。
@@ -3007,17 +3013,17 @@ Message_Tutorial_62_Xbox	Press [DL] to open the {WASTELAND QUEST LOG}.	按下
 Message_Tutorial_63	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {TAP} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now.	用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。
 Message_Tutorial_63_PC	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. {CLICK} here to use the {NUKA-COLA QUANTUM} Vault-Tec has provided to reach this {QUEST} now.	用{量子核子可乐}，您可以立即到达{任务}地点。{点击}这里用避难所科技提供的{量子核子可乐}来极速到达{任务}现场。
 Message_Tutorial_63_Xbox	With {NUKA-COLA QUANTUM} you can reach a {QUEST} instantly. Select {REACH NOW} to use the {NUKA-COLA QUANTUM} Vault-Tec has provided.	用{量子核子可乐}，您可以立即到达{任务}地点。选择{现在到达}来使用避难所科技提供的{量子核子可乐}。
-Message_Tutorial_64	You can also use {NUKA-COLA QUANTUM} to skip {OBJECTIVES} in the {VAULT} and to speed up {CRAFTING}, {TRAINING} and Barbershop {CUSTOMIZATION}.	您还能够使用{量子核子可乐}来跳过避难所里的每日{目标}，加速{打造}、{训练}和美发店{个性化}的进程。
+Message_Tutorial_64	You can also use {NUKA-COLA QUANTUM} to skip {OBJECTIVES} in the {VAULT} and to speed up {CRAFTING}, {TRAINING} and Barbershop {CUSTOMIZATION}.	您还能够使用{量子核子可乐}来跳过{避难所}里的每日{目标}，加速{打造}、{训练}和美发店{个性化}的进程。
 Message_Tutorial_65	{QUESTS} allow you to explore new locations, meet new {DWELLERS} and collect {LOOT}. The {MAP ICON} in the upper right corner will display your {QUEST OBJECTIVES}.	{任务}能让您探索新的地点，认识新{居民}和收集{战利品}。右上角的{地图图标}会显示您的{任务目标}。
 Message_Tutorial_66	Your Dweller(s) will automatically leave the Vault to begin the Quest.	您的居民会自动离开避难所，开始执行任务。
 Message_Tutorial_67	If you don't want any new Dwellers, you can {STOP} the {RADIO STUDIO} from calling out. It will still broadcast in the Vault and boost {HAPPINESS}.	如果不需要任何新居民，您可以{关闭}{广播站}的对外召唤功能，但其仍能在避难所内部播放广播，提升居民{幸福度}。
 Message_Tutorial_68	To assign a {DWELLER}, {TAP} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
 Message_Tutorial_68_PC	To assign a {DWELLER}, {CLICK} and {HOLD} on the Dweller and then {DRAG} them to a room. Try assigning this {DWELLER} to the {POWER GENERATOR} room you just built.	要分配一个{居民}，{点击}并{按住}该居民，再将其{拖拽}到一个房间。试试把这个{居民}分配到您刚刚建好的{发电室}里。
-Message_Tutorial_68_PS4	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
-Message_Tutorial_68_Switch	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
-Message_Tutorial_68_Xbox	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用左摇杆{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
+Message_Tutorial_68_PS4	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用{左摇杆}{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
+Message_Tutorial_68_Switch	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用{左摇杆}{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
+Message_Tutorial_68_Xbox	Use the {LEFT STICK} to {MOVE} the {DWELLER} to the {POWER ROOM} and press [A] to assign them to the room	用{左摇杆}{移动}{居民}到{发电室}，然后按下键将其分配到这个房间。
 Message_Tutorial_ArrivalWidgetBuildOverseerRoom	Each {SEASONAL DWELLER} will also unlock a new {QUEST LINE}. Unlock and build an {OVERSEER's OFFICE} to recruit your new Dweller!	每个{赛季居民}都会解锁一条新的{任务线}。解锁并建造{监督者办公室}，来招募您的新居民！
-Message_Tutorial_ArrivalWidgetClaimDweller	{TAP} on the {CLAIM BUTTON} to recruit your new Dweller.	{点击}{领取按钮}来招募您的新居民。
+Message_Tutorial_ArrivalWidgetClaimDweller	{TAP} on the {CLAIM BUTTON} to recruit your new Dweller.	{点击}{领取按钮}来接收您的新居民。
 Message_Tutorial_ArrivalWidgetClaimDweller_PC	{CLICK} on the {CLAIM BUTTON} to recruit your new Dweller.	{点击}{领取按钮}来招募您的新居民。
 Message_Tutorial_ArrivalWidgetClaimDweller_Xbox	{SELECT} the {CLAIM BUTTON} to recruit your new Dweller.	{选择}{领取按钮}来招募您的新居民。
 Message_Tutorial_ArrivalWidgetHighlightDweller	Remember to {ASSIGN} your new Dweller to your Vault!	记得把您的新居民{分配}到避难所！
@@ -3034,8 +3040,8 @@ Message_Tutorial_ScorchedAttackFail	The Scorched beat all your dwellers. But you
 Message_Tutorial_ScorchedEarlyAttack	You can start a {SCORCHED RAID} early if there is less than {12 HOURS} remaining. But make sure you're prepared!	如果剩余时间不足{12小时}，您可以提前开始{辐尸人突袭}。但请确保自己已做好准备！
 Message_Tutorial_ScorchedEnemies	{SCORCHED RAIDS} will have more enemies and increase in {DIFFICULTY} as the season progresses.	随着赛季推进，{辐尸人突袭}的敌人会更多，{难度}也会逐步提升。
 Message_Tutorial_ScorchedTimerIntroduction	{SCORCHED RAIDS} will occur every few days. The {TIME} until the next {RAID} is shown in the top left.	{辐尸人突袭}每隔几天发生一次。左上角的{时间}显示距离下一场{突袭}的倒计时。
-Message_Tutorial_ScorchedTimerOpen	{TAP} on the timer to see more details about the next {SCORCHED RAID}.	点击计时器，查看下一场{辐尸人突袭}的更多细节。
-Message_Tutorial_ScorchedTimerOpen_PC	{CLICK} on the timer to see more details about the next {SCORCHED RAID}.	点击计时器，查看下一场{辐尸人突袭}的更多细节。
+Message_Tutorial_ScorchedTimerOpen	{TAP} on the timer to see more details about the next {SCORCHED RAID}.	{点击}计时器，查看下一场{辐尸人突袭}的更多细节。
+Message_Tutorial_ScorchedTimerOpen_PC	{CLICK} on the timer to see more details about the next {SCORCHED RAID}.	{点击}计时器，查看下一场{辐尸人突袭}的更多细节。
 Message_Tutorial_ScorchedTimerOpen_Xbox	{SELECT} the timer to see more details about the next {SCORCHED RAID}.	{选择}计时器，查看下一场{辐尸人突袭}的更多细节。
 Message_Tutorial_SeasonBattlePass	Gaining {RANKS} in the {SEASON PASS} gives you {REWARDS} that can be claimed in each of your Vaults.	在{赛季通行证}中获取{等级}，即可获得可在每一座避难所领取的{奖励}。
 Message_Tutorial_SeasonChallenges	Complete {CHALLENGES} to earn progress on your {SEASON PASS}. New Challenges are unlocked each week.	完成{挑战}来推进您的{赛季通行证}进度。每周都会解锁新的挑战。
@@ -3436,7 +3442,7 @@ Objective_ExtinguishFire	Successfully extinguish 1 Vault fire	成功扑灭1次�
 Objective_ExtinguishFire_Plural	Successfully extinguish {0} Vault fires	成功扑灭{0}次避难所火灾
 Objective_Food	Collect {0} Food	收集{0}食物
 Objective_Food_Plural	Collect {0} Food	收集{0}食物
-Objective_HaveBabies	Deliver 1 baby Dweller	成功接生一个避难所婴儿
+Objective_HaveBabies	Deliver 1 baby Dweller	成功接生一个婴儿居民
 Objective_HaveBabies_Plural	Deliver {0} baby Dwellers	成功接生{0}个避难所婴儿
 Objective_KillCreature	Kill 1 creature in the Wasteland	在废土上消灭1个生物
 Objective_KillCreature_Plural	Kill {0} creatures in the Wasteland	在废土上消灭{0}个生物
@@ -4034,7 +4040,7 @@ Pet_Description_british_b	All knowing, all seeing. Just ask Alice.	什么都知�
 Pet_Description_british_l	An indoor cat with Wasteland proclivities. Keep that Vault door shut.	一个有废土倾向的室内猫。请确保避难所的门关好了。
 Pet_Description_brittany_b	Fast and rugged, he ain't nothin' but a bird dog.	一只猎鸟狗，跑得快，长得壮。
 Pet_Description_brittany_l	Quiet yet commanding, with a legendary ability to inspire.	安静而威严，具有振奋人心的神奇能力。
-Pet_Description_burmilla_b	This pretty kitty cheers up even the gloomiest Vault Dweller.	这只漂亮的小猫咪甚至能让避难所最悲观的居民振作起来。
+Pet_Description_burmilla_b	This pretty kitty cheers up even the gloomiest Vault Dweller.	这只漂亮的小猫咪甚至能让最悲观的避难所居民也振作起来。
 Pet_Description_burmilla_l	Little miss purr-fect.	真是只秀美的小猫咪。
 Pet_Description_burmilla_l2	He scratches you because he loves you. Honest.	说真的，它挠你是因为它爱你。
 Pet_Description_cattledog_b	Children. Brahmin. Deathclaws. She can herd them all.	儿童。双头牛。死爪。它全都能放牧。
@@ -4227,7 +4233,7 @@ QuestLoc_ACryforHelp_QuestLongDescription	One of your Wasteland explorers has he
 QuestLoc_ACryforHelp_QuestName	A Cry for Help	大声呼救
 QuestLoc_ACryforHelp_QuestObjective_1	Investigate the Red Rocket Truck Stop.	调查红火箭服务站。
 QuestLoc_ACryforHelp_QuestShortDescription	Someone in a Red Rocket Truck Stop is calling for help.	红火箭服务站里有人在大声呼救。
-QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCEnd_1	All right. Hope you Dwellers know what you're doing.	好吧。希望你们知道自己在做什么。
+QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCEnd_1	All right. Hope you Dwellers know what you're doing.	好吧。希望你们这些居民知道自己在做什么。
 QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCEnd_2	Come and get me!	来抓我啊！
 QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCEnd_3	Fine, but it's not going to help ya.	好吧，但这可帮不了你。
 QuestLoc_ADeliciousTrailofDanger_Conversation_1_NPCStart_1	You fools. The Gobbler can't be stopped! It killed all my men.	真是群傻瓜。你们是无法阻止高步勒的！它杀死了我所有的伙伴。
@@ -4978,7 +4984,7 @@ QuestLoc_ChooChoo_Conversation_1_NPCStart_2	You ain't railroading us!	可别想�
 QuestLoc_ChooChoo_QuestLongDescription	One of your Dwellers won't stop calling themselves “The Pain Train.” Let's make that nickname a reality...	你的一位居民一直称自己是“会痛的火车”。我们来让他梦想成真……
 QuestLoc_ChooChoo_QuestName	Choo-Choo!	呜—呜——！
 QuestLoc_ChooChoo_QuestObjective_1	Kill the Raider Boss.	消灭掠夺者首领。
-QuestLoc_ChooChoo_QuestShortDescription	Send a lone Vault Dweller with a Railway Rifle out to wreak havoc!	派一位拿着射钉步枪的居民去搞一场大破坏吧！
+QuestLoc_ChooChoo_QuestShortDescription	Send a lone Vault Dweller with a Railway Rifle out to wreak havoc!	派一位带着射钉步枪的避难所居民去搞一场大破坏吧！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_1_NPCEnd_1	He'll give us free stuff? All right. You Dwellers can pass.	他会免费给我们东西？好吧，你们这些居民可以走了。
 QuestLoc_ChristmasattheRaiderCamp_Conversation_1_NPCEnd_2	You're dead, and the North Pole is next!	你死定了。北极是下一个目标！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_1_NPCStart_1	Well, well, it's Santa's little helpers!	嗬嗬，原来是圣诞老人的小帮手来了！
@@ -4996,7 +5002,7 @@ QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCEnd_1	Done!	搞定！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCEnd_2	Ha! Here you go.	哈！来，给你。
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCEnd_3	Christmas is cancelled!	圣诞节取消了！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCStart_1	I'm Boss McScrooge. I used to hate Christmas.	我是首领麦斯克鲁奇。我一度很讨厌圣诞节。
-QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCStart_2	But you Dwellers with all your cheer have changed my mind!	但是你们这些居民改变了我！
+QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCStart_2	But you Dwellers with all your cheer have changed my mind!	但是你们这些居民，带着那股欢乐劲，改变了我的想法！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_NPCStart_3	So let's hand out some presents!	所以就让我们来分发一点礼物吧！
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_Team_1	How about some fancy new clothes?	你们觉得一些漂亮的新衣服怎么样？
 QuestLoc_ChristmasattheRaiderCamp_Conversation_3_Team_2	How about cash? Lots of cash.	钱怎么样？很多很多的钱。
@@ -5059,7 +5065,7 @@ QuestLoc_CollateralMurder_QuestShortDescription	Find the first group of settlers
 QuestLoc_CollectorsEdition_Conversation_1_NPCEnd_1	We have unsophisticated palates!	我们的口味可没那么讲究！
 QuestLoc_CollectorsEdition_Conversation_1_NPCEnd_2	Not yet, but we'll do that right after killing you!	还没有，但我们杀死你后马上就这么做！
 QuestLoc_CollectorsEdition_Conversation_1_NPCEnd_3	Yeah, but how fun would *that* be?	是的，但是那该会有多有趣？
-QuestLoc_CollectorsEdition_Conversation_1_NPCStart_1	You should have stayed in your Vault, Dwellers!	你应该待在你的避难所里！
+QuestLoc_CollectorsEdition_Conversation_1_NPCStart_1	You should have stayed in your Vault, Dwellers!	你们应该待在自己的避难所里，居民们！
 QuestLoc_CollectorsEdition_Conversation_1_NPCStart_2	First we're going to kill you...	首先我们要杀了你……
 QuestLoc_CollectorsEdition_Conversation_1_NPCStart_3	...and then we'll have that Mr. Handy roast you up real good!	……然后我们会让巧手先生把你烤得好好的！
 QuestLoc_CollectorsEdition_Conversation_1_Team_1	You shouldn't. Mr. Handy robots are terrible at cooking.	这样不好吧。巧手先生在烹饪方面很糟糕。
@@ -5088,7 +5094,7 @@ QuestLoc_ConferenceontheMound_QuestName	Conference on the Mound	土堆上的会�
 QuestLoc_ConferenceontheMound_QuestObjective_1	Search for Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_ConferenceontheMound_QuestShortDescription	Find Rackie Jobinson's Baseball Jersey.	寻找罗基·杰宾森的棒球衫。
 QuestLoc_CoveWatch_Conversation_1_NPCStart_1	Everybody wants to be famous - well I'll tell this story for a good long time!	人人都想出名 - 这个故事我可以讲好久了！
-QuestLoc_CoveWatch_QuestLongDescription	The Vault has received word of a TV pilot filming nearby. It's almost certainly a trap, but send your most physically attractive Dwellers dressed for the part just in case.	避难所得到消息，说附近正在拍摄一部电视试播集。这几乎肯定是个陷阱，但以防万一，还是派你最具魅力的居民打扮得符合角色去一趟吧。
+QuestLoc_CoveWatch_QuestLongDescription	The Vault has received word of a TV pilot filming nearby. It's almost certainly a trap, but send your most physically attractive Dwellers dressed for the part just in case.	避难所得到消息，说附近正在拍摄一部电视试播集。这几乎肯定是个陷阱，但以防万一，还是派你的最具魅力的居民打扮得符合角色去一趟吧。
 QuestLoc_CoveWatch_QuestName	CoveWatch!	溪谷勘察！
 QuestLoc_CoveWatch_QuestObjective_1	Explore the building.	探索建筑。
 QuestLoc_CoveWatch_QuestShortDescription	Auditions for a TV Show, or trap? Probably trap.	是真的电视节目试镜？还是个陷阱？应该是陷阱吧。
@@ -5112,7 +5118,7 @@ QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_3	And when Pestilence i
 QuestLoc_CrimeSceneInvestigation_Conversation_2_NPCStart_4	Blessed be the irradiated!	愿辐射保佑我们！
 QuestLoc_CrimeSceneInvestigation_Conversation_2_Team_1	But your entire philosophy makes no sense! And “Pests” is a stupid name!	但你们整体的理念毫无意义！还有“害虫”是一个愚蠢的名字！
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCEnd_1	We know Death well. In fact, our Overseer might be able to help you. We'll be in touch...	我们很了解“死亡”。事实上，我们的监督者也许能帮助你。我们会保持联系……
-QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_1	Who goes there? Other Vault Dwellers! It's nice to meet you.	谁在那儿？是其他避难所的居民！很高兴认识你们。
+QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_1	Who goes there? Other Vault Dwellers! It's nice to meet you.	谁在那儿？是其他避难所居民！很高兴认识你们。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_2	We're from Vault 144. We were trading partners with Vault 672.	我们来自于144号避难所。我们是672号避难所的贸易伙伴。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_3	We hadn't heard from them in weeks, so we came to investigate.	我们几个星期没有收到他们的消息了，所以我们就来调查。
 QuestLoc_CrimeSceneInvestigation_Conversation_3_NPCStart_4	As you can tell, it seems they were attacked, with no survivors! Do you know who did it?	正如你所知道的，他们似乎被攻击，没有幸存者！你们知道是谁干的吗？
@@ -5486,7 +5492,7 @@ QuestLoc_DogsofWar_Conversation_2_NPCStart_1	Looky here, someone got through all
 QuestLoc_DogsofWar_Conversation_2_NPCStart_2	No matter. The message is out. “You can't stop the signal,” after all.	不管了。消息已发出。毕竟“你不能阻止信号传播”。
 QuestLoc_DogsofWar_Conversation_2_NPCStart_3	Raiders will come from all over to serve War. Or else face his wrath. And his morning breath.	掠夺者会从四面八方赶来为“战争”效力，否则就要面对他的怒火。还有他的晨间口臭。
 QuestLoc_DogsofWar_Conversation_2_NPCStart_4	Now, before we introduce you to our weapons, tell me. Which Horseman sent you?	现在，在亮出我的武器之前，告诉我。哪位“骑士”派你来的？
-QuestLoc_DogsofWar_Conversation_2_Team_1	None of them. We're Vault Dwellers and we'll stop the Horsemen.	没谁。我们是避难所的居民，我们会阻止“骑士”。
+QuestLoc_DogsofWar_Conversation_2_Team_1	None of them. We're Vault Dwellers and we'll stop the Horsemen.	没谁。我们是避难所居民，我们会阻止“骑士”。
 QuestLoc_DogsofWar_Conversation_2_Team_2	Pestilence. Blessed be the irradiated!	“瘟疫”。辐射保佑着我们！
 QuestLoc_DogsofWar_Conversation_2_Team_3	Famine. Let our hunger consume you!	“饥荒”。让我们的饥饿吞噬你！
 QuestLoc_DogsofWar_Conversation_2_Team_4	Death. But we haven't picked a slogan yet.	“死亡”。但我们还没有想好口号。
@@ -5526,7 +5532,7 @@ QuestLoc_DrivingtheSnakesOut_Conversation_2_Team_3	I guess we'll have to agree t
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCEnd_1	A bonnie lass once broke me heart, and I couldn't deal with it.	美丽的姑娘曾经伤了我的心，可我不知道该怎么办。
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCEnd_2	That's exactly what a ginger lover would say!	这正是一个红发爱好者会说的话！
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCEnd_3	Ireland's lack of snakes goes back to the last ice age!	爱尔兰无蛇的历史可以追溯到上一个冰河时代！
-QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_1	Hello there, Dwellers.	你们好呀，避难所居民们。
+QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_1	Hello there, Dwellers.	你们好呀，居民们。
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_2	Come to join our fight against the *real* red menace?	来加入我们对抗真正的红色威胁吗？
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_3	We gotta stop the carrot tops!	我们必须阻止那些胡萝卜头！
 QuestLoc_DrivingtheSnakesOut_Conversation_3_NPCStart_4	What do you say?	你们觉得怎么样？
@@ -5933,7 +5939,7 @@ QuestLoc_ENC_QL3_Escalation_1_QuestShortDesc	Shut down the animal experiments.	�
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1	Hey, you here to pick up your Enclave-sanctioned spy pet?	嘿，你是来领取英克雷批准的间谍宠物的吗？
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Answer0	Wow. Not only intruders, but too dumb to play along?	哇。不只是入侵者，还蠢到不配合演戏？
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Answer1	Don't hold your hands out. I'm not the one giving them out, that's further in.	别把手伸出来。发宠物的可不是我，得再往里走。
-QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Answer2	We need more folks like you to deal with those pesky Vault Dweller gold thieves.	我们需要更多像你这样的人，来对付那些烦人的避难所盗金贼。
+QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Answer2	We need more folks like you to deal with those pesky Vault Dweller gold thieves.	我们需要更多像你这样的人，来对付那些烦人的、专偷金子的避难所居民。
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Choice0	The what now?	什么玩意儿？
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Choice1	Yes, please.	好啊，麻烦了。
 QuestLoc_ENC_QL3_Escalation_1_Room0_Question_Line1_Choice2	Certainly. As you can see by my outfit, I do undercover work.	当然。看我这身打扮就知道，我是搞卧底工作的。
@@ -6395,7 +6401,7 @@ QuestLoc_ExtremePrejudice_Conversation_4_NPCEnd_3	Steve, all-knowing? You're cle
 QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_1	Hey, could you help settle an argument we're having?	嘿，你能帮我们解决争吵吗？
 QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_2	They say the Overseer will find a new Vault for us any moment now.	他们说，监督者会随时找到一个新的避难所给我们。
 QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_3	I think we'll be stuck in this crappy second-rate Vault forever.	我想我们会永远困在这蹩脚的二流避难所里。
-QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_4	What do you think, fellow Dweller that I can't quite place?	这位我一时认不出是谁的同胞，你怎么看？
+QuestLoc_ExtremePrejudice_Conversation_4_NPCStart_4	What do you think, fellow Dweller that I can't quite place?	这位我一时认不出是谁的居民同胞，你怎么看？
 QuestLoc_ExtremePrejudice_Conversation_4_Team_1	I'm on my way to see the Overseer. I can ask him if you want.	我正要去见监督者。如果你愿意，我可以问问他。
 QuestLoc_ExtremePrejudice_Conversation_4_Team_2	You'll live out the rest of your days here, i.e. a couple of minutes.	你会在这里度过剩下的日子，也就是几分钟。
 QuestLoc_ExtremePrejudice_Conversation_4_Team_3	Your... I mean, *our* Overseer is all-knowing. Surely he's telling the truth.	你的……我的意思是，我们的监督者什么都知道。他肯定说的是实话。
@@ -6473,7 +6479,7 @@ QuestLoc_Filly_Conversation03_NPC04	And here, fair wage for some outstanding wor
 QuestLoc_Filly_QuestLongDescription	You've stumbled across a slipshod settlement called Filly, offering welcome to other wastelanders. Unfortunately, it seems to be occupied by a gang of raiders who have different ideas...	你偶然来到了一个名为菲利的破败聚落，这个地方原本欢迎其他废土居民。不幸的是，这里似乎被一伙掠夺者占领了，他们有不同的想法……
 QuestLoc_Filly_QuestName	All Killy No Filly	菲利之殇
 QuestLoc_Filly_QuestObjective	Clear out the Raiders for Ma June.	帮助玛·琼清除那些掠夺者。
-QuestLoc_Filly_QuestShortDescription	Liberate the people of Filly.	解放菲利居民。
+QuestLoc_Filly_QuestShortDescription	Liberate the people of Filly.	解放菲利镇的百姓。
 QuestLoc_Firestarter_Conversation_1_NPCStart_1	Nice flamethrower. Let's see if you know how to use it!	火焰喷射器不错。倒要看看你到底会不会用！
 QuestLoc_Firestarter_Conversation_1_NPCStart_2	Everything's on fire! Kill 'em quick!	全都着火啦！速战速决！
 QuestLoc_Firestarter_Conversation_1_NPCStart_3	Time to snuff you out, pyro!	去死吧，你这个纵火狂！
@@ -7242,7 +7248,7 @@ QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_2	I'm Drusilla. I've be
 QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_3	They burned the records, but I remember everything. Vault 144 is only 10 miles west of here.	他们烧毁了记录，但我记得一切。144号避难所在西边10英里左右的地方。
 QuestLoc_GivemeLibertyandorDeath_Conversation_2_NPCStart_4	But take a look at this. I managed to save a copy of their Vault's Overseer Instruction Manual.	但是看看这个。我设法保存了一份他们避难所监督者的指导手册。
 QuestLoc_GivemeLibertyandorDeath_Conversation_2_Team_1	In every article about Dweller demise... “Death” is always capitalized.	手册里每一条关于居民死亡的条款里……“死亡”都是大写的。
-QuestLoc_GivemeLibertyandorDeath_QuestLongDescription	It was a trap! Whoever Death is, he's sleeping... and the Vault 144 Dwellers believe that killing people will wake the Horseman up! We killed their Overseer, but we still need to find their Vault. If we're lucky, the Vault-Tec Archives will have its location...	那是个陷阱！无论“死亡”是谁，他都在沉睡……而144号避难所的居民认为杀死人能让“骑士”醒来！我们杀了他们的监督者，但我们仍然需要找到他们的避难所。如果我们足够幸运，避难所科技的档案里应该会有它的位置……
+QuestLoc_GivemeLibertyandorDeath_QuestLongDescription	It was a trap! Whoever Death is, he's sleeping... and the Vault 144 Dwellers believe that killing people will wake the Horseman up! We killed their Overseer, but we still need to find their Vault. If we're lucky, the Vault-Tec Archives will have its location...	那是个陷阱！无论“死亡”是谁，他都在沉睡……而144号避难所居民认为杀死人能让“骑士”醒来！我们杀了他们的监督者，但我们仍然需要找到他们的避难所。如果我们足够幸运，避难所科技的档案里应该会有它的位置……
 QuestLoc_GivemeLibertyandorDeath_QuestName	Give me Liberty and/or Death	给我自由和/或死亡
 QuestLoc_GivemeLibertyandorDeath_QuestObjective_1	Discover the location of Vault 144.	发现144号避难所的位置。
 QuestLoc_GivemeLibertyandorDeath_QuestShortDescription	Discover the location of Vault 144, home of the Death cultists.	找到144号避难所的位置——那些“死亡”邪教徒的老巢。
@@ -7432,7 +7438,7 @@ QuestLoc_GroomforDoubt_Conversation_1_Team_3	Repent your sinful ways!	忏悔你�
 QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_1	Groom? Oh, you mean slave-boy? Yeah, he's ours now.	新郎？哦，你是说奴隶男孩？是的，他现在是我们的了。
 QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_2	Aww, that's so cute I almost feel like letting you live. Almost.	啊，这么可爱，我几乎想让你活着了。几乎。
 QuestLoc_GroomforDoubt_Conversation_2_NPCEnd_3	Come on ladies, let's show these losers what we're made of!	来吧，女士们，让这些废物见识见识我们的本事！
-QuestLoc_GroomforDoubt_Conversation_2_NPCStart_1	Welcome Dwellers.	欢迎居民。
+QuestLoc_GroomforDoubt_Conversation_2_NPCStart_1	Welcome Dwellers.	欢迎你们，居民们。
 QuestLoc_GroomforDoubt_Conversation_2_NPCStart_2	If you're looking for adventure, you've come to the right place.	你们要是想找点冒险，那可来对地方了。
 QuestLoc_GroomforDoubt_Conversation_2_NPCStart_3	We have a special clearance sale on Christmas-related stuff.	我们在圣诞相关商品上清仓大甩卖。
 QuestLoc_GroomforDoubt_Conversation_2_Team_1	We came for the groom you kidnapped.	我们是为被你们绑架的新郎而来的。
@@ -8749,7 +8755,7 @@ QuestLoc_ItsnotEasyBeingGreen_Conversation_3_Team_2	What do you guys put in the 
 QuestLoc_ItsnotEasyBeingGreen_Conversation_3_Team_3	The green beer is making you sick.	绿啤酒会让你们生病。
 QuestLoc_ItsnotEasyBeingGreen_QuestLongDescription	Nearby Settlers have become very sick following the annual St. Patrick's Day festivities, with some reported cases of Ghoulification! This might just be, um, “food” poisoning, but we should investigate in case it's an actual epidemic...	在一年一度的圣帕特里克节庆祝活动之后，附近的定居者病得很厉害，还有些报告显示出现了尸鬼化病例！这可能只是，呃，“食物”中毒，但我们应该调查一下，以防这真的是一场流行病……
 QuestLoc_ItsnotEasyBeingGreen_QuestName	It's not Easy Being Green	变绿不容易
-QuestLoc_ItsnotEasyBeingGreen_QuestObjective_1	Meet with the settlement leader.	会见居民负责人。
+QuestLoc_ItsnotEasyBeingGreen_QuestObjective_1	Meet with the settlement leader.	会见定居点首领。
 QuestLoc_ItsnotEasyBeingGreen_QuestObjective_2	Visit Yellow quarantine zone.	访问黄色检疫区。
 QuestLoc_ItsnotEasyBeingGreen_QuestObjective_3	Visit Red quarantine zone.	访问红色检疫区。
 QuestLoc_ItsnotEasyBeingGreen_QuestShortDescription	Help nearby Settlers deal with a strange epidemic.	帮助附近的定居者解决一个奇怪的流行病。
@@ -8987,7 +8993,7 @@ QuestLoc_LiveDeadDrop_QuestLongDescription	We need to send a message to a friend
 QuestLoc_LiveDeadDrop_QuestName	Live Dead Drop	生死之间
 QuestLoc_LiveDeadDrop_QuestObjective_1	Deliver the secret message.	传递秘密信息。
 QuestLoc_LiveDeadDrop_QuestShortDescription	Deliver a message to a double agent.	给双面间谍传递消息。
-QuestLoc_LunchboxRun_QuestLongDescription	You've found the location of a Vault-Tec Lunchbox! Now we just need to send some volunteers to retrieve it.	你已经找到了避难所科技午餐盒的地点！现在我们只需派些志愿者居民去把它取回来。
+QuestLoc_LunchboxRun_QuestLongDescription	You've found the location of a Vault-Tec Lunchbox! Now we just need to send some volunteers to retrieve it.	你已经找到了避难所科技午餐盒的地点！现在我们只需派些志愿者去把它取回来。
 QuestLoc_LunchboxRun_QuestName	Lunchbox Run	午餐盒大作战
 QuestLoc_LunchboxRun_QuestObjective_1	Recover the Lunchbox.	找回午餐盒。
 QuestLoc_LunchboxRun_QuestShortDescription	Bring back that Lunchbox.	带回午餐盒。
@@ -9153,7 +9159,7 @@ QuestLoc_NVB_QL2_Leftovers_1_QuestObjective3	Reclaim our supplies	夺回我们�
 QuestLoc_NVB_QL2_Leftovers_1_QuestShortDesc	Hunt the bandits. End their thievery.	追捕那群匪徒。终结他们的偷窃行径。
 QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1	Scanning... Vault-Tec Identification… Access granted.	正在扫描……避难所科技身份识别……验证通过。
 QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer1	"Experiment ""Molespy"" failure. Hostile creatures have taken over the building."	实验“鼹鼠间谍”失败。敌对生物已占领整栋建筑。
-QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer2	Cannot comply. Resident mutated Mole rats control the facility.	无法照办。变异鼹鼠居民控制着该设施。
+QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer2	Cannot comply. Resident mutated Mole rats control the facility.	无法照办。变异的鼹鼠占据了该设施。
 QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Answer3	“Stuff” undefined. “Brigands” undefined. Facility overrun by intelligent Mole rats.	“东西”未定义。“强盗”未定义。设施已被高智商的鼹鼠占据。
 QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Choice1	Tell me more about this outbreak!	给我讲讲这次爆发的事！
 QuestLoc_NVB_QL2_Leftovers_1_Question0_Line1_Choice2	Seal the building. Flood it with toxic gasses.	封锁大楼。释放毒气淹没它。
@@ -9678,7 +9684,7 @@ QuestLoc_OperationSandman_Conversation_4_Team_1	Isn't it more plausible that gen
 QuestLoc_OperationSandman_Conversation_4_Team_2	Then why even tell us about the secret cave?	那为什么还要告诉我们秘密洞穴的事？
 QuestLoc_OperationSandman_Conversation_4_Team_3	Since you're about to kill us anyway, why don't you tell us where the cave is?	既然你要杀了我们，为什么不告诉我们洞穴在哪里？
 QuestLoc_OperationSandman_Conversation_4_Team_4	Suppose you wake Death up. What then?	假设你们唤醒了“死亡”。然后呢？
-QuestLoc_OperationSandman_QuestLongDescription	Despite the best efforts of the Vault 144 Dwellers, we discovered the location of their home and that they only worship Death because “Death” was incorrectly capitalized in their Vault's instruction manual! We must now infiltrate Vault 144 and stop them from waking Death...	尽管144号避难所的居民费尽心力，我们还是发现了他们避难所的位置，他们只崇拜“死亡”，是因为避难所指导手册里“death”被错误地首字母大写了！我们现在必须渗透进入144号避难所，阻止他们唤醒“死亡”……
+QuestLoc_OperationSandman_QuestLongDescription	Despite the best efforts of the Vault 144 Dwellers, we discovered the location of their home and that they only worship Death because “Death” was incorrectly capitalized in their Vault's instruction manual! We must now infiltrate Vault 144 and stop them from waking Death...	尽管144号避难所居民费尽心力，我们还是发现了他们避难所的位置，他们只崇拜“死亡”，是因为避难所指导手册里“death”被错误地首字母大写了！我们现在必须渗透进入144号避难所，阻止他们唤醒“死亡”……
 QuestLoc_OperationSandman_QuestName	Operation: Sandman	行动：睡魔
 QuestLoc_OperationSandman_QuestObjective_1	Stop the Vault 144 Death cultists.	阻止144号避难所“死亡”的信徒们。
 QuestLoc_OperationSandman_QuestShortDescription	Infiltrate Vault 144 to stop the Dwellers from waking Death.	潜入144号避难所阻止居民唤醒“死亡”。
@@ -10034,7 +10040,7 @@ QuestLoc_ReleasetheRaiders_Conversation_1_Team_3	Eagle. The code word is  “eag
 QuestLoc_ReleasetheRaiders_Conversation_1_Team_4	The Pests are after War's Power Armor?	“害虫”是为了“战争”的动力装甲而来的？
 QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_1	Listen up! It's Three Dog on the air.	听好了！这里是三狗正在直播。
 QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_2	He's warning everyone about Vault 144...	他在警告所有人提防144号避难所……
-QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_3	Settlers will be wary of any Dwellers now, including us!	定居者们现在对任何避难所的人都很警惕，包括我们！
+QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_3	Settlers will be wary of any Dwellers now, including us!	定居者们现在对任何居民都很警惕，包括我们！
 QuestLoc_ReleasetheRaiders_Conversation_2_NPCStart_4	But it should slow them down while we look for Death's cave.	但当我们寻找“死亡”的洞穴时，应该可以拖住他们。
 QuestLoc_ReleasetheRaiders_Conversation_3_NPCEnd_1	DEATH? I AM BECOME DEATH! AND THE WASTELAND WILL BURN!	“死亡”？我会变成“死亡”！废土将燃烧！
 QuestLoc_ReleasetheRaiders_Conversation_3_NPCStart_1	THOSE PESTS STOLE MY POWER ARMOR!	那些“害虫”偷走了我的动力装甲！
@@ -10069,7 +10075,7 @@ QuestLoc_RescueSanta_Conversation_1_NPCEnd_1	Well, all right, but don't shoot yo
 QuestLoc_RescueSanta_Conversation_1_NPCEnd_2	Always happy to share my fashion sense! Ho ho ho!	总是很乐意分享我的时尚品味！嚯嚯嚯！
 QuestLoc_RescueSanta_Conversation_1_NPCEnd_3	Well, I have this Giddyup Buttercup. Merry Christmas!	嗯，我这儿正好有一匹奶油小马。圣诞快乐！
 QuestLoc_RescueSanta_Conversation_1_NPCEnd_4	Ho ho ho! Looks like my Nice list just got a few entries longer!	嚯嚯嚯！看上去我的“好孩子”名单又多了几个名字了！
-QuestLoc_RescueSanta_Conversation_1_NPCStart_1	Ho ho ho! Thank you, Vault Dwellers.	嚯嚯嚯！谢谢你们，避难所的居民。
+QuestLoc_RescueSanta_Conversation_1_NPCStart_1	Ho ho ho! Thank you, Vault Dwellers.	嚯嚯嚯！谢谢你们，避难所居民。
 QuestLoc_RescueSanta_Conversation_1_NPCStart_2	You've saved me and Christmas!	你们不仅救了我，还救了圣诞节！
 QuestLoc_RescueSanta_Conversation_1_NPCStart_3	I couldn't ask for better helpers this year.	我再不可能找到比你们更好的帮手了。
 QuestLoc_RescueSanta_Conversation_1_NPCStart_4	Now, what can Santa give you this Holiday? Ho ho ho!	现在。今年圣诞节你们想要圣诞老人给你们什么礼物？嚯嚯嚯！
@@ -10550,7 +10556,7 @@ QuestLoc_ScienceCooperative_Conversation_1D_Team_3	The Wasteland is dangerous. T
 QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_1	Now what kind of an attitude is that? Why don't you get away from my plants?	那是什么态度？你为什么不离我的植物远点？
 QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_2	Hurray! Glad you appreciate my work. Here. Take a little something.	真开心有人感激我做的一切。来拿着，给你们的。
 QuestLoc_ScienceCooperative_Conversation_1E_NPCEnd_3	It's not just gardening, it's science! Never mind. Just leave me to my work.	这不是只是园艺，是科学！算了。让我好好工作吧。
-QuestLoc_ScienceCooperative_Conversation_1E_NPCStart_1	It's the Vault Dwellers! Thank you so much for coming.	是避难所的居民们！非常高兴你们能前来。
+QuestLoc_ScienceCooperative_Conversation_1E_NPCStart_1	It's the Vault Dwellers! Thank you so much for coming.	是避难所居民！非常感谢你们能前来。
 QuestLoc_ScienceCooperative_Conversation_1E_NPCStart_2	This is the Bubbly Botanist Bureau. We combine flowers with smiles!	这里是泡泡多园艺总局。我们把鲜花和微笑结合起来！
 QuestLoc_ScienceCooperative_Conversation_1E_Team_1	Flowers and smiles are useless. Only cruelty rules the Wasteland!	鲜花和微笑无用。残酷才能统治废土！
 QuestLoc_ScienceCooperative_Conversation_1E_Team_2	We hope you're growing some delightful daffodils and righteous roses!	我们希望你们能种出那些讨人喜欢的水仙花和真正的玫瑰！
@@ -10585,7 +10591,7 @@ QuestLoc_ScienceCooperative_Conversation_2C_Team_3	Maybe it just doesn't like yo
 QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_1	If your stomach can't stand the science, get out of the lab!	如果你的心容不下科学，那请你滚出我的实验室！
 QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_2	An interesting theory! Thank you. Here. Have something for your trouble.	有趣的理论！谢谢你。来，拿着，算是对你费心的谢礼。
 QuestLoc_ScienceCooperative_Conversation_2D_NPCEnd_3	Are you saying you're... cannibals? Um... maybe you should just go.	你是说你们……吃人？呃……你们还是走吧。
-QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_1	I'm afraid you're too late, Vault Dwellers. My patient is dead...	我恐怕你们来得太迟了。我的病人已经死了……
+QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_1	I'm afraid you're too late, Vault Dwellers. My patient is dead...	我恐怕你们来得太迟了，避难所居民。我的病人已经死了……
 QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_2	Just kidding! He was already dead! For a while actually. Not a great smell...	只是开玩笑！他早就死了，有好一会的，味道不太……
 QuestLoc_ScienceCooperative_Conversation_2D_NPCStart_3	I wonder why bodies never smell so bad when the person is alive?	我很好奇，为什么人活着的时候尸体闻起来就没那么臭呢？
 QuestLoc_ScienceCooperative_Conversation_2D_Team_1	This is most disgusting conversation we've ever had.	这是我经历过的最恶心的谈话。
@@ -10723,7 +10729,7 @@ QuestLoc_ShotgunWedding_QuestLongDescription	A love-struck Raider boss has decid
 QuestLoc_ShotgunWedding_QuestName	Shotgun Wedding	逼婚
 QuestLoc_ShotgunWedding_QuestObjective_1	Rescue the kidnapped Vault Dweller.	拯救被绑架的避难所居民。
 QuestLoc_ShotgunWedding_QuestObjective_2	Defeat the Raider Boss.	打败掠夺者首领。
-QuestLoc_ShotgunWedding_QuestShortDescription	Rescue the kidnapped Vault Dweller from the Raider Boss.	从掠夺者首领手中拯救被绑架的居民。
+QuestLoc_ShotgunWedding_QuestShortDescription	Rescue the kidnapped Vault Dweller from the Raider Boss.	从掠夺者首领手中拯救被绑架的避难所居民。
 QuestLoc_ShotgunWedding_RaiderLine_1	You won't be crashin' this wedding!	你们休想破坏这个婚礼！
 QuestLoc_SignalFailure_Conversation_1_NPCStart_1	Look at that. An old note. Gosh. It looks pre-war.	快看那个，一张旧的便条，感觉像是战前的。
 QuestLoc_SignalFailure_Conversation_1_NPCStart_2	“Received our Mr. Handy today. We're going to need to get this thing up and running quick if we're going to get the repairs done in time.”	“今天我们的巧手先生到了。要想按时把维修做完，就得赶紧让这家伙运转起来。”
@@ -11306,7 +11312,7 @@ QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_1	Hey, to each their o
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_2	Likewise, smoothskin.	你也一样，“光滑皮肤”们！
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_3	Good luck! You'll need it!	祝你好运！你会需要它的！
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCEnd_4	Cause my daddy raised me right! Also, because I still have a fairly intact amygdala.	因为我父亲把我养得好！还有，我的杏仁核还算完好。
-QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_1	Vault Dwellers! Why you snoopin' around?	避难所居民！你们在找什么？
+QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_1	Vault Dwellers! Why you snoopin' around?	避难所居民！你们到处打探什么？
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_2	You're not looking for that purloined pooch by any chance, are you?	你们不会在找那只被偷来的狗吧？
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_3	Better hurry! The Ferals are about to feast!	快点！狂尸鬼们准备开饭了！
 QuestLoc_TheCaseoftheCapturedCanine_Conversation_1_NPCStart_4	Raw dog. Disgusting. Now roasted cat... yum!	生狗肉。真恶心。烤熟的猫肉……美味！
@@ -12100,7 +12106,7 @@ QuestLoc_Vault199_Conversation_1_NPCStart_1	You got here just in time! We weren'
 QuestLoc_Vault199_Conversation_1_NPCStart_2	Some people say 199 is pretty cheap when it comes to Vaults, but we love her all the same.	有些人说199号作为避难所来说太简陋了。但我们还是一样喜欢它！
 QuestLoc_Vault199_Conversation_1_NPCStart_3	It's easy when you've nowhere else to go!	对于无家可归的人来说已经很好了！
 QuestLoc_Vault199_Conversation_1_Team_1	Has a dog named Bigsby stopped by here?	有只叫做比格斯比的狗来过这里？
-QuestLoc_Vault199_QuestLongDescription	The Raiders mentioned Bigsby may have fled to Vault 199. I should go ask around. Hopefully, the Dwellers have him.	掠夺者有提到比格斯比可能逃到了199号避难所。我应该去四处打听一下。但愿居民们收留了它。
+QuestLoc_Vault199_QuestLongDescription	The Raiders mentioned Bigsby may have fled to Vault 199. I should go ask around. Hopefully, the Dwellers have him.	掠夺者有提到比格斯比可能逃到了199号避难所。我应该去四处打听一下。但愿居民们抓住了他。
 QuestLoc_Vault199_QuestName	Vault 199	199号避难所
 QuestLoc_Vault199_QuestObjective_1	Find Bigsby.	找到比格斯比。
 QuestLoc_Vault199_QuestShortDescription	Look for Bigsby in Vault 199.	前往199号避难所寻找比格斯比。
@@ -12112,7 +12118,7 @@ QuestLoc_Vault789_QuestName	Vault 789	789号避难所
 QuestLoc_Vault789_QuestObjective_1	Explore Vault 789.	探索789号避难所。
 QuestLoc_Vault789_QuestShortDescription	Time to check out Vault 789!	是时候拜访下789号避难所了！
 QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCEnd_1	No, I'm a ghost! Booooooo!	不，我是一只鬼！吓死你——！
-QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCEnd_2	Muwhahaha! Take this and run, little Dwellers!	哇哈哈哈！拿着这个赶紧逃命吧，小可怜们！
+QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCEnd_2	Muwhahaha! Take this and run, little Dwellers!	哇哈哈哈！拿着这个赶紧逃命吧，小居民们！
 QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCEnd_3	Ha! You can't hurt us! Wait... Ow!	哈！你们不能伤害我们！等等……嗷！
 QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCStart_1	You're too late, Dwellers!	避难所居民们，你们来得太迟了！
 QuestLoc_VaultTecExperimentReviewA_Conversation_1_NPCStart_2	This Vault is full of nothing but ghosts!	这个避难所里只剩下鬼了！
@@ -12161,7 +12167,7 @@ QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCEnd_1	All I have is this, b
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCEnd_2	This is our uniform. Take one.	这是我们的制服，给你一套。
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCEnd_3	Fine. Take all you need.	好吧，拿走你们所有想要的东西吧。
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCEnd_4	I like it. Here you are.	我很喜欢，给你吧。
-QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCStart_1	Hello, fellow Dwellers.	大家好呀，各位避难所的居民们。
+QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCStart_1	Hello, fellow Dwellers.	大家好呀，各位居民。
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCStart_2	I'm the Overseer and Master Spy for this Vault.	我是监督者，是这个避难所里的王牌间谍。
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCStart_3	Secrets are our trade! But we're happy to give you goods.	我们用秘密来做交易！但我们也很乐意给你们一些物品。
 QuestLoc_VaultTecExperimentReviewB_Conversation_3_NPCStart_4	What can we send you back with?	我们能回赠你们一些什么？
@@ -12860,7 +12866,7 @@ Room_Overseer_3	OVERSEER'S COMMAND CENTER	监督者指挥中心
 Room_Overseer_Build	Build an OVERSEER'S OFFICE?	建造一个监督者办公室？
 Room_Overseer_Desc	SEND DWELLERS ON QUESTS FROM HERE	从这里派遣居民去完成任务
 Room_Overseer_Upgrade_Level2	Send Dwellers out on 2 Quests at a time	可同时派遣居民执行两个任务
-Room_Overseer_Upgrade_Level3	Send Dwellers out on 3 Quests at a time	可同时派遣居民执行三个任务
+Room_Overseer_Upgrade_Level3	Send Dwellers out on 3 Quests at a time	可同时派遣居民执行 3 个任务
 Room_Radio	RADIO STUDIO	广播室
 Room_Radio_2	RADIO STATION	广播站
 Room_Radio_3	BROADCAST CENTER	广播中心
@@ -12962,6 +12968,7 @@ SeasonModal_Leaderboard_ConnectionError	Unable to load Leaderboard data due to c
 SeasonModal_Leaderboard_Disabled	Friends list and leaderboard are disabled due to your device account settings.	由于您的设备账户设置，好友列表和排行榜已被禁用。
 SeasonModal_Leaderboard_InvalidAndroidPrivacySetting	Leaderboards are unavailable because of your Google Play privacy settings.	由于您的 Google Play 隐私设置，无法获取排行榜。
 SeasonModal_Leaderboard_Loading	The leaderboard is still loading. Please try again in a moment.	排行榜仍在加载中，请稍后再试。
+SeasonModal_Leaderboard_NotConnected	Unable to load Leaderboard data because you are not connected to the internet.	由于您未连接到互联网，无法加载排行榜数据。
 SeasonModal_Leaderboard_RewardsLabel	REWARDS	奖励
 SeasonModal_Leaderboard_ScoreInfoPopup_AcquireDwellers	Acquire Dwellers	获得居民
 SeasonModal_Leaderboard_ScoreInfoPopup_ActionsList_Enclave	"• Build Rooms
@@ -13103,6 +13110,8 @@ Deposit Nuka Cola Quantum in current vault?"	"您实验避难所中未使用的�
 
 将量子核子可乐存入当前避难所？"
 Seasons_Message_UnclaimedRewardsBlurb	The experiment was a success! Unclaimed rewards have been added to this vault	实验成功了！未领取的奖励已加入此避难所。
+SendBugReport_Instructions	Describe the issue you experienced. Along with your feedback, we will receive data about the state of your game.	请描述您遇到的问题。除您的反馈外，我们还会收到有关您游戏状态的数据。
+SendBugReport_ReportSubmitted	Thank you for reporting your issue. Player feedback helps us identify areas for improvement and track issues that are difficult to reproduce, making the game better for everyone.	感谢您报告问题。玩家的反馈有助于我们找到可改进之处，并追踪那些难以复现的问题，让游戏对所有人都更好。
 Shared_ButtonText	SHARE YOUR PHOTO!	分享照片！
 Shared_ButtonText_PC	SAVE YOUR PHOTO	保存照片
 Shared_ButtonText_Xbox	SAVE YOUR PHOTO	保存照片
@@ -14870,7 +14879,7 @@ Tutorial_Tip_34	Upgrading your Vault entrance will make it harder for invaders t
 Tutorial_Tip_35	Need extra CAPS? You can sell weapons and outfits from your Vault storage.	需要额外的瓶盖吗？您可以卖掉储藏室里的武器和装备。
 Tutorial_Tip_36	Higher level Dwellers with high SPECIAL have a better chance of surviving in the Wasteland.	SPECIAL属性高的高等级居民更容易在废土生存下来。
 Tutorial_Tip_37	You can sort the Dweller list by tapping on the column names.	您可以通过点击居民栏上的名字来整理居民列表。
-Tutorial_Tip_37_PC	You can sort the Dweller list by clicking on the column names.	您可以通过点击居民栏上的名字来整理居民列表。
+Tutorial_Tip_37_PC	You can sort the Dweller list by clicking on the column names.	您可以通过点击列名来对居民列表排序。
 Tutorial_Tip_37_Xbox	You can sort the Dweller list by selecting column names with [LB] and [RB].	您可以通过和选择列表的列名，为居民列表排序。
 Tutorial_Tip_38	Tap on the resource bars at the top of the screen for more details on your resource storage.	点击屏幕顶部的资源条可以了解更多资源储存的细节。
 Tutorial_Tip_38_PC	Click on the resource bars at the top of the screen for more details on your resource storage.	点击屏幕顶部的资源条可以了解更多资源储存的细节。
@@ -14887,7 +14896,7 @@ Tutorial_Tip_43	Radio rooms attract new Dwellers and improve the happiness in yo
 Tutorial_Tip_44	A nuclear winter is cold, keep warm with Vault-Tec!	核冬天很冷，让避难所科技为您保暖！
 Tutorial_Tip_45	Vault-Tec. We'll be there!	避难所科技。我们会与你们同在！
 Tutorial_Tip_46	Rooms must be the same level in order to be merged.	相同等级的房间才能合并。
-Tutorial_Tip_47	Vault-Tec rules limit Vault capacity to 200 Dwellers.	避难所科技规定避难所的最大容量是200人。
+Tutorial_Tip_47	Vault-Tec rules limit Vault capacity to 200 Dwellers.	避难所科技规定避难所最多容纳200位居民。
 Tutorial_Tip_48	Send Mr. Handy to the Wasteland to collect CAPS and items.	将巧手先生派到废土上可以收集瓶盖和物品。
 Tutorial_Tip_49	You can only have one Mr. Handy assigned to a floor at a time. (Vault-Tec rules)	一层只能分配一个巧手先生。（避难所科技规定）
 Tutorial_Tip_50	Mole rats start in rooms that are touching dirt and can spread throughout your Vault.	鼹鼠会从紧挨着泥土的房间开始出现，还可能蔓延到整个避难所。
@@ -15470,7 +15479,7 @@ Weapon_Name_FatMan_Guided	Guided Fat Man	引导型胖子核弹
 Weapon_Name_FatMan_Hardened	Hardened Fat Man	硬化型胖子核弹
 Weapon_Name_FatMan_Mirv	MIRV	分导式多弹头核弹
 Weapon_Name_FatMan_Rusty	Rusty Fat Man	生锈的胖子核弹
-Weapon_Name_FireHydrantBat	Fire Hydrant Bat	消防栓球棒
+Weapon_Name_FireHydrantBat	Fire Hydrant Bat	消防栓
 Weapon_Name_Fist	Fist	拳头
 Weapon_Name_Flamer	Flamer	火焰喷射器
 Weapon_Name_Flamer_Burnmaster	Burnmaster	燃烧大师火焰喷射器

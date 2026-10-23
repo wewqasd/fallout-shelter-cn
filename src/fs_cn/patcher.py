@@ -21,7 +21,7 @@
     # result = {"ok":bool, "patched_terms":N, "fallback":M, "skipped":K,
     #           "fonts":N, "fontmanagers":N, "static_labels":N, "size":N, "msg":str}
 """
-import UnityPy, struct, json, os, sys, shutil, hashlib, re, ntpath
+import UnityPy, struct, json, os, sys, shutil, hashlib, re, ntpath, time as _time
 from datetime import datetime
 from collections import defaultdict, Counter
 from . import resources
@@ -33,6 +33,73 @@ ANCHORS = [
     b"Attention",
     b"Baby_NewBabyArrived",
 ]
+
+# ---------------- 进度事件（结构化，向后兼容纯文本回调） ----------------
+# 阶段权重：按 2.7.0 实测耗时占比折算（总≈180s），用于「总进度」条平滑推进。
+STAGE_WEIGHTS = {
+    "load":    0.09,   # UnityPy.load 481MB
+    "parse":   0.02,   # I2 定位 / 前置校验
+    "rebuild": 0.02,   # I2 重建
+    "font":    0.31,   # 字体替换
+    "labels":  0.04,   # FontManager / UILabel / 静态标签
+    "save":    0.52,   # 写回 530MB
+}
+STAGE_NAMES = {
+    "load":   "载入数据包", "parse": "解析文本表", "rebuild": "重建文本表",
+    "font":   "替换中文字体", "labels": "修正界面控件", "save": "写回数据包",
+}
+_STAGE_ORDER = ["load", "parse", "rebuild", "font", "labels", "save"]
+
+
+class Progress:
+    """结构化进度上报器。
+
+    - ``stage(name, msg)``        进入某阶段（总进度按权重推进）
+    - ``step(cur, total, msg)``   阶段内进度
+    - ``text(msg)``               普通日志行
+
+    兼容旧用法：外部若传入只接收单个字符串的函数，自动退化为纯文本回调。
+    """
+
+    def __init__(self, cb=None, echo_print=False):
+        self.cb = cb
+        self.echo = echo_print
+        self._acc = 0.0            # 已完成阶段权重和
+
+    def _emit(self, kind, **kw):
+        if self.echo and kw.get("msg"):
+            print(kw["msg"], flush=True)
+        if self.cb is None:
+            return
+        try:
+            self.cb(kind=kind, **kw)
+        except TypeError:
+            # 旧式回调：只接受一个字符串位置参数
+            msg = kw.get("msg", "")
+            if msg:
+                try:
+                    self.cb(str(msg))
+                except Exception:
+                    pass
+
+    def stage(self, name, msg=None):
+        base = self._acc
+        w = STAGE_WEIGHTS.get(name, 0.0)
+        self._emit("stage", stage=name, label=STAGE_NAMES.get(name, name),
+                   weight=w, base=base, msg=msg or STAGE_NAMES.get(name, name))
+        self._acc += w
+
+    def step(self, cur, total, msg=None):
+        frac = (cur / total) if total else 0.0
+        self._emit("step", cur=cur, total=total,
+                   frac=max(0.0, min(1.0, frac)),
+                   msg=msg or f"{cur}/{total}")
+
+    def text(self, msg, detail=False):
+        """普通日志行。detail=True 表示「仅排查时有用」的过程明细，
+        GUI 可将其只写入折叠区，不打扰主界面。"""
+        self._emit("text", msg=str(msg), detail=bool(detail))
+
 
 # ---------------- I2 解析（同 v3.1 已验证逻辑） ----------------
 def iskey(b): return bool(b) and all(32 <= c < 127 for c in b)
@@ -160,9 +227,14 @@ _BASE_CLASS_FIELD_LEN = 132     # m_Name 结束 → mFontTypografy（UIRect+UIWi
 _FORCE_AFTER_TEXT = 136         # mText 结束对齐 → mForceTrueTypeFont（mFontSize..mMultiline 共136B）
 
 def force_label_true_type(objs, script_map, af_ext, progress=None):
-    def log(m):
-        if progress: progress(str(m))
-        else: print(m, flush=True)
+    def log(m, detail=False):
+        # progress 可能是 Progress 实例、结构化回调或旧式 fn(str)
+        if isinstance(progress, Progress):
+            progress.text(m, detail=detail)
+        elif progress:
+            progress(str(m))
+        else:
+            print(m, flush=True)
 
     # 每 asset 的外部文件数（fileID 合法性上界）
     ext_len = {k: len(v) for k, v in af_ext.items()}
@@ -217,7 +289,8 @@ def force_label_true_type(objs, script_map, af_ext, progress=None):
                 assigned += 1; changed = True
         if changed:
             o.set_raw_data(bytes(patch))
-    log(f"UILabel render pinned: scanned={scanned} forced={forced} assigned={assigned} 结构异常跳过={bad}")
+    log(f"UILabel render pinned: scanned={scanned} forced={forced} assigned={assigned}"
+        + (f" 结构异常跳过={bad}" if bad else ""), detail=True)
     return forced, assigned, scanned, bad
 
 # ---------------- 前置校验 ----------------
@@ -236,35 +309,38 @@ _BRACKET = re.compile(r'\[[a-zA-Z0-9 ]+\]')       # 任何 [xx] 形 token
 def segs(s): return [x for x in s.split('\n') if x.strip()]
 
 def validate_translation(key, zh, en):
-    """返回 (硬问题列表, 警告列表)。硬问题 = {0} 占位符不一致（唯一会中止的）。"""
+    """返回 (硬问题列表, 警告列表)。
+
+    硬问题 = {0} 占位符不一致（唯一会中止的）。
+    警告   = 仅保留「真可能出问题」的情形：
+               · EN 有按键标记，但 ZH 既无 PUA 字形也未保留原标记（可能漏标）
+            以下设计内自适应情形**不再报警**（曾造成 70 条噪音，实测 0 条真问题）：
+               · 换行段数不同（中文分段本来就会变）
+               · 括号 token 差异（[A]→PUA 字形 是预期替代）
+    """
     fatal, warns = [], []
     # ---- 硬项：{0} 占位符集合必须一致（真结构损坏）----
     if set(_PH.findall(zh)) != set(_PH.findall(en)):
         fatal.append(f"占位符 {{0}} 不一致: ZH={sorted(set(_PH.findall(zh)))} EN={sorted(set(_PH.findall(en)))}")
-    # ---- 警告项（设计内自适应，不中止）----
-    # 换行段数
-    if len(segs(zh)) != len(segs(en)):
-        warns.append(f"换行段数 {len(segs(zh))} != {len(segs(en))}")
-    # 括号 token：EN 按键标记在 ZH 中应被 PUA 字形替代或删去
+    # ---- 警告项：只报按键标记真丢失 ----
     en_tok = set(_BRACKET.findall(en))
     zh_tok = set(_BRACKET.findall(zh))
     en_markers = en_tok & _MARKER_TOKENS
     zh_pua = [p for p in _PUA if p in zh]
     if en_markers and (zh_tok & en_markers) != en_markers and not zh_pua:
-        # EN 的按键标记既没保留、也没用 PUA 替换 —— 可能是漏标，仅警告
         warns.append(f"按键标记可能丢失: EN={sorted(en_markers)} ZH 无对应 PUA 字形")
-    # 其余括号 token 差异（如 [Content line 2]→[内容线2]）仅警告
-    if en_tok != zh_tok:
-        warns.append(f"括号 token 差异: EN={sorted(en_tok)} ZH={sorted(zh_tok)}")
     return fatal, warns
 
 # ---------------- 主手术 ----------------
 def patch_bundle(src, out, translations, font_bytes=None,
                  allow_unmatched=False, validate=True, packer="lz4",
                  progress=None, archive=False):
-    def log(msg):
-        if progress: progress(str(msg))
-        else: print(msg, flush=True)
+    # progress 可为：None / 旧式 fn(str) / 结构化 fn(kind=..., **kw)
+    # 一律包成 Progress；无回调时打印到 stdout（CLI 行为不变）
+    ep = progress if isinstance(progress, Progress) else Progress(progress, echo_print=(progress is None))
+
+    def log(msg, detail=False):
+        ep.text(msg, detail=detail)
 
     result = {"ok": False, "msg": "", "warnings": 0, "warn_keys": []}
 
@@ -294,11 +370,18 @@ def patch_bundle(src, out, translations, font_bytes=None,
         raise ValueError("font_bytes 不能为空")
 
     # ---- 1) 载入 ----
+    try:
+        _size_mb = os.path.getsize(src) / 1e6
+    except OSError:
+        _size_mb = 0
+    ep.stage("load", f"正在载入数据包（{_size_mb:.0f} MB），首次载入较慢，请耐心等待…")
     env = UnityPy.load(src)
+    ep.step(1, 1, "数据包已载入")
     objs = list(env.objects)
-    log(f"对象数: {len(objs)}")
+    log(f"对象数: {len(objs)}", detail=True)
 
     # ---- 2) I2: 按内容锚点定位（多锚点，pid 无关）----
+    ep.stage("parse", "正在定位文本表…")
     best = None; used_anchor = None
     for anchor in ANCHORS:
         for o in objs:
@@ -313,12 +396,12 @@ def patch_bundle(src, out, translations, font_bytes=None,
     obj, raw = best
     n = len(raw)
     terms, last_pos, LC, first = parse_terms(raw, used_anchor)
-    log(f"I2: 锚点={used_anchor.decode()} pid={obj.path_id} file={obj.assets_file.name} terms={len(terms)} LC={LC}")
+    log(f"I2: 锚点={used_anchor.decode()} pid={obj.path_id} file={obj.assets_file.name} terms={len(terms)} LC={LC}", detail=True)
 
     # ---- 3) 前置校验（基于包内 EN，版本自适应）----
     if validate:
         pkg_en = {t[0].decode('ascii'): t[2][0] for t in terms}   # vals[0] = EN 槽
-        log("前置校验：译文结构标记 vs 包内 EN …")
+        log("前置校验：译文结构标记 vs 包内 EN …", detail=True)
         fatal, warn_keys = [], []
         for k, zh in translations.items():
             if not zh: continue
@@ -333,12 +416,13 @@ def patch_bundle(src, out, translations, font_bytes=None,
             if len(fatal) > 10: msg += f"\n  … 共 {len(fatal)} 键"
             raise ValueError(msg)
         if warn_keys:
-            log(f"前置校验通过（{0} 占位符全部一致）。自适应警告 {len(warn_keys)} 条（换行/按键标记/括号文本，不影响写回）:")
-            for k, x in warn_keys[:8]:
+            # 只有「按键标记真丢失」这类真问题才会走到这里（设计内自适应已不再报警）
+            log(f"注意: {len(warn_keys)} 条译文的按键标记可能丢失（不影响汉化，可忽略）:")
+            for k, x in warn_keys[:5]:
                 log(f"  {k}: {x}")
-            if len(warn_keys) > 8: log(f"  … 共 {len(warn_keys)} 条警告")
+            if len(warn_keys) > 5: log(f"  … 共 {len(warn_keys)} 条")
         else:
-            log(f"前置校验通过（{len(translations)} 条译文结构完全一致，无警告）")
+            log(f"译文校验通过（{len(translations)} 条）")
         # 版本情报：包内 EN vs 基准 EN（notes）差异 → 游戏可能已更新
         en_changed = []
         if resources.en_lookup:
@@ -366,7 +450,10 @@ def patch_bundle(src, out, translations, font_bytes=None,
 
     header = raw[0:first]; footer = raw[last_pos:]
     rebuilt = bytearray(header); fallback = 0; patched = 0; skipped = 0
-    for keyb, fc0, vals, tail in terms:
+    ep.stage("rebuild", f"正在重建文本表（共 {len(terms)} 条）…")
+    _n_terms = len(terms)
+    _next_tick = max(1, _n_terms // 20)
+    for _i, (keyb, fc0, vals, tail) in enumerate(terms, 1):
         key = keyb.decode('ascii')
         zh = translations.get(key)
         if zh:
@@ -376,21 +463,29 @@ def patch_bundle(src, out, translations, font_bytes=None,
             new_vals = vals          # 缺省回退：保留原文（新版本新增 term）
             fallback += 1
         rebuilt += rebuild_term(keyb, fc0, new_vals, len(vals), tail)
+        if _i % _next_tick == 0 or _i == _n_terms:
+            ep.step(_i, _n_terms, f"重建文本表 {_i}/{_n_terms}")
     rebuilt += footer
     obj.set_raw_data(bytes(rebuilt))
-    log(f"I2 rebuilt: {len(rebuilt)}B  写入 {patched} 条  缺译保留原文 {fallback} 条")
+    log(f"I2 rebuilt: {len(rebuilt)}B  写入 {patched} 条  缺译保留原文 {fallback} 条", detail=True)
 
     # ---- 4) 字体: 全部 Font → CJK ----
+    font_objs = [o for o in objs if o.type.name == 'Font']
+    n_all = len(font_objs)
+    ep.stage("font", f"正在替换中文字体（共 {n_all} 个，每个约 10 MB，请耐心等待）…")
     nf = 0
-    for fobj in objs:
-        if fobj.type.name != 'Font': continue
+    for fobj in font_objs:
+        # 先报「正在处理第 n 个」，再执行（单个字体写入耗时较长，先出提示避免空等）
+        ep.step(nf, n_all, f"正在写入字体 {nf + 1}/{n_all}（每个约 10 MB）…")
         fo = fobj.read()
         fo.m_FontData = list(font_bytes)
         fo.save()
         nf += 1
-    log(f"fonts replaced: {nf}")
+        ep.step(nf, n_all, f"已完成字体 {nf}/{n_all}")
+    log(f"fonts replaced: {nf}", detail=True)
 
     # ---- 5) FontManager: 按类名定位，customFonts 非空 PPtr 置零 ----
+    ep.stage("labels", "正在修正界面控件字体引用…")
     script_map = build_script_map(objs)
     af_ext = build_af_ext(objs)
     fm_patched = 0
@@ -416,17 +511,20 @@ def patch_bundle(src, out, translations, font_bytes=None,
         if total:
             o.set_raw_data(bytes(patch))
         fm_patched += 1
-    log(f"FontManagers scanned: {fm_patched}（非空 custom 引用已置零）")
+    log(f"FontManagers scanned: {fm_patched}（非空 custom 引用已置零）", detail=True)
     if fm_patched == 0:
-        log("警告: 未找到 FontManager（MonoScript 类名可能已变），字体引用未清理 — 若游戏内字体异常请留意")
+        log("注意: 未找到 FontManager（MonoScript 类名可能已变），字体引用未清理 — 若游戏内字体异常请留意")
 
     # ---- 5b) UILabel 渲染路径钉死（对标对方 forced 2807 / assigned 29，零 typetree）----
     forced_labels, assigned_labels, labels_scanned, labels_bad = force_label_true_type(
-        objs, script_map, af_ext, progress=log)
+        objs, script_map, af_ext, progress=ep)
 
-    # ---- 6) REACH NOW → 现在到达（内容定位，等长块）----
+    # ---- 6) 快捷按钮硬编码标签 REACH NOW → 立即到达 ----
+    # 注：I2 表里的 Button_QuantumSkip 已由第 3 步译为「立即到达」；
+    #     但 UI 上还有一处硬编码 UILabel（level254）I2 够不着，需单独等长块替换。
+    #     两者译文必须一致（均用「立即到达」，4 汉字 = 12 字节，与 16 字节块对齐）。
     old_block = struct.pack("<i", 9) + b"REACH NOW" + b"\x00\x00\x00"
-    new_block = struct.pack("<i", 12) + "现在到达".encode("utf-8")
+    new_block = struct.pack("<i", 12) + "立即到达".encode("utf-8")
     assert len(old_block) == len(new_block) == 16
     rn = 0
     for o in objs:
@@ -435,9 +533,8 @@ def patch_bundle(src, out, translations, font_bytes=None,
         if old_block in raw:
             o.set_raw_data(raw.replace(old_block, new_block))
             rn += 1
-    log(f"REACH NOW → 现在到达: {rn} 处")
     if rn == 0:
-        log("警告: 未找到 REACH NOW 文本（内容可能已变），跳过该处替换")
+        log("注意: 未找到 REACH NOW 硬编码标签（可能已被官方改动或已在 I2 表中），跳过该项", detail=True)
 
     # ---- 7) 静态 UILabel 英文替换 ----
     STATIC_LABELS = [
@@ -477,17 +574,46 @@ def patch_bundle(src, out, translations, font_bytes=None,
         if n_hit:
             o.set_raw_data(new_raw)
             static_patched += n_hit
-    log(f"static EN labels replaced: {static_patched}")
+    log(f"static EN labels replaced: {static_patched}", detail=True)
     if static_patched == 0:
-        log("警告: 静态标签 0 处（内容可能已变），跳过该处替换")
+        log("注意: 未找到静态标签（内容可能已变），跳过该步", detail=True)
 
     # ---- 8) 保存 ----
     d_now = getattr(obj, "data", None)
-    assert d_now is not None and len(d_now) == len(rebuilt) and "现在到达".encode() in d_now, \
+    assert d_now is not None and len(d_now) == len(rebuilt) and "立即到达".encode() in d_now, \
         f"I2 重写丢失！当前 data 大小: {len(d_now) if d_now else None}"
     outdir = os.path.dirname(os.path.abspath(out)) or "."
     os.makedirs(outdir, exist_ok=True)
-    env.save(packer, outdir)
+
+    # 写回是整包 LZ4 压缩 + 落盘，UnityPy 内部无进度回调，耗时可达总时长的 ~50%。
+    # 用后台心跳线程按「已用时间/预估时长」推进阶段进度，避免界面长时间静止被误判为卡死。
+    import threading as _th
+    ep.stage("save", "正在压缩并写回数据包（约需 1-2 分钟，请勿关闭窗口）…")
+    _stop = _th.Event()
+    _t0 = _time.time()
+
+    def _watch():
+        # 写回耗时与整包体积近似成正比，但受磁盘波动影响大（531MB 实测 60~250s），
+        # 且 UnityPy 内部无进度回调。用单调渐近曲线 CAP·(1-e^(-t/T))：
+        #   · 严格单调递增 —— 进度条绝不回退
+        #   · 封顶 95% —— 留出余量，绝不提前跑满（真实完成时才由主流程拉到 100%）
+        #   · 按体积估算时间常数 T（约 6 MB/s）—— 大体贴合真实进度
+        import math as _math
+        CAP = 0.95
+        T = max(25.0, len(rebuilt) / 6.0e6) * 0.8
+        while not _stop.wait(0.5):
+            el = _time.time() - _t0
+            frac = CAP * (1.0 - _math.exp(-el / T))
+            ep.step(frac, 1.0, f"压缩并写回数据包… 已用 {el:.0f}s")
+
+    _w = _th.Thread(target=_watch, daemon=True)
+    _w.start()
+    try:
+        env.save(packer, outdir)
+    finally:
+        _stop.set()
+        _w.join(timeout=3)
+
     # UnityPy save 输出文件名 = 源 bundle 的文件名（ntpath.basename）；多个文件时取最大的新文件
     saved = os.path.join(outdir, ntpath.basename(src))
     if not os.path.exists(saved):
@@ -497,7 +623,8 @@ def patch_bundle(src, out, translations, font_bytes=None,
     if os.path.abspath(saved) != os.path.abspath(out):
         shutil.move(saved, out)
     size = os.path.getsize(out)
-    log(f"saved: {out} {size}B")
+    ep.step(1, 1, f"写回完成（{size/1e6:.0f} MB）")
+    log(f"saved: {out} {size}B", detail=True)
 
     result.update({
         "ok": True,

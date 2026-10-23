@@ -4,8 +4,8 @@
 [![Release](https://img.shields.io/github/v/release/wewqasd/fallout-shelter-cn)](https://github.com/wewqasd/fallout-shelter-cn/releases)
 [![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 
-《辐射避难所》Steam 版（Bethesda，版本 2.6.0，无官方中文）的汉化项目：14064 条文本，
-直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
+《辐射避难所》Steam 版（Bethesda，无官方中文）的汉化项目：**14073 条文本**，
+基准版本 **2.7.0**（兼容 2.6.0），直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
 
 ## 汉化效果
 
