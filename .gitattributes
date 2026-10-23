@@ -1,0 +1,27 @@
+# 统一行尾为 LF —— 保证跨平台（Linux 本地 / Windows CI）构建可复现。
+#
+# 背景：GitHub Actions 的 windows-latest runner 默认 core.autocrlf=true，
+# 会把文本文件检出成 CRLF。data/translations.json 被 PyInstaller 内嵌后
+# 每行多一个 \r（14073 行 → +14074 字节），导致 CI 与本地构建的 EXE md5 不一致。
+# 下面显式指定 eol=lf 后，两边内嵌资源逐字节相同。
+
+# 默认：自动识别文本，统一 LF
+* text=auto eol=lf
+
+# 源代码 / 数据：强制 LF
+*.py    text eol=lf
+*.json  text eol=lf
+*.tsv   text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+*.toml  text eol=lf
+*.spec  text eol=lf
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+
+# 二进制资源：不做任何行尾转换
+*.ttf   binary
+*.ico   binary
+*.png   binary
+*.exe   binary
+*.unity3d binary

@@ -22,9 +22,12 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
+        # 版本固定：避免 CI 每次解析到最新的 PyInstaller / 传递依赖，
+        # 造成产物体积与 md5 无谓漂移（详见 .gitattributes 的可复现性说明）。
         run: |
           py -3.12 -m pip install --upgrade pip
-          py -3.12 -m pip install unitypy==1.25.3 pyinstaller
+          py -3.12 -m pip install "unitypy==1.25.3" "pyinstaller==6.22.3" "pyinstaller-hooks-contrib==2026.9"
+          py -3.12 -m pip list
 
       - name: Build EXE (PyInstaller)
         run: py -3.12 -m PyInstaller --noconfirm --clean tools\build_exe.spec
