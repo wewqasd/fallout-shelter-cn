@@ -51,7 +51,7 @@ jobs:
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 
       - name: Record build info
-        # 产物指纹写进 BUILD_INFO.txt（随 artifact 分发）和 Job Summary（便于核对）
+        # 产物指纹只写 Job Summary（内部核对用，不随发布物分发）
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force dist | Out-Null
@@ -71,7 +71,6 @@ jobs:
             "md5=$md5"
             "sha256=$sha"
           )
-          $lines | Set-Content -Encoding utf8 dist\BUILD_INFO.txt
           $lines | Out-File -Append -Encoding utf8 $env:GITHUB_STEP_SUMMARY
 
       - name: Upload EXE to Release asset
@@ -83,13 +82,11 @@ jobs:
         run: |
           TAG="${{ github.event.release.tag_name || inputs.release_tag }}"
           echo "上传到 Release: $TAG"
-          gh release upload "$TAG" dist/FalloutShelterCN.exe dist/BUILD_INFO.txt --clobber
+          gh release upload "$TAG" dist/FalloutShelterCN.exe --clobber
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: FalloutShelterCN.exe
-          path: |
-            dist/FalloutShelterCN.exe
-            dist/BUILD_INFO.txt
+          path: dist/FalloutShelterCN.exe
           if-no-files-found: error
