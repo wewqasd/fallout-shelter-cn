@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 
 《辐射避难所》Steam 版（Bethesda，无官方中文）的汉化项目：**14073 条文本**，
+写入时再补 **20 条原版缺失的词条**（共 14093 条 term，见「常见问题·内部名称」），
 基准版本 **2.7.0**（兼容 2.6.0），直接修改游戏资源实现，并提供零依赖一键汉化 EXE（对游戏版本自适应）。
 
 ## 汉化效果
@@ -53,6 +54,11 @@
 - **游戏更新后汉化失效怎么办？** 重新运行 `FalloutShelterCN.exe` 即可——工具对游戏版本自适应，新版本新增的文本会保留英文原文，不会报错。
 - **怎么还原原版？** EXE 版：汉化前自动备份 `data.unity3d.bak.v5`，点「一键还原」即可；覆盖版：覆盖前请自行备份原文件。
 - **如何确认下载的文件完整？** 用 Release 页面提供的 md5 校验；EXE 可运行 `FalloutShelterCN.exe --selfcheck` 做无头自检。
+- **每日目标里出现 `QuestMeleeScorched` 这类英文内部名？** 原版对这 10 种敌人
+  （`Scorched`/`Securitron`/`Enclave` 系列/`Gen1Synth`/`Gen2Synth`/三种 `Quest…Scorched`）
+  没有配可翻译的敌人名条目，游戏会回退打印内部枚举名——**英文原版同样如此**，与汉化无关。
+  **v5.14 起**的汉化包会把缺的词条直接补进文本表（`data/extra_terms.json`，20 条），
+  重跑一次汉化即可消除；旧版汉化包请更新后重新汉化。
 
 ## 来源声明与免责声明
 
@@ -75,7 +81,7 @@
 ├── src/fs_cn/      # 运行时包：patcher（手术核心）/ resources（资源加载）/ game_dir / gui
 ├── scripts/        # 开发工具：extract_i2（提取）/ build_font（字体构建）/ make_pairs（对照生成）
 ├── tools/          # EXE 打包：build_exe.spec / build_exe.bat
-├── data/           # translations.json/.tsv（翻译表）+ en_zh_pairs.tsv（中英对照）+ i2_dump.json（EN 参考）
+├── data/           # translations.json/.tsv（翻译表）+ extra_terms.json（补录词条）+ en_zh_pairs.tsv + i2_dump.json（EN 参考）
 ├── assets/         # 中文字体 noto_sans_sc_cn.ttf（OFL + FONT.md 说明）+ 图标
 ├── docs/           # technical.md（解包/字体/压缩/打包原理）
 └── pyproject.toml  # 包定义与依赖（unitypy==1.25.3）

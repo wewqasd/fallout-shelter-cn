@@ -172,6 +172,60 @@ def rebuild_term(keyb, flags_cat, vals, langcnt, tail):
     out += tail
     return out
 
+def rebuild_i2_table(raw, terms, first, last_pos, LC, translations,
+                     extra_terms=None, step=None):
+    """按解析结果重建 I2 文本表（header + 逐条 term + footer）→ (bytes, patched, fallback, added)。
+
+    - translations：权威翻译表 {key: 中文}；包内没有的 key 不在此处处理（调用方已做拦截）。
+    - extra_terms：**新增词条** {key: 中文}（游戏包里本来没有、需要补进去的术语，
+      典型如 2.7.0 三种辐尸人的 `<EnumName>_Name` / `_Plural`）。
+      * 包里**已存在**该 key → 仅当 translations 没有时才用它（覆盖译文）；
+      * 包内**不存在** → 追加一条全新 term，并同步 header 里的 term 计数
+        （Unity 的 List<TermData> 计数，位于首条 term 长度前缀之前 4 字节）。
+    - step：可选进度回调 step(i, total)。
+    """
+    merged = dict(translations)
+    extras = {k: v for k, v in (extra_terms or {}).items()
+              if k and not k.startswith("_") and v}
+    for k, v in extras.items():
+        merged.setdefault(k, v)
+
+    pkg_keys = {t[0].decode('ascii') for t in terms}
+    header = raw[0:first]; footer = raw[last_pos:]
+    out = bytearray(header)
+    patched = fallback = 0
+    total = len(terms)
+
+    # 新增词条：**插在第一条 term 之后**（而不是表尾）。
+    # 原因：parse_terms 对「最后一条 term」只能靠无后继 key 的宽松试探，
+    # 表尾再插入会让最后一条 term 的 flags/category 边界解析漂移（已实测），
+    # 保持原表最后一条不变 → 二次汉化（幂等）仍然稳定。
+    new_keys = [k for k in sorted(extras) if k not in pkg_keys]
+    added = len(new_keys)
+    tpl_fc, tpl_tail = terms[0][1], terms[0][3]     # 第一条 term（锚点）实测为空 category
+    for t in terms:
+        if t[1] == b'\x00' * 8:                     # 优先克隆「无 category」的结构
+            tpl_fc, tpl_tail = t[1], t[3]; break
+
+    for i, (keyb, fc0, vals, tail) in enumerate(terms, 1):
+        zh = merged.get(keyb.decode('ascii'))
+        if zh:
+            new_vals = [zh] * len(vals); patched += 1
+        else:
+            new_vals = vals          # 缺省回退：保留原文
+            fallback += 1
+        out += rebuild_term(keyb, fc0, new_vals, len(vals), tail)
+        if i == 1:
+            for k in new_keys:
+                out += rebuild_term(k.encode('ascii'), tpl_fc, [extras[k]] * LC, LC, tpl_tail)
+        if step is not None:
+            step(i, total)
+
+    if added:
+        struct.pack_into('<i', out, first - 4, total + added)
+    out += footer
+    return bytes(out), patched, fallback, added
+
 # ---------------- 定位辅助 ----------------
 def current_raw(o):
     """读对象当前数据：set_raw_data 过的用 self.data，否则读原始字节。"""
@@ -334,7 +388,7 @@ def validate_translation(key, zh, en):
 # ---------------- 主手术 ----------------
 def patch_bundle(src, out, translations, font_bytes=None,
                  allow_unmatched=False, validate=True, packer="lz4",
-                 progress=None, archive=False):
+                 progress=None, archive=False, extra_terms=None):
     # progress 可为：None / 旧式 fn(str) / 结构化 fn(kind=..., **kw)
     # 一律包成 Progress；无回调时打印到 stdout（CLI 行为不变）
     ep = progress if isinstance(progress, Progress) else Progress(progress, echo_print=(progress is None))
@@ -448,26 +502,20 @@ def patch_bundle(src, out, translations, font_bytes=None,
             )
         log(f"警告: 跳过 {len(deleted)} 个表有包无的 term（版本更新删除/改名）: {preview}")
 
-    header = raw[0:first]; footer = raw[last_pos:]
-    rebuilt = bytearray(header); fallback = 0; patched = 0; skipped = 0
     ep.stage("rebuild", f"正在重建文本表（共 {len(terms)} 条）…")
     _n_terms = len(terms)
     _next_tick = max(1, _n_terms // 20)
-    for _i, (keyb, fc0, vals, tail) in enumerate(terms, 1):
-        key = keyb.decode('ascii')
-        zh = translations.get(key)
-        if zh:
-            new_vals = [zh] * len(vals)
-            patched += 1
-        else:
-            new_vals = vals          # 缺省回退：保留原文（新版本新增 term）
-            fallback += 1
-        rebuilt += rebuild_term(keyb, fc0, new_vals, len(vals), tail)
-        if _i % _next_tick == 0 or _i == _n_terms:
-            ep.step(_i, _n_terms, f"重建文本表 {_i}/{_n_terms}")
-    rebuilt += footer
-    obj.set_raw_data(bytes(rebuilt))
-    log(f"I2 rebuilt: {len(rebuilt)}B  写入 {patched} 条  缺译保留原文 {fallback} 条", detail=True)
+
+    def _tick(_i, _total):
+        if _i % _next_tick == 0 or _i == _total:
+            ep.step(_i, _total, f"重建文本表 {_i}/{_total}")
+
+    rebuilt, patched, fallback, added = rebuild_i2_table(
+        raw, terms, first, last_pos, LC, translations,
+        extra_terms=extra_terms, step=_tick)
+    obj.set_raw_data(rebuilt)
+    log(f"I2 rebuilt: {len(rebuilt)}B  写入 {patched} 条  缺译保留原文 {fallback} 条"
+        + (f"  新增词条 {added} 条" if extra_terms else ""), detail=True)
 
     # ---- 4) 字体: 全部 Font → CJK ----
     font_objs = [o for o in objs if o.type.name == 'Font']
@@ -674,6 +722,7 @@ def patch_bundle(src, out, translations, font_bytes=None,
         "ok": True,
         "patched_terms": patched,
         "fallback": fallback,
+        "added": added,
         "skipped": len(deleted) if deleted and allow_unmatched else 0,
         "fonts": nf,
         "fontmanagers": fm_patched,
@@ -686,6 +735,7 @@ def patch_bundle(src, out, translations, font_bytes=None,
         "warnings": len(warn_keys) if validate else None,
         "en_changed": len(en_changed) if validate else None,
         "msg": f"完成：写入 {patched} 条，缺译保留原文 {fallback} 条，字体 {nf}，静态标签 {static_patched}"
+               + (f"，新增词条 {added} 条" if added else "")
                + (f"，机器人名 {robot_named}" if robot_named else "")
                + (f"，自适应警告 {len(warn_keys)} 条" if warn_keys else "")
                + (f"，EN变化 {len(en_changed)} 条" if en_changed else ""),

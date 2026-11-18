@@ -40,6 +40,12 @@ def main():
         return 1
     terms, _last, LC, _first = patcher.parse_terms(raw, anchor)
     cn = json.load(open(table, encoding="utf-8"))
+    # 新增词条（data/extra_terms.json）：原版缺失、由汉化补进去的术语
+    extra_path = os.path.join(ROOT, "data", "extra_terms.json")
+    extra = {}
+    if os.path.isfile(extra_path):
+        extra = {k: v for k, v in json.load(open(extra_path, encoding="utf-8")).items()
+                 if not k.startswith("_") and v}
     vals = {t[0].decode("ascii"): t[2] for t in terms}
     # 空值条目（表内故意留空 = 保留原文）不参与核对
     missing = [k for k in cn if cn[k] and k not in vals]
@@ -49,7 +55,15 @@ def main():
     for s in ("定居者", "奶油小马", "战斗装甲", "每日任务", "保护者机器人", "领头死爪"):
         n = sum(1 for k, zh in cn.items() if s in zh and k in vals and any(v == zh for v in vals[k]))
         print(f"  含『{s}』且已写入: {n}")
-    if missing or wrong:
+    extra_missing = [k for k, zh in extra.items() if k not in vals]
+    extra_wrong = [k for k, zh in extra.items() if k in vals and not any(v == zh for v in vals[k])]
+    if extra:
+        print(f"新增词条: {len(extra)} 条  缺失={len(extra_missing)}  不一致={len(extra_wrong)}")
+        if extra_missing:
+            print("  缺失样例:", extra_missing[:5])
+        if extra_wrong:
+            print("  不一致样例:", extra_wrong[:5])
+    if missing or wrong or extra_missing or extra_wrong:
         print("!! 未完全写入；缺失样例:", missing[:5], " 不一致样例:", wrong[:5])
         return 1
     print(f"校验通过：翻译表 {len(cn)} 条全部写入包内")

@@ -22,7 +22,7 @@ from tkinter import filedialog, messagebox, scrolledtext, ttk
 
 from . import __version__
 from .patcher import patch_bundle, STAGE_WEIGHTS, STAGE_NAMES
-from .resources import load_default_resources
+from .resources import load_default_resources, load_extra_terms
 from .game_dir import find_game_dir, backup_bundle, restore_bundle
 
 # Windows 控制台编码兼容：selfcheck 输出中文时，cp1252 等旧编码会抛
@@ -298,12 +298,13 @@ class App:
         # 2) 手术
         try:
             cn, font = load_default_resources()
+            extra = load_extra_terms()
             bundle = os.path.join(g, "FalloutShelter_Data", "data.unity3d")
             result = patch_bundle(
                 src=bundle, out=bundle,      # 原地改写（已备份到 .bak.v5）
                 translations=cn, font_bytes=font,
                 allow_unmatched=False, validate=True, packer="lz4",
-                progress=self._prog_cb,
+                progress=self._prog_cb, extra_terms=extra,
             )
         except ValueError as e:
             self._set_busy(False)
@@ -325,7 +326,8 @@ class App:
         self.stage_var2.set(100.0)
         self.total_lbl.configure(text="总进度 100%")
         self.stage_var.set("✓ 汉化完成，可从 Steam 启动游戏")
-        self.detail_var.set(f"写入 {result['patched_terms']} 条 · 缺译保留原文 "
+        self.detail_var.set(f"写入 {result['patched_terms']} 条 · 新增 "
+                            f"{result.get('added', 0)} 条 · 缺译保留原文 "
                             f"{result['fallback']} 条 · 字体 {result['fonts']}")
         self.q.put("\n===== 汉化完成 =====")
         self.q.put(f"写入 {result['patched_terms']} 条 | 缺译保留原文 {result['fallback']} 条"
@@ -404,7 +406,8 @@ def selfcheck(bundle_dir):
         print(f"对 {b} 做一次汉化（原地）…")
         r = patch_bundle(src=b, out=b, translations=cn, font_bytes=font,
                          allow_unmatched=False, validate=True, packer="lz4",
-                         progress=lambda m: print("  ", m, flush=True))
+                         progress=lambda m: print("  ", m, flush=True),
+                         extra_terms=load_extra_terms())
         print("RESULT:", r)
     print("自检通过 ✓")
 

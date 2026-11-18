@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fs-cn"
-version = "5.13.1"
+version = "5.14.0"
 description = "《辐射避难所》Steam 版中文汉化（源码构建版）"
 readme = "README.md"
 requires-python = ">=3.10"

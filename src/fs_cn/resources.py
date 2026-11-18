@@ -19,6 +19,22 @@ def resource_base():
     return os.path.abspath(os.path.join(here, "..", ".."))   # 仓库根
 
 
+def load_extra_terms():
+    """加载「新增词条」表（data/extra_terms.json）：原版包里缺失、需要补进去的术语。
+
+    文件不存在时返回空 dict（旧包/旧 EXE 向前兼容）；以 _ 开头的键视为注释忽略。
+    """
+    root = resource_base()
+    path = os.path.join(root, "data", "extra_terms.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return {}
+    return {k: v for k, v in data.items()
+            if isinstance(k, str) and not k.startswith("_") and isinstance(v, str) and v}
+
+
 def load_default_resources():
     """加载翻译表 + EN 源 + 字体字节；供 CLI/GUI 复用。源码/EXE 通用。"""
     global en_lookup

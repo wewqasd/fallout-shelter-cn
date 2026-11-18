@@ -7,6 +7,7 @@ SPECPATH 相对路径保证任意 cwd 可打包。
   入口   src/fs_cn_main.py （包外入口，启动 fs_cn.gui；fs_cn 包含 patcher/resources/game_dir）
   data/translations.json    翻译表 (14073 键)
   data/i2_dump.json         I2 全量 dump / EN 源（供结构校验，2.6.0 基准）
+  data/extra_terms.json     新增词条（原版缺失的敌人名 term，写包时追加）
   assets/noto_sans_sc_cn.ttf  中文字体 (OFL，可再分发)
 """
 import os
@@ -18,6 +19,7 @@ _ROOT = os.path.abspath(os.path.join(SPECPATH, ".."))
 datas = [
     (os.path.join(_ROOT, "data", "translations.json"), "data"),
     (os.path.join(_ROOT, "data", "i2_dump.json"), "data"),
+    (os.path.join(_ROOT, "data", "extra_terms.json"), "data"),
     (os.path.join(_ROOT, "assets", "noto_sans_sc_cn.ttf"), "assets"),
 ]
 

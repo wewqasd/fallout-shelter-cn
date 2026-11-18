@@ -1,0 +1,25 @@
+{
+  "_说明": "新增词条（游戏包里本来没有、由汉化补进去的术语）。键 = I2 term 名，值 = 中文；以 _ 开头的键仅为注释、不会被写入。当前内容用于修复 2.7.0「辐射极琉矿」赛季起每日任务里敌人名显示内部枚举值的问题：RequirementKillEnemy.ExtraParameters() 会查 `<EEnemyType 枚举名>_Name` / `_Name_Plural`，而原版表里这 10 种敌人没有对应词条，缺失时游戏回退为打印枚举名（如 QuestMeleeScorched）。",
+  "_规则": "只放「原版缺失的 term」；已存在的 term 仍以 data/translations.json 为准（本表仅在 translations 没有该键时才作为覆盖值）。",
+
+  "Scorched_Name": "辐尸人",
+  "Scorched_Name_Plural": "辐尸人",
+  "Securitron_Name": "保安机器人",
+  "Securitron_Name_Plural": "保安机器人",
+  "Enclave_Name": "英克雷",
+  "Enclave_Name_Plural": "英克雷",
+  "EnclaveSecurity_Name": "英克雷保安",
+  "EnclaveSecurity_Name_Plural": "英克雷保安",
+  "EnclavePowerArmor_Name": "英克雷动力装甲",
+  "EnclavePowerArmor_Name_Plural": "英克雷动力装甲",
+  "Gen1Synth_Name": "一代合成人",
+  "Gen1Synth_Name_Plural": "一代合成人",
+  "Gen2Synth_Name": "二代合成人",
+  "Gen2Synth_Name_Plural": "二代合成人",
+  "QuestMeleeScorched_Name": "近战辐尸人",
+  "QuestMeleeScorched_Name_Plural": "近战辐尸人",
+  "QuestGunnerScorched_Name": "枪手辐尸人",
+  "QuestGunnerScorched_Name_Plural": "枪手辐尸人",
+  "QuestHeavyScorched_Name": "重型辐尸人",
+  "QuestHeavyScorched_Name_Plural": "重型辐尸人"
+}

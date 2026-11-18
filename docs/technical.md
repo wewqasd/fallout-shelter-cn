@@ -219,6 +219,7 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
 | term 名匹配 | 全语言槽写中文（14073 条中的 14067 条） |
 | 表有、包无（旧 term 被删/改名） | 默认**中止**；`--allow-unmatched` 跳过并汇报 |
 | 包有、表无（版本新增 term） | **保留原文英文**，`fallback` 计数汇报 |
+| 包内**本来没有**、需要补进去的新增词条（`data/extra_terms.json`） | **追加新 term** 并同步 term 计数，`added` 计数汇报（见 4.3） |
 | 原文本身为空串 | 同样计入 `fallback`（2.7.0 有 6 条，如 `Speech_Room_SomeoneHappy1`、
 `MrHandyDialog_StorageRoom_01`；游戏内本就是空，无内容可译） |
 | 换行/按键标记/括号文本与包内 EN 差异 | **仅警告**（设计内自适应，见 4.2） |
@@ -236,6 +237,40 @@ NGUI UILabel 的 MonoBehaviour 字节布局（6000.0.58 离线校准）：
   - 括号 token 差异（如 `[Content line 2]` → `[内容线2]`）。
 - **版本情报**：包内 EN 与基准 `i2_dump.json` 有差异的 term 数 → `en_changed`
   汇报（游戏可能已更新）。校验基于**包内实际 EN**，所以版本更新后依然准确。
+
+### 4.3 新增词条：补「原版就没有」的 term（extra_terms）
+
+有些界面文本**不是**直接取表里的词条，而是由代码拼出 term 名再查表；表里没有就
+回退打印内部标识。典型例子是每日/每周目标的「敌人名」占位符：
+
+```csharp
+// RequirementKillEnemy.ExtraParameters()（Assembly-CSharp 反编译）
+array[0] = ScriptLocalization.Get(m_enemyTypeTarget.ToString() + "_Name_Plural"); // 目标数 >1
+array[0] = ScriptLocalization.Get(m_enemyTypeTarget.ToString() + "_Name");        // 目标数 =1
+if (string.IsNullOrEmpty(array[0])) array[0] = m_enemyTypeTarget.ToString();      // ← 泄漏点
+```
+
+- `EEnemyType` 里 `Scorched / Securitron / Enclave / EnclaveSecurity / EnclavePowerArmor /
+  Gen1Synth / Gen2Synth / QuestMeleeScorched / QuestGunnerScorched / QuestHeavyScorched`
+  这 10 个枚举值在原版 2.6.0 / 2.7.0 以及官方安卓中文包里**都没有** `_Name` / `_Name_Plural`
+  词条（其余 10 种敌人都有，如 `Ghoul_Name` / `Ghoul_Name_Plural`）；
+- 因此 `m_isRandom` 的击杀目标随机到这些敌人时，游戏就打印枚举名本身
+  （如「不用武器消灭13个QuestMeleeScorched」）——**与语言/汉化无关，英文原版同样如此**；
+- 汉化包可以直接**补上这些 term**：`data/extra_terms.json`（`{"<term>": "中文"}`，
+  以 `_` 开头的键是注释）由 `rebuild_i2_table` 追加进表，查找即可命中。
+
+实现要点（`src/fs_cn/patcher.py::rebuild_i2_table`）：
+
+| 点 | 做法 | 原因 |
+|---|---|---|
+| 插入位置 | **插在第一条 term 之后**，不追加到表尾 | `parse_terms` 对「最后一条 term」只能做无后继 key 的宽松试探；表尾插入会让最后一条 term 的 flags/category 边界漂移，破坏二次汉化的幂等性 |
+| 结构模板 | 克隆包里第一条 **空 category** 的 term 的 `flags+category` 与尾部两个 int 数组 | 实测各 term 的 category 不同（如 `NewVegasB_26_09-…`），空 category 与 `Ghoul_Name` 一致最稳 |
+| term 计数 | 同步改写 header 里 `first-4` 处的 `int32` 计数（Unity 的 `List<TermData>` 计数） | 不改计数，游戏只读到原条数，新词条等于没写 |
+| 已存在同名 term | 以 `translations.json` 为准，本表仅作覆盖值 | 将来官方补了词条，仍可被汉化覆盖，不会重复插入 |
+
+离线回归：`python tests/test_extra_terms.py`（合成最小 I2 blob 验证插入/计数/尾部/幂等）；
+成品校验：`python tools/verify_bundle.py <data.unity3d> data/translations.json`
+（会同时核对 `extra_terms.json` 是否全部写入）。
 
 ## 5. 其他手术
 
