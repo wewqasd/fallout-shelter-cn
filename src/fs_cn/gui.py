@@ -393,7 +393,9 @@ def selfcheck(bundle_dir):
     print(f"frozen={getattr(sys, 'frozen', False)} meipass={getattr(sys, '_MEIPASS', 'N/A')}")
     # 1) 资源
     cn, font = load_default_resources()
-    print(f"资源: translations={len(cn)} font={len(font)}B  font_md5={hashlib.md5(font).hexdigest()[:12]}")
+    extra = load_extra_terms()
+    print(f"资源: translations={len(cn)} extra_terms={len(extra)} font={len(font)}B  "
+          f"font_md5={hashlib.md5(font).hexdigest()[:12]}")
     # 2) UnityPy (含 Boost)
     import UnityPy
     import UnityPy.UnityPyBoost as boost
